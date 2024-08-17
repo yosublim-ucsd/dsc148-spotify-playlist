@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-189 songs - 13 hr 11 min
+190 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [As Time Goes By](https://open.spotify.com/track/43b0lDxUoOWdsMWrdfT6hY) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/7foiLbQUOIK8kzTuKtd4to) | 2:34 | 2019-05-26\* | 2022-04-02 |
 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 | 2022-05-02 |  |
 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 | 2019-05-26\* |  |
-| [At First Sight](https://open.spotify.com/track/3sjSo2etr9DK4JB4ggltzZ) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [At First Sight](https://open.spotify.com/album/3uDgaXaKCqobkfTVUYZkrB) | 5:24 | 2024-07-19 |  |
+| [At First Sight](https://open.spotify.com/track/3sjSo2etr9DK4JB4ggltzZ) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [At First Sight](https://open.spotify.com/album/3uDgaXaKCqobkfTVUYZkrB) | 5:24 | 2024-07-19 | 2024-08-17 |
 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 | 2019-05-26\* |  |
 | [At Long Last Love \- Live](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 | 2022-02-04 | 2023-01-12 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2020-09-25 |  |
@@ -193,6 +193,7 @@
 | [Wild Is Love](https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Wild Is Love](https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec) | 3:42 | 2024-07-19 |  |
 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 | 2021-02-12 |  |
 | [You Belong to My Heart \- Solamente Una Vez](https://open.spotify.com/track/7IUYvQDgywrHpTehfaHOvc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [You Belong to My Heart \- Solamente Una Vez](https://open.spotify.com/album/7daMPUkYLqvy8wdAIWyFo9) | 2:43 | 2019-05-26\* | 2022-06-01 |
+| [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 | 2024-08-16 |  |
 | [You Go to My Head](https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX) | [Live Foyn Friis](https://open.spotify.com/artist/4dZ1woIhLE3Y92MRKhr8af), [Bård Helgerud](https://open.spotify.com/artist/2GMYgVdLfQj8frPJDRLkvh), [Rodrigo Villagra](https://open.spotify.com/artist/0RgfOjYOuHTiBygi9BwAzv), [Magnus Sefaniassen Eide](https://open.spotify.com/artist/6S5pM5PQo4Z7dv6xUE8Ahw) | [Live Sings Sassy](https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr) | 6:16 | 2022-03-10 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 4:08 | 2022-05-02 |  |
 | [You're All That Matters To Me](https://open.spotify.com/track/1jdr7bSQLHztdLqdoNbi7Y) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [You're All That Matters To Me](https://open.spotify.com/album/0zaSi5KF33ZQZHZZCNxiao) | 5:58 | 2022-02-23 | 2022-07-29 |

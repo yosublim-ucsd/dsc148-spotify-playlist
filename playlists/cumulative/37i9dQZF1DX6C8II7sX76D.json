@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6"
+    },
+    {
+      "album": {
         "name": "Give It To Me",
         "url": "https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5"
       },
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"

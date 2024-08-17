@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Some bops to take the pain of homework away.",
+  "description": "Music to take the pain of homework away.",
   "name": "homework vibes",
   "tracks": [
     {
@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
@@ -8626,7 +8626,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 185552,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
@@ -10284,6 +10284,24 @@
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg"
+    },
+    {
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "album": {
@@ -12358,6 +12376,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "album": {
+        "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+        "url": "https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "we can\u2019t be friends (wait for your love) - Spotify Singles (Live from Spotify House)",
+      "url": "https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3"
     },
     {
       "album": {

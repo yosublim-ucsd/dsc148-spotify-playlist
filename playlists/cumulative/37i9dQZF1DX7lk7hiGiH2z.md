@@ -4,7 +4,7 @@
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-380 songs - 17 hr 47 min
+381 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Das rote Pferd](https://open.spotify.com/track/1t5E8PFRGX9XJGsRWBVOEd) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für Karneval und Fasching \- EP](https://open.spotify.com/album/3I7arjO3aIZ8rwLdLJChzF) | 1:40 | 2024-02-10 | 2024-02-16 |
 | [Das Schneeglöckchen](https://open.spotify.com/track/6LfAr70Pm7LzeQhZXCWKFu) | [Katharina Blume](https://open.spotify.com/artist/0TlcU6fYXkRWNSENlFSl4Y), [Christian König](https://open.spotify.com/artist/6Dgp0ZVwXyJx6M0Na3jTLK) | [Die 40 besten Fingerspiel\-Lieder](https://open.spotify.com/album/2VchLiBoh6mOEH6CnEt4Dq) | 1:06 | 2024-03-01 | 2024-06-03 |
 | [Das singende Känguru](https://open.spotify.com/track/5OlmZ9ZHOUREPYqa81fZFo) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Partylieder für Kinder](https://open.spotify.com/album/1yu8g81F2kZ96GM5rw5Y5Y) | 3:25 | 2024-02-06 | 2024-02-16 |
-| [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 | 2023-06-28 |  |
+| [Das Sommertier](https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Das Sommertier](https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz) | 2:27 | 2023-06-28 | 2024-08-17 |
 | [Das Stopptanz Lied](https://open.spotify.com/track/2VLjKFmoIcfRHSviWzVBqo) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Tanz\- und Partylieder](https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R) | 2:22 | 2024-02-06 | 2024-02-16 |
 | [Das tanzende Alpaka \(Alpaka Song\)](https://open.spotify.com/track/6HA0YUji2p8YD9VZ4jnd3z) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/7GG2q94m8WC2EHoQVo84dD) | 2:10 | 2024-03-01 | 2024-04-19 |
 | [Das tanzende Alpaka \(Alpaka Song\)](https://open.spotify.com/track/2gkSpXiwGVUFHYnu0cqZgL) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Otti Stubs](https://open.spotify.com/artist/6lHHUYCm8z6Ufox7tb54mB) | [Willkommen auf dem singenden Bauernhof](https://open.spotify.com/album/3wLSysao77de2dU8k8Tp7x) | 2:10 | 2023-06-28 | 2024-04-30 |
@@ -364,6 +364,7 @@
 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 | 2023-06-28 |  |
 | [Wenn die Fledermäuse tanzen](https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo) | [Nena](https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV) | [Nena Und Die Bambus Bären Bande](https://open.spotify.com/album/5zMipqCNwLqTYXMSo3qJpa) | 2:42 | 2023-10-16 | 2023-11-06 |
 | [Wenn es Frühling wird im Hasenland](https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Hasengeschichte \- Die Lieder](https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt) | 2:37 | 2024-03-01 | 2024-06-03 |
+| [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 | 2024-07-12 |  |
 | [Wenn Monster tanzen](https://open.spotify.com/track/3VSmTFC8aXgHXaAHm8MBSE) | [Körperklaus](https://open.spotify.com/artist/3bNx1ltylwrKGmVI2I0zsg) | [Wackeldackel Hitparade](https://open.spotify.com/album/6E0XZUnRSEr8QjWvjGwtEs) | 3:31 | 2023-10-16 | 2023-11-06 |
 | [Wer hilft jetzt dem Weihnachtsmann?](https://open.spotify.com/track/3BqKpjxNJidrnE6S4pgj9k) | [Keks & Kumpels](https://open.spotify.com/artist/2W6UwHeegSNuolXHmMGX2X) | [Hits für Kids im Winter](https://open.spotify.com/album/5VT5dIWNXWFTBhwIl1WAM6) | 2:50 | 2023-11-14 | 2023-12-30 |
 | [Wickie \(Titellied\)](https://open.spotify.com/track/4eZjGXmOMZZ5YFS0efibn7) | [Christian Bruhn](https://open.spotify.com/artist/2yooWDszjKIoSiu44pfwa2) | [TV Friends Forever \- TV Hits For Kids](https://open.spotify.com/album/2VoLPjDdXS5pSaMvCMqUw3) | 2:04 | 2024-02-06 | 2024-02-16 |

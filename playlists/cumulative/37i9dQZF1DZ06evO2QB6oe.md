@@ -2,7 +2,7 @@
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This is Pedro Capó\. The essential tracks, all in one playlist.
+> This is Pedro Capó\. Track\-track unggulan, semuanya dalam satu playlist.
 
 58 songs - 3 hr 12 min
 
@@ -58,7 +58,7 @@
 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 | 2023-11-10 |  |
 | [Suspendidos en el Tiempo](https://open.spotify.com/track/7IW01SDxiAhmWo97uUL4dg) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Suspendidos en el Tiempo](https://open.spotify.com/album/6VxidvTiyw1RUxJFWq05Hx) | 3:33 | 2023-11-10 |  |
 | [Te Olvidaré](https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:05 | 2023-11-10 |  |
-| [Tequila Pa'la Razón](https://open.spotify.com/track/1iPNaaePlxFzTJyqpoaaPv) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Guerra de Idolos \(Banda Sonora Original\)](https://open.spotify.com/album/1PQFi6jnjNMrAOSeIHyd7v) | 3:11 | 2023-11-10 |  |
+| [Tequila Pa'la Razón](https://open.spotify.com/track/1iPNaaePlxFzTJyqpoaaPv) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7), [Christian Pagán](https://open.spotify.com/artist/2xdAxBwqgTeQmJs5CZwC4Z) | [Guerra de Idolos \(Banda Sonora Original\)](https://open.spotify.com/album/1PQFi6jnjNMrAOSeIHyd7v) | 3:11 | 2023-11-10 | 2024-08-17 |
 | [Todo Bien](https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 3:20 | 2023-11-10 |  |
 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 | 2023-11-10 |  |
 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 | 2023-11-10 |  |

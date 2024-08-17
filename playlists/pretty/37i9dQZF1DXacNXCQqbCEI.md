@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,232 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,244 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 54 | [Ofelia \- Cerrero Dub Mix](https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m) | [Sexteto Tabala](https://open.spotify.com/artist/60wAaCoI8B70QF8vjKY70c), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [Ofelia \(Cerrero Dub Mix\)](https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K) | 4:01 |
 | 55 | [No Soy Tu Princesa \- Remix](https://open.spotify.com/track/5mRscP08EbnCmAuMnMhQa1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Verito Asprilla](https://open.spotify.com/artist/38bNWh48s9AsoYUtdojwPm) | [No Soy Tu Princesa \(Remix\)](https://open.spotify.com/album/1Lx4HEkkQ9ZZFybJWErPCX) | 3:10 |
 | 56 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 |
-| 57 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
-| 58 | [Bambú](https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb), [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK) | [Bambú](https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw) | 4:06 |
+| 57 | [Bambú](https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7) | [Killabeatmaker](https://open.spotify.com/artist/37wP9xRIgEc1Bb25jvRjQb), [Papá Kumbé](https://open.spotify.com/artist/5p1MGIt0C8dtKjIjpIUFhK) | [Bambú](https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw) | 4:06 |
+| 58 | [Agüita del Equilibrio \- Remix](https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN) | [Agüita del Equilibrio \(Remix\)](https://open.spotify.com/album/43lARNcRvw8swQlr54FofW) | 4:47 |
 | 59 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 60 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
 

@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Appel",
+        "url": "https://open.spotify.com/album/47XA0xqqt706pZSbdnMBZx"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Appel",
+      "url": "https://open.spotify.com/track/2X6IZMbyXdaOIt76fnDouA"
+    },
+    {
+      "album": {
         "name": "Abri de fortune (pour fin du monde)",
         "url": "https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO"
       },
@@ -7490,7 +7508,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 197740,
       "name": "Les s\u00e9cheresses du Sahara",
       "url": "https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv"

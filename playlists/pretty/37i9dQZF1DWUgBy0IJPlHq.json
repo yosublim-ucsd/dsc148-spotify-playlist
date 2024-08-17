@@ -1,12 +1,12 @@
 {
   "description": "A new shade of Country. Cover: Charley Crockett",
-  "num_followers": 525033,
+  "num_followers": 525105,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAARgDRvj78xrVdAx2ogBnyh",
+  "snapshot_id": "Zr7OwAAAAAAqMaQBrWy0LPQHuwA+uTdk",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -61,6 +61,46 @@
       "url": "https://open.spotify.com/track/3YHqVMXjpWw7xqI5MoQIUV"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 186861,
+      "name": "Never Love You Again (Feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sober Sundays",
+        "url": "https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 250768,
+      "name": "Sober Sundays",
+      "url": "https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "The Great American Bar Scene",
@@ -91,26 +131,6 @@
       "duration_ms": 203920,
       "name": "Plastic Horses",
       "url": "https://open.spotify.com/track/32ExqTpuJs802zScWQt209"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sober Sundays",
-        "url": "https://open.spotify.com/album/1UYX5uec1lJJMf01haehiZ"
-      },
-      "artists": [
-        {
-          "name": "The Castellows",
-          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
-        },
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 250768,
-      "name": "Sober Sundays",
-      "url": "https://open.spotify.com/track/0RINbw97uN5KZ1BFprCNDj"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -299,6 +319,22 @@
       "duration_ms": 177228,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Thus Spoke the Fool",
+        "url": "https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "duration_ms": 184985,
+      "name": "Going to Water",
+      "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1471,26 +1507,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Change Of Heart",
-        "url": "https://open.spotify.com/album/6UrqZ5ZhjJRBA2LcyaXxOc"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 223123,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Northwest",
         "url": "https://open.spotify.com/album/7sfdAh5oRQDPknCjqS3Eqt"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 231837,
       "name": "This Life",
       "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "High Top Mountain",
-        "url": "https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 126466,
-      "name": "Life Ain't Fair and the World Is Mean",
-      "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
     },
     {
       "added_at": "2024-07-26 04:00:00",

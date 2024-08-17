@@ -2,9 +2,9 @@
 
 ### [Shoegaze & Dreampop en español](https://open.spotify.com/playlist/37i9dQZF1DX7QM9rGRCxSN)
 
-> Belleza y distorsión imaginada por bandas iberoamericanas\. Silver Rose en portada.
+> Belleza y distorsión imaginada por bandas iberoamericanas\. Petit Amie en portada.
 
-117 songs - 7 hr 49 min
+119 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 | 2023-09-04 | 2024-06-29 |
 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 | 2023-04-28 |  |
 | [Bluish Lovers](https://open.spotify.com/track/7bAgqzxHXdcvxMWN4DfKcP) | [Sexores](https://open.spotify.com/artist/4LqOXSYI0OCSIk8GxajZrd) | [East / West](https://open.spotify.com/album/7eTirWcgYZoa5sUMh8OElD) | 4:24 | 2023-11-24 | 2024-01-03 |
-| [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 | 2023-01-26 |  |
+| [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 | 2023-01-26 | 2024-08-17 |
 | [Camino de Luces](https://open.spotify.com/track/5I93GjZkHOlcpw3QVTdiKe) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP), [Vaya Futuro](https://open.spotify.com/artist/3v8X0m4yk7Arhcu2YcG7E5) | [Camino de Luces](https://open.spotify.com/album/02hgy9GKf5LK2fd3h3gsas) | 3:37 | 2023-05-05 | 2023-11-21 |
 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 | 2024-01-02 |  |
 | [Ceremonia](https://open.spotify.com/track/4E7o5iEkv5jl7NIvXfcUUV) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Margaritas Podridas](https://open.spotify.com/album/4dbNoziUmHyqx6CIPAic9t) | 4:59 | 2023-05-05 | 2024-04-19 |
@@ -40,7 +40,7 @@
 | [El Brillo de Tu Ausencia](https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [El Brillo de Tu Ausencia](https://open.spotify.com/album/5t1Uw2qWVVMCAzmHwwdT02) | 4:12 | 2022-09-07 | 2023-03-28 |
 | [El Lago Del Alma](https://open.spotify.com/track/59kj2ypafaGxDX0yDZrNqW) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [El Lago Del Alma](https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW) | 2:17 | 2024-02-02 |  |
 | [El Primero](https://open.spotify.com/track/4cIDUCqPKBoFmpYhb3iKU9) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [El Primero](https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H) | 3:11 | 2023-01-30 | 2023-12-14 |
-| [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 |  |
+| [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 | 2022-08-29 | 2024-08-17 |
 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 | 2021-10-19 | 2023-04-25 |
 | [Espacio Pequeño](https://open.spotify.com/track/0A0zDB4nPLy6HyfX4yix3J) | [princesa cereza](https://open.spotify.com/artist/607kbpXirULyTo1jdRtooo) | [Espacio Pequeño](https://open.spotify.com/album/2heNAEQnKqh1K7ITQqcgbx) | 4:46 | 2022-07-01 | 2023-03-10 |
 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 | 2022-04-22 | 2023-05-20 |
@@ -56,6 +56,7 @@
 | [Granada](https://open.spotify.com/track/2PNFx0BBZpmK1uBm9On8tw) | [Los Marcianos](https://open.spotify.com/artist/22vPwyMSQGGxwRKounapT9), [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [Granada](https://open.spotify.com/album/2ahPIh1leGLmuF1uIU7idK) | 3:02 | 2023-05-05 | 2024-02-03 |
 | [Grandes Éxitos](https://open.spotify.com/track/4djRckO6cTstWk8dQpazpI) | [manza / Mariano Esain](https://open.spotify.com/artist/0XkmUhX2g7S8uPV4DJs0V7) | [Inventario](https://open.spotify.com/album/0Q1Dn8Cn4IRyt7HmfhjklD) | 4:47 | 2023-11-24 | 2024-01-03 |
 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 | 2021-10-19 |  |
+| [Hay Veces](https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hay Veces](https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7) | 3:06 | 2024-08-16 |  |
 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 | 2021-10-19 |  |
 | [I Can Show You Wonders](https://open.spotify.com/track/59nLZfSfprwxAA2NeESxey) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [I Can Show You Wonders](https://open.spotify.com/album/5BLy1t6Xz0XNBrHN2VIMeM) | 2:45 | 2022-08-01 | 2023-06-13 |
 | [Irreversible](https://open.spotify.com/track/38z5KrUcctFXAzlnJn17Po) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Irreversible](https://open.spotify.com/album/7FXTluzMcjabwUhWZoOcU6) | 3:39 | 2023-11-24 | 2024-01-03 |
@@ -111,6 +112,7 @@
 | [Stillness](https://open.spotify.com/track/5tR2FyaJKP5pV3XgEQua46) | [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Stillness](https://open.spotify.com/album/4c3lu3c9sTY23iK13rdjl7) | 4:08 | 2024-06-28 |  |
 | [Sueño Aerostático](https://open.spotify.com/track/2d0fMQiWdIzaXH8WVJ9SlC) | [Silvania](https://open.spotify.com/artist/2ZAHar7rLXdAzqRaB9GQeU) | [Solineide Says \(1991\-1993\)](https://open.spotify.com/album/5kULee5TGyEwLJylXpl64j) | 3:41 | 2021-10-19 | 2023-04-23 |
 | [Sueños \- Sentidos Apuestos Remix](https://open.spotify.com/track/3moIc947HyYzgtCY6W4weR) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS), [Sentidos Apuestos](https://open.spotify.com/artist/7fbgniu4fyTZ9iKKTFWMcb) | [Sueños \(Sentidos Apuestos Remix\)](https://open.spotify.com/album/05ZZm9ckA9Yf9Xgt8Ijyrj) | 4:33 | 2024-06-07 | 2024-06-15 |
+| [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 | 2024-08-16 |  |
 | [Sálvame](https://open.spotify.com/track/27tshI1j4jX347xUP8zFeZ) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Sálvame](https://open.spotify.com/album/2ybfm8UkHqZOLw1vvF2hfd) | 4:45 | 2023-11-24 | 2024-01-03 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2021-10-19 |  |
 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 | 2023-03-24 |  |

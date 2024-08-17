@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoL6ZoD9KnI.md) - [plain]
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,409 likes - 71 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,467 likes - 71 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

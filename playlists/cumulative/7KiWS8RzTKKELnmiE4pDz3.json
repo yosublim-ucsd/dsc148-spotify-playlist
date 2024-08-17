@@ -6469,6 +6469,28 @@
     },
     {
       "album": {
+        "name": "KEEP IT COOL",
+        "url": "https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "KEEP IT COOL",
+      "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
+    },
+    {
+      "album": {
         "name": "Me Myself & I",
         "url": "https://open.spotify.com/album/13WTY3Gwax7hLHpNhX4vVI"
       },

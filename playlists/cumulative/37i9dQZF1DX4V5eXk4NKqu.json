@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "The best of Latin Indie today, featuring Buscabulla.",
+  "description": "The best of Latin Indie today, featuring Little Jesus.",
   "name": "Top Latin Indie",
   "tracks": [
     {
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223621,
       "name": "Cortes Modernos",
       "url": "https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX"
@@ -1274,6 +1274,28 @@
       "duration_ms": 182546,
       "name": "dejarse querer",
       "url": "https://open.spotify.com/track/7KhHnFkcoacjF6zyMxr8U8"
+    },
+    {
+      "album": {
+        "name": "Destrucci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200842,
+      "name": "Destrucci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
     },
     {
       "album": {
@@ -1764,7 +1786,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 247080,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/6mzfxrGB40oY442Pc5SW6t"
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 287613,
       "name": "Incendio de Amor/Carmelita",
       "url": "https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I"
@@ -3165,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -3202,7 +3242,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178026,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2"
@@ -3368,7 +3408,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 288624,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
@@ -3412,6 +3452,24 @@
       "duration_ms": 168282,
       "name": "Milanoche",
       "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+    },
+    {
+      "album": {
+        "name": "MIRADA",
+        "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Mirada",
+      "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
     },
     {
       "album": {
@@ -3760,7 +3818,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
@@ -4048,7 +4106,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 222115,
       "name": "Otros Ritmos",
       "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
@@ -4424,7 +4482,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 312652,
       "name": "Presente",
       "url": "https://open.spotify.com/track/1CEySvaIp9SkDg4Kni0tb9"
@@ -4763,6 +4821,24 @@
     },
     {
       "album": {
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
+    },
+    {
+      "album": {
         "name": "\u00bfQui\u00e9n trae las cornetas?",
         "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
@@ -4920,7 +4996,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203219,
       "name": "Si Me Voy (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR"
@@ -5314,6 +5390,24 @@
       "duration_ms": 213127,
       "name": "Tarde o Temprano",
       "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
+    },
+    {
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "album": {
@@ -5934,7 +6028,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 211562,
       "name": "Uh",
       "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
@@ -6054,6 +6148,24 @@
       "duration_ms": 212631,
       "name": "Una Cosa Lleva a la Otra",
       "url": "https://open.spotify.com/track/5UdQff8TOnWpO7Q1UjPR7x"
+    },
+    {
+      "album": {
+        "name": "El Show Debe Continuar",
+        "url": "https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Una Playa En Nayarit",
+      "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"
     },
     {
       "album": {

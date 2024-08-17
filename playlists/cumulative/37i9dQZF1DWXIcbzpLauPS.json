@@ -7080,7 +7080,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX"
@@ -14126,6 +14126,28 @@
       "duration_ms": 193618,
       "name": "Silver Bullet",
       "url": "https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ"
+    },
+    {
+      "album": {
+        "name": "Never Back Down",
+        "url": "https://open.spotify.com/album/5LBVHXZ46tgeOElr4Oe47b"
+      },
+      "artists": [
+        {
+          "name": "Never Back Down",
+          "url": "https://open.spotify.com/artist/4qyWns3YuVTcRBu3tLfZyS"
+        },
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188360,
+      "name": "Singularity",
+      "url": "https://open.spotify.com/track/2O9RmVnPguPj8q7Vol3UZd"
     },
     {
       "album": {

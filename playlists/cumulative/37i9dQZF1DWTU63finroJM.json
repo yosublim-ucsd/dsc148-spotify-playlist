@@ -720,7 +720,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198549,
       "name": "ABOMINATION",
       "url": "https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196706,
       "name": "Bbye",
       "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232827,
       "name": "beggin' u 2",
       "url": "https://open.spotify.com/track/1CBUhnEqPSZqVzZ76mRb1Q"
@@ -2972,6 +2972,28 @@
       "duration_ms": 221538,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "album": {
+        "name": "Birds of a Feather",
+        "url": "https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        },
+        {
+          "name": "Grey Brisson",
+          "url": "https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "Birds of a Feather",
+      "url": "https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms"
     },
     {
       "album": {
@@ -3532,7 +3554,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203636,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
@@ -7180,7 +7202,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 129600,
       "name": "Embellishments",
       "url": "https://open.spotify.com/track/3XWxiU3qDMdmr9xgC0Xg6D"
@@ -7404,7 +7426,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 136044,
       "name": "Enemy Lines",
       "url": "https://open.spotify.com/track/46ZnIPWHLgUGYyHiXQNVMf"
@@ -8462,7 +8484,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186232,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
@@ -9420,7 +9442,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171479,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6"
@@ -9846,7 +9868,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
@@ -9940,7 +9962,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152181,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK"
@@ -10544,7 +10566,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 193194,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL"
@@ -12758,7 +12780,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 280490,
       "name": "Kekasih Impian",
       "url": "https://open.spotify.com/track/3slXdpPY5soBt7OiCdYbFF"
@@ -14188,7 +14210,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 220192,
       "name": "Love Me Like You Say You Do",
       "url": "https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8"
@@ -18578,7 +18600,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 276292,
       "name": "People 365",
       "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"
@@ -20505,6 +20527,24 @@
     },
     {
       "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab"
+      },
+      "artists": [
+        {
+          "name": "FUG\u014c",
+          "url": "https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305185,
+      "name": "Salleh Wakeup!",
+      "url": "https://open.spotify.com/track/2kZKQ1q2rw5mSnFg25rSkl"
+    },
+    {
+      "album": {
         "name": "Salsa y Clase",
         "url": "https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA"
       },
@@ -20935,7 +20975,7 @@
     },
     {
       "album": {
-        "name": "Semesta (From \"X-Change\")",
+        "name": "Semesta - From \"X-Change\"",
         "url": "https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95"
       },
       "artists": [
@@ -20946,7 +20986,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 212451,
       "name": "Semesta - From \"X-Change\"",
       "url": "https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX"
@@ -22080,7 +22120,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 177310,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR"
@@ -22466,7 +22506,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -23108,7 +23148,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 166562,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/3rX4Wd80m9PSvse363wwKz"
@@ -23173,6 +23213,24 @@
     },
     {
       "album": {
+        "name": "the devil",
+        "url": "https://open.spotify.com/album/3ZuADPmQpHAx400bDZE5E4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Suaste",
+          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141376,
+      "name": "the devil",
+      "url": "https://open.spotify.com/track/2Lg0U1Sgy9RjYnGyTIdEow"
+    },
+    {
+      "album": {
         "name": "The Girl Who Cried Love (Sped Up + Slowed Down)",
         "url": "https://open.spotify.com/album/20XULojiPjEGzjhUDiNoo7"
       },
@@ -23184,7 +23242,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 177904,
       "name": "The Girl Who Cried Love",
       "url": "https://open.spotify.com/track/35r2RTtVGguSzfGPJgoxLl"
@@ -23400,7 +23458,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 141406,
       "name": "Thumb War",
       "url": "https://open.spotify.com/track/4PCS43NMFxaBqSAocp67Ml"
@@ -24670,7 +24728,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191666,
       "name": "Upadki i wzloty",
       "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
@@ -26676,7 +26734,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 203863,
       "name": "\u0e01\u0e25\u0e32\u0e07\u0e43\u0e08\u0e44\u0e01\u0e25\u0e08\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9"
@@ -27160,7 +27218,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 197250,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
       "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"

@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 126756,
       "name": "BAD 4 MY HEALTH",
       "url": "https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh"
@@ -1944,6 +1944,24 @@
       "duration_ms": 160461,
       "name": "Sage",
       "url": "https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "album": {

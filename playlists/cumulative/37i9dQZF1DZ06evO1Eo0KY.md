@@ -2,7 +2,7 @@
 
 ### [This Is Nicholas Craven](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Eo0KY)
 
-> This is Nicholas Craven\. The essential tracks, all in one playlist.
+> This is Nicholas Craven\. Todos os maiores hits em uma só playlist.
 
 72 songs - 3 hr 24 min
 
@@ -24,7 +24,7 @@
 | [Breaking Atoms](https://open.spotify.com/track/4BBkdH0uEsuxN3BkcAsazz) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:24 | 2023-12-13 |  |
 | [Cinque Campi](https://open.spotify.com/track/2tji8lTqbLPgXNN9YWvupC) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Estee Nack](https://open.spotify.com/artist/6BBkWyAZhcINj7GecYg3Wd) | [Gia..\. À La Carte](https://open.spotify.com/album/3JcTKxn4KDrYnPx2kqPb9Z) | 3:31 | 2024-03-11 | 2024-04-20 |
 | [Circumstances](https://open.spotify.com/track/5AnyUq0QkIQPrmysUe5bYD) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Circumstances](https://open.spotify.com/album/14qunYehq5fAbj8oAtpWVn) | 4:35 | 2023-12-13 |  |
-| [Crypto](https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 1:56 | 2023-12-13 | 2024-08-16 |
+| [Crypto](https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 1:56 | 2023-12-13 |  |
 | [Dark Waters](https://open.spotify.com/track/6TofYO0GjgVC9ZuFYDm8cf) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/1CbmjQ2qeIJj4VSTOnnAfY) | 2:26 | 2024-08-03 |  |
 | [Dear Friend](https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:30 | 2023-12-13 |  |
 | [Death & Taxes](https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Death & Taxes](https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT) | 3:10 | 2023-12-13 |  |

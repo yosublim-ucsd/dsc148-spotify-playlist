@@ -3575,6 +3575,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Playdate with Winnie the Pooh (Season 2)",
+        "url": "https://open.spotify.com/album/5jKyWp38ZmzU1S43Heyeqt"
+      },
+      "artists": [
+        {
+          "name": "Playdate with Winnie the Pooh - Cast",
+          "url": "https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110548,
+      "name": "The Hundred Acre Hop",
+      "url": "https://open.spotify.com/track/6iCFCgWasWtj2hNNUGhpMQ"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Muppet Babies",
         "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
       },

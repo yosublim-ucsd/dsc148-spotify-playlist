@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Betghiri Leh",
+        "url": "https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW"
+      },
+      "artists": [
+        {
+          "name": "Abu",
+          "url": "https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191292,
+      "name": "Betghiri Leh",
+      "url": "https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b"
+    },
+    {
+      "album": {
         "name": "Bil Alb",
         "url": "https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph"
       },
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 227027,
       "name": "\u0628\u0631\u0648\u062f \u0628\u0628\u0631\u0648\u062f",
       "url": "https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R"
@@ -5220,6 +5238,24 @@
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0627\u0644\u062a\u0647 \u0635\u0639\u0628\u0629",
+        "url": "https://open.spotify.com/album/12J0QVom1KE7d8GaQjbI5x"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292860,
+      "name": "\u062d\u0627\u0644\u062a\u0647 \u0635\u0639\u0628\u0629",
+      "url": "https://open.spotify.com/track/2rz6i8B0kvYVar1GIza4O7"
     },
     {
       "album": {
@@ -5584,7 +5620,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206906,
       "name": "\u0639\u0644\u064a \u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz"
@@ -5624,6 +5660,24 @@
       "duration_ms": 195750,
       "name": "\u0641\u064a \u0628\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/3n2pKLjes1ZeItC7au8BSw"
+    },
+    {
+      "album": {
+        "name": "\u0641\u064a\u0647\u0627 \u0625\u064a\u0647",
+        "url": "https://open.spotify.com/album/4dnnRb5jHDejdzWvRrHNyk"
+      },
+      "artists": [
+        {
+          "name": "Ramy Sabry",
+          "url": "https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "\u0641\u064a\u0647\u0627 \u0625\u064a\u0647",
+      "url": "https://open.spotify.com/track/33fpkOti6JPNktMxWabYlc"
     },
     {
       "album": {

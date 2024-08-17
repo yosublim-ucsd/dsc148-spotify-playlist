@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -2527,6 +2527,24 @@
     },
     {
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
         "name": "Looking Out for You",
         "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
@@ -2855,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "album": {
         "name": "Normalize",
         "url": "https://open.spotify.com/album/2OcYtSpeR9ZbYp2hKklfEc"
       },
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"

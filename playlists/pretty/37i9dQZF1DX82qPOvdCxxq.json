@@ -1,6 +1,6 @@
 {
   "description": "The best new music from indie faith-based artists every Weds. Cover:  <a href=\"spotify:artist:7yAymwuYh9RcpX84GSNIq2\">Josiah Queen</a> & <a href=\"spotify:artist:7osFcSwjlRPwxZdVALIOuC\">Henrik</a>  | Artwork: Laina Deene",
-  "num_followers": 42623,
+  "num_followers": 42698,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-08-14 17:22:22",
       "album": {
+        "name": "dreams",
+        "url": "https://open.spotify.com/album/6z043nNDyYIOlLYyqsFaZF"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/6BYd51QOGm0O15QX6d37ml"
+    },
+    {
+      "added_at": "2024-08-14 17:22:22",
+      "album": {
         "name": "Solemn Sleep",
         "url": "https://open.spotify.com/album/6IiHm74zRXr4cdpvKlGrL6"
       },
@@ -159,6 +175,22 @@
       "duration_ms": 186348,
       "name": "Solemn Sleep",
       "url": "https://open.spotify.com/track/6RTZ6z7SkjmYMgkm4aJMk5"
+    },
+    {
+      "added_at": "2024-08-14 17:22:22",
+      "album": {
+        "name": "Strength of My Heart",
+        "url": "https://open.spotify.com/album/6mS7LlvkEGLSjlV4EiBKUr"
+      },
+      "artists": [
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "duration_ms": 261385,
+      "name": "Strength of My Heart",
+      "url": "https://open.spotify.com/track/3dyeLQ9gpjAEAr7tDOykJA"
     },
     {
       "added_at": "2024-08-14 17:22:22",
@@ -915,6 +947,22 @@
       "duration_ms": 255750,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1Q68UgSX6Ige3P7h2Gf99Z"
+    },
+    {
+      "added_at": "2024-08-14 17:22:22",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/6BV3ZkhuV5imTw4VjecK9z"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/5qPBpx8x9EofaXhDn4amI6"
     },
     {
       "added_at": "2024-08-14 17:22:22",

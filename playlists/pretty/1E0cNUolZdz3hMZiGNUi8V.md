@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 
 > 🔥 All the hottest hip hop tracks in one spot! Featuring: <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,029 likes - 62 songs - 2 hr 50 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 39,025 likes - 62 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/1E0cNUolZdz3hMZiGNUi8V.md) - [plain]
 | 61 | [LGLG](https://open.spotify.com/track/30WIuDE8zFTS6rFPnGIifY) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LGLG](https://open.spotify.com/album/3YquMdiiA7PgCAr1iaAzt5) | 2:56 |
 | 62 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
 
-Snapshot ID: `AAAe28ZKaPdUPr8++npVvEIWbQydmPvI`
+Snapshot ID: `AAAe3dZFlQR4jAWt8iETmS44pSOhGUnF`

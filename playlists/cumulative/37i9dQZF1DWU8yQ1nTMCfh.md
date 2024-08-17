@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Los Outsaiders
 
-303 songs - 16 hr 49 min
+304 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Física o Química \(feat\. Enol, Hens, Walls\)](https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU) | 3:35 | 2024-01-12 |  |
 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 |  |
 | [Golly](https://open.spotify.com/track/45G6zyppoH1QYioyFisbBU) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/4qAKzGLGB4vFMF60Lt9Wfb) | 4:35 | 2022-04-15 | 2022-12-10 |
-| [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 |  |
+| [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 | 2024-08-17 |
 | [Guanaco](https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS) | [Kiltro](https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm) | [Guanaco](https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr) | 5:08 | 2023-04-14 | 2023-05-30 |
 | [Ha Sido](https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Ha Sido](https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK) | 4:11 | 2022-04-15 | 2023-11-04 |
 | [Hey!](https://open.spotify.com/track/0kJEhyaIRQTItRQ2pf0hpO) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Hey!](https://open.spotify.com/album/296LdW08MSvJEl5lu87rxQ) | 2:30 | 2023-06-30 | 2023-07-15 |
@@ -168,6 +168,7 @@
 | [Mila, Saturno y el Río](https://open.spotify.com/track/2xTeZhXg6xNvnDOznpoJhn) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Mila, Saturno y el Río](https://open.spotify.com/album/5Rw5wBaZ2D5mYk65orpKiJ) | 4:12 | 2022-04-15 | 2022-12-17 |
 | [Mirando al techo](https://open.spotify.com/track/35GXIb8Bgfro3dELpItLPc) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 3:34 | 2024-05-03 | 2024-08-14 |
 | [Mirando al techo \- A COLORS SHOW](https://open.spotify.com/track/5y9Xi59ZyLx42gmjX0IYbm) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Mirando al techo \- A COLORS SHOW](https://open.spotify.com/album/5gdeUHHlTOoHacuDfAf0jP) | 3:33 | 2024-05-31 |  |
+| [Misterio, Cigarros y Menta](https://open.spotify.com/track/1XeDKmPp1BUxoRk4GurxD8) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 2:44 | 2024-08-16 |  |
 | [Moderato](https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:25 | 2024-04-12 |  |
 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 | 2023-10-28 |
 | [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 | 2023-05-19 | 2024-04-19 |

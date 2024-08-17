@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 163759,
       "name": "DEPEND ON ME",
       "url": "https://open.spotify.com/track/6ReKkuqFhJcVmGnc9Kp7y4"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189120,
       "name": "Discohall",
       "url": "https://open.spotify.com/track/04CxrjtcJB55YujZZnZ7yh"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236730,
       "name": "Finally Ready (feat. Billy Porter)",
       "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
@@ -6247,6 +6247,24 @@
     },
     {
       "album": {
+        "name": "Nothing But Happiness",
+        "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
+      },
+      "artists": [
+        {
+          "name": "Alan Dixon",
+          "url": "https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203405,
+      "name": "Nothing But Happiness",
+      "url": "https://open.spotify.com/track/0MiVdDAGUeTlj4to1hCs04"
+    },
+    {
+      "album": {
         "name": "Nowhere To Run",
         "url": "https://open.spotify.com/album/6QAWFx4cObVKCSSd7GEbDg"
       },
@@ -7013,6 +7031,28 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/4jQHOpLOO61Eff5Y1EQPwM"
+      },
+      "artists": [
+        {
+          "name": "Lenno",
+          "url": "https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7"
+        },
+        {
+          "name": "James Tone",
+          "url": "https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6qdNWFedbcEaaSs5ru5T8Q"
+    },
+    {
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -7418,10 +7458,28 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191000,
       "name": "Sex on Fire (Disco Mix)",
       "url": "https://open.spotify.com/track/7pn1zBl8bSOzvhleJrFgwY"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/6b7QdhT9QW1ZkmFZDGYgnv"
+      },
+      "artists": [
+        {
+          "name": "HP Vince",
+          "url": "https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418512,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5gATjfPkp8eYQ9FQm2vTG0"
     },
     {
       "album": {
@@ -8136,6 +8194,24 @@
       "duration_ms": 202922,
       "name": "Summer of Love - Jean Tonique Remix",
       "url": "https://open.spotify.com/track/2sSedmGMNVV84hIRUbmykd"
+    },
+    {
+      "album": {
+        "name": "Mixed Signals EP",
+        "url": "https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Sun In Your Eyes",
+      "url": "https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=PjnP9YMbQWqDb7K\_69ODoA"> Asake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,614,935 likes - 51 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,615,170 likes - 51 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

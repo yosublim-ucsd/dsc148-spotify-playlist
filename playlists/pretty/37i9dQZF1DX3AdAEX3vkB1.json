@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 263579,
+  "num_followers": 263721,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Beatles For Sale - Remastered",
         "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 163600,
       "name": "Eight Days A Week - Remastered 2009",
       "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Dion",
-        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
-      },
-      "artists": [
-        {
-          "name": "Dion",
-          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "The Wanderer",
-      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Chiffons Absolutely The Best!",
         "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Dion",
+        "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
+      },
+      "artists": [
+        {
+          "name": "Dion",
+          "url": "https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "The Wanderer",
+      "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -987,6 +987,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Mony Mony",
-        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Bo Diddley",
@@ -1135,6 +1119,22 @@
       "duration_ms": 164546,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/760clbeDBWmBsBLbszWuNZ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Mony Mony",
+        "url": "https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1297,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3ohLnESFgYACPMCkoTOzqE"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "The Complete Johnny Kidd Vol 1 & 2",
-        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Kidd & The Pirates",
-          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "Shakin' All Over",
-      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Tell Him",
@@ -1327,6 +1311,22 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Complete Johnny Kidd Vol 1 & 2",
+        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kidd & The Pirates",
+          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Shakin' All Over",
+      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
+        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Dancing In The Street - Single Version",
+      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 106066,
       "name": "The Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
-        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Dancing In The Street - Single Version",
-      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
     },
     {
       "added_at": "2022-06-16 22:02:00",

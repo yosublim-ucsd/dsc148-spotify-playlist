@@ -2,7 +2,7 @@
 
 ### [It Ends With Us Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcuJwuOjo3cW)
 
-> We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, coming soon to theaters.
+> We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
 45 songs - 2 hr 9 min
 

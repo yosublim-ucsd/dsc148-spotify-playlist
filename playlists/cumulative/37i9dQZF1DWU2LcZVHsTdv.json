@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211426,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG"
+    },
+    {
+      "album": {
         "name": "Jordan Davis",
         "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
@@ -2223,6 +2241,24 @@
     },
     {
       "album": {
+        "name": "Jesus Saves",
+        "url": "https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ"
+      },
+      "artists": [
+        {
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176013,
+      "name": "Jesus Saves",
+      "url": "https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW"
+    },
+    {
+      "album": {
         "name": "Way Out Here",
         "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
       },
@@ -2966,6 +3002,28 @@
       "duration_ms": 237933,
       "name": "Phone Call to God",
       "url": "https://open.spotify.com/track/3oSyemHgjMoHqW85EuclSb"
+    },
+    {
+      "album": {
+        "name": "Pioneer (feat. Conner Smith)",
+        "url": "https://open.spotify.com/album/1ASk8QZpt6jmnc9bK96PvT"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Pioneer (feat. Conner Smith)",
+      "url": "https://open.spotify.com/track/0zFMorAJB6rWnfKknLNARF"
     },
     {
       "album": {

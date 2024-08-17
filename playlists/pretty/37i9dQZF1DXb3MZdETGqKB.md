@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Judith Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,222 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,237 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold Of My Heart](https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hold Of My Heart](https://open.spotify.com/album/3DsYPxlBNxZVB1bVdqnyPM) | 3:44 |
-| 2 | [The Devil Wears Lace Pt\. 2](https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [The Devil Wears Lace Pt\. 2](https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB) | 2:52 |
+| 1 | [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 |
+| 2 | [Hold Of My Heart](https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Hold Of My Heart](https://open.spotify.com/album/3DsYPxlBNxZVB1bVdqnyPM) | 3:44 |
 | 3 | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Worried About the Young \(feat\. Christone "Kingfish" Ingram\)](https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi) | 3:14 |
 | 4 | [Smoke](https://open.spotify.com/track/7yLN6jW7m26mhYrsu0w2vI) | [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT) | [Smoke](https://open.spotify.com/album/0spbu3TKyH5n7VHrUO7qWt) | 3:58 |
 | 5 | [Oil & Water](https://open.spotify.com/track/3BIxy1SXeYRybqVgqID10B) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj), [Mr Foster](https://open.spotify.com/artist/3A0mmSV3bOnB4vCgtFVntm) | [Highway 17](https://open.spotify.com/album/7DejChlWq4GfKaIBvBs0BY) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 | 100 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 |
 
-Snapshot ID: `ZrWUQAAAAACQy7BtwP9NC4lnWfvm81AT`
+Snapshot ID: `Zr7OwAAAAADfdQM0zImG1H0XCxvYLfpX`

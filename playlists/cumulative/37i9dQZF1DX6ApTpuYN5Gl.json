@@ -221,6 +221,32 @@
     },
     {
       "album": {
+        "name": "Can't Love Myself (feat. Mishaal & LPW)",
+        "url": "https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        },
+        {
+          "name": "LPW",
+          "url": "https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156659,
+      "name": "Can't Love Myself (feat. Mishaal & LPW)",
+      "url": "https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP"
       },
@@ -1544,7 +1570,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172454,
       "name": "Why Does My Heart",
       "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"

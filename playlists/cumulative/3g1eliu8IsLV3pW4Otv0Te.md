@@ -4,7 +4,7 @@
 
 > 
 
-219 songs - 14 hr 56 min
+220 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Waking Dreams \(feat\. Laura Brehm\)](https://open.spotify.com/track/4P7NEN1A8kRbhdAlpQqvag) | [Two Thirds](https://open.spotify.com/artist/5EuLaMwYamree7kzPvrPds), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monstercat 007 \- Solace](https://open.spotify.com/album/7dArkHuO5wkus2TJTu6Ytx) | 7:45 | 2016-01-14 |  |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-19 |  |
 | [We Won't Be Alone \(feat\. Laura Brehm\)](https://open.spotify.com/track/5qsKdwDWbhNTygUO4mGpix) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [We Won't Be Alone \(feat\. Laura Brehm\)](https://open.spotify.com/album/3aH62Qc5rMIwDOU2GDcFca) | 3:54 | 2016-09-08 |  |
+| [Westside](https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Westside](https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5) | 2:56 | 2024-08-16 |  |
 | [Where's The Catch? \(feat\. André 3000\)](https://open.spotify.com/track/7omij53d6AvXefx13NNyfn) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 4:36 | 2019-09-14 |  |
 | [Why We Lose](https://open.spotify.com/track/5NmENli4oodYuWrI0vSGK4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/album/3RNJagqH7R68xyYoj2YwFR) | 3:17 | 2016-02-27 |  |
 | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Won't Be Late \(feat\. Drake\)](https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb) | 3:38 | 2019-09-21 |  |

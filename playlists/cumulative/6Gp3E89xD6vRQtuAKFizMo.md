@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-335 songs - 16 hr 8 min
+336 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 |  |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 |  |
 | [Kanos](https://open.spotify.com/track/7DjifpgNrYVPKFcrb6vzqr) | [Heimanu](https://open.spotify.com/artist/01mvWXVNW6Gz5Oxf6bQrtM) | [Kanos](https://open.spotify.com/album/4ziuSY0MpYg3UwNoGqv5uf) | 3:36 | 2022-05-06 | 2023-04-09 |
+| [Kick Drum](https://open.spotify.com/track/5oo2RBuuxhL3qzL5gnhlkW) | [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Kick Drum](https://open.spotify.com/album/1CoFKBsX0lsFyKZfHjmsvP) | 3:03 | 2024-08-16 |  |
 | [King Kong](https://open.spotify.com/track/42uX9KNWASwZxnmtn1YKBn) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [King Kong](https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB) | 2:08 | 2023-01-13 | 2023-03-25 |
 | [Kiss Dance Sweat](https://open.spotify.com/track/72oPg6iDZvvTqC6LnIG3xI) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Kiss Dance Sweat](https://open.spotify.com/album/1SzY5GQeodrC5MWymA896A) | 2:17 | 2023-08-18 |  |
 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 | 2023-01-20 | 2023-04-09 |

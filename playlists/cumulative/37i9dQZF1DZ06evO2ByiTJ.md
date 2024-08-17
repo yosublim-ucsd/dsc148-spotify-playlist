@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 35 min
+62 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Deus Tremendo \(feat\. Vanilda Bordieri, Eliane Silva, Lydia Moisés, Suelen de Jesus, Célia Sakamoto, Elaine Martins & Shirley Carvalhaes\) \- Ao Vivo](https://open.spotify.com/track/3DpGyWrBsi29h0ee7KldAe) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O), [Eliane Silva](https://open.spotify.com/artist/04kAhmiYHbt8mAmX5t65Hs), [Lydia Moisés](https://open.spotify.com/artist/08zojAOoMjfirGuUAN0QZ2), [Suelen de Jesus](https://open.spotify.com/artist/2W5lEIeNTS4eMWsGv4ZGEB), [Célia Sakamoto](https://open.spotify.com/artist/6r8n8vrg7vwpvp0rqUe1fl), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Elaine de Jesus \- Manifestação da Glória \(Ao Vivo\)](https://open.spotify.com/album/60ZMKOiC9qr4U4Pjs2LICf) | 3:52 | 2023-07-09 |  |
 | [El Elyon](https://open.spotify.com/track/4HR1BrHYKNZin2zkcVtYoP) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [El Elyon](https://open.spotify.com/album/272oxL4xvmw243Wo81OF9T) | 4:00 | 2023-07-09 |  |
 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 | 2023-07-09 |  |
+| [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv) | 6:21 | 2024-08-17 |  |
 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 | 2023-09-21 |  |
 | [Firme nas Promessas](https://open.spotify.com/track/3RT2CFpszKl14Pw3dzRZ6I) | [Carlinhos Falsetti](https://open.spotify.com/artist/67KYGMV1oYKB0GelhcDgP7), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Débora Cristina](https://open.spotify.com/artist/3QNmNkJaqLdJqENaFKEa7j) | [Firme nas Promessas \(Acústico\)](https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB) | 2:45 | 2023-08-27 |  |
 | [Força Santa](https://open.spotify.com/track/1SnT8D0raTV7xo7Cq5yU2y) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Força Santa](https://open.spotify.com/album/4BBOKsTi7lKpkkqzAnowIc) | 5:44 | 2023-07-09 | 2023-08-28 |

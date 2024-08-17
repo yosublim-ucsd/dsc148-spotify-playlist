@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "album": {
         "name": "Fio Maravilha",
         "url": "https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
@@ -756,6 +774,24 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "album": {
+        "name": "GIRLZ",
+        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141660,
+      "name": "GIRLZ",
+      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
       "album": {
@@ -1930,7 +1966,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164988,
       "name": "POOL",
       "url": "https://open.spotify.com/track/3TYAs4vi6EV50I8XfyvQjr"
@@ -2598,7 +2634,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166917,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
@@ -2712,6 +2748,24 @@
       "duration_ms": 159016,
       "name": "When You're Lonely",
       "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "album": {
+        "name": "Will You Be There",
+        "url": "https://open.spotify.com/album/0FsRj2MTn1gMsqUmSwN7x5"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "Will You Be There",
+      "url": "https://open.spotify.com/track/2A2gax6c7FmxhERVEDipsY"
     },
     {
       "album": {

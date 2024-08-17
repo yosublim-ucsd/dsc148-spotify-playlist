@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3VDnji.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3VDnji) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3VDnji)
 
-### [DannyLux This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
+### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> .DannyLux This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This Is DannyLux\. Los temas esenciales, todos en una lista.
 
 52 songs - 3 hr 3 min
 

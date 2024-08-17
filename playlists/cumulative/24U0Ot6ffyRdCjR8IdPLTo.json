@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "album": {
         "name": "Best You Ever Had",
         "url": "https://open.spotify.com/album/1p8ehpNWxlzytCmBjFAr0H"
       },
@@ -909,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Defense of Love",
+        "url": "https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB"
+      },
+      "artists": [
+        {
+          "name": "YDE",
+          "url": "https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145249,
+      "name": "Defense of Love",
+      "url": "https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ"
+    },
+    {
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -1140,7 +1176,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 209426,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA"
@@ -1828,6 +1864,24 @@
       "duration_ms": 267251,
       "name": "Green",
       "url": "https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t"
+    },
+    {
+      "album": {
+        "name": "Losing My Accent",
+        "url": "https://open.spotify.com/album/2w9auyPckdEUdZ9Y57WE1I"
+      },
+      "artists": [
+        {
+          "name": "Lily Williams",
+          "url": "https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156104,
+      "name": "Happy To Be Sad",
+      "url": "https://open.spotify.com/track/7H1v4mORwHtxbnxQJOa19F"
     },
     {
       "album": {
@@ -2628,7 +2682,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156123,
       "name": "Losing My Accent",
       "url": "https://open.spotify.com/track/4rtkkDNw7izI5vfi9uALVl"
@@ -2802,6 +2856,24 @@
       "duration_ms": 152141,
       "name": "Maybe I\u2019m Lonely",
       "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
+    },
+    {
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/5nEXvKEgiWvmnAmTDPD9eS"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178952,
+      "name": "memento",
+      "url": "https://open.spotify.com/track/158ukLHp3Z3Dnj3aHiRKzH"
     },
     {
       "album": {
@@ -3093,7 +3165,7 @@
       "artists": [
         {
           "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "url": "https://open.spotify.com/artist/4XheHqhIQFNGHcmRknqJmB"
         }
       ],
       "date_added": "2024-01-10",
@@ -3102,6 +3174,24 @@
       "duration_ms": 215834,
       "name": "No California",
       "url": "https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG"
+    },
+    {
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "album": {
@@ -4542,6 +4632,24 @@
       "duration_ms": 303933,
       "name": "Take A Chance With Me",
       "url": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
+    },
+    {
+      "album": {
+        "name": "take it off",
+        "url": "https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "take it off",
+      "url": "https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE"
     },
     {
       "album": {

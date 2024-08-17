@@ -1,13 +1,29 @@
 {
   "description": "New releases for the kids. Cover: John Legend",
-  "num_followers": 29230,
+  "num_followers": 29313,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrY7twAAAADSn5BuXa6T7ulOB9kjfIuL",
+  "snapshot_id": "Zr7OwAAAAACtY6cAY/mZT8XPhtpynzEk",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Wiggle and Learn: 100 Educational Songs for Children",
+        "url": "https://open.spotify.com/album/3OF13nG2NafIlsVk90770I"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 119685,
+      "name": "Marshmallow",
+      "url": "https://open.spotify.com/track/6GM2N6NnjeRwBq3ElKgkvF"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -39,6 +55,174 @@
       "duration_ms": 152736,
       "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
       "url": "https://open.spotify.com/track/4pIROEObzShhsBdOiLg58K"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Wanna Be Your Friend",
+        "url": "https://open.spotify.com/album/0WjfwxpHTHiXfF7TIj6rS1"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Kid in the Room",
+          "url": "https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "duration_ms": 201446,
+      "name": "Wanna Be Your Friend",
+      "url": "https://open.spotify.com/track/5OwJra9dweg3pss3iwRh1S"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Disney Jr. Music: Playdate with Winnie the Pooh (Season 2)",
+        "url": "https://open.spotify.com/album/5jKyWp38ZmzU1S43Heyeqt"
+      },
+      "artists": [
+        {
+          "name": "Playdate with Winnie the Pooh - Cast",
+          "url": "https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 110548,
+      "name": "The Hundred Acre Hop",
+      "url": "https://open.spotify.com/track/6iCFCgWasWtj2hNNUGhpMQ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Ryan's World the Movie: Titan Universe Adventure - The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3pGFER8LsshqNcrIstuBrI"
+      },
+      "artists": [
+        {
+          "name": "Ryan\u2019s World",
+          "url": "https://open.spotify.com/artist/4ACrd2NmZ3uYchtI2BgtcC"
+        }
+      ],
+      "duration_ms": 131597,
+      "name": "Go Find the Hero in You",
+      "url": "https://open.spotify.com/track/5AfMUMUK2W9LGrOuBu5nVG"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Stomp",
+        "url": "https://open.spotify.com/album/0ypSJu1Po6WFUSbu1dcUS5"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "duration_ms": 213170,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/7kx6ZOUQW56C7ZqtBJSt12"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Catch Me If You Can! (Kids Songs)",
+        "url": "https://open.spotify.com/album/23RLZ8xSE6ESoP8St1OeIm"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "duration_ms": 110384,
+      "name": "Catch Me If You Can! - Kids Songs",
+      "url": "https://open.spotify.com/track/5FyQjGFZ0YOV4JNcQZwhnz"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Molly of Denali Theme Song",
+        "url": "https://open.spotify.com/album/5AclPpK8yoxGQ7VrIa4z7n"
+      },
+      "artists": [
+        {
+          "name": "Little Ditto",
+          "url": "https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38"
+        }
+      ],
+      "duration_ms": 64308,
+      "name": "Molly of Denali Theme Song",
+      "url": "https://open.spotify.com/track/2i6OqP62FOca5E7HyVnMXb"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Friends Are the Best",
+        "url": "https://open.spotify.com/album/2XViMdz4NLfnkSlC48aUyj"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "duration_ms": 145119,
+      "name": "Friends Are the Best",
+      "url": "https://open.spotify.com/track/0RMaNx3r2D2Kwz2ajIyCTA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pirate Treasure Hunt",
+        "url": "https://open.spotify.com/album/62emgO17Ku0kWJds36XXWa"
+      },
+      "artists": [
+        {
+          "name": "Baby Joy Joy",
+          "url": "https://open.spotify.com/artist/6GAZ9fxattwUYRuTRddv5N"
+        }
+      ],
+      "duration_ms": 194863,
+      "name": "Pirate Treasure Hunt",
+      "url": "https://open.spotify.com/track/4bvHU03wdDsBaipPxGOJw2"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Run! The Floor is Lava!!",
+        "url": "https://open.spotify.com/album/6jXIAp5SAQtUGTw4Yrt2yd"
+      },
+      "artists": [
+        {
+          "name": "The Little Mouse Production",
+          "url": "https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE"
+        }
+      ],
+      "duration_ms": 215474,
+      "name": "Run! The Floor is Lava!!",
+      "url": "https://open.spotify.com/track/2iKFK74HvyAuQr9vxbTfsB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Kitty Cat (Look at that Cat)",
+        "url": "https://open.spotify.com/album/6y02NRmFKwHgi4ZAXX7Whd"
+      },
+      "artists": [
+        {
+          "name": "Bari Koral",
+          "url": "https://open.spotify.com/artist/40GTTHyDAFn0HJ1vsk7CYZ"
+        }
+      ],
+      "duration_ms": 189587,
+      "name": "Kitty Cat (Look at that Cat)",
+      "url": "https://open.spotify.com/track/0zWBajnKNL18aO4yBzTPWt"
     },
     {
       "added_at": "2024-08-09 15:54:31",

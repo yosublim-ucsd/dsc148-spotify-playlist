@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
 
-211 songs - 5 hr 29 min
+212 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [The Baking Song](https://open.spotify.com/track/7DTcRS9BeM3YERBVARX8xk) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 0:50 | 2022-03-18 |  |
 | [The Doc Is 10 \- From "Disney Junior Music: Doc McStuffins"](https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [The Doc Is 10 \(From "Disney Junior Music: Doc McStuffins"\)](https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada) | 2:09 | 2022-03-18 |  |
 | [The Hero Inside](https://open.spotify.com/track/2E8CnvqCshMmOMNL8EH4QD) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:34 | 2022-03-18 |  |
+| [The Hundred Acre Hop](https://open.spotify.com/track/6iCFCgWasWtj2hNNUGhpMQ) | [Playdate with Winnie the Pooh \- Cast](https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Playdate with Winnie the Pooh \(Season 2\)](https://open.spotify.com/album/5jKyWp38ZmzU1S43Heyeqt) | 1:50 | 2024-08-16 |  |
 | [The Lily Pad Blues](https://open.spotify.com/track/4SZV2hSDowhBrswUlhP51I) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:09 | 2022-03-18 |  |
 | [The Missing Tooth Song](https://open.spotify.com/track/23O37OqyR8Wpns03HEIKRW) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective Vol\. 2](https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4) | 1:03 | 2022-03-18 |  |
 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 | 2022-03-18 |  |

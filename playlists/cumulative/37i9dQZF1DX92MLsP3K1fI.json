@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5OC7Q4Wy4r6et7LlckpfR9"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 180573,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz"
@@ -1448,7 +1448,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146250,
       "name": "Cotorreo",
       "url": "https://open.spotify.com/track/7K27fNsluLKHw9ptLS4nTa"
@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Destrucci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200842,
+      "name": "Destrucci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1"
+    },
+    {
+      "album": {
         "name": "Thalia's Mixtape",
         "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
       },
@@ -2058,7 +2080,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 265017,
       "name": "El Muchacho De Los Ojos Tristes",
       "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200000,
       "name": "ENQLADO (QLONA)",
       "url": "https://open.spotify.com/track/268rbWRIMb7NanLbFfH7gJ"
@@ -2453,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+    },
+    {
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -2640,6 +2680,24 @@
       "duration_ms": 188862,
       "name": "Hasta Olvidarte",
       "url": "https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8"
+    },
+    {
+      "album": {
+        "name": "Hechizado",
+        "url": "https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78"
+      },
+      "artists": [
+        {
+          "name": "ALMAS",
+          "url": "https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150291,
+      "name": "Hechizado",
+      "url": "https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U"
     },
     {
       "album": {
@@ -2850,7 +2908,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 146031,
       "name": "LA FOTO",
       "url": "https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h"
@@ -3370,7 +3428,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 183760,
       "name": "MALVAS",
       "url": "https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H"
@@ -3748,7 +3806,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167804,
       "name": "MIENTES",
       "url": "https://open.spotify.com/track/0l49H3WEYgONsfd9gsr64B"
@@ -3920,6 +3978,42 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
+    },
+    {
+      "album": {
+        "name": "Spalla",
+        "url": "https://open.spotify.com/album/3aN5rWhxOwIdELqK5qXA7b"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Mucho Drama",
+      "url": "https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk"
+    },
+    {
+      "album": {
+        "name": "MUJER\u00d3N",
+        "url": "https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "MUJER\u00d3N",
+      "url": "https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP"
     },
     {
       "album": {
@@ -5955,6 +6049,28 @@
     },
     {
       "album": {
+        "name": "Te Odio / Te Amo",
+        "url": "https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179032,
+      "name": "Te Odio / Te Amo",
+      "url": "https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx"
+    },
+    {
+      "album": {
         "name": "TE PIENSO A CADA HORA",
         "url": "https://open.spotify.com/album/6jJJFLiYhv7LE1wvCZG5Z4"
       },
@@ -6166,7 +6282,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180106,
       "name": "Todo Mal",
       "url": "https://open.spotify.com/track/6ULxgCV7FxWqkzESh2lY3J"
@@ -6384,7 +6500,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194768,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6SSbMKSHk1wgUWvTOyvitE"
@@ -6606,7 +6722,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200210,
       "name": "Y Me Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/4qN4XbCVxsIxxXavhis6O0"
@@ -6646,7 +6762,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164320,
       "name": "Yo Quiero Fama - La Casa De Los Famosos",
       "url": "https://open.spotify.com/track/63C7ybwHet4gON9Iy61OBS"

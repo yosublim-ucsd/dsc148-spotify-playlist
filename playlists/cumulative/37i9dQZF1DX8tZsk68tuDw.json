@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Eli Brown",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with DJ Snake & Fridayy",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -1296,6 +1296,28 @@
       "duration_ms": 283064,
       "name": "Ahora Todo Va - Gorgon City Remix",
       "url": "https://open.spotify.com/track/0KkseucFbIhvQQI7SJMwcx"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t Giving Up",
+        "url": "https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
     },
     {
       "album": {
@@ -2632,6 +2654,24 @@
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
+    },
+    {
+      "album": {
+        "name": "All You Got To Do",
+        "url": "https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "All You Got To Do",
+      "url": "https://open.spotify.com/track/5RH715X8TaLppRDbNMo8JM"
     },
     {
       "album": {
@@ -4680,7 +4720,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -9221,6 +9261,28 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Dance",
+        "url": "https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184205,
+      "name": "Can\u2019t Dance",
+      "url": "https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon"
+    },
+    {
+      "album": {
         "name": "Can\u2019t Fight The Feeling",
         "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
       },
@@ -10705,6 +10767,28 @@
     },
     {
       "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+    },
+    {
+      "album": {
         "name": "Closer (feat. Chenai)",
         "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
       },
@@ -11454,6 +11538,28 @@
       "duration_ms": 129600,
       "name": "Como Shakira",
       "url": "https://open.spotify.com/track/6OqRcecS47ph02u2R3Jvl2"
+    },
+    {
+      "album": {
+        "name": "Complicated (with Fridayy)",
+        "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270545,
+      "name": "Complicated (with Fridayy)",
+      "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
     },
     {
       "album": {
@@ -16358,7 +16464,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 140621,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
@@ -18124,7 +18230,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 140375,
       "name": "Feel This Way (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/6G7Ol5XgOmyFiCzYL29vZ5"
@@ -20114,7 +20220,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145454,
       "name": "FRESH AND NEW",
       "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
@@ -20866,7 +20972,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230253,
       "name": "Gem Lingo (ovr now)",
       "url": "https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c"
@@ -26778,7 +26884,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156255,
       "name": "I'm The Drama",
       "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
@@ -26870,6 +26976,24 @@
       "duration_ms": 213960,
       "name": "Ice Cream (feat. Nakamura Minami)",
       "url": "https://open.spotify.com/track/2z637WVphd95maH0MOEw0q"
+    },
+    {
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/5FFOPCk5z8xNWwA2MWboEA"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198170,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A"
     },
     {
       "album": {
@@ -30493,6 +30617,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Slowly",
+        "url": "https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs"
+      },
+      "artists": [
+        {
+          "name": "Starsmith",
+          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Leave Me Slowly",
+      "url": "https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ"
+    },
+    {
+      "album": {
         "name": "Left & Right",
         "url": "https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS"
       },
@@ -32238,7 +32380,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 399360,
       "name": "Locomotiva Ibiza 2099 feat. VTSS",
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
@@ -48375,6 +48517,28 @@
     },
     {
       "album": {
+        "name": "Shake It Like A (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/3cQBYLjNbuCMHBpiWTwIar"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197765,
+      "name": "Shake It Like A (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
+    },
+    {
+      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/6P9nyOvD82nO7KtqIEuQrm"
       },
@@ -48530,7 +48694,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184615,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/71NA0mXMhLssO4TYzNvtQ5"
@@ -53015,6 +53179,36 @@
     },
     {
       "album": {
+        "name": "take your vibes and go",
+        "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134844,
+      "name": "take your vibes and go",
+      "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
         "name": "Taking It Back",
         "url": "https://open.spotify.com/album/1ZkE9x9JXVTHZo8b7YVYft"
       },
@@ -55808,7 +56002,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167200,
       "name": "Ticking Time Bomb",
       "url": "https://open.spotify.com/track/1CtVZuYHOWTY7QYSTbYbu4"
@@ -56830,7 +57024,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -57880,6 +58074,24 @@
       "duration_ms": 208637,
       "name": "Up N' Down (feat. JmNPR)",
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
+    },
+    {
+      "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S"
+      },
+      "artists": [
+        {
+          "name": "Joe Hunt",
+          "url": "https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
     },
     {
       "album": {

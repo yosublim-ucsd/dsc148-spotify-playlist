@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Stonebwoy",
+  "description": "Catching flights and going global. Cover: Juls",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183829,
       "name": "Hold On (feat. Sean Paul)",
       "url": "https://open.spotify.com/track/1kiGp1LrMv3AHAOuNsjXnM"
@@ -6303,7 +6303,7 @@
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 152195,
+      "duration_ms": 138536,
       "name": "Live For The Night",
       "url": "https://open.spotify.com/track/23OzgVOHgahWB5MrYPudno"
     },
@@ -8640,6 +8640,28 @@
       "duration_ms": 202760,
       "name": "People (feat. Becky G)",
       "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
+    },
+    {
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
     },
     {
       "album": {

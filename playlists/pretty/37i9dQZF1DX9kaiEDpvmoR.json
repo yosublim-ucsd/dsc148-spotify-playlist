@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92160,
+  "num_followers": 92166,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 208651,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sally/Hungry Eyes",
         "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 160983,
       "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
       "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Worthy",
-        "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 208651,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -567,6 +567,42 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 204411,
+      "name": "California Sober (Feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "We're In This Together",
         "url": "https://open.spotify.com/album/1xMGQmpdFO9ctJdZhl4kgs"
       },
@@ -675,38 +711,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Midsommardansen",
-        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 124601,
-      "name": "Midsommardansen",
-      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 195187,
       "name": "Presence",
       "url": "https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Midsommardansen",
+        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 124601,
+      "name": "Midsommardansen",
+      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -747,22 +767,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "V\u00e5t cigg",
         "url": "https://open.spotify.com/album/13aQpmGiwma9E39lQip4ip"
       },
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Det blir inte b\u00e4ttre",
-        "url": "https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
       "artists": [
         {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
         }
       ],
-      "duration_ms": 195906,
-      "name": "Det blir inte b\u00e4ttre",
-      "url": "https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi"
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Whenever Until Forever",
-        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+        "name": "Det blir inte b\u00e4ttre",
+        "url": "https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC"
       },
       "artists": [
         {
-          "name": "Andreas Aleman",
-          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
         }
       ],
-      "duration_ms": 224093,
-      "name": "Whenever Until Forever",
-      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
+      "duration_ms": 195906,
+      "name": "Det blir inte b\u00e4ttre",
+      "url": "https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -859,6 +863,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Whenever Until Forever",
+        "url": "https://open.spotify.com/album/5Usc0cjLbxZIYTHITrYzpH"
+      },
+      "artists": [
+        {
+          "name": "Andreas Aleman",
+          "url": "https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Whenever Until Forever",
+      "url": "https://open.spotify.com/track/37EADDLCH83KNNW0ydwhNO"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -895,6 +915,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
+        "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
+      },
+      "artists": [
+        {
+          "name": "The Tarantula Waltz",
+          "url": "https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 237508,
+      "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
+      "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Elaine",
         "url": "https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw"
       },
@@ -915,26 +955,6 @@
       "duration_ms": 183053,
       "name": "Elaine",
       "url": "https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
-        "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
-      },
-      "artists": [
-        {
-          "name": "The Tarantula Waltz",
-          "url": "https://open.spotify.com/artist/7KqyMhqYoujfdaQZni6iUR"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 237508,
-      "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
-      "url": "https://open.spotify.com/track/70TN7mZ1pZRYjPQ5RwM5k9"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -995,6 +1015,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+      },
+      "artists": [
+        {
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "John Denver",
         "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
       },
@@ -1031,18 +1067,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
       "artists": [
         {
-          "name": "The Boppers",
-          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 238406,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1079,6 +1115,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "En k\u00e4rlek sj\u00e4lv",
+        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "En k\u00e4rlek sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1111,22 +1163,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Dekadens",
-        "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
-      },
-      "artists": [
-        {
-          "name": "Lustans Lakejer",
-          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
-        }
-      ],
-      "duration_ms": 207467,
-      "name": "Dekadens",
-      "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "What You\u2019re Saying To Me",
         "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
       },
@@ -1147,34 +1183,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+        "name": "Dekadens",
+        "url": "https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ"
       },
       "artists": [
         {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+          "name": "Lustans Lakejer",
+          "url": "https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN"
         }
       ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "En k\u00e4rlek sj\u00e4lv",
-        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
-      },
-      "artists": [
-        {
-          "name": "Henning",
-          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "En k\u00e4rlek sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
+      "duration_ms": 207467,
+      "name": "Dekadens",
+      "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1191,6 +1211,22 @@
       "duration_ms": 274250,
       "name": "Are You Ok",
       "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+        }
+      ],
+      "duration_ms": 176776,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1231,6 +1267,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Peaceful Easy Feeling",
+        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
+      },
+      "artists": [
+        {
+          "name": "Birds are better",
+          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Peaceful Easy Feeling",
+      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "I Will See You",
         "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
       },
@@ -1247,22 +1299,6 @@
       "duration_ms": 272000,
       "name": "I Will See You",
       "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Peaceful Easy Feeling",
-        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
-      },
-      "artists": [
-        {
-          "name": "Birds are better",
-          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
-        }
-      ],
-      "duration_ms": 171038,
-      "name": "Peaceful Easy Feeling",
-      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1331,6 +1367,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Flamma",
+        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
+      },
+      "artists": [
+        {
+          "name": "Kayo",
+          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
+        }
+      ],
+      "duration_ms": 195414,
+      "name": "Flamma",
+      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/4OZ9AKXuJddrtE8wTl9KtO"
       },
@@ -1371,18 +1423,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Flamma",
-        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
       "artists": [
         {
-          "name": "Kayo",
-          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 195414,
-      "name": "Flamma",
-      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1491,6 +1547,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
+      },
+      "artists": [
+        {
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+        }
+      ],
+      "duration_ms": 210568,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Pl\u00e5ster",
         "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
       },
@@ -1503,26 +1575,6 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Sk\u00e5pmat 71-05",
-        "url": "https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d"
-      },
-      "artists": [
-        {
-          "name": "Rolf Wikstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
-        },
-        {
-          "name": "Daniel Lemma",
-          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
-        }
-      ],
-      "duration_ms": 248319,
-      "name": "En \u00f6kenblomma",
-      "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1559,74 +1611,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+        "name": "Sk\u00e5pmat 71-05",
+        "url": "https://open.spotify.com/album/1KXoF9uZKGKa91DSVG8z8d"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Rolf Wikstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
         },
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Daniel Lemma",
+          "url": "https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS"
         }
       ],
-      "duration_ms": 200649,
-      "name": "Walked on Water (feat. Kesha)",
-      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 204411,
-      "name": "California Sober (Feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
-      },
-      "artists": [
-        {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
-        }
-      ],
-      "duration_ms": 210568,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
+      "duration_ms": 248319,
+      "name": "En \u00f6kenblomma",
+      "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
     },
     {
       "added_at": "2024-08-15 22:00:00",

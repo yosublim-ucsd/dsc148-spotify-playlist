@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The freshest pop sounds. Cover: LISA",
+  "description": "The freshest pop sounds. Cover: LISA & ROSAL\u00cdA",
   "name": "New Pop Revolution",
   "tracks": [
     {
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198671,
       "name": "BET",
       "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
@@ -7906,7 +7906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -8217,6 +8217,28 @@
     },
     {
       "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/4SWYpB2IBlwzeyLEroUxso"
       },
@@ -8293,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
+    },
+    {
+      "album": {
         "name": "For Me",
         "url": "https://open.spotify.com/album/2qs7UAryYxCEph8DIl1det"
       },
@@ -8344,7 +8384,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142706,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/0JNcgsLk3Zdxgu75aGppmH"
@@ -11463,6 +11503,24 @@
     },
     {
       "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "album": {
         "name": "I Like That",
         "url": "https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI"
       },
@@ -11550,6 +11608,24 @@
       "duration_ms": 185522,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "album": {
@@ -12946,7 +13022,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 138618,
       "name": "JUST LIKE THAT",
       "url": "https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb"
@@ -14339,6 +14415,24 @@
     },
     {
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
         "name": "Look What You've Done",
         "url": "https://open.spotify.com/album/5kpRcX0pCeMK74PSgnaX7g"
       },
@@ -14928,7 +15022,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
@@ -16717,6 +16811,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "Next 2 U",
         "url": "https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA"
       },
@@ -16728,7 +16844,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161801,
       "name": "Next 2 U",
       "url": "https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA"
@@ -17206,6 +17322,24 @@
       "duration_ms": 134087,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ"
+    },
+    {
+      "album": {
+        "name": "OBVIOUS",
+        "url": "https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190903,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE"
     },
     {
       "album": {
@@ -18674,7 +18808,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -18757,6 +18891,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123088,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
+    },
+    {
+      "album": {
         "name": "Thanks For Nothing, See You Never",
         "url": "https://open.spotify.com/album/3z0cezSSci6BbzON9y9LXc"
       },
@@ -18830,6 +18982,24 @@
       "duration_ms": 146234,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
+    },
+    {
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "album": {
@@ -19120,6 +19290,24 @@
       "duration_ms": 174567,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw"
+    },
+    {
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
     },
     {
       "album": {
@@ -22165,6 +22353,24 @@
     },
     {
       "album": {
+        "name": "summer crush",
+        "url": "https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM"
+      },
+      "artists": [
+        {
+          "name": "Elle Darlington",
+          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176330,
+      "name": "summer crush",
+      "url": "https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H"
+    },
+    {
+      "album": {
         "name": "Summer Fling",
         "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
       },
@@ -22400,7 +22606,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
@@ -22570,6 +22776,24 @@
       "duration_ms": 148124,
       "name": "Take It or Leave It",
       "url": "https://open.spotify.com/track/1M65QIDUGHX5iccsPZ83hd"
+    },
+    {
+      "album": {
+        "name": "TALES OF A TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/0eqhKrOcjnDnJNQTi3zGkD"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ine Deane",
+          "url": "https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175807,
+      "name": "TALES OF A TWENTY SOMETHING",
+      "url": "https://open.spotify.com/track/1NTTLmNKj9FZSL40Ouwudu"
     },
     {
       "album": {
@@ -24886,7 +25110,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
@@ -26026,6 +26250,24 @@
       "duration_ms": 223333,
       "name": "Wild Side",
       "url": "https://open.spotify.com/track/1Wm2Oqbd0aZRDtClkVdgJJ"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "album": {

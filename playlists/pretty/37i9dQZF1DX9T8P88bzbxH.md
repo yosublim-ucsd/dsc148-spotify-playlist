@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Time to meet your faves IRL\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,086 likes - 11 songs - 33 min 45 sec
+[Spotify](https://open.spotify.com/user/spotify) - 63,051 likes - 11 songs - 33 min 45 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-238 songs - 12 hr 38 min
+242 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Advice](https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:37 | 2023-04-11 |  |
 | [alibi](https://open.spotify.com/track/1tDy4iJt1FFK9FiEv5ITL7) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [alibi](https://open.spotify.com/album/6tfIdhvSP0DoNyBAgBUHcv) | 5:01 | 2023-03-03 | 2023-05-17 |
 | [alter](https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [alter](https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC) | 2:18 | 2023-04-11 |  |
+| [another life](https://open.spotify.com/track/0cv23MDqZknh1AwCjr6y0S) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i only remember the good parts](https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI) | 2:11 | 2024-08-16 |  |
 | [attempt to disagree](https://open.spotify.com/track/59tYpcZZzf6eSjp5fGaZzf) | [wishlane](https://open.spotify.com/artist/15eJnht8wSa1rUGRQpYU6l) | [lakehouse](https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip) | 3:33 | 2023-07-14 |  |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2024-01-05 | 2024-04-17 |
 | [Become the Warm Jets](https://open.spotify.com/track/2CCEFV57TqSizTMyKLKgX5) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [A Different Age](https://open.spotify.com/album/1V4qtKgt66rKrgjEbgHIBj) | 5:34 | 2023-04-11 |  |
@@ -58,6 +59,7 @@
 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 | 2023-06-02 |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 |  |
 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 | 2023-04-11 | 2023-07-01 |
+| [drain](https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [drain](https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f) | 2:09 | 2024-08-16 |  |
 | [Drain the Pool](https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 3:56 | 2023-04-11 | 2023-05-17 |
 | [End of Ways](https://open.spotify.com/track/34wWqij7B9ZysWCMMLwHIt) | [Elliott Fullam](https://open.spotify.com/artist/2Qxud5LpPRMREqYpOX3DQw) | [End of Ways](https://open.spotify.com/album/6wmyIwT5v1bKbUFaa24Rry) | 3:18 | 2023-08-11 |  |
 | [Enjoyer](https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Enjoyer](https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW) | 3:36 | 2023-04-14 | 2023-07-15 |
@@ -100,6 +102,7 @@
 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 | 2023-06-30 |  |
 | [i'm going to fail my class](https://open.spotify.com/track/04i5DIpsM09MdeNa4mwz8Q) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/0Ybc1xl1Bw2Eip0meV4Ur7) | 1:03 | 2023-06-13 | 2024-04-19 |
 | [i'm going to fail my class](https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP) | [mage tears](https://open.spotify.com/artist/49z5htqDa2p7kjejLAbanc) | [old songs](https://open.spotify.com/album/7K6xxToK8V4QO8dmjRnyWn) | 1:03 | 2023-06-13 |  |
+| [I'm Tired](https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4) | [My Final Sanctuary](https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO) | [I'm Tired](https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n) | 3:14 | 2024-08-16 |  |
 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 | 2024-05-17 |  |
 | [Idea June](https://open.spotify.com/track/6Jfj1S7EgM22jkHOGigzrm) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Idea June](https://open.spotify.com/album/17pHBGN0qKzdwOqmHXCBCC) | 1:30 | 2024-04-16 |  |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-02-09 |  |
@@ -237,6 +240,7 @@
 | [Wish](https://open.spotify.com/track/2MJkQZEB0YNJbnQ59dZ0Pp) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 2:36 | 2023-06-02 |  |
 | [Wishuwerehere](https://open.spotify.com/track/6yKHbryXqvrAs6IRlm7KU7) | [Dead Sullivan](https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I) | [Reason](https://open.spotify.com/album/50hxpwsOJzyixVu9e02Dm3) | 3:29 | 2023-04-11 |  |
 | [Wishuwerehere](https://open.spotify.com/track/7nAg9e2rEkIVtM4PQockjj) | [Dead Sullivan](https://open.spotify.com/artist/6l1iT5q2DEGQTPIED2fU8I) | [Reason](https://open.spotify.com/album/3PSOspwqLIsf6t602LWmpD) | 3:29 | 2023-04-11 | 2024-04-19 |
+| [Word](https://open.spotify.com/track/4M6x3QboBSckK3j0rNxYJQ) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Word](https://open.spotify.com/album/5r8G19v5d6ZoLpT7SJlWmx) | 3:26 | 2024-08-16 |  |
 | [Worlds Away](https://open.spotify.com/track/0prQCTD21VDitSeQA0gcHe) | [Leon Santana](https://open.spotify.com/artist/2h9w7Ko9db7p0mDGfiL6vS) | [Worlds Away](https://open.spotify.com/album/10xHNga4erJpRZTAU4JdSO) | 2:43 | 2023-04-11 | 2023-06-03 |
 | [Yellow](https://open.spotify.com/track/36Owb6DDJbBFXi86x3X61z) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Healing Process](https://open.spotify.com/album/7k3PdFJ8APzpSCwptwI9cT) | 2:14 | 2023-02-09 | 2024-04-19 |
 | [Yellow](https://open.spotify.com/track/3kB6mhLHqvKjcIEoy9DqiE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | ["Healing Process" Singles](https://open.spotify.com/album/0RXGnnAGB3ZBRFpZkISe4T) | 2:14 | 2023-04-11 |  |

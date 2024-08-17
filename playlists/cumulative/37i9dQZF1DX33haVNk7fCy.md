@@ -4,7 +4,7 @@
 
 > Dukh Dard Peeda!  🫂
 
-173 songs - 11 hr 36 min
+174 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,10 +153,11 @@
 | [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 | 2023-05-15 | 2024-07-11 |
 | [Tera Ghata](https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Tera Ghata](https://open.spotify.com/album/7nRsCQuIFeFwO8fcQ5mRlH) | 4:14 | 2024-07-10 |  |
 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 | 2023-05-15 | 2024-07-11 |
+| [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 | 2024-08-16 |  |
 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 | 2024-07-10 |  |
 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 | 2023-05-15 | 2024-07-11 |
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2024-07-10 |  |
-| [Tod Da E Dil](https://open.spotify.com/track/1WTwFMVRQvkx9fRpCKNrJ9) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/5psXEF4Sj4mSQa1KlJLPEy) | 2:37 | 2024-07-10 |  |
+| [Tod Da E Dil](https://open.spotify.com/track/1WTwFMVRQvkx9fRpCKNrJ9) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/5psXEF4Sj4mSQa1KlJLPEy) | 2:37 | 2024-07-10 | 2024-08-17 |
 | [Tod Da E Dil](https://open.spotify.com/track/5ZWlqm8UaSLxpK12COV2V2) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Tod Da E Dil](https://open.spotify.com/album/6cZey3zlAYky4cHTlPmlOv) | 2:37 | 2024-07-10 | 2024-07-23 |
 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 | 2024-07-10 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 | 2024-07-11 |

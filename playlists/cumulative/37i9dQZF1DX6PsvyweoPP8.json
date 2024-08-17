@@ -187,6 +187,32 @@
     },
     {
       "album": {
+        "name": "O Amor \u00e9 uma Corrida",
+        "url": "https://open.spotify.com/album/4m84gXVeya6qesszhQzRpy"
+      },
+      "artists": [
+        {
+          "name": "CARTE",
+          "url": "https://open.spotify.com/artist/10lZ3MatShsQGTGHguEA89"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "200Km/H",
+      "url": "https://open.spotify.com/track/7lXSVhYIHoYdX3vtdj55fh"
+    },
+    {
+      "album": {
         "name": "202",
         "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
       },
@@ -424,7 +450,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171061,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/4lrCXOBcdVspjbPw8P6hxX"
@@ -1828,7 +1854,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216321,
       "name": "Diaba",
       "url": "https://open.spotify.com/track/2pB7B2h6onWgWIfs1M7Q9Y"
@@ -2260,7 +2286,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 103563,
       "name": "Fim",
       "url": "https://open.spotify.com/track/1dG2h6cvRGzFPnypA4DDGK"
@@ -2296,7 +2322,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 132531,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/53vCPvYsEtpvtVYKwuBetB"
@@ -2518,7 +2544,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 248000,
       "name": "Gosto Assim",
       "url": "https://open.spotify.com/track/4ft5KUZ96NspZXyHYXPJcQ"
@@ -2806,7 +2832,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152365,
       "name": "King Size",
       "url": "https://open.spotify.com/track/65H0yBiqmdiXinuexEWDAs"
@@ -3228,7 +3254,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150932,
       "name": "Me Expulse",
       "url": "https://open.spotify.com/track/393H1RMRUEGjnKZp2xfkif"
@@ -3630,7 +3656,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 134357,
       "name": "Mundo da Lua",
       "url": "https://open.spotify.com/track/19LPmQKg4LKTla6L9PJQZ4"
@@ -3922,7 +3948,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200000,
       "name": "ODONTO",
       "url": "https://open.spotify.com/track/1igEF1TAmrJMHVjEuSxII3"
@@ -4482,7 +4508,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136615,
       "name": "Proibido",
       "url": "https://open.spotify.com/track/3F9y4nfxXCkt8KFr3DuC1H"
@@ -4884,7 +4910,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 229743,
       "name": "Sem Competi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4cMs4UogHQq5avftmKA3sr"
@@ -5062,7 +5088,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179340,
       "name": "Seu Fogo",
       "url": "https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm"
@@ -5256,7 +5282,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174298,
       "name": "Sommelier",
       "url": "https://open.spotify.com/track/3HOlhweyZyyD8QSTZjI63I"

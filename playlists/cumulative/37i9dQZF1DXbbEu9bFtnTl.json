@@ -1011,6 +1011,32 @@
     },
     {
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/6ZGBCwQYjflgFEh42TFru0"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
+    },
+    {
+      "album": {
         "name": "KieremeAMi",
         "url": "https://open.spotify.com/album/0UuvmoWFNqnT6lk4yeGi1q"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 363612,
+  "num_followers": 363583,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        }
-      ],
-      "duration_ms": 165931,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Sun Goes Up",
         "url": "https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 133200,
       "name": "Sun Goes Up",
       "url": "https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0wX0I9s2XCXV6IODVIwIkA"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 165931,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/70jAESz42ftg7bQsihU6hL"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "PO PO PULL UP",
         "url": "https://open.spotify.com/album/5ofmwqey2otEVLQdwb8I2Z"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 141411,
       "name": "PO PO PULL UP",
       "url": "https://open.spotify.com/track/6MBHUC8RKxwNa4iztDXeJp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Leva/D\u00f6",
+        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 152105,
+      "name": "Leva/D\u00f6",
+      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "ALLA F\u00c5R KOMMA",
         "url": "https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 144732,
       "name": "ALLA F\u00c5R KOMMA",
       "url": "https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Leva/D\u00f6",
-        "url": "https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X"
-      },
-      "artists": [
-        {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Leva/D\u00f6",
-      "url": "https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM"
     },
     {
       "added_at": "2024-06-13 22:00:00",

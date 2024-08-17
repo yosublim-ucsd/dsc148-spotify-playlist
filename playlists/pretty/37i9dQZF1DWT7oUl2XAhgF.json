@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 343567,
+  "num_followers": 343631,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAACeJboUEHUU0ytA8rhnOe/w",
+  "snapshot_id": "Zr7OwAAAAACo4L1iYHExAzxgK+8+r9bB",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/1ttykBBV3NnY9PK10pNHz4"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/78HIwSM6qwt31B17hISEDP"
+    },
+    {
       "added_at": "2024-04-05 04:01:00",
       "album": {
         "name": "Here To Stay",
@@ -39,6 +55,22 @@
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Togetherness",
+        "url": "https://open.spotify.com/album/1j37VGRtRJq8ygKuhtoRkX"
+      },
+      "artists": [
+        {
+          "name": "The Slim Kings",
+          "url": "https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf"
+        }
+      ],
+      "duration_ms": 204300,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/4WiET88jkeGbxkxcFvf4m2"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/2TO94jb5WRKNU2oayRQ75I"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Champagne Pink Convertible",
+        "url": "https://open.spotify.com/album/5R3ed7kpdEqaWOGhRAWS52"
+      },
+      "artists": [
+        {
+          "name": "The Alex Opal Outfit",
+          "url": "https://open.spotify.com/artist/612YJjBnm5H6J9djarFtiq"
+        }
+      ],
+      "duration_ms": 212003,
+      "name": "Champagne Pink Convertible",
+      "url": "https://open.spotify.com/track/1jtMie6Lh5Je7uWTazXJmi"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Don't Take Me As A Fool",
@@ -103,6 +151,30 @@
       "duration_ms": 232177,
       "name": "Don't Take Me As A Fool",
       "url": "https://open.spotify.com/track/2NmG3EqUzGPI1n8W1lSbN8"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Yes You're Losing Me",
+        "url": "https://open.spotify.com/album/0MnIPyrLk5OrNxYUibwFGt"
+      },
+      "artists": [
+        {
+          "name": "Golden Rules",
+          "url": "https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz"
+        },
+        {
+          "name": "The Rayvelles",
+          "url": "https://open.spotify.com/artist/3L3PAH3N5HFV6J4dvSXypZ"
+        },
+        {
+          "name": "Marietta Smith",
+          "url": "https://open.spotify.com/artist/4Blw3ZwUWUvEZ7nkgGDdRi"
+        }
+      ],
+      "duration_ms": 185207,
+      "name": "Yes You're Losing Me",
+      "url": "https://open.spotify.com/track/1fWNne2He3s1N6GzRcNHi0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -377,22 +449,6 @@
       "url": "https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Let's Be Alone Together",
-        "url": "https://open.spotify.com/album/4ZSJXSwFpoVKzVCInWagCi"
-      },
-      "artists": [
-        {
-          "name": "The Slim Kings",
-          "url": "https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf"
-        }
-      ],
-      "duration_ms": 311300,
-      "name": "Let's Be Alone Together",
-      "url": "https://open.spotify.com/track/4svMoWeX1xfkJw4NiRJL6N"
-    },
-    {
       "added_at": "2024-05-10 04:01:00",
       "album": {
         "name": "Mom Of Mine",
@@ -407,22 +463,6 @@
       "duration_ms": 187456,
       "name": "Mom Of Mine",
       "url": "https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "All I Need (The Gemini Song)",
-        "url": "https://open.spotify.com/album/71uGvbeHGdF2LIPCIVqYLF"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "All I Need (The Gemini Song)",
-      "url": "https://open.spotify.com/track/212aM3sCb6fAeqUnYiLr61"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -1271,26 +1311,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Shinin'",
         "url": "https://open.spotify.com/album/3apdYMNCak4rL88AHYxbP4"
       },
@@ -1547,22 +1567,6 @@
       "duration_ms": 162110,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/3xSXtVecNOXQP4J1MP0O7K"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Workin' Man Blues",
-        "url": "https://open.spotify.com/album/2gjhCcAyZe5Zb1kyUbNNPK"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        }
-      ],
-      "duration_ms": 217039,
-      "name": "Workin' Man Blues",
-      "url": "https://open.spotify.com/track/54SPmx0U4wg5P4I9rO9kdC"
     },
     {
       "added_at": "2023-09-01 04:00:00",

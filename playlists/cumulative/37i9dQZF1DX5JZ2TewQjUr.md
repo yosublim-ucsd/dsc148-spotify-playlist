@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
 
-1,129 songs - 2 day 15 hr 56 min
+1,130 songs - 2 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 | 2023-02-23 | 2023-05-11 |
 | [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 | 2023-05-04 | 2023-07-14 |
 | [Forest of Heart](https://open.spotify.com/track/2ZrFr2ma0smY5iyOHlOowm) | [Orange Leung](https://open.spotify.com/artist/072b9AYGZXFRwlwHUmXYrl) | [Forest of Heart](https://open.spotify.com/album/3HIXMVvNpT2raNuV78a0RM) | 3:51 | 2024-08-15 |  |
+| [Forever](https://open.spotify.com/track/6BacAlSgZBheHyLUDLxkuL) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Forever](https://open.spotify.com/album/4ctH0mVmqSS4NSSWhHwITZ) | 3:05 | 2024-08-15 |  |
 | [FOREVER \- Kareem Ali Remix](https://open.spotify.com/track/12OsQucIX8hPcUOYeVGQsU) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx), [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [FOREVER \(Kareem Ali Remix\)](https://open.spotify.com/album/4ynBirhddBTm6AxefL8SNL) | 3:32 | 2024-02-29 | 2024-06-07 |
 | [Fotan Jazz Club](https://open.spotify.com/track/2EThbrd13icX0eP6OPzdBR) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [Matt Force](https://open.spotify.com/artist/4ymVglyzE9C7StALg2Sx9N), [Akira Mimasu](https://open.spotify.com/artist/5JtWkrls291QYKbtm1oSVU) | [Windsong](https://open.spotify.com/album/1oCtNZFONXjJoAgZJBckHJ) | 3:44 | 2022-05-26 | 2022-09-09 |
 | [FREE](https://open.spotify.com/track/4i4AX86CSIigRdVsU0yR8P) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [FREE](https://open.spotify.com/album/45TbgMtq1d6KxOhXdN3Sax) | 6:14 | 2022-07-28 | 2022-11-04 |

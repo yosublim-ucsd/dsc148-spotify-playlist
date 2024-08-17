@@ -2,9 +2,9 @@
 
 ### [New Music Friday Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX3crNbt46mRU)
 
-> This week's top new releases.
+> This week's top new releases\. Cover: Lady Gaga, Bruno Mars
 
-13,504 songs - 28 day 2 hr 32 min
+13,505 songs - 28 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2963,6 +2963,7 @@
 | [Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Die Sterne](https://open.spotify.com/album/5MWl80M1azmxFDfUyxVYEy) | 1:28 | 2023-06-01 | 2023-06-09 |
 | [Die Sterne von unten](https://open.spotify.com/track/0B8tGqN52HyBrJmT4XtiEZ) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [Die Sterne von unten](https://open.spotify.com/album/1osacDeCroZRCyg11Zjrhg) | 3:07 | 2022-11-10 | 2022-11-18 |
 | [Die Verlorenen](https://open.spotify.com/track/5sYG2culeIGDfTrfLPrJ61) | [Artur & Vanessa](https://open.spotify.com/artist/2F21qHIw2osOtDsgrNyVnG), [Pascal el Sauaf](https://open.spotify.com/artist/2G0ReDzaw8XHQOb3N3UtTa), [Benedikt Reising](https://open.spotify.com/artist/1x6EAoVDZXNHVtVdh7dVQH), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91), [Karl die Große](https://open.spotify.com/artist/5MwE8MYe6c9A0SKnfCix3Z), [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Liv Solveig](https://open.spotify.com/artist/3MgZd3HuOE2FdtaDgUBtZM), [Malte Huck](https://open.spotify.com/artist/7Kf3wymfUa25UVydm2296A) | [Die Verlorenen](https://open.spotify.com/album/3hPYgsRF9mY8Tzi4whzxDK) | 3:48 | 2023-06-01 | 2023-06-09 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 | 2023-06-22 | 2023-06-30 |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-26 | 2022-06-03 |
 | [DIE ZONA](https://open.spotify.com/track/5tafJmErKsdZKFtPWnCL82) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:25 | 2023-11-23 | 2023-12-01 |

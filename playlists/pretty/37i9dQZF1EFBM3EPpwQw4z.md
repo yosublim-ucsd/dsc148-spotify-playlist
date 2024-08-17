@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 102 | [Avalanche](https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:08 |
 | 103 | [Ghost](https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:45 |
 | 104 | [Stranded](https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 4:48 |
-| 105 | [Safe And Sound](https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 5:00 |
-| 106 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 105 | [Closer](https://open.spotify.com/track/7yO6s90XJGvMTpb2ZIPp1N) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Closer](https://open.spotify.com/album/7gFbABIINSSKKftlkOR1bf) | 4:19 |
+| 106 | [Safe And Sound](https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 5:00 |
 | 107 | [Vision of Love](https://open.spotify.com/track/4Vq21syz7y2dTZYW2PVab9) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe) | [Break Free](https://open.spotify.com/album/0OOa1ua526wFSIdcVZz8X9) | 6:00 |
 | 108 | [The Fever \- Komes Remix](https://open.spotify.com/track/5hMfReWJDENsR40jTd55Xj) | [Danny T](https://open.spotify.com/artist/7hHFkd0a3q4JjSZs5krnss) | [The Fever](https://open.spotify.com/album/41VdmdFX4T2uZc7BHB4yhl) | 5:01 |
 | 109 | [Eyes on You](https://open.spotify.com/track/3ua8ZjsvMZ5KBVd6P3EUib) | [KyHeezie](https://open.spotify.com/artist/3UPeHlGPAeX6seBcLtfDon) | [Karma](https://open.spotify.com/album/2jUHjfC4leHIs3imrprfte) | 4:21 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 119 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 | 120 | [Find A Way](https://open.spotify.com/track/09ByoZ1zkCc9AGP3teaEoo) | [Tella Bandz](https://open.spotify.com/artist/7pzc8WQrOwyz1aU1A7VLXR), [Mykal Ren](https://open.spotify.com/artist/4WS16pmkuXtDE0D3sqGEK5), [Big Walt](https://open.spotify.com/artist/4QfIdKIrWkKYQv0m52rsYd), [Anna Dee](https://open.spotify.com/artist/2fnLbwPHW4uCvaFeWhU4Bo) | [Bandz On TheBeat \(PartOne\)](https://open.spotify.com/album/21IrvciCKnhlo5C0Jp868R) | 4:03 |
 
-Snapshot ID: `AbZhHgAAAADyCNNtzVrfM/DSfIiFREpl`
+Snapshot ID: `AbZmvgAAAABNKRpYlsDQzMd6LQ2Pogrf`

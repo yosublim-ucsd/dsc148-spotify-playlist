@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-1,236 songs - 2 day 13 hr 42 min
+1,239 songs - 2 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Breath in the wild](https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Breath in the wild](https://open.spotify.com/album/5yuWZILlLQTDhgseEyR6uS) | 2:00 | 2021-10-23 | 2023-03-10 |
 | [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2021-05-04 | 2021-09-03 |
 | [Breathe Through the Nightfall](https://open.spotify.com/track/46eTpI7izVIiLof0LhlAOZ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Beyond the Atmosphere](https://open.spotify.com/album/48L1AM7T0095DDx3rSh3Az) | 3:39 | 2020-10-20\* | 2020-12-12 |
+| [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 |  |
 | [Bring You Home](https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg) | [Sonhos de Solidão](https://open.spotify.com/artist/5u54CVdeb9o3uVJjigbrWS) | [Bring You Home](https://open.spotify.com/album/2CWJts4Z3ZCOgTHYbNo6a1) | 2:41 | 2022-02-09 | 2023-06-17 |
 | [Broken Ledge](https://open.spotify.com/track/6kM1BzE57Mt5ILbWqzMB14) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Broken Ledge](https://open.spotify.com/album/6EunXIj9FEYNhXS597LXIa) | 2:22 | 2021-07-07 | 2023-02-18 |
 | [Buona notte](https://open.spotify.com/track/0ivVJooq6VM3NibR2PpWtr) | [Callisto Mazzi](https://open.spotify.com/artist/0m0GtPOIUqS9mroE1ErOBn) | [Buona notte](https://open.spotify.com/album/4xm1vLLGnZB1DuHoJOsm2k) | 2:55 | 2020-10-20\* | 2021-06-16 |
@@ -190,6 +191,7 @@
 | [Campus](https://open.spotify.com/track/2PUoynqedBx15JbPYxzA5v) | [Løkss](https://open.spotify.com/artist/4BDykan7916A0AbhBtzDE6) | [Campus](https://open.spotify.com/album/7INe8nJOpKW1XVClOBvjmo) | 3:39 | 2021-02-06 | 2021-08-17 |
 | [Canopy](https://open.spotify.com/track/01DELyfvCU3ZJUCDGWNfTz) | [Akleia](https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd) | [Stardust](https://open.spotify.com/album/7C6tnszQFEDAuNpeGUcFUe) | 3:01 | 2020-11-21 | 2021-06-16 |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-20 |  |
+| [Capacity](https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Capacity](https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c) | 3:00 | 2024-08-16 |  |
 | [Caring](https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w) | [Bonnie Mathis](https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr) | [Caring](https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk) | 3:33 | 2020-12-12 | 2021-08-17 |
 | [Carpe Noctem](https://open.spotify.com/track/6VpiWp5wBEjHTYWojGEqxY) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Carpe Noctem](https://open.spotify.com/album/33uHEVO7NRsOp79bf2EfX8) | 3:07 | 2020-10-20\* | 2021-05-04 |
 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-20 |  |
@@ -538,7 +540,7 @@
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2021-02-06 | 2022-09-03 |
 | [illecebrous](https://open.spotify.com/track/0d7cx0ApKrKqpB1LCI0gja) | [Unity & Harmony](https://open.spotify.com/artist/1HxhPKVY1XsKFIpvkYdXPI) | [illecebrous](https://open.spotify.com/album/44ustRoAmDpgAd8RyrvfiD) | 2:25 | 2024-01-17 | 2024-03-21 |
 | [Imaginar](https://open.spotify.com/track/0mYZDzhKs8sa0oDsS6HSZ5) | [Chiara Nieves](https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc) | [Imaginar](https://open.spotify.com/album/5pvykd31AywUWTa9q6ktA5) | 2:24 | 2023-02-24 | 2024-05-21 |
-| [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 | 2024-03-06 |  |
+| [Imagination](https://open.spotify.com/track/4lQzFqLkWkySwksrnuwIUn) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Imagination](https://open.spotify.com/album/7FtteL9w25Y1jvVdqLjheK) | 2:29 | 2024-03-06 | 2024-08-17 |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2022-03-15 | 2024-02-08 |
 | [Impressions](https://open.spotify.com/track/2PJ1ULEfrbhrqHU1rXVpYD) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Impressions](https://open.spotify.com/album/2sMBKaZUtiOglxHdp9Kyaz) | 3:05 | 2022-11-11 | 2024-02-08 |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2020-10-20\* | 2021-05-04 |
@@ -738,7 +740,7 @@
 | [Noctis](https://open.spotify.com/track/4Dd3YiefvL7kGQ0A0ETVpk) | [Les Averill](https://open.spotify.com/artist/6QnByjdPdoA9we2qgTauhp) | [Noctis](https://open.spotify.com/album/3chO9VP2iKEwLawTlJ733T) | 3:05 | 2024-02-07 | 2024-03-07 |
 | [Nocturnal](https://open.spotify.com/track/4sJMWTrLmw0ijFb7NmqqKL) | [Zamphire](https://open.spotify.com/artist/1oSjfZFemVPG0PZa6j94vl) | [Nocturnal](https://open.spotify.com/album/0JuOM1FiY5sNZCpgetmPSH) | 2:52 | 2023-09-20 | 2024-02-08 |
 | [Nocturne](https://open.spotify.com/track/68kWt9VWUD62Ga664SDCiz) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA) | [Nocturne](https://open.spotify.com/album/1bMCk09m3q6MSrhba1dBuA) | 3:43 | 2020-10-20\* | 2020-12-12 |
-| [Nomad](https://open.spotify.com/track/5I9nwDidj4Y6mVRYS7HuPS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Shut Eye](https://open.spotify.com/album/16bciap4drqxWTRFiP4aM7) | 3:20 | 2023-05-19 |  |
+| [Nomad](https://open.spotify.com/track/5I9nwDidj4Y6mVRYS7HuPS) | [Hatchlings Calm](https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw) | [Shut Eye](https://open.spotify.com/album/16bciap4drqxWTRFiP4aM7) | 3:20 | 2023-05-19 | 2024-08-17 |
 | [Noraezean](https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Noraezean](https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61) | 3:32 | 2020-12-12 | 2022-06-17 |
 | [Nordic Dusk](https://open.spotify.com/track/45QSxAYVRenwmZrXV1RNpq) | [Frej Simdo](https://open.spotify.com/artist/4g6MelMNF907IHJh15KX4V) | [Nordic Dusk](https://open.spotify.com/album/7yx5ZX90Dk4CNbFCR6y04P) | 3:12 | 2023-09-08 |  |
 | [Norm and Mirza](https://open.spotify.com/track/5IRmwahDW9Du2lJMpCHeFj) | [Emotional Pleasure](https://open.spotify.com/artist/1EP08kGH9Qa0yxHOLxzCC9) | [The Quarter is Served](https://open.spotify.com/album/5TFwtVclee1QHlnqXSTZ4Y) | 3:58 | 2020-10-20\* | 2021-08-17 |
@@ -748,7 +750,7 @@
 | [Notes](https://open.spotify.com/track/0Pw89E5ah5yuXtLm9yQ24t) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [ppp](https://open.spotify.com/album/3HZPRy9Ma50IqCFOdgRS9C) | 2:07 | 2021-03-14 | 2022-07-29 |
 | [Notes](https://open.spotify.com/track/3ASr0AXBDjIzS9Rwi5tLxy) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Notes](https://open.spotify.com/album/3Hkp9N92ailBc5Wx4xDLY5) | 2:07 | 2022-07-22 | 2023-09-01 |
 | [Notes](https://open.spotify.com/track/3Mf9Lb4JrEoSxdcHt9Pkck) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [ppp](https://open.spotify.com/album/14vioV2YNu0QZiC5G8T0Mk) | 2:07 | 2022-10-21 | 2022-11-13 |
-| [Noticed](https://open.spotify.com/track/4vU3FDQiL394Dl21OYfNbg) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Close](https://open.spotify.com/album/7AJa4cvgpRjliDkdkC5nNH) | 2:46 | 2023-09-29 |  |
+| [Noticed](https://open.spotify.com/track/4vU3FDQiL394Dl21OYfNbg) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Close](https://open.spotify.com/album/7AJa4cvgpRjliDkdkC5nNH) | 2:46 | 2023-09-29 | 2024-08-17 |
 | [Novastar](https://open.spotify.com/track/14pCak2cBXOqZHQ2MQIUoW) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Novastar](https://open.spotify.com/album/1xP3LaVgXtIoMgdlQIli0r) | 2:57 | 2024-03-06 | 2024-05-21 |
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-06-16 | 2023-06-17 |
 | [Nuuk](https://open.spotify.com/track/2Wx7l5zsE7N5YQssh32eqq) | [Peer Lynge](https://open.spotify.com/artist/6RCPJMCnR1oF3uis5UNBp7) | [Nuuk](https://open.spotify.com/album/4pT4omK2Xji9ZIdh0JCHdb) | 2:44 | 2020-10-20\* | 2021-05-04 |
@@ -878,7 +880,7 @@
 | [Resolutions](https://open.spotify.com/track/4ovVCv4X9VZfT79f79c0XN) | [Bevan Holcomb](https://open.spotify.com/artist/4c2v7qErEBJfzjDs2UXStG) | [Resolutions](https://open.spotify.com/album/4aHmDEtV3YWFakmdD2LMow) | 3:08 | 2022-09-02 | 2024-02-08 |
 | [Resort To Nature](https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ) | [Relaxatron](https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d) | [Resort To Nature](https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c) | 2:58 | 2024-05-20 |  |
 | [Response](https://open.spotify.com/track/1yNQpzSyigQQ91TLZHutvB) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Response](https://open.spotify.com/album/0evxd5kXADFYIhiYRQ1p7e) | 3:24 | 2024-07-09 |  |
-| [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-05-04 |  |
+| [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-05-04 | 2024-08-17 |
 | [Resting Minds](https://open.spotify.com/track/5Hof0DyNAt1u3NutmjZmjI) | [Soft Voyage](https://open.spotify.com/artist/4FDnFOfVVVFWDNecPIbaYo) | [Resting Minds](https://open.spotify.com/album/7u7JptXq6ywEFFL8XrMYvo) | 4:29 | 2020-10-20\* | 2020-12-12 |
 | [Resting Peace](https://open.spotify.com/track/0BWqXtl5RSRWEDfoL2HdV9) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Ambioso](https://open.spotify.com/album/6WrK1ZkwCjDKfY8LrAbpt8) | 3:29 | 2020-11-21 | 2021-05-04 |
 | [Reticence](https://open.spotify.com/track/1VLKeNy3qUe8MNvejjTtoy) | [Fiona Kolev](https://open.spotify.com/artist/5gIsewE9wwowXLnCYMpzO4) | [Reticence](https://open.spotify.com/album/3r2Bjqzlzo9eGjzcFjT4Ox) | 2:33 | 2021-10-23 | 2023-06-10 |
@@ -1114,6 +1116,7 @@
 | [Tickling Sands](https://open.spotify.com/track/5Mo96DgFoFbc11UVgtIRB4) | [Siona Swin](https://open.spotify.com/artist/5zULMyrVBmeq8ommEfkb5U) | [Tickling Sands](https://open.spotify.com/album/3yhVe5nKL8Vsgd03lPsxDN) | 2:34 | 2021-03-14 | 2021-06-16 |
 | [Tidal](https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Tidal](https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5) | 2:40 | 2024-03-06 |  |
 | [Tidal Flow](https://open.spotify.com/track/63yQS5uf762DJHLssPlrNw) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [Eternal Slumber](https://open.spotify.com/album/21Dtw5RPCrdPVsj3RuaxC1) | 2:42 | 2020-10-20\* | 2021-05-04 |
+| [Tides](https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Tides](https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH) | 2:54 | 2024-08-16 |  |
 | [Timeframe](https://open.spotify.com/track/4SuMhk4CgYIz3pPKRIXHFp) | [Sailors Of The 7 Seas](https://open.spotify.com/artist/64u292UVi3Zlu0Dl9svsMb) | [Timeframe](https://open.spotify.com/album/7BIGjdAsTOcMIQn12For8s) | 3:04 | 2021-05-04 | 2022-03-25 |
 | [Times](https://open.spotify.com/track/55zjeIIywlkvH80y1bmOL7) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [Times](https://open.spotify.com/album/2tBc8cJWSFFPIbq9bL00XY) | 2:54 | 2024-02-07 | 2024-03-21 |
 | [Times of Balance](https://open.spotify.com/track/6V5tAhkj0iaXam3mPWZXHH) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Times of Balance](https://open.spotify.com/album/1GyirIxudz92CUQAp92sw0) | 2:52 | 2023-09-08 | 2024-02-27 |

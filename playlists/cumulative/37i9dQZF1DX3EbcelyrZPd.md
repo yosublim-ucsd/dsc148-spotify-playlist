@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Chege & Alikiba
 
-439 songs - 1 day 1 hr 14 min
+440 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Jeshi](https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jeshi](https://open.spotify.com/album/0F99MTbWxyLZbXLtcgfYg5) | 3:17 | 2021-06-25 | 2022-02-05 |
 | [Jipinde](https://open.spotify.com/track/66Y7mdsIOB9o6VrAJjdJGU) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Jipinde](https://open.spotify.com/album/4JMCOqbKas506lkTUtGGOq) | 2:40 | 2021-09-02 | 2022-07-15 |
 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 | 2023-04-21 |
+| [Juluka](https://open.spotify.com/track/4wPZNhlSMqyKtdPG20Zt6f) | [Matutu Nyabange](https://open.spotify.com/artist/0eT1Ko0Tt6T5Bk927HJrsD), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Juluka](https://open.spotify.com/album/5d6q85ACjQVZGtzOzShpQc) | 3:38 | 2024-08-15 |  |
 | [Kama Unae](https://open.spotify.com/track/4nlevgaJwaJShkPGD36kYQ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Kid Golden](https://open.spotify.com/artist/1mVLIIOcE7lXrw47yFUxYU), [Paul Peter Matthysse](https://open.spotify.com/artist/25nD2JksQyjpZxchxgvgDK) | [Wanangu 99](https://open.spotify.com/album/5R6gnSXhq3hNUgeeaKBlZJ) | 3:24 | 2021-10-29 | 2022-03-25 |
 | [Kamata](https://open.spotify.com/track/2bLflnEjSux9pQT0WZRjFh) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kamata](https://open.spotify.com/album/3Uy9ZwsRWYXUShlaP86vSm) | 2:19 | 2021-08-26 | 2022-01-14 |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2021-09-09 | 2022-08-19 |

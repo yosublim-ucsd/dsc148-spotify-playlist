@@ -2535,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Shadows and Light",
+        "url": "https://open.spotify.com/album/0sk9dYm1TZbsxJ5hIEBuby"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114933,
+      "name": "Introduction - Live",
+      "url": "https://open.spotify.com/track/7bKgkxu1H5vCsvrHhKnSJR"
+    },
+    {
+      "album": {
         "name": "Joni Mitchell Archives, Vol. 2: The Reprise Years (1968-1971)",
         "url": "https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d"
       },

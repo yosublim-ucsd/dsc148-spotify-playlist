@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Crayon",
-  "num_followers": 238300,
+  "num_followers": 238326,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 216564,
-      "name": "Turn Me Up",
-      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "Bad Decisions & Foreplay",
         "url": "https://open.spotify.com/album/3j3vh7zL3GuCIVdbK8tZzd"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 169571,
       "name": "Bad Decisions & Foreplay",
       "url": "https://open.spotify.com/track/5OUIh8ATWsEi5H4Oas0tKi"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 216564,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "Love practitioner",
+        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 155403,
+      "name": "Love practitioner",
+      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 151456,
       "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
-        "name": "Love practitioner",
-        "url": "https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 155403,
-      "name": "Love practitioner",
-      "url": "https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Love Garden",
-        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150765,
-      "name": "Love Garden",
-      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "IN MY HEAD",
         "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 177692,
       "name": "IN MY HEAD",
       "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Stay Wise",
-        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
-      },
-      "artists": [
-        {
-          "name": "Logos olori",
-          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
-        }
-      ],
-      "duration_ms": 144999,
-      "name": "Stay Wise",
-      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 161239,
       "name": "All Night",
       "url": "https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Stay Wise",
+        "url": "https://open.spotify.com/album/1Vy5sl6lW9yRJWlwkuVvIb"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "duration_ms": 144999,
+      "name": "Stay Wise",
+      "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
     },
     {
       "added_at": "2024-08-15 23:00:00",

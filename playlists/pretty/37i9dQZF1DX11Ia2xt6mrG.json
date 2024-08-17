@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 58406,
+  "num_followers": 58416,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 170089,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Bella",
         "url": "https://open.spotify.com/album/6govxhovGzVddUXNOlA74I"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 188368,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5KA4V0ZJMkz6jpi13Zgk9w"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Body Movin",
-        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
-      },
-      "artists": [
-        {
-          "name": "Tony Dark Eyes",
-          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Body Movin",
-      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Como Tony",
         "url": "https://open.spotify.com/album/1jmwAD0eB7bUzE9TfGwt1G"
       },
@@ -939,26 +923,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Florida BB",
-        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
-        },
-        {
-          "name": "Kadum",
-          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
-        },
-        {
-          "name": "Macedo (BR)",
-          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
         }
       ],
-      "duration_ms": 371000,
-      "name": "Florida BB",
-      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -979,6 +955,30 @@
       "duration_ms": 149877,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Florida BB",
+        "url": "https://open.spotify.com/album/3rRThyVF0CNXxTMXcJXUWz"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "Kadum",
+          "url": "https://open.spotify.com/artist/6aVeeUIoZFB7tTjkc6m9Gm"
+        },
+        {
+          "name": "Macedo (BR)",
+          "url": "https://open.spotify.com/artist/37U5pvV4z0yigOZUOiN0Xa"
+        }
+      ],
+      "duration_ms": 371000,
+      "name": "Florida BB",
+      "url": "https://open.spotify.com/track/3uwL4HJPxcO4Q1WwFAo1zv"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Vino Rosa",
-        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Vino Rosa",
-      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/04caDyWFwNPlMMIkDVsEQ8"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 162727,
       "name": "Chula",
       "url": "https://open.spotify.com/track/3SjghIcmfzYFxjp3ABcFUw"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Vino Rosa",
+        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Vino Rosa",
+      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
-        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        },
-        {
-          "name": "C\u00f3dex F\u00e9nix",
-          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
-      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Franca Barona",
         "url": "https://open.spotify.com/album/4wOs4oZxujsDhiUI436gOL"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 172320,
       "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
       "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Su Majestad La Eternidad (C\u00f3dex F\u00e9nix Rework)",
+        "url": "https://open.spotify.com/album/6eNV8XRDWeWfYiWNLmgPko"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        },
+        {
+          "name": "C\u00f3dex F\u00e9nix",
+          "url": "https://open.spotify.com/artist/0Z2QCuPFA3x3OoH20obELy"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Su Majestad La Eternidad - C\u00f3dex F\u00e9nix Rework",
+      "url": "https://open.spotify.com/track/5rfmTvAbeyUMLZKByrCYxC"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Jackson City (Macross 82-99 Remix)",
-        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bad Girl",
-          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
-        }
-      ],
-      "duration_ms": 176563,
-      "name": "Jackson City - Macross 82-99 Remix",
-      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Forever (Tonga Conga Remix)",
         "url": "https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 332000,
       "name": "Forever - Tonga Conga Remix",
       "url": "https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Jackson City (Macross 82-99 Remix)",
+        "url": "https://open.spotify.com/album/79RrrhmD3nxwzefBiBTiCs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Bad Girl",
+          "url": "https://open.spotify.com/artist/6sD3igMnVxPgbmwistAoBb"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 176563,
+      "name": "Jackson City - Macross 82-99 Remix",
+      "url": "https://open.spotify.com/track/58eIfQi2LcoH0bFeizkVww"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Move My Body",
-        "url": "https://open.spotify.com/album/4eN2F7PziOdoE8ORkEbuQT"
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Ghost Lat1No",
-          "url": "https://open.spotify.com/artist/4opLmSGPdgBa0ZAhcLXyV5"
+          "name": "Broz Rodriguez",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
         }
       ],
-      "duration_ms": 274239,
-      "name": "Move My Body",
-      "url": "https://open.spotify.com/track/4qaC9jEPMGG0b3dwNQrjqH"
+      "duration_ms": 151680,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
     },
     {
       "added_at": "2024-08-02 06:00:00",

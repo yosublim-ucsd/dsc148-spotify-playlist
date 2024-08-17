@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,658 songs - 4 day 17 hr 45 min
+1,659 songs - 4 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Free](https://open.spotify.com/track/0dF4YiBOZK45rPynM4No12) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Free](https://open.spotify.com/album/3rBaD95XtCe7VDlsm6JmE8) | 3:55 | 2021-08-06 | 2022-07-29 |
 | [Fresh Air](https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Fresh Air](https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu) | 2:16 | 2024-07-02 |  |
 | [Friction](https://open.spotify.com/track/4R5rqIqYBUtHueqsnoT1n0) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Friction](https://open.spotify.com/album/3RMRv768S5F0SBa8EKVAx7) | 4:04 | 2020-05-18 | 2020-07-18 |
-| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 |  |
+| [Friday Lake](https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Friday Lake](https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova) | 3:16 | 2024-03-22 | 2024-08-17 |
 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 | 2023-04-21 | 2024-04-19 |
 | [Friends In Secret](https://open.spotify.com/track/6k92XAMEfiEPoslrJ9PkjY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/2oopzm9cOcnL5H4iYRMKlR) | 6:08 | 2022-07-01 | 2022-08-27 |
 | [Friends In Secret](https://open.spotify.com/track/7LMn9rFcRyxRSn59jzITh1) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Juvenile](https://open.spotify.com/album/0XgNTaWLxBBaZHJ2Kog2N0) | 6:08 | 2020-10-24 | 2022-07-19 |
@@ -1237,6 +1237,7 @@
 | [Running](https://open.spotify.com/track/2sFOzyRqcN5fKXPrZJjoc2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Running](https://open.spotify.com/album/4Hj5CeXqyFNj3WizYuTa8T) | 3:52 | 2022-09-23 | 2022-10-13 |
 | [Running In A Dream](https://open.spotify.com/track/4wXTePdTVHsFKowOVLVCbs) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Running In A Dream](https://open.spotify.com/album/0QwLVfeowQtETeolwF7V5x) | 4:29 | 2023-12-01 | 2024-05-25 |
 | [Running Out \- Samuraii Remix](https://open.spotify.com/track/3bu38wOOaBOOf4OYi23R6a) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO) | [Running Out Remix EP](https://open.spotify.com/album/4JbiALxW6KGF20S8kfGJD2) | 2:54 | 2020-05-18 | 2020-07-18 |
+| [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 | 2024-08-16 |  |
 | [Ryat](https://open.spotify.com/track/7GA8fQLArH3685QEhNIwOD) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Bloom EP](https://open.spotify.com/album/1gJbw5p7ohUbTq0gtGxzOD) | 4:03 | 2020-05-18 | 2020-10-10 |
 | [Safe \- Joris Voorn Remix](https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Safe \(Joris Voorn Remix\)](https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L) | 4:54 | 2022-03-18 | 2023-09-09 |
 | [Sailing](https://open.spotify.com/track/4CfG49r7r2NUrteLdUF2yI) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Everything We Had To Leave Behind](https://open.spotify.com/album/4hcWdQQ4VLiAsRuaYy7Xo8) | 4:17 | 2021-05-07 | 2022-12-29 |

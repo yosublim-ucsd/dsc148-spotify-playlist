@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/5rh4F5LkfBtGxBCjgMqV4M"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218710,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc"
+    },
+    {
+      "album": {
         "name": "Juan de Dios",
         "url": "https://open.spotify.com/album/753t5Yiwkv1Mg89H4IolDm"
       },
@@ -4838,7 +4856,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208180,
       "name": "Ojos Que No Ven",
       "url": "https://open.spotify.com/track/0qHlYaXuvSdp4vtXQGszYR"
@@ -5582,7 +5600,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 220872,
       "name": "Salitre",
       "url": "https://open.spotify.com/track/6NXPhNtKgDn7OJaLaELuSH"
@@ -5893,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/5YPQjeKjqxmVEShaUUbd0i"
+      },
+      "artists": [
+        {
+          "name": "Natalia Natalia",
+          "url": "https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/4hfILr2sbGahUBpwvnESA3"
+    },
+    {
+      "album": {
         "name": "Si Volviera A Conocerte",
         "url": "https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4"
       },
@@ -5966,7 +6002,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186760,
       "name": "Sobreviviste",
       "url": "https://open.spotify.com/track/3CGPWcU0S3tnb1hSvtyBmj"
@@ -6672,6 +6708,24 @@
       "duration_ms": 161173,
       "name": "Una Noche Sin Pensar",
       "url": "https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q"
+    },
+    {
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "album": {

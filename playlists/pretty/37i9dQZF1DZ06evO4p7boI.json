@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95063,
+  "num_followers": 95068,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAACFG8kRoqIl7rvPFC918ldt",
+  "snapshot_id": "Zr1FAAAAAACtw1SvzFfP7wVdqwF16ee3",
   "tracks": [
     {
       "added_at": null,
@@ -511,7 +511,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favorite Lady (with NAV & Cash Cobain)",
+        "name": "FAVORITE LADY (with NAV & Cash Cobain)",
         "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
       },
       "artists": [
@@ -529,7 +529,7 @@
         }
       ],
       "duration_ms": 204935,
-      "name": "Favorite Lady (with NAV & Cash Cobain)",
+      "name": "FAVORITE LADY (with NAV & Cash Cobain)",
       "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
     },
     {
@@ -747,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -799,6 +767,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emergency Tsunami",
         "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
       },
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Good For It",
-      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
+      "duration_ms": 188117,
+      "name": "Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
     },
     {
       "added_at": null,
@@ -851,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 188117,
-      "name": "Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
+      "duration_ms": 159000,
+      "name": "Good For It",
+      "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
     },
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAV",
-        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "NAV",
-      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -935,6 +919,38 @@
       "duration_ms": 177026,
       "name": "Perfect Timing (Intro)",
       "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAV",
+        "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "NAV",
+      "url": "https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Own (2016)",
+        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 168828,
+      "name": "On My Own (2016)",
+      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
     },
     {
       "added_at": null,
@@ -959,8 +975,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Own (2016)",
-        "url": "https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo"
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
       },
       "artists": [
         {
@@ -968,9 +984,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 168828,
-      "name": "On My Own (2016)",
-      "url": "https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH"
+      "duration_ms": 186800,
+      "name": "Freshman List",
+      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
     },
     {
       "added_at": null,
@@ -999,8 +1015,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
       },
       "artists": [
         {
@@ -1008,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Freshman List",
-      "url": "https://open.spotify.com/track/4LeJfeJ9u53QLp997SRhim"
+      "duration_ms": 186680,
+      "name": "Taking Chances",
+      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
     },
     {
       "added_at": null,
@@ -1031,22 +1047,6 @@
       "duration_ms": 164937,
       "name": "Interstellar (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "Taking Chances",
-      "url": "https://open.spotify.com/track/0iVWDZhL04DiKgbI1mbC40"
     }
   ],
   "unique_name": "This Is NAV",

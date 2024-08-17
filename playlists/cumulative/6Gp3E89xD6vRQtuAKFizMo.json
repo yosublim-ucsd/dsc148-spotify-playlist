@@ -3125,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "Kick Drum",
+        "url": "https://open.spotify.com/album/1CoFKBsX0lsFyKZfHjmsvP"
+      },
+      "artists": [
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Kick Drum",
+      "url": "https://open.spotify.com/track/5oo2RBuuxhL3qzL5gnhlkW"
+    },
+    {
+      "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4U7lCbHpPpgHuXbAkvQeBB"
       },

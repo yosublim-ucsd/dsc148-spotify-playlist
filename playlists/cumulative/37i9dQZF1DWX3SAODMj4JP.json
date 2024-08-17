@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "album": {
         "name": "Ele Far\u00e1",
         "url": "https://open.spotify.com/album/24Mg0aXWn9UAUFRBbd7jlx"
       },
@@ -708,6 +726,28 @@
       "duration_ms": 227046,
       "name": "Filho - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS"
+    },
+    {
+      "album": {
+        "name": "BRAVE Pocket \u2022 Vol 01",
+        "url": "https://open.spotify.com/album/12rqvVWHFswROnqNJXOVQI"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "Gustavo Silva",
+          "url": "https://open.spotify.com/artist/3GGrQcaaAEx6OC4hDef0mt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223231,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/3XmorLaBx6QokOfq3KGNUi"
     },
     {
       "album": {
@@ -1456,7 +1496,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205266,
       "name": "Sua Paz",
       "url": "https://open.spotify.com/track/6V0fI11nicirapOakPVLO4"
@@ -1510,7 +1550,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153717,
       "name": "S\u00f3 Tenho a Ti",
       "url": "https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb"

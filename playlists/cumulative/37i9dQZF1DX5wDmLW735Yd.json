@@ -1553,6 +1553,36 @@
     },
     {
       "album": {
+        "name": "Big Bad",
+        "url": "https://open.spotify.com/album/1qhN8S5GQRcal5IPNwtBFf"
+      },
+      "artists": [
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Big Bad",
+      "url": "https://open.spotify.com/track/5tj8MV1ntfd5DpTsKvYcLc"
+    },
+    {
+      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -5955,7 +5985,7 @@
     },
     {
       "album": {
-        "name": "Happy People?",
+        "name": "Happy People",
         "url": "https://open.spotify.com/album/0WJtHx2O5M1PBJM6o0X26G"
       },
       "artists": [
@@ -5968,7 +5998,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 217586,
-      "name": "Happy People?",
+      "name": "Happy People",
       "url": "https://open.spotify.com/track/6iFwT5dueWSGhvxEozBIib"
     },
     {

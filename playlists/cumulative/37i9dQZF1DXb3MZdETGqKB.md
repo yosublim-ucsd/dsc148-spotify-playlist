@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Judith Hill
 
-313 songs - 18 hr 25 min
+314 songs - 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 | 2022-12-16 |
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
 | [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 |  |
+| [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 | 2024-08-16 |  |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 | 2024-02-23 |  |
 | [Flame](https://open.spotify.com/track/1rVioJqDKEf1ZQHOu4IepF) | [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Flame](https://open.spotify.com/album/5tDWharfBCeJX2ncXwdMKJ) | 3:47 | 2024-01-26 | 2024-04-06 |
@@ -270,7 +271,7 @@
 | [That's The Way I Feel About You](https://open.spotify.com/track/4SrcZBjrz1mTrjFfwuGG06) | [Ali McGuirk](https://open.spotify.com/artist/1jVXEUkl4AmaDjbLWA9JDM) | [That's The Way I Feel About You](https://open.spotify.com/album/01nRgsi6ofoo1HBxFwg6Ha) | 4:53 | 2021-07-02 | 2022-06-19 |
 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 | 2023-01-27 |  |
 | [The City Streets \(Ps.23\)](https://open.spotify.com/track/3Evbh7zMfQ9thUxYjsvfAG) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Hard Time Blues](https://open.spotify.com/album/4LqKWtUn78Qaj7Jwo7dK0h) | 4:32 | 2021-09-10 | 2023-04-01 |
-| [The Devil Wears Lace Pt\. 2](https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [The Devil Wears Lace Pt\. 2](https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB) | 2:52 | 2024-07-26 |  |
+| [The Devil Wears Lace Pt\. 2](https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [The Devil Wears Lace Pt\. 2](https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB) | 2:52 | 2024-07-26 | 2024-08-17 |
 | [The Fatalist Blues](https://open.spotify.com/track/05zBNkUb86yoodSawKUaGf) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/10Bld2xPgtjiKZdkiGoZ7Q) | 2:32 | 2023-09-15 |  |
 | [The Fatalist Blues](https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [The Fatalist](https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB) | 2:32 | 2023-09-15 | 2024-04-19 |
 | [The Louvre](https://open.spotify.com/track/68cELCHZ8sdfkAHoLtm3OO) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [The Louvre](https://open.spotify.com/album/1cZ17se5zLFdbZKhedKnio) | 2:59 | 2023-08-18 |  |

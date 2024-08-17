@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Sh\u014dgun (Vol. 2) - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0PwtZGtmu3TfkuUkWxs8PZ"
+      },
+      "artists": [
+        {
+          "name": "Atticus Ross",
+          "url": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+        },
+        {
+          "name": "Leopold Ross",
+          "url": "https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS"
+        },
+        {
+          "name": "Nick Chuba",
+          "url": "https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91133,
+      "name": "Duty Endures",
+      "url": "https://open.spotify.com/track/6vnLuvqARrcKspbXFcHvsb"
+    },
+    {
+      "album": {
         "name": "Echo (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2QA8kRrS8knS0JNX8PMbbV"
       },

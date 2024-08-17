@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE?si=sywPBZ9vQM2HZPIwHidE1w">Alex Izenberg</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Panda Bear &amp; Sonic Boom
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,846 likes - 50 songs - 3 hr 21 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,851 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
 | 50 | [The Wraith Behind Our Eyes](https://open.spotify.com/track/52nYeng892BCC3qTj3pByZ) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [An Obscured Odyssey / The Wraith Behind Our Eyes](https://open.spotify.com/album/12mhA6BRDsdot57rVQafjZ) | 3:48 |
 
-Snapshot ID: `AAAP1OTTQvWKz3b3NVYxJjDX+PqvT3gi`
+Snapshot ID: `AAAP1Zwi7cJTAlW/kA9J2SDibhp7Rnqx`

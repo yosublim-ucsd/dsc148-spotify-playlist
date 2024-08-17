@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Chi X\u00ea",
-  "num_followers": 23217,
+  "num_followers": 23250,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-08-16 00:38:35",
       "album": {
+        "name": "\u1ea8n \u00dd",
+        "url": "https://open.spotify.com/album/5GLG1aX4sgE0Y5yX6WYU3r"
+      },
+      "artists": [
+        {
+          "name": "1nG",
+          "url": "https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ"
+        }
+      ],
+      "duration_ms": 310344,
+      "name": "\u1ea8n \u00dd",
+      "url": "https://open.spotify.com/track/6SRxIgqb0qEfg0GBLk8nIb"
+    },
+    {
+      "added_at": "2024-08-16 00:38:35",
+      "album": {
         "name": "\u0111\u1eddi m\u00e0y ch\u1ec9 l\u00e0 th\u1ebf th\u00f4i",
         "url": "https://open.spotify.com/album/6MYHTQko224QN9tjXgMP1g"
       },
@@ -339,17 +355,21 @@
     {
       "added_at": "2024-08-16 00:38:35",
       "album": {
-        "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+        "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng (feat. Nam Joyy)",
         "url": "https://open.spotify.com/album/7EOthaTy5NqgSxl05nPTA4"
       },
       "artists": [
         {
           "name": "Minh Huy",
           "url": "https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK"
+        },
+        {
+          "name": "Nam Joyy",
+          "url": "https://open.spotify.com/artist/5EmyuvZ2el2R60zp7eCok8"
         }
       ],
       "duration_ms": 219130,
-      "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng",
+      "name": "Tr\u1ed1n Nh\u1eefng \u0110au Th\u01b0\u01a1ng (feat. Nam Joyy)",
       "url": "https://open.spotify.com/track/1nvvZwvWm2KsJeqajdo6NM"
     },
     {
@@ -483,6 +503,22 @@
     {
       "added_at": "2024-08-16 00:38:35",
       "album": {
+        "name": "KHALEN",
+        "url": "https://open.spotify.com/album/383kvQqkp4fqW5qvTdnUSu"
+      },
+      "artists": [
+        {
+          "name": "Bear-D",
+          "url": "https://open.spotify.com/artist/3UgYAJdrxYbQ57VkPoWyMA"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "KHALEN",
+      "url": "https://open.spotify.com/track/4gxpvFv56nSo8zZ8RWKDy2"
+    },
+    {
+      "added_at": "2024-08-16 00:38:35",
+      "album": {
         "name": "Ch\u1eb3ng mu\u1ed1n n\u1eafm tay em v\u1ec1",
         "url": "https://open.spotify.com/album/38p3Mqzw4yeXaxVTAGDewX"
       },
@@ -603,6 +639,26 @@
       "duration_ms": 98774,
       "name": "di hay o lai",
       "url": "https://open.spotify.com/track/1kL9nh2RRt4lqRmkUzQ5YW"
+    },
+    {
+      "added_at": "2024-08-16 00:38:35",
+      "album": {
+        "name": "Ch\u1ec9 \u0110ang L\u00e0m Vi\u1ec7c",
+        "url": "https://open.spotify.com/album/5igjqR9LFucqV5F5VDc1TL"
+      },
+      "artists": [
+        {
+          "name": "Trash Dee",
+          "url": "https://open.spotify.com/artist/4d4gNVfuHfIwndxSpUyk4e"
+        },
+        {
+          "name": "GiaHien",
+          "url": "https://open.spotify.com/artist/1k9qNDIkmdjxWwnbJm4ZrT"
+        }
+      ],
+      "duration_ms": 192758,
+      "name": "Ch\u1ec9 \u0110ang L\u00e0m Vi\u1ec7c",
+      "url": "https://open.spotify.com/track/6aVEHe5px5S48ivPFQZM6a"
     },
     {
       "added_at": "2024-08-16 00:38:35",
@@ -1238,6 +1294,10 @@
         {
           "name": "tnghi",
           "url": "https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa"
+        },
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo"
         }
       ],
       "duration_ms": 181714,
@@ -1522,6 +1582,10 @@
         {
           "name": "tnghi",
           "url": "https://open.spotify.com/artist/217CQDuGuHtrk3hbj1Nlaa"
+        },
+        {
+          "name": "WAVES",
+          "url": "https://open.spotify.com/artist/3CrAGTXH12HVzjA337Ajzo"
         }
       ],
       "duration_ms": 219428,

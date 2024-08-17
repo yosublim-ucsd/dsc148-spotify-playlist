@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Donatural - Ao Vivo",
+        "url": "https://open.spotify.com/album/69sBJHQWjXQiMj9OiKZxvC"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1yKaNMUreBaOTlGMjGS1na"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Balan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4LKgxetmy9aos6dDYI7oPw"
+    },
+    {
+      "album": {
         "name": "Banho de Cheiro",
         "url": "https://open.spotify.com/album/3RzEyZrqcNRg1DLcKulro5"
       },
@@ -5144,7 +5166,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181496,
       "name": "Fascina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3WNTi4K0O6oaK306nHDNm0"
@@ -6286,7 +6308,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 119206,
       "name": "Jovens, fantasmas e dinheiro",
       "url": "https://open.spotify.com/track/2HEc23zuux0neUHUZTShS9"
@@ -7429,6 +7451,24 @@
     },
     {
       "album": {
+        "name": "Oxalatrix",
+        "url": "https://open.spotify.com/album/2yWVVZIHjiIWuJMdOwQy7u"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203592,
+      "name": "Medo da Cidade",
+      "url": "https://open.spotify.com/track/5meZ48uSNjxubfP1PgI8Yz"
+    },
+    {
+      "album": {
         "name": "Meia Colorida",
         "url": "https://open.spotify.com/album/3i1S41Qo9MPLPNeN8U87Sc"
       },
@@ -8004,7 +8044,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145416,
       "name": "Na Can\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6qftJ4GM7f7kuU3ZtcDs0V"
@@ -13426,6 +13466,24 @@
       "duration_ms": 281034,
       "name": "Tangerina - Ao Vivo",
       "url": "https://open.spotify.com/track/6TDPTk5c9r1aAaLEILqNmA"
+    },
+    {
+      "album": {
+        "name": "m\u00e3eana canta JG",
+        "url": "https://open.spotify.com/album/69gwUwHwo5doAwhWXd80uS"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3eana",
+          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268593,
+      "name": "Tapete Voador - Ciganada",
+      "url": "https://open.spotify.com/track/4oyPwwKJdETJqfIoQvgQom"
     },
     {
       "album": {

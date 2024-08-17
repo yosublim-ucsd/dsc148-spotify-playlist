@@ -4,7 +4,7 @@
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-445 songs - 1 day 2 hr 19 min
+446 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2023-03-17 | 2024-07-27 |
 | [I Think I'll Call It Morning](https://open.spotify.com/track/4ZquhgZ58o26fg9jC4npy2) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:31 | 2023-01-10 | 2024-05-11 |
 | [I Think I'm Falling In Love](https://open.spotify.com/track/5XOXwwkRgzPF99kprsJiyv) | [Leroy Hutson](https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6) | [Acid Jazz: Best Of 2018](https://open.spotify.com/album/3mSlbYR1hzGor6oWOtUKHI) | 3:39 | 2022-12-28 | 2023-01-11 |
+| [I Think They Call This Love](https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE) | 3:13 | 2024-08-16 |  |
 | [I Thought It Was You](https://open.spotify.com/track/3QOJdBuXIxpfZ0UfUyErpJ) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Butterfly](https://open.spotify.com/album/2xbDI0ItU5LUmk2HvFKUcw) | 7:08 | 2022-12-28 | 2023-01-11 |
 | [I Want a Little Sugar In My Bowl](https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:32 | 2023-01-10 | 2024-03-23 |
 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 | 2023-01-10 | 2024-03-23 |
@@ -251,7 +252,7 @@
 | [Lights are Dancing](https://open.spotify.com/track/3eAfr9tTURvobS4FGr7zMk) | [Thaïs Ray](https://open.spotify.com/artist/4M9sVEPUQJL6vtZOI6Sfoj) | [Lights are Dancing](https://open.spotify.com/album/1oYXVqEsP6EiwrpfVZAZZA) | 2:51 | 2024-03-22 | 2024-04-21 |
 | [limerence](https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [limerence](https://open.spotify.com/album/31Y1I245ATLa9KEPNW3gpo) | 3:07 | 2024-04-11 | 2024-04-27 |
 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 | 2022-02-14 | 2022-12-28 |
-| [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2024-02-23 |  |
+| [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2024-02-23 | 2024-08-17 |
 | [Little Of Your Love](https://open.spotify.com/track/4DyGLsS1c7mQAlMxPFW0sW) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Little Of Your Love](https://open.spotify.com/album/6rMw6hyoSepFV8WYeeiknt) | 3:33 | 2022-02-14 | 2022-07-28 |
 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 | 2024-07-26 |  |
 | [Lost](https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:28 | 2023-11-10 | 2024-02-24 |

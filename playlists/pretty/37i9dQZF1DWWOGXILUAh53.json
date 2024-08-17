@@ -1,13 +1,65 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Katy Perry",
-  "num_followers": 181058,
+  "description": "The hottest new pop with all the drops. Cover: The Blessed Madonna x Kylie Minogue",
+  "num_followers": 181243,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZYPQAAAABO+teqgWd6xvTqSdEjH8me",
+  "snapshot_id": "Zr7OwAAAAACPMvkNBQ9XExyr08WyTEn6",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "BURN IT DOWN",
+        "url": "https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "BURN IT DOWN",
+      "url": "https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "GIRLZ",
+        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 141660,
+      "name": "GIRLZ",
+      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
+    },
     {
       "added_at": "2024-08-09 17:56:13",
       "album": {
@@ -45,6 +97,26 @@
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 148364,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI"
+    },
+    {
       "added_at": "2024-08-09 17:56:13",
       "album": {
         "name": "True",
@@ -63,6 +135,22 @@
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/3MxUZpfSx87dfeUcHZqXe4"
+      },
+      "artists": [
+        {
+          "name": "Brooke Daye",
+          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
+        }
+      ],
+      "duration_ms": 147490,
+      "name": "Elevated",
+      "url": "https://open.spotify.com/track/08X5wbCDFSR2DEXWUlnA4r"
     },
     {
       "added_at": "2024-08-09 17:56:13",
@@ -87,6 +175,22 @@
       "duration_ms": 173996,
       "name": "Why I Love You So",
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Love Me Like That",
+        "url": "https://open.spotify.com/album/3oLSISx0scpD8NdcWEGjRs"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Love Me Like That",
+      "url": "https://open.spotify.com/track/3DUuurb1M5yAebc2PGcAfK"
     },
     {
       "added_at": "2024-08-09 17:56:13",
@@ -131,6 +235,22 @@
       "duration_ms": 167880,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "HAUS!",
+        "url": "https://open.spotify.com/album/4Pk05MFV1ps8GzBE2YEVyw"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "HAUS!",
+      "url": "https://open.spotify.com/track/3MdDKZ2SoP5WTQ6XPLzdpE"
     },
     {
       "added_at": "2024-08-09 17:56:13",
@@ -723,22 +843,6 @@
     {
       "added_at": "2024-08-09 17:56:13",
       "album": {
-        "name": "Don't Let My Boyfriend Get In Your Way",
-        "url": "https://open.spotify.com/album/3ByjB5KzxOJs40RywOOvsI"
-      },
-      "artists": [
-        {
-          "name": "Alice Chater",
-          "url": "https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93"
-        }
-      ],
-      "duration_ms": 178510,
-      "name": "Don't Let My Boyfriend Get In Your Way",
-      "url": "https://open.spotify.com/track/3DOZgqdpYCfjmAP2eR7H98"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
         "name": "Make Up",
         "url": "https://open.spotify.com/album/6DfanlPWlL7jCWIUIISj8R"
       },
@@ -955,46 +1059,6 @@
     {
       "added_at": "2024-08-09 17:56:13",
       "album": {
-        "name": "Don't Call",
-        "url": "https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 229105,
-      "name": "Don't Call",
-      "url": "https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
-        "name": "I Wanna Go Back (Summer)",
-        "url": "https://open.spotify.com/album/3Yc6XZHfMtDwpyL7XE1PwQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Wins",
-          "url": "https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt"
-        },
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        },
-        {
-          "name": "Robbie Jay",
-          "url": "https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "I Wanna Go Back (Summer)",
-      "url": "https://open.spotify.com/track/7emonnduklMI1kzikfMOnb"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
         "name": "Fire - Official UEFA EURO 2024 Song",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
@@ -1059,66 +1123,6 @@
       "duration_ms": 172265,
       "name": "(Can\u2019t Get You) Off My Mind",
       "url": "https://open.spotify.com/track/2nBqFmllpg9RXlWGKpSWQT"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
-        "name": "I'm The Drama",
-        "url": "https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 156255,
-      "name": "I'm The Drama",
-      "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 202648,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/3w5hz4zdo66O3NugeTh7IF"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        },
-        {
-          "name": "MONTMARTRE",
-          "url": "https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo"
-        },
-        {
-          "name": "Ghenda",
-          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
-        }
-      ],
-      "duration_ms": 196731,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/5MctBX8S4ks5Yr0fU66dOh"
     },
     {
       "added_at": "2024-08-09 17:56:13",
@@ -1287,26 +1291,6 @@
       "duration_ms": 149816,
       "name": "Only Way Is Up (feat. Izzy Bizu)",
       "url": "https://open.spotify.com/track/7cYrKZfoN2ioWEFGGBGuKV"
-    },
-    {
-      "added_at": "2024-08-09 17:56:13",
-      "album": {
-        "name": "Ain't No Mountain High Enough (Jax Jones Remix)",
-        "url": "https://open.spotify.com/album/5VhmPTh8i3AVMWlGS9qxUX"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 140956,
-      "name": "Ain't No Mountain High Enough - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/0PBtJBbPvkMqPDql30Ig7i"
     }
   ],
   "unique_name": "New Dance Pop",

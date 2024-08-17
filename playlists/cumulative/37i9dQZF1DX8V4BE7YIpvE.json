@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT"
+      },
+      "artists": [
+        {
+          "name": "Purple Dive",
+          "url": "https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232258,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE"
+    },
+    {
+      "album": {
         "name": "Infrared",
         "url": "https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt"
       },

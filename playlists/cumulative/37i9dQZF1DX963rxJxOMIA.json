@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171032,
+      "name": "Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b"
+    },
+    {
+      "album": {
         "name": "Reggaetonea",
         "url": "https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni"
       },
@@ -1708,7 +1730,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 220449,
       "name": "ENVIGADO",
       "url": "https://open.spotify.com/track/3gmtblJALwQcketcpUjK5e"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
@@ -5746,6 +5768,24 @@
       "duration_ms": 160975,
       "name": "YA NO VOLVER\u00c1S",
       "url": "https://open.spotify.com/track/57B9XH31E2UYEnQ5mppQdz"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ya no me pregunten por mi ex!",
+        "url": "https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130838,
+      "name": "\u00a1Ya no me pregunten por mi ex!",
+      "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX963rxJxOMIA"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Los Nocheros y el Chaque\u00f1o Palaveccino.",
+  "description": "\u00a1Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer. Foto: Sele Vera.",
   "name": "Lunas de Folklore",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167661,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/6AAjuNnSGoXZZEZg5s17dv"
@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Por el Contrario",
+        "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
+      },
+      "artists": [
+        {
+          "name": "Carlita Celeste",
+          "url": "https://open.spotify.com/artist/2LWkwFDTAKh7zZwVAdvmH6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227434,
+      "name": "Por el Contrario",
+      "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
+    },
+    {
+      "album": {
         "name": "Por Tu Querer",
         "url": "https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke"
       },
@@ -2486,6 +2504,28 @@
       "duration_ms": 230960,
       "name": "P\u00edntame de Azul",
       "url": "https://open.spotify.com/track/42JmlitcqfYsUmDwgDMjQ1"
+    },
+    {
+      "album": {
+        "name": "Que Yo Te Amo",
+        "url": "https://open.spotify.com/album/6rFvoF7weNJ2HIlzLJUTFw"
+      },
+      "artists": [
+        {
+          "name": "Canto 4",
+          "url": "https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq"
+        },
+        {
+          "name": "Alvaro Teruel",
+          "url": "https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Que Yo Te Amo",
+      "url": "https://open.spotify.com/track/4knZMJHoBcXE0qm6pe2yoe"
     },
     {
       "album": {
@@ -2574,7 +2614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232218,
       "name": "Santo Remedio",
       "url": "https://open.spotify.com/track/2HoFKu6ZTMTozR2wksXApW"
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173322,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
@@ -3256,6 +3296,24 @@
       "duration_ms": 203687,
       "name": "Y Se Ha Perdido",
       "url": "https://open.spotify.com/track/0ofyerWCBNnE5BII7nT0uu"
+    },
+    {
+      "album": {
+        "name": "Ya te olvid\u00e9",
+        "url": "https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147310,
+      "name": "Ya te olvid\u00e9",
+      "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
     },
     {
       "album": {

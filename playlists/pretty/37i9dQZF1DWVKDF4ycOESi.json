@@ -1,6 +1,6 @@
 {
   "description": "Post Malone in cover + le migliori uscite di questa settimana!",
-  "num_followers": 314382,
+  "num_followers": 314472,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,26 @@
       "duration_ms": 209038,
       "name": "Losers (Feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "added_at": "2024-08-15 22:01:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2024-08-15 22:01:00",
@@ -809,7 +829,7 @@
         },
         {
           "name": "Juniper",
-          "url": "https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw"
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
         },
         {
           "name": "Mul\u00fa",

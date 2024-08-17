@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Semicenk",
-  "num_followers": 475731,
+  "num_followers": 476233,
   "original_name": "trend 2024",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-08-15 21:00:00",
       "album": {
+        "name": "Geri D\u00f6nemedim",
+        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Geri D\u00f6nemedim",
+      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
+    },
+    {
+      "added_at": "2024-08-15 21:00:00",
+      "album": {
         "name": "Kehribar",
         "url": "https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 168975,
       "name": "Kehribar",
       "url": "https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR"
-    },
-    {
-      "added_at": "2024-08-15 21:00:00",
-      "album": {
-        "name": "Geri D\u00f6nemedim",
-        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Geri D\u00f6nemedim",
-      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
     },
     {
       "added_at": "2024-08-15 21:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-08-15 21:00:00",
       "album": {
-        "name": "Cennet",
-        "url": "https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm"
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
       "artists": [
         {
-          "name": "Reynmen",
-          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 140315,
-      "name": "Cennet",
-      "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
+      "duration_ms": 158571,
+      "name": "Ge\u00e7iyor Zaman",
+      "url": "https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX"
     },
     {
       "added_at": "2024-08-15 21:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-08-15 21:00:00",
       "album": {
+        "name": "Cennet",
+        "url": "https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "duration_ms": 140315,
+      "name": "Cennet",
+      "url": "https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE"
+    },
+    {
+      "added_at": "2024-08-15 21:00:00",
+      "album": {
         "name": "D\u00f6rt D\u00f6rtl\u00fck",
         "url": "https://open.spotify.com/album/6BlUffy1dlYUfo3uUhnwP8"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 212767,
       "name": "Saat 03.00 (By Volga Tam\u00f6z)",
       "url": "https://open.spotify.com/track/45cI1Cz1nyp1sHiUd2kgal"
-    },
-    {
-      "added_at": "2024-08-15 21:00:00",
-      "album": {
-        "name": "Ge\u00e7iyor Zaman",
-        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Ge\u00e7iyor Zaman",
-      "url": "https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX"
     },
     {
       "added_at": "2024-08-15 21:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-08-15 21:00:00",
       "album": {
+        "name": "Fark Ettim",
+        "url": "https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 155406,
+      "name": "Fark Ettim",
+      "url": "https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT"
+    },
+    {
+      "added_at": "2024-08-15 21:00:00",
+      "album": {
         "name": "Merhametsiz",
         "url": "https://open.spotify.com/album/6ahlCcEViVQLxgoQKVfH3X"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-08-15 21:00:00",
       "album": {
-        "name": "Fark Ettim",
-        "url": "https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv"
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
       },
       "artists": [
         {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
         }
       ],
-      "duration_ms": 155406,
-      "name": "Fark Ettim",
-      "url": "https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT"
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
       "added_at": "2024-08-15 21:00:00",
@@ -699,22 +715,6 @@
       "duration_ms": 136941,
       "name": "Yoksun",
       "url": "https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L"
-    },
-    {
-      "added_at": "2024-08-15 21:00:00",
-      "album": {
-        "name": "Ortak",
-        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
-      },
-      "artists": [
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 205224,
-      "name": "Ortak",
-      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
       "added_at": "2024-08-15 21:00:00",

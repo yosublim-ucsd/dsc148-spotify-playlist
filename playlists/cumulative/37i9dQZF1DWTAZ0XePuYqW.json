@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: DETO BLACK &  SadBoi",
+  "description": "That's that big energy. Cover: DijahSB",
   "name": "Bounce",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219744,
       "name": "405",
       "url": "https://open.spotify.com/track/0CRTi3RDk5Aqk3nkGbB97M"
@@ -4130,6 +4130,28 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/34fhH2JfUYk74ygiMc3plp"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126024,
+      "name": "LIVE",
+      "url": "https://open.spotify.com/track/67azexYEXRdBvNnkAZuZY1"
     },
     {
       "album": {

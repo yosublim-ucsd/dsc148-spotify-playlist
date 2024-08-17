@@ -4,7 +4,7 @@
 
 > The greatest indie love songs of all time.
 
-272 songs - 16 hr 52 min
+273 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 | 2021-01-28 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2022-02-10 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 | 2022-02-10 | 2023-08-04 |
+| [beautiful baby](https://open.spotify.com/track/6R2YcTMGx3OrbuXFHtZICy) | [Elizabeth](https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN) | [the wonderful world of nature \(deluxe\)](https://open.spotify.com/album/1L4ACpkhGFbIVJ4ZdCSFOW) | 4:40 | 2024-01-19 |  |
 | [Bonnie And Clyde](https://open.spotify.com/track/1z8SULDAA6rKLCeM4Kqn12) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Bubble Gum \(Vol\. 2\)](https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0) | 4:16 | 2021-01-28 | 2022-02-11 |
 | [Breezeblocks](https://open.spotify.com/track/3Wu6MhnZuLuzfH5wFC2g9i) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:47 | 2022-02-10 | 2022-07-29 |
 | [Breezeblocks](https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:47 | 2022-02-10 | 2024-04-19 |
@@ -184,7 +185,7 @@
 | [Please Don't Die](https://open.spotify.com/track/6yg89pQKdqMxKUx4h2lvcJ) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Please Don't Die](https://open.spotify.com/album/5XyUhtbKYXGoKJwsHvRfWz) | 3:24 | 2022-02-10 | 2022-07-29 |
 | [Postcards From Italy](https://open.spotify.com/track/5YAhKEMTGMh6SxTSYcUJl6) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Gulag Orkestar](https://open.spotify.com/album/5N82AYJ3FG1znFz3EqJNMm) | 4:17 | 2022-02-10 | 2022-07-29 |
 | [Postcards from Italy](https://open.spotify.com/track/7H0UxIN751StFi2tznmHlg) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Gulag Orkestar](https://open.spotify.com/album/4yP7cyoeE3F6EyJPZ9v47V) | 4:17 | 2022-02-10 | 2023-02-14 |
-| [Puppy Love](https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:27 | 2024-01-19 |  |
+| [Puppy Love](https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 3:27 | 2024-01-19 | 2024-08-17 |
 | [Rent \- 2001 Remaster](https://open.spotify.com/track/79p7mYGJC9IgybmPsZf5HP) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 5:08 | 2021-01-28 | 2022-09-18 |
 | [Rent \- 2018 Remaster](https://open.spotify.com/track/2FtttuNvgYjTT03FKCHlG8) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually: Further Listening 1987 \- 1988 \(2018 Remaster\)](https://open.spotify.com/album/7ae4SfR2B1wEXX5EwS2Cg7) | 5:08 | 2022-02-10 | 2023-02-14 |
 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 | 2022-02-10 | 2024-04-19 |

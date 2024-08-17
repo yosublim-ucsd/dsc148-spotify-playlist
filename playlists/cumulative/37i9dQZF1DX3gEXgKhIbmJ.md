@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-211 songs - 8 hr 33 min
+213 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Club](https://open.spotify.com/track/3rV9lzOTFC6YPnLO8zu7MY) | [PB999](https://open.spotify.com/artist/4EPlOOPkq9xBAwQWV3ibom), [mekesu](https://open.spotify.com/artist/5Jz8VtL4TocWu1LzGrDr3z) | [Club](https://open.spotify.com/album/3NXtqHHDsZPWBzSI22foTn) | 1:49 | 2024-02-16 | 2024-06-29 |
 | [Cmg S2](https://open.spotify.com/track/7s1dYgSJQQ9W6FSuJxXg96) | [caslit](https://open.spotify.com/artist/5A1L5i1xx4Mfng9ACEG7ZI) | [Cmg S2](https://open.spotify.com/album/63I8QR1hLJWNVYoZLgZl0H) | 2:34 | 2024-01-26 | 2024-03-09 |
 | [colar lápis lazúli](https://open.spotify.com/track/7u8WNxsxm39P0WCG8EHvv3) | [CamelDiseaseBoy](https://open.spotify.com/artist/5JwHCZsvyht8vXO9n5Tp10) | [O Âmago e a Carne](https://open.spotify.com/album/2cIvdaB6QTibpep7wYCu7T) | 1:53 | 2023-09-15 | 2023-11-18 |
+| [Como Faz](https://open.spotify.com/track/2XdQV0ps5w8Nu9Whpk3liD) | [BemBilly](https://open.spotify.com/artist/4BiUJ8ML95xkpaEkQMN2tK) | [Como Faz](https://open.spotify.com/album/04PPEYDFsLqtJpkFxxpuh8) | 2:53 | 2024-08-16 |  |
 | [Cowabunga!](https://open.spotify.com/track/0T7dsXQYsz1SjpbvwYKVEY) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Nle Doprê](https://open.spotify.com/artist/5eIBAoPi08IA4rVTJZznZL), [Brennuz](https://open.spotify.com/artist/3bJRxCD4x2F0x32XFGo9CH), [Barretinho](https://open.spotify.com/artist/17vAOVwiHa7hsKePvIb5e9), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko), [Marabá](https://open.spotify.com/artist/1OFNGjmUYfbEvwMFcqgJgB) | [LáDoEsgoto](https://open.spotify.com/album/6razVeB0xgRp9Dh6iZmzRr) | 3:24 | 2024-07-05 |  |
 | [Crack The Code](https://open.spotify.com/track/1iuv7Z4ELFsAnIdbfyDGlp) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND](https://open.spotify.com/album/13OCcXxtLWCMO9EPxLemj1) | 1:17 | 2023-11-24 | 2023-12-02 |
 | [Curte a Party](https://open.spotify.com/track/3BmdFmFFUb8Eu6a9Bs3dcg) | [kvalk](https://open.spotify.com/artist/1ZSjlkPvjpcpPTJjx9igkn), [Mck⁰¹⁵](https://open.spotify.com/artist/2vKURleuK4XrDx6rTyw7PC), [Sp1ngr](https://open.spotify.com/artist/3YoG9OKpYex04uPYt2UvEK) | [Curte a Party](https://open.spotify.com/album/0kODs78SdAPMbaSqZNA4DX) | 2:09 | 2023-09-29 | 2023-10-07 |
@@ -161,6 +162,7 @@
 | [PERRIER](https://open.spotify.com/track/4iZtPP0AMUl8ytTLiwtovX) | [Kustor](https://open.spotify.com/artist/01KhiXBvC4UaFIaTFrzgjx), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [matheuscria](https://open.spotify.com/artist/7agslq9itQRRisLd2aCR1f) | [CROMO](https://open.spotify.com/album/7usw7HyrizqUm1P6tBYg5r) | 2:10 | 2023-11-17 |  |
 | [Pique Jersey](https://open.spotify.com/track/1OdIAwpnYdSjtfIfIA2sx4) | [Koala Ninja](https://open.spotify.com/artist/3IqZFZ7N1MddpRFFqUPNkE), [kam](https://open.spotify.com/artist/3DWT9SZoA2lOKM32hTseMp) | [Pique Jersey](https://open.spotify.com/album/4FFxJTNJQdfN1XmwobxiQp) | 2:15 | 2024-06-21 | 2024-06-29 |
 | [Plano](https://open.spotify.com/track/0MClYaY8PdPAU3g3SSzlde) | [Decassio](https://open.spotify.com/artist/2vHP3Q9dYBvTVdOrlEUfRg) | [Plano](https://open.spotify.com/album/48s7OgHFYUI0fLRhoAgIli) | 3:06 | 2023-09-15 | 2023-11-18 |
+| [Por Amor E Por Lucro](https://open.spotify.com/track/7c5iSSkheCSPiHSfDcyG69) | [Ororo ii](https://open.spotify.com/artist/1vKsthVBmGCSW6MggvoMp1) | [Por Amor E Por Lucro](https://open.spotify.com/album/4YTGPhBPXsEe76Z0JWhKtQ) | 2:19 | 2024-08-16 |  |
 | [Postura de Braba](https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe) | [Kloe](https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Postura de Braba](https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z) | 2:08 | 2023-09-15 |  |
 | [Pra esquecer do ex](https://open.spotify.com/track/132kNUWgXBpFJwTF36Y61v) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [Pra esquecer do ex](https://open.spotify.com/album/6iXMlZatM63GA6ZxajFDMY) | 2:22 | 2024-04-26 |  |
 | [Preciso De Você](https://open.spotify.com/track/2ptwCM76W3PVy7olg5IW3x) | [WASHZL](https://open.spotify.com/artist/3lLoeUrCUfgOaefwgp8opm), [Nebrugg](https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC) | [Preciso De Você](https://open.spotify.com/album/5AEw6Oz304ISasMskpCXO6) | 2:53 | 2024-03-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 780809,
+  "num_followers": 781024,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Luv Machine",
-        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
-      },
-      "artists": [
-        {
-          "name": "Zoe Reijue",
-          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
-        }
-      ],
-      "duration_ms": 371814,
-      "name": "Luv Machine",
-      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Zurna",
         "url": "https://open.spotify.com/album/5RzdvVQ7EY5WJW6SdXILld"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 431451,
       "name": "Zurna",
       "url": "https://open.spotify.com/track/5Kl2LAN9eM6FQBodDXZeTC"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Luv Machine",
+        "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reijue",
+          "url": "https://open.spotify.com/artist/1u2Q2N54HeeqBWncVUrqtF"
+        }
+      ],
+      "duration_ms": 371814,
+      "name": "Luv Machine",
+      "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -399,58 +399,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
-        "name": "Tarlabasi (Be Svendsen Remix)",
-        "url": "https://open.spotify.com/album/4NqDGi1QBIjCfM4oqfb9k5"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Tarlabasi - Be Svendsen Remix - Edit",
-      "url": "https://open.spotify.com/track/5freZHo9V8p2PlayutmhRq"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "No Be Today",
         "url": "https://open.spotify.com/album/3hlPGhWkvHdDXoaZFKIbgV"
       },
@@ -467,6 +415,54 @@
       "duration_ms": 239666,
       "name": "Os\u00e8",
       "url": "https://open.spotify.com/track/43CH8hUhxHIva2bnJS2O6c"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -547,22 +543,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Global Entry 2",
         "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
@@ -599,22 +579,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -631,6 +595,26 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
+        "name": "Tarlabasi (Be Svendsen Remix)",
+        "url": "https://open.spotify.com/album/4NqDGi1QBIjCfM4oqfb9k5"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Tarlabasi - Be Svendsen Remix - Edit",
+      "url": "https://open.spotify.com/track/5freZHo9V8p2PlayutmhRq"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -695,6 +695,70 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
+        "name": "Karanfilce Devojce (PACHIRA Remix)",
+        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
+      },
+      "artists": [
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "PACHIRA",
+          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
+        }
+      ],
+      "duration_ms": 342853,
+      "name": "Karanfilce Devojce - PACHIRA Remix",
+      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
+      },
+      "artists": [
+        {
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
+        }
+      ],
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Ma Gally",
+        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
+      },
+      "artists": [
+        {
+          "name": "Hot Oasis",
+          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
+        },
+        {
+          "name": "Weam Ismail",
+          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
+        }
+      ],
+      "duration_ms": 433330,
+      "name": "Ya Nahar Ya Gamel",
+      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -727,70 +791,6 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
-      },
-      "artists": [
-        {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
-        }
-      ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
-        "name": "Karanfilce Devojce (PACHIRA Remix)",
-        "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
-      },
-      "artists": [
-        {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "PACHIRA",
-          "url": "https://open.spotify.com/artist/7xYPxh4TBh0bkCQwg1YoT0"
-        }
-      ],
-      "duration_ms": 342853,
-      "name": "Karanfilce Devojce - PACHIRA Remix",
-      "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
-        "name": "Ma Gally",
-        "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
-      },
-      "artists": [
-        {
-          "name": "Hot Oasis",
-          "url": "https://open.spotify.com/artist/3yjJoAP3B8paC6tedRJ7ii"
-        },
-        {
-          "name": "Weam Ismail",
-          "url": "https://open.spotify.com/artist/4UTtfw0Sgak4dLZC1Xfmko"
-        }
-      ],
-      "duration_ms": 433330,
-      "name": "Ya Nahar Ya Gamel",
-      "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
-      },
-      "artists": [
-        {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
-        }
-      ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 282520,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+      },
+      "artists": [
+        {
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+        }
+      ],
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Man Dies Alone",
         "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 279000,
       "name": "Man Dies Alone - Short Version",
       "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Bosque",
         "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2024-08-05 10:22:24",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-05 10:22:24",
       "album": {
-        "name": "Kick Up The Dust",
-        "url": "https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b"
-      },
-      "artists": [
-        {
-          "name": "Stavroz",
-          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Kick Up The Dust",
-      "url": "https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR"
-    },
-    {
-      "added_at": "2024-08-05 10:22:24",
-      "album": {
         "name": "Doors To Shambhala",
         "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
+    },
+    {
+      "added_at": "2024-08-05 10:22:24",
+      "album": {
+        "name": "Kick Up The Dust",
+        "url": "https://open.spotify.com/album/5lHCAmlJ6o5CxYIRrydi2b"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Kick Up The Dust",
+      "url": "https://open.spotify.com/track/4pdR5VBU2TNVHukEEPNlqR"
     }
   ],
   "unique_name": "Org\u00e1nica",

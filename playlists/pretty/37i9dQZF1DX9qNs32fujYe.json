@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Powerwolf",
-  "num_followers": 1259479,
+  "num_followers": 1259783,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master Of Puppets",
-      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 214760,
       "name": "My Own Summer (Shove It)",
       "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Master Of Puppets (Remastered)",
+        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master Of Puppets",
+      "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Hunting High and Low",
-      "url": "https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Hunting High and Low",
+      "url": "https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Cannibal",
         "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 227440,
       "name": "Choke",
       "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Life Is But a Dream\u2026",
-        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 330386,
-      "name": "Mattel",
-      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 330386,
+      "name": "Mattel",
+      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 215346,
       "name": "Circle The Drain",
       "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/79GLbXCHnsOG9TBzvtS3sy"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/5gNyrx8elXaXXs3vFC1ufZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
+        "name": "Calamity",
+        "url": "https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 353986,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
+      "duration_ms": 173372,
+      "name": "Calamity",
+      "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Calamity",
-        "url": "https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy"
       },
       "artists": [
         {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 173372,
-      "name": "Calamity",
-      "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
+      "duration_ms": 353986,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "1589",
-        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 244780,
-      "name": "1589",
-      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Lights...Camera...Revolution",
         "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 348093,
       "name": "You Can't Bring Me Down",
       "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "1589",
+        "url": "https://open.spotify.com/album/2DCkMmDE6Lh7QY5xFMYcG2"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 244780,
+      "name": "1589",
+      "url": "https://open.spotify.com/track/0XvAsIMhFkN4J1ZY3kdM2G"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Senjutsu",
-        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 243754,
-      "name": "Days Of Future Past",
-      "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Slaughter Of The Soul",
         "url": "https://open.spotify.com/album/1m0px7K5tJndjxU6RIuL8U"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 183093,
       "name": "Slaughter Of The Soul",
       "url": "https://open.spotify.com/track/2Vy4z1ZUN7RvN7syWI2yef"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 243754,
+      "name": "Days Of Future Past",
+      "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hands of Sin",
-        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+        "name": "The Black",
+        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
       },
       "artists": [
         {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 236250,
-      "name": "Hands of Sin",
-      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+      "duration_ms": 247599,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Hands of Sin",
+        "url": "https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Hands of Sin",
+      "url": "https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Darkenguard",
         "url": "https://open.spotify.com/album/2Pz9nX3wMVPSnLBYITUe5J"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 511506,
       "name": "Darkenguard",
       "url": "https://open.spotify.com/track/7IfWPCto2sF1s2J7snFDjm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Black",
-        "url": "https://open.spotify.com/album/7DYQgveBQDY1xyj4XJ3zzY"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 247599,
-      "name": "Desolation",
-      "url": "https://open.spotify.com/track/5uyD7zoJKzukGNFxZ1jPpM"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Urban Discipline",
-        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
-      },
-      "artists": [
-        {
-          "name": "Biohazard",
-          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Punishment",
-      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Omega",
         "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 306346,
       "name": "The Skeleton Key",
       "url": "https://open.spotify.com/track/6IVKiq8Xxhvg03MUtu5smv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Urban Discipline",
+        "url": "https://open.spotify.com/album/4ZtfEq2ES0vRMUY5shqDws"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Punishment",
+      "url": "https://open.spotify.com/track/3eI2C0gohXlg4AsavdYSiz"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Winter Storm Vigilantes",
-        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
-      },
-      "artists": [
-        {
-          "name": "Ensiferum",
-          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Winter Storm Vigilantes",
-      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Make It Rain / On the Other Side of Tonight",
         "url": "https://open.spotify.com/album/13NYRk93Aood9uaAvGnDkI"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 202068,
       "name": "On the Other Side of Tonight",
       "url": "https://open.spotify.com/track/0Fwgk7r48uJpO4Hjb6NGmY"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Winter Storm Vigilantes",
+        "url": "https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs"
+      },
+      "artists": [
+        {
+          "name": "Ensiferum",
+          "url": "https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Winter Storm Vigilantes",
+      "url": "https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Price of Pain",
-        "url": "https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75"
-      },
-      "artists": [
-        {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
-        }
-      ],
-      "duration_ms": 220668,
-      "name": "The Price of Pain",
-      "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Blow EP",
         "url": "https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 300698,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Price of Pain",
+        "url": "https://open.spotify.com/album/4fjblkERd2eRqjAHe0mr75"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 220668,
+      "name": "The Price of Pain",
+      "url": "https://open.spotify.com/track/4d296WUjDML5TAJlC2kWMn"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Start The Healing",
-        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Hivemind (feat. Mental Cruelty)",
         "url": "https://open.spotify.com/album/340YpLo1eaYz1Gxbd6LTjU"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 384824,
       "name": "Hivemind (feat. Mental Cruelty)",
       "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Start The Healing",
+        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
-      },
-      "artists": [
-        {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Castle In The Sky",
-      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
       },
       "artists": [
         {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
+      "duration_ms": 304500,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2451,6 +2435,22 @@
       "duration_ms": 250598,
       "name": "If Not for You",
       "url": "https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hail To The King",
-        "url": "https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7"
-      },
-      "artists": [
-        {
-          "name": "HammerFall",
-          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
-        }
-      ],
-      "duration_ms": 272467,
-      "name": "Hail To The King",
-      "url": "https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Heartless Madness",
         "url": "https://open.spotify.com/album/7hi1CYcnOAGlg0lVJCO3Bu"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 239866,
       "name": "Heartless Madness",
       "url": "https://open.spotify.com/track/6syHCS66oykczN2ZN7zQPX"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hail To The King",
+        "url": "https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "duration_ms": 272467,
+      "name": "Hail To The King",
+      "url": "https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2863,6 +2863,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
+      },
+      "artists": [
+        {
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+        }
+      ],
+      "duration_ms": 330813,
+      "name": "Northwards",
+      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "The Call of the Void",
         "url": "https://open.spotify.com/album/6v472xKTGoBedRClrXfY45"
       },
@@ -2879,22 +2895,6 @@
       "duration_ms": 238145,
       "name": "Digital Bullets (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/1a7hFfEXGJKSKSFKDoufPi"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/3EATOOixZ8TxrSqvbtF46A"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 330813,
-      "name": "Northwards",
-      "url": "https://open.spotify.com/track/5NS3gor1NtqKcp55Y6M2oD"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2963,6 +2963,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "In Waves",
+        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 302466,
+      "name": "In Waves",
+      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
       },
@@ -2991,22 +3007,6 @@
       "duration_ms": 342000,
       "name": "Hin helga kv\u00f6l",
       "url": "https://open.spotify.com/track/4Al63sF8CtNkAegXTLcwKM"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "In Waves",
-        "url": "https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 302466,
-      "name": "In Waves",
-      "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3047,6 +3047,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "A Perfect Day to Die",
+        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
+      },
+      "artists": [
+        {
+          "name": "Onslaught",
+          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "A Perfect Day to Die",
+      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Chosen Force",
         "url": "https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY"
       },
@@ -3075,22 +3091,6 @@
       "duration_ms": 208009,
       "name": "Fast As A Shark",
       "url": "https://open.spotify.com/track/6zgeRLkClN6lSNRSpQK9K7"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "A Perfect Day to Die",
-        "url": "https://open.spotify.com/album/3RotQYTtPdeQ5BLW9YlSCD"
-      },
-      "artists": [
-        {
-          "name": "Onslaught",
-          "url": "https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "A Perfect Day to Die",
-      "url": "https://open.spotify.com/track/74pjm7MZkov3oHfPQLZKoR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3195,22 +3195,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Head & The Habit",
-        "url": "https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "The Sirens Sound",
-      "url": "https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Evenfall",
         "url": "https://open.spotify.com/album/6vnH6OAOT6uLuGMTODFoKN"
       },
@@ -3223,6 +3207,22 @@
       "duration_ms": 243852,
       "name": "Evenfall",
       "url": "https://open.spotify.com/track/15RGQRE1XBzWL6RLncD5Lw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Head & The Habit",
+        "url": "https://open.spotify.com/album/1gsJpMVqM372TjZwQ19dYq"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "The Sirens Sound",
+      "url": "https://open.spotify.com/track/13ke0vDc5JPVf9Hzcik9V8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Child Within The Man",
-        "url": "https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Bach",
-          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Keeper of the Celestial Flame of Abernethy",
         "url": "https://open.spotify.com/album/3mekZiHdAwHqO9CE5XgrzI"
       },
@@ -3291,18 +3275,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Chasing Sunsets",
-        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
+        "name": "Child Within The Man",
+        "url": "https://open.spotify.com/album/4BT7xGOJ4FtgLKLadxBaZF"
       },
       "artists": [
         {
-          "name": "Charlotte Wessels",
-          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+          "name": "Sebastian Bach",
+          "url": "https://open.spotify.com/artist/2D2svlzUpyTfcEEq0t3dgV"
         }
       ],
-      "duration_ms": 256453,
-      "name": "Chasing Sunsets",
-      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
+      "duration_ms": 188666,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4MQkVbYj1QTtaaw1u6ghX0"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -3319,6 +3303,22 @@
       "duration_ms": 302628,
       "name": "Together We Rise",
       "url": "https://open.spotify.com/track/4Asn26WKTDwVEx5sJrEc8T"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Wessels",
+          "url": "https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Chasing Sunsets",
+      "url": "https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh"
     }
   ],
   "unique_name": "Heavy Metal",

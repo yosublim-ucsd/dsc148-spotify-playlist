@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rakhano
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,983 likes - 96 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,992 likes - 96 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

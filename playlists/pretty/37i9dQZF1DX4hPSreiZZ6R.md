@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4hPSreiZZ6R.md) - [plain]
 
 > 日本のSSW\(シンガーソングライター\)を特集するプレイリスト<a href="spotify:playlist:37i9dQZF1DWYhe5ISqq2D1">「ブルーにこんがらがって」</a>総まとめ！ cover: 米津玄師 2023年、プレイリストで再生されたアーティスト別SSWベスト50 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 845 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 844 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

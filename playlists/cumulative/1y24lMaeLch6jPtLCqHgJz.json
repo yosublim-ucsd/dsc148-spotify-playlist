@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164191,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142383,
       "name": "Baby Don't Go",
       "url": "https://open.spotify.com/track/5QXGbNayCQ6JQEt8AN6zOt"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173507,
       "name": "BANG",
       "url": "https://open.spotify.com/track/53iIxmE1OJAAyZYBLaqvRX"
@@ -2217,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Drop That Low (When I Dip)",
+        "url": "https://open.spotify.com/album/3ijcuTSUg192BerlqA1gxR"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Drop That Low (When I Dip)",
+      "url": "https://open.spotify.com/track/0WSjVLITbxV6kVXndziQDm"
+    },
+    {
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 155679,
       "name": "For The Techno",
       "url": "https://open.spotify.com/track/1vvQimSDXG0iEqje0VX14I"
@@ -3854,7 +3872,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166917,
       "name": "Kill The Vibe",
       "url": "https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp"
@@ -4496,7 +4514,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179555,
       "name": "Move",
       "url": "https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP"
@@ -4580,6 +4598,24 @@
       "duration_ms": 189090,
       "name": "My Home",
       "url": "https://open.spotify.com/track/58qIp4bLhqmoCcX89VCRsT"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2R1VhIIQyKpX8ieXxvx8Ox"
+      },
+      "artists": [
+        {
+          "name": "Wonbeat & Purpose",
+          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7eEBF6miPhzP8Ip8ebfpZf"
     },
     {
       "album": {
@@ -4882,6 +4918,28 @@
       "duration_ms": 165000,
       "name": "One",
       "url": "https://open.spotify.com/track/3do8rQ8ePlwXN2wlsvIADl"
+    },
+    {
+      "album": {
+        "name": "One (Your Name)",
+        "url": "https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163246,
+      "name": "One (Your Name) - Radio Edit",
+      "url": "https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde"
     },
     {
       "album": {
@@ -5427,6 +5485,32 @@
     },
     {
       "album": {
+        "name": "Reload (Vocal Version / Radio Edit)",
+        "url": "https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Tommy Trash",
+          "url": "https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221272,
+      "name": "Reload - Radio Edit",
+      "url": "https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO"
+    },
+    {
+      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/7GBjJgA2a7EI1wII8efEDC"
       },
@@ -5582,7 +5666,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178777,
       "name": "ROOTS",
       "url": "https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX"
@@ -5966,6 +6050,24 @@
       "duration_ms": 200639,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/3guu1NVq5cglm8yzIbUqAp"
+    },
+    {
+      "album": {
+        "name": "Sitting Down Here",
+        "url": "https://open.spotify.com/album/667Bjun11jQGE0PdYbPSDZ"
+      },
+      "artists": [
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133102,
+      "name": "Sitting Down Here",
+      "url": "https://open.spotify.com/track/1yjwPwIBoJJfBCPfeOwyBK"
     },
     {
       "album": {
@@ -7248,7 +7350,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 170898,
       "name": "Wait For The Drums",
       "url": "https://open.spotify.com/track/08rvT9AMPKZiMeKcBXHGsu"

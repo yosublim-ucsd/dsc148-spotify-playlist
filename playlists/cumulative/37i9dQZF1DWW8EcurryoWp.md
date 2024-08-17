@@ -4,7 +4,7 @@
 
 > The best new Irish alternative sounds\. Cover: Gurriers
 
-84 songs - 5 hr 0 min
+85 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Thirteen](https://open.spotify.com/track/41ejsO9y8hXJpbB4BAb4ig) | [Nerves](https://open.spotify.com/artist/4oZHD9a5Wf8vZWHTrPWKdO) | [Thirteen](https://open.spotify.com/album/7scrH9IVRpVjSDKwsSSM2J) | 4:35 | 2024-06-20 |  |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-06-20 |  |
 | [Twist and Turn](https://open.spotify.com/track/7F8SxhlfzFP16sn1UuTXHZ) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Twist and Turn](https://open.spotify.com/album/6zZbKGTLAW78P3GNpJMHCM) | 3:14 | 2024-06-20 |  |
+| [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2024-08-15 |  |
 | [Veins](https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9) | [Emma Noodles](https://open.spotify.com/artist/1zUi5dJeT7ImOnG6lEgypQ) | [Veins](https://open.spotify.com/album/5Glooco0j7yIOlwAdPxYrX) | 3:31 | 2024-06-20 |  |
 | [While You Sleep](https://open.spotify.com/track/4jbOJaTKiur366ygUgcp6h) | [Mustafa Karakışla](https://open.spotify.com/artist/0tGT2RhFiBgnNf1AY4muYM) | [While You Sleep](https://open.spotify.com/album/2aZy0r1AaBS3lLgl9PWBsp) | 4:01 | 2024-06-20 |  |
 | [why don't u like me anymore?](https://open.spotify.com/track/70VQZmJsY927oN249j8Czv) | [thanks mom](https://open.spotify.com/artist/3vcuC4PZIUr3AVzbJvvHmD) | [why don't u like me anymore?](https://open.spotify.com/album/03eD81EVF26nuHjHzC9dzI) | 3:39 | 2024-08-15 |  |

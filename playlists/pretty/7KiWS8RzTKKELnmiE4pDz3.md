@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 165 songs - 8 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 166 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,5 +173,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 163 | [Mission Control \(feat\. T Man the Wizard\)](https://open.spotify.com/track/50VDY20fQBAfjYwtVEWPWS) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [T Man The Wizard](https://open.spotify.com/artist/5hvDPUBzdQtdFoOHJ8Q6g6) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 2:11 |
 | 164 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/0a5JCzipgKytaoKncMKsHL) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 3:21 |
 | 165 | [Fear](https://open.spotify.com/track/6eKRCw9oMbKuDJ6gwFwgwM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 4:12 |
+| 166 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 |
 
-Snapshot ID: `AAAc1QfibhC7kDbaNKDXM7sPJBY16xKJ`
+Snapshot ID: `AAAc1sabjWFIKt0Ls3BsSa0Q5Alp0PmE`

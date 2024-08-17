@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> the best in hardcore\. open the pit w/ Drug Church.
+> the best in hardcore\. open the pit w/ GEL
 
-276 songs - 11 hr 7 min
+280 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Carry My Own Torch](https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Hell Bent](https://open.spotify.com/album/6kmwWlNdCsUkStiJxZxV2R) | 1:49 | 2024-07-03 |  |
 | [Chew](https://open.spotify.com/track/3QOg1az5WvUJNT0pVhCI3q) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Be My Vengeance](https://open.spotify.com/album/1k50Z5L0x3NHXo3aocmSEL) | 2:42 | 2024-01-30 |  |
 | [Chompin' At The Bit](https://open.spotify.com/track/4Nvn9NPYbOh2j8MtcrJZ7f) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [TROUBLE EP](https://open.spotify.com/album/5IcmjyqYJeUDMrqu5DTE7B) | 3:01 | 2024-05-05 |  |
+| [Chow](https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Chow](https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh) | 2:49 | 2024-08-16 |  |
 | [Chunker](https://open.spotify.com/track/5ifQfvMrCILtMMNTnn7WYA) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Chunker](https://open.spotify.com/album/06E9FCZ7YFqBVgCm1ldauU) | 4:17 | 2023-05-19 | 2023-07-18 |
 | [Clip Your Wings](https://open.spotify.com/track/2ZKIpDOt31WEZ7qBqKOCa3) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Clip Your Wings](https://open.spotify.com/album/77MzQRedEFUdEXzndw6QZV) | 2:54 | 2024-02-20 |  |
 | [Cocalero](https://open.spotify.com/track/4rKMeOxbIotmiTwWnv8sqz) | [Planet On A Chain](https://open.spotify.com/artist/3APgrosFRdZbDHVIRS8UDf) | [Culture of Death](https://open.spotify.com/album/1PFBTV1nCQVdZgW74XFNpH) | 1:11 | 2024-04-26 | 2024-07-13 |
@@ -66,16 +67,16 @@
 | [Delete It](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ) | [MSPAINT](https://open.spotify.com/artist/5sn6aQFrJvjsSIuaomA4to), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Post\-American](https://open.spotify.com/album/0O9TQ88Zb6NE6oa6Gkb0S9) | 2:22 | 2023-03-17 |  |
 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-07-12 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 | 2024-01-31 |
-| [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-19 |  |
+| [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-19 | 2024-08-17 |
 | [Deneyer Maker](https://open.spotify.com/track/6eOk1TWv4WjZHcCogAhBhw) | [Shawty](https://open.spotify.com/artist/6AWxfMNFsVCCpLnzeNTqCD) | [Los Compadres](https://open.spotify.com/album/1fa3q5XbM1R1ykfHeLkdhB) | 2:20 | 2023-08-11 | 2023-11-11 |
 | [Dice Roll](https://open.spotify.com/track/6UHzc4uQcUGDcQBVZDKZHe) | [PISS ANT](https://open.spotify.com/artist/2mBWeNVspYwiZoN82fNLbA), [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG) | [Winter Demo](https://open.spotify.com/album/3afYHGG5m3wOnWYN1716x9) | 1:58 | 2024-03-01 |  |
 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 | 2023-04-21 |  |
-| [Disarm or Be Destroyed](https://open.spotify.com/track/6O4WvtOVKqU3UvDibirC6s) | [Wolfbrigade](https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx) | [Disarm or Be Destroyed](https://open.spotify.com/album/6GDJd5FesDqLj69PvkA4AR) | 2:08 | 2024-07-12 |  |
+| [Disarm or Be Destroyed](https://open.spotify.com/track/6O4WvtOVKqU3UvDibirC6s) | [Wolfbrigade](https://open.spotify.com/artist/0ixn2a4hS73Linz5TQGxVx) | [Disarm or Be Destroyed](https://open.spotify.com/album/6GDJd5FesDqLj69PvkA4AR) | 2:08 | 2024-07-12 | 2024-08-17 |
 | [Diztorted World](https://open.spotify.com/track/453eHGC3TawSbKQvG75ZsL) | [Diztort](https://open.spotify.com/artist/1nUQClDPiIagv6Nq423qrz) | [Vengeance is Mine](https://open.spotify.com/album/0qWapuKQRZhgvXGbQCyHxO) | 2:54 | 2024-04-26 |  |
 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2023-07-18 | 2024-03-02 |
 | [Dominant Predation](https://open.spotify.com/track/0vob2r6rIQQVT43h0ffInQ) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Dominant Predation](https://open.spotify.com/album/0JfXWkLPzvf8cXfG9SpDUM) | 5:21 | 2024-06-21 |  |
 | [Domination III](https://open.spotify.com/track/7rGRYa3OGnTFimCe9kYqRP) | [XweaponX](https://open.spotify.com/artist/71xfe4OhZpe7tdJSAT5x4i) | [Weapon of Pleasure](https://open.spotify.com/album/7suLwWGbNcaCkbExdOiHKI) | 1:54 | 2024-04-26 |  |
-| [DON'T NEED](https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [DON'T NEED](https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d) | 2:43 | 2024-06-21 |  |
+| [DON'T NEED](https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [DON'T NEED](https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d) | 2:43 | 2024-06-21 | 2024-08-17 |
 | [E.O.S.](https://open.spotify.com/track/5RgZJZfmIsm04jxUqucdCU) | [Ends Of Sanity](https://open.spotify.com/artist/1OeKvczzeWqpSWRmBzv0ed) | [E.O.S.](https://open.spotify.com/album/6fbbgAVHHq0DhLmqxDPI1N) | 1:05 | 2024-06-21 |  |
 | [Eden Will Drown](https://open.spotify.com/track/0HsmA18Xq2X9vvGRkBRAtu) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [Gather & Mourn](https://open.spotify.com/album/1p7pgNPg5MXtrSZTcGwSDf) | 3:12 | 2023-02-24 | 2023-09-23 |
 | [Empty Nesting Doll](https://open.spotify.com/track/4F4htaoglwllmVrqa3w74K) | [Cosmic Joke](https://open.spotify.com/artist/3w7uVOPfs4czpqSWFgCPDX) | [Cosmic Joke](https://open.spotify.com/album/5njj0uHIGlVbqtBu8MTWSf) | 1:48 | 2024-01-30 |  |
@@ -175,7 +176,9 @@
 | [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 | 2023-04-21 | 2024-04-27 |
 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 |  |
 | [Only Human](https://open.spotify.com/track/6tbWLCZ907Qh5k2aHEP4H3) | [Iron Lung](https://open.spotify.com/artist/1rXjfC9HsVIIHggTMuxvSL) | [Mental Distancing](https://open.spotify.com/album/2YgYYcJD41zpxUlJ2cUzPU) | 2:22 | 2023-02-24 | 2023-04-22 |
+| [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 | 2024-08-16 |  |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-24 | 2023-07-18 |
+| [Or So I Thought](https://open.spotify.com/track/0YfYMCgnraTxOXl8QLe2WJ) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:32 | 2024-08-16 |  |
 | [Our Time](https://open.spotify.com/track/4ixBL8rnxusIfowbY4nNA7) | [Wreckage](https://open.spotify.com/artist/44rq09D86R0gylTJkr6tEZ) | [Our Time](https://open.spotify.com/album/5jEyAyMvfwrVOlqwVB0UV4) | 1:02 | 2023-02-24 | 2023-08-26 |
 | [Out Of The Picture](https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [The Streets Heard It First](https://open.spotify.com/album/2a2wvdfYKY8AWLL1RgevKI) | 2:12 | 2023-02-24 | 2023-11-11 |
 | [Outdated Wallpaper](https://open.spotify.com/track/0M3Il7FYQjMODrvmYAwfPt) | [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [Outdated Wallpaper](https://open.spotify.com/album/0r4AYcStV4GY9IYoTJV24a) | 3:25 | 2023-05-19 | 2024-03-02 |
@@ -183,7 +186,7 @@
 | [Peasants Revolt](https://open.spotify.com/track/2LuM7OyW232MyhXJEJgUr1) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 1:53 | 2024-03-01 |  |
 | [Penalty](https://open.spotify.com/track/6DC0Mm4gfxZg00yry1ek5w) | [\[Ctrl\]](https://open.spotify.com/artist/5jVoRMoUxOcLBzfW9Q4wnc) | [Ex Machina](https://open.spotify.com/album/75yAbKW1IBfKHKnDwwdNiZ) | 1:15 | 2024-03-01 | 2024-04-27 |
 | [Permanent Dark](https://open.spotify.com/track/32ZFuOcwM6fwHSPcWykX3f) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:14 | 2024-06-21 |  |
-| [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 | 2024-06-28 |  |
+| [Persona](https://open.spotify.com/track/19exW77hmfxwbQ1P96vOSS) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/4bhwSntfBW6qBm9Xukw1EW) | 2:12 | 2024-06-28 | 2024-08-17 |
 | [Playin' Hell Tryin' To Get To Heaven](https://open.spotify.com/track/5dZEWLFTHuaz8lq3ryNYoV) | [Life's Question](https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq) | [World Full Of...](https://open.spotify.com/album/3szSSG9C1WEMUPdkukrybl) | 4:13 | 2023-02-24 | 2024-08-10 |
 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 | 2024-04-26 | 2024-06-22 |
 | [Point of View](https://open.spotify.com/track/0fU9H6KTGKtthrZZ5AHjZ1) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Spaced Jams](https://open.spotify.com/album/3JcTBkIo5IvXcynwij8AOt) | 2:01 | 2023-02-24 | 2023-07-18 |
@@ -211,6 +214,7 @@
 | [SERRATED STEEL INTRO](https://open.spotify.com/track/15XZvMldL7gYISziYow1mT) | [Knife Wound](https://open.spotify.com/artist/6aHbtzEnui5mHu2bUeKexe) | [Serrated Steel Demo 23'](https://open.spotify.com/album/2DnCljWfdmglQBHnnpUtgg) | 1:49 | 2023-08-11 | 2024-01-31 |
 | [Shadow Figure](https://open.spotify.com/track/1LFFTtAGghxZLGZcBj2jPo) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Consume Me](https://open.spotify.com/album/6siK3BSYKvAxqZUF5KyMCN) | 2:31 | 2023-02-24 | 2024-04-19 |
 | [Shadow Figure](https://open.spotify.com/track/2K6MhfrmfEUVZS1mbkJU6Q) | [Big Laugh](https://open.spotify.com/artist/5xvWaAraKZdkRbY2qBip5c) | [Shadow Figure](https://open.spotify.com/album/4NX1NSfS2uwaLpV6tlJUfr) | 2:31 | 2024-03-22 | 2024-04-27 |
+| [Shame](https://open.spotify.com/track/1mUciZNK2olURLMvqzkkZo) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:34 | 2024-08-16 |  |
 | [Shot Down](https://open.spotify.com/track/5Y5MrD1A7Arz2JcR0BQCb2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/4dTxiPkNE6NClPvdrxtXsA) | 1:49 | 2023-12-12 | 2024-04-19 |
 | [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-07-18 |  |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-18 | 2023-09-23 |

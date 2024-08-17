@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi
 
-322 songs - 19 hr 2 min
+323 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Miracles Are Happening \- Live](https://open.spotify.com/track/1raBBLaxzvHiQL7IbFiCM9) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Miracles Are Happening \(Live\)](https://open.spotify.com/album/4sNepR4V89ywDsEOIPEUUA) | 6:14 | 2024-04-26 |  |
 | [Momentum](https://open.spotify.com/track/6OGlcMVlHteIpnT6M27pzT) | [SEYHGA](https://open.spotify.com/artist/6nDYfLpJkJKMVjn9M12Zws) | [Momentum](https://open.spotify.com/album/0I1h4qJOrsZtt9v3X521ba) | 2:55 | 2024-02-09 | 2024-04-06 |
 | [Mood](https://open.spotify.com/track/02hayZnsBdxsXdY1SZH1Ve) | [Izee Smith](https://open.spotify.com/artist/6GyPcrxlrvHEre7Rb63RHt) | [Mood](https://open.spotify.com/album/0BKHdObJ1b5mQqs207vJRn) | 2:49 | 2024-01-26 | 2024-03-29 |
+| [More Dearly](https://open.spotify.com/track/1rHlV075lP6ITJ8h5qS4Qt) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [More Dearly](https://open.spotify.com/album/6eqHzSqjYMzSTqryevQa6j) | 2:51 | 2024-08-16 |  |
 | [Morning](https://open.spotify.com/track/4CePds7i6rqVBH0bD1vTIz) | [Lofi Prxxchr](https://open.spotify.com/artist/7KFHENWIur94kSsTfOndSJ), [King Davo](https://open.spotify.com/artist/6xevTwlQT0l6n96JSpjmTl), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Morning](https://open.spotify.com/album/2saEGhtWVOFaOGYtQr0ly4) | 2:33 | 2023-10-20 | 2023-12-15 |
 | [Most Beautiful](https://open.spotify.com/track/5b7PQQbvxyawU0R4YOhiYA) | [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [A Thousand Tongues \(Live\)](https://open.spotify.com/album/7z1WihHkpJg08UAaCCXobV) | 9:06 | 2024-04-12 | 2024-06-07 |
 | [My God](https://open.spotify.com/track/3EpqZOIMNBBbFJDJDw9Oyw) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Phontera](https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [My God](https://open.spotify.com/album/5hORp9mTcI86b8trPRmaVU) | 2:43 | 2024-03-21 | 2024-07-05 |

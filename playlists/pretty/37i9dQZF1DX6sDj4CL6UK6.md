@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,241 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,253 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 33 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 |
 | 34 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 | 35 | [Hope this song finds you](https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Hope this song finds you](https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr) | 2:18 |
-| 36 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
-| 37 | [I Blew It!](https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [I Blew It!](https://open.spotify.com/album/1s9C8rJXcs5ddGa2BXhFls) | 3:11 |
+| 36 | [I Blew It!](https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [I Blew It!](https://open.spotify.com/album/1s9C8rJXcs5ddGa2BXhFls) | 3:11 |
+| 37 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 |
 | 38 | [Just As Easily](https://open.spotify.com/track/7k695jTLLrMiNnFnyRWDCN) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Just As Easily](https://open.spotify.com/album/4z4anMfIasayTBmyVIGlqa) | 3:09 |
 | 39 | [Take Me Home](https://open.spotify.com/track/2ydZssU4KmqfnJrSrXfSMi) | [Farhan](https://open.spotify.com/artist/5uVot7nr1ZYEKmGiA2Pe4t), [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Take Me Home](https://open.spotify.com/album/0YCFRmzGYSjzUHQh51pA3l) | 2:58 |
 | 40 | [Model](https://open.spotify.com/track/2Zazn9812HoUjjs1fN6cMP) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [Model](https://open.spotify.com/album/4GSiUIXVqq2mICYcy6CAhC) | 3:22 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 43 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 44 | [Mutual](https://open.spotify.com/track/25T9KzOqSe44j3nsWuKfiM) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [Mutual](https://open.spotify.com/album/5zjzWWpPmYwZVTTHXOL3Vy) | 2:35 |
 | 45 | [People](https://open.spotify.com/track/0lygeGFALYsTrHXi6yThOK) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [People \- Single](https://open.spotify.com/album/3ltUujzRKci71C5quo9TNS) | 3:08 |
-| 46 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 |
+| 46 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 |
 | 47 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 |
-| 48 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 |
+| 48 | [Perfect Life](https://open.spotify.com/track/61ayAzvFPbItOznMjWBZwu) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X) | [Perfect Life](https://open.spotify.com/album/2qX6H9xdwN6uBmdzPqrdk5) | 4:02 |
 | 49 | [Asymmetrical](https://open.spotify.com/track/4Wi8LAUHkE2fWjGvrelJ4h) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [The Archies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qHdnDIIyffdF46dwQ4V8i) | 2:33 |
 | 50 | [Overrated](https://open.spotify.com/track/5lSUuHikeDyhMJlWHLfDPi) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [Overrated](https://open.spotify.com/album/6wdJu0Z74v0zKWnf2oUh8E) | 3:20 |
 | 51 | [Spare My Heart](https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI) | [Imcha Imchen](https://open.spotify.com/artist/279G7M1MozdYogR2qrcMtA) | [Spare My Heart](https://open.spotify.com/album/4yF6GYnhCa6GZvLBujpp0D) | 2:43 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 59 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 |
 | 60 | [I’m On Your Side](https://open.spotify.com/track/5NUFanXmuh51dgRQ18xRAQ) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A) | [I’m On Your Side](https://open.spotify.com/album/0rW3Lx8FykpGzsp2d3AZkE) | 2:43 |
 | 61 | [Tourist](https://open.spotify.com/track/7enEWPtX7qbL0AiiIwY59s) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:45 |
-| 62 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
-| 63 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 |
+| 62 | [Maybe Tomorrow](https://open.spotify.com/track/2AuCCfMVTPtMS023qXYGlB) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/0oJkrsCaWMPcAOhMd1f0Xn) | 2:50 |
+| 63 | [Diana](https://open.spotify.com/track/2EBvWkB4H1BIqiAfbiPnWX) | [Derek & The Cats](https://open.spotify.com/artist/1c05tPqGrM6uVvYTzYySW2), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Diana](https://open.spotify.com/album/4V59Ls4Cy5H2UvWEjxnhv0) | 4:06 |
 | 64 | [all over again](https://open.spotify.com/track/55Mzg7JvuRJsn9FoGuU0Kn) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Falze](https://open.spotify.com/artist/0S6ds2b08hBdYvGDO0LQ9T) | [all over again](https://open.spotify.com/album/5TwKDLEVzSf3FReatuvlu1) | 2:43 |
 | 65 | [Caught Up](https://open.spotify.com/track/7nVOpausgMrJCk0DXZSTs0) | [Ananya Birla](https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P) | [Caught Up](https://open.spotify.com/album/5cDE0asojLGw60slwj5BED) | 3:27 |
 | 66 | [Just for Once](https://open.spotify.com/track/5lxuSTeGvW0d6xoNarXFLP) | [Yohan Marshall](https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Just for Once](https://open.spotify.com/album/4wyHX8oGBIZpe4PXHeGyW4) | 3:04 |

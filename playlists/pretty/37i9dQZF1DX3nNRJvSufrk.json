@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 34078,
+  "num_followers": 34082,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -295,8 +295,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Tango",
-        "url": "https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v"
+        "name": "Da Mind Of Traxman",
+        "url": "https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 239001,
-      "name": "Tango",
-      "url": "https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw"
+      "duration_ms": 241360,
+      "name": "Footworkin On Air",
+      "url": "https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Da Mind Of Traxman",
-        "url": "https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV"
+        "name": "Tango",
+        "url": "https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
         }
       ],
-      "duration_ms": 241360,
-      "name": "Footworkin On Air",
-      "url": "https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz"
+      "duration_ms": 239001,
+      "name": "Tango",
+      "url": "https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Bangs & Works Vol. 2 (The Best Of Chicago Footwork)",
-        "url": "https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt"
-      },
-      "artists": [
-        {
-          "name": "RP Boo",
-          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Heavy Heat",
-      "url": "https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "Bounce That Booty (Jackmaster Werks Remix)",
         "url": "https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 164383,
       "name": "Bounce That Booty - Jackmaster Werks Remix",
       "url": "https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Bangs & Works Vol. 2 (The Best Of Chicago Footwork)",
+        "url": "https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt"
+      },
+      "artists": [
+        {
+          "name": "RP Boo",
+          "url": "https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Heavy Heat",
+      "url": "https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -4,7 +4,7 @@
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-62 songs - 5 hr 19 min
+63 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Andar com Deus](https://open.spotify.com/track/4EUkoxg641qUnJ1yExWWUA) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Deus É Bom Demais](https://open.spotify.com/album/6MogrOg46kXWjllw4gEbJN) | 4:03 | 2023-07-09 | 2024-05-28 |
 | [Autor da Minha Fé](https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Cantarei para Sempre](https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T) | 5:50 | 2024-04-21 |  |
 | [Buscar Tua Face é Preciso \- Ao Vivo](https://open.spotify.com/track/1EeHWzE395JKcIOuHeJ35G) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:35 | 2023-07-09 |  |
-| [Calma \- Ao Vivo](https://open.spotify.com/track/5FiJiqNE9OGXX924PBxDqW) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:33 | 2023-07-09 |  |
+| [Calma](https://open.spotify.com/track/6RzDXduerzvImdPfuJz0fr) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Um Novo Começo](https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG) | 6:25 | 2024-08-17 |  |
+| [Calma \- Ao Vivo](https://open.spotify.com/track/5FiJiqNE9OGXX924PBxDqW) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:33 | 2023-07-09 | 2024-08-17 |
 | [Canção do Amigo](https://open.spotify.com/track/3uiy3qcfjRJFwhH68iR74V) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Canções Inesquecíveis](https://open.spotify.com/album/4WfAu0Bd0G638EiZKCw4yO) | 5:42 | 2023-07-09 |  |
 | [Deus Conhece](https://open.spotify.com/track/3yhGDWHhhewie2l9sMr4Yp) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/4zsVqpHfZlhH5QChdJ14ab) | 4:56 | 2023-07-09 |  |
 | [Doce Presença](https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Doce Presença](https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E) | 4:07 | 2023-07-09 |  |

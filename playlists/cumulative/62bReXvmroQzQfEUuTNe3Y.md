@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2024\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-442 songs - 1 day 0 hr 58 min
+443 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All I Need](https://open.spotify.com/track/3ZUbGRsTPyvdlJt91T4akw) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [All I Need](https://open.spotify.com/album/0zAQv1hc37NQG9ElPjP7Ki) | 2:26 | 2023-07-28 | 2023-12-14 |
 | [All I Want Is You](https://open.spotify.com/track/1kvCXlTdOSHX4nO631YTsn) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [All I Want Is You](https://open.spotify.com/album/6MbknM6zcZbV4K5by86DQu) | 2:56 | 2021-10-16 | 2022-03-12 |
 | [All In A Dream](https://open.spotify.com/track/03jQHo0HFj5onzoexiaMPI) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 3:50 | 2024-02-23 |  |
-| [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-12-08 |  |
+| [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-12-08 | 2024-08-17 |
 | [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 | 2023-05-12 |  |
 | [Almost Love \(feat\. Dominic Neill\)](https://open.spotify.com/track/5rqdZvpgQGp3d8zvlpkl6c) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Almost Love \(feat\. Dominic Neill\)](https://open.spotify.com/album/11Qhu8bimVBjtbb6RXm0O9) | 2:14 | 2020-10-10 | 2021-10-02 |
 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 | 2024-08-02 |  |
@@ -326,6 +326,7 @@
 | [Sad in Scandinavia](https://open.spotify.com/track/5e3bm51VAf4zGf6Y6LaFy0) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:24 | 2021-03-06 | 2021-06-26 |
 | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/track/4PhYoXDqSjAKYw4aSfIBJJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Same Things \(feat\. Gabrielle Current\)](https://open.spotify.com/album/0TqzLl5tg7lsMrgwHl1g0x) | 3:54 | 2020-09-13\* | 2021-03-06 |
 | [Satisfied \- Edit](https://open.spotify.com/track/378c4bnvmnfAoMTSIOveDX) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 3:43 | 2024-02-23 |  |
+| [Saturate](https://open.spotify.com/track/6lZ8eGS8xEWmHJRY1igdfS) | [Kamil Ghaouti](https://open.spotify.com/artist/59D1PT94ywzBggaLufM7ki), [Big O](https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl), [Alimish](https://open.spotify.com/artist/2gbXRkygfEuz0WIjtN2vpR) | [Saturate](https://open.spotify.com/album/43NyREWutAyPacsKKA3ClO) | 3:08 | 2024-08-16 |  |
 | [Saturday Night](https://open.spotify.com/track/1SWC2QO7JQJdRH7QqFy3vl) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Saturday Night](https://open.spotify.com/album/6DcRUK41ymZ8yTNuzZJ8NV) | 2:40 | 2021-03-26 | 2023-01-21 |
 | [Say](https://open.spotify.com/track/4U7xEavwTr97j51WE1kKmZ) | [Touring](https://open.spotify.com/artist/1DKSHZmGXSlYlbUKFb6KXZ), [Luca Wilding](https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL) | [Say](https://open.spotify.com/album/5s59SA485CRphWE8mebcfG) | 3:00 | 2024-02-16 |  |
 | [Say It Right](https://open.spotify.com/track/19PZhgOfDrSlFkj5D036fe) | [Divolly & Markward](https://open.spotify.com/artist/6CEFAXiSvUDVs26MPyic13) | [Say It Right](https://open.spotify.com/album/3sW9x1R3SpftfVFfAvzBcX) | 2:37 | 2021-03-06 | 2021-08-21 |

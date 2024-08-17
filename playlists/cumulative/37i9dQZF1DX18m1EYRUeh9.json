@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "As Above So Below",
+        "url": "https://open.spotify.com/album/1YABglrz86yYnpHCoRZlfG"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226340,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
+    },
+    {
+      "album": {
         "name": "Zango",
         "url": "https://open.spotify.com/album/7ffV0jqo0UdneN6sdjNiGc"
       },
@@ -252,7 +270,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 143173,
       "name": "Bad State",
       "url": "https://open.spotify.com/track/1iT8kdKFOaYhbH7fz1A4dU"
@@ -401,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Beetlebugs",
+        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222413,
+      "name": "Beetlebugs",
+      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
+    },
+    {
+      "album": {
         "name": "Songs To Come Home To",
         "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
       },
@@ -438,7 +474,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219634,
       "name": "Bhuta Kala",
       "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
@@ -956,6 +992,24 @@
       "duration_ms": 122500,
       "name": "disconnected",
       "url": "https://open.spotify.com/track/69wC4CdczZOPDWtAHs1BTU"
+    },
+    {
+      "album": {
+        "name": "Do You Want More",
+        "url": "https://open.spotify.com/album/7fVMB1sEhRJ1IC9HZgfiHN"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377901,
+      "name": "Do You Want More",
+      "url": "https://open.spotify.com/track/5ybA4h5miGkxaLgs7TVsGu"
     },
     {
       "album": {
@@ -1762,7 +1816,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150712,
       "name": "IJ",
       "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
@@ -2014,7 +2068,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188761,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
@@ -2090,7 +2144,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 247102,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
@@ -2184,7 +2238,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 134616,
       "name": "Little Monk (feat. Karriem Riggins)",
       "url": "https://open.spotify.com/track/58G48t6eicC81u3W2OHFeq"
@@ -2972,7 +3026,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166287,
       "name": "Porto Leone",
       "url": "https://open.spotify.com/track/4tdl1dv3eNHOvSQ1MUqOZW"
@@ -3026,7 +3080,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 265885,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/70NoGzQstw0zYukOY2PVBl"
@@ -3102,6 +3156,24 @@
       "duration_ms": 582566,
       "name": "Return To Centaurus",
       "url": "https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw"
+    },
+    {
+      "album": {
+        "name": "Romance ESL / The Heavy Loop",
+        "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Romance ESL",
+      "url": "https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV"
     },
     {
       "album": {
@@ -4082,7 +4154,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
@@ -4422,6 +4494,32 @@
       "duration_ms": 179000,
       "name": "Who By Fire",
       "url": "https://open.spotify.com/track/2L1f1Z7lUleocWWWg4JRKR"
+    },
+    {
+      "album": {
+        "name": "nothing",
+        "url": "https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104228,
+      "name": "Who Cares 1",
+      "url": "https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq"
     },
     {
       "album": {

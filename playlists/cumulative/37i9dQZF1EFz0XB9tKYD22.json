@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "23 Degrees And South",
       "url": "https://open.spotify.com/track/3eKwcOjuBr5xKwuguvUIYE"
@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 239933,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb"
@@ -5653,7 +5653,7 @@
     },
     {
       "album": {
-        "name": "Kill The Lights (Deluxe)",
+        "name": "Kill The Lights - Deluxe",
         "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
       "artists": [

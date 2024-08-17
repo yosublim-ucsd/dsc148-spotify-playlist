@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Billie du Page",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Clodelle",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146752,
       "name": "Comme Avant",
       "url": "https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV"
@@ -300,6 +300,24 @@
       "duration_ms": 220375,
       "name": "Dans les marguerites",
       "url": "https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm"
+    },
+    {
+      "album": {
+        "name": "Dans mon sang",
+        "url": "https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145233,
+      "name": "Dans mon sang",
+      "url": "https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec"
     },
     {
       "album": {
@@ -408,7 +426,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 137671,
       "name": "Huby boy",
       "url": "https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg"
@@ -462,10 +480,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180880,
       "name": "Il faut que je migre",
       "url": "https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p"
+    },
+    {
+      "album": {
+        "name": "BTDT",
+        "url": "https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF"
+      },
+      "artists": [
+        {
+          "name": "Les Chiens De Ruelles",
+          "url": "https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Insolente",
+      "url": "https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP"
     },
     {
       "album": {
@@ -892,10 +928,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198335,
       "name": "LVL UP",
       "url": "https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX"
+    },
+    {
+      "album": {
+        "name": "L\u00e9o",
+        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "L\u00e9o",
+      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
     },
     {
       "album": {
@@ -1330,6 +1384,24 @@
       "duration_ms": 163373,
       "name": "T'aimer est une gal\u00e8re",
       "url": "https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg"
+    },
+    {
+      "album": {
+        "name": "T'\u00e9tais o\u00f9?",
+        "url": "https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165490,
+      "name": "T'\u00e9tais o\u00f9?",
+      "url": "https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq"
     },
     {
       "album": {

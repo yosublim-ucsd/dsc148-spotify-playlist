@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6351,
+  "num_followers": 6355,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Jaune (Version originale remasteris\u00e9e)",
-        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
       },
       "artists": [
         {
-          "name": "Jean-Pierre Ferland",
-          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
         }
       ],
-      "duration_ms": 253720,
-      "name": "Le petit roi",
-      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
+      "duration_ms": 190906,
+      "name": "D\u00e9potoir",
+      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+        "name": "Jaune (Version originale remasteris\u00e9e)",
+        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
       },
       "artists": [
         {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
         }
       ],
-      "duration_ms": 190906,
-      "name": "D\u00e9potoir",
-      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
+      "duration_ms": 253720,
+      "name": "Le petit roi",
+      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "Les amants de Pomp\u00e9i",
-      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Giscard d'Estaing",
         "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 232800,
       "name": "Giscard d'Estaing",
       "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "Les amants de Pomp\u00e9i",
+      "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Nini",
+        "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Banane",
+          "url": "https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "Franchement",
+      "url": "https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
         "url": "https://open.spotify.com/album/41oaIEobQQ0fodC8e0DK1q"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Nini",
-        "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
+        "name": "Objets perdus",
+        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
       },
       "artists": [
         {
-          "name": "Bonnie Banane",
-          "url": "https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6"
+          "name": "Evelyne Brochu",
+          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
         }
       ],
-      "duration_ms": 151586,
-      "name": "Franchement",
-      "url": "https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx"
+      "duration_ms": 204240,
+      "name": "Maintenant ou jamais",
+      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1171,22 +1187,6 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Objets perdus",
-        "url": "https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Maintenant ou jamais",
-      "url": "https://open.spotify.com/track/118a8HYWmt3jzaXTxGZsnv"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 205855,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7a s'invente pas",
-        "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
-      },
-      "artists": [
-        {
-          "name": "Alex Burger",
-          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
-        }
-      ],
-      "duration_ms": 143253,
-      "name": "Du country dans le ravin",
-      "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "DVTR",
         "url": "https://open.spotify.com/album/0FQ99J1DvLNYP6x1uwHPYW"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 136973,
       "name": "DVTR",
       "url": "https://open.spotify.com/track/6kyU5s2JQj3kqjZ225Hwjv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "\u00c7a s'invente pas",
+        "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
+      },
+      "artists": [
+        {
+          "name": "Alex Burger",
+          "url": "https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7"
+        }
+      ],
+      "duration_ms": 143253,
+      "name": "Du country dans le ravin",
+      "url": "https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Chien Mang\u00e9 Chien",
         "url": "https://open.spotify.com/album/6TMjLEOv81pWhF0E2TNC5j"
       },
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Il n'y a rien que je ne suis pas",
         "url": "https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Bons Times Bad Times",
-        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
-      },
-      "artists": [
-        {
-          "name": "Miro Chino",
-          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "salades",
-      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Fleur de cactus (Face A)",
         "url": "https://open.spotify.com/album/5TmctCsJ7iHZOEfPov009R"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 213961,
       "name": "Western",
       "url": "https://open.spotify.com/track/4yn7tvfl1AiGOFZ0E4ctGL"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Bons Times Bad Times",
+        "url": "https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9"
+      },
+      "artists": [
+        {
+          "name": "Miro Chino",
+          "url": "https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "salades",
+      "url": "https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Feux de joie",
-        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 171428,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Feux de joie",
+        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
     },
     {
       "added_at": "2024-06-19 20:38:05",

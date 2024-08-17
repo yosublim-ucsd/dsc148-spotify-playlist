@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa jambo ja Mikael Laurent.
 
-166 songs - 8 hr 15 min
+167 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dead Man](https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Dead Man](https://open.spotify.com/album/2bXR6WDlDnm31wMvAd0MhB) | 3:23 | 2024-07-18 | 2024-08-16 |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-07-02 | 2024-07-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-07-02 | 2024-07-05 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-07-02 | 2024-07-17 |
 | [Edelleen](https://open.spotify.com/track/6hI1sTn4NS6BrL9wrlqZaI) | [Larry](https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Edelleen](https://open.spotify.com/album/31upea4lQ4IwOqz3KxIFQf) | 2:39 | 2024-07-02 | 2024-07-05 |
 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 | 2024-07-11 |  |

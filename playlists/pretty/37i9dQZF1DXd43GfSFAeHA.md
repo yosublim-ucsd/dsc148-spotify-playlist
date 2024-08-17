@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,160 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,162 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 15 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
 | 16 | [VINI](https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:04 |
 | 17 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 |
-| 18 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
-| 19 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 18 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
+| 19 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
 | 20 | [Wasitkom](https://open.spotify.com/track/05ZQ9kkbuXgoMdrP9jHAIK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/14d7Ubwrr8EJBl5PGMrqcw) | 5:57 |
 | 21 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 22 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 45 | [VIII](https://open.spotify.com/track/6WHsvBA91O7A4QMMDUdn1k) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [VIII](https://open.spotify.com/album/7qJochArUh5WbbFx3Guvai) | 2:47 |
 | 46 | [العيد الكبير](https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [العيد الكبير](https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR) | 2:35 |
 | 47 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
-| 48 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
-| 49 | [Bella Hadid](https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Decor](https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I) | 2:21 |
+| 48 | [Bella Hadid](https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Decor](https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I) | 2:21 |
+| 49 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 |
 | 50 | [Barcelona \(Freedom Music\)](https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES) | [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C), [Randar](https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk) | [Barcelona \(Freedom Music\)](https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls) | 3:14 |
-| 51 | [Jabra Vu](https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:17 |
+| 51 | [Had 5ofi \(feat\. Sakt\)](https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h), [Sakt](https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy) | [Al Taman](https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF) | 2:46 |
 
 Snapshot ID: `ZrnFfgAAAABiBG5BzVC0ie42RikZIuDd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,455 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,470 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 66 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 |
 | 67 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 |
 | 68 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 |
-| 69 | [Permission Granted \(feat\. Fave\)](https://open.spotify.com/track/3L3I7JMb7TzCazVAHtqhLa) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 2:34 |
-| 70 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
+| 69 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
+| 70 | [Permission Granted \(feat\. Fave\)](https://open.spotify.com/track/3L3I7JMb7TzCazVAHtqhLa) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 2:34 |
 | 71 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 |
 | 72 | [Bad Intentions](https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB) | [Deola](https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Bad Intentions](https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS) | 3:14 |
 | 73 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 75 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 |
 | 76 | [A Million Things](https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [A Million Things](https://open.spotify.com/album/3m8ZRJvS9m5wEwScchXjlv) | 3:07 |
 | 77 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
-| 78 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 |
-| 79 | [PIANO](https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:47 |
+| 78 | [PIANO](https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:47 |
+| 79 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 |
 | 80 | [Hiii!](https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [Hiii!](https://open.spotify.com/album/1r2Rkl20WHAT1jjxmacZ4Q) | 2:30 |
 
 Snapshot ID: `ZrsJJgAAAAAj3P3alG+1YpDx3clmUdTB`

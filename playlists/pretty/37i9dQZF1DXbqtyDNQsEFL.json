@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=hfVLax0ZRnanNGVT_IilVw>Ada Ehi</a>",
-  "num_followers": 74285,
+  "num_followers": 74333,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 306780,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Truth in Sounds",
@@ -587,6 +571,22 @@
       "duration_ms": 546156,
       "name": "I Get Backing",
       "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 306780,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1077,26 +1077,6 @@
       "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
     },
     {
-      "added_at": "2024-06-21 00:01:00",
-      "album": {
-        "name": "Malaika x Bien",
-        "url": "https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 235747,
-      "name": "Malaika x Bien",
-      "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
-    },
-    {
       "added_at": "2023-12-22 00:01:00",
       "album": {
         "name": "Oba Ni (Live)",
@@ -1115,6 +1095,26 @@
       "duration_ms": 852572,
       "name": "Oba Ni - Live",
       "url": "https://open.spotify.com/track/0UidF9z25XgNCEsTwHNi5B"
+    },
+    {
+      "added_at": "2024-06-21 00:01:00",
+      "album": {
+        "name": "Malaika x Bien",
+        "url": "https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 235747,
+      "name": "Malaika x Bien",
+      "url": "https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1141,28 +1141,24 @@
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
+      "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         },
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+          "name": "GospelOnDeBeatz",
+          "url": "https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+      "duration_ms": 180404,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
     },
     {
       "added_at": "2024-01-26 00:01:00",
@@ -1201,24 +1197,28 @@
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp"
       },
       "artists": [
         {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
         },
         {
-          "name": "GospelOnDeBeatz",
-          "url": "https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
         }
       ],
-      "duration_ms": 180404,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
+      "duration_ms": 211200,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "More Than Music - Transcendent Worship",
-        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 513489,
-      "name": "Zoe",
-      "url": "https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS"
-    },
-    {
       "added_at": "2024-02-09 00:01:00",
       "album": {
         "name": "Darling Jesus (Special Version)",
@@ -1513,6 +1497,22 @@
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 281627,
+      "name": "God All by Yourself",
+      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "WONDERFUL",
@@ -1535,22 +1535,6 @@
       "duration_ms": 223846,
       "name": "WONDERFUL",
       "url": "https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 281627,
-      "name": "God All by Yourself",
-      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
     },
     {
       "added_at": "2024-05-03 00:01:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 265683,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/0ZwA4ty0mTu4qC1zsm6s5Z"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     }
   ],
   "unique_name": "Be Lifted ",

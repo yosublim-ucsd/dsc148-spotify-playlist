@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-723 songs - 2 day 17 hr 50 min
+724 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Hella feat\. Joy Tyson](https://open.spotify.com/track/3huk8B1aNp9txmknHOzsq2) | [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1), [Joy Tyson](https://open.spotify.com/artist/6okZ1Ydus7Xt6jlAv5d5Es) | [Hella EP](https://open.spotify.com/album/62UbFjkqOna0gmlRU1eGFT) | 5:18 | 2021-04-21 | 2022-04-23 |
 | [Here To Stay](https://open.spotify.com/track/0GDp1pEmSG9dOuJo53w2ha) | [Maga](https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Here To Stay](https://open.spotify.com/album/7q24QNVZWKvpIUrxuENhBX) | 6:41 | 2022-04-19 | 2022-08-04 |
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-02-02 |  |
-| [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 |  |
+| [Hideaway](https://open.spotify.com/track/56efA4flKJ3mW9tGfIgcbD) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Never Tried](https://open.spotify.com/album/6otZKRIImjhnbP3cOcJPbF) | 4:29 | 2024-05-10 | 2024-08-17 |
 | [Holding On](https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Holding On](https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI) | 3:58 | 2024-02-23 | 2024-07-16 |
 | [Holmen](https://open.spotify.com/track/6BSe0z7siNCq6qbkPJm6CJ) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Holmen](https://open.spotify.com/album/4WHi9n6BQ1o6qbyUJONOWh) | 4:25 | 2024-03-29 | 2024-07-14 |
 | [Home \- Boys Noize Remix](https://open.spotify.com/track/4s5mx3YtyFVsbCux2zrdDm) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nobody Is Not Loved, Remixes, Pt\. 4](https://open.spotify.com/album/6NwJLoXyGez4imDQrZOLD4) | 6:17 | 2022-07-08 | 2023-01-27 |
@@ -566,6 +566,7 @@
 | [Samum](https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Samum](https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp) | 3:14 | 2023-05-05 | 2023-10-09 |
 | [Save Me](https://open.spotify.com/track/6ihglXSp2FFA9RjhiExxJR) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Save Me](https://open.spotify.com/album/1QqhWCY0SdPjJiB6szbXPt) | 3:36 | 2023-10-13 |  |
 | [Save Us](https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:30 | 2021-04-21 | 2022-07-22 |
+| [Sayam](https://open.spotify.com/track/4XyT6gJZJqkMEH0uaVpZ1R) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [Sayam](https://open.spotify.com/album/1DWvT9uoDnVE08qwqb2DyO) | 3:27 | 2024-08-16 |  |
 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 | 2024-05-31 | 2024-07-13 |
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |

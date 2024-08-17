@@ -4,7 +4,7 @@
 
 > The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Stormzy, Chase &amp; Status
 
-133 songs - 7 hr 31 min
+134 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/track/6POZ7ocsOQQvJrfArz6KOD) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Save Me \(From Myself\) \(feat\. Kyle Hume\)](https://open.spotify.com/album/47VbVxpe5CtPMOFCpzliMr) | 3:38 | 2023-12-01 |  |
 | [Secrecy](https://open.spotify.com/track/0BWUe6CyAcJBZMlM0I18gF) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [SECRECY EP](https://open.spotify.com/album/6nDX5W0XTS1KBbpVLtOpA8) | 3:07 | 2023-12-01 |  |
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-12-01 |  |
-| [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2023-12-01 |  |
+| [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 | 2023-12-01 | 2024-08-17 |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2023-12-01 |  |
 | [Signal](https://open.spotify.com/track/1RcKEwbDLoLLkwCng0DzZq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Signal](https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj) | 3:14 | 2023-12-01 |  |
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-02-16 |  |
@@ -140,6 +140,7 @@
 | [We Dun Care](https://open.spotify.com/track/4kVcwZlhWH2idgqLHeY6GZ) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI), [Bijou Violet](https://open.spotify.com/artist/3UAijGs9SE1Da98rc7IcwV) | [We Dun Care](https://open.spotify.com/album/6c0Iq2RmMMAr2ZUIERxIoe) | 3:43 | 2023-12-01 | 2024-04-27 |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-12-01 |  |
 | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [When It Rains \(feat\. BackRoad Gee\)](https://open.spotify.com/album/1sXFetxwgcKBWlf9jVm18d) | 4:29 | 2023-12-01 |  |
+| [Wildfire](https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Wildfire](https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n) | 3:35 | 2024-08-16 |  |
 | [WOOPA \- Wheelie Remix](https://open.spotify.com/track/53FevgA3Qr9pSwFnN4uOT3) | [PL & Wheelie](https://open.spotify.com/artist/52czYuGgddMVmRsEenbJLv) | [WOOPA \(Wheelie Remix\)](https://open.spotify.com/album/5aNUPjd2J1CeruYVGlw3Uh) | 2:35 | 2023-12-01 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

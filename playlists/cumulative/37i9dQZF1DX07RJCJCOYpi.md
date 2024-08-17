@@ -2,7 +2,7 @@
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: Fuerza Regida, Major Lazer & Alok
+> The wave of Latin Electronic music\. Cover: Sebastian Esquivel, Eugenio Esquivel & Deorro
 
 336 songs - 17 hr 24 min
 

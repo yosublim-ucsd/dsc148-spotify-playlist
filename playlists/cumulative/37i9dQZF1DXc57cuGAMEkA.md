@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。LISA & ROSALÍA, Post Malone, ONE OR EIGHT, Meghan Trainor and more! cover: LISA & ROSALÍA
 
-6,378 songs - 14 day 22 hr 47 min
+6,380 songs - 14 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,6 +1272,7 @@
 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 | 2024-03-28 | 2024-04-05 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 | 2023-03-03 |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-04 | 2024-04-12 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
 | [die young](https://open.spotify.com/track/0ohtsxNylBu2zu6hlopn1X) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [die young](https://open.spotify.com/album/0Syusfm1V3UKmEwK7ZB4HP) | 2:44 | 2023-06-22 | 2023-06-30 |
 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 | 2023-09-14 | 2023-09-22 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-08 | 2024-08-16 |
@@ -1386,6 +1387,7 @@
 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 | 2023-05-18 | 2023-05-26 |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-23 | 2023-03-03 |
 | [Done With You](https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh) | 2:38 | 2024-06-28 | 2024-07-05 |
+| [DONMAI](https://open.spotify.com/track/3MtScqe0Jkt6aBz6l3m0re) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [PHANTOMIME](https://open.spotify.com/album/5tZME90UhKL46KuK5tjUvD) | 3:45 | 2024-08-16 |  |
 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-02-22 | 2024-03-01 |
 | [Don’t Blow It! \-Japanese ver.\-](https://open.spotify.com/track/2yIPWhyNcwZzw937xpE75S) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Don’t Blow It! \-Japanese ver.\-](https://open.spotify.com/album/46VQIaz8qmPrtk4Bz67uZ8) | 3:37 | 2023-04-20 | 2023-04-28 |
 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 | 2023-05-04 | 2023-05-12 |
@@ -3976,7 +3978,7 @@
 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 | 2024-05-23 | 2024-06-01 |
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-08 | 2024-02-16 |
 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-10 | 2024-05-17 |
-| [pocket healer](https://open.spotify.com/track/64BtDCYCEXIgZzxQx2Xg05) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [YNR Nervy](https://open.spotify.com/artist/5lrwC34AF2G2RZRUZzEKZm) | [Powfu](https://open.spotify.com/album/6t3t9JCQN4VYFTC93Wpa4l) | 2:27 | 2024-08-16 |  |
+| [pocket healer](https://open.spotify.com/track/64BtDCYCEXIgZzxQx2Xg05) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [YNR Nervy](https://open.spotify.com/artist/5lrwC34AF2G2RZRUZzEKZm) | [pocket healer](https://open.spotify.com/album/6t3t9JCQN4VYFTC93Wpa4l) | 2:27 | 2024-08-16 |  |
 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 | 2024-04-04 | 2024-04-12 |
 | [Point Em Out \(with DaBaby\)](https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Point Em Out \(with DaBaby\)](https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew) | 2:13 | 2024-02-02 | 2024-02-09 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-07-14 |

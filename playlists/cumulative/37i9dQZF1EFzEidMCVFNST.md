@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-405 songs - 19 hr 14 min
+406 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [RASCUNHO](https://open.spotify.com/track/5qY6KlNVjy04tR7a3PqZ1K) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [RASCUNHO](https://open.spotify.com/album/5EJ3c9jg1lTDl8tzELC4nV) | 2:43 | 2024-08-04 |  |
 | [Recadinho para Você](https://open.spotify.com/track/7t6jt692pPcwua3IZx9ipI) | [Ingrid Mantovani](https://open.spotify.com/artist/2TjJZ2XYZGbGnnjD6k1hWg) | [Recadinho para Você](https://open.spotify.com/album/4KC8323hXv1uYuNi4zWkXR) | 2:24 | 2024-01-29 |  |
 | [Recompensa](https://open.spotify.com/track/7FtyTz9YLFgfJjN4gYWGjB) | [Acácio](https://open.spotify.com/artist/1WIBi4F6CHYW5BSSY0Yn92) | [O Ferinha da Bahia \(Ao Vivo no Embu, SP\)](https://open.spotify.com/album/2UVyNkfIS2F8WTC7N5iB0K) | 3:15 | 2024-01-29 |  |
-| [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 | 2024-01-29 | 2024-08-12 |
+| [Relógio](https://open.spotify.com/track/45khULP8E3Ow2tXITNKuSP) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Jorge](https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:53 | 2024-01-29 |  |
 | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb) | 3:00 | 2024-01-29 |  |
 | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/track/5nF1vGEu8Aag0Z0KIYh2Xt) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Relógio Parado \(Ao Vivo\)](https://open.spotify.com/album/6mWqavDFQH94eYMXlc5h5D) | 3:08 | 2024-01-30 | 2024-02-01 |
 | [Resenha Muito Louca \- Ao Vivo](https://open.spotify.com/track/2rKtRI3PNvQIkfWa0pULy9) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha 2 \(ao Vivo\)](https://open.spotify.com/album/4X5noS3F54xiitCfQ3hgHt) | 3:29 | 2024-01-29 |  |
@@ -329,7 +329,8 @@
 | [Sem Sentimento Nenhum](https://open.spotify.com/track/3bIHaq2rziiZyL6xVm7FSG) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9) | [Prazer, Eu Sou Kadu Martins](https://open.spotify.com/album/6W4vZKpjvAx1a9BwncWue8) | 2:27 | 2024-01-29 |  |
 | [Sem Você Não Dá](https://open.spotify.com/track/48woc5D6BzV78fjYAxLgRE) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP) | [Histórias](https://open.spotify.com/album/1gnE9BymF9RCgdF8gI8VhL) | 2:36 | 2024-01-29 |  |
 | [Senta Caladinha](https://open.spotify.com/track/2sCrt4NUph8SbrgzuLtAXb) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN), [Mc Jacaré](https://open.spotify.com/artist/61k7eCDTe0AQxZA642MILv) | [Senta Caladinha](https://open.spotify.com/album/4gvMGzT4GT5waUM1JpzioS) | 2:48 | 2024-05-31 |  |
-| [Serumaninho](https://open.spotify.com/track/4F6R0ZNpvy38E95t7oav9r) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:29 | 2024-01-29 |  |
+| [Serumaninho](https://open.spotify.com/track/6daidX5L6OOJDI0xzFevxD) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Serumaninho](https://open.spotify.com/album/7znCug2koVjblAnSZHG5xi) | 2:29 | 2024-08-16 |  |
+| [Serumaninho](https://open.spotify.com/track/4F6R0ZNpvy38E95t7oav9r) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Hipnose](https://open.spotify.com/album/3eB3h2dbEKoFpaRNp480B2) | 2:29 | 2024-01-29 | 2024-08-17 |
 | [Será Que a Gente Tem Volta](https://open.spotify.com/track/1KIWEQUIpXhU66uoMPkTnO) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/43KnzLvyBKdLwBZDpg8f7i) | 3:04 | 2024-07-19 |  |
 | [Será Que a Gente Tem Volta](https://open.spotify.com/track/2TGggeDY936eyIrWFP6QRW) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j) | [Olha Eu de Volta](https://open.spotify.com/album/2kzcUtSEOVfzgk1D9BvirQ) | 3:04 | 2024-01-29 | 2024-07-20 |
 | [Será Que a Gente Tem Volta \- Acústico](https://open.spotify.com/track/2AKGcG0KzgI4GCq8OjnZD7) | [Felipão](https://open.spotify.com/artist/29fHZcTMW9pUzhTF4Deu0j), [Acústico Imaginar](https://open.spotify.com/artist/6tVPMqn4Mnh2VXl9GUcHsi) | [Acústico Imaginar: Felipão](https://open.spotify.com/album/35t76wKVyiS8LVKFJe7LGB) | 3:26 | 2024-01-29 | 2024-03-27 |

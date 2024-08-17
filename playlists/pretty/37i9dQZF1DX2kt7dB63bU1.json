@@ -1,13 +1,33 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 144596,
+  "num_followers": 144656,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAAWYfbOkr0LTs4yMTOFr/gu",
+  "snapshot_id": "Zr7OwAAAAADZWOXLMH+QMtuLlBMrx+cj",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Another You",
+        "url": "https://open.spotify.com/album/7pO73AlT4Yqhs8oeQgBka6"
+      },
+      "artists": [
+        {
+          "name": "Anthony Lazaro",
+          "url": "https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H"
+        },
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "duration_ms": 207251,
+      "name": "Another You",
+      "url": "https://open.spotify.com/track/6wEmBI22p4jsXgGFfvbLtj"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -55,6 +75,30 @@
       "duration_ms": 258440,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/7IbXt8rAf2Qwcvdb4S8utc"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "A Rita",
+        "url": "https://open.spotify.com/album/0AOG458GeaoRDRDuEHd2ns"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Mark Lewandowski",
+          "url": "https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo"
+        },
+        {
+          "name": "Charles Goold",
+          "url": "https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "A Rita",
+      "url": "https://open.spotify.com/track/0m58arItMmNJLChjHBIjfa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1247,22 +1291,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Embraceable You",
-        "url": "https://open.spotify.com/album/0GsbrReQDXI4lmLxRRUa8V"
-      },
-      "artists": [
-        {
-          "name": "Robin Mckelle",
-          "url": "https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Embraceable You",
-      "url": "https://open.spotify.com/track/2JUXoMH3QEp0e1Uk45oxqX"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Ysla",
         "url": "https://open.spotify.com/album/5kNgR9PtICYsOzn9WF7fGu"
       },
@@ -1507,30 +1535,6 @@
       "duration_ms": 192250,
       "name": "Passing Through",
       "url": "https://open.spotify.com/track/6n7ooz0vPMRSrxEhmgTkTH"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Melancolia",
-        "url": "https://open.spotify.com/album/4kVGZDkDbWtqKVsoHmKIX2"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Charles Goold",
-          "url": "https://open.spotify.com/artist/093VHM9FzYzlFcIEYbXPwR"
-        },
-        {
-          "name": "Russell Hall",
-          "url": "https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT"
-        }
-      ],
-      "duration_ms": 263812,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0wMBswBqCvIF3Na1cQQ0D7"
     },
     {
       "added_at": "2023-08-04 04:01:00",

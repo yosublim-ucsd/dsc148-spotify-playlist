@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 125258,
+  "num_followers": 125348,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAAHneo4mFzRdQkg9ERAFT+H",
+  "snapshot_id": "Zr7OwAAAAADOse/tgTTHTdidvMruYpyr",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -65,6 +65,30 @@
       "url": "https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Stand for Love",
+        "url": "https://open.spotify.com/album/5HtsctQ3Ies1Kb8T2RoVPE"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Laroye",
+          "url": "https://open.spotify.com/artist/24LSTJ4KOtLJt1Z23VZ6GI"
+        },
+        {
+          "name": "Bronte Shande",
+          "url": "https://open.spotify.com/artist/2mXxI3F62LdcHG7EFDeGT8"
+        }
+      ],
+      "duration_ms": 227661,
+      "name": "Stand for Love - Radio Mix",
+      "url": "https://open.spotify.com/track/2IYX0vmGGlXECEtJ4fs4yl"
+    },
+    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "Don't Stop the Music",
@@ -107,6 +131,26 @@
       "duration_ms": 217080,
       "name": "Lilliputian Chop",
       "url": "https://open.spotify.com/track/7ugZBeWH6nrtgPeP0vnoEB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "HIGH SCHOOL.",
+        "url": "https://open.spotify.com/album/6hedKKC6Npmec14EZzKdMz"
+      },
+      "artists": [
+        {
+          "name": "Miranda Powell",
+          "url": "https://open.spotify.com/artist/0ooh81WuZPO0SfrChHB1YO"
+        },
+        {
+          "name": "Ryan Prewett",
+          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
+        }
+      ],
+      "duration_ms": 196365,
+      "name": "HIGH SCHOOL.",
+      "url": "https://open.spotify.com/track/2EdjwyRcg3ZqBVsupTxh7S"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1871,42 +1915,6 @@
       "duration_ms": 267240,
       "name": "Lionel Richie",
       "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/5DX7E2aoZ3AC1qUGv6ePaN"
-      },
-      "artists": [
-        {
-          "name": "Jaycee",
-          "url": "https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/4g5SL9yCXRzAFyeTsI7kEu"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Get With You Tonight",
-        "url": "https://open.spotify.com/album/6Oo7dbPYNo8qTQfd9iE7AT"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Lukas Setto",
-          "url": "https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ"
-        }
-      ],
-      "duration_ms": 224754,
-      "name": "Get With You Tonight",
-      "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
     },
     {
       "added_at": "2022-09-02 04:02:00",

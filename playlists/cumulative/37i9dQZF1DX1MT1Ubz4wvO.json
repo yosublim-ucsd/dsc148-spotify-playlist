@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Armenia en portada.",
+  "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Jos\u00e9 Madero en portada.",
   "name": "Novedades Rock",
   "tracks": [
     {
@@ -3769,6 +3769,24 @@
     },
     {
       "album": {
+        "name": "Apocalipsis Confort - En Vivo",
+        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261456,
+      "name": "Apocalipsis Confort - En Vivo",
+      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
+    },
+    {
+      "album": {
         "name": "Apocalypse",
         "url": "https://open.spotify.com/album/6mmhURKrZ5WphXw6rE60O1"
       },
@@ -5645,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+      },
+      "artists": [
+        {
+          "name": "ERNES",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+    },
+    {
+      "album": {
         "name": "Beso! Beso! Beso!",
         "url": "https://open.spotify.com/album/4IqWaUxZhQvMJKvegGtho2"
       },
@@ -6362,7 +6398,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173747,
       "name": "Brujer\u00eda",
       "url": "https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6"
@@ -6813,6 +6849,24 @@
     },
     {
       "album": {
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+    },
+    {
+      "album": {
         "name": "cada que...",
         "url": "https://open.spotify.com/album/0hggg1LVqaRvo98L25NXXk"
       },
@@ -7078,7 +7132,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210250,
       "name": "Calle Latino",
       "url": "https://open.spotify.com/track/2Y6NZIgTzcgvGEJOfDmvaj"
@@ -9516,7 +9570,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 287114,
       "name": "Como Un Cuento",
       "url": "https://open.spotify.com/track/2lKQSh2RQ9z3yhfHOpKTqw"
@@ -11888,7 +11942,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 237296,
       "name": "Def-Ghi",
       "url": "https://open.spotify.com/track/0NrNDQwLl3tYs44hIHyft0"
@@ -14160,6 +14214,24 @@
       "duration_ms": 179539,
       "name": "Egyptian Romance - Single Edit",
       "url": "https://open.spotify.com/track/7EYVyKIIrrVXH5apoAox7O"
+    },
+    {
+      "album": {
+        "name": "Domando a las Fieras",
+        "url": "https://open.spotify.com/album/44eIY2PpZmVcULMrqK2L9Y"
+      },
+      "artists": [
+        {
+          "name": "Caro Conzonno",
+          "url": "https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217108,
+      "name": "El 9",
+      "url": "https://open.spotify.com/track/5M3VLx0P9DXpKFdlUQ5swg"
     },
     {
       "album": {
@@ -18334,7 +18406,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206587,
       "name": "Escuela de Calor",
       "url": "https://open.spotify.com/track/3gZfybjGrmBTM5ZkREYlGc"
@@ -18776,7 +18848,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 270000,
       "name": "Esp\u00edritu Viejo",
       "url": "https://open.spotify.com/track/0tQ7O3AwP81fYS6IFweOxT"
@@ -21145,6 +21217,24 @@
     },
     {
       "album": {
+        "name": "Fuera De Lugar",
+        "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
+      },
+      "artists": [
+        {
+          "name": "Natillas",
+          "url": "https://open.spotify.com/artist/5eTXkgo5fxz9qzMrqcTIBu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242529,
+      "name": "Fuera De Lugar",
+      "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
+    },
+    {
+      "album": {
         "name": "Fuera de lugar",
         "url": "https://open.spotify.com/album/3LnZwCRJ3HcnFZ7y0HJFs2"
       },
@@ -21473,6 +21563,28 @@
     },
     {
       "album": {
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "album": {
         "name": "Conundrum",
         "url": "https://open.spotify.com/album/2tbTCNnjQEL2JTkM3OdRhG"
       },
@@ -21488,6 +21600,24 @@
       "duration_ms": 139138,
       "name": "Gaps in Time",
       "url": "https://open.spotify.com/track/5hJKVHot9zVgUOelk1qaM3"
+    },
+    {
+      "album": {
+        "name": "Sarajevo",
+        "url": "https://open.spotify.com/album/5tA5IUeP1woZDIgqQMVquZ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "Gardenias '87",
+      "url": "https://open.spotify.com/track/0MHvmYqnO4ibesYFk8ch4g"
     },
     {
       "album": {
@@ -22732,7 +22862,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244559,
       "name": "Hasta Nunca (feat. Tarque)",
       "url": "https://open.spotify.com/track/0CrZKf3YOh05j5vrNeG9gR"
@@ -27070,7 +27200,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 448381,
       "name": "La Grange - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/3noiACsm4BRcQAYlJNmQoR"
@@ -28802,7 +28932,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202183,
       "name": "LAS DUDAS Y LAS DEUDAS",
       "url": "https://open.spotify.com/track/17zGXdUhsGEIESPojAjx5b"
@@ -29352,6 +29482,24 @@
       "duration_ms": 245517,
       "name": "Lento y Sucio",
       "url": "https://open.spotify.com/track/58cZLNIZE44eu7H8nGxx8M"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo vamos a la luna... si a\u00fan no es de noche?",
+        "url": "https://open.spotify.com/album/2ovmq0hqMpiJTJauWCKxhQ"
+      },
+      "artists": [
+        {
+          "name": "T\u00edteres",
+          "url": "https://open.spotify.com/artist/2SOOU1X9KHmKCq6sbRwHZ3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285703,
+      "name": "Leso amanecer",
+      "url": "https://open.spotify.com/track/74Mf7ajcfjrLWDjBmwbYeZ"
     },
     {
       "album": {
@@ -33374,7 +33522,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
@@ -42517,6 +42665,24 @@
     },
     {
       "album": {
+        "name": "Melodramatic",
+        "url": "https://open.spotify.com/album/33tDS6r9DQBx9LaYUY7wh1"
+      },
+      "artists": [
+        {
+          "name": "SIAMES",
+          "url": "https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201119,
+      "name": "Post Tour Depression",
+      "url": "https://open.spotify.com/track/3FZwYiZufmIgKyfqgMnpPg"
+    },
+    {
+      "album": {
         "name": "Postre",
         "url": "https://open.spotify.com/album/1nvTgNz8pACf5oLUGRaU3K"
       },
@@ -43614,6 +43780,24 @@
       "duration_ms": 215831,
       "name": "P\u00e1jaros de Desv\u00e1n",
       "url": "https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaros y Aut\u00f3matas",
+        "url": "https://open.spotify.com/album/6P7gZktCVngE4sEmUFTcnJ"
+      },
+      "artists": [
+        {
+          "name": "La Broma Negra",
+          "url": "https://open.spotify.com/artist/0LnbHWQdiXZy0aoOtNEWgL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "P\u00e1jaros y Aut\u00f3matas",
+      "url": "https://open.spotify.com/track/44GKVDfMxdoc4Mgo3iiOen"
     },
     {
       "album": {
@@ -46876,7 +47060,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 144664,
       "name": "Sangre Azul",
       "url": "https://open.spotify.com/track/0LwHjm3aXZauQRs9jiyxeI"
@@ -53260,7 +53444,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 211333,
       "name": "Tu Cuerpo Es Mi Pasion",
       "url": "https://open.spotify.com/track/6rJQbxVF5qRtXsnm1eZPxq"
@@ -53966,7 +54150,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 270193,
       "name": "Ultraliviano",
       "url": "https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4"
@@ -55694,7 +55878,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164845,
       "name": "Verano Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
@@ -57321,6 +57505,28 @@
     },
     {
       "album": {
+        "name": "Yo Me Estreso",
+        "url": "https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193281,
+      "name": "Yo Me Estreso",
+      "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"
+    },
+    {
+      "album": {
         "name": "Yo Me Quedo / Todo El Bien",
         "url": "https://open.spotify.com/album/1FXcQJgH3C44yfym4BD7cz"
       },
@@ -58070,6 +58276,24 @@
       "duration_ms": 249057,
       "name": "\u00bfVolver\u00e1?",
       "url": "https://open.spotify.com/track/42d7EvPwcbd5vCd9RC3Dae"
+    },
+    {
+      "album": {
+        "name": "\u00c1guila Imperial",
+        "url": "https://open.spotify.com/album/5hWR3O28AGY6d2xDaH6smc"
+      },
+      "artists": [
+        {
+          "name": "Los Premodernos",
+          "url": "https://open.spotify.com/artist/6PjN4tz1EIf2KXK2ejhnBY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245689,
+      "name": "\u00c1guila Imperial",
+      "url": "https://open.spotify.com/track/49LpWr25QJHDnJTMaWKDuR"
     },
     {
       "album": {

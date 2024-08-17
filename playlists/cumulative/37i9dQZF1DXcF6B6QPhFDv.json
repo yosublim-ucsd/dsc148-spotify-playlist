@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: Destroy Boys",
+  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: The Beaches",
   "name": "MARROW",
   "tracks": [
     {
@@ -900,6 +900,24 @@
       "duration_ms": 115587,
       "name": "Barnacle",
       "url": "https://open.spotify.com/track/5DlvocrKUdERmdV6kldCph"
+    },
+    {
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU"
     },
     {
       "album": {
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
@@ -4111,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190490,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6"
+    },
+    {
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -5112,7 +5148,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 212086,
       "name": "It's Supposed To Hurt",
       "url": "https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT"
@@ -5606,7 +5642,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164483,
       "name": "Leave Her",
       "url": "https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT"
@@ -5892,6 +5928,24 @@
       "duration_ms": 241222,
       "name": "Line It Up (feat. LP)",
       "url": "https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW"
+    },
+    {
+      "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
     },
     {
       "album": {
@@ -8444,6 +8498,24 @@
     {
       "album": {
         "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+    },
+    {
+      "album": {
+        "name": "Pulling Teeth",
         "url": "https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x"
       },
       "artists": [
@@ -8560,6 +8632,24 @@
       "duration_ms": 194789,
       "name": "Rage (feat. Travis Barker and Aimee Interrupter of The Interrupters)",
       "url": "https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq"
     },
     {
       "album": {
@@ -9666,7 +9756,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196866,
       "name": "Silver",
       "url": "https://open.spotify.com/track/7axVU8655dP4si8KjxA5w3"
@@ -10248,7 +10338,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205714,
       "name": "Stress Relief",
       "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
@@ -10584,7 +10674,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
@@ -10888,6 +10978,24 @@
       "duration_ms": 240973,
       "name": "The Beachland Ballroom",
       "url": "https://open.spotify.com/track/2rX97r2QjIXxHYjLAcGpSZ"
+    },
+    {
+      "album": {
+        "name": "life till bones",
+        "url": "https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179480,
+      "name": "the country club",
+      "url": "https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl"
     },
     {
       "album": {

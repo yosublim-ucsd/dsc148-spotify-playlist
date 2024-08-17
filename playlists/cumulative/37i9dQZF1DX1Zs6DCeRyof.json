@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-13",
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Rauw Alejandro en portada.",
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Omar Courtz y Anuel AA en portada.",
   "name": "\u00c9xitos Puerto Rico",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 143426,
       "name": "$DOLLAR$",
       "url": "https://open.spotify.com/track/3a18ZXF0XhEUSYpxlQdmxP"
+    },
+    {
+      "album": {
+        "name": "3 Doritos",
+        "url": "https://open.spotify.com/album/5D4duHLbasUQe8fosEc1kG"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "3 Doritos",
+      "url": "https://open.spotify.com/track/4yZ9RRt3lZ66WxzHYuuC3R"
     },
     {
       "album": {
@@ -188,7 +206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184984,
       "name": "AFRO",
       "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 126016,
       "name": "Con Co",
       "url": "https://open.spotify.com/track/5oMhPcsDqtK8JBJiG9of02"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 159273,
       "name": "Embuste",
       "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 209335,
       "name": "LA CRUSH",
       "url": "https://open.spotify.com/track/0r0uZzz9nsnEKOeQbYteHn"
@@ -2138,6 +2156,28 @@
       "duration_ms": 200040,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
+    },
+    {
+      "album": {
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "album": {
@@ -3607,6 +3647,28 @@
     },
     {
       "album": {
+        "name": "SERIO CON ESE Q",
+        "url": "https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247468,
+      "name": "SERIO CON ESE Q",
+      "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
+    },
+    {
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
       },
@@ -3883,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "Sport+ RMX",
+        "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sport+ RMX",
+      "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
+    },
+    {
+      "album": {
         "name": "Suena El Bajo",
         "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
       },
@@ -4044,7 +4128,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 187517,
       "name": "Touching The Sky",
       "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
@@ -4088,6 +4172,28 @@
       "duration_ms": 169911,
       "name": "TQMQA",
       "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
+    },
+    {
+      "album": {
+        "name": "TRAQUETO",
+        "url": "https://open.spotify.com/album/4bhbFsqH3xWEpn5dt2GJC7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "TRAQUETO",
+      "url": "https://open.spotify.com/track/6jfp0rIQSdBoijRTR7TC9l"
     },
     {
       "album": {

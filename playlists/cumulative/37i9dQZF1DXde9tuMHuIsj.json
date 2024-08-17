@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best of Latin Trap. Cover: Hades66 & Ovi",
+  "description": "The best of Latin Trap. Cover: Clarent & Myke Towers",
   "name": "Trap Land",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217500,
       "name": "0 CONFIANZA",
       "url": "https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD"
@@ -208,6 +208,24 @@
       "duration_ms": 161073,
       "name": "2seater",
       "url": "https://open.spotify.com/track/79I3HVYg5wXqlB9jjRCrWF"
+    },
+    {
+      "album": {
+        "name": "3 Doritos",
+        "url": "https://open.spotify.com/album/5D4duHLbasUQe8fosEc1kG"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "3 Doritos",
+      "url": "https://open.spotify.com/track/4yZ9RRt3lZ66WxzHYuuC3R"
     },
     {
       "album": {
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181258,
       "name": "BRICKELL",
       "url": "https://open.spotify.com/track/4S5KwSntvkT6bbUnfltXQl"
@@ -2518,6 +2536,24 @@
       "duration_ms": 244029,
       "name": "DIVA - REMIX",
       "url": "https://open.spotify.com/track/5KVYfrtp5Zxns9XiqsjlRT"
+    },
+    {
+      "album": {
+        "name": "DON'T TOUCH ME FREESTYLE",
+        "url": "https://open.spotify.com/album/7o8S0Bungi2do2Si7AJCNq"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147908,
+      "name": "DON'T TOUCH ME FREESTYLE",
+      "url": "https://open.spotify.com/track/5pWc7UhGz12aA3gBpnrvVh"
     },
     {
       "album": {
@@ -3694,7 +3730,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180906,
       "name": "Gistro",
       "url": "https://open.spotify.com/track/1OgJ6aaqAP4PdYdzdyPacH"
@@ -3716,6 +3752,44 @@
       "duration_ms": 182610,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ"
+    },
+    {
+      "album": {
+        "name": "GLIZZY GVNGSTER (feat. Slayter, SOMBRA PR & Ele d)",
+        "url": "https://open.spotify.com/album/759RSASTqaAXlqIKWdkE99"
+      },
+      "artists": [
+        {
+          "name": "Glizzy Gvng",
+          "url": "https://open.spotify.com/artist/5RpxZNS91QBBvRCPqvGTKs"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "SOMBRA PR",
+          "url": "https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5"
+        },
+        {
+          "name": "Ele d",
+          "url": "https://open.spotify.com/artist/7e8ljvie31q2e5w5tgDnvD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284878,
+      "name": "GLIZZY GVNGSTER (feat. Slayter, SOMBRA PR & Ele d)",
+      "url": "https://open.spotify.com/track/4RRZW1jOVHmualiLCQKghJ"
     },
     {
       "album": {
@@ -3830,7 +3904,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203200,
       "name": "GONZY MONTANA",
       "url": "https://open.spotify.com/track/1niuG9ErJRe0bbbnnita3L"
@@ -6225,6 +6299,24 @@
     },
     {
       "album": {
+        "name": "NunK es Tarde",
+        "url": "https://open.spotify.com/album/2pdbc6KYkMIBsFF3sSBA1Q"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162920,
+      "name": "NunK es Tarde",
+      "url": "https://open.spotify.com/track/2ORSIchCEGupR9WZiD3xnn"
+    },
+    {
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -6606,7 +6698,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196759,
       "name": "PERCOSEX",
       "url": "https://open.spotify.com/track/6DAbtwdNegFUXQJQyKypig"
@@ -6727,6 +6819,28 @@
     },
     {
       "album": {
+        "name": "Privity",
+        "url": "https://open.spotify.com/album/5sYSipkOA2gkcUhPMzmi6g"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Privity",
+      "url": "https://open.spotify.com/track/6ai6WtMsF5S271pghQ91gp"
+    },
+    {
+      "album": {
         "name": "Problem Childs",
         "url": "https://open.spotify.com/album/2eIy6Vxoqwv7cDZooUU65D"
       },
@@ -6764,7 +6878,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 154200,
       "name": "PUT EM IN THE FRIDGE",
       "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
@@ -7028,7 +7142,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166500,
       "name": "RICH AND BLESS",
       "url": "https://open.spotify.com/track/1rOIUsAHErs93MmNUeDqDT"
@@ -7567,6 +7681,28 @@
     },
     {
       "album": {
+        "name": "Sport+ RMX",
+        "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sport+ RMX",
+      "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
+    },
+    {
+      "album": {
         "name": "Standard",
         "url": "https://open.spotify.com/album/1FrgSPc9MDMEXsjKA8T8ev"
       },
@@ -7736,6 +7872,24 @@
       "duration_ms": 234374,
       "name": "Ta To Saldo",
       "url": "https://open.spotify.com/track/5UhakydmBWLo3Tmm1Hm8Sb"
+    },
+    {
+      "album": {
+        "name": "Tamo Ah\u00ed",
+        "url": "https://open.spotify.com/album/7D76BrHfTYf1DgDojyTjOX"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "Tamo Ah\u00ed",
+      "url": "https://open.spotify.com/track/5icWGgRkzdy0fNUa52zTiS"
     },
     {
       "album": {

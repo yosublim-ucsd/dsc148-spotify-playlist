@@ -1,13 +1,29 @@
 {
   "description": "may include sad indie rock songs. ",
-  "num_followers": 93706,
+  "num_followers": 93752,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZohwmwAAAAArBDCHqPSRuyqOKgfopS2/",
+  "snapshot_id": "Zr7PvAAAAACixFMQGlY2Buavy4J+wCPp",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:04:12",
+      "album": {
+        "name": "Word",
+        "url": "https://open.spotify.com/album/5r8G19v5d6ZoLpT7SJlWmx"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Word",
+      "url": "https://open.spotify.com/track/4M6x3QboBSckK3j0rNxYJQ"
+    },
     {
       "added_at": "2024-07-05 22:15:55",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 141333,
       "name": "between the bars",
       "url": "https://open.spotify.com/track/2JA5TwoXap8PS8VFIoEpsf"
+    },
+    {
+      "added_at": "2024-08-16 04:04:12",
+      "album": {
+        "name": "i only remember the good parts",
+        "url": "https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 131182,
+      "name": "another life",
+      "url": "https://open.spotify.com/track/0cv23MDqZknh1AwCjr6y0S"
     },
     {
       "added_at": "2024-07-05 22:15:55",
@@ -109,6 +145,22 @@
       "url": "https://open.spotify.com/track/3qJk6yCcdJjC5pxPwjubrO"
     },
     {
+      "added_at": "2024-08-16 04:04:12",
+      "album": {
+        "name": "drain",
+        "url": "https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "drain",
+      "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
+    },
+    {
       "added_at": "2024-07-05 22:15:55",
       "album": {
         "name": "Wouldn\u2019t It Be Easy?",
@@ -175,22 +227,6 @@
       "duration_ms": 242000,
       "name": "lover's spit plays in the background",
       "url": "https://open.spotify.com/track/3FeEyEmOP3MjmlRkaOGKMo"
-    },
-    {
-      "added_at": "2024-07-05 22:15:55",
-      "album": {
-        "name": "i only remember the good parts",
-        "url": "https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI"
-      },
-      "artists": [
-        {
-          "name": "Orchid Mantis",
-          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
-        }
-      ],
-      "duration_ms": 96838,
-      "name": "two weeks (and i miss you)",
-      "url": "https://open.spotify.com/track/2cqfTDvCy4v6DIF0wDoWeG"
     },
     {
       "added_at": "2024-07-05 22:15:55",
@@ -277,6 +313,22 @@
       "url": "https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY"
     },
     {
+      "added_at": "2024-08-16 04:04:12",
+      "album": {
+        "name": "I'm Tired",
+        "url": "https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n"
+      },
+      "artists": [
+        {
+          "name": "My Final Sanctuary",
+          "url": "https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO"
+        }
+      ],
+      "duration_ms": 194625,
+      "name": "I'm Tired",
+      "url": "https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4"
+    },
+    {
       "added_at": "2024-07-05 22:15:55",
       "album": {
         "name": "Tacomex",
@@ -339,6 +391,22 @@
       "duration_ms": 166263,
       "name": "never find u",
       "url": "https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK"
+    },
+    {
+      "added_at": "2024-07-05 22:15:55",
+      "album": {
+        "name": "i only remember the good parts",
+        "url": "https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        }
+      ],
+      "duration_ms": 96838,
+      "name": "two weeks (and i miss you)",
+      "url": "https://open.spotify.com/track/2cqfTDvCy4v6DIF0wDoWeG"
     },
     {
       "added_at": "2024-07-05 22:15:55",

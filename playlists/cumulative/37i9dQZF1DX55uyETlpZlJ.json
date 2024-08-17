@@ -7123,6 +7123,24 @@
     },
     {
       "album": {
+        "name": "Sindi Sarai",
+        "url": "https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E"
+      },
+      "artists": [
+        {
+          "name": "Amrapali Shindhe",
+          "url": "https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195689,
+      "name": "Sindi Sarai",
+      "url": "https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS"
+    },
+    {
+      "album": {
         "name": "SKY",
         "url": "https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae"
       },

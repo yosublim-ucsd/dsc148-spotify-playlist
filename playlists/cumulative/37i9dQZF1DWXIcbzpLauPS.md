@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-977 songs - 2 day 12 hr 40 min
+978 songs - 2 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Future Proof](https://open.spotify.com/track/7bnnhcgeyJwU5zwhwo02s3) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Future Proof](https://open.spotify.com/album/2HOmKYLYnlz7SYVGDe8EUd) | 3:30 | 2024-02-09 | 2024-08-13 |
 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 | 2023-11-27 | 2024-01-13 |
 | [Generation Genocide](https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU) | [Lonewolf](https://open.spotify.com/artist/3zn6Fa4a9bUUmgXH6sH7IC) | [Generation Genocide](https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi) | 2:40 | 2021-12-17 | 2022-01-28 |
-| [Get Out](https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Get Out](https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY) | 3:00 | 2024-06-10 |  |
+| [Get Out](https://open.spotify.com/track/0SZkjONWDGXRm0uMtb1yuX) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Get Out](https://open.spotify.com/album/6wZzIejyMAWxwO9lBUmDNY) | 3:00 | 2024-06-10 | 2024-08-17 |
 | [Get Outta My Head](https://open.spotify.com/track/0PvXhHobvoA0dprf2Moi3K) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Get Outta My Head](https://open.spotify.com/album/46HUWkwh5UZkhMxLqqD993) | 3:17 | 2022-05-20 | 2022-06-11 |
 | [Ghost](https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Ghost](https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK) | 3:24 | 2022-01-07 | 2022-07-23 |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-05-22 | 2024-04-13 |
@@ -760,6 +760,7 @@
 | [Silver Bullet](https://open.spotify.com/track/0wqeXCzidJo3h8jG01OMoT) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/1syKhS52gQ9bxzdZlN9IOC) | 3:13 | 2023-03-31 | 2024-02-21 |
 | [Silver Bullet](https://open.spotify.com/track/5wKzaCrrTpHk9J6GBkz9S6) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Fake](https://open.spotify.com/album/6iNYooKRl6R3rtZUiKcLkV) | 3:13 | 2024-02-09 | 2024-02-24 |
 | [Silver Bullet](https://open.spotify.com/track/60bdGD4lCqGQJFR3wRtFlJ) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Silver Bullet](https://open.spotify.com/album/2uOLiz6dTIJleJI1IyClll) | 3:13 | 2023-08-18 | 2024-02-18 |
+| [Singularity](https://open.spotify.com/track/2O9RmVnPguPj8q7Vol3UZd) | [Never Back Down](https://open.spotify.com/artist/4qyWns3YuVTcRBu3tLfZyS), [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Never Back Down](https://open.spotify.com/album/5LBVHXZ46tgeOElr4Oe47b) | 3:08 | 2024-08-12 |  |
 | [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 | 2023-07-14 | 2024-04-13 |
 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 | 2022-01-14 | 2022-04-23 |
 | [Skin Crawl \(feat\. Brian “Head” Welch of Korn, Dan Weyandt of Zao, Bruce Fitzhugh of Living Sacrifice\)](https://open.spotify.com/track/05ExgiMCSDdT15nwhMf8ow) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w), [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Zao](https://open.spotify.com/artist/2vqfIznyoJDjhrbNAueQ6s), [Living Sacrifice](https://open.spotify.com/artist/0nxo4nAEYNbNpA8wwNvqXY) | [It’s Not Easy Being Human](https://open.spotify.com/album/1PQNS7uitlx8MAfVmHImtz) | 4:10 | 2022-04-01 | 2022-06-18 |

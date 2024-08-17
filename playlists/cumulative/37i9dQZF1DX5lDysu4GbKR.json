@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Check - Acoustic",
+        "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Check - Acoustic",
+      "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
+    },
+    {
+      "album": {
         "name": "HAVE A NICE DAY!",
         "url": "https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL"
       },
@@ -3749,7 +3767,7 @@
     },
     {
       "album": {
-        "name": "The Most (Acoustic)",
+        "name": "The Most - Acoustic",
         "url": "https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm"
       },
       "artists": [
@@ -3762,7 +3780,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179302,
-      "name": "The Most (Acoustic)",
+      "name": "The Most - Acoustic",
       "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
     },
     {

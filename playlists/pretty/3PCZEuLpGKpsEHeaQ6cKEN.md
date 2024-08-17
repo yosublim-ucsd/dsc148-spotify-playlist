@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Loud Luxury, Bobby Shmurda
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,877 likes - 229 songs - 12 hr 17 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 271,868 likes - 229 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 7 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 8 | [Memories](https://open.spotify.com/track/7xLsq83wIchL3bpqOcpcgI) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [Memories](https://open.spotify.com/album/31g9lmt75aJ44WwGzCINYf) | 3:08 |
 | 9 | [Where Do We Come From](https://open.spotify.com/track/2YPk8cz8Qa2M7aDWqZdJUU) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Where Do We Come From](https://open.spotify.com/album/50Gjanf32JNcQ9HKFMossC) | 3:06 |
-| 10 | [Living in Color](https://open.spotify.com/track/2lsNq7K3vPA9ONx4wVOdql) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jeoff Harris](https://open.spotify.com/artist/5HYmMhKU4rhEP7GBrGkwW9) | [Living in Color](https://open.spotify.com/album/2mXd7GKfRyX2LyXMCmZKeE) | 2:52 |
+| 10 | [Living in Color](https://open.spotify.com/track/2lsNq7K3vPA9ONx4wVOdql) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Jeoff Harris](https://open.spotify.com/artist/434nBUvWgd5pcPv2bmyKy4) | [Living in Color](https://open.spotify.com/album/2mXd7GKfRyX2LyXMCmZKeE) | 2:52 |
 | 11 | [Rush](https://open.spotify.com/track/4TigwMR5bxZ0ey2B0Jl2ba) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Rush](https://open.spotify.com/album/7zBNAAWIk2BCsTaUxBN5t5) | 3:07 |
 | 12 | [All You Got To Do](https://open.spotify.com/track/5RH715X8TaLppRDbNMo8JM) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/136Qgr1Nu4k854R4gY4bgK) | 3:06 |
 | 13 | [ABCD](https://open.spotify.com/track/6anCwyjY5vijE3AVBPiC3h) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9), [Bomber](https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa), [Ale Zuber](https://open.spotify.com/artist/7FEaPc2JZbJLMu1aDItr8S) | [ABCD](https://open.spotify.com/album/0yw8VFXJja3gI8H5tA2Sf6) | 2:13 |

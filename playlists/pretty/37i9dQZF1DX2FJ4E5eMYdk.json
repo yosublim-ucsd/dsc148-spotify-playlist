@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 167654,
+  "num_followers": 167756,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
-      },
-      "artists": [
-        {
-          "name": "Whiskerman",
-          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
-        }
-      ],
-      "duration_ms": 318826,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "To Who Knows Where",
         "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
       },
@@ -615,22 +599,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Sorry Sweater",
-        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "The Sorry Sweater",
-      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 184270,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
+      },
+      "artists": [
+        {
+          "name": "Whiskerman",
+          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
+        }
+      ],
+      "duration_ms": 318826,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Sorry Sweater",
+        "url": "https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "The Sorry Sweater",
+      "url": "https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "The Light Of Day",
-        "url": "https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 291664,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "The Light Of Day",
+        "url": "https://open.spotify.com/album/64tiQFJ0vMllTaFYDgWaRs"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "The Light Of Day",
+      "url": "https://open.spotify.com/track/4vev473dJkBpiChkglAscC"
     },
     {
       "added_at": "2024-07-05 19:49:15",

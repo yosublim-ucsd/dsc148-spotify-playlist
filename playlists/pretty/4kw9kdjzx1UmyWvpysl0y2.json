@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125838,
+  "num_followers": 125855,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS1nhu8qqu4iZNedtLEitrmN6kyNBG",
+  "snapshot_id": "AAAS2O+nb/86yMOfEanl9ae00XO7w8aR",
   "tracks": [
+    {
+      "added_at": "2024-08-16 14:15:45",
+      "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/2YEjMz4R5PEz69Qc5b2LtY"
+      },
+      "artists": [
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "Dyson",
+          "url": "https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX"
+    },
     {
       "added_at": "2024-08-15 14:29:52",
       "album": {
@@ -1139,42 +1163,6 @@
       "duration_ms": 223928,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI"
-    },
-    {
-      "added_at": "2024-05-28 14:24:16",
-      "album": {
-        "name": "Snowflake",
-        "url": "https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA"
-      },
-      "artists": [
-        {
-          "name": "PROFF",
-          "url": "https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld"
-        }
-      ],
-      "duration_ms": 222295,
-      "name": "Snowflake",
-      "url": "https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i"
-    },
-    {
-      "added_at": "2024-05-27 15:04:42",
-      "album": {
-        "name": "MEANT 2 BE",
-        "url": "https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE"
-      },
-      "artists": [
-        {
-          "name": "THIRST",
-          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
-        },
-        {
-          "name": "nuphory",
-          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
-        }
-      ],
-      "duration_ms": 164124,
-      "name": "MEANT 2 BE",
-      "url": "https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

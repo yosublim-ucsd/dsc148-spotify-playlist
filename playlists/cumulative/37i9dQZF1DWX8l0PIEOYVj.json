@@ -265,6 +265,32 @@
     },
     {
       "album": {
+        "name": "Aint No Thang",
+        "url": "https://open.spotify.com/album/6VgZvUK0UF40fGCmxOys4S"
+      },
+      "artists": [
+        {
+          "name": "TVBOO",
+          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
+        },
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Aint No Thang",
+      "url": "https://open.spotify.com/track/2Dcv2l9LuvSHiptPLvnKlL"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
       },
@@ -306,6 +332,24 @@
       "duration_ms": 252800,
       "name": "Alive",
       "url": "https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Alive (Radio Edit)",
+      "url": "https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl"
     },
     {
       "album": {
@@ -3634,6 +3678,28 @@
       "duration_ms": 229694,
       "name": "Eternity (feat. Dayce Williams)",
       "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/4e4Zi2CSqcIr9cMKN9vg6S"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238175,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6af1RTPe8LUU2nzKQc88zf"
     },
     {
       "album": {
@@ -9348,7 +9414,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 256971,
       "name": "On Purpose",
       "url": "https://open.spotify.com/track/0g01JYDahgFwR3CJuKxnfG"
@@ -9812,7 +9878,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 238181,
       "name": "PARADOX",
       "url": "https://open.spotify.com/track/0rGBmsGBjWAJoZXJpjXKPb"
@@ -12322,7 +12388,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201931,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6eqma9IlfnFFxpZFDooc3z"
@@ -13209,6 +13275,28 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189743,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"
+    },
+    {
+      "album": {
         "name": "Waking up in a Dream",
         "url": "https://open.spotify.com/album/5E6R0f8jsjOd1oj6bAdjtj"
       },
@@ -13992,7 +14080,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 175000,
       "name": "Worst Night of My Life",
       "url": "https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Gigi Perez",
+  "description": "A laid-back trip in the folk scene. Cover: Shawn Mendes",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "And They Called Her California",
+      "url": "https://open.spotify.com/track/0hGjJ09ClfSjrGZFvs73LJ"
+    },
+    {
+      "album": {
         "name": "Animals",
         "url": "https://open.spotify.com/album/51gMj5yc7pBiLdKosMzfBd"
       },
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181392,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/6hLd8BJVCRvRjJiOWxMyWl"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 199993,
       "name": "Black Monday",
       "url": "https://open.spotify.com/track/3C1rrayyLIC5Lda6Td50S8"
@@ -1797,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "Borrowed Light",
+        "url": "https://open.spotify.com/album/7HmXb5IJFZG2VCbqWWf7Z1"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248234,
+      "name": "Borrowed Light",
+      "url": "https://open.spotify.com/track/7sAAHG1B9z8Ah0NHnvLo5X"
+    },
+    {
+      "album": {
         "name": "Breathing Song / Honey",
         "url": "https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36"
       },
@@ -1956,6 +1992,46 @@
       "duration_ms": 162929,
       "name": "Buzz Cut",
       "url": "https://open.spotify.com/track/3BpEI4vjCFvblmJIKj1ygx"
+    },
+    {
+      "album": {
+        "name": "Caledonia",
+        "url": "https://open.spotify.com/album/5psgsDCg0HIxJw3ocxPsvf"
+      },
+      "artists": [
+        {
+          "name": "The Fretless",
+          "url": "https://open.spotify.com/artist/76PwEGLUAzcEv43JTSxO2F"
+        },
+        {
+          "name": "Madeleine Roger",
+          "url": "https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279061,
+      "name": "Caledonia",
+      "url": "https://open.spotify.com/track/6zV8spJFEyL7EnQgRXLpEp"
+    },
+    {
+      "album": {
+        "name": "California's Killing Me",
+        "url": "https://open.spotify.com/album/75Cpqc7d1NwKUjaUhQSRTP"
+      },
+      "artists": [
+        {
+          "name": "Julia Gartha",
+          "url": "https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "California's Killing Me",
+      "url": "https://open.spotify.com/track/4InsPDXzwkJTvGz7dcKe0p"
     },
     {
       "album": {
@@ -2763,6 +2839,24 @@
     },
     {
       "album": {
+        "name": "Constant Love",
+        "url": "https://open.spotify.com/album/4ZQOLnATwISjyWDA4DKlLB"
+      },
+      "artists": [
+        {
+          "name": "Richard Laviolette",
+          "url": "https://open.spotify.com/artist/1pgjT95HLZVnRi0K4QqQa7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220515,
+      "name": "Constant Love",
+      "url": "https://open.spotify.com/track/2oCHHcIzRFlQAYDc4J7oQT"
+    },
+    {
+      "album": {
         "name": "Somewhere, Someone",
         "url": "https://open.spotify.com/album/1kaDR7twqHJ0Vg97RnBPGM"
       },
@@ -2870,6 +2964,24 @@
       "duration_ms": 227146,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/6tYQjjzDBYhTpugD9A8NEq"
+    },
+    {
+      "album": {
+        "name": "HIRL",
+        "url": "https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2"
+      },
+      "artists": [
+        {
+          "name": "Marlin's Dreaming",
+          "url": "https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Country Plains",
+      "url": "https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ"
     },
     {
       "album": {
@@ -5354,7 +5466,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 269875,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/0Fjwnpu6a0rjivIEaih04Z"
@@ -6044,6 +6156,24 @@
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
+    },
+    {
+      "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/2o5SW9AVHK02aGpjrpJSec"
+      },
+      "artists": [
+        {
+          "name": "Ezra Glatt",
+          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97839,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF"
     },
     {
       "album": {
@@ -7139,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "i might say something stupid",
+        "url": "https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon"
+      },
+      "artists": [
+        {
+          "name": "LOVELOVELOVE",
+          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "i might say something stupid",
+      "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
+    },
+    {
+      "album": {
         "name": "I Promise",
         "url": "https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs"
       },
@@ -8104,7 +8252,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198034,
       "name": "Just Like A Movie",
       "url": "https://open.spotify.com/track/2BTch3q4AJMKfgRPUXrK1E"
@@ -8122,7 +8270,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
@@ -8890,7 +9038,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 241906,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
@@ -9604,7 +9752,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188546,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
@@ -10008,6 +10156,24 @@
       "duration_ms": 203046,
       "name": "My Old Man",
       "url": "https://open.spotify.com/track/62bQlzpi2X72D59ROPDoAi"
+    },
+    {
+      "album": {
+        "name": "My People",
+        "url": "https://open.spotify.com/album/5lYXzfepoPX3yiFdmxiiQk"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151038,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/3YOoO9j3u5cQAsXhqan1Rd"
     },
     {
       "album": {
@@ -11180,7 +11346,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168059,
       "name": "Out of Body Experience",
       "url": "https://open.spotify.com/track/21MZFZSxizNWBHu9V0IgXc"
@@ -13208,7 +13374,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 94750,
       "name": "someday i'll get it",
       "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
@@ -13576,7 +13742,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202764,
       "name": "Still Have July",
       "url": "https://open.spotify.com/track/6TcNs3Xe0QUzdk9X4n0610"
@@ -15592,6 +15758,24 @@
       "duration_ms": 202251,
       "name": "Unrequited Love Blues",
       "url": "https://open.spotify.com/track/02gTekl89KnL138nTQ5BEo"
+    },
+    {
+      "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
       "album": {

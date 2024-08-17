@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to current Pakistani Hits\. 🇵🇰 Cover: Annural Khalid, Maanu
+> We don't gatekeep our Pakistani Hits list, very demure, very mindful\. 🇵🇰 Cover: Annural Khalid, Maanu
 
-158 songs - 10 hr 18 min
+159 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amplifier](https://open.spotify.com/track/3f8t2LZGYtdNQh8SNEiZcG) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Unforgettable](https://open.spotify.com/album/4sOf4oPLCx7e73JOsRTZQ7) | 3:52 | 2024-03-19 | 2024-04-19 |
 | [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 | 2024-02-20 |
 | [Apna Tu Kehnda](https://open.spotify.com/track/67uhJboca6cVx4QCdQVvvf) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 3:19 | 2024-04-29 | 2024-06-22 |
+| [Ayi Re](https://open.spotify.com/track/22ooMzKVXhRR1ou7h3ALDo) | [Haniya Aslam](https://open.spotify.com/artist/2erxv4mbd7CpiGRrDw08s1) | [Ayi Re](https://open.spotify.com/album/3xSJ9hkLkXbv2TFXhrWYi9) | 4:17 | 2024-08-16 |  |
 | [Baari](https://open.spotify.com/track/0HTb4JfMtMkMYUtyd19In3) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Baari](https://open.spotify.com/album/4AqwIHdf4s6gXHVcvwHsIu) | 3:55 | 2023-05-04 | 2023-11-30 |
 | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Atta Ullah Khan Esakhelvi](https://open.spotify.com/artist/5goEfEtiQpnBEZBfGGeCrL) | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/album/22RiQmJXIj68bbqOUNlVAm) | 3:22 | 2024-05-06 | 2024-06-15 |
 | [Beby](https://open.spotify.com/track/5XfpEc8bp8UTHdMQt2ayE5) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Azaan](https://open.spotify.com/album/2VuBd6z3euJKhJuBNHpTNN) | 3:03 | 2023-11-13 | 2023-11-30 |

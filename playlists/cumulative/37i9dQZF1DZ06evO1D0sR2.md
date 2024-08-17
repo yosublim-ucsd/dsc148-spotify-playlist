@@ -2,7 +2,7 @@
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This is JJ Hairston\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is: JJ Hairston\. Alle wichtigen Tracks in einer Playlist.
 
 146 songs - 16 hr 14 min
 

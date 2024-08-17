@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3m4i7D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3m4i7D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3m4i7D)
 
-### [Eugenio Esquivel This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3m4i7D)
+### [This Is Eugenio Esquivel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3m4i7D)
 
-> .Eugenio Esquivel This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is: Eugenio Esquivel\. Alle wichtigen Tracks in einer Playlist.
 
 19 songs - 58 min 18 sec
 

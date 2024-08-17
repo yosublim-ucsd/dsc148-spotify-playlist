@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,811 likes - 697 songs - 1 day 15 hr 21 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,837 likes - 697 songs - 1 day 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -675,7 +675,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 665 | [Where On Earth \(feat\. The Cool Kids\)](https://open.spotify.com/track/7r8RJRH5PpA7UZ2sZnMDAa) | [Owen Bones](https://open.spotify.com/artist/31ZxERZETij0PyIq5bLkIz), [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV) | [Dive Club](https://open.spotify.com/album/1xo6LkPsIh73N1eOeSYJJ8) | 2:58 |
 | 666 | [Ultimate](https://open.spotify.com/track/0KGBU6sYZ1WC5UXrdvIxtC) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [32 Zel / Planet Shrooms](https://open.spotify.com/album/4F0klcMRe3B9NinTFViPmw) | 3:09 |
 | 667 | [Talk to Me](https://open.spotify.com/track/7CmQkBtnBvFzUkpndum61G) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Talk to Me](https://open.spotify.com/album/3XFrvUGyUPvWf8m1RxEts9) | 2:31 |
-| 668 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \(Deluxe\)](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
+| 668 | [Black Beatles](https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [SremmLife 2 \- Deluxe](https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd) | 4:51 |
 | 669 | [One Reason \(Flex\) \(feat\. Eric Bellinger\)](https://open.spotify.com/track/1B0dhapu7P98xGOPM3a6Sj) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [One Reason \(Flex\) \[feat\. Eric Bellinger\]](https://open.spotify.com/album/149XodWeOHP8LIjV0jpC4A) | 3:10 |
 | 670 | [Gucci Snakes](https://open.spotify.com/track/2nnDjYwhCBBWFectcycARL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Gucci Snakes](https://open.spotify.com/album/4GQOmIr6rMN0YeHxqyEvFK) | 5:20 |
 | 671 | [Talkin' Greezy](https://open.spotify.com/track/3kr8IPXsHPNFgQ2Gf1Splf) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Talkin' Greezy](https://open.spotify.com/album/01nfoAhB3aeQIGI9T2XuYO) | 3:02 |

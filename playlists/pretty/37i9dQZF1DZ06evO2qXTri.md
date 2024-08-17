@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,840 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,849 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 49 | [Box Of Stars Pt\. 1 \(feat\. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi\)](https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 5:16 |
 | 50 | [You Still Love Us](https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:24 |
 
-Snapshot ID: `ZrvzgAAAAAC/Ub3++PCr1dsPwOmf3b8X`
+Snapshot ID: `Zr1FAAAAAAD3VfqDrMBxwqxM3hwq/y9B`

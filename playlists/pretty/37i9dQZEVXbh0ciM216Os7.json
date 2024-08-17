@@ -6,10 +6,366 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACi7ei+2TlBgd6bJ6p3fopD",
+  "snapshot_id": "AAAAAAAAAADiAziMf4cp4gyCB/vkwz6f",
   "tracks": [
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Brendon Small",
+          "url": "https://open.spotify.com/artist/6aMTDnpTXKCqaHFZ04SWFz"
+        }
+      ],
+      "duration_ms": 89498,
+      "name": "Murder Plot (The Caretaker\u2019s Theme)",
+      "url": "https://open.spotify.com/track/4ZyJGLUK1FHjXUfAP3wgIS"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Drifting (Alternate Version / November 20, 1970)",
+        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 159693,
+      "name": "Drifting - Alternate Version / November 20, 1970",
+      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/04Eyy8rccvW3LaS8Q2QIUi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "duration_ms": 126932,
+      "name": "I Shoplift Even Though I\u2019m Rich",
+      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Wrong Thing (with Kash'd Out)",
+        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Wrong Thing (with Kash'd Out)",
+      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Chamber Cypher",
+        "url": "https://open.spotify.com/album/52bNbKa1hmgdtM3wt21G0k"
+      },
+      "artists": [
+        {
+          "name": "Big Dave",
+          "url": "https://open.spotify.com/artist/79KeK5F3mbOg6HpGm4xsZC"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "Killah Preist",
+          "url": "https://open.spotify.com/artist/4bosAShTZvFUW9dy5zVJ87"
+        }
+      ],
+      "duration_ms": 388000,
+      "name": "Chamber Cypher",
+      "url": "https://open.spotify.com/track/76AqiN1jcTfMBMWcmEltsy"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Mother & Gun",
+        "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Ti-Lar Bee",
+          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
+        }
+      ],
+      "duration_ms": 156450,
+      "name": "Speshal Methods (feat. Ti-Lar Bee)",
+      "url": "https://open.spotify.com/track/7B147kRLeLAnlpTnyqBkhe"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Alliances",
+        "url": "https://open.spotify.com/album/3epB75kOj2EXrmrqQ6V7Hs"
+      },
+      "artists": [
+        {
+          "name": "Tangent",
+          "url": "https://open.spotify.com/artist/1YiekT7BoI2fz7bFIjy9kF"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Bronze Nazareth",
+          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+        }
+      ],
+      "duration_ms": 197934,
+      "name": "Eagle Eyes",
+      "url": "https://open.spotify.com/track/14F9mRWnccELxOuaOOvc89"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pretty Low (The Remixes)",
+        "url": "https://open.spotify.com/album/6CT2g6m4w6Zu6urYr7clsX"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        },
+        {
+          "name": "BULLI",
+          "url": "https://open.spotify.com/artist/6bwjq5SBrVPav19I4TelUO"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Pretty Low (Galantis & BULLI VIP Mix)",
+      "url": "https://open.spotify.com/track/4azLzCipU502x0M77KzNbW"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "sweet moon",
+        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Choklate",
+          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+        }
+      ],
+      "duration_ms": 255054,
+      "name": "sweet moon (jung remix)",
+      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Glass: Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
+        "url": "https://open.spotify.com/album/5E7FPFaByDMSe3YEVF8oL8"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Emily D'Angelo",
+          "url": "https://open.spotify.com/artist/3MxEBUmCEHonZDGfnB1PAn"
+        },
+        {
+          "name": "Sophia Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0eh5mim3wGR8KZ3W9DCwuq"
+        },
+        {
+          "name": "Bruno Helstroffer",
+          "url": "https://open.spotify.com/artist/4SZJuk3dh3ICm8c4D1jACd"
+        },
+        {
+          "name": "Jonas Niederstadt",
+          "url": "https://open.spotify.com/artist/46W2YECsZAmWMq8kMQIZzX"
+        }
+      ],
+      "duration_ms": 203256,
+      "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
+      "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "A Ballet Through Mud",
+        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
+      },
+      "artists": [
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Christopher Dragon",
+          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
+        }
+      ],
+      "duration_ms": 269964,
+      "name": "A Ballet Through Mud",
+      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bob Marley (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 108335,
+      "name": "Bob Marley (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
@@ -33,7 +389,7 @@
       "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Yo Gabba GabbaLand!",
         "url": "https://open.spotify.com/album/66LTCZb9PLOyW5usX4cCq4"
@@ -53,43 +409,7 @@
       "url": "https://open.spotify.com/track/7dFv3bot0kaUgcfrogHMKi"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Lifa Iotungard (Live)",
-        "url": "https://open.spotify.com/album/34JvgVfOKw3nIpsDaAXZXV"
-      },
-      "artists": [
-        {
-          "name": "Heilung",
-          "url": "https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ"
-        }
-      ],
-      "duration_ms": 342352,
-      "name": "Norupo - Live",
-      "url": "https://open.spotify.com/track/3v2yP0sgEBXGE7dCH025dK"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 195502,
-      "name": "One Wish (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "The Day Of...",
         "url": "https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1"
@@ -105,7 +425,7 @@
       "url": "https://open.spotify.com/track/20w340h37XvpPjiO591XCg"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "American Idiot - 20th Anniversary - On Holiday",
         "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
@@ -121,23 +441,7 @@
       "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
@@ -157,7 +461,7 @@
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
@@ -173,99 +477,7 @@
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Colorful Cutlery",
-        "url": "https://open.spotify.com/album/0zqc8hjaTkKSBlWYN6OviE"
-      },
-      "artists": [
-        {
-          "name": "SARKASTIKJ",
-          "url": "https://open.spotify.com/artist/4dOk8QiMiIv280F6RKn8nr"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Sheek Louch",
-          "url": "https://open.spotify.com/artist/14ejEUaU0wE2iAenbbv9b8"
-        }
-      ],
-      "duration_ms": 142522,
-      "name": "Colorful Cutlery",
-      "url": "https://open.spotify.com/track/4rYCsiH5ONq1kCIVYOn8rL"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/63gSt4lQ8pzArSwaR56ZdT"
-      },
-      "artists": [
-        {
-          "name": "Jon Benjamin - Jazz Daredevil",
-          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
-        },
-        {
-          "name": "H. Jon Benjamin",
-          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
-        },
-        {
-          "name": "Alexis Kesselman",
-          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
-        }
-      ],
-      "duration_ms": 202752,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Speshal Methods",
-        "url": "https://open.spotify.com/album/1su23FuruHX4CT2pFy7sW4"
-      },
-      "artists": [
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Ti-Lar Bee",
-          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
-        }
-      ],
-      "duration_ms": 156450,
-      "name": "Speshal Methods",
-      "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Magnum Opus",
-        "url": "https://open.spotify.com/album/5VsYXBUEUI2HZUGTnieZBf"
-      },
-      "artists": [
-        {
-          "name": "Rigz",
-          "url": "https://open.spotify.com/artist/04tXG5MKD4JC88nNTC4Jl1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 278260,
-      "name": "No limit to the sky",
-      "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "The Embrace, Vol. 1",
         "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
@@ -285,7 +497,7 @@
       "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "\u0421\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u0430\u044f \u0430\u0433\u0440\u0435\u0441\u0441\u0438\u044f",
         "url": "https://open.spotify.com/album/6WqctQprhRaaqM20ZWkK3b"
@@ -305,7 +517,7 @@
       "url": "https://open.spotify.com/track/1ZYMRL9hRQB8Aupo0qgwC6"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Don't Stop (Live at The Forum, Inglewood, CA, 10/21/82)",
         "url": "https://open.spotify.com/album/6Q9nmIK5tnvhxBHICrxmvV"
@@ -321,27 +533,27 @@
       "url": "https://open.spotify.com/track/3o5utgLYLRp7AqeFEK3l4W"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         },
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
@@ -361,7 +573,7 @@
       "url": "https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "The Punishment (Lockdown)",
         "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
@@ -377,7 +589,7 @@
       "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "U.S. Blues (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/0iX61Dfmg6WoimYQuohiCD"
@@ -393,7 +605,7 @@
       "url": "https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
@@ -413,7 +625,7 @@
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Mid Spiral",
         "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
@@ -429,31 +641,27 @@
       "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "One Cry (feat. Rosa Linn) [me n \u00fc Remix]",
-        "url": "https://open.spotify.com/album/2n1ahDBng37O629PMLmrHQ"
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/2t4Nl0s88goybrlOZDCNZu"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "AshleyGotDatJuice",
+          "url": "https://open.spotify.com/artist/661OXgXh4r8xgLE6kjqWze"
         },
         {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
         }
       ],
-      "duration_ms": 240280,
-      "name": "One Cry (feat. Rosa Linn) - me n \u00fc Remix",
-      "url": "https://open.spotify.com/track/2GhRCiI0E5cbUdnhqr9SFx"
+      "duration_ms": 198023,
+      "name": "Curious - The Neptunes Remix [Dirty Version",
+      "url": "https://open.spotify.com/track/31fSsPG3xJmWhpBeRKzUFk"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Rite Here Rite Now - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0EmgzguOzsDNC8yZzxK8Zi"
@@ -469,7 +677,7 @@
       "url": "https://open.spotify.com/track/130a5toWPujkHGuMFYr0IX"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Flic ou voyou / Le Guignolo (Bandes originales des films)",
         "url": "https://open.spotify.com/album/6wiXIJRncNaAonhEBFi6Bb"
@@ -485,23 +693,7 @@
       "url": "https://open.spotify.com/track/1IBberkY9L1xOpLH9OOvaQ"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Angel (Take 7)",
-        "url": "https://open.spotify.com/album/53xTpVEw3pIVU2tHmzXgHq"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 267813,
-      "name": "Angel - Take 7",
-      "url": "https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/5KJJZvlrr5hPughyJ5JQrs"
@@ -525,7 +717,7 @@
       "url": "https://open.spotify.com/track/10b4GRCiXIOjEk0yTytCkR"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
@@ -545,7 +737,7 @@
       "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Chapter 26",
         "url": "https://open.spotify.com/album/5Frv9ufjLHwQOuUPz6WgWY"
@@ -565,7 +757,7 @@
       "url": "https://open.spotify.com/track/1OZfKjBSaWEghXvbc5bLtG"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "PARIS IN LOVE - Live",
         "url": "https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ"
@@ -597,7 +789,7 @@
       "url": "https://open.spotify.com/track/06ocEas9zMiYgU6gY3n2x7"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Survival (Version)",
         "url": "https://open.spotify.com/album/4JoNOt6JilkkOThzeCD5EA"
@@ -617,7 +809,7 @@
       "url": "https://open.spotify.com/track/0sEPFptPf88s08tCIIXEwj"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "the boy is mine",
         "url": "https://open.spotify.com/album/2isY5pnJX1gyNzqVg7EECt"
@@ -641,7 +833,7 @@
       "url": "https://open.spotify.com/track/3IkYXPbjFyDRthPSEFApMr"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "3:AM (feat. Erykah Badu) [Live]",
         "url": "https://open.spotify.com/album/3Xq6Ntngpm8Tlhkvz9XAOK"
@@ -661,7 +853,7 @@
       "url": "https://open.spotify.com/track/6WhQTc9EZzLcWMNHetNSjj"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "I'll Always Come Find You",
         "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"

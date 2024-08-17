@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 26 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17 likes - 26 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 25 | [I Say Yes](https://open.spotify.com/track/4cl5wJGNPFG8JCMuV0nrSc) | [Kyle & Lauren Smith](https://open.spotify.com/artist/2QQVbCqlBTX8dADl321HGM) | [Kyle & Lauren Smith](https://open.spotify.com/album/66jZaiCUO5d3hLz4U2MJ89) | 7:42 |
 | 26 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AbZhHAAAAABudeF2bVIJuSbe088eKP31`
+Snapshot ID: `AbZmvAAAAADkCGiGaHCrzuxrOGD93c3t`

@@ -4,7 +4,7 @@
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-122 songs - 9 hr 23 min
+123 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,5 +130,6 @@
 | [Xeque\-Mate](https://open.spotify.com/track/0W0rmdD87ZMbEwDWbIsFge) | [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/3msqXtn7ZSfXBV3cMIm5ey) | 3:00 | 2022-03-11 |  |
 | [Xeque\-Mate](https://open.spotify.com/track/71D0QjvTIfJJ23T7P5ZwJy) | [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/7Een9DWznzqUHEZA7Zyq9W) | 3:00 | 2022-04-22 | 2024-04-19 |
 | [Zé Brasileiro](https://open.spotify.com/track/5UBXVQfXgkDl2N423nNtgi) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem 2](https://open.spotify.com/album/2yOFsIGhzQijRHc7qj0l4o) | 4:36 | 2022-03-11 |  |
+| [À Procura da Batida Perfeta](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 | 2024-08-16 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

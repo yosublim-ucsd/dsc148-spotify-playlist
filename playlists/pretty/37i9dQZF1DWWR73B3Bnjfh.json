@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 193985,
+  "num_followers": 194175,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "Cannonball Takes Charge",
+        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley Quartet",
+          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
+        }
+      ],
+      "duration_ms": 334626,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 235000,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/5GdBh0ggpl7pIXNFecn1zk"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "Cannonball Takes Charge",
-        "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley Quartet",
-          "url": "https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR"
-        }
-      ],
-      "duration_ms": 334626,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
     },
     {
       "added_at": "2024-07-22 13:56:55",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-22 13:56:55",
       "album": {
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "duration_ms": 413640,
+      "name": "House Of Jade - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5"
+    },
+    {
+      "added_at": "2024-07-22 13:56:55",
+      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/24KvOzpJA0qbuuIwgWFO6u"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 598866,
       "name": "Willow Weep For Me",
       "url": "https://open.spotify.com/track/53I0rp6820Z8aksKz7FeXt"
-    },
-    {
-      "added_at": "2024-07-22 13:56:55",
-      "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
-      },
-      "artists": [
-        {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
-        }
-      ],
-      "duration_ms": 413640,
-      "name": "House Of Jade - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/5tIDZCixAvskZRL867Ewh5"
     },
     {
       "added_at": "2024-07-22 13:56:55",

@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-152 songs - 8 hr 52 min
+153 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Island Song](https://open.spotify.com/track/273gNDaG3xT0ulMx4Vct6M) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/1s8rmXFgIuXVpUach3s2V7) | 3:43 | 2022-07-08 | 2024-04-19 |
 | [Island Song](https://open.spotify.com/track/6xzm6prZTb99kIrbblwQAU) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Uncaged](https://open.spotify.com/album/50JEs25Ca52Q8lcAkuttuP) | 3:43 | 2020-09-08 |  |
 | [Islands In The Stream](https://open.spotify.com/track/2etkMv2Oj2aZCmvmUG1P3e) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [COUNTRYPOLITAN](https://open.spotify.com/artist/4HoYBvug2SLrGfJOdTgqyn) | [Islands In The Stream](https://open.spotify.com/album/1jGvHea1wNSqYDu2iHiTFq) | 3:55 | 2022-04-24 |  |
+| [IT'S ALL GOOD \(feat\. Michael Franti\)](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti](https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 | 2024-08-16 |  |
 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:50 | 2020-09-08 | 2022-04-16 |
 | [June, July, August](https://open.spotify.com/track/5yKupI1bQpTf5SLsVmxLMt) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [June, July, August](https://open.spotify.com/album/38yRWYiQ0SjHgZR3uyuPYC) | 3:01 | 2021-11-19 |  |
 | [Knee Deep \(feat\. Jimmy Buffett\)](https://open.spotify.com/track/1yEwEiTpsaPhQi9lb5EVV4) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [You Get What You Give \(Deluxe\)](https://open.spotify.com/album/0AXoQGOZDaYSaOo0qCTiCr) | 3:23 | 2020-09-08 | 2022-07-29 |

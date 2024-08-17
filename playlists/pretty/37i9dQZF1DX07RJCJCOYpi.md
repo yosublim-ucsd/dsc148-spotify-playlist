@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 ### [mint Latin](https://open.spotify.com/playlist/37i9dQZF1DX07RJCJCOYpi)
 
-> The wave of Latin Electronic music\. Cover: Fuerza Regida, Major Lazer & Alok
+> The wave of Latin Electronic music\. Cover: Sebastian Esquivel, Eugenio Esquivel & Deorro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,946,378 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,946,305 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 51 | [Hueso](https://open.spotify.com/track/4ghBopBP7XwIiqdnkH7hUv) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lucy Vives](https://open.spotify.com/artist/38J4nu5eGAEtwWH9fSWEj4) | [Hueso](https://open.spotify.com/album/3slBqlYuBO49cney0hb3hk) | 5:12 |
 | 52 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
 
-Snapshot ID: `ZrpjVwAAAAD9Ilen8y8Q4e3g/mB8oqkA`
+Snapshot ID: `Zr993gAAAAAcPfuJc5cE9+VjLyE4YxUc`

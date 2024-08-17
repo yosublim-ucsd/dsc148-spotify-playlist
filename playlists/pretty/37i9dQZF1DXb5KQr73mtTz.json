@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17496,
+  "num_followers": 17499,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
+        "name": "The day was beautiful",
+        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235392,
+      "name": "The day was beautiful",
+      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -279,22 +295,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Captivating the King, Pt. 4 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx"
       },
@@ -307,22 +307,6 @@
       "duration_ms": 224413,
       "name": "Peach Tree",
       "url": "https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -343,6 +327,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/7cXJOM8t8pftyFgYp5Sm1N"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
         "name": "Dear you (Romance 101 X LeeHi)",
         "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
-      },
-      "artists": [
-        {
-          "name": "RIO",
-          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Dimly",
-      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Love Part 2",
         "url": "https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 214933,
       "name": "Don't ever say love me (Feat. RM of BTS)",
       "url": "https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dimly",
+      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Why Would I",
-        "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
-      },
-      "artists": [
-        {
-          "name": "Kim Gyeol",
-          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Why Would I",
-      "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Don't Leave Me Alone",
         "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 207760,
       "name": "Don\u2019t Leave Me Alone",
       "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Why Would I",
+        "url": "https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeol",
+          "url": "https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Why Would I",
+      "url": "https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB"
     },
     {
       "added_at": "2024-08-10 15:54:36",

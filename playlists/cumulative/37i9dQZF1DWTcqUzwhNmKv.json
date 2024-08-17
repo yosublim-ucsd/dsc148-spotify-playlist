@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Make Them Suffer on top of today's best Metal playlist.",
+  "description": "Left To Suffer on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181916,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/7xGYng4pNaJwSTjuOlxyhO"
@@ -2414,7 +2414,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 345760,
       "name": "Crown of Horns",
       "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 199127,
       "name": "Cursed To Remember",
       "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
@@ -4872,7 +4872,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217199,
       "name": "Give Them Death",
       "url": "https://open.spotify.com/track/07ixxw8UpxZuEptb6fX57W"
@@ -5957,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "In Desolation",
+        "url": "https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221801,
+      "name": "In Desolation",
+      "url": "https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp"
+    },
+    {
+      "album": {
         "name": "In the Eye of the Storm",
         "url": "https://open.spotify.com/album/2tH0JMPopirEbcf3pbGwA0"
       },
@@ -7036,6 +7054,24 @@
       "duration_ms": 229007,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
+    },
+    {
+      "album": {
+        "name": "Mammoth's Hand",
+        "url": "https://open.spotify.com/album/4ozt7Ns1luCzF5xheqkfA2"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233624,
+      "name": "Mammoth's Hand",
+      "url": "https://open.spotify.com/track/3dWabzNLo8b802VG7cCV5M"
     },
     {
       "album": {
@@ -9066,7 +9102,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 278338,
       "name": "Residue",
       "url": "https://open.spotify.com/track/6V65rowmWJM1QeAM4Nk4BG"
@@ -9294,7 +9330,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167704,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/2fQpHHqpS5oK3K1QB5psVv"
@@ -10831,6 +10867,24 @@
     },
     {
       "album": {
+        "name": "Supreme Ruler",
+        "url": "https://open.spotify.com/album/0nj0wMbDj49fBooNKFN5po"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54242,
+      "name": "Supreme Ruler",
+      "url": "https://open.spotify.com/track/55QDYIACL3Ze1gWBjVBUXz"
+    },
+    {
+      "album": {
         "name": "Heaven in Hiding",
         "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
@@ -11508,6 +11562,32 @@
       "duration_ms": 266360,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/4RYg7V9NzIfXOhYx5xbxff"
+    },
+    {
+      "album": {
+        "name": "Leap of Death",
+        "url": "https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        },
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        },
+        {
+          "name": "Alejandro Aranda",
+          "url": "https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283097,
+      "name": "The Medicine",
+      "url": "https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z"
     },
     {
       "album": {

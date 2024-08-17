@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,078 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,098 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 27 | [LQRA Session \#3](https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#3](https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR) | 2:54 |
 | 28 | [Tequila y Miel](https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB) | 3:31 |
 | 29 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
-| 30 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
-| 31 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
+| 30 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
+| 31 | [Alzypher Vol\. 9](https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Alzypher Vol\. 9](https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H) | 3:27 |
 | 32 | [Frío](https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Frío](https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt) | 3:24 |
 | 33 | [Otra Oportunidad](https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc) | 3:51 |
 | 34 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
-| 35 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
-| 36 | [De Roll](https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg) | 3:46 |
+| 35 | [De Roll](https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg) | 3:46 |
+| 36 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
 | 37 | [Serendipia](https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ) | [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Serendipia](https://open.spotify.com/album/5otbd1pbveK9HktRULJnis) | 3:20 |
 | 38 | [Soñar](https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4) | [Danntik](https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Soñar](https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k) | 3:29 |
 | 39 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 50 | [Nagasaki](https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Nagasaki](https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus) | 4:05 |
 
-Snapshot ID: `ZrvzgAAAAAAZDaTZTTOl0PAcjS/imVXT`
+Snapshot ID: `Zr1FAAAAAABH0f3Qr9Ix0kiBljMMDd/G`

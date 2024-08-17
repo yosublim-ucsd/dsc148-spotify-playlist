@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO3pk81i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3pk81i)
 
-### [Los Primos del Este This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
+### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> .Los Primos del Este This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is: Los Primos del Este\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,656 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,663 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3pk81i.md) - [plain]
 | 40 | [Viene Diciembre](https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Viene Diciembre](https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha) | 3:06 |
 | 41 | [Otra Ronda](https://open.spotify.com/track/7xyLViGH04SRJqVHZW6JRY) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Otra Ronda](https://open.spotify.com/album/0hoRVMMaltcLmzxWfcx5Qu) | 3:45 |
 | 42 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 |
-| 43 | [Yaki](https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:20 |
-| 44 | [El Momento](https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:32 |
+| 43 | [Me Enamoras](https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:44 |
+| 44 | [De Fiesta](https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:26 |
 | 45 | [Pasos Firmes](https://open.spotify.com/track/3gluf5rb6ygO8CWo6HosQR) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Pasos Firmes](https://open.spotify.com/album/7Chr7fCCMXrGTaU6fiIZXG) | 2:53 |
 | 46 | [Ferragamo](https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ferragamo](https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb) | 2:22 |
-| 47 | [Me Enamoras](https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:44 |
-| 48 | [De Fiesta](https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:26 |
+| 47 | [Yaki](https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:20 |
+| 48 | [El Momento](https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:32 |
 | 49 | [Acceso](https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Acceso](https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ) | 4:14 |
 | 50 | [Toxicuh](https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Briant Rangel](https://open.spotify.com/artist/3632WStjylo2le6C4k0gcx) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:21 |
 
-Snapshot ID: `ZrvzgAAAAABDEXmQKTQSljXGnuFeiUnl`
+Snapshot ID: `Zr1FAAAAAABV3QEBojDCInrSRn1cztCt`

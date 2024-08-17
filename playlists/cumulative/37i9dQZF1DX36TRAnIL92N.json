@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 251026,
       "name": "Bells of Notre Dame",
       "url": "https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS"
@@ -1790,7 +1790,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
@@ -1958,6 +1958,28 @@
       "duration_ms": 126915,
       "name": "Kernkraft 400",
       "url": "https://open.spotify.com/track/0aoeXzMxq1945xRbWHirrO"
+    },
+    {
+      "album": {
+        "name": "Latin Lovers (Joyhauser Remix & Original)",
+        "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275394,
+      "name": "Latin Lovers - Joyhauser Remix",
+      "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
     },
     {
       "album": {
@@ -2853,6 +2875,50 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
+    },
+    {
+      "album": {
+        "name": "Pulverturm (ANNA Rework)",
+        "url": "https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE"
+      },
+      "artists": [
+        {
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236029,
+      "name": "Pulverturm - ANNA Rework",
+      "url": "https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1"
+    },
+    {
+      "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
@@ -2984,7 +3050,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207919,
       "name": "Ray Of Solar - Anfisa Letyago Remix",
       "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
@@ -3383,6 +3449,32 @@
     },
     {
       "album": {
+        "name": "Simulator (Mha Iri Remix)",
+        "url": "https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Simulator - Mha Iri Remix",
+      "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/4k8y8SulnCsKMEnJBWbzF5"
       },
@@ -3612,7 +3704,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230142,
       "name": "Techno Acid 303",
       "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"

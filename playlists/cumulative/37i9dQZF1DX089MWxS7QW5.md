@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: jeebanoff\(지바노프\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ISHA\(이샤\)\)
 
-389 songs - 21 hr 26 min
+391 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Arms Around Me](https://open.spotify.com/track/7vC4gn4BrdLPQDjNYMBMTO) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Arms Around Me](https://open.spotify.com/album/3HIjqS5a1SzgKmFza29iJm) | 3:18 | 2024-02-22 | 2024-06-18 |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-10-02 | 2024-01-09 |
 | [B.T](https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK) | [YUN HYUN JI](https://open.spotify.com/artist/0zmxxS5g5lmEfxak05ciq2) | [B.T](https://open.spotify.com/album/7dvR8XmzzhP2zJBuuuR1m1) | 3:17 | 2023-07-14 | 2023-11-03 |
+| [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 | 2024-08-16 |  |
 | [Baby I Know](https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [WOOOF!](https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV) | 4:27 | 2023-11-16 | 2024-05-01 |
 | [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-09 |  |
 | [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq) | 2:42 | 2024-05-24 | 2024-08-13 |
@@ -143,6 +144,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-15 | 2024-07-10 |
 | [From Now](https://open.spotify.com/track/6q2yYNfgrcNfW3OZh8WQ5Z) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk) | [From Now](https://open.spotify.com/album/6Bmg7Tl2MoeqVZZQw7AIda) | 3:20 | 2023-11-02 | 2024-04-05 |
 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 | 2023-04-27 | 2023-10-06 |
+| [Fxxk U](https://open.spotify.com/track/4r1hWaa99K7i69M5eEEy8V) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [Fxxk U](https://open.spotify.com/album/1R7rVkQjokKtivCt8dc6wD) | 3:51 | 2024-08-16 |  |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-28 | 2022-08-13 |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-28 | 2022-08-13 |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-15 | 2023-07-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Maya Hawke",
-  "num_followers": 1394948,
+  "num_followers": 1394960,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Not Dead Yet",
-        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 177366,
-      "name": "Not Dead Yet",
-      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Saint Cloud",
         "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1035,7 +1035,7 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Seed (In Bloom)",
+        "name": "Seed - In Bloom",
         "url": "https://open.spotify.com/album/1dEbOB86RSmhOgvdjayQVB"
       },
       "artists": [
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7w9GLsCdyuS7uwdixV90vb"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/2T0NGoXh9FT1kCjQA5Phto"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Bad Moves",
         "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 246800,
       "name": "Bad Moves",
       "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Appaloosa Bones",
-        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Watchman",
-      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Watchman",
+      "url": "https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Flightless Bird",
         "url": "https://open.spotify.com/album/0nUFM9Cp9ujDdaPcncHb79"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 96358,
       "name": "Flightless Bird",
       "url": "https://open.spotify.com/track/2WiJ9KoNcPvBmxSQMg3gYy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1459,6 +1439,26 @@
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Alabama Haint",
-        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 182601,
-      "name": "Alabama Haint",
-      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Alabama Haint",
+        "url": "https://open.spotify.com/album/11cZUoRDf5kWxxfCUjzKHg"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Alabama Haint",
+      "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "An Overview on Phenomenal Nature",
         "url": "https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 209837,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1615,18 +1599,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Make Peace with That",
-        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
       },
       "artists": [
         {
-          "name": "Field Guide",
-          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 186838,
-      "name": "Tupperware",
-      "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Make Peace with That",
+        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "duration_ms": 186838,
+      "name": "Tupperware",
+      "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Jericho Beach",
         "url": "https://open.spotify.com/album/3WgUnsJ1FMTyjFr1kR1uZ6"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A Running Start",
-        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "New Mythology",
         "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
       },
@@ -1691,22 +1675,6 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/5lXex7KyHe7PSaRG5eJ4Mm"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Dark",
-        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Dark",
-      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1731,6 +1699,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "A Running Start",
+        "url": "https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "not good for you",
         "url": "https://open.spotify.com/album/39U0AmhQ3Hb5YjFlfrGQLE"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 214598,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 188149,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/4bSQZ9k6Rsx62M98LbPxHf"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 214598,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/55JCwReTzeAOTBHxM6w2en"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Love Letter From The Sea to The Shore",
-        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "Love Letter From The Sea to The Shore",
-      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Love Letter From The Sea to The Shore",
+        "url": "https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "Love Letter From The Sea to The Shore",
+      "url": "https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Guthrie",
-        "url": "https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "Guthrie",
-      "url": "https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Second Sun",
         "url": "https://open.spotify.com/album/5cmMIs2vDV7WfNKdRBGaak"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 300333,
       "name": "Second Sun",
       "url": "https://open.spotify.com/track/6M9pAYUbeZw1P492xk1TIm"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Guthrie",
+        "url": "https://open.spotify.com/album/11sreyMhRyRnGBrg972mZy"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 293266,
+      "name": "Guthrie",
+      "url": "https://open.spotify.com/track/2kNwTOVdZGCGROgAzjD1J0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "How Will I Know",
-        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
+        "name": "Exploding",
+        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
       },
       "artists": [
         {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 206473,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
+      "duration_ms": 241712,
+      "name": "Exploding",
+      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2239,22 +2239,6 @@
       "duration_ms": 258946,
       "name": "I Don't Think You're an Angel (Anymore)",
       "url": "https://open.spotify.com/track/6Hbt5RBxPN1QBvNdlyGMuO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Exploding",
-        "url": "https://open.spotify.com/album/72GQuGC9XNu3WnvOh45KbZ"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 241712,
-      "name": "Exploding",
-      "url": "https://open.spotify.com/track/6yNYd418PyTvOM9WkHSUcf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2291,18 +2275,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+        "name": "How Will I Know",
+        "url": "https://open.spotify.com/album/1YcaL2P5m19EqlJ6ULmcIo"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+      "duration_ms": 206473,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/34cibrAB4rrPbGb58vaHtD"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2335,6 +2319,22 @@
       "duration_ms": 217513,
       "name": "For You",
       "url": "https://open.spotify.com/track/5YBqVqm8LmaIkrRSSfTMQk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "You Never Know",
-        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 290584,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "A Turning of the Tide: Side A",
         "url": "https://open.spotify.com/album/5SrqsAmZRJ7gO46b6B5UPe"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 340760,
       "name": "When the Storm Sets In",
       "url": "https://open.spotify.com/track/4W9VyT8DnQ6BsdmQgIaR7a"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "You Never Know",
+        "url": "https://open.spotify.com/album/5FecyVN6cTbuI1UnwvaYcD"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 290584,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/3BOU0eJQjfmhbZsQ76OJi9"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/0KeSSBwhamL1NVvp8uLMjk"
-      },
-      "artists": [
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Yellow Mile",
         "url": "https://open.spotify.com/album/6TGv0O0RVviQpv55d8t92b"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 183706,
       "name": "The Yellow Mile",
       "url": "https://open.spotify.com/track/6n0yMfgOjGM4GzUNHE1gVu"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/0KeSSBwhamL1NVvp8uLMjk"
+      },
+      "artists": [
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
+        }
+      ],
+      "duration_ms": 225354,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4O354RXGtWktEKC6fMM1CM"
     }
   ],
   "unique_name": "Infinite Indie Folk",

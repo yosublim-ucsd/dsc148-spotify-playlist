@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lua de Santana.",
-  "num_followers": 18525,
+  "num_followers": 18528,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "MADRE M\u00cdA EL ASCO QUE ME DAS",
         "url": "https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "estonovabien",
-        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 161354,
-      "name": "estonovabien",
-      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Collar Fular",
+        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Collar Fular",
+      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Collar Fular",
-        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+        "name": "estonovabien",
+        "url": "https://open.spotify.com/album/3v1KsYYv3bgQJujQqPuDuW"
       },
       "artists": [
         {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 132680,
-      "name": "Collar Fular",
-      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+      "duration_ms": 161354,
+      "name": "estonovabien",
+      "url": "https://open.spotify.com/track/0BIS2dEAuLOxAyfC1lvzsD"
     },
     {
       "added_at": "2024-08-06 22:00:00",

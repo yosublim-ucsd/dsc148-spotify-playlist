@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/0USMBK9pfUYSxQzxgVweho"
+      },
+      "artists": [
+        {
+          "name": "Jefte Santos",
+          "url": "https://open.spotify.com/artist/4TUiqi45gTMNEPsqhFrggV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253354,
+      "name": "Alegria",
+      "url": "https://open.spotify.com/track/2ww4zuX5a7Um872LsdwjKL"
+    },
+    {
+      "album": {
         "name": "Diferente",
         "url": "https://open.spotify.com/album/1dmdddOHjsX9n9y21GEPYL"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 266653,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"

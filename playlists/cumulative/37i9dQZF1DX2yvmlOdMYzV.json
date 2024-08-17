@@ -2909,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Back in My Body",
+        "url": "https://open.spotify.com/album/1ABXO5zAU7TQYoh5QETYdA"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/4QWPFAITJvb8Uns5K1fsP3"
+    },
+    {
+      "album": {
         "name": "Definition of Love",
         "url": "https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i"
       },
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236711,
       "name": "Dripping",
       "url": "https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy"
@@ -6717,6 +6735,24 @@
     },
     {
       "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L"
+    },
+    {
+      "album": {
         "name": "Jay Bird",
         "url": "https://open.spotify.com/album/36vhgSU5YmXYFbNKOOjENQ"
       },
@@ -7482,7 +7518,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177363,
       "name": "Let This Go",
       "url": "https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK"
@@ -12688,7 +12724,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222518,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw"
@@ -13020,6 +13056,24 @@
       "duration_ms": 212933,
       "name": "Tam Tam",
       "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
+    },
+    {
+      "album": {
+        "name": "I'll Finish The Lyrics Later",
+        "url": "https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127208,
+      "name": "TANGERINE",
+      "url": "https://open.spotify.com/track/3XumBe8GRlXPmxR8kr6cdw"
     },
     {
       "album": {
@@ -14396,7 +14450,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150002,
       "name": "waiting!",
       "url": "https://open.spotify.com/track/36ccoNmi9e2noC3xnmKr0Y"
@@ -14896,6 +14950,28 @@
       "duration_ms": 199179,
       "name": "Whoa",
       "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+    },
+    {
+      "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "solace",
+          "url": "https://open.spotify.com/artist/2W1dpsbDt9qWbMWXZ5HRn9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155040,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/2fFF3qTalj3yxzsnSziSPN"
     },
     {
       "album": {

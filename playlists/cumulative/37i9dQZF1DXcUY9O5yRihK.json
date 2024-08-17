@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200875,
       "name": "80 Summers",
       "url": "https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191949,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq"
@@ -1298,6 +1298,24 @@
       "duration_ms": 174375,
       "name": "Lavender Haze - Acoustic Version",
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+    },
+    {
+      "album": {
+        "name": "lazy afternoon",
+        "url": "https://open.spotify.com/album/2Q2fKoH1BjT2v90H4lDRCu"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175131,
+      "name": "lazy afternoon",
+      "url": "https://open.spotify.com/track/5yO75EkEQkxS9f0MizQbdD"
     },
     {
       "album": {
@@ -2566,6 +2584,24 @@
       "duration_ms": 281170,
       "name": "where u are",
       "url": "https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C"
+      },
+      "artists": [
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206517,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs"
     },
     {
       "album": {

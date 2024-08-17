@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: 1915",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Marki.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -501,6 +501,58 @@
     },
     {
       "album": {
+        "name": "Ba\u00f1era",
+        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152381,
+      "name": "Ba\u00f1era",
+      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
+    },
+    {
+      "album": {
+        "name": "BLESSED",
+        "url": "https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP"
+      },
+      "artists": [
+        {
+          "name": "GATITAS VEGANAS",
+          "url": "https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28"
+        },
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        },
+        {
+          "name": "Chipi Chipi",
+          "url": "https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "BLESSED",
+      "url": "https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa"
+    },
+    {
+      "album": {
         "name": "Brujita de la suerte",
         "url": "https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY"
       },
@@ -982,6 +1034,24 @@
       "duration_ms": 176009,
       "name": "Coraz\u00f3n Extra\u00f1o",
       "url": "https://open.spotify.com/track/0xlOGGbvgC4gHQ6nYiOexk"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Gris",
+        "url": "https://open.spotify.com/album/3sU5ze4k0EQhqP3KzDComb"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218794,
+      "name": "Coraz\u00f3n Gris",
+      "url": "https://open.spotify.com/track/2QzSdo7YCs19SkJWS0Acsa"
     },
     {
       "album": {
@@ -1644,7 +1714,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
@@ -2028,6 +2098,24 @@
       "duration_ms": 227375,
       "name": "Hasta Que Llegue El Verano",
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
+    },
+    {
+      "album": {
+        "name": "YASS",
+        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185390,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
     },
     {
       "album": {
@@ -2868,6 +2956,24 @@
       "duration_ms": 156198,
       "name": "NEFERTITI",
       "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
+    },
+    {
+      "album": {
+        "name": "no hay porqu\u00e9",
+        "url": "https://open.spotify.com/album/0k6CNiHqCfZd42VOp8WhZt"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141963,
+      "name": "no hay porqu\u00e9",
+      "url": "https://open.spotify.com/track/4z8v6dinom02IRU69Mp5XN"
     },
     {
       "album": {
@@ -3870,7 +3976,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 243260,
       "name": "SUBTE L\u00cdNEA B REWORK",
       "url": "https://open.spotify.com/track/6kLvnP2M8nw9h7yCLuOJT2"
@@ -4040,7 +4146,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157750,
       "name": "Texto",
       "url": "https://open.spotify.com/track/6uNhKL6VOWNxyA0GO82kId"
@@ -4200,7 +4306,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196863,
       "name": "Tu Calor",
       "url": "https://open.spotify.com/track/4qqnfffDtMMt58Zw2NIffu"
@@ -4298,7 +4404,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222908,
       "name": "un d\u00eda",
       "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"

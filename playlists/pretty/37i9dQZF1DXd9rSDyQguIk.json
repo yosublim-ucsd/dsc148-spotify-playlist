@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1905449,
+  "num_followers": 1905979,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 314880,
-      "name": "Be Careful With a Fool",
-      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "The Real Folk Blues",
@@ -387,6 +371,22 @@
       "duration_ms": 156866,
       "name": "Bring It On Home",
       "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "Be Careful With a Fool",
+      "url": "https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "The Cream Of Clapton",
@@ -499,6 +483,22 @@
       "duration_ms": 255600,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -853,22 +853,6 @@
       "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
-        "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
-      },
-      "artists": [
-        {
-          "name": "Magic Sam",
-          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
-        }
-      ],
-      "duration_ms": 176186,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Bloomfield-A Retrospective",
@@ -883,6 +867,22 @@
       "duration_ms": 414960,
       "name": "Albert's Shuffle",
       "url": "https://open.spotify.com/track/1ekio2Gk6WycLArAUJZfxM"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
+        "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
+      },
+      "artists": [
+        {
+          "name": "Magic Sam",
+          "url": "https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
     },
     {
       "added_at": "2018-03-29 19:44:07",

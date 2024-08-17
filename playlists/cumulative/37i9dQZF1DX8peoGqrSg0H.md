@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: 4EVE
 
-538 songs - 1 day 7 hr 59 min
+539 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Pom Pom](https://open.spotify.com/track/6TMKYVnwMJDHDnkyFm2OgL) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc) | [Pom Pom](https://open.spotify.com/album/1GOElDaXMy5zfUGpmtDfGo) | 2:56 | 2023-01-26 | 2023-02-03 |
 | [Princess](https://open.spotify.com/track/47y7TZ7oibsGveg1ycSdvk) | [iWish](https://open.spotify.com/artist/6dlCDcr5JTHjzc1osXFaNH) | [Princess](https://open.spotify.com/album/5hzeaOZ64k7FJQNXEaFxRe) | 4:01 | 2022-11-11 | 2022-11-18 |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK? \- Single](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-02-02 | 2023-11-03 |
-| [Red Zone](https://open.spotify.com/track/5UdZNJ9Gzd71CVEyM0MLM2) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [Red Zone](https://open.spotify.com/album/25fGFqBeRGLkjdi2HZGG9i) | 3:38 | 2024-08-15 |  |
+| [Red Zone](https://open.spotify.com/track/5UdZNJ9Gzd71CVEyM0MLM2) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [Red Zone](https://open.spotify.com/album/25fGFqBeRGLkjdi2HZGG9i) | 3:38 | 2024-08-15 | 2024-08-17 |
 | [Rent It From You](https://open.spotify.com/track/7Hoa908AVjfP85uRvZ6RWm) | [Third](https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK) | [Rent It From You](https://open.spotify.com/album/6gv2oszIUUb7LFSXC2zhin) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [Sad Movie](https://open.spotify.com/track/1nenRWbemVvsxnxg296eFB) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bright Vachirawit](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [Sad Movie](https://open.spotify.com/album/4OKtFyWg0TeKYXK4v5Upw7) | 3:48 | 2022-05-26 | 2022-07-24 |
 | [Second Chance](https://open.spotify.com/track/2a7YBNa6T4DhtF77kbWx8G) | [DVI](https://open.spotify.com/artist/5MDug90VBdUSLULq3hBU4X) | [Second Chance](https://open.spotify.com/album/246Sr3txZUox97Q3LLYAZZ) | 3:22 | 2023-07-21 | 2023-07-29 |
@@ -441,6 +441,7 @@
 | [เทคะแนน \(CANDIDATE\)](https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เทคะแนน \(CANDIDATE\) \- Single](https://open.spotify.com/album/25MlWfSLmLz4bXUoSHdKMj) | 3:09 | 2024-02-21 | 2024-05-07 |
 | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/track/72YpO0c69zW1sdDxfdqQwf) | [Bell Supol](https://open.spotify.com/artist/2evGkOhBM2TYqcsdbfJmug) | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/album/2OaI9TOAJNRr5WWbOYsr0N) | 3:54 | 2022-07-01 | 2022-07-11 |
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
+| [เธอบวกอควาเรียมคือเดอะเบสท์ \(Aquarium\)](https://open.spotify.com/track/6sFXXutVZbkcb2wLRlM6Vi) | [DOM](https://open.spotify.com/artist/6ZnhVXjHWYNQakkNpO1fcL) | [เธอบวกอควาเรียมคือเดอะเบสท์ \(Aquarium\)](https://open.spotify.com/album/69pzGuX7007eu70hU60TH1) | 3:26 | 2024-08-16 |  |
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |
 | [เธอเคยรักฉันหรือเปล่า \(Love?\)](https://open.spotify.com/track/4e6ipLaeZkV8U2v6cKWOva) | [ZOLAR](https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF) | [เธอเคยรักฉันหรือเปล่า \(Love?\)](https://open.spotify.com/album/39w4do4YqdZAbg0e2WO0B2) | 3:46 | 2024-07-18 | 2024-07-27 |
 | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/track/3WhnoaMfaJnOzLWBuKnD5L) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/album/0jhtd9GxvrRfGVbWKJJUco) | 2:43 | 2024-04-04 | 2024-04-19 |

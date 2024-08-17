@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Victor Mendivil, Oscar Maydon en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Yahir Saldivar en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145658,
       "name": "Besito Con Humo",
       "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
@@ -1829,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
+    },
+    {
+      "album": {
         "name": "CINTO ARMANI CON LOS TENIS TOMMY - SOY BELICON",
         "url": "https://open.spotify.com/album/00hVxqkDVSfuBwE7Lvvz6v"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207898,
       "name": "Con la Bola",
       "url": "https://open.spotify.com/track/2sRRhpr13wR4SrxAtlVjdh"
@@ -2280,7 +2302,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 221330,
       "name": "CUMBIA 85",
       "url": "https://open.spotify.com/track/12hLpCTNfdetaDI6Ps9R8X"
@@ -2814,7 +2836,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 148480,
       "name": "Ducati",
       "url": "https://open.spotify.com/track/0tmP3JTNIPazZFYbznBwm7"
@@ -2902,7 +2924,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 205647,
       "name": "El Aferrafter",
       "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
@@ -3321,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "El Jefe Lexus (Grupo Rangers)",
+        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150489,
+      "name": "El Jefe Lexus (Grupo Rangers)",
+      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
+    },
+    {
+      "album": {
         "name": "EL KARMA",
         "url": "https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf"
       },
@@ -3402,7 +3442,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167333,
       "name": "El Morrillo",
       "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
@@ -4267,6 +4307,32 @@
     },
     {
       "album": {
+        "name": "GOMIN0LA",
+        "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "GOMIN0LA",
+      "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
+    },
+    {
+      "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
@@ -4675,6 +4741,24 @@
     },
     {
       "album": {
+        "name": "El Caminito",
+        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "Juan Carlos \"Lefty SM\"",
+      "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
+    },
+    {
+      "album": {
         "name": "JURE VENGANZA",
         "url": "https://open.spotify.com/album/01hQzuRutKQ10AmhqyWHAl"
       },
@@ -4782,7 +4866,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "KATY PERRY",
       "url": "https://open.spotify.com/track/7F9wULTYG7mrp7bykMoU2K"
@@ -5090,7 +5174,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 106033,
       "name": "La Baliniza",
       "url": "https://open.spotify.com/track/1ZkytXaGzi4od3VnwEO8FA"
@@ -5254,7 +5338,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-29",
+      "date_removed": null,
       "duration_ms": 250900,
       "name": "LA CUMBIA DEL CASTOR",
       "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
@@ -5382,6 +5466,24 @@
       "duration_ms": 194000,
       "name": "La Lokerona",
       "url": "https://open.spotify.com/track/6jysIu57wvdVpIqPPogSzm"
+    },
+    {
+      "album": {
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
     },
     {
       "album": {
@@ -6646,7 +6748,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 188089,
       "name": "Mi Kryptonita",
       "url": "https://open.spotify.com/track/4mWiyglEmK9eRAwMdD9tQ6"
@@ -6886,6 +6988,28 @@
       "duration_ms": 216330,
       "name": "Morritas",
       "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "album": {
+        "name": "Morro Dolido",
+        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Morro Dolido",
+      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
     },
     {
       "album": {
@@ -7428,7 +7552,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196111,
       "name": "Oye Cantinero",
       "url": "https://open.spotify.com/track/6T2EN8kq3731c7fgu0S1nN"
@@ -7750,7 +7874,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178512,
       "name": "PLOMO",
       "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
@@ -7798,7 +7922,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192658,
       "name": "PLYBOY",
       "url": "https://open.spotify.com/track/6a7o80X7LrPCkkaNUmy74o"
@@ -8048,7 +8172,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 149761,
       "name": "Porte Malandro Fres\u00f3n",
       "url": "https://open.spotify.com/track/44rmoLP3engelokQlkWhLJ"
@@ -8337,6 +8461,28 @@
     },
     {
       "album": {
+        "name": "QuesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
+    },
+    {
+      "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
       },
@@ -8498,7 +8644,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173934,
       "name": "RBS",
       "url": "https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p"
@@ -10142,7 +10288,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
@@ -10580,7 +10726,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 126160,
       "name": "VIDA DE FAMOSO",
       "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"

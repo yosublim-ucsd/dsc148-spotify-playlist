@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: SOLE\(쏠\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JAEHYUN\(재현\)\)
 
 738 songs - 1 day 15 hr 25 min
 

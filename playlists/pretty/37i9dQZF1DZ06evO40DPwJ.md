@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,243 likes - 46 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,244 likes - 46 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 23 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
 | 24 | [Moving On](https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:51 |
 | 25 | [Me On You](https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Me On You](https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme) | 3:16 |
-| 26 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
-| 27 | [Break Your Heart \- Mixin Marc And Tony Svejda Radio Edit](https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Jersey Shore Soundtrack](https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX) | 4:26 |
+| 26 | [Break Your Heart \- Mixin Marc And Tony Svejda Radio Edit](https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Jersey Shore Soundtrack](https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX) | 4:26 |
+| 27 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
 | 28 | [Can't Say Go](https://open.spotify.com/track/1ys0QvZtGmKK1A9gNYIoBU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:23 |
 | 29 | [Come On Girl](https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:32 |
 | 30 | [Make It Last Forever](https://open.spotify.com/track/3v6FtXE6M4JuKo9zeuprb8) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:48 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 45 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 46 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `ZrvzgAAAAAD9/rVULW3OVfNpOkPXuDEt`
+Snapshot ID: `Zr1FAAAAAACejWVapXuDVwW8KZ6n4oT7`

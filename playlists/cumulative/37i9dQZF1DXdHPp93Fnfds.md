@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Girl Ultra.
 
-585 songs - 1 day 9 hr 13 min
+586 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [\(H\)olas](https://open.spotify.com/track/76Drqa36dMs3sL6GZOAeDL) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 1:39 | 2022-12-09 | 2023-06-10 |
 | [100PRE](https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [100PRE](https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS) | 3:25 | 2023-12-07 |  |
 | [11:11](https://open.spotify.com/track/2yh6IJ6dr3PKR4llYUqZaF) | [Chloe Edgecombe](https://open.spotify.com/artist/0H8IebIWwHBF8E5wUXZetr) | [11:11](https://open.spotify.com/album/4bnQbUVuWGbrIXM3gvsxfN) | 3:23 | 2022-02-11 | 2024-08-02 |
-| [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-02-11 |  |
+| [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-02-11 | 2024-08-17 |
 | [150m\_km](https://open.spotify.com/track/6P2XLxadDqdwl4ehiRtGCa) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [150m\_km](https://open.spotify.com/album/2VVPP5O4YiRXwaPXNlw5Zp) | 3:33 | 2022-01-21 | 2022-07-23 |
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-04 | 2023-11-11 |
 | [1K Agujas](https://open.spotify.com/track/1F3hOmU8BA9Lftz7PKR4G6) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [1K Agujas](https://open.spotify.com/album/3DXnVgLcsFUjpSqvUnmzW2) | 4:19 | 2022-01-21 | 2022-07-25 |
@@ -72,6 +72,7 @@
 | [Bañera](https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Bañera](https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX) | 2:32 | 2024-08-16 |  |
 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 | 2022-01-14 |  |
 | [Besos Que Nos Dimos](https://open.spotify.com/track/7u5ubiYPA1a1tACQrZicY7) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Besos Que Nos Dimos](https://open.spotify.com/album/0gOurSKwd8MBVE7DANvFKX) | 3:07 | 2022-11-28 | 2023-02-10 |
+| [BLESSED](https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa) | [GATITAS VEGANAS](https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz), [Chipi Chipi](https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc) | [BLESSED](https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP) | 3:09 | 2024-08-16 |  |
 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 | 2023-08-25 | 2023-09-26 |
 | [Blusito](https://open.spotify.com/track/5uaQ2JqKFUbku7ssEgWjte) | [Lulioli](https://open.spotify.com/artist/1sBDWlxYFLnrmmbrgKI4O4) | [Blusito](https://open.spotify.com/album/4WQpIrBMxLjRKcrkluurb3) | 5:17 | 2022-04-01 | 2022-06-29 |
 | [Bossa de Amor](https://open.spotify.com/track/5CisJ1wCJc8iaPDuNJgfpo) | [Emilia Borlone](https://open.spotify.com/artist/3qUX6iGtY5Lbyj8vduC4Oc), [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Bossa de Amor](https://open.spotify.com/album/2fZjv0DbDkiIC03R6xJrGJ) | 3:22 | 2022-03-09 | 2022-07-19 |

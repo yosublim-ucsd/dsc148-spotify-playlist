@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > Sommersola er her <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,357 likes - 85 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,360 likes - 85 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 49 | [Synd synd synd](https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [Synd synd synd](https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn) | 3:12 |
 | 50 | [Sommartid](https://open.spotify.com/track/3uUj87Ly0W4x1jKfqGKm53) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Sommartid](https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs) | 2:54 |
 | 51 | [Alt jeg har drømt om](https://open.spotify.com/track/3NxIOoA1p9v9Ti9xbCr4uv) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Alt jeg har drømt om](https://open.spotify.com/album/78baGAYAw809s68WP75BXX) | 2:26 |
-| 52 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
+| 52 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 |
 | 53 | [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 |
-| 54 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 |
+| 54 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
 | 55 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 |
 | 56 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
 | 57 | [Good Riddance](https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Good Riddance](https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL) | 2:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 63 | [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 |
 | 64 | [Klisje](https://open.spotify.com/track/2p5d940zKggwkEpBj8sjf2) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Celine Madelen](https://open.spotify.com/artist/2cevasOkvddKR7XHHJjPlE) | [Klisje](https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA) | 2:18 |
 | 65 | [Ti tusen](https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Ti tusen](https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X) | 3:00 |
-| 66 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 |
-| 67 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 |
+| 66 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 |
+| 67 | [Rekk opp hånda](https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Rekk opp hånda](https://open.spotify.com/album/60FlhXTrzZb0lNYC5KqYbN) | 3:00 |
 | 68 | [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 |
 | 69 | [Uten dæ](https://open.spotify.com/track/0KD6A1gjo4QOsk9x82XNR5) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt), [Grannes](https://open.spotify.com/artist/6jtFweBwRIyfC35u8Fnliz) | [Uten dæ](https://open.spotify.com/album/23J8fC5yRfsBoIsiUfycQw) | 3:14 |
 | 70 | [Sommerfugl](https://open.spotify.com/track/70WspLgBLUsL4THi8bCdUv) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Sommerfugl](https://open.spotify.com/album/4KwC2kDErFQk2s2CVepIzu) | 2:52 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 75 | [Sommerglød](https://open.spotify.com/track/1Iuhp27As7UTZayGl8tGaM) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [Sommerglød](https://open.spotify.com/album/72HhszSLQI4pt5A6xzoFg7) | 2:13 |
 | 76 | [Tre sekunder](https://open.spotify.com/track/1YG1SeN28PvLdNzyBAeLww) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Tre sekunder](https://open.spotify.com/album/01OYb3IdBqhdxrRsTTlsIJ) | 3:09 |
 | 77 | [Trodde aldri](https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs) | [Sunna Björk](https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k), [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki) | [Trodde aldri](https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC) | 2:14 |
-| 78 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 |
-| 79 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 |
+| 78 | [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 |
+| 79 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 |
 | 80 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 |
 | 81 | [Synnes sumarvise](https://open.spotify.com/track/6sywAIdIEeNfGsQNEb3fbK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Synnes sumarvise](https://open.spotify.com/album/3Ov9vdLXHJ8CWiiao8Yhnr) | 2:14 |
 | 82 | [la meg ligge](https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [la meg ligge](https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI) | 3:30 |

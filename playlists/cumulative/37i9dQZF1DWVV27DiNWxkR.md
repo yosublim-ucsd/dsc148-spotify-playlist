@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Mitski
 
-408 songs - 1 day 3 hr 24 min
+410 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Ghost Town](https://open.spotify.com/track/0dXGcWTyxjkUhlWgegLmFW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/1uckQCJ7h9TO1h5zrbnX26) | 4:47 | 2022-09-02 | 2023-06-09 |
 | [Ghost Town](https://open.spotify.com/track/4GNcXcBJWF5oA89tB4PxOk) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black And The Blue](https://open.spotify.com/album/5XkXJAOxHjc9Eo3DYG5OR5) | 4:47 | 2019-09-29\* | 2022-07-29 |
 | [Ghost Town](https://open.spotify.com/track/7GoMuHEHsiCbe9IZSO6teX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Big Black and the Blue](https://open.spotify.com/album/7gktUhPz1PrJIfoEgZxCeI) | 4:47 | 2022-07-15 | 2023-05-01 |
+| [Girl Song](https://open.spotify.com/track/37G7NBSwMiZfi3Swzgh4rW) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:56 | 2024-08-16 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-17 |  |
 | [Godmanchester Chinese Bridge \- Radio Edit](https://open.spotify.com/track/10wKg1j4Mzfj9QQAy3TpJ1) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Godmanchester Chinese Bridge \(Radio Edit\)](https://open.spotify.com/album/0jZoVMH87VjQnZTIImm9L4) | 3:16 | 2019-09-29\* | 2022-05-03 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2020-10-14 | 2022-08-27 |
@@ -340,6 +341,7 @@
 | [The Past And Pending](https://open.spotify.com/track/1eCQLMdAwweBZUWjd0Qrck) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi) | 5:23 | 2019-09-29\* |  |
 | [The Past And Pending](https://open.spotify.com/track/406DlQKEhXubIyV4bgH2nM) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/1OXUnUd8QPoVJpStlBGn0J) | 5:23 | 2022-09-02 | 2022-11-14 |
 | [The Past and Pending \- 2021 Remaster](https://open.spotify.com/track/4Omfr1OV4e0eaLcPe5JFRa) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 5:25 | 2022-07-15 | 2024-04-19 |
+| [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-16 |  |
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2022-08-26 |  |
 | [Thinking About You](https://open.spotify.com/track/46tfxn5lP7Qsbz7NHsj9iu) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 2:41 | 2022-08-26 | 2022-09-10 |
 | [This Time Around](https://open.spotify.com/track/6No9HJxqxDASXaxph5ceNh) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [This Time Around](https://open.spotify.com/album/5kGAQi6p4p7w62cQyvhsqj) | 3:37 | 2019-09-29\* | 2022-04-10 |

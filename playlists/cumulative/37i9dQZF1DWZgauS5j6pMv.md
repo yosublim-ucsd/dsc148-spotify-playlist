@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-444 songs - 1 day 2 hr 9 min
+445 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Hit Man](https://open.spotify.com/track/72w7lsGmb61HaFkXahpwGo) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ) | [Hit Man](https://open.spotify.com/album/1gfzAzi7KZOpVd5RVmW65M) | 4:00 | 2024-05-17 |  |
 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 | 2022-07-15 | 2024-05-18 |
 | [Honey Imastar](https://open.spotify.com/track/51nS3uYKmaHe9svXCvMnA5) | [The Burroughs](https://open.spotify.com/artist/61xHHZBWUMoheAPbd28E3r) | [Honey Imastar](https://open.spotify.com/album/3iuveO3vYNqvD7Wze0ubLc) | 3:07 | 2023-05-26 |  |
-| [Hotel](https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb) | [Stevie Matthew](https://open.spotify.com/artist/5SOrNyoEsMC5gHnP7FYLOo), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Hotel](https://open.spotify.com/album/1ZcoiFSaI8ttDTlIG4i4CF) | 2:34 | 2024-02-16 |  |
+| [Hotel](https://open.spotify.com/track/4pvWcCnoJnhSQtCMEeb0bb) | [Stevie Matthew](https://open.spotify.com/artist/5SOrNyoEsMC5gHnP7FYLOo), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Hotel](https://open.spotify.com/album/1ZcoiFSaI8ttDTlIG4i4CF) | 2:34 | 2024-02-16 | 2024-08-17 |
 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 | 2023-03-03 |  |
 | [How Happy](https://open.spotify.com/track/5e6B2DLbg9ISk7aXbabnpG) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [How Happy](https://open.spotify.com/album/4Dzbfu5IH9G5I0CpqZVutY) | 4:00 | 2023-01-23 | 2023-04-15 |
 | [How Hard](https://open.spotify.com/track/0lolsWqQe1StrLfvEtlLlt) | [Zenizen](https://open.spotify.com/artist/1MaWvJ5Y0Na24KMG79WxDU) | [How Hard](https://open.spotify.com/album/0QxwUc3t7AWzTvTXzFdq7Y) | 4:11 | 2022-06-03 | 2023-04-30 |
@@ -279,6 +279,7 @@
 | [Monoxide](https://open.spotify.com/track/03sMq9PruH6F0jJQFufYPT) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [MonoNeon](https://open.spotify.com/artist/3IuEuLez19teZSN32Pf70j), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY), [Canoed\_sun](https://open.spotify.com/artist/0Fy8tUfccxSuqfnILrqlzO) | [Monoxide](https://open.spotify.com/album/4vYq3fmB2F9GGY26RgTSja) | 3:12 | 2024-01-19 | 2024-06-15 |
 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 | 2021-06-18 | 2022-01-29 |
 | [Morning Light \- K, Le Maestro Remix](https://open.spotify.com/track/0iOeXgdhbqkBiU5UdQmkz1) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Morning Light \(K, Le Maestro Remix\)](https://open.spotify.com/album/30i6n4M5qEDajv8jGoVDXl) | 3:35 | 2024-01-12 |  |
+| [Move Your Body](https://open.spotify.com/track/1ykn3V2Mv2JhE8dkDAbWji) | [Tweak on the Beat](https://open.spotify.com/artist/3sc3m3F7H6qszH8neM4r6B), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Move Your Body](https://open.spotify.com/album/2bI85Cz6myN5xQxM31bfvg) | 1:38 | 2024-08-16 |  |
 | [Movin' Nowhere](https://open.spotify.com/track/4XyL6Cadk1bBXWREirnS73) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [Movin' Nowhere](https://open.spotify.com/album/7pHcGqCRiK9o9iewDsgvkk) | 4:19 | 2022-03-25 | 2023-03-04 |
 | [My Brother \- Frank Booker & Nathan Haines Remix](https://open.spotify.com/track/5BzqDmHDbC8OFOiSiSf3mr) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Michal Martyniuk](https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC), [Frank Booker](https://open.spotify.com/artist/4YRVEzWxX3wUH29czw0IiU), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [My Brother](https://open.spotify.com/album/1muD8cnFzYX594Irtz0aBh) | 6:54 | 2021-06-11 | 2022-07-02 |
 | [My Kinda Love](https://open.spotify.com/track/4N9Zjl1E4QLDrLnDslJkdO) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [rynjae](https://open.spotify.com/artist/5IZyhABCE3PaMrBL14PNKM) | [My Kinda Love](https://open.spotify.com/album/7uF4FtmG3tHDW7ChMu0nFo) | 3:24 | 2021-07-23 | 2022-10-22 |

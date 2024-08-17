@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Bruno Martini, Laau",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: NUZB",
   "name": "mint brasil",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 147211,
       "name": "Car Keys (Ayla)",
       "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
@@ -1563,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "ZARA",
+          "url": "https://open.spotify.com/artist/5jwZdQArPjjRLzneEx3DAn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157235,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc"
+    },
+    {
+      "album": {
         "name": "Get What You Want (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57"
       },
@@ -2124,7 +2146,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
@@ -2974,7 +2996,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160650,
       "name": "Please Press Play - Radio Edit",
       "url": "https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk"
@@ -3406,6 +3428,24 @@
       "duration_ms": 175522,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/4vMUICZuISXIbaN8Qgqv9c"
+    },
+    {
+      "album": {
+        "name": "Scarlett",
+        "url": "https://open.spotify.com/album/0QjrIkeSfkGph8zija7vFv"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "Scarlett",
+      "url": "https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP"
     },
     {
       "album": {
@@ -3964,7 +4004,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161951,
       "name": "The Way You Lie",
       "url": "https://open.spotify.com/track/2pKSx4iITnvmewjPzsAu8l"
@@ -4130,7 +4170,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 130231,
       "name": "Wasted Love",
       "url": "https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3"

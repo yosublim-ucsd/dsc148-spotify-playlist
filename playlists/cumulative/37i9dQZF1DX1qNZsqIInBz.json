@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115906,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
+    },
+    {
+      "album": {
         "name": "ETERNAL IN MEMORIUM (Slowed & Reverb)",
         "url": "https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169846,
       "name": "MUSIC DEALER",
       "url": "https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1"

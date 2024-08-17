@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > moooooooooove
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,241 likes - 263 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,574 likes - 263 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 12 | [Girl With The Tattoo \[Wakyin Remix\]](https://open.spotify.com/track/0Vo1vtDZgMVD1qras4UPTI) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ) | [Girl With The Tattoo](https://open.spotify.com/album/3cnIbhL4QYRzF9wQf53lkW) | 3:35 |
 | 13 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 14 | [Orion \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Orion \- Sistek Remix](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
-| 15 | [Vem](https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Juniper](https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vem](https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx) | 2:59 |
+| 15 | [Vem](https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vem](https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx) | 2:59 |
 | 16 | [Kongo \(Hanî´s Remix\)](https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN) | [Kolinga](https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM), [HANÎ](https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv) | [Kongo \(Hanî 's Remix\)](https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119) | 3:53 |
 | 17 | [Pinie \- Sébastien Léger Remix](https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Pinie \(Sébastien Léger Remix\)](https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv) | 8:24 |
 | 18 | [Makes Me Wonder](https://open.spotify.com/track/6NdyfsjH0wFovyEqqAP0PP) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Makes Me Wonder](https://open.spotify.com/album/0HSwb0U6BDrcB1jLUt6e5N) | 4:25 |

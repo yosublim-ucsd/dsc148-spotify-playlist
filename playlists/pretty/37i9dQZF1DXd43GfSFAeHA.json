@@ -1,6 +1,6 @@
 {
   "description": "A selection of the finest Hip Hop tracks from the illest Arab Rappers. Cover: The Synaptik ",
-  "num_followers": 132160,
+  "num_followers": 132162,
   "original_name": "Arab Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "YAKINE",
-        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 200909,
-      "name": "We9tna",
-      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "Kakashi",
         "url": "https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 288979,
       "name": "Kakashi",
       "url": "https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "YAKINE",
+        "url": "https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 200909,
+      "name": "We9tna",
+      "url": "https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Nemshy Men Hena",
-        "url": "https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK"
-      },
-      "artists": [
-        {
-          "name": "Abyusif",
-          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
-    },
-    {
-      "added_at": "2024-08-12 08:19:10",
-      "album": {
         "name": "Decor",
         "url": "https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 141428,
       "name": "Bella Hadid",
       "url": "https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq"
+    },
+    {
+      "added_at": "2024-08-12 08:19:10",
+      "album": {
+        "name": "Nemshy Men Hena",
+        "url": "https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK"
+      },
+      "artists": [
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2"
     },
     {
       "added_at": "2024-08-12 08:19:10",
@@ -927,18 +927,26 @@
     {
       "added_at": "2024-08-12 08:19:10",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
+        "name": "Al Taman",
+        "url": "https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF"
       },
       "artists": [
         {
-          "name": "Soulja",
-          "url": "https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN"
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        },
+        {
+          "name": "Wardenclyph",
+          "url": "https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h"
+        },
+        {
+          "name": "Sakt",
+          "url": "https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy"
         }
       ],
-      "duration_ms": 137443,
-      "name": "Jabra Vu",
-      "url": "https://open.spotify.com/track/4lWFersonZ1v1QwwIi7ohZ"
+      "duration_ms": 166666,
+      "name": "Had 5ofi (feat. Sakt)",
+      "url": "https://open.spotify.com/track/6aJowWOzPZGpKsLByDopjz"
     }
   ],
   "unique_name": "Arab Hip Hop",

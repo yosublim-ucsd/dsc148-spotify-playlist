@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:   <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=n7rA5nsSS\-qRIrSiO\-yFhA>Gaise Baba</a>
 
-3,264 songs - 9 day 20 hr 10 min
+3,265 songs - 9 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1838,6 +1838,7 @@
 | [More](https://open.spotify.com/track/0D2JBhVSl7pjOfbPNth2uF) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [More](https://open.spotify.com/album/1VG71oyRkdD5cQqEuaxZ5A) | 3:14 | 2023-10-13 | 2023-10-27 |
 | [MORE](https://open.spotify.com/track/0Pc2i2SlWpI9q8MqzOSoRR) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ) | [MORE](https://open.spotify.com/album/5KDHtAUAl7THE7OEVtN9Zd) | 2:17 | 2023-10-06 | 2023-10-20 |
 | [More \- Reprise](https://open.spotify.com/track/42ntPM22VYbUfeICz51noE) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Pv Idemudia](https://open.spotify.com/artist/01zeOIPQPPmHKytrc9sPC3) | [More \(Reprise\)](https://open.spotify.com/album/6FHPFn5apP3ROVvxLnprDC) | 7:04 | 2024-06-14 | 2024-06-28 |
+| [More Dearly](https://open.spotify.com/track/1rHlV075lP6ITJ8h5qS4Qt) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [More Dearly](https://open.spotify.com/album/6eqHzSqjYMzSTqryevQa6j) | 2:51 | 2024-08-16 |  |
 | [More of You](https://open.spotify.com/track/1MvI2mOvdgQY8G5ReFtq8S) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd), [kaestrings](https://open.spotify.com/artist/66keBNk6FA9HYzwgxCWpCT) | [More of You](https://open.spotify.com/album/2JnM5bI6wqYCh6cp534dk1) | 6:48 | 2024-08-09 |  |
 | [MORE PT2](https://open.spotify.com/track/6vW2W0fBfrzEsjcokzILxv) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [GIDYON](https://open.spotify.com/artist/6DkCYglpnVDHEV9tfCaxW2) | [MORE PT2](https://open.spotify.com/album/3O6R4RxwkZoxbo4pg5mnmP) | 2:16 | 2023-11-24 | 2023-12-01 |
 | [More Than a Song \- Live](https://open.spotify.com/track/0dzxARoS1ba8g01fzqU4Ob) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [More Than a Song \(Live\)](https://open.spotify.com/album/6603NDkKT3gyBk2qS94ad5) | 6:09 | 2023-06-05 | 2023-06-09 |

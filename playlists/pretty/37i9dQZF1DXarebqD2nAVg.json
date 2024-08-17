@@ -1,6 +1,6 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 449887,
+  "num_followers": 449940,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "roamwave",
-        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
-      },
-      "artists": [
-        {
-          "name": "ai sayuri",
-          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
-        }
-      ],
-      "duration_ms": 138663,
-      "name": "roamwave",
-      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Call It A Night",
         "url": "https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 123500,
       "name": "typewriter",
       "url": "https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "roamwave",
+        "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
+      },
+      "artists": [
+        {
+          "name": "ai sayuri",
+          "url": "https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ"
+        }
+      ],
+      "duration_ms": 138663,
+      "name": "roamwave",
+      "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "Through My Window",
-        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
-      },
-      "artists": [
-        {
-          "name": "day zee",
-          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
-        }
-      ],
-      "duration_ms": 150955,
-      "name": "Through My Window",
-      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "curled up",
         "url": "https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 132413,
       "name": "curled up",
       "url": "https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3"
+      },
+      "artists": [
+        {
+          "name": "day zee",
+          "url": "https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L"
+        }
+      ],
+      "duration_ms": 150955,
+      "name": "Through My Window",
+      "url": "https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "clear blue atmosphere",
-        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
-      },
-      "artists": [
-        {
-          "name": "Touristique",
-          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "clear blue atmosphere",
-      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Stay In Bed",
         "url": "https://open.spotify.com/album/3US880QWOU3JqaIOguUilz"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 124821,
       "name": "Stay In Bed",
       "url": "https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "clear blue atmosphere",
+        "url": "https://open.spotify.com/album/3x02MVIYzOPc6t6Mi6annZ"
+      },
+      "artists": [
+        {
+          "name": "Touristique",
+          "url": "https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "clear blue atmosphere",
+      "url": "https://open.spotify.com/track/6s31znJTzvn34nJiPfBbHp"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "Quartal",
-        "url": "https://open.spotify.com/album/4GwJnWsXhLb7jDO4o9yHV8"
-      },
-      "artists": [
-        {
-          "name": "Lucid Keys",
-          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Quartal",
-      "url": "https://open.spotify.com/track/6HouroGZSnriefu6Rg53AK"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "So It Falls",
         "url": "https://open.spotify.com/album/6xov2MgfMNHXdfFdCLwY3y"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 133333,
       "name": "So It Falls",
       "url": "https://open.spotify.com/track/47BSkYZ0VusQR2sKWwnhv8"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "Quartal",
+        "url": "https://open.spotify.com/album/4GwJnWsXhLb7jDO4o9yHV8"
+      },
+      "artists": [
+        {
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Quartal",
+      "url": "https://open.spotify.com/track/6HouroGZSnriefu6Rg53AK"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "tranquility",
-        "url": "https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6"
-      },
-      "artists": [
-        {
-          "name": "lofi potato",
-          "url": "https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "tranquility",
-      "url": "https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Rainy Days",
         "url": "https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 118462,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "tranquility",
+        "url": "https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6"
+      },
+      "artists": [
+        {
+          "name": "lofi potato",
+          "url": "https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "tranquility",
+      "url": "https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-25 12:41:14",
       "album": {
-        "name": "Lost In The Wilderness",
-        "url": "https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh"
-      },
-      "artists": [
-        {
-          "name": "Nova Night",
-          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Lost In The Wilderness",
-      "url": "https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
         "name": "Over Skies",
         "url": "https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP"
       },
@@ -1039,6 +1023,38 @@
       "duration_ms": 247320,
       "name": "Lie",
       "url": "https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz"
+      },
+      "artists": [
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "Louie's Lullaby",
+      "url": "https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO"
+    },
+    {
+      "added_at": "2024-07-25 12:41:14",
+      "album": {
+        "name": "Lost In The Wilderness",
+        "url": "https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh"
+      },
+      "artists": [
+        {
+          "name": "Nova Night",
+          "url": "https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Lost In The Wilderness",
+      "url": "https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS"
     },
     {
       "added_at": "2024-07-25 12:41:14",
@@ -1071,22 +1087,6 @@
       "duration_ms": 154074,
       "name": "emerald",
       "url": "https://open.spotify.com/track/09ekHMx7dXh7EQMAmNqUrD"
-    },
-    {
-      "added_at": "2024-07-25 12:41:14",
-      "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz"
-      },
-      "artists": [
-        {
-          "name": "Harris Cole",
-          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "Louie's Lullaby",
-      "url": "https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO"
     },
     {
       "added_at": "2024-07-25 12:41:14",

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30048,
+  "num_followers": 30053,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPNNQsSGMCxPpF9tAyksgk9aJ++21N",
+  "snapshot_id": "AAAPN3JM9qxXZi9wo8B9OWuuDD8dl/lp",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,22 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-08-16 11:31:31",
+      "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
       "added_at": "2024-08-14 15:03:39",
@@ -719,22 +735,6 @@
       "duration_ms": 237780,
       "name": "maybe it's u",
       "url": "https://open.spotify.com/track/2K0onXEr9iCUSYonEf0Bl4"
-    },
-    {
-      "added_at": "2024-05-31 09:39:59",
-      "album": {
-        "name": "Love Heart Cheat Code",
-        "url": "https://open.spotify.com/album/3TsAZSV9r6h0w4S5fxS2qX"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 273291,
-      "name": "Love Heart Cheat Code",
-      "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

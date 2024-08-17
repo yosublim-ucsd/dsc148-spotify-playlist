@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists and labels\. Cover: Chloe Qisha Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,352 likes - 107 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,408 likes - 107 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

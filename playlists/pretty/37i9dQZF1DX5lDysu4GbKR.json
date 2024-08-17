@@ -1,17 +1,17 @@
 {
   "description": "Relax to these acoustic soul songs. Cover: Teddy Swims",
-  "num_followers": 601354,
+  "num_followers": 601392,
   "original_name": "Acoustic Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAD1Wn+UzOtlIyvq8Coh2LLk",
+  "snapshot_id": "Zr7OwAAAAADaGz81UEvJ8xqaaSIbIdmU",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "The Most (Acoustic)",
+        "name": "The Most - Acoustic",
         "url": "https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm"
       },
       "artists": [
@@ -21,8 +21,24 @@
         }
       ],
       "duration_ms": 179302,
-      "name": "The Most (Acoustic)",
+      "name": "The Most - Acoustic",
       "url": "https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Check - Acoustic",
+        "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Check - Acoustic",
+      "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
     },
     {
       "added_at": "2024-08-09 04:00:00",

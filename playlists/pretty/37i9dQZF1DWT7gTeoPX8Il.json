@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 123146,
+  "num_followers": 123170,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
-      },
-      "artists": [
-        {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
-        }
-      ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 257531,
       "name": "Kisah Tanpa Dirimu",
       "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+      },
+      "artists": [
+        {
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+        }
+      ],
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Jiwa Yang Bersedih",
-        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
-      },
-      "artists": [
-        {
-          "name": "Ghea Indrawari",
-          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
-        }
-      ],
-      "duration_ms": 278219,
-      "name": "Jiwa Yang Bersedih",
-      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/7GfylFxRPXIGHwKZTPlURg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 233351,
       "name": "Bawalah Cintaku",
       "url": "https://open.spotify.com/track/3xpMytpniCnjXCgy7TcFDw"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Jiwa Yang Bersedih",
+        "url": "https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL"
+      },
+      "artists": [
+        {
+          "name": "Ghea Indrawari",
+          "url": "https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX"
+        }
+      ],
+      "duration_ms": 278219,
+      "name": "Jiwa Yang Bersedih",
+      "url": "https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0"
     },
     {
       "added_at": "2024-07-25 17:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-25 17:00:00",
       "album": {
-        "name": "Naluri Lelaki (Special Edition)",
-        "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
-      },
-      "artists": [
-        {
-          "name": "SAMSONS",
-          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Kenangan Terindah",
-      "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
-    },
-    {
-      "added_at": "2024-07-25 17:00:00",
-      "album": {
         "name": "Setengah Mati Merindu",
         "url": "https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 242640,
       "name": "Aku Yang Tersakiti",
       "url": "https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m"
+    },
+    {
+      "added_at": "2024-07-25 17:00:00",
+      "album": {
+        "name": "Naluri Lelaki (Special Edition)",
+        "url": "https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7"
+      },
+      "artists": [
+        {
+          "name": "SAMSONS",
+          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Kenangan Terindah",
+      "url": "https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0"
     },
     {
       "added_at": "2024-07-25 17:00:00",

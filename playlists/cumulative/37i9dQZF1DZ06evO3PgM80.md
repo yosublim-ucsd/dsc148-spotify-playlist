@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-50 songs - 4 hr 46 min
+51 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\) \[Live\]](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 | 2023-07-09 |  |
 | [Santo Aleluia / Holy Hallelujah \- Live](https://open.spotify.com/track/2sUqTxB22HkNZgbdkD9M78) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Mark Alan Schoolmeesters](https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [REVERE: Unscripted Portuguese](https://open.spotify.com/album/41kS6H8A18CIWT5DaYsLlu) | 7:19 | 2024-08-07 |  |
 | [Se Tenho Cristo / O Bondoso Amigo \- Ao Vivo](https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Se Tenho Cristo / O Bondoso Amigo \(Ao Vivo\)](https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz) | 7:18 | 2023-07-09 |  |
+| [Sem Palavras](https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Sem Palavras](https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa) | 3:55 | 2024-08-17 |  |
 | [Som das Águas \- Acústico](https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Som das Águas \(Acústico\)](https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB) | 3:45 | 2023-07-09 |  |
 | [Sou Humano \(Ao Vivo\)](https://open.spotify.com/track/3Nncb8DnbdvGvfHoT6FejH) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bruna Karla \- Louvorzão 2022 \(Ao Vivo\)](https://open.spotify.com/album/165BlFcLxau1hJTHHxHc1S) | 5:30 | 2023-07-09 |  |
 | [Tu és Bom](https://open.spotify.com/track/4n5XNuCNdlv1olMLYDwpcn) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu és Bom](https://open.spotify.com/album/5Iiv24LKFHRT0oeHGNGRcV) | 3:22 | 2023-07-09 |  |

@@ -1707,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "I Want To Know What Love Is",
+        "url": "https://open.spotify.com/album/1IcD6YtmkSavyvatxFxnax"
+      },
+      "artists": [
+        {
+          "name": "Rock Me Classical",
+          "url": "https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj"
+        },
+        {
+          "name": "David Davidson",
+          "url": "https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217168,
+      "name": "I Want To Know What Love Is",
+      "url": "https://open.spotify.com/track/48NJRzCcD6t3d65nOJcrhg"
+    },
+    {
+      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },

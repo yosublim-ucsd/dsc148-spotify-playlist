@@ -1,12 +1,12 @@
 {
-  "description": "This is The O'Jays. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 31612,
+  "description": "This is The O'Jays. The essential tracks, all in one playlist.",
+  "num_followers": 31619,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABch2zkpcCFCc69vD/xomkp",
+  "snapshot_id": "Zr1FAAAAAAAdXayw4UA9Q4vSuSmHxG+b",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 286240,
-      "name": "Cause I Want You Back Again",
-      "url": "https://open.spotify.com/track/4iTZ9oHsZkErLDjmSiSymH"
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+      "duration_ms": 286240,
+      "name": "Cause I Want You Back Again",
+      "url": "https://open.spotify.com/track/4iTZ9oHsZkErLDjmSiSymH"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 406506,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250800,
       "name": "Give the People What They Want",
       "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 406506,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
     },
     {
       "added_at": null,
@@ -667,18 +667,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "The Essential MFSB",
+        "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
       },
       "artists": [
         {
+          "name": "The Philadelphia International All-Stars",
+          "url": "https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX"
+        },
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Archie Bell",
+          "url": "https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
           "name": "The O'Jays",
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        },
+        {
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
         }
       ],
-      "duration_ms": 311106,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6"
+      "duration_ms": 519906,
+      "name": "Let's Clean Up the Ghetto - 12\" Version",
+      "url": "https://open.spotify.com/track/6kjxpTGe8HRD3TUJBqNEUK"
     },
     {
       "added_at": null,
@@ -731,42 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential MFSB",
-        "url": "https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C"
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
-          "name": "The Philadelphia International All-Stars",
-          "url": "https://open.spotify.com/artist/65LAAoHRaxtbWobjZdZOuX"
-        },
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Archie Bell",
-          "url": "https://open.spotify.com/artist/7f3BKwnwO2xv3zxosgVHvW"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
           "name": "The O'Jays",
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        },
-        {
-          "name": "Dee Dee Sharp Gamble",
-          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
         }
       ],
-      "duration_ms": 519906,
-      "name": "Let's Clean Up the Ghetto - 12\" Version",
-      "url": "https://open.spotify.com/track/6kjxpTGe8HRD3TUJBqNEUK"
+      "duration_ms": 311106,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/2YswUTbozv3CfQfBV8p7L6"
     },
     {
       "added_at": null,

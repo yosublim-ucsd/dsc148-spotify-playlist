@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,942 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,945 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 59 | [Gummie](https://open.spotify.com/track/2VS4DvkyetQCSnfMXHBASG) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Gummie](https://open.spotify.com/album/53w2aqJQv74dnJ0ogfTN5U) | 2:54 |
 | 60 | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/track/237JPwIrEEFCC9IWgzHxsm) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [KEEP WISHING \(feat\. 2Rare\)](https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA) | 2:36 |
 | 61 | [4AM](https://open.spotify.com/track/12Z3KFQ1OVp732J0xdZpCM) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [Jaye EL](https://open.spotify.com/artist/2TkvSdhtw1VYkBTnZMiDqz) | [4AM](https://open.spotify.com/album/06JTrhAWJhBVIOi8pztqz7) | 1:54 |
-| 62 | [Jersey Club Movie](https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Jersey Club Movie](https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN) | 1:37 |
-| 63 | [All In My Head](https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [All In My Head](https://open.spotify.com/album/4BLSfmhCOxS2VVSQ7tPaBV) | 2:14 |
+| 62 | [All In My Head](https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [All In My Head](https://open.spotify.com/album/4BLSfmhCOxS2VVSQ7tPaBV) | 2:14 |
+| 63 | [Jersey Club Movie](https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Jersey Club Movie](https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN) | 1:37 |
 | 64 | [Love You](https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv) | [Curly J](https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl) | [Love You](https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn) | 2:26 |
 | 65 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 |
 | 66 | [Ride](https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Bluxz](https://open.spotify.com/artist/1r8Auc1h8ytYw3hYKnJ33a), [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT), [Marriott](https://open.spotify.com/artist/3sotQBK04iF2DkV7DfQ1Vs), [LolaBunz](https://open.spotify.com/artist/72yhrvuYx4imB6MXUOsjNa) | [Ride](https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv) | 2:39 |

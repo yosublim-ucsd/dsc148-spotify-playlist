@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 425149,
+  "num_followers": 425265,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "land in sight",
-        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "land in sight",
-      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Elegie",
         "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 169349,
       "name": "Elegie",
       "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "land in sight",
+        "url": "https://open.spotify.com/album/7dQdi50AllPuXNApQHQit3"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "land in sight",
+      "url": "https://open.spotify.com/track/7MDbt6zQQu37YFeVcOpb4U"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Muse Of History",
-        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
-      },
-      "artists": [
-        {
-          "name": "Roland Toubin",
-          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
-        }
-      ],
-      "duration_ms": 141814,
-      "name": "Muse Of History",
-      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "A Safe Space",
         "url": "https://open.spotify.com/album/5IcBkn9y7e0jDlKtf9NhwU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 148299,
       "name": "A Safe Space",
       "url": "https://open.spotify.com/track/3wchWA4OaMulFCpmmLmog1"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Muse Of History",
+        "url": "https://open.spotify.com/album/0dpm4TLGvkEc6mawTDNNCi"
+      },
+      "artists": [
+        {
+          "name": "Roland Toubin",
+          "url": "https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob"
+        }
+      ],
+      "duration_ms": 141814,
+      "name": "Muse Of History",
+      "url": "https://open.spotify.com/track/5JVDIP9IBy6DJB6SVFTX5T"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
+        "name": "To Bring Rest",
+        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "duration_ms": 137749,
+      "name": "To Bring Rest",
+      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
         "name": "Countryside Mansion",
         "url": "https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 140124,
       "name": "Fiume",
       "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
-        "name": "To Bring Rest",
-        "url": "https://open.spotify.com/album/5I39qlWLBneQuXzKaJcTh5"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Austin",
-          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
-        }
-      ],
-      "duration_ms": 137749,
-      "name": "To Bring Rest",
-      "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Serene",
-        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
-      },
-      "artists": [
-        {
-          "name": "Will Kaufman",
-          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
-        }
-      ],
-      "duration_ms": 146745,
-      "name": "Serene",
-      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Lisser",
         "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 125041,
       "name": "Lisser",
       "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Serene",
+        "url": "https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov"
+      },
+      "artists": [
+        {
+          "name": "Will Kaufman",
+          "url": "https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU"
+        }
+      ],
+      "duration_ms": 146745,
+      "name": "Serene",
+      "url": "https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Silent joy",
-        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
-      },
-      "artists": [
-        {
-          "name": "Lester Dann",
-          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Silent joy",
-      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Silent joy",
+        "url": "https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Silent joy",
+      "url": "https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Peace flow",
-        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
-      },
-      "artists": [
-        {
-          "name": "Jon Albreit",
-          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
-        }
-      ],
-      "duration_ms": 137692,
-      "name": "Peace flow",
-      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Calm Wind",
         "url": "https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 140102,
       "name": "Calm Wind",
       "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Peace flow",
+        "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
+      },
+      "artists": [
+        {
+          "name": "Jon Albreit",
+          "url": "https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc"
+        }
+      ],
+      "duration_ms": 137692,
+      "name": "Peace flow",
+      "url": "https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Chanson d\u2019\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
-      },
-      "artists": [
-        {
-          "name": "Moleno",
-          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "Chanson d\u2019\u00e9t\u00e9",
-      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Chanson d\u2019\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/6W10RqqqFGO3OCCR6q4pvp"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "Chanson d\u2019\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/6SMHndqVp9ZdGmvzQu23ob"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Valse Naturelle",
-        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
-      },
-      "artists": [
-        {
-          "name": "Etienne Balestre",
-          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
-        }
-      ],
-      "duration_ms": 139624,
-      "name": "Valse Naturelle",
-      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Muse",
         "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 133375,
       "name": "Muse",
       "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Valse Naturelle",
+        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "duration_ms": 139624,
+      "name": "Valse Naturelle",
+      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Beauty",
-        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
       },
       "artists": [
         {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Beauty",
-      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
       "artists": [
         {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
         }
       ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "To New Beginnings",
-        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
-      },
-      "artists": [
-        {
-          "name": "Una Luna",
-          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
-        }
-      ],
-      "duration_ms": 129250,
-      "name": "To New Beginnings",
-      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Songs Of Sundown",
         "url": "https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 140625,
       "name": "One More Story",
       "url": "https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "To New Beginnings",
+        "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
+      },
+      "artists": [
+        {
+          "name": "Una Luna",
+          "url": "https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "To New Beginnings",
+      "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
-      },
-      "artists": [
-        {
-          "name": "Taganema",
-          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
-        }
-      ],
-      "duration_ms": 145529,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 159000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/2UkFNg59LzKPIrdlEWgZGq"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "duration_ms": 145529,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5cm73dj9ydNYALjjUOVPhu"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
-      },
-      "artists": [
-        {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
-        }
-      ],
-      "duration_ms": 142763,
-      "name": "Full Bloom",
-      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Eclipsis",
         "url": "https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 146079,
       "name": "Eclipsis",
       "url": "https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT"
+      },
+      "artists": [
+        {
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+        }
+      ],
+      "duration_ms": 142763,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI"
     }
   ],
   "unique_name": "Coffee and Piano",

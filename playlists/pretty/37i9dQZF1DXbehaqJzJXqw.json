@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 450101,
+  "num_followers": 450451,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Lettre A P",
-      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 143760,
       "name": "Tout Doucement",
       "url": "https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Lettre A P",
+      "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -607,22 +607,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+        "name": "J'ai Deux Amours",
+        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
       "artists": [
         {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
         }
       ],
-      "duration_ms": 203160,
-      "name": "Un jour de diff\u00e9rence",
-      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
+      "duration_ms": 201013,
+      "name": "De Temps en Temps",
+      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -639,22 +635,6 @@
       "duration_ms": 170186,
       "name": "Samba Saravah",
       "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "J'ai Deux Amours",
-        "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 201013,
-      "name": "De Temps en Temps",
-      "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -707,18 +687,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Little French Songs (Deluxe Version Without Videos)",
-        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
         }
       ],
-      "duration_ms": 216282,
-      "name": "Libert\u00e9",
-      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
+      "duration_ms": 203160,
+      "name": "Un jour de diff\u00e9rence",
+      "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -735,6 +719,22 @@
       "duration_ms": 150760,
       "name": "Il Faut Du Temps Au Temps",
       "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Little French Songs (Deluxe Version Without Videos)",
+        "url": "https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 216282,
+      "name": "Libert\u00e9",
+      "url": "https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Nord Destin",
-        "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
-      },
-      "artists": [
-        {
-          "name": "Nicola S\u00f3n",
-          "url": "https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM"
-        },
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 247292,
-      "name": "Je voudrais me divertir",
-      "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Le monde de la chanson, Vol. 27: Charles Aznavour, Vol. 2 \"O toi la vie!\"",
         "url": "https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 219204,
       "name": "Tu t'laissez aller",
       "url": "https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Nord Destin",
+        "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
+      },
+      "artists": [
+        {
+          "name": "Nicola S\u00f3n",
+          "url": "https://open.spotify.com/artist/7bdsnZAVc7rztEpxfr7kCM"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 247292,
+      "name": "Je voudrais me divertir",
+      "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
     },
     {
       "added_at": "2024-06-03 11:39:48",

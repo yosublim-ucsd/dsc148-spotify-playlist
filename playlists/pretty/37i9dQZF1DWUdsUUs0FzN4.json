@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 19018,
+  "num_followers": 19016,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "YO KIERO",
         "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 152021,
       "name": "YO KIERO",
       "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1743,30 +1743,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Tiki",
-        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
         },
         {
-          "name": "Gitana",
-          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         },
         {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
         }
       ],
-      "duration_ms": 189613,
-      "name": "Tiki",
-      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1795,26 +1791,30 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "DDD (Don Dimadon)",
-        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
+        "name": "Tiki",
+        "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
       "artists": [
         {
-          "name": "TUNDER",
-          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+          "name": "Gitana",
+          "url": "https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B"
         },
         {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
         }
       ],
-      "duration_ms": 185281,
-      "name": "DDD (Don Dimadon)",
-      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
+      "duration_ms": 189613,
+      "name": "Tiki",
+      "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "AJUAAA",
         "url": "https://open.spotify.com/album/13ZWrnebRAxaUxdgAjSx37"
       },
@@ -1955,42 +1975,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Apoco S\u00ed? Apoco No?",
-        "url": "https://open.spotify.com/album/3RTgaizHJbLJe9QjhiXFSz"
+        "name": "El Bellako",
+        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
       },
       "artists": [
         {
-          "name": "Matt Vargas",
-          "url": "https://open.spotify.com/artist/4UjXGM1HMpliImxMOdiiTz"
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
         },
-        {
-          "name": "ROBB",
-          "url": "https://open.spotify.com/artist/4NlZDhZLSPt0Zeas8qWxFv"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "Apoco S\u00ed? Apoco No?",
-      "url": "https://open.spotify.com/track/1W7kHVY04qM85phdznBiJN"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
-      },
-      "artists": [
         {
           "name": "El Malilla",
           "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
+      "duration_ms": 189473,
+      "name": "A la pared",
+      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -2015,22 +2015,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "El Bellako",
-        "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
+        "name": "Apoco S\u00ed? Apoco No?",
+        "url": "https://open.spotify.com/album/3RTgaizHJbLJe9QjhiXFSz"
       },
       "artists": [
         {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+          "name": "Matt Vargas",
+          "url": "https://open.spotify.com/artist/4UjXGM1HMpliImxMOdiiTz"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "ROBB",
+          "url": "https://open.spotify.com/artist/4NlZDhZLSPt0Zeas8qWxFv"
         }
       ],
-      "duration_ms": 189473,
-      "name": "A la pared",
-      "url": "https://open.spotify.com/track/0RXGUnF9cCVn4w6n9lc6rP"
+      "duration_ms": 152842,
+      "name": "Apoco S\u00ed? Apoco No?",
+      "url": "https://open.spotify.com/track/1W7kHVY04qM85phdznBiJN"
     },
     {
       "added_at": "2024-07-26 06:00:00",

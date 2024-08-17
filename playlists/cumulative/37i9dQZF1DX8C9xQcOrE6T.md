@@ -2,7 +2,7 @@
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including songs from The Lion King.
+> All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
 202 songs - 10 hr 15 min
 

@@ -193,6 +193,32 @@
     },
     {
       "album": {
+        "name": "Danse Macabre",
+        "url": "https://open.spotify.com/album/2hRaFLIC2ge5ZDoThJZaMU"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 710626,
+      "name": "A Night On The Bare Mountain",
+      "url": "https://open.spotify.com/track/7ziy9EUNCwYgXQsqxyW7pb"
+    },
+    {
+      "album": {
         "name": "Barber: Cello Concerto - Medea Suite - Adagio for Strings",
         "url": "https://open.spotify.com/album/683fpZHH6R0BAjSWxc84LH"
       },
@@ -298,6 +324,32 @@
       "duration_ms": 348000,
       "name": "Ballade in A Minor, Op. 33: I. Allegro energico, ma non troppo presto",
       "url": "https://open.spotify.com/track/79JMkFStAafzDBeJif9yZR"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/6exQ9t4jeygG0htgvnHiYs"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "Carmen: Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/2pDJ5SFIaIlpv6KlAfIXgZ"
     },
     {
       "album": {
@@ -574,6 +626,32 @@
       "duration_ms": 134746,
       "name": "Dies Irae",
       "url": "https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx"
+    },
+    {
+      "album": {
+        "name": "Mozart: Don Giovanni - Highlights",
+        "url": "https://open.spotify.com/album/4l4c525waxISrQnd0PAdXD"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372440,
+      "name": "Don Giovanni, K. 527: Overture",
+      "url": "https://open.spotify.com/track/7JINUFIVIptR7hlQYayU3h"
     },
     {
       "album": {
@@ -965,6 +1043,32 @@
     },
     {
       "album": {
+        "name": "Wagner: Preludes & Overtures (Remastered 2024)",
+        "url": "https://open.spotify.com/album/4dll4W2ILtfyqoFWVmcZAA"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "St. Louis Symphony",
+          "url": "https://open.spotify.com/artist/4DBdvdTZBJd45Izgjt9Xlg"
+        },
+        {
+          "name": "Jerzy Semkow",
+          "url": "https://open.spotify.com/artist/1N4mnF6dUnTojr7pN4bQl5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Lohengrin, WWV 75: Prelude to Act III - Remastered 2024",
+      "url": "https://open.spotify.com/track/68rOZW9tDC00UnTK45iaTi"
+    },
+    {
+      "album": {
         "name": "eighth blackbird meanwhile",
         "url": "https://open.spotify.com/album/42LHToYisj1n2ZH1MJFomB"
       },
@@ -1062,7 +1166,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 770520,
       "name": "Night on Bare Mountain",
       "url": "https://open.spotify.com/track/67F2FBLJL9Wn09qvPe6XVa"
@@ -1144,6 +1248,32 @@
       "duration_ms": 263343,
       "name": "One Symphony",
       "url": "https://open.spotify.com/track/3SsepQPdBbByeC2pG4Lguu"
+    },
+    {
+      "album": {
+        "name": "Last Night of the Proms",
+        "url": "https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Philip Ellis",
+          "url": "https://open.spotify.com/artist/6eFKhfcEpptaK2LAxZbB9S"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211453,
+      "name": "Overture, William Tell (Finale)",
+      "url": "https://open.spotify.com/track/3j01GIGm0LYSzbO7X0NfYM"
     },
     {
       "album": {

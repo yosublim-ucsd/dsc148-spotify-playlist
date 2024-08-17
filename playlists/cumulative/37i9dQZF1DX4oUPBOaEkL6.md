@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Ivan Cornejo
+> The hottest Latin hits in the US! Cover: Fuerza Regida
 
 502 songs - 1 day 3 hr 35 min
 

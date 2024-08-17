@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3301,
+  "num_followers": 3302,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAA5ocZW3ObKNc9v5FPT58ty",
+  "snapshot_id": "Zr1FAAAAAAAXOxhXWtZua49Z2I0mz1ph",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 166135,
-      "name": "Arrow Through Me",
-      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Send My Regards",
         "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 247893,
       "name": "Send My Regards",
       "url": "https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 166135,
+      "name": "Arrow Through Me",
+      "url": "https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL"
     },
     {
       "added_at": null,
@@ -819,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Song",
-        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
+        "name": "Inventing The Wheel",
+        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
       },
       "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 286880,
-      "name": "Redemption Ground",
-      "url": "https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf"
+      "duration_ms": 257202,
+      "name": "Inventing The Wheel",
+      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inventing The Wheel",
-        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
+        "name": "Glory Song",
+        "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
       "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 257202,
-      "name": "Inventing The Wheel",
-      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
+      "duration_ms": 286880,
+      "name": "Redemption Ground",
+      "url": "https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

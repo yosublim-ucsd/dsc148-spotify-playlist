@@ -1,12 +1,12 @@
 {
   "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 241575,
+  "num_followers": 241751,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADO2H7ZL27O82v+fHrZ+1qD",
+  "snapshot_id": "Zr1FAAAAAABjkYeJymWtUZiLZTdTbj6v",
   "tracks": [
     {
       "added_at": null,
@@ -286,15 +286,11 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 156834,
-      "name": "El Mikima",
-      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
+      "duration_ms": 142440,
+      "name": "Peca de Bonita",
+      "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
     },
     {
       "added_at": null,
@@ -358,11 +354,15 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 142440,
-      "name": "Peca de Bonita",
-      "url": "https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU"
+      "duration_ms": 156834,
+      "name": "El Mikima",
+      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coraz\u00f3n en Coma",
         "url": "https://open.spotify.com/album/2boFi3yXrsqfBY0vydMx2k"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 172100,
       "name": "Coraz\u00f3n en Coma",
       "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 162832,
+      "name": "B\u00e1jale",
+      "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Del Trigo",
         "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 178864,
       "name": "El Del Trigo",
       "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 162832,
-      "name": "B\u00e1jale",
-      "url": "https://open.spotify.com/track/1LOLsJKiqBjgVg0HWAcfpF"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Invito a Ser Feliz",
+        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 196406,
+      "name": "Te Invito a Ser Feliz",
+      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hay Que Hacer Dinero",
         "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 179130,
       "name": "Hay Que Hacer Dinero",
       "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
     },
     {
       "added_at": null,

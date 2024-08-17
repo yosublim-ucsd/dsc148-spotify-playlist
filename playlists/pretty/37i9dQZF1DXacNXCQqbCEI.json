@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353232,
+  "num_followers": 353244,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Ag\u00fcita del Equilibrio (Remix)",
-        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Juan Campod\u00f3nico",
-          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
-        }
-      ],
-      "duration_ms": 287387,
-      "name": "Ag\u00fcita del Equilibrio - Remix",
-      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Bamb\u00fa",
         "url": "https://open.spotify.com/album/2FEbBYVBtFcznco4yB6hvw"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 246116,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Ag\u00fcita del Equilibrio (Remix)",
+        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Juan Campod\u00f3nico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        }
+      ],
+      "duration_ms": 287387,
+      "name": "Ag\u00fcita del Equilibrio - Remix",
+      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
     },
     {
       "added_at": "2024-07-12 22:50:04",

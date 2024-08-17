@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-387 songs - 19 hr 52 min
+388 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 | 2024-01-17 |  |
 | [Clairvoyance](https://open.spotify.com/track/1ATwyUWpAnvpCGgsSsQ7Ms) | [Folksaga](https://open.spotify.com/artist/3fRnbMogVMgEwoyHPx00nf) | [Clairvoyance](https://open.spotify.com/album/7EZZUbyw3E8fuMC1ubbKwO) | 3:36 | 2024-06-13 |  |
 | [Cloudbed](https://open.spotify.com/track/70mSPwqD1Eomu03nAMA7v6) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Cloudbed](https://open.spotify.com/album/08x5iDmr1p2Zz1BsdS6riL) | 2:43 | 2022-12-09 |  |
-| [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2022-02-01 |  |
+| [Collide](https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Collide](https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx) | 3:13 | 2022-02-01 | 2024-08-17 |
 | [Compassion](https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Compassion](https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E) | 2:24 | 2023-10-13 | 2024-05-23 |
 | [Continuum](https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Continuum](https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu) | 2:45 | 2022-01-12 | 2023-03-15 |
 | [Cool Air](https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl) | [Lily Augustadt](https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6) | [Cool Air](https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA) | 3:06 | 2022-01-12 | 2023-07-29 |
@@ -376,6 +376,7 @@
 | [Vincible](https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT) | [Tech Guru](https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q) | [Vincible](https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD) | 3:32 | 2022-01-12 | 2024-01-22 |
 | [Violet Waves](https://open.spotify.com/track/4hotjR081NpMCwvr6IoYyj) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Violet Waves](https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe) | 3:13 | 2024-01-17 |  |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2022-01-12 | 2023-03-15 |
+| [Way of Being](https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI) | [Mindezer](https://open.spotify.com/artist/7ob7fE7T9MFx8x6YvaxStb) | [Way of Being](https://open.spotify.com/album/3GGYUMMWxWpIFXEcKWkBhI) | 2:52 | 2024-08-14 |  |
 | [We Owe It To Them](https://open.spotify.com/track/7tB2hs6KN8MS664VW6Mdfs) | [Ensemble Cordes De La Mer](https://open.spotify.com/artist/7wSfSAUscNKOm4b1PloAXx) | [We Owe It To Them](https://open.spotify.com/album/2UbINpmfWK3ZiVBkbSyPdQ) | 2:54 | 2022-04-13 | 2023-06-30 |
 | [Well Spent](https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS) | [Asgeir Haugen](https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1) | [Well Spent](https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6) | 2:45 | 2022-01-12 | 2024-02-10 |
 | [What If](https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR) | [Leon Browder](https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH) | [What If](https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq) | 4:00 | 2022-01-12 | 2024-01-18 |

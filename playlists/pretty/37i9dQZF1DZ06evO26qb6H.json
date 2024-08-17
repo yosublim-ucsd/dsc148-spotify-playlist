@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3118,
+  "num_followers": 3119,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAAYM3GAhIyFSAiAAWdi3/oO",
+  "snapshot_id": "Zr1FAAAAAAAzA2/fFn6liysvbr3vj7dq",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "GRoCERIES",
+        "url": "https://open.spotify.com/album/4tvWn8rsp56lzyMKV409Og"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 226845,
+      "name": "GRoCERIES",
+      "url": "https://open.spotify.com/track/0yFvWTLs3iIwDbc91noXGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -371,30 +395,6 @@
       "duration_ms": 231100,
       "name": "Milano Town (with DJ Drama, Shiva & Murda Beatz)",
       "url": "https://open.spotify.com/track/5DQeBcULJsfMgppYOw28Ps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GRoCERIES",
-        "url": "https://open.spotify.com/album/4tvWn8rsp56lzyMKV409Og"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "TisaKorean",
-          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 226845,
-      "name": "GRoCERIES",
-      "url": "https://open.spotify.com/track/0yFvWTLs3iIwDbc91noXGT"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unfuckwitable (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Peezy",
-          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 172623,
-      "name": "Touchdown (feat. Peezy & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -667,26 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+        "name": "Unfuckwitable (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
       "artists": [
         {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        },
+        {
           "name": "Murda Beatz",
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
         }
       ],
-      "duration_ms": 170523,
-      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
+      "duration_ms": 172623,
+      "name": "Touchdown (feat. Peezy & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
     },
     {
       "added_at": null,
@@ -711,6 +687,30 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     },
     {
       "added_at": null,
@@ -787,6 +787,26 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs"
     }
   ],
   "unique_name": "This Is Murda Beatz",

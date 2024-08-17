@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: DETO BLACK &  SadBoi
+> That's that big energy\. Cover: DijahSB
 
-365 songs - 18 hr 0 min
+366 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [24FRAMES](https://open.spotify.com/track/59MZLqS2vl8qxz11Kr5pM6) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [24FRAMES](https://open.spotify.com/album/3vaD5HroJk3hvTQOR3rIeo) | 2:08 | 2024-02-09 | 2024-04-27 |
 | [2Humpy is Back](https://open.spotify.com/track/73harPbJ88fXniW9uHIYMc) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [2Humpy is Back](https://open.spotify.com/album/7MhYVTaSPS0RTKWansikxZ) | 1:54 | 2024-04-05 | 2024-05-11 |
 | [3/4 to Finish Line](https://open.spotify.com/track/4M1GIUpDNMG1R2bizEKixS) | [Kwame Adu](https://open.spotify.com/artist/2KBmdjkaTCYqcluadZndpV), [DREE](https://open.spotify.com/artist/7069NsIQwT8SEfQibIr0Ay) | [3/4 to Finish Line](https://open.spotify.com/album/5mtiI0bFfz87b7CWAfiBeR) | 2:26 | 2024-02-23 | 2024-03-23 |
-| [405](https://open.spotify.com/track/0CRTi3RDk5Aqk3nkGbB97M) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [405](https://open.spotify.com/album/2kyxaYdrzXy8jtAyLWjTPU) | 3:39 | 2024-05-24 |  |
+| [405](https://open.spotify.com/track/0CRTi3RDk5Aqk3nkGbB97M) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [405](https://open.spotify.com/album/2kyxaYdrzXy8jtAyLWjTPU) | 3:39 | 2024-05-24 | 2024-08-17 |
 | [4eva](https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj) | [4eva](https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8) | 2:20 | 2024-02-09 | 2024-03-09 |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-03-15 | 2024-07-27 |
 | [A7X](https://open.spotify.com/track/7fywVRxevIbDGLWeNEz77I) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [A7X](https://open.spotify.com/album/0IsfDSHweRg9g6AsZYhjFW) | 2:31 | 2024-07-12 |  |
@@ -196,6 +196,7 @@
 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 | 2023-08-18 | 2023-09-09 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-08-25 | 2024-02-10 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-08-18 |  |
+| [LIVE](https://open.spotify.com/track/67azexYEXRdBvNnkAZuZY1) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [LIVE](https://open.spotify.com/album/34fhH2JfUYk74ygiMc3plp) | 2:06 | 2024-08-16 |  |
 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-08-18 | 2023-09-30 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-08-18 | 2023-09-30 |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/0f6V5OeM1gu6gAt77nfMqk) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/album/2eWGZxSgyBoixLT4t76AXI) | 3:13 | 2023-08-18 | 2023-09-02 |

@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 43653,
+  "num_followers": 43670,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Soundamerica",
-        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 315933,
-      "name": "An\u00f3nimos (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
+      "duration_ms": 211974,
+      "name": "Una Cumbia Triste",
+      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -395,18 +391,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+        "name": "Soundamerica",
+        "url": "https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 211974,
-      "name": "Una Cumbia Triste",
-      "url": "https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx"
+      "duration_ms": 315933,
+      "name": "An\u00f3nimos (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd"
     },
     {
       "added_at": "2024-06-12 21:02:48",

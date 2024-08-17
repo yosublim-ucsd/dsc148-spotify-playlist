@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153687,
       "name": "#RUready4the<4",
       "url": "https://open.spotify.com/track/5Wqay462LDXGwK7OGwHW4y"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160624,
       "name": "AMERICAN DREAM",
       "url": "https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z"
@@ -10094,7 +10094,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165000,
       "name": "don't.get.hit",
       "url": "https://open.spotify.com/track/048uebVWRxHb2j05rombOn"
@@ -12192,7 +12192,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 134769,
       "name": "fangs.",
       "url": "https://open.spotify.com/track/5sHE3crofShtlPonTGTdBL"
@@ -13992,7 +13992,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -17032,7 +17032,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 176296,
       "name": "Hitty",
       "url": "https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1"
@@ -18126,7 +18126,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 130440,
       "name": "i dont even own prada shoes lol",
       "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
@@ -21148,7 +21148,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168275,
       "name": "Knock Yourself Out XD",
       "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
@@ -26181,6 +26181,28 @@
     },
     {
       "album": {
+        "name": "Not In Your Nature",
+        "url": "https://open.spotify.com/album/59MLyNyQuok3MrpLtMQxmn"
+      },
+      "artists": [
+        {
+          "name": "purpl",
+          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188206,
+      "name": "Not In Your Nature",
+      "url": "https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS"
+    },
+    {
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
         "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },
@@ -30956,7 +30978,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 144135,
       "name": "riddle",
       "url": "https://open.spotify.com/track/6rTyxMcBKW7TzBZvzrgqgb"
@@ -31240,6 +31262,24 @@
       "duration_ms": 136000,
       "name": "Roses",
       "url": "https://open.spotify.com/track/4Nw0h4CF8FbmBGv0jxKZDO"
+    },
+    {
+      "album": {
+        "name": "rotation",
+        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "rotation",
+      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
     },
     {
       "album": {
@@ -32693,6 +32733,28 @@
     },
     {
       "album": {
+        "name": "Shake It Like A (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/3cQBYLjNbuCMHBpiWTwIar"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197765,
+      "name": "Shake It Like A (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
+    },
+    {
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/6fO4Vk4VasFr0T7T0ioiOJ"
       },
@@ -33597,6 +33659,24 @@
     },
     {
       "album": {
+        "name": "SINGLE*",
+        "url": "https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114339,
+      "name": "SINGLE*",
+      "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
+    },
+    {
+      "album": {
         "name": "sink",
         "url": "https://open.spotify.com/album/2Vj2TUjMOqVpbieeKGD2v9"
       },
@@ -33972,7 +34052,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 128000,
       "name": "Sneg",
       "url": "https://open.spotify.com/track/4vqx495fqoZcqo7iuXNSMF"
@@ -34490,7 +34570,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 234804,
       "name": "Soulbreaker",
       "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
@@ -34861,6 +34941,24 @@
     },
     {
       "album": {
+        "name": "Notes To Self",
+        "url": "https://open.spotify.com/album/2kvu7ItaqbEGRjczYjmd0b"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151440,
+      "name": "Stalk Me 151 To 170",
+      "url": "https://open.spotify.com/track/612fIqLqyNA3HcRjZedJM0"
+    },
+    {
+      "album": {
         "name": "stalker",
         "url": "https://open.spotify.com/album/2GHxpHcFmNBCaWAux1wU6k"
       },
@@ -35212,6 +35310,28 @@
       "duration_ms": 145968,
       "name": "stole my heart",
       "url": "https://open.spotify.com/track/13QP4bVJSFuNAgNwWhTYGt"
+    },
+    {
+      "album": {
+        "name": "Stolen - Namasenda Remix",
+        "url": "https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168506,
+      "name": "Stolen - Namasenda Remix",
+      "url": "https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS"
     },
     {
       "album": {
@@ -36512,6 +36632,24 @@
       "duration_ms": 282173,
       "name": "Tambaleo - Machine Girl Remix",
       "url": "https://open.spotify.com/track/3nWpmZtPeb6qqi03YcuDE6"
+    },
+    {
+      "album": {
+        "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+        "url": "https://open.spotify.com/album/1cWKLjrR7KbXulcyJGRW4A"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175595,
+      "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+      "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
     },
     {
       "album": {
@@ -41686,7 +41824,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 224000,
       "name": "yellow patches",
       "url": "https://open.spotify.com/track/6yHdpcPQnbjagFjz8wVTYq"

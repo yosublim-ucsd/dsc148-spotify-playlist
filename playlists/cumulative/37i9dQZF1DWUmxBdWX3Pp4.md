@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Miky Woodz.
 
-459 songs - 1 day 1 hr 56 min
+460 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [JS4E](https://open.spotify.com/track/5iaFGC7XdmWmfwxV9JUPY6) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [JS4E](https://open.spotify.com/album/1SKRBnPekNhaxB503BgR8U) | 3:57 | 2022-11-25 | 2024-06-22 |
 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 | 2021-12-06 | 2024-07-27 |
 | [Kevin, Hugo & Jorge](https://open.spotify.com/track/5lSPB2m4NobXOZBXDzWvVR) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [LOS MUCHACHOS](https://open.spotify.com/artist/7AlvzeMX0in2j3k0fBx7fi) | [Kevin, Hugo & Jorge](https://open.spotify.com/album/6vYsEJMHyhDGWLsCFB66w3) | 2:26 | 2022-04-01 | 2022-06-04 |
-| [KILOS X UBER](https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/4V7yeTOk6zFYJ7hRQs9kO6) | 4:36 | 2024-03-01 |  |
+| [KILOS X UBER](https://open.spotify.com/track/0dx8TkOBF1CXjYXveEve77) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/4V7yeTOk6zFYJ7hRQs9kO6) | 4:36 | 2024-03-01 | 2024-08-17 |
 | [KILOS X UBER](https://open.spotify.com/track/4tfe2AWDf1Bv0ifmAMTpT4) | [DNA](https://open.spotify.com/artist/175jl4E6s8nBYSEaQyEhS0), [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yanzee](https://open.spotify.com/artist/6CzsnF5NFkzdu4ZlAkgo6y) | [KILOS X UBER](https://open.spotify.com/album/2filrdFUbs26BaTbbdu7xl) | 4:36 | 2024-03-29 | 2024-04-19 |
 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 | 2021-12-06 |  |
 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 | 2022-12-02 | 2024-04-19 |
@@ -372,6 +372,7 @@
 | [Riri](https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7) | 2:14 | 2023-02-10 |  |
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-08-05 | 2022-11-17 |
 | [ROBERT DE NIRO](https://open.spotify.com/track/3cR23eAZcjukbKtb9knlL4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-04 | 2022-04-16 |
+| [Rock and Roll](https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Rock and Roll](https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2) | 3:54 | 2024-08-16 |  |
 | [Rockstar](https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Rockstar](https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb) | 1:52 | 2022-06-03 |  |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-23 |  |
 | [Rodman HP](https://open.spotify.com/track/2mzUys0bUxgram7mH524tV) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Rodman](https://open.spotify.com/artist/6xyUPW9j7cqYqm0yJHInXa) | [Rodman HP](https://open.spotify.com/album/0jP8mLsCL3v81Qsgwo5loq) | 1:58 | 2024-04-26 | 2024-06-29 |

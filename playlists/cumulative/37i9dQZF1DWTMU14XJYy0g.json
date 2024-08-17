@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 251843,
       "name": "Buen Recuerdo",
       "url": "https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 258765,
       "name": "San Saltar\u00edn",
       "url": "https://open.spotify.com/track/2hEAq79PQKziZiioLv4Xrk"
@@ -5122,6 +5122,28 @@
       "duration_ms": 200624,
       "name": "Trinchera",
       "url": "https://open.spotify.com/track/5gGQIro4l0L55dfk85WxUP"
+    },
+    {
+      "album": {
+        "name": "Parad\u00f3jico",
+        "url": "https://open.spotify.com/album/6CTGtVDOt5f5u6sV37qK4B"
+      },
+      "artists": [
+        {
+          "name": "Andando Descalzo",
+          "url": "https://open.spotify.com/artist/6NHW6BsssESLzyucE7DFId"
+        },
+        {
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "Tu buen amor",
+      "url": "https://open.spotify.com/track/30vfQShBGylqKudc19bfbP"
     },
     {
       "album": {

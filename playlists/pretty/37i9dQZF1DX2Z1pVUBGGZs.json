@@ -1,12 +1,12 @@
 {
   "description": "a playlist without boundaries, featuring bradley simpson  \u2601\ufe0f  art: @doolittleillustrations",
-  "num_followers": 284445,
+  "num_followers": 284411,
   "original_name": "Our Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6IcAAAAAApNElBQUgQYxnr89rpCj4k",
+  "snapshot_id": "Zr9mKAAAAAA/ivn3jIWps5uyNq1CP3BU",
   "tracks": [
     {
       "added_at": "2024-08-15 23:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 142906,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/7GldSXuo3pxP6GC7Et7bdw"
+    },
+    {
+      "added_at": "2024-08-16 14:46:00",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 144630,
       "name": "nothings changed (!)",
       "url": "https://open.spotify.com/track/4Lq6T5Hmn9lrRPVUoRjNE4"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
-        "name": "BAD 4 MY HEALTH",
-        "url": "https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 126756,
-      "name": "BAD 4 MY HEALTH",
-      "url": "https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh"
     }
   ],
   "unique_name": "Our Generation",

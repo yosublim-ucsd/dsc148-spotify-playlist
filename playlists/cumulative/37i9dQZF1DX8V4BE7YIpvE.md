@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-88 songs - 4 hr 33 min
+89 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 | 2024-06-06 |  |
 | [Happy Days](https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Happy Days](https://open.spotify.com/album/16uHtWmXhndf4gMHAJQjtH) | 2:46 | 2024-06-06 |  |
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 |  |
+| [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 | 2024-08-16 |  |
 | [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
 | [Interference](https://open.spotify.com/track/1ujDKIyb8DvN7bzY6dQm9m) | [Faulty Lights](https://open.spotify.com/artist/5YLg2WIm6xedzi2tUGOSU6), [Mezhdunami](https://open.spotify.com/artist/5lnkuYjOkuB93OzYdbkDkw) | [Interference](https://open.spotify.com/album/3tmGHT5YWB8YfwjIIOa2M1) | 2:50 | 2024-06-06 | 2024-07-17 |
 | [Journey](https://open.spotify.com/track/0sDCjLC2wBdSMatsDA4zje) | [Neon Crash](https://open.spotify.com/artist/1KM1XGkE2aOq0EC3irL81F) | [Journey](https://open.spotify.com/album/0pvlGEZl3xnbZRHnFRPVGF) | 2:40 | 2024-06-06 |  |

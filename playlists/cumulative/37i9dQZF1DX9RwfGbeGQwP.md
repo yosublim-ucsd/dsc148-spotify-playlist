@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,430 songs - 2 day 5 hr 52 min
+1,431 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -908,6 +908,7 @@
 | [One For Billy](https://open.spotify.com/track/6KBahiIEG8pFPfeKviTKd8) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [One For Billy](https://open.spotify.com/album/1gmQOg50fPPK31vqwO5FHj) | 2:13 | 2022-12-09 | 2023-10-06 |
 | [One Hitter](https://open.spotify.com/track/6bQFatbO5hWuTfPwCporLP) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [One Hitter](https://open.spotify.com/album/6cFyRro9dyP6M1aR9CfDlN) | 2:32 | 2022-04-15 | 2022-11-12 |
 | [One Note Funk](https://open.spotify.com/track/1V6buaeWQxZf2Zutvnu7yx) | [Elisey](https://open.spotify.com/artist/5NNybcZtlWcExyH7LuIofh) | [Square Pusher](https://open.spotify.com/album/2RgnsphCZkHmIpZCyytiaL) | 1:49 | 2022-01-27 | 2022-05-20 |
+| [one scoop](https://open.spotify.com/track/5CxJXEXTkcwg3E7kvEttUy) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [one scoop](https://open.spotify.com/album/68pQ1LgrAF5lv10WIkiMDu) | 2:15 | 2024-08-09 |  |
 | [One Sunny Day](https://open.spotify.com/track/2NbT6GqqH6x3YW0IrKz60t) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Daniel Mayer](https://open.spotify.com/artist/4WghUXiYqQQdd0yl8VoHL5) | [Apeirogon](https://open.spotify.com/album/3T9Tz6Bt3HAe9e5hQfR9H7) | 1:54 | 2022-09-09 | 2023-08-04 |
 | [One too many late nights](https://open.spotify.com/track/753Ak5oEfRel8jwvod79vw) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [One too many late nights](https://open.spotify.com/album/1llAw073zzOKIzdYBFi4cR) | 2:11 | 2022-11-25 | 2023-09-05 |
 | [one2three](https://open.spotify.com/track/7zxIRw4TVVsPZbXPhDgDKG) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [one2three](https://open.spotify.com/album/3W4yhuNaKblhgPwcDKlBJV) | 2:24 | 2024-07-12 | 2024-08-10 |
@@ -1061,7 +1062,7 @@
 | [satisfying piece of music](https://open.spotify.com/track/2X6sK7eY9UBuY6ZIUIn1fI) | [Nel Gabriel](https://open.spotify.com/artist/2onT71Iu0BI68iR5gLayrZ), [Tsunami Sounds](https://open.spotify.com/artist/5eMAlyu2Se9eG19S7fg4y6) | [satisfying piece of music](https://open.spotify.com/album/0avjV2k3kz7aJlw2Ix3Qdw) | 2:51 | 2022-08-19 | 2023-01-07 |
 | [Saturday Breezy](https://open.spotify.com/track/37Mcxao2vhMIIw5OxFwaiT) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [Saturday Breezy](https://open.spotify.com/album/0zW30BKgdLc0rxp7EkpSoE) | 2:12 | 2022-07-01 |  |
 | [Saturday Morning Rain](https://open.spotify.com/track/28JFjvMQvokJsMdmBAzttE) | [Tempelhof Sayonara](https://open.spotify.com/artist/2PTjVOmUzd0987OTsTYpld) | [Saturday Morning Rain](https://open.spotify.com/album/3noi1QWebW9jiydrtjKB6E) | 2:12 | 2022-09-30 | 2024-05-19 |
-| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 |  |
+| [SAUCE](https://open.spotify.com/track/0IzVp8xwpqs7uODn4LPSEF) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [SAUCE](https://open.spotify.com/album/61yAYyw5FZuLIxedjHkMm6) | 1:59 | 2023-02-07 | 2024-08-17 |
 | [Say Nothing](https://open.spotify.com/track/4g4FFVWwDoPfHrVFJrpmxe) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Say Nothing](https://open.spotify.com/album/3naAnnLy38EzcEbRk7UZDy) | 2:37 | 2022-12-09 | 2023-08-04 |
 | [Scarlet Sky](https://open.spotify.com/track/5Dion2EQOW0TAUOBpQpZrz) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Scarlet Sky](https://open.spotify.com/album/3FDppEDVawmY49DG2Kf8tz) | 2:29 | 2022-01-27 | 2022-07-15 |
 | [Scientific Magic](https://open.spotify.com/track/1YCfWvnF8t7yubtjAdO7LN) | [Timothy Powers](https://open.spotify.com/artist/3Zt1mZTzihdGr3cBFmKJDB) | [Scientific Magic](https://open.spotify.com/album/69lV3WzDlD1SOc7BGK0lvr) | 2:20 | 2022-08-05 |  |

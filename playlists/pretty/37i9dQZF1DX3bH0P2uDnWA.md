@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,319 likes - 150 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,334 likes - 150 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunny](https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k) | [Intended Immigration](https://open.spotify.com/artist/23iCcwVwjt6qnqCP6GgmYg) | [Sunny](https://open.spotify.com/album/7kptn65vyNf42rqKfTZJWL) | 2:58 |
 | 2 | [We No Speak Americano](https://open.spotify.com/track/0keGXgSlCZfT0MOfJlka55) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [We No Speak Americano](https://open.spotify.com/album/5nmUGxAnJry6Zz7A0R4QJu) | 2:25 |
-| 3 | [The Istrian Job](https://open.spotify.com/track/1gaiAr6VmelPRGY4uFrbLk) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Teo Collori in Momento Cigano](https://open.spotify.com/artist/48cneGFVFRk062PwTL22iH) | [The Istrian Job](https://open.spotify.com/album/5gswEdrxMo8lMzn2OxyXRn) | 3:00 |
-| 4 | [I Wanna MMM \- Electro Swing Bot Version](https://open.spotify.com/track/3YGGpRjcF18lLfcHS7Txxr) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [I Wanna MMM \(Electro Swing Bot Version\)](https://open.spotify.com/album/7xw2GLL7luPGeWmfc1ctQj) | 3:43 |
-| 5 | [Smoke Rings \- Swing Hop Mix](https://open.spotify.com/track/0onK2I2SqpvmpYvrcUkd2P) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Jive Jack](https://open.spotify.com/artist/68SoerIOP3azx4b0nTCyrh) | [Smoke Rings \(Swing Hop Mix\)](https://open.spotify.com/album/4QARvbfgA9P3yZkAIONe46) | 1:45 |
-| 6 | [Don´T Break](https://open.spotify.com/track/3UrSUNasoMFxMz9UzhIrcq) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Don´T Break](https://open.spotify.com/album/7mz7T2yUAcHDdPrakkpV5F) | 2:54 |
-| 7 | [Moonswings](https://open.spotify.com/track/1OuxO28VYTtXcE0zGrTS8x) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Moonswings](https://open.spotify.com/album/6WplX32rUPI6pyOzKC6N7C) | 4:24 |
-| 8 | [Rosco's Groove](https://open.spotify.com/track/1bm1Zba5IyvaBP6Q9oyq8i) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Rosco's Groove](https://open.spotify.com/album/2mTXktFqQA61Amotu6fQwq) | 2:54 |
-| 9 | [Mr\. Perfect](https://open.spotify.com/track/1wk3h5pPRtjQp4mV0ON5pQ) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Mr\. Perfect](https://open.spotify.com/album/5cHVYiR6UCRfPHATwAHnjD) | 3:00 |
+| 3 | [Opposites Attract](https://open.spotify.com/track/4CiRAe324clbMmEAyh1pie) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Opposites Attract](https://open.spotify.com/album/3p1yemgNUxMzxIkNuNxy4S) | 2:37 |
+| 4 | [The Istrian Job](https://open.spotify.com/track/1gaiAr6VmelPRGY4uFrbLk) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Teo Collori in Momento Cigano](https://open.spotify.com/artist/48cneGFVFRk062PwTL22iH) | [The Istrian Job](https://open.spotify.com/album/5gswEdrxMo8lMzn2OxyXRn) | 3:00 |
+| 5 | [I Wanna MMM \- Electro Swing Bot Version](https://open.spotify.com/track/3YGGpRjcF18lLfcHS7Txxr) | [The Swing Bot](https://open.spotify.com/artist/4oQFVFnnGSF6iFstCV0b7b) | [I Wanna MMM \(Electro Swing Bot Version\)](https://open.spotify.com/album/7xw2GLL7luPGeWmfc1ctQj) | 3:43 |
+| 6 | [Smoke Rings \- Swing Hop Mix](https://open.spotify.com/track/0onK2I2SqpvmpYvrcUkd2P) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Jive Jack](https://open.spotify.com/artist/68SoerIOP3azx4b0nTCyrh) | [Smoke Rings \(Swing Hop Mix\)](https://open.spotify.com/album/4QARvbfgA9P3yZkAIONe46) | 1:45 |
+| 7 | [Don´T Break](https://open.spotify.com/track/3UrSUNasoMFxMz9UzhIrcq) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Don´T Break](https://open.spotify.com/album/7mz7T2yUAcHDdPrakkpV5F) | 2:54 |
+| 8 | [Moonswings](https://open.spotify.com/track/1OuxO28VYTtXcE0zGrTS8x) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Moonswings](https://open.spotify.com/album/6WplX32rUPI6pyOzKC6N7C) | 4:24 |
+| 9 | [Rosco's Groove](https://open.spotify.com/track/1bm1Zba5IyvaBP6Q9oyq8i) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Rosco's Groove](https://open.spotify.com/album/2mTXktFqQA61Amotu6fQwq) | 2:54 |
 | 10 | [Honey Has Spice](https://open.spotify.com/track/1fZEVdJPI8ql1A7ZT3XAmV) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [LOUQ](https://open.spotify.com/artist/6D145SsRqHrq77RlAFmeU9) | [Honey Has Spice](https://open.spotify.com/album/5v76FebEkYHb0u8eOSHpgG) | 3:08 |
 | 11 | [Back and Forth](https://open.spotify.com/track/0iunkswh8QG4nlCg9eDzMS) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [Back and Forth](https://open.spotify.com/album/1lFHdixVhpVvZQdc6foN1c) | 2:16 |
 | 12 | [Is It Really Me..\. Or Not?](https://open.spotify.com/track/2xTHbHHQuWCwrnvKys0fPy) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Is It Really Me..\. Or Not?](https://open.spotify.com/album/40WeuwRYeEorQMUOLbyDko) | 2:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 149 | [Who’s Evie Now?](https://open.spotify.com/track/2RMboYE8BXPooJpHK6v6Nw) | [Andrew Gerle](https://open.spotify.com/artist/3ItYFOck10exFSS6aJMegS), [DJ Salisbury](https://open.spotify.com/artist/7lnBuvIUqvVmIux4Mf4Kc7), [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Keri René Fuller](https://open.spotify.com/artist/66Jio1SQDMRME7S2WboYPQ) | [Whisper Darkly \(Concept Album\)](https://open.spotify.com/album/1xMpMRN25K3pCVXyj44per) | 3:58 |
 | 150 | [The Cat Came Back \- Bdd Remix Edit](https://open.spotify.com/track/6ptpOr9mCnqingjjObKd12) | [Luca Lento](https://open.spotify.com/artist/1N6JVU67os1i6f2sJwfPUh) | [The Cat Came Back](https://open.spotify.com/album/3NMJ7yVpUcwwE5alueef9V) | 2:53 |
 
-Snapshot ID: `ZrWUQAAAAAB5ygGNh2WLqfvsDtDd+JrV`
+Snapshot ID: `Zr7OwAAAAADhryP4yiHfXtuf6eWlZ3fv`

@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: blacktoothed
 
-157 songs - 8 hr 58 min
+158 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Animal](https://open.spotify.com/track/1BO5Y7G9ukdTRVw1ER0HuC) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn) | [Animal](https://open.spotify.com/album/45tUpXXzTSNp1QZ6Z1ENvX) | 3:38 | 2024-06-27 |  |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-27 |  |
 | [ARTIFICIAL](https://open.spotify.com/track/2EU5LeESSJgbYKCc5l4rms) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [ARTIFICIAL](https://open.spotify.com/album/3dYWUL9aUiAtc9OKGotTfV) | 3:39 | 2024-06-27 |  |
+| [Awake](https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [If The Sky Came Down](https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF) | 5:12 | 2024-08-08 |  |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2024-06-27 |  |
 | [Back With A Bang](https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Back With A Bang](https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N) | 3:33 | 2024-07-04 | 2024-07-12 |
 | [Bad Choices](https://open.spotify.com/track/4owIs1SnK0EtEY0nOOQFUj) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Birthday](https://open.spotify.com/album/41iAihj3VUoUpOLRMReypO) | 3:25 | 2024-08-01 | 2024-08-09 |
@@ -112,7 +113,7 @@
 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 | 2024-08-01 |  |
 | [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-06-27 | 2024-08-11 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2024-06-27 |  |
-| [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 | 2024-07-25 |  |
+| [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 | 2024-07-25 | 2024-08-17 |
 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 | 2024-06-27 | 2024-07-13 |
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-06-27 |  |
 | [ONE MORE TIME](https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME / MORE THAN YOU KNOW](https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9) | 3:28 | 2024-06-27 |  |

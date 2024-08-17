@@ -1905,6 +1905,24 @@
     },
     {
       "album": {
+        "name": "I Believe In Miracles / C'est Si Bon",
+        "url": "https://open.spotify.com/album/3dHFitBJhQzSLZztbzv4tJ"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267720,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/3KANHsfHFcFGufoGdafygC"
+    },
+    {
+      "album": {
         "name": "Black Light",
         "url": "https://open.spotify.com/album/3lyDIsUBFuRQ4aq9YBYs68"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 256188,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m"
@@ -2900,7 +2918,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219596,
       "name": "Mother Funkin' Robots",
       "url": "https://open.spotify.com/track/0GjSGefxut8enOP0LFPlln"
@@ -3490,6 +3508,24 @@
       "duration_ms": 274020,
       "name": "Rock Steady - Zigaboo Version - Remastered",
       "url": "https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b"
+    },
+    {
+      "album": {
+        "name": "Dirty Disco",
+        "url": "https://open.spotify.com/album/52XE4Y7uagfKQOrmFoJVpj"
+      },
+      "artists": [
+        {
+          "name": "Nikka Costa",
+          "url": "https://open.spotify.com/artist/6vUjpCAR58MB3Jq2TsKUmK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314568,
+      "name": "Satellite Girl",
+      "url": "https://open.spotify.com/track/4x8pUXRyZtnuzpucOOSEZM"
     },
     {
       "album": {

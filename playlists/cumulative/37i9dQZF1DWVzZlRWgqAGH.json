@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Ravyn Lenae",
+  "description": "Music for your soul. Cover: Foushe\u00e9",
   "name": "BUTTER",
   "tracks": [
     {
@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "A Girl Like You",
+        "url": "https://open.spotify.com/album/21bl39xHspuIISAteKFXoq"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116852,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr"
+    },
+    {
+      "album": {
         "name": "A Handmade Card",
         "url": "https://open.spotify.com/album/116BSJle49Swp2NIgeHvnp"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 193928,
       "name": "A Kid From Toronto",
       "url": "https://open.spotify.com/track/0ItCQuRw6DglXZjTE8dFlv"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178554,
       "name": "aslongas",
       "url": "https://open.spotify.com/track/11JrrH9QkN2WbUMpuNEWO9"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 218361,
       "name": "BLACK OR WHITE",
       "url": "https://open.spotify.com/track/5JEjeIMPnFJcKisnx8LfdG"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161536,
       "name": "Boiler Room (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
@@ -5109,6 +5127,28 @@
     },
     {
       "album": {
+        "name": "Cool-Doug, at Night",
+        "url": "https://open.spotify.com/album/4F8znk4P0tcwrbGXUBYycS"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        },
+        {
+          "name": "Jacob Jeffries",
+          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212790,
+      "name": "Cool-Doug, at Night",
+      "url": "https://open.spotify.com/track/6vqfGsLHkr6I741MUKl8v7"
+    },
+    {
+      "album": {
         "name": "Cosmic Dust Remix",
         "url": "https://open.spotify.com/album/7qjSdIyojKrmh7cyItHdVL"
       },
@@ -6238,6 +6278,24 @@
       "duration_ms": 207979,
       "name": "Don't Wanna See You",
       "url": "https://open.spotify.com/track/6qyjr0RjKwLPR1rigpI1HZ"
+    },
+    {
+      "album": {
+        "name": "Don't You Love Me? - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267110,
+      "name": "Don't You Love Me? - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
     },
     {
       "album": {
@@ -7868,6 +7926,24 @@
       "duration_ms": 158169,
       "name": "Filatelie",
       "url": "https://open.spotify.com/track/5kv3o8QvGHhjxh9STzsclu"
+    },
+    {
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/5XB7j90lRW2QYzCK41m6Df"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3XlHdDuwPGjk63ruhqLUAW"
     },
     {
       "album": {
@@ -9792,7 +9868,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196873,
       "name": "Gratitudes",
       "url": "https://open.spotify.com/track/7t5fVlHWLM2fGM9eIICVon"
@@ -10480,7 +10556,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195999,
       "name": "Hey Boy",
       "url": "https://open.spotify.com/track/4gqDN1M6lY1Dzkr2N0pZDI"
@@ -10700,7 +10776,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
@@ -11100,6 +11176,28 @@
       "duration_ms": 188653,
       "name": "Howl",
       "url": "https://open.spotify.com/track/5OmAtzS991cWqpm3AVCv1I"
+    },
+    {
+      "album": {
+        "name": "How\u2019s That Working Out",
+        "url": "https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180039,
+      "name": "How\u2019s That Working Out",
+      "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
     },
     {
       "album": {
@@ -12220,6 +12318,24 @@
       "duration_ms": 169014,
       "name": "I\u00b4m Not Tryna Be Your Girl",
       "url": "https://open.spotify.com/track/4lVharwL6BNgHX9BnsBesl"
+    },
+    {
+      "album": {
+        "name": "J'adore",
+        "url": "https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206315,
+      "name": "J'adore",
+      "url": "https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L"
     },
     {
       "album": {
@@ -16244,7 +16360,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 233564,
       "name": "No Rulebook",
       "url": "https://open.spotify.com/track/4OVZT61Hd24Q4p1cux4BJ3"
@@ -17742,6 +17858,50 @@
       "duration_ms": 206000,
       "name": "Peng Black Girls Remix",
       "url": "https://open.spotify.com/track/2VXcVF8k3GXCFfKu7azVvw"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162252,
+      "name": "Personal (Remix feat. Popcaan)",
+      "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
+    },
+    {
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
     },
     {
       "album": {
@@ -20913,6 +21073,24 @@
     },
     {
       "album": {
+        "name": "Lover, Other",
+        "url": "https://open.spotify.com/album/5BUquHUocSbSGXlTjUcH75"
+      },
+      "artists": [
+        {
+          "name": "Rosie Lowe",
+          "url": "https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271502,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh"
+    },
+    {
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/6Kz4DDNps9MzvtelSfIVIq"
       },
@@ -20990,7 +21168,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146780,
       "name": "Song 2",
       "url": "https://open.spotify.com/track/0k0neyhJVXUiFBPxwjnhuH"
@@ -21874,6 +22052,24 @@
       "duration_ms": 219000,
       "name": "Submerge - Single Version",
       "url": "https://open.spotify.com/track/3mSYvWiHbYxPqhZbRvXGdV"
+    },
+    {
+      "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
     },
     {
       "album": {
@@ -24492,7 +24688,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172782,
       "name": "Vita",
       "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
@@ -24696,6 +24892,24 @@
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
+    },
+    {
+      "album": {
+        "name": "war",
+        "url": "https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129091,
+      "name": "war",
+      "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
     },
     {
       "album": {
@@ -25524,7 +25738,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191287,
       "name": "Will You",
       "url": "https://open.spotify.com/track/5sbCxc99iUS5SZn6SkPf3K"

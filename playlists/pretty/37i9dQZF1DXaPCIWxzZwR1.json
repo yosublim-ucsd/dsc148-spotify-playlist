@@ -1,28 +1,76 @@
 {
-  "description": "next gen pop Cover: Keshi",
-  "num_followers": 1303752,
+  "description": "next gen pop Cover: Addison Rae",
+  "num_followers": 1303742,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAABdCYO8jbXrATTGDtGZ1D+0",
+  "snapshot_id": "Zr7OwAAAAABpmLD8f7zlpgoHqZxgbC8u",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -41,6 +89,22 @@
       "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 123088,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "BRAT",
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "GIRLZ",
+        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 141660,
+      "name": "GIRLZ",
+      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
+    },
+    {
       "added_at": "2024-06-28 04:53:44",
       "album": {
         "name": "Comedown",
@@ -71,6 +151,38 @@
       "duration_ms": 158835,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/33JmBA77g0BCoNGh5CzY4X"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "OBVIOUS",
+        "url": "https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "duration_ms": 190903,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -105,20 +217,20 @@
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
         }
       ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+      "duration_ms": 136375,
+      "name": "Officially Mine",
+      "url": "https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -219,6 +331,26 @@
       "duration_ms": 158785,
       "name": "Overglow",
       "url": "https://open.spotify.com/track/59ktWn8FpeyX81PqYxwWEy"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -353,6 +485,22 @@
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "If Only + No One Noticed",
@@ -399,6 +547,22 @@
       "duration_ms": 147020,
       "name": "Turn it up",
       "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -545,38 +709,6 @@
       "url": "https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
-    },
-    {
       "added_at": "2024-06-07 04:00:00",
       "album": {
         "name": "24 Hours in Paris",
@@ -607,22 +739,6 @@
       "duration_ms": 198671,
       "name": "BET",
       "url": "https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -673,20 +789,20 @@
       "url": "https://open.spotify.com/track/32Wy13eItx5ym93GYRpXWt"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "ASPHALT RODEO",
-        "url": "https://open.spotify.com/album/6pH7vizaLhjOBNXQJvo8EK"
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
       },
       "artists": [
         {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
         }
       ],
-      "duration_ms": 158910,
-      "name": "ASPHALT RODEO",
-      "url": "https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8"
+      "duration_ms": 161976,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -703,22 +819,6 @@
       "duration_ms": 194680,
       "name": "Deep Cut",
       "url": "https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "emotional affair",
-        "url": "https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 181749,
-      "name": "emotional affair",
-      "url": "https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -867,22 +967,6 @@
       "duration_ms": 190942,
       "name": "Cursed Romantics",
       "url": "https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "CARDIAC",
-        "url": "https://open.spotify.com/album/7a8UkENTPPtZ7s1lGc2wNW"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 156576,
-      "name": "CARDIAC",
-      "url": "https://open.spotify.com/track/1BaUCDLiR6u3axnZ7jryk4"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1049,22 +1133,6 @@
       "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "ver2igo vol. 2",
-        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196456,
-      "name": "Pillow In My Arms",
-      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Breakfast EP",
@@ -1131,22 +1199,6 @@
       "duration_ms": 168800,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/7mQCONtuyTnXtRLrjalQTF"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1393,22 +1445,6 @@
       "url": "https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0"
     },
     {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/1dsCW9E6mNZxcxfp0zgTH4"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "I Don't Wanna Dance",
@@ -1423,22 +1459,6 @@
       "duration_ms": 182443,
       "name": "I Don't Wanna Dance",
       "url": "https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Make Me Your Mrs",
-        "url": "https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        }
-      ],
-      "duration_ms": 158955,
-      "name": "Make Me Your Mrs",
-      "url": "https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb"
     },
     {
       "added_at": "2024-04-26 04:00:00",

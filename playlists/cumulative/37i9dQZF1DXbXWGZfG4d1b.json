@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157000,
       "name": "ABC.",
       "url": "https://open.spotify.com/track/40DgJdlGss0s5UDCsgUIq4"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145239,
       "name": "Accidente",
       "url": "https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178454,
       "name": "Andate",
       "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 107000,
       "name": "Boca Seca",
       "url": "https://open.spotify.com/track/7IunvqW7OiT60hZBxcuTaQ"
@@ -1094,6 +1094,24 @@
       "duration_ms": 167752,
       "name": "Bola de derribo",
       "url": "https://open.spotify.com/track/3O3LuqcxKhxqQyw3cG4dtC"
+    },
+    {
+      "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "album": {
@@ -3390,7 +3408,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
@@ -4471,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "YASS",
+        "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185390,
+      "name": "HAT TRICK",
+      "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "album": {
         "name": "Espanto Caribe",
         "url": "https://open.spotify.com/album/5oWKNvRZJ9616naxtq9OgZ"
       },
@@ -5106,7 +5142,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166500,
       "name": "La Cena",
       "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
@@ -6267,6 +6303,24 @@
     },
     {
       "album": {
+        "name": "Sombra de Tibur\u00f3n",
+        "url": "https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195410,
+      "name": "Malos Sentimientos",
+      "url": "https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe"
+    },
+    {
+      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/70s5AZ6uIkQeuXGuGPHnle"
       },
@@ -6398,6 +6452,24 @@
       "duration_ms": 253520,
       "name": "Mas o Menos Bien",
       "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
+    },
+    {
+      "album": {
+        "name": "Me gusta mirarte de cerca",
+        "url": "https://open.spotify.com/album/1IprhVpQu1xf4v2fElr7Kc"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204875,
+      "name": "Me Gusta Mirarte De Cerca",
+      "url": "https://open.spotify.com/track/3FbpJoOMjuCOhTQzaqoOTo"
     },
     {
       "album": {
@@ -7974,6 +8046,28 @@
       "duration_ms": 213101,
       "name": "Obrador",
       "url": "https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ"
+    },
+    {
+      "album": {
+        "name": "Creo que necesito ir a dar una vuelta",
+        "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
+      },
+      "artists": [
+        {
+          "name": "GULI",
+          "url": "https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192137,
+      "name": "Oh my goth",
+      "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
     },
     {
       "album": {
@@ -11009,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
+    },
+    {
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN"
       },
@@ -11179,6 +11291,28 @@
     },
     {
       "album": {
+        "name": "Verano Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        },
+        {
+          "name": "Anabella Cartolano",
+          "url": "https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164845,
+      "name": "Verano Todo el A\u00f1o",
+      "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
+    },
+    {
+      "album": {
         "name": "Cerro Dubl\u00edn",
         "url": "https://open.spotify.com/album/5rLCOjWrccuxzkmsPHYWyb"
       },
@@ -11262,7 +11396,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 143823,
       "name": "Viento helado",
       "url": "https://open.spotify.com/track/6esfymnhduFli5Sy1rRb3z"

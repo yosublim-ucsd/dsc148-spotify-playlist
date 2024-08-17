@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udc8e <a href=\"spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT\">LISA</a> \ud83d\udd17 <a href=\"spotify:artist:7ltDVBr6mKbRvohxheJ9h1\">ROSAL\u00cdA</a> \ud83d\udc8e",
-  "num_followers": 113960,
+  "num_followers": 113995,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAAD97MF1OmsX/wwEjyOX/pdu",
+  "snapshot_id": "Zr8OCgAAAABuMWPr9y8rjI/A7ciRrXCj",
   "tracks": [
     {
       "added_at": "2024-08-16 00:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1255,6 +1275,26 @@
       "duration_ms": 168102,
       "name": "Fell Apart",
       "url": "https://open.spotify.com/track/5ZB3b8TMiHUlwH5rS9hGBU"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "burn",
+        "url": "https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 149690,
+      "name": "burn",
+      "url": "https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu"
     },
     {
       "added_at": "2024-08-16 00:00:00",

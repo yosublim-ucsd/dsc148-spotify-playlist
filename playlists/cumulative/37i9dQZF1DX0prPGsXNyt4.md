@@ -2,9 +2,9 @@
 
 ### [Casal Mandrake](https://open.spotify.com/playlist/37i9dQZF1DX0prPGsXNyt4)
 
-> você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Mirella, Mc Gabzin
+> você e ele, você e ela, pique o casal mais mandrake da quebra tlgd\. Foto: MC Kekel
 
-80 songs - 4 hr 45 min
+81 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 | 2022-03-18 |  |
 | [Rajada](https://open.spotify.com/track/40yCum6xVvg2Xp3m9Q6mg4) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Rajada](https://open.spotify.com/album/1hYhz30BpzASisaodJ5jC1) | 3:27 | 2022-05-20 | 2022-06-11 |
 | [Respeitada](https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Respeitada](https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz) | 2:20 | 2022-03-18 |  |
-| [Romântico Safado](https://open.spotify.com/track/54sCdH7XdbmWqXKWxxQ7Y3) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J) | [Romântico Safado](https://open.spotify.com/album/3i2zsV6JVImbGw37cLvFP2) | 2:12 | 2024-04-22 |  |
+| [Romântico Safado](https://open.spotify.com/track/54sCdH7XdbmWqXKWxxQ7Y3) | [Malharo](https://open.spotify.com/artist/01P95MsV6kbRUvHnnLsldG), [WES](https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J) | [Romântico Safado](https://open.spotify.com/album/3i2zsV6JVImbGw37cLvFP2) | 2:12 | 2024-04-22 | 2024-08-17 |
 | [Sagitário](https://open.spotify.com/track/0N0JNYiFx3xTyIWmnIVuV7) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/6U7WUtuQ4YvVruh9bl6aaG) | 2:52 | 2022-03-18 |  |
 | [Sagitário](https://open.spotify.com/track/7tgLsXgElnqUpW6mweFWGV) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1) | 2:52 | 2022-07-08 | 2024-04-19 |
 | [Sagitário](https://open.spotify.com/track/18KZaaFiLq4W0NuYIKVeht) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Zodíaco](https://open.spotify.com/album/5ftOucNwzfwCQKZJDIlVGL) | 2:52 | 2022-10-14 | 2022-11-13 |
@@ -82,6 +82,7 @@
 | [Surtada](https://open.spotify.com/track/76N8hqMQj2mpepRJqFcSZQ) | [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [U Baby](https://open.spotify.com/artist/5PpQnfyJjOpGsT7LfeBGxV), [Caju Clã](https://open.spotify.com/artist/1zCRmLWPpfEQTERVLcOhnz) | [Surtada](https://open.spotify.com/album/2TNQc1VSu32tfEt0z6HWE0) | 2:57 | 2022-09-23 | 2023-02-11 |
 | [Te Escolhi](https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd) | [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3) | [Te Escolhi](https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0) | 1:48 | 2022-03-18 |  |
 | [To Apaixonadin](https://open.spotify.com/track/4Wv6XBZP0HOHKgDJwJBhHG) | [MC Josh](https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [To Apaixonadin](https://open.spotify.com/album/32SxJtdIAKypT2ruZxgLzp) | 2:47 | 2022-03-25 | 2022-04-16 |
+| [Toda Cinderela](https://open.spotify.com/track/7BypzPA1OQf4MPnbCKGlTv) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [Multiverso](https://open.spotify.com/album/2DpokDGjyKPaWpeUwnLiT0) | 1:51 | 2024-08-16 |  |
 | [Todo Tímido](https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:56 | 2022-03-18 |  |
 | [Tom de Pele](https://open.spotify.com/track/1F3kRrY6eYgvfH5nSm2RMN) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2) | [Tom de Pele](https://open.spotify.com/album/0evibcz18EruYA9OvDk5TY) | 2:45 | 2022-03-18 |  |
 | [Trinta Minutos](https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Hat\-Trick do Tubarão](https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu) | 3:25 | 2022-03-18 |  |

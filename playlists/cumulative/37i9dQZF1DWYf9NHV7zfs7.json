@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Clara Cava y Ale Sergi",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 RUGGERO",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -230,10 +230,32 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183068,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1IzUdOeoGareSoL7JNHIsj"
+    },
+    {
+      "album": {
+        "name": "Adi\u00f3s a la Rama",
+        "url": "https://open.spotify.com/album/6PHPfAEleqNlYSCN5t2W91"
+      },
+      "artists": [
+        {
+          "name": "Julieta Rada",
+          "url": "https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd"
+        },
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265917,
+      "name": "Adi\u00f3s a la Rama",
+      "url": "https://open.spotify.com/track/0mB5lPXkRjHuEFgifMI5hQ"
     },
     {
       "album": {
@@ -923,6 +945,24 @@
     },
     {
       "album": {
+        "name": "C\u00ednica",
+        "url": "https://open.spotify.com/album/2PseZ5GZ3c8Olr6AuZQuYK"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167991,
+      "name": "C\u00ednica",
+      "url": "https://open.spotify.com/track/3IsNHWZ4dQbdVDDpFEUspW"
+    },
+    {
+      "album": {
         "name": "Dame Chance (Rayuela)",
         "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
       },
@@ -1464,7 +1504,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 154033,
       "name": "flashi\u00e9",
       "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
@@ -1738,7 +1778,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 211828,
       "name": "Hacia el Sur",
       "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
@@ -1938,7 +1978,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189000,
       "name": "Intentarlo Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/1auL4rxRG6Gx6DBG51DFrI"
@@ -2792,7 +2832,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200507,
       "name": "Me hablan de vos",
       "url": "https://open.spotify.com/track/6h5r2AfSvK20SR94dq8v6d"
@@ -2814,7 +2854,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169813,
       "name": "me hace bien",
       "url": "https://open.spotify.com/track/3YvPDFVcqKRYI0orNE6zIK"
@@ -2930,6 +2970,24 @@
       "duration_ms": 180162,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa"
+    },
+    {
+      "album": {
+        "name": "Mil kilos de cemento",
+        "url": "https://open.spotify.com/album/2mimbHNjpzkHr4vZlAp2Xz"
+      },
+      "artists": [
+        {
+          "name": "RUGGERO",
+          "url": "https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180221,
+      "name": "Mil kilos de cemento",
+      "url": "https://open.spotify.com/track/4SP1I6C4cf2FoMP2yt5csV"
     },
     {
       "album": {
@@ -3916,7 +3974,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195638,
       "name": "Qu\u00e9 Tienes T\u00fa?",
       "url": "https://open.spotify.com/track/0mLNJFbLPGjq4tBiwI0NdY"
@@ -4232,7 +4290,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
@@ -4458,6 +4516,24 @@
       "duration_ms": 213956,
       "name": "Te odio",
       "url": "https://open.spotify.com/track/1csfEev85ozpIotuiYixPe"
+    },
+    {
+      "album": {
+        "name": "Te Prestaria Mis Ojos",
+        "url": "https://open.spotify.com/album/1bm6sB9SntraTrvK5PL6K7"
+      },
+      "artists": [
+        {
+          "name": "Juli Savioli",
+          "url": "https://open.spotify.com/artist/3S6Z3tddsHqoza4wkqYiQf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Te Prestaria Mis Ojos",
+      "url": "https://open.spotify.com/track/6k9ClcpERuAh9cKRdz0jsG"
     },
     {
       "album": {

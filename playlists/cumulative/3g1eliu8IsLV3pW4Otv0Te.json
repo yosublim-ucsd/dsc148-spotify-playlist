@@ -4323,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/4bND1VOsTwTtVHBcDksry5"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176248,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/397VHjYaU6hhu78CdPuop7"
+    },
+    {
+      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },

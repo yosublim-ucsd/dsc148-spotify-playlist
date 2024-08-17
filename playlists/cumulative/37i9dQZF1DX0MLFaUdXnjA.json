@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 204893,
       "name": "Allergies (feat. Delaney Bailey)",
       "url": "https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN"
@@ -3160,10 +3160,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201454,
       "name": "BFF",
       "url": "https://open.spotify.com/track/7a6vHpqq6lDiCBAGzkjYHJ"
+    },
+    {
+      "album": {
+        "name": "Big Heart",
+        "url": "https://open.spotify.com/album/5ZVNpEHPupS6O4QRR8zZP1"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "Big Heart",
+      "url": "https://open.spotify.com/track/2WAY8PYqxhE4p46cefar0w"
     },
     {
       "album": {
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
@@ -4386,7 +4404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 322223,
       "name": "Butterflies (feat. Tim Bernardes)",
       "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
@@ -4564,6 +4582,24 @@
       "duration_ms": 162533,
       "name": "California Sober",
       "url": "https://open.spotify.com/track/0XyFRZsZj4VvcUknNAzrpY"
+    },
+    {
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/1X7pPUsv3FqEF0M9Xv4nMo"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155501,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/5sSWM68OdmGO7ekX1wVWww"
     },
     {
       "album": {
@@ -5372,7 +5408,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 154736,
       "name": "chill like that ft. Jesse Baez",
       "url": "https://open.spotify.com/track/1z64753zgOTLJ4Q4FSPSlu"
@@ -7499,6 +7535,46 @@
     },
     {
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/7GWoKy2ZAgNkRTAfvWA32v"
       },
@@ -7808,6 +7884,24 @@
       "duration_ms": 194594,
       "name": "Don't Forget My Love - Acoustic",
       "url": "https://open.spotify.com/track/1n8Dak8MPeZ82E3iPzWyzH"
+    },
+    {
+      "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
     },
     {
       "album": {
@@ -17883,6 +17977,24 @@
     },
     {
       "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233920,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
+    },
+    {
+      "album": {
         "name": "Live It Up (High Tide)",
         "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
       },
@@ -18216,7 +18328,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 163458,
       "name": "Look At That Woman",
       "url": "https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW"
@@ -25603,6 +25715,24 @@
     },
     {
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "album": {
         "name": "Same Sunrise",
         "url": "https://open.spotify.com/album/7DkaKreruueKqkN2IjfHem"
       },
@@ -27042,7 +27172,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150243,
       "name": "So Fast",
       "url": "https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu"
@@ -27562,6 +27692,24 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "album": {
@@ -29180,7 +29328,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188494,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP"
@@ -33016,7 +33164,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222442,
       "name": "we can't be friends (wait for your love) \u2013 string version",
       "url": "https://open.spotify.com/track/2TJYfqZ24XmBt3lKsfQj4N"
@@ -33096,6 +33244,24 @@
       "duration_ms": 183626,
       "name": "We Live We Die",
       "url": "https://open.spotify.com/track/6q3wbYq1uMfgu4bpCVEkUK"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "We Were Girls",
+      "url": "https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx"
     },
     {
       "album": {
@@ -34119,6 +34285,24 @@
     },
     {
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C"
+      },
+      "artists": [
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206517,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs"
+    },
+    {
+      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/3aWShipEiKPgssWlGxFY0x"
       },
@@ -35038,7 +35222,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182068,
       "name": "you're my moon",
       "url": "https://open.spotify.com/track/565nq6yHIdPS05v42NpabQ"

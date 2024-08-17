@@ -273,6 +273,28 @@
     },
     {
       "album": {
+        "name": "AMNN (Alam Mo Naman Na)",
+        "url": "https://open.spotify.com/album/5gjvdL7DfSbtyylG2yxZHq"
+      },
+      "artists": [
+        {
+          "name": "_dyco",
+          "url": "https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb"
+        },
+        {
+          "name": "$NPRD",
+          "url": "https://open.spotify.com/artist/1bHNpzVQ7bDb9arASspvu6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "AMNN (Alam Mo Naman Na)",
+      "url": "https://open.spotify.com/track/7GIs27eaJs9Lc9qH6MkedG"
+    },
+    {
+      "album": {
         "name": "Araw2x Gabi2x",
         "url": "https://open.spotify.com/album/5tCSAhDhtQZlvFXywZu7PZ"
       },
@@ -404,7 +426,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151000,
       "name": "baliktanaw",
       "url": "https://open.spotify.com/track/47zgYdCb0JjCMkdWqiGmlk"
@@ -542,7 +564,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146548,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR"
@@ -2600,7 +2622,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207835,
       "name": "Lagi-lagi",
       "url": "https://open.spotify.com/track/5xJ2EXdVpbzMA9TIvDF7eq"
@@ -5160,6 +5182,24 @@
       "duration_ms": 177711,
       "name": "Tied",
       "url": "https://open.spotify.com/track/4w4AciHOoooypyBGTwMqu5"
+    },
+    {
+      "album": {
+        "name": "Tingin Mo Ba?",
+        "url": "https://open.spotify.com/album/0tyo6Aep1cj3Ab9p7p0eIt"
+      },
+      "artists": [
+        {
+          "name": "Johann Regaya",
+          "url": "https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160859,
+      "name": "Tingin Mo Ba?",
+      "url": "https://open.spotify.com/track/3vZygQHyQ1y2w2UK1XJ2Eh"
     },
     {
       "album": {

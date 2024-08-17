@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/5cI848Gy9tM2M61L1jblfa"
+      },
+      "artists": [
+        {
+          "name": "Manolo Otero",
+          "url": "https://open.spotify.com/artist/1RV8jUtBYlqrVqX4uqPhoJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "\"Hola\" Amor Mio",
+      "url": "https://open.spotify.com/track/3z1dJa9YPPn4HedlXCxvzE"
+    },
+    {
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 289504,
       "name": "530",
       "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
@@ -2318,7 +2336,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2024-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 234261,
       "name": "La Gata Bajo La Lluvia",
       "url": "https://open.spotify.com/track/6Ymc1psVtMmKcUZqTDe90i"
@@ -7730,10 +7748,28 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 257320,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA"
+    },
+    {
+      "album": {
+        "name": "Nightcall",
+        "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258413,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
     },
     {
       "album": {
@@ -10630,7 +10666,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 187998,
       "name": "Sue\u00f1o Fugaz (Fleeting Dream)",
       "url": "https://open.spotify.com/track/3a4lwa0YPsW02IUAVObp1E"
@@ -13004,10 +13040,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169951,
       "name": "You Will Never Know It",
       "url": "https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T"
+    },
+    {
+      "album": {
+        "name": "You Will Never Know It",
+        "url": "https://open.spotify.com/album/3zrqBnt5xITljy434Df3u6"
+      },
+      "artists": [
+        {
+          "name": "Carpetman",
+          "url": "https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169951,
+      "name": "You Will Never Know It",
+      "url": "https://open.spotify.com/track/75GhyGaBPZnFnCHIYo3mvQ"
     },
     {
       "album": {

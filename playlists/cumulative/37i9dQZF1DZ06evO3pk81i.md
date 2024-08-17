@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3pk81i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3pk81i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3pk81i)
 
-### [Los Primos del Este This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
+### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> .Los Primos del Este This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is: Los Primos del Este\. Alle wichtigen Tracks in einer Playlist.
 
 51 songs - 2 hr 39 min
 

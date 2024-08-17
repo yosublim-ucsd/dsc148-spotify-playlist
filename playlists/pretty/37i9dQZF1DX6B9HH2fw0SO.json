@@ -1,6 +1,6 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 68270,
+  "num_followers": 68297,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Tell Me I'm Pretty",
+        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Too Late To Say Goodbye",
+      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 228000,
       "name": "Firefly",
       "url": "https://open.spotify.com/track/2s9C5THb9llwyVXtjveV4E"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Tell Me I'm Pretty",
-        "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Too Late To Say Goodbye",
-      "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Inanimate Objects",
-        "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
-      },
-      "artists": [
-        {
-          "name": "Atlas Genius",
-          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Glitterbug",
         "url": "https://open.spotify.com/album/5eMwZy5R5qZB3v3lBumnFZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 228470,
       "name": "Give Me a Try",
       "url": "https://open.spotify.com/track/7ayoL7WrBQP3ccJqELQXFK"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Inanimate Objects",
+        "url": "https://open.spotify.com/album/3jQxdLlKciB0WQncSVhM39"
+      },
+      "artists": [
+        {
+          "name": "Atlas Genius",
+          "url": "https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/7tKnaB8gsXxyPScxEwzQ9N"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Are You Alone?",
-        "url": "https://open.spotify.com/album/2xF3ioefFdZrOg9zUBU5hb"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
       },
       "artists": [
         {
-          "name": "Majical Cloudz",
-          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 249062,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/5iK8GmW2uiPuUc5CtkZrIK"
+      "duration_ms": 264523,
+      "name": "Flesh without Blood",
+      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
     }
   ],
   "unique_name": "Best of Indie 2015",

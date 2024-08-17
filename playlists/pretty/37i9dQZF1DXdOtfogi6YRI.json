@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: stickxr",
-  "num_followers": 17610,
+  "num_followers": 17614,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "TRZECIA SZYNA",
         "url": "https://open.spotify.com/album/2GM2fKnuq4JfoNpO2mGF6M"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 155884,
       "name": "SM Gosty\u0144 Tubka",
       "url": "https://open.spotify.com/track/3h801QmzRHif54JE3UkYmX"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1291,30 +1291,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "UTAH",
-        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
-      },
-      "artists": [
-        {
-          "name": "Bedzik",
-          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
-        },
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        },
-        {
-          "name": "Brojustchill",
-          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "UTAH",
-      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "KAM-CAR",
         "url": "https://open.spotify.com/album/5GKvM5h2ets6EmwN3mu2QM"
       },
@@ -1335,58 +1311,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+        "name": "UTAH",
+        "url": "https://open.spotify.com/album/06i2MDJJB0ysjWwcCoMkRL"
       },
       "artists": [
         {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Serato",
-        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "Serato",
-      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "\u017bEBY NIE SK\u0141AMA\u0106",
-        "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
-      },
-      "artists": [
-        {
-          "name": "\u0141ona",
-          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
         },
         {
-          "name": "Andrzej Konieczny",
-          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
         },
         {
-          "name": "Kacper Krupa",
-          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+          "name": "Brojustchill",
+          "url": "https://open.spotify.com/artist/2HGryFNNmXo0zLT2fG8VKP"
         }
       ],
-      "duration_ms": 197906,
-      "name": "\u017bEBY NIE SK\u0141AMA\u0106",
-      "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
+      "duration_ms": 119200,
+      "name": "UTAH",
+      "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1415,6 +1359,62 @@
       "duration_ms": 161094,
       "name": "Tygrysy Europy",
       "url": "https://open.spotify.com/track/4edHAEwmAN2CHXeuMKsmUh"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "\u017bEBY NIE SK\u0141AMA\u0106",
+        "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
+      },
+      "artists": [
+        {
+          "name": "\u0141ona",
+          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+        },
+        {
+          "name": "Andrzej Konieczny",
+          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+        },
+        {
+          "name": "Kacper Krupa",
+          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "\u017bEBY NIE SK\u0141AMA\u0106",
+      "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Serato",
+        "url": "https://open.spotify.com/album/2S8IceuyzqvYYCE6xjyYQh"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "Serato",
+      "url": "https://open.spotify.com/track/2R3TOtP2vsvaSxKMiKLc0X"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+      },
+      "artists": [
+        {
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+        },
+        {
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "NOWY WOKAL",
         "url": "https://open.spotify.com/album/7ouU2RfeQyoBeXsDcVhomC"
       },
@@ -1503,38 +1523,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+        "name": "Queensize / Kingsize",
+        "url": "https://open.spotify.com/album/1TKMkGKIp7C2Bmo23qByB7"
       },
       "artists": [
         {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
         },
         {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "zamieniaj si\u0119 w s\u0142uch, kiedy zamieniam si\u0119 w sampel",
-        "url": "https://open.spotify.com/album/4oKHdzwkwCtflykT5qjvLm"
-      },
-      "artists": [
-        {
-          "name": "asl33p",
-          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
-        }
-      ],
-      "duration_ms": 217178,
-      "name": "wejd\u017amina\u0142eb",
-      "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"
+      "duration_ms": 161342,
+      "name": "Queensize / Kingsize",
+      "url": "https://open.spotify.com/track/71Jv6UBNAosU8kldK6rN27"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1555,6 +1559,42 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "zamieniaj si\u0119 w s\u0142uch, kiedy zamieniam si\u0119 w sampel",
+        "url": "https://open.spotify.com/album/4oKHdzwkwCtflykT5qjvLm"
+      },
+      "artists": [
+        {
+          "name": "asl33p",
+          "url": "https://open.spotify.com/artist/6lAdHrwad3QyDb70RvvM1g"
+        }
+      ],
+      "duration_ms": 217178,
+      "name": "wejd\u017amina\u0142eb",
+      "url": "https://open.spotify.com/track/365iGlz3KrZRCoZ3hsJHVJ"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Jest p\u00f3\u017ano w nocy",
+        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
+      },
+      "artists": [
+        {
+          "name": "Yappe",
+          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
+        },
+        {
+          "name": "DJ HWR",
+          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+        }
+      ],
+      "duration_ms": 190767,
+      "name": "Jest p\u00f3\u017ano w nocy",
+      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Dywan",
         "url": "https://open.spotify.com/album/1oivICGQQm4ZyBbHZT5yUq"
       },
@@ -1571,26 +1611,6 @@
       "duration_ms": 100000,
       "name": "Dywan",
       "url": "https://open.spotify.com/track/2wIPpx1Jt3pcAEHYqE57ay"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Queensize / Kingsize",
-        "url": "https://open.spotify.com/album/1TKMkGKIp7C2Bmo23qByB7"
-      },
-      "artists": [
-        {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
-        },
-        {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Queensize / Kingsize",
-      "url": "https://open.spotify.com/track/71Jv6UBNAosU8kldK6rN27"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1683,22 +1703,26 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Jest p\u00f3\u017ano w nocy",
-        "url": "https://open.spotify.com/album/1uGe1zpLQGRphzQ7mr82BR"
+        "name": "ad hoc",
+        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
       },
       "artists": [
         {
-          "name": "Yappe",
-          "url": "https://open.spotify.com/artist/12ZA1WGfxNxkd18jcV8UzP"
+          "name": "Expo 2000",
+          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
         },
         {
-          "name": "DJ HWR",
-          "url": "https://open.spotify.com/artist/6255yim4X30IpIWY3UBgKW"
+          "name": "Memfiz",
+          "url": "https://open.spotify.com/artist/498DCpjnWn1Ck3M7Cs9AOe"
+        },
+        {
+          "name": "DJ Te",
+          "url": "https://open.spotify.com/artist/4Y7PxPGTVqa0NcR5XKZEQo"
         }
       ],
-      "duration_ms": 190767,
-      "name": "Jest p\u00f3\u017ano w nocy",
-      "url": "https://open.spotify.com/track/216jcehwuuvKELkFoaCAYU"
+      "duration_ms": 182615,
+      "name": "Przebi\u015bniegi",
+      "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1783,30 +1807,6 @@
       "duration_ms": 186000,
       "name": "P\u00f3ki Co Rutyna",
       "url": "https://open.spotify.com/track/7C6MDQNDZKhSusWOCTjyal"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "ad hoc",
-        "url": "https://open.spotify.com/album/79UqiVLzDlx1XBmGT5ozUe"
-      },
-      "artists": [
-        {
-          "name": "Expo 2000",
-          "url": "https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu"
-        },
-        {
-          "name": "Memfiz",
-          "url": "https://open.spotify.com/artist/498DCpjnWn1Ck3M7Cs9AOe"
-        },
-        {
-          "name": "DJ Te",
-          "url": "https://open.spotify.com/artist/4Y7PxPGTVqa0NcR5XKZEQo"
-        }
-      ],
-      "duration_ms": 182615,
-      "name": "Przebi\u015bniegi",
-      "url": "https://open.spotify.com/track/5lNWxVjDM2RsgX6L7Qm0me"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "SHUTDOWN",
-        "url": "https://open.spotify.com/album/03FIXn5smxVaMddPZaf7Iv"
-      },
-      "artists": [
-        {
-          "name": "Mac Sch",
-          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "SHUTDOWN",
-      "url": "https://open.spotify.com/track/08LsL5M8TzQk7KIjs3ONdH"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Tak\u017ce ten",
         "url": "https://open.spotify.com/album/1VWRzLm9Uo17fBT2EPoPb2"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 178790,
       "name": "Tak\u017ce ten",
       "url": "https://open.spotify.com/track/5Wq75k4EV86NlxEgH6pQHW"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "SHUTDOWN",
+        "url": "https://open.spotify.com/album/03FIXn5smxVaMddPZaf7Iv"
+      },
+      "artists": [
+        {
+          "name": "Mac Sch",
+          "url": "https://open.spotify.com/artist/6RCY3hWeGoQnAyjfsbBFxw"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "SHUTDOWN",
+      "url": "https://open.spotify.com/track/08LsL5M8TzQk7KIjs3ONdH"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "11minut",
-        "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
-      },
-      "artists": [
-        {
-          "name": "rogi",
-          "url": "https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "highway eleven",
-      "url": "https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Co ludzie powiedz\u0105?",
         "url": "https://open.spotify.com/album/7eUUXsFfPGtQvjvOJdNSfW"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 193072,
       "name": "E i \u0105",
       "url": "https://open.spotify.com/track/3nAOWVHAZPZyUOeTUAMqKX"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "11minut",
+        "url": "https://open.spotify.com/album/35LpHhTXWFgeVyCcHWK2kN"
+      },
+      "artists": [
+        {
+          "name": "rogi",
+          "url": "https://open.spotify.com/artist/5rIZoZQY5YwXdy7I7w6YKK"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "highway eleven",
+      "url": "https://open.spotify.com/track/21wH6BX6I7JALOnElthTo8"
     },
     {
       "added_at": "2024-08-01 22:00:00",

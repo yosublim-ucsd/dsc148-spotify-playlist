@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44239,
+  "num_followers": 44238,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZlr+KWWMOV2O92pgDt/Ob0gfOjozO",
+  "snapshot_id": "AAAZl7YdKHZ7kN/1w3VeGmgjmOK3wzk3",
   "tracks": [
+    {
+      "added_at": "2024-08-16 17:17:39",
+      "album": {
+        "name": "Kick Drum",
+        "url": "https://open.spotify.com/album/1CoFKBsX0lsFyKZfHjmsvP"
+      },
+      "artists": [
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Kick Drum",
+      "url": "https://open.spotify.com/track/5oo2RBuuxhL3qzL5gnhlkW"
+    },
     {
       "added_at": "2024-08-09 15:34:06",
       "album": {

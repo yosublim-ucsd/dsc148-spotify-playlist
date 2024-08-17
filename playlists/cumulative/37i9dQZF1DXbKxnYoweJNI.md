@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 美秀集團  x 盧廣仲 \(Amazing Show x Crowd Lu\)
 
-454 songs - 1 day 2 hr 3 min
+456 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [白卷](https://open.spotify.com/track/4RH14uCEdeY1nXHnouSrtA) | [痞幼](https://open.spotify.com/artist/2TfdmFQgGUmxFGrzC5S3EA), [Lambert凌](https://open.spotify.com/artist/61u8FEElPIrXoGWzVldLnC) | [白卷](https://open.spotify.com/album/45jNBzVKwSsxLJJYkmC6GI) | 3:21 | 2024-06-27 | 2024-07-05 |
 | [白紙](https://open.spotify.com/track/5b8DHXwiQBqgnoSPW1oeOf) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [白紙](https://open.spotify.com/album/38y9ukNIcUCbp2qKFavPVE) | 2:30 | 2024-06-27 | 2024-08-09 |
 | [白菜滷](https://open.spotify.com/track/2DqNlMtpiTIrS9wQeYTMx2) | [白菜Diva](https://open.spotify.com/artist/6x1TqaHtcF13W6XrwFRlYS) | [白菜滷](https://open.spotify.com/album/5TZDSnWmxGqUo8fxrcTclu) | 2:59 | 2024-07-25 | 2024-08-09 |
+| [相像](https://open.spotify.com/track/5FBjb0I25KrkDI0nDApQhv) | [Aiden Chen](https://open.spotify.com/artist/4fN8OLPzgJFd7t40sbomjB) | [Breathe](https://open.spotify.com/album/6fIjnQnBCt1NGmU9w6FIUc) | 3:14 | 2024-08-15 |  |
 | [相同的缺憾](https://open.spotify.com/track/3rM9zESfGk4wXZWlz90L36) | [林鴻宇](https://open.spotify.com/artist/3cNu9TadMUtDkoVd5db2qB) | [相同的缺憾](https://open.spotify.com/album/1i2E6Rv5fRgUJJ1G9f5ULx) | 4:18 | 2024-06-27 | 2024-07-12 |
 | [盾\(化守為攻\)](https://open.spotify.com/track/0UJhhvReld9PTKXf87P9ZL) | [HomeRich](https://open.spotify.com/artist/4GtW6FVTo4AlQRzVMgexJF) | [矛、盾](https://open.spotify.com/album/42IFB6Kl4DPQt1M5J3w2hg) | 1:56 | 2024-07-25 | 2024-08-02 |
 | [真空](https://open.spotify.com/track/6ucJpouoT0ytZXedeNVZEd) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF), [夏日入侵企画](https://open.spotify.com/artist/3p3I9lGFyHSYOe9htNDuAb) | [真空](https://open.spotify.com/album/0OvrkHIdD1GMJqsrtX0cA6) | 3:49 | 2024-06-27 | 2024-07-05 |
@@ -417,6 +418,7 @@
 | [解答](https://open.spotify.com/track/4oOS3OKUCOTY9X5ydcN7Lz) | [西红](https://open.spotify.com/artist/7HLydWxNZxCbxDOhuhxkrE), [GhosTMG](https://open.spotify.com/artist/1AB9289WLZDJ2gWXrPvUy0) | [解答](https://open.spotify.com/album/0QK8jXT2M6eLOO3vlBktEd) | 2:15 | 2024-07-25 | 2024-08-02 |
 | [訂閱冥想 \- Live Session](https://open.spotify.com/track/4xQqbDjI2eDtvxw8jJUm0F) | [Echo](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [訂閱冥想 \(Live Session\)](https://open.spotify.com/album/7gi9kTbyN9fyMHly1SHBY9) | 4:45 | 2024-07-04 | 2024-07-19 |
 | [記號](https://open.spotify.com/track/4pFIB3ZYK9nkAJi0NktgC6) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [記號](https://open.spotify.com/album/7DxfklhKiZzRJGKA2qzno9) | 2:44 | 2024-06-27 | 2024-07-05 |
+| [該死的結局](https://open.spotify.com/track/1DjRpNCvgcV2TsUkO01jBu) | [Wadewei](https://open.spotify.com/artist/3NO1uEvxv7DM2ZIeSHTQG0) | [該死的結局](https://open.spotify.com/album/0eFOPuItlkSdSrh7HCKHzY) | 3:53 | 2024-08-15 |  |
 | [語畢，請再一遍](https://open.spotify.com/track/3630b4gewzNGNuw0HcmLdv) | [BabyGrape格蕾普](https://open.spotify.com/artist/3OAaEtoIFea0Ecmdczb9t3), [Drogas](https://open.spotify.com/artist/6xKhAigwReihjwHyYywvEX) | [雙重溫柔](https://open.spotify.com/album/1Ml9lk0jpkwPHBaJ8i2kZy) | 3:02 | 2024-06-27 | 2024-07-05 |
 | [說好](https://open.spotify.com/track/39SKeJRiOwZIFtkPIfEdr2) | [林加安](https://open.spotify.com/artist/4XdTzldVEGnxAU4KwfSNrw) | [說好](https://open.spotify.com/album/5bwpyP3Zo1SypPE7WsAAuw) | 2:31 | 2024-08-08 |  |
 | [诚实 \(Honesty）](https://open.spotify.com/track/32SUbqjAiA2t1vrNdAjVsX) | [Neo Red](https://open.spotify.com/artist/6vMvynbpxylVPF9ZitcNsz) | [诚实 \(Honesty）](https://open.spotify.com/album/4XKpbyZh2ibDIlsoslzWj1) | 2:22 | 2024-07-11 | 2024-08-16 |

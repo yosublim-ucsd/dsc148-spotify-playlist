@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-63 songs - 3 hr 17 min
+64 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [BOSSED UP](https://open.spotify.com/track/2phujKdfkzsl9mpT1iGuB0) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [ÞETTA ER IZLEIFUR](https://open.spotify.com/album/5hg2HWIwUAYqxTPZztT34g) | 1:43 | 2024-06-21 | 2024-08-16 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-16 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-21 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
 | [EKKI BÍÐA](https://open.spotify.com/track/2oM99C7UAdQhVVxglzETX4) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [ÞETTA ER IZLEIFUR](https://open.spotify.com/album/5hg2HWIwUAYqxTPZztT34g) | 3:05 | 2024-06-21 | 2024-07-27 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-21 |  |
 | [Engill](https://open.spotify.com/track/1aUWzY3d7URkXM0b3pGcJ2) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Engill](https://open.spotify.com/album/3Lew1unD6VjstMzy5OP0PR) | 3:38 | 2024-06-21 | 2024-07-27 |

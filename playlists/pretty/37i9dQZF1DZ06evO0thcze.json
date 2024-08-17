@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 51136,
+  "num_followers": 51146,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAACWGuYdtfYxVOfo5yiUe1R0",
+  "snapshot_id": "Zr1FAAAAAAA241SqNnLT7thFNtFV/MvL",
   "tracks": [
     {
       "added_at": null,
@@ -587,30 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guadalajara",
-        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guadalajara",
+        "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 229977,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
     },
     {
       "added_at": null,
@@ -1227,38 +1227,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alzypher Vol. 3",
-        "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
+        "name": "Aqu\u00ed Estoy Yo",
+        "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
       },
       "artists": [
         {
-          "name": "Alzada",
-          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Malucci",
-          "url": "https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Samg",
+          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Alzypher Vol. 3",
-      "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
+      "duration_ms": 247150,
+      "name": "Aqu\u00ed Estoy Yo",
+      "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
     },
     {
       "added_at": null,
@@ -1291,26 +1279,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy Yo",
-        "url": "https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW"
+        "name": "Alzypher Vol. 3",
+        "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
         },
         {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
-          "name": "Samg",
-          "url": "https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Malucci",
+          "url": "https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 247150,
-      "name": "Aqu\u00ed Estoy Yo",
-      "url": "https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg"
+      "duration_ms": 234000,
+      "name": "Alzypher Vol. 3",
+      "url": "https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1"
     },
     {
       "added_at": null,

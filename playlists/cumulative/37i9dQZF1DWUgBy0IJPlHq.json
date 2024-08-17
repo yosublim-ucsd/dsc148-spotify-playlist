@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223123,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/1t4mMKc8eqxWwfYD8YtuT2"
@@ -3845,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Thus Spoke the Fool",
+        "url": "https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n"
+      },
+      "artists": [
+        {
+          "name": "Pony Bradshaw",
+          "url": "https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184985,
+      "name": "Going to Water",
+      "url": "https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl"
+    },
+    {
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -5660,7 +5678,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 126466,
       "name": "Life Ain't Fair and the World Is Mean",
       "url": "https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0"
@@ -6540,6 +6558,28 @@
       "duration_ms": 171000,
       "name": "Neon Blue",
       "url": "https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186861,
+      "name": "Never Love You Again (Feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI"
     },
     {
       "album": {

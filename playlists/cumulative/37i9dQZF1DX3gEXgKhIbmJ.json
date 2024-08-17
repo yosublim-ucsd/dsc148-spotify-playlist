@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "Como Faz",
+        "url": "https://open.spotify.com/album/04PPEYDFsLqtJpkFxxpuh8"
+      },
+      "artists": [
+        {
+          "name": "BemBilly",
+          "url": "https://open.spotify.com/artist/4BiUJ8ML95xkpaEkQMN2tK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Como Faz",
+      "url": "https://open.spotify.com/track/2XdQV0ps5w8Nu9Whpk3liD"
+    },
+    {
+      "album": {
         "name": "L\u00e1DoEsgoto",
         "url": "https://open.spotify.com/album/6razVeB0xgRp9Dh6iZmzRr"
       },
@@ -3528,6 +3546,24 @@
       "duration_ms": 186474,
       "name": "Plano",
       "url": "https://open.spotify.com/track/0MClYaY8PdPAU3g3SSzlde"
+    },
+    {
+      "album": {
+        "name": "Por Amor E Por Lucro",
+        "url": "https://open.spotify.com/album/4YTGPhBPXsEe76Z0JWhKtQ"
+      },
+      "artists": [
+        {
+          "name": "Ororo ii",
+          "url": "https://open.spotify.com/artist/1vKsthVBmGCSW6MggvoMp1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139857,
+      "name": "Por Amor E Por Lucro",
+      "url": "https://open.spotify.com/track/7c5iSSkheCSPiHSfDcyG69"
     },
     {
       "album": {

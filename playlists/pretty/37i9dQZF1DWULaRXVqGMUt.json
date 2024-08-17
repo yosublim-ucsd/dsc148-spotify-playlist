@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 52305,
+  "num_followers": 52337,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 203466,
-      "name": "Two-Fisted Mama",
-      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
+      "duration_ms": 158826,
+      "name": "C.Q. Boogie",
+      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
         }
       ],
-      "duration_ms": 158826,
-      "name": "C.Q. Boogie",
-      "url": "https://open.spotify.com/track/38Bctr2TPHF6kOvTmSIiZd"
+      "duration_ms": 203466,
+      "name": "Two-Fisted Mama",
+      "url": "https://open.spotify.com/track/7cUsW9mL1lf2a7rACOS5dA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "So Swell",
         "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 151261,
       "name": "Swanee River Boogie",
       "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 287190,
       "name": "Boogie Stomp",
       "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Yancey Special",
-        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "Yancey Stomp",
-      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "New Orleans Piano (Mono)",
         "url": "https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 160795,
       "name": "Boogie Woogie - Mono",
       "url": "https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 172460,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Hightower Boogie Woogie",
-        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
+        "name": "This Is Boogie Woogie!",
+        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
       },
       "artists": [
         {
-          "name": "Floyd Domino",
-          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
+          "name": "Dave Taylor",
+          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Count Basie's Red Bank Cafe",
-      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
+      "duration_ms": 154826,
+      "name": "Boogie In The City",
+      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "This Is Boogie Woogie!",
-        "url": "https://open.spotify.com/album/7xuaoGlXBml1LKboNVC5FP"
+        "name": "Hightower Boogie Woogie",
+        "url": "https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0"
       },
       "artists": [
         {
-          "name": "Dave Taylor",
-          "url": "https://open.spotify.com/artist/75R7PfBRN6kdo7yY7NJhR8"
+          "name": "Floyd Domino",
+          "url": "https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2"
         }
       ],
-      "duration_ms": 154826,
-      "name": "Boogie In The City",
-      "url": "https://open.spotify.com/track/6iFJrJaIANDr7vS3hoJuWL"
+      "duration_ms": 159666,
+      "name": "Count Basie's Red Bank Cafe",
+      "url": "https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "\"Devil Digit Boogie Woogie\"",
-        "url": "https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "A Boogie Woogie Sunday",
-      "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Jack, You're Dead: The Essential Blue Archive",
         "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 163506,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "\"Devil Digit Boogie Woogie\"",
+        "url": "https://open.spotify.com/album/0HCzwcdrad0FPYjSyv5U16"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "A Boogie Woogie Sunday",
+      "url": "https://open.spotify.com/track/2PBCW7owo2RtDjgm5VSkzz"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Jack, You're Dead: The Essential Blue Archive",
+        "url": "https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Choo Choo Ch' Boogie",
+      "url": "https://open.spotify.com/track/4vPJK1gKyygRS2mep7iyDq"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Woogie & Blues",
         "url": "https://open.spotify.com/album/2iNiNSnPYpT3zNFEbWvRvL"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 165619,
       "name": "Twelfth St. Boogie",
       "url": "https://open.spotify.com/track/54Yn0omLZ35iMhBZNKUrSj"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Dreaming The Blues: The Best Of Charlie Spand",
-        "url": "https://open.spotify.com/album/7hBy7gNE6ilG7drOEx2g4q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Spand",
-          "url": "https://open.spotify.com/artist/0lPwDM5AWseYSBCpie9yVP"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Hastings St.",
-      "url": "https://open.spotify.com/track/1XKAKEHIyELpnsZpFhxVhG"
     }
   ],
   "unique_name": "Boogie-woogie Blues",

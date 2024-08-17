@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Cloudy June
 
-739 songs - 1 day 10 hr 2 min
+744 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Dynasty](https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Dynasty](https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX) | 2:24 | 2024-08-02 |  |
 | [Easier than Lying](https://open.spotify.com/track/7N1TIml2jRQRgXUrpXgXrk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:26 | 2022-03-18 | 2022-04-02 |
 | [EAT](https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [EAT / DIRT](https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu) | 2:17 | 2024-04-26 | 2024-06-29 |
+| [Ego Rush](https://open.spotify.com/track/6Et4i8p7URXpaUfIjCxild) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2VIuQAHaJc8SRwmIuNElty) | 2:39 | 2024-08-16 |  |
 | [EGO!](https://open.spotify.com/track/0laq7DfW9YtPdvQsePTveK) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [EGO!](https://open.spotify.com/album/7ISSf6pMnWSMrpF1AjZqpM) | 2:28 | 2024-04-26 | 2024-06-29 |
 | [End of an Era](https://open.spotify.com/track/2nQY9jprTEWOVMIAdN0o48) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [End of an Era](https://open.spotify.com/album/4IUNO0oCCoM5DZ3va30wVc) | 2:13 | 2022-11-11 | 2023-04-01 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-07-01 | 2022-10-01 |
@@ -237,6 +238,7 @@
 | [Famous](https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [Famous](https://open.spotify.com/album/1qhzuAx20QoG9IIcl2X4Me) | 3:00 | 2024-07-12 |  |
 | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Fantasy \(with GAYLE & Em Beihold\)](https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A) | 2:55 | 2023-04-14 | 2023-07-22 |
 | [Father, Son, Holy Ghost](https://open.spotify.com/track/0aJb0z0Izv8Hjr3Oh4nC4Y) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Father, Son, Holy Ghost](https://open.spotify.com/album/1yYflK4Y3nuKYeA7LyPyhF) | 2:33 | 2023-04-07 | 2023-08-05 |
+| [FAVOURITE MISTAKE](https://open.spotify.com/track/0rH7Q9eatIX85iEjnTVzex) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [FAVOURITE MISTAKE](https://open.spotify.com/album/1zC5t0eCDIAj4j4sbW6XsQ) | 2:36 | 2024-08-16 |  |
 | [FCKN IN LOVE](https://open.spotify.com/track/2UN1L1asI3uKQCijznnz8Z) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [FCKN IN LOVE](https://open.spotify.com/album/6E9vd6KQ1xdRmiwx7YmGO9) | 3:14 | 2022-02-25 | 2022-04-23 |
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-07 | 2023-05-20 |
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-08-05 |
@@ -408,6 +410,7 @@
 | [Losing My Mind](https://open.spotify.com/track/6ZlaFfhkHLPninRONOwHAu) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/75biEwUSuKVlwVs1K3HgqM) | 2:48 | 2022-07-01 | 2022-07-29 |
 | [Losing My Mind](https://open.spotify.com/track/6lAnOqAIMG0UVlYkSm2jM1) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Losing My Mind](https://open.spotify.com/album/6L7O4HqttNPIIVTGa4xZVH) | 2:48 | 2022-07-01 | 2022-09-24 |
 | [Losing Sleep](https://open.spotify.com/track/7yML47qFTPnJW9gp7uurpT) | [Cyn](https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7) | [Losing Sleep](https://open.spotify.com/album/7J7FNt2SsRtvs294XWmTPd) | 2:42 | 2022-10-14 | 2022-11-12 |
+| [Love Always Knocks Me Out](https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Love Always Knocks Me Out](https://open.spotify.com/album/2PzM429yMvxxpcUpPfoCfr) | 2:52 | 2024-08-16 |  |
 | [LOVE AND WAR](https://open.spotify.com/track/3YOPBDerQJorMfLrORcbsY) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [LOVE AND WAR](https://open.spotify.com/album/2q5AVOB26ptWtuXN3hjfok) | 2:40 | 2022-09-02 | 2022-11-26 |
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2023-09-08 | 2023-10-14 |
 | [Love Me Not](https://open.spotify.com/track/6UumSbVp1ae6IfcOWDo1oL) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Love Me Not](https://open.spotify.com/album/7xUn31DxHbMMH8oNTeI4uh) | 2:20 | 2024-02-09 | 2024-06-29 |
@@ -565,6 +568,7 @@
 | [Selfish](https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Selfish](https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO) | 2:30 | 2022-03-25 | 2022-06-04 |
 | [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 | 2022-03-11 | 2022-06-04 |
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
+| [Sex Concept](https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Sex Concept](https://open.spotify.com/album/2JOwZaCHcUSJUxQPQ9WfmY) | 3:52 | 2024-08-16 |  |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 | 2024-03-23 |
 | [Shapeshifter](https://open.spotify.com/track/5bmGMXvdLlUdLp0qYauHcC) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shapeshifter](https://open.spotify.com/album/0mfYRLKHbGtozSzkKMmUol) | 2:26 | 2024-04-12 | 2024-06-29 |
 | [she knows it](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [she knows it](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 | 2022-07-02 |
@@ -676,6 +680,7 @@
 | [Twisted](https://open.spotify.com/track/1m1DJcA1MNiadetY9tFZzD) | [Laura Davidson](https://open.spotify.com/artist/09HoJ8gs0b933TzQs0qvKf) | [Twisted](https://open.spotify.com/album/0csthgfGKnJIar7TlqRGKE) | 2:21 | 2023-12-15 | 2024-02-17 |
 | [Two Sides](https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [It's Not That Deep: Chapter 1](https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6) | 2:25 | 2022-08-12 | 2022-09-17 |
 | [ugly](https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:00 | 2022-11-11 | 2023-03-11 |
+| [Ugly](https://open.spotify.com/track/6v5t940nnWNcsGsuRyerg7) | [Naomi Jon](https://open.spotify.com/artist/7dp0IBlB3OJ5WYURSsc6Do) | [Villain Of Your Dreams](https://open.spotify.com/album/77ZWVidey5ROOKFCUAaNtl) | 2:41 | 2024-08-16 |  |
 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 | 2023-01-06 | 2023-02-11 |
 | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/track/3smlpsXoDcTvDqHZTYfJLe) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [UH OH! \(feat\. BENEE\)](https://open.spotify.com/album/4TIaOfSOnflI3Qwl4aknsN) | 2:13 | 2022-04-22 | 2022-11-12 |
 | [Unattractive](https://open.spotify.com/track/7GLsAhi8OuJDAP7O5BwWTr) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Unattractive](https://open.spotify.com/album/2IwztrANynFPpFWzAbPK0k) | 3:02 | 2024-05-17 | 2024-06-29 |

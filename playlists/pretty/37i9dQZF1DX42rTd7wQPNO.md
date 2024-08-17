@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > It's the Year of the Cowgirl! Carter Faith is putting a little yee haw in our laid back.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,635 likes - 120 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,582 likes - 120 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

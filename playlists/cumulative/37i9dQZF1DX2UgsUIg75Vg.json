@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Ambr\u00e9",
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: Leon Thomas",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Back in My Body",
+        "url": "https://open.spotify.com/album/1ABXO5zAU7TQYoh5QETYdA"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Back in My Body",
+      "url": "https://open.spotify.com/track/1QAmVJiBVbCr3MYQ7XNQAY"
+    },
+    {
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177593,
       "name": "Belong To You (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162764,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/4BIYpulTUkEj3gb0WWb9OV"
@@ -3198,6 +3216,24 @@
       "duration_ms": 248904,
       "name": "Chasing Amy",
       "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
+    },
+    {
+      "album": {
+        "name": "Check - Acoustic",
+        "url": "https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Check - Acoustic",
+      "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
     },
     {
       "album": {
@@ -6238,6 +6274,24 @@
     {
       "album": {
         "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269055,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
         "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
       },
       "artists": [
@@ -6782,7 +6836,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192000,
       "name": "Getting No Sleep",
       "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
@@ -12410,7 +12464,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165610,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0Bm5WU83MjOYoDXKoiOQBJ"
@@ -13401,6 +13455,28 @@
     },
     {
       "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159818,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
+    },
+    {
+      "album": {
         "name": "Pick A Side",
         "url": "https://open.spotify.com/album/1xf8ut7calxvWuhLYyTrYK"
       },
@@ -13496,6 +13572,32 @@
       "duration_ms": 174440,
       "name": "Pieces ft Duckwrth",
       "url": "https://open.spotify.com/track/6DDiQIPxmDFJ7Tc1gwrN1s"
+    },
+    {
+      "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
       "album": {
@@ -14037,6 +14139,24 @@
     },
     {
       "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/20neKpBNWn5TfN8rA2rVnp"
+    },
+    {
+      "album": {
         "name": "STAY",
         "url": "https://open.spotify.com/album/733z83e8O7NxUNJvLXmmZp"
       },
@@ -14120,7 +14240,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166857,
       "name": "Rent Free - Acoustic",
       "url": "https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq"

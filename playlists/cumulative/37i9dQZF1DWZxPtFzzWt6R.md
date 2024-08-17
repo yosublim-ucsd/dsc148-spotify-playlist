@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-84 songs - 5 hr 26 min
+85 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 | 2023-06-23 |  |
 | [Achei um Bom Amigo](https://open.spotify.com/track/4TZCYmMj0wSelrac8rUC03) | [Vitor Quevedo](https://open.spotify.com/artist/4CPKaeqLullSnylxXSgv9G) | [Raízes Vol\. 1](https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM) | 3:02 | 2023-10-20 |  |
 | [Adorador por Excelência \- Ao Vivo](https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Adorador por Excelência \(Ao Vivo\)](https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF) | 3:59 | 2023-09-01 |  |
-| [Agradeço](https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55) | [AgroPraise](https://open.spotify.com/artist/7mVNWttEDAHygePBeERPSA), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agradeço](https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3) | 3:41 | 2024-01-05 |  |
+| [Agradeço](https://open.spotify.com/track/6XFZxwJ5TNZY4TdAfx1v55) | [AgroPraise](https://open.spotify.com/artist/7mVNWttEDAHygePBeERPSA), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Agradeço](https://open.spotify.com/album/5W23bwhWkoCoQ21uyYMel3) | 3:41 | 2024-01-05 | 2024-08-17 |
 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 | 2023-06-23 |  |
 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 | 2023-06-23 |  |
 | [Amor a Primeira Vista](https://open.spotify.com/track/6MQJbYP33tPZTNRS0HGpLD) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Amor a Primeira Vista](https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N) | 2:57 | 2023-06-23 | 2024-06-29 |
@@ -52,6 +52,7 @@
 | [Lugar Secreto](https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT) | [Lucélia Santos](https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV) | [Lugar Secreto](https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk) | 3:46 | 2023-06-23 |  |
 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 | 2023-06-23 |  |
 | [Me Entrego](https://open.spotify.com/track/6j10JapIh1BVbUjjCVW9Tv) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Entrego](https://open.spotify.com/album/5MKW0jgUtpVcaBfIH1ndN3) | 3:29 | 2023-06-23 | 2023-07-29 |
+| [Medley: João Viu / Sou um Milagre / Vou Seguir \- Ao Vivo](https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi) | [Banda Som e Louvor](https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc) | [Medley: João Viu / Sou um Milagre / Vou Seguir \- Ao Vivo](https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd) | 5:54 | 2024-08-16 |  |
 | [Meu Barquinho \- Ao Vivo](https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Meu Barquinho](https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86) | 3:15 | 2023-06-23 |  |
 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 | 2023-06-23 |  |
 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 | 2023-09-01 |  |

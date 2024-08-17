@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kXketJU8JV.md) - [plain]
 
 > 夏を制する者は受験を制す。
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,972 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,977 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

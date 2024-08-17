@@ -2,9 +2,9 @@
 
 ### [Mujeres Bravías](https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ)
 
-> Estas son las indomables de la Música Mexicana\. Priscila y sus Balas de Plata en portada.
+> Estas son las indomables de la Música Mexicana\. Belinda en portada.
 
-419 songs - 22 hr 27 min
+420 songs - 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 | 2023-06-16 |  |
 | [La Historia Al Revés](https://open.spotify.com/track/3iF002Z7f68vsbwrVKTWWG) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [La Historia Al Revés](https://open.spotify.com/album/1I7VntMT4xGSSlPxqGiQEK) | 2:46 | 2024-03-22 | 2024-03-30 |
 | [La Llamada \- 1993 Version](https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [Live Selena](https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck) | 3:11 | 2021-12-17 | 2022-09-24 |
+| [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 | 2024-08-16 |  |
 | [La Mejor Decisión](https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [La Mejor Decisión](https://open.spotify.com/album/4g1hC9fKiZImPBiW04J44C) | 2:53 | 2024-07-12 |  |
 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 | 2022-09-23 | 2023-01-21 |
 | [La Muerte No Es el Olvido](https://open.spotify.com/track/7h62f2DDObGo0B7FOoyAan) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi), [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [La Muerte No Es el Olvido](https://open.spotify.com/album/2Naj6u36xiUj5BPqSuM7Ip) | 3:40 | 2023-10-27 | 2024-02-24 |
@@ -311,7 +312,7 @@
 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 | 2023-05-05 |  |
 | [Prieta Linda](https://open.spotify.com/track/2kBqOvaNAhvchI7l1ouNGd) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Prieta Linda](https://open.spotify.com/album/2TcWpGmSYIANY2yIsfIgOJ) | 3:43 | 2023-06-16 | 2023-07-29 |
 | [Prohibido Llorar](https://open.spotify.com/track/2xLIsU38CfXVqtTSZHaTYY) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Prohibido Llorar](https://open.spotify.com/album/1ur46naiDRp05KohaDhfP1) | 4:13 | 2023-07-28 | 2024-03-23 |
-| [Písale A La Ranfla](https://open.spotify.com/track/3gRxRYykb9g6SwyePhkqcU) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Písale A La Ranfla](https://open.spotify.com/album/7GA2tONWlCNVGW0HMSz39p) | 2:26 | 2024-05-03 |  |
+| [Písale A La Ranfla](https://open.spotify.com/track/3gRxRYykb9g6SwyePhkqcU) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Písale A La Ranfla](https://open.spotify.com/album/7GA2tONWlCNVGW0HMSz39p) | 2:26 | 2024-05-03 | 2024-08-17 |
 | [Que Facilito](https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Que Facilito](https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa) | 2:36 | 2021-12-17 | 2022-05-07 |
 | [Que Le Vamos A Hacer](https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Que Le Vamos A Hacer](https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa) | 3:23 | 2023-08-04 | 2024-03-23 |
 | [Que Pinche Suerte](https://open.spotify.com/track/57uildPPWrp4B2olXuPYOE) | [Adriana Moroyoqui](https://open.spotify.com/artist/0ocrVYgiqJSuc9rMwT0FVW), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Que Pinche Suerte](https://open.spotify.com/album/2WDLxm1hgxwX6wISGORRh9) | 2:20 | 2024-07-26 |  |
@@ -322,7 +323,7 @@
 | [Que Razón Tenía Mi Apá](https://open.spotify.com/track/1JDZPztDQcdFHrPcN1GGNl) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [Que Razón Tenía Mi Apá](https://open.spotify.com/album/5vA7q0O1i0fGn19lBuoTe4) | 3:14 | 2021-12-17 | 2022-02-23 |
 | [Que Se Sepa Nuestro Amor](https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Se Sepa Nuestro Amor](https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr) | 2:59 | 2021-12-17 | 2022-01-29 |
 | [Quería Que Fueras Tú](https://open.spotify.com/track/3krJcR6T8Q5hk58TlKYUH8) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Quería Que Fueras Tú](https://open.spotify.com/album/0UjakKKW8s4caHqn1NA8wY) | 2:54 | 2024-05-03 |  |
-| [quesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [quesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-09 |  |
+| [QuesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [QuesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-09 |  |
 | [Quiero Abrazarte Tanto](https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [Quiero Abrazarte Tanto](https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3) | 3:31 | 2023-06-16 | 2024-02-10 |
 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 | 2022-01-28 | 2022-04-09 |
 | [Quiero Andar al 420](https://open.spotify.com/track/5PQHmdQ2KJ5ZPHyKHIWQbQ) | [Ely Quintero](https://open.spotify.com/artist/1Tgbk6apDUw1Vtg8qusImT) | [Quiero Andar al 420](https://open.spotify.com/album/7vtOXGRZbnZTwAQLnULbJO) | 2:42 | 2022-01-28 | 2022-02-17 |

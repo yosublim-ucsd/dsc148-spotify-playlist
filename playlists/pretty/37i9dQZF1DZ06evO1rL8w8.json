@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 209415,
+  "num_followers": 209478,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAB9goUbQtWMQ5zbRJi+UNSH",
+  "snapshot_id": "Zr1FAAAAAAAO8JZsDHRK16yS7qnBb0Ti",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo (En Vivo)",
-      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo (En Vivo)",
+      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Golden Boy",
+        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "El Golden Boy",
+      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -895,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Golden Boy",
-        "url": "https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
         {
@@ -904,25 +920,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 160645,
-      "name": "El Golden Boy",
-      "url": "https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
+      "duration_ms": 182212,
+      "name": "Fuga Pa Maza",
+      "url": "https://open.spotify.com/track/5ySCwdva5U06Lqf3Z7sz8e"
     }
   ],
   "unique_name": "This Is El Komander",

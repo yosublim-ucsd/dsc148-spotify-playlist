@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Min Zina",
+        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
+      },
+      "artists": [
+        {
+          "name": "Alibrorsh",
+          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
+        }
+      ],
+      "duration_ms": 196459,
+      "name": "Min Zina",
+      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Sanna Mina Ord",
         "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 249423,
       "name": "Sanna Mina Ord",
       "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Min Zina",
-        "url": "https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb"
-      },
-      "artists": [
-        {
-          "name": "Alibrorsh",
-          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
-        }
-      ],
-      "duration_ms": 196459,
-      "name": "Min Zina",
-      "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
     },
     {
       "added_at": "2024-06-24 11:19:01",

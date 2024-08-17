@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charles Ans. Los temas esenciales, todos en una lista.",
-  "num_followers": 227874,
+  "description": "This is Charles Ans. The essential tracks, all in one playlist.",
+  "num_followers": 227941,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABxO8Bzc3bluB7ECKR2g35l",
+  "snapshot_id": "Zr1FAAAAAAD7xuBsKchRkN+O/5iWnZpI",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que la Muerte Nos Separe",
-        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Hasta Que la Muerte Nos Separe",
-      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Que Te Bese",
         "url": "https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 182127,
       "name": "Desde Que Te Bese",
       "url": "https://open.spotify.com/track/3LUp0DjkJlxhVVhSWgNETZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Que la Muerte Nos Separe",
+        "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Hasta Que la Muerte Nos Separe",
+      "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suena En Mi Barrio",
         "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Toca Perder",
         "url": "https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
-        }
-      ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,

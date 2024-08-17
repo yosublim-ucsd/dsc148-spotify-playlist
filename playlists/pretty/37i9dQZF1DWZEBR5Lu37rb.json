@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 69678,
+  "num_followers": 69777,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Masithokoze",
-        "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
-      },
-      "artists": [
-        {
-          "name": "DJ Stokie",
-          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
-        },
-        {
-          "name": "Eemoh",
-          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
-        }
-      ],
-      "duration_ms": 427217,
-      "name": "Masithokoze",
-      "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Permanent Music 3",
         "url": "https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Masithokoze",
+        "url": "https://open.spotify.com/album/3wdbuCXkU5r760vj9gSO2c"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "duration_ms": 427217,
+      "name": "Masithokoze",
+      "url": "https://open.spotify.com/track/4tsVMjM60RNTe9EV5oQ4sQ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Kwela",
         "url": "https://open.spotify.com/album/06iC7DjKV1ec1s0UZ3eYNA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 242613,
       "name": "Emlanjeni",
       "url": "https://open.spotify.com/track/3u4er9DgmXCyTMhBns3Rpp"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ngimtholile",
         "url": "https://open.spotify.com/album/4QD2ETs2brilp1iVISIcNP"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Amagama",
         "url": "https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Angel Of Mine",
-      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mababaza",
         "url": "https://open.spotify.com/album/4CGpMIEdICSqLHyrVAxFxt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 249866,
       "name": "Zodwa",
       "url": "https://open.spotify.com/track/4jsiLFfKYs4aohxVmEiv5B"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Angel Of Mine",
+      "url": "https://open.spotify.com/track/5uzVZ29dSPYmbgcRol3Gly"
     },
     {
       "added_at": "2024-05-22 11:00:00",

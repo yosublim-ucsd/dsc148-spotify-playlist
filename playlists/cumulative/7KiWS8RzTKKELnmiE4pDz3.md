@@ -4,7 +4,7 @@
 
 > 
 
-745 songs - 1 day 11 hr 45 min
+746 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [just cant](https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:22 | 2022-07-28 | 2023-05-09 |
 | [Kant rëlax](https://open.spotify.com/track/48x1ElzLnuwi72ZpEbbt7L) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:39 | 2022-04-04 | 2023-05-09 |
 | [Keep All That](https://open.spotify.com/track/0aA78qHNABmPVAhqmlPe6l) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Keep All That](https://open.spotify.com/album/3jpGLYf4jzhVjefWYt2HoL) | 2:19 | 2022-10-21 | 2023-05-09 |
+| [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-08-16 |  |
 | [Keep K's Around](https://open.spotify.com/track/78ILWhXPA1AMiSlarH2blU) | [TSM Beeezy](https://open.spotify.com/artist/6AdVDVZvw0ZOUiGoQa15pS), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Me Myself & I](https://open.spotify.com/album/13WTY3Gwax7hLHpNhX4vVI) | 1:49 | 2022-08-04 | 2023-04-24 |
 | [Keep My Spirit Alive pt 2](https://open.spotify.com/track/2CxKBeqB9MPl8aT12ukLjF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 3:41 | 2023-10-03 | 2024-03-05 |
 | [Kickback](https://open.spotify.com/track/5HtOazXOK8uc3FNRhDClDg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Kickback](https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0) | 1:58 | 2022-06-19 | 2023-05-09 |

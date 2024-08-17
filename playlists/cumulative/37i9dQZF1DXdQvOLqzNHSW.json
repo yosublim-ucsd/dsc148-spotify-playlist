@@ -1371,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Bikini",
+        "url": "https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185798,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
+    },
+    {
+      "album": {
         "name": "There's Always Glimmer",
         "url": "https://open.spotify.com/album/4W0GjlWkF5lLRiw6hF9UU8"
       },
@@ -2267,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "album": {
         "name": "Friends That Break Your Heart",
         "url": "https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j"
       },
@@ -2622,7 +2662,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219472,
       "name": "Dance on the Rain",
       "url": "https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH"
@@ -2688,6 +2728,24 @@
       "duration_ms": 162139,
       "name": "Dawn - duendita Remix",
       "url": "https://open.spotify.com/track/7b8EmRyBoQnQIvUti4Qi52"
+    },
+    {
+      "album": {
+        "name": "Day In The Life",
+        "url": "https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B"
+      },
+      "artists": [
+        {
+          "name": "BABYKIRA",
+          "url": "https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180279,
+      "name": "Day In The Life",
+      "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
     },
     {
       "album": {
@@ -4432,6 +4490,24 @@
       "duration_ms": 255772,
       "name": "Float Back To You",
       "url": "https://open.spotify.com/track/53eXqDDn8ADIbukIJWN2Dw"
+    },
+    {
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "album": {
@@ -9676,7 +9752,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 185666,
       "name": "Period",
       "url": "https://open.spotify.com/track/4OawQ8vPRSBafYrBmamtpM"
@@ -10788,7 +10864,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 342483,
       "name": "Shadowshow",
       "url": "https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V"
@@ -12284,7 +12360,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 116832,
       "name": "That's What They Wanted",
       "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"

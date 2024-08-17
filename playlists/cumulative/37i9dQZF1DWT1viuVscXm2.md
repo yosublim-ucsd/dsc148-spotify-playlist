@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-318 songs - 18 hr 25 min
+319 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2SQTteM7L4POuyKcMHpsoG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY) | 4:15 | 2021-12-24 | 2022-07-29 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0M0BRpsdr7alyNbfoDWQCA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias De Verano Best Hits](https://open.spotify.com/album/29uIiFyT1LswhnoqkRGjIm) | 4:16 | 2022-10-28 | 2022-11-13 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 | 2022-07-22 | 2023-06-30 |
+| [Que Poco](https://open.spotify.com/track/0GN7d4LYbEl8sdY7N9J33n) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Que Poco](https://open.spotify.com/album/7n2gRYJJECZrdIjnSF3bPY) | 3:27 | 2024-08-16 |  |
 | [Que Tiene la Noche](https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Que Tiene la Noche](https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5) | 3:26 | 2022-12-02 | 2023-01-14 |
 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 | 2024-01-09 |
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-28 |
@@ -305,7 +306,7 @@
 | [Ven, Ven](https://open.spotify.com/track/2qEzWUMScoin9hn8Gqr0s9) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Ven, Ven](https://open.spotify.com/album/1UsnZRssUcmZxEQFejIrD7) | 3:28 | 2023-01-27 | 2023-03-10 |
 | [Vengo de la Casa de Ella](https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Vengo de la Casa de Ella](https://open.spotify.com/album/5mXCFeMvjfsM7TyI8zvjIU) | 3:08 | 2021-12-24 | 2023-10-07 |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 | 2022-07-23 |
-| [Vos de bebe](https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [EL PEPO \- SESSIONES CON PUBLICO \#10 \(SIN MIEDO: 1 "TIRO"\)](https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT) | 2:22 | 2024-07-12 |  |
+| [Vos de bebe](https://open.spotify.com/track/18QGtUiEkREzwBz0WbnNo6) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [EL PEPO \- SESSIONES CON PUBLICO \#10 \(SIN MIEDO: 1 "TIRO"\)](https://open.spotify.com/album/2uHThYsO36fD1sBQ47G4bT) | 2:22 | 2024-07-12 | 2024-08-17 |
 | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 | 2023-04-04 |
 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo \(Amistad..\. o Nada!!!\)](https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv) | 3:16 | 2023-04-11 |  |
 | [Y La Hice Llorar](https://open.spotify.com/track/06JpmZhd76BpCngRKdVfwE) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:17 | 2022-07-22 | 2024-04-19 |

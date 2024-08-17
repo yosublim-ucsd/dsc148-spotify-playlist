@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-393 songs - 23 hr 18 min
+394 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Cadillac](https://open.spotify.com/track/6sr4lbYR7Nzpsrf1c0t9Cu) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Ralf](https://open.spotify.com/artist/0mOvIjuw8jRTMFQy3N5jAA) | [Cadillac](https://open.spotify.com/album/5TdThABVYRNR6afRUOa3N2) | 2:36 | 2023-08-27 | 2023-09-26 |
 | [Call On Me](https://open.spotify.com/track/4PupCImDzC6MoXNogI4wtF) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [UNSPOKEN DESIRES EP](https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD) | 3:40 | 2024-05-07 |  |
 | [Callin' All Dancers](https://open.spotify.com/track/3xvRZdaD1RcSclqj3KmF1O) | [Dryman](https://open.spotify.com/artist/4vkf3qpJLRwhb07HXVE1RE), [Sirmo](https://open.spotify.com/artist/76DLAKD5U9Lh0koE3YLwTV) | [Around The World In UKG, Vol\. 3](https://open.spotify.com/album/5ZffUddGMdn62hoLi79Zv0) | 4:37 | 2023-04-30 | 2023-05-23 |
-| [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 |  |
+| [Calling Through The Fire](https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Safety First](https://open.spotify.com/album/7gaahTlMBg1Ul0AhZyoVDp) | 3:05 | 2023-06-30 | 2024-08-17 |
 | [Can't Be Me](https://open.spotify.com/track/1kqmG7Yohi5Kce049vnYZe) | [Nick Raff](https://open.spotify.com/artist/5RKz5nG67MROnbKyfbIQYF) | [Can't Be Me](https://open.spotify.com/album/1A4WZFYoCbyi0AX31CGX0P) | 3:15 | 2023-09-24 | 2023-12-14 |
 | [Catwalk](https://open.spotify.com/track/5gaVKMc6nadZFqZEf59guL) | [Kaishi](https://open.spotify.com/artist/6fasy0xC15SV7Z5yWnJtZI) | [Catwalk](https://open.spotify.com/album/2k9LatThz4DjlduXaQ2XOk) | 3:04 | 2023-08-20 | 2023-09-26 |
 | [Chama](https://open.spotify.com/track/0VupF0wdDqSvRlwe0JLNjZ) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q), [Chaval \(BR\)](https://open.spotify.com/artist/1w76OkGmAQl3aJSkZcRe5F) | [Chama](https://open.spotify.com/album/0fRcHYc1JqjTJhg90GcGW8) | 3:30 | 2023-08-13 | 2023-08-28 |
@@ -231,6 +231,7 @@
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
 | [Lighting](https://open.spotify.com/track/4ih96mUUXqv4Bym6IB4Sl6) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ), [Davide Marsala](https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ), [JANJ](https://open.spotify.com/artist/0uEhJUryKUYMYWpiKG0VmV) | [Lighting](https://open.spotify.com/album/08yI0064i4jNY1e3uYw0ma) | 3:22 | 2024-03-10 | 2024-04-15 |
 | [Lights Down](https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Lights Down](https://open.spotify.com/album/53Sw1CP6lxm9ABzFwQfbJe) | 3:26 | 2023-05-14 | 2023-06-12 |
+| [Lights Out \- Radio Edit](https://open.spotify.com/track/6d2NZwQWYpymxeNQn2ng7R) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Lights Out](https://open.spotify.com/album/4Ji8y8AAnKe6Vjoj6Hymc9) | 2:57 | 2024-08-16 |  |
 | [Like A Tap](https://open.spotify.com/track/0uTDzjsmG91eaVkUbcBmRx) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Like A Tap](https://open.spotify.com/album/6pLDg9WXLv76pWACqYZGxr) | 3:36 | 2023-05-21 | 2023-06-12 |
 | [Like Magic](https://open.spotify.com/track/6ylVMjts8KG2MSaY9opfG9) | [Rogerson](https://open.spotify.com/artist/78en4vN76hJHQn9Vf19QJu) | [Like Magic](https://open.spotify.com/album/6aba6lO5d3mBePXpZMz8ao) | 2:56 | 2023-04-09 | 2023-04-24 |
 | [London Bridge](https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq) | [London Bridge](https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr) | 2:25 | 2023-04-16 | 2023-05-01 |

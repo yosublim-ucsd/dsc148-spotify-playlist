@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to current Pakistani Hits. \ud83c\uddf5\ud83c\uddf0 Cover: Annural Khalid, Maanu",
+  "description": "We don't gatekeep our Pakistani Hits list, very demure, very mindful. \ud83c\uddf5\ud83c\uddf0 Cover: Annural Khalid, Maanu",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -316,6 +316,24 @@
       "duration_ms": 199607,
       "name": "Apna Tu Kehnda",
       "url": "https://open.spotify.com/track/67uhJboca6cVx4QCdQVvvf"
+    },
+    {
+      "album": {
+        "name": "Ayi Re",
+        "url": "https://open.spotify.com/album/3xSJ9hkLkXbv2TFXhrWYi9"
+      },
+      "artists": [
+        {
+          "name": "Haniya Aslam",
+          "url": "https://open.spotify.com/artist/2erxv4mbd7CpiGRrDw08s1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257045,
+      "name": "Ayi Re",
+      "url": "https://open.spotify.com/track/22ooMzKVXhRR1ou7h3ALDo"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado\. The essential tracks, all in one playlist.
+> This is Codiciado。アーティストの代表曲をひとつのプレイリストに。
 
 34 songs - 1 hr 54 min
 
@@ -35,7 +35,7 @@
 | [Nos Gusta La Fiesta](https://open.spotify.com/track/7aGZvbB9GoChhZ02CdfLA3) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Nos Gusta La Fiesta](https://open.spotify.com/album/0tLaUDX5gWY1sj3vZ2QTTK) | 3:58 | 2024-01-29 |  |
 | [Notas Musicales](https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Notas Musicales](https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0) | 4:10 | 2024-01-29 |  |
 | [Olvídame Tú](https://open.spotify.com/track/2KwsKHfXagurEXkTPpWGEN) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Olvídame Tú](https://open.spotify.com/album/1WVbKmdcQlfQJLUYkGZu06) | 3:41 | 2024-01-29 |  |
-| [quesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [quesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-11 |  |
+| [QuesoXte](https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [QuesoXte](https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n) | 2:31 | 2024-08-11 |  |
 | [Relojito Adiamantado](https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Niño De Oro](https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh) | 2:57 | 2024-01-29 |  |
 | [Si Yo Me Activo](https://open.spotify.com/track/7rM7DY9jc43N89I5IOFAQp) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:31 | 2024-01-29 |  |
 | [Tal Vez Mañana](https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De Norte a Sur](https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm) | 3:33 | 2024-01-29 |  |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-583 songs - 1 day 5 hr 39 min
+584 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [PSYCHOPATHIC](https://open.spotify.com/track/4AnxczKtQaEjTO4fQpOdXd) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PSYCHOPATHIC](https://open.spotify.com/album/4vnHN3hA7BbQ7KUAafUG03) | 2:28 | 2023-03-16 | 2023-08-10 |
 | [Pull Me In](https://open.spotify.com/track/3kzTOXSZOoaxb1n7dmGUPb) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [M.I.M.E](https://open.spotify.com/artist/1RdQK73ZgvXjkaBJkibE6X) | [Pull Me In](https://open.spotify.com/album/7whVHAQ5t4SH2a0EkvxyyW) | 2:28 | 2024-01-19 |  |
 | [PULL UP](https://open.spotify.com/track/1BS10ZqOZDyY4D2JxPO2AL) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PULL UP](https://open.spotify.com/album/2qxFZtfoMurigQtO5LElI1) | 2:02 | 2023-01-02 | 2023-08-10 |
+| [Pump Up The Bassline](https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Pump Up The Bassline](https://open.spotify.com/album/3nQUY6Rx481Ilrha2JiiXT) | 2:42 | 2024-08-16 |  |
 | [Purpose](https://open.spotify.com/track/05AJ7jBUQ3fzAeyjsar1m6) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn), [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Purpose](https://open.spotify.com/album/1vPWeTqs6zGdrjHcXmER5I) | 2:23 | 2024-05-28 |  |
 | [Pushing On](https://open.spotify.com/track/2eK7XCveaHytVpdCdzVwtp) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Pushing On](https://open.spotify.com/album/1nzC7RjhJACSYcI7KCqenG) | 2:28 | 2024-05-31 |  |
 | [Puzzle \- 2024 Edit](https://open.spotify.com/track/7FyXbLwHkDF0HZl36wvRqV) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Puzzle \(2024 Edit\)](https://open.spotify.com/album/65PUjwgG91udnF5gpXroOn) | 2:53 | 2024-07-26 |  |

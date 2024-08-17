@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > XG의 서울 콘서트를 맞이하여 XG의 베스트곡들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154 likes - 13 songs - 38 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 155 likes - 13 songs - 38 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

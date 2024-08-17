@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Sai Abhyankkar
 
-250 songs - 13 hr 35 min
+251 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-07-15 |  |
 | [Teju](https://open.spotify.com/track/0H8sDfz5yN30bvta2t67cX) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Teju](https://open.spotify.com/album/62mkIyXnLf1U4mrD7pjxCK) | 2:33 | 2021-11-11 | 2022-07-19 |
 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 | 2024-02-22 |  |
+| [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 | 2024-08-16 |  |
 | [Tere To](https://open.spotify.com/track/6WVszgfw4Z1fEC9mA0Bwtl) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Tere To](https://open.spotify.com/album/0upBrOO8Erl5HRoLTjQdmK) | 3:07 | 2021-11-11 | 2022-07-19 |
 | [Thank You God](https://open.spotify.com/track/2GD8vxlR7YIgx2ko3Ntv2f) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Shloke Lal](https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [Thank You God](https://open.spotify.com/album/39RgIHAyeHNjVDUjyLR6NK) | 2:12 | 2024-08-09 |  |
 | [THE DON](https://open.spotify.com/track/3KDaxC6gpTu4Ey6DL5YMBQ) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [HBIC](https://open.spotify.com/album/6mRkk5VyWx27K4vZjD6sqM) | 3:12 | 2022-07-18 | 2024-02-23 |

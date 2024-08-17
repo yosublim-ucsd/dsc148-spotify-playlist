@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\. Photo: Billie du Page
+> De la musique québécoise pour tous les goûts\. Photo: Clodelle
 
-84 songs - 4 hr 27 min
+88 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,18 +20,20 @@
 | [Chance](https://open.spotify.com/track/6WnqfeV1QsQjrDSRmdv16Q) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Chance](https://open.spotify.com/album/7vXh4lUacVjLfxdfmyHz1K) | 3:27 | 2024-06-28 |  |
 | [Chasing Sunsets \(V.F\)](https://open.spotify.com/track/4XGom6Qy5JpWqsjALQMDve) | [Blue Ridge Band](https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u) | [Chasing Sunsets \(V.F\)](https://open.spotify.com/album/44t8sMpi3uiGbK7E9z22tu) | 3:06 | 2024-06-28 |  |
 | [Coffee](https://open.spotify.com/track/4ZXYe1nSGi6sxutBi1xApf) | [Fuso](https://open.spotify.com/artist/3LYl9B0Gfmz00OwCTKCkCh), [Dub Silence](https://open.spotify.com/artist/3Z78MYUojWImmYmQgadcsr), [Adamo](https://open.spotify.com/artist/3FOto5lv6R7HS5DjsfxEqW) | [Leela](https://open.spotify.com/album/7yLXm3F5E50rIqAiqsRKZi) | 2:47 | 2024-07-26 |  |
-| [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 |  |
+| [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-06-28 |  |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2024-06-28 | 2024-07-19 |
+| [Dans mon sang](https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec) | [Loïc Lafrance](https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI) | [Dans mon sang](https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY) | 2:25 | 2024-08-16 |  |
 | [Danser la nuit](https://open.spotify.com/track/1VID3HWSIYV3y5v87ESX1K) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Danser la nuit](https://open.spotify.com/album/2Isdr3D3UD0Bj97Z6QcLHB) | 2:12 | 2024-06-28 |  |
 | [Derrière le jour](https://open.spotify.com/track/0Va586bS36sGEjVZWhvZ0l) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Derrière le jour](https://open.spotify.com/album/3voXYeH3wpX4b1UDzo5rhu) | 3:31 | 2024-06-28 |  |
 | [Deux jours et deux nuits](https://open.spotify.com/track/35yR1gITsGHb2BgbJO84b8) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Deux jours et deux nuits](https://open.spotify.com/album/7wrN8Vv62SbkI13lqllXos) | 2:36 | 2024-07-19 |  |
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-06-28 |  |
 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 | 2024-07-26 |  |
-| [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 | 2024-06-28 |  |
+| [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 | 2024-06-28 | 2024-08-17 |
 | [I Lost My Baby](https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [I Lost My Baby](https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 |  |
-| [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 |  |
+| [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 | 2024-08-17 |
+| [Insolente](https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP) | [Les Chiens De Ruelles](https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG) | [BTDT](https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF) | 3:44 | 2024-08-16 |  |
 | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/track/5j3QWbTOp2zmtCKkDm6HPv) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [J'ai beau essayer mais ça s'passe moyen](https://open.spotify.com/album/6s7BXT6Pxzl0OmRJIlVxoT) | 2:52 | 2024-06-28 |  |
 | [J'fais des efforts](https://open.spotify.com/track/36kMscdmLP9UkMtPm1vUXA) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Etienne Dufresne fait des efforts](https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO) | 3:46 | 2024-06-28 |  |
 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 | 2024-06-28 |  |
@@ -54,7 +56,8 @@
 | [Les entêté.e.s](https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Les entêté.e.s](https://open.spotify.com/album/5KQpJr1SouixdnYo6iH02L) | 3:26 | 2024-06-28 |  |
 | [Les nouveaux infinis](https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Les nouveaux infinis](https://open.spotify.com/album/3p359s7FAMTjo50xzFlHt4) | 3:40 | 2024-06-28 |  |
 | [Les ponts](https://open.spotify.com/track/1dpfsCsUFgSX6YcrEPx2Ty) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Les ponts](https://open.spotify.com/album/1wLSzqbwKzpndo4tZC36GO) | 2:55 | 2024-06-28 |  |
-| [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 |  |
+| [LVL UP](https://open.spotify.com/track/4YZvYMlisIXy5lhC9GU3dX) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [LVL UP](https://open.spotify.com/album/5Azn7JvsnTC5wzFiwr13WB) | 3:18 | 2024-06-28 | 2024-08-17 |
+| [Léo](https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Léo](https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag) | 3:05 | 2024-08-16 |  |
 | [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 |  |
 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 | 2024-06-28 | 2024-07-27 |
 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 | 2024-06-28 |  |
@@ -78,6 +81,7 @@
 | [Sous terre](https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Sous terre](https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO) | 3:21 | 2024-06-28 |  |
 | [St\. Denis](https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n) | [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [St\. Denis](https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh) | 3:56 | 2024-06-28 |  |
 | [T'aimer est une galère](https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Molière, le spectacle musical](https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k) | 2:43 | 2024-06-28 |  |
+| [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-16 |  |
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 |  |
 | [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 |  |
 | [Te laisser des mots](https://open.spotify.com/track/6SBNQ5uSrr07iOngFUy0mT) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k) | [Te laisser des mots](https://open.spotify.com/album/3URQg0WGqKUHWueRYx3vs7) | 3:13 | 2024-06-28 |  |

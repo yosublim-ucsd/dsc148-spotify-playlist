@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,103 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,104 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 24 | [苑](https://open.spotify.com/track/4qaBTmbznvpTTnhZZU5381) | [ZIMA JAPAN](https://open.spotify.com/artist/4UvWiuLf3JdwfGmwzNoFxH), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [笠松将](https://open.spotify.com/artist/6u93yTUDNnKPAZlk2csmRj), [ぱーてぃーちゃん](https://open.spotify.com/artist/0ukJyL2Stm3QZG7EK4czWd) | [苑](https://open.spotify.com/album/16rbb3urz6P1HMwq63k0eP) | 3:23 |
 | 25 | [サマータイム・ブルース](https://open.spotify.com/track/3p2EfPkTncUEGp0vuRxAGz) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [サマータイム・ブルース](https://open.spotify.com/album/2nRZF4bBVc5KL3MKuuPBpk) | 3:46 |
 | 26 | [SUMMER](https://open.spotify.com/track/0X8i1CeXiXtNE1bpC34PhP) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [SUMMER](https://open.spotify.com/album/0DbvreXSQMQw21wrBRBqYY) | 2:54 |
-| 27 | [One's summer days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One's summer days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
+| 27 | [One Summer's Days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One Summer's Days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
 | 28 | [1人じゃない](https://open.spotify.com/track/65lEzQ1Z3cn3YKxuJ7YQ7E) | [SOMAJI](https://open.spotify.com/artist/2Mf6iRRpO4lnieXb8Kkr6M), [Gacha Medz](https://open.spotify.com/artist/1mMmfvPrJ5jgySxBybYtKM) | [JAPAN to JAMAICA](https://open.spotify.com/album/0P15gvdUIMuPR8h0SqKBnA) | 3:23 |
 | 29 | [STOCKIN'FEET game](https://open.spotify.com/track/4xIBbb965t7k8YGkPT2VI9) | [anddy toy store](https://open.spotify.com/artist/6uhbuTjAKPYmAR1lQhoeEQ), [ip passport](https://open.spotify.com/artist/0nWRFuxl8i5kRlq9Hajc0o) | [STOCKIN'FEET game](https://open.spotify.com/album/4poSsyhALjg9wexEumvIR9) | 1:54 |
 | 30 | [Stress](https://open.spotify.com/track/1vlAeBpKIa1gAzZDThKdGW) | [i from tk](https://open.spotify.com/artist/3FbjqY5FIjrRWSUEiT6Dzv), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Stress](https://open.spotify.com/album/7A7xyWD5Jv3qeALSNvr2uD) | 4:22 |

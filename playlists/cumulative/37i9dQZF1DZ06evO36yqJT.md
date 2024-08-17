@@ -4,7 +4,7 @@
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 10 min
+84 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 | 2023-05-12 |  |
 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 | 2023-05-12 |  |
 | [Strong Man](https://open.spotify.com/track/226jnN4L43ACMq1CdP96py) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 5:40 | 2023-05-12 |  |
+| [Survive This](https://open.spotify.com/track/6SwndAQPxptKnqFEmPrLTj) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd) | [Fill This House](https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC) | 4:58 | 2024-08-17 |  |
 | [Sweeping Through the City \(Live\)](https://open.spotify.com/track/1FFqxSXK9HOZuzLQrNrJmJ) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE), [Rev\. Milton Brunson](https://open.spotify.com/artist/3Tiff2zKob5oG6m7AQpbis), [The Thompson Community Singers](https://open.spotify.com/artist/1MWWUdLJVnU7HryE29JNZI), [Mighty Clouds Of Joy](https://open.spotify.com/artist/1i6bV1rRKRPTyssKZuLfwS), [Dr\. Bobby Jones](https://open.spotify.com/artist/170IwFb5hhPEvgwMDLBq6t), [New Life](https://open.spotify.com/artist/4M0bqq6d5Pwx7KXCRrU1Qu) | [Black Gospel Explosion: Recorded Live](https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I) | 5:03 | 2023-05-12 |  |
 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 | 2023-05-12 |  |
 | [Tear Your Kingdom Down](https://open.spotify.com/track/0MelBn72SNNZaCCZ53bkRG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Platinum Gospel\-Shirley Caesar](https://open.spotify.com/album/6CTsw7O3GJuvg0ihRAEOHP) | 3:37 | 2023-05-12 | 2024-05-02 |
@@ -85,7 +86,7 @@
 | [U Name It Holiday Anthem](https://open.spotify.com/track/2uNoV93jYDQgOmYP8VS92M) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [DJ Battlecat](https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [U Name It Holiday Anthem](https://open.spotify.com/album/3DffNWg9Aoc3ACYxCbpf7X) | 2:51 | 2023-12-20 | 2024-01-18 |
 | [What A Friend We Have In Jesus \(You Are My Friend\) \[Ult Version\]](https://open.spotify.com/track/3CGcWCtTzdXBjPzdq0PMr9) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [The Ultimate Collection](https://open.spotify.com/album/6N3Dudfv0riTx67MKti6Gg) | 4:10 | 2023-05-12 |  |
 | [Yes Lord, Yes \- Live](https://open.spotify.com/track/2cfRnrzMThcjkflXJpFrCB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Live..\. In Chicago](https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF) | 3:55 | 2023-05-12 |  |
-| [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 |  |
+| [You Are All I Need](https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar: Her Very Best](https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1) | 3:30 | 2023-05-12 | 2024-08-17 |
 | [You Can Make It](https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:31 | 2023-05-12 |  |
 | [You Did It All](https://open.spotify.com/track/7EAKpTEvHLAGaUBjETGJdT) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:13 | 2023-09-25 | 2023-12-27 |
 | [You Stayed](https://open.spotify.com/track/0xjj8wnRsAHbNW2idVp0Ip) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Good God](https://open.spotify.com/album/0QxY4kLxoYjExBpl1Hzp60) | 4:31 | 2023-05-12 | 2024-01-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: kZm
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,114 likes - 92 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,170 likes - 92 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 59 | [Bad Combat](https://open.spotify.com/track/7CrIm7O7shx3vhEkqeWI7T) | [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [CRAZY\-K](https://open.spotify.com/artist/3iU3MjOPvtqLWhNjZbFUaK), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR), [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN) | [Bad Combat](https://open.spotify.com/album/60GNta4ABob1dgxhTYRorL) | 3:32 |
 | 60 | [Loyalty](https://open.spotify.com/track/6V50gW198R69Yi7N9ix5fc) | [AZU](https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq) | [Posty](https://open.spotify.com/album/49L7QPC8ksD2bTBPobHqBO) | 3:20 |
 | 61 | [OSAKA GIRLS](https://open.spotify.com/track/4dnlY8Q6aWQRm8dHx9iB0u) | [Cyprus](https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [OSAKA GIRLS](https://open.spotify.com/album/5zvI1jzjIBWoW1Qq5shmFq) | 3:33 |
-| 62 | [One's summer days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One's summer days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
+| 62 | [One Summer's Days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One Summer's Days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
 | 63 | [We gotta push](https://open.spotify.com/track/7vrwprxWVMHYpn4lcZuiSx) | [kz](https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4), [kleber pine](https://open.spotify.com/artist/3QKsOaDPL74y1KIFuDsm7J), [bug's planet](https://open.spotify.com/artist/7pfWYJtBhpvyebfUcPNdUI), [7avi sntime](https://open.spotify.com/artist/62bUXnBMy17VVSoHOkftKI) | [We gotta push](https://open.spotify.com/album/4xrykYGt8Pn1iCeOQV2XvU) | 2:26 |
 | 64 | [Run Now](https://open.spotify.com/track/3HDXUOLbZmve7O0ZmtAbXV) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [Run Now](https://open.spotify.com/album/2zimdE0dku9qNzyBB7VKb0) | 3:28 |
 | 65 | [NEW SWAG](https://open.spotify.com/track/0pJ5iJlwK7XJhqUgxL93Et) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Losty](https://open.spotify.com/artist/54SfaqS6XKQHrdbYg7rgZ1) | [ASIAX](https://open.spotify.com/album/74QAbvu4SuVPkYqiWLE6dQ) | 2:43 |

@@ -727,7 +727,7 @@
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 289504,
+      "duration_ms": 288000,
       "name": "530",
       "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
     },
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 239016,
       "name": "Baby Gangster",
       "url": "https://open.spotify.com/track/4zf7VxEF3GMizhklbgXYLR"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 148937,
       "name": "BESITOS",
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
@@ -12598,7 +12598,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 221675,
       "name": "Don Gorgon",
       "url": "https://open.spotify.com/track/0IqfgUwF2yLEjWt2X73NDc"
@@ -14799,6 +14799,24 @@
     },
     {
       "album": {
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195089,
+      "name": "Eres T\u00fa - Mam\u00e1",
+      "url": "https://open.spotify.com/track/6XU1mXRVr4blbTG9FOsFSV"
+    },
+    {
+      "album": {
         "name": "Es Que Yo Te Quiero A Ti",
         "url": "https://open.spotify.com/album/3yeHPquNBp32WyLri8EbRO"
       },
@@ -14930,7 +14948,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
@@ -28644,7 +28662,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 54308,
       "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
       "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
@@ -38422,7 +38440,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 183213,
       "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
@@ -42796,7 +42814,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 143046,
       "name": "TELESCOPE",
       "url": "https://open.spotify.com/track/46oDV1H9EdVmnWSivShuH1"

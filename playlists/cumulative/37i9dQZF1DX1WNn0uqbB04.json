@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Chiqu\u00e9",
+        "url": "https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Boero",
+          "url": "https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222613,
+      "name": "Chiqu\u00e9",
+      "url": "https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP"
+    },
+    {
+      "album": {
         "name": "Tango Groove",
         "url": "https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F"
       },
@@ -840,7 +858,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 138440,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/0pqWiwxviiWxlMOsfi04yn"

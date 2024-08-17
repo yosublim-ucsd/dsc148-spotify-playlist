@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "50 INCH WOOFAS",
+        "url": "https://open.spotify.com/album/6MfCmQMFgRkhfkJsGBatyb"
+      },
+      "artists": [
+        {
+          "name": "Facu Baez",
+          "url": "https://open.spotify.com/artist/22HYVpPiieQRJsUxZslfBN"
+        },
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176264,
+      "name": "50 INCH WOOFAS",
+      "url": "https://open.spotify.com/track/2kOP8eEvrgn2L53r4HXRpg"
+    },
+    {
+      "album": {
         "name": "DR-EP-2068",
         "url": "https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y"
       },
@@ -46,7 +68,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-17",
+      "date_removed": null,
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
@@ -202,7 +224,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Amused",
       "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
@@ -520,6 +542,28 @@
       "duration_ms": 218130,
       "name": "Beeper Blowing Up",
       "url": "https://open.spotify.com/track/7DpmpRbrwVMrTWsLt3KVvw"
+    },
+    {
+      "album": {
+        "name": "Big Smoke's",
+        "url": "https://open.spotify.com/album/5uKIp5xDZLpo0bEGC8VygF"
+      },
+      "artists": [
+        {
+          "name": "AG Swifty",
+          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
+        },
+        {
+          "name": "Brad Brunner",
+          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141395,
+      "name": "Big Smoke's",
+      "url": "https://open.spotify.com/track/59UkpYdovZOPwPFxJ7QfKB"
     },
     {
       "album": {
@@ -940,7 +984,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210625,
       "name": "Check",
       "url": "https://open.spotify.com/track/6YU6nnPHH8BmVC4PpqA9SH"
@@ -962,7 +1006,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 402519,
       "name": "Chip Shop Heroes - Sidney Charles Remix",
       "url": "https://open.spotify.com/track/7ACg0kfGvCTc7y5qfidbZz"
@@ -1038,7 +1082,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 400187,
       "name": "Come Right Back",
       "url": "https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj"
@@ -1670,7 +1714,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 405586,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/4VvCoy9PDFq3Y8E2XONvf5"
@@ -2072,7 +2116,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 388800,
       "name": "Get On The Floor",
       "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
@@ -2242,7 +2286,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 492315,
       "name": "Gritty Dance",
       "url": "https://open.spotify.com/track/0GQQRGWgPcE2Tj35gS49ys"
@@ -2264,6 +2308,24 @@
       "duration_ms": 443500,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/67bDg0xmFhqSJrOe83NGZf"
+    },
+    {
+      "album": {
+        "name": "Guess What?",
+        "url": "https://open.spotify.com/album/3YiOvJind6Yb3UoCpMdxfO"
+      },
+      "artists": [
+        {
+          "name": "Silat Beksi",
+          "url": "https://open.spotify.com/artist/3SP4J72E4oadd8EhE25FOO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454500,
+      "name": "Guess What?",
+      "url": "https://open.spotify.com/track/7tn2JCt2JZ48haTZppLmad"
     },
     {
       "album": {
@@ -2706,7 +2768,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 362180,
       "name": "Into The Hood",
       "url": "https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR"
@@ -3518,7 +3580,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
@@ -3652,7 +3714,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
@@ -5376,7 +5438,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 385511,
       "name": "Space Is The Place",
       "url": "https://open.spotify.com/track/2UV4qko6vVLF9fGsRRQRz9"
@@ -5658,7 +5720,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 326357,
       "name": "Supermodel Thick",
       "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
@@ -6416,7 +6478,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186046,
       "name": "U Won't See Me",
       "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
@@ -6514,7 +6576,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
@@ -6862,7 +6924,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-09",
+      "date_removed": null,
       "duration_ms": 336350,
       "name": "without you",
       "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
@@ -7082,7 +7144,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 417300,
       "name": "You're So Just Just - Seth Troxler x Ryan Crosson Remix",
       "url": "https://open.spotify.com/track/1rXWi5LOQTes7AHv4JiP1f"

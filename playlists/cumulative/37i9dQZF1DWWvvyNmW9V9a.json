@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "sipping diet pepsi  \ud83e\udd64",
+  "description": "it started pretty slowly \ud83d\udc0c\ud83d\udc0c\ud83d\udc0c",
   "name": "teen beats",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 193961,
       "name": "Again (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "album": {
         "name": "Angel Of My Dreams (S.A.D. Version - Slow. Angelic. Dramatic.)",
         "url": "https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB"
       },
@@ -1748,7 +1766,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225692,
       "name": "Angel Of My Dreams - S.A.D. Version - Slow. Angelic. Dramatic.",
       "url": "https://open.spotify.com/track/6NayZTCSB2d4New8oIgBx0"
@@ -2154,6 +2172,24 @@
       "duration_ms": 208786,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161976,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
     },
     {
       "album": {
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -4474,6 +4510,24 @@
       "duration_ms": 162273,
       "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
       "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+    },
+    {
+      "album": {
+        "name": "break up with me",
+        "url": "https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "break up with me",
+      "url": "https://open.spotify.com/track/0b23sw8Yo8I44tmsh8B19K"
     },
     {
       "album": {
@@ -5346,7 +5400,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
@@ -5530,7 +5584,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd"
@@ -5880,6 +5934,28 @@
       "duration_ms": 119571,
       "name": "CHRONICALLY CAUTIOUS",
       "url": "https://open.spotify.com/track/73ZWAySu4UX5LkpCM6zjYh"
+    },
+    {
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "album": {
@@ -7248,7 +7324,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223955,
       "name": "Death Wish Love (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
@@ -7508,7 +7584,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 170629,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C"
@@ -9414,7 +9490,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180003,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5x1TPsoSvyrZkJM9JXRiWj"
@@ -9974,7 +10050,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -10646,6 +10722,24 @@
       "duration_ms": 178253,
       "name": "Girls of the Year",
       "url": "https://open.spotify.com/track/03grA043a1uECo5Kyw28a0"
+    },
+    {
+      "album": {
+        "name": "GIRLZ",
+        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141660,
+      "name": "GIRLZ",
+      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
       "album": {
@@ -14628,7 +14722,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145846,
       "name": "it boy",
       "url": "https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH"
@@ -15210,6 +15304,24 @@
       "duration_ms": 141147,
       "name": "Just a Friend",
       "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
+    },
+    {
+      "album": {
+        "name": "Just Because I Called You",
+        "url": "https://open.spotify.com/album/56TTQbHBeUhFscE5wJbE9p"
+      },
+      "artists": [
+        {
+          "name": "Will Linley",
+          "url": "https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168933,
+      "name": "Just Because I Called You",
+      "url": "https://open.spotify.com/track/2cJD1X7Kx1qw4ZzgKOahbp"
     },
     {
       "album": {
@@ -17600,7 +17712,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
@@ -18915,6 +19027,24 @@
     },
     {
       "album": {
+        "name": "SIS (Soft Is Strong)",
+        "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154987,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
+    },
+    {
+      "album": {
         "name": "Narcissist",
         "url": "https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr"
       },
@@ -19197,6 +19327,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -19378,6 +19530,24 @@
       "duration_ms": 182813,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/3LUai3qN5tzG0HpM72IHCy"
+    },
+    {
+      "album": {
+        "name": "If Only + No One Noticed",
+        "url": "https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
     },
     {
       "album": {
@@ -20976,7 +21146,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -21748,10 +21918,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203522,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU"
+    },
+    {
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123088,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
     },
     {
       "album": {
@@ -21810,6 +21998,24 @@
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+    },
+    {
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "album": {
@@ -22042,7 +22248,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172688,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK"
@@ -22332,10 +22538,28 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160413,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/58Q3FZFs1YXPpliWQB5kXB"
+    },
+    {
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "album": {
@@ -24062,7 +24286,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -24612,6 +24836,24 @@
       "duration_ms": 157683,
       "name": "Somebody to Someone (I Just Wanna Fall in Love)",
       "url": "https://open.spotify.com/track/1EsQXJmZYsrQJoCam6StOW"
+    },
+    {
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "album": {
@@ -26884,7 +27126,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 199463,
       "name": "The Best",
       "url": "https://open.spotify.com/track/5CPDjTGMlWUncNpw9H4GvG"
@@ -29732,6 +29974,24 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "We Were Girls",
+      "url": "https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx"
     },
     {
       "album": {

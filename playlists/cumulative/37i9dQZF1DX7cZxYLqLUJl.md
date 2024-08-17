@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-123 songs - 5 hr 28 min
+124 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Mi Amor](https://open.spotify.com/track/6viyU00wxyxXRBqyVA0GxG) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [High Hopes](https://open.spotify.com/album/4c07iYz0rxLiHDVcXuoa8e) | 3:25 | 2021-04-21 |  |
 | [Mid Air](https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5) | [Mid Air](https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK) | 2:27 | 2021-04-21 |  |
 | [Mirno](https://open.spotify.com/track/7oEbJXeTbSSWBNVr0RHRgM) | [Jani Lechleiter](https://open.spotify.com/artist/13j5NE2SAeKFALiLQpipfU) | [Mirno](https://open.spotify.com/album/2PirqRPTKXiYVOBLgzeZ1m) | 2:01 | 2021-04-21 |  |
-| [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-04-21 |  |
+| [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 | 2021-04-21 | 2024-08-17 |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2021-04-21 |  |
 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 | 2021-04-21 |  |
 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 | 2021-04-21 |  |
@@ -112,6 +112,7 @@
 | [Snefri](https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 3:43 | 2022-03-18 | 2024-04-19 |
 | [Snefri](https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Snefri](https://open.spotify.com/album/25trn66ey7ahbAD2OMI7bN) | 3:43 | 2021-04-21 |  |
 | [Softly](https://open.spotify.com/track/6plAuHENSbslv0tAe8verB) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Softly](https://open.spotify.com/album/07ymnuv7uKDcQckEtOstPv) | 2:26 | 2021-04-21 |  |
+| [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 | 2024-08-16 |  |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2021-04-21 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2021-04-21 |  |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2021-04-21 |  |

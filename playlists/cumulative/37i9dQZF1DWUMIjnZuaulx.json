@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:2b9paaAwb2Xd3iR1LSnCDN\">Brent Jones</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -818,6 +818,32 @@
       "duration_ms": 503126,
       "name": "Anyway - Live",
       "url": "https://open.spotify.com/track/3ywRNCMXyD0U9ihiDuifMi"
+    },
+    {
+      "album": {
+        "name": "Keep Hymns Alive Cross Songs",
+        "url": "https://open.spotify.com/album/6oCaJbhtuQMIwfb5G0blzv"
+      },
+      "artists": [
+        {
+          "name": "Bishop Leonard Scott",
+          "url": "https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW"
+        },
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Bryan Thompson",
+          "url": "https://open.spotify.com/artist/4bX4YubxlrEGJlPv2oAmQE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405290,
+      "name": "At The Cross",
+      "url": "https://open.spotify.com/track/72jFUmoipIJVLJLZmlqo1p"
     },
     {
       "album": {
@@ -1803,6 +1829,28 @@
     },
     {
       "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/0NkRxq0xYnwwohpanm4fTl"
+      },
+      "artists": [
+        {
+          "name": "James Grear & Company",
+          "url": "https://open.spotify.com/artist/77rAiNBZKJQ4A4nwJBiYqP"
+        },
+        {
+          "name": "Darrel Walls",
+          "url": "https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344602,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1rZf52WDp1eXc3AAI3hH0V"
+    },
+    {
+      "album": {
         "name": "Do It Anyway",
         "url": "https://open.spotify.com/album/6ovFuEIhGBZQS30IinCMNx"
       },
@@ -2000,6 +2048,28 @@
       "duration_ms": 300653,
       "name": "Every Blessing - Live",
       "url": "https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN"
+    },
+    {
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208887,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO"
     },
     {
       "album": {
@@ -2500,6 +2570,24 @@
       "duration_ms": 291453,
       "name": "God Alone (NYE Live)",
       "url": "https://open.spotify.com/track/1aohEgupGtgViBxFeo4xxF"
+    },
+    {
+      "album": {
+        "name": "God Did It (Go-Go Remix)",
+        "url": "https://open.spotify.com/album/0oacwz7EMI5KUoZHteJs1M"
+      },
+      "artists": [
+        {
+          "name": "Mervin Mayo",
+          "url": "https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291063,
+      "name": "God Did It - Go-Go Remix",
+      "url": "https://open.spotify.com/track/01519ageyUhsnyZA10RV3U"
     },
     {
       "album": {
@@ -4250,7 +4338,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174541,
       "name": "I Don't Know What You Came to Do",
       "url": "https://open.spotify.com/track/0VZUMZyUlMibkIjDJfj8tl"
@@ -4572,7 +4660,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 284615,
       "name": "I Will Not Fail - Unplugged",
       "url": "https://open.spotify.com/track/5a5dCgdLPITGYK3hPlWVPR"
@@ -4953,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/3bFjtyWuXCgZcD50vVAZof"
+      },
+      "artists": [
+        {
+          "name": "Volney Morgan & New-Ye",
+          "url": "https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300456,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/7FWPGGPSGLBmiFveze2jVw"
+    },
+    {
+      "album": {
         "name": "I Still Have You",
         "url": "https://open.spotify.com/album/500qcZ7JErRdDFHqZbVWfn"
       },
@@ -5018,7 +5124,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153277,
       "name": "In the Morning",
       "url": "https://open.spotify.com/track/1U7lTpzMzmhspBP3892Gmy"
@@ -5080,7 +5186,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 308693,
       "name": "In This Room",
       "url": "https://open.spotify.com/track/6YfU7iNsBTJiNNLGeu8sRe"
@@ -5358,7 +5464,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 262000,
       "name": "Jesus Saves - Radio Edit",
       "url": "https://open.spotify.com/track/2v7dnH7l6d1U2TlYDCTwRd"
@@ -5498,6 +5604,24 @@
       "duration_ms": 312069,
       "name": "JOY (Unspeakable) (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/7cg5YxLOssunPw1hI1DUm4"
+    },
+    {
+      "album": {
+        "name": "Joy Comes in the Morning (Live)",
+        "url": "https://open.spotify.com/album/1fn7q3HDmcqi2K31wYQkRI"
+      },
+      "artists": [
+        {
+          "name": "Fresh Start Worship",
+          "url": "https://open.spotify.com/artist/68DSgQk6h3W5oBCsWIgmWG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Joy Comes in the Morning (Live)",
+      "url": "https://open.spotify.com/track/340LrJkmeazuhjokvsevqv"
     },
     {
       "album": {
@@ -5938,7 +6062,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 219514,
       "name": "Look At God",
       "url": "https://open.spotify.com/track/396hOjvgaPh7XUfQDPsWTI"
@@ -7009,6 +7133,24 @@
     },
     {
       "album": {
+        "name": "SOUTH WIND, Vol. 1",
+        "url": "https://open.spotify.com/album/0CVPbXccgxmh9iZwTyAZ1W"
+      },
+      "artists": [
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318880,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/6tHP4uaA7GRsW7vQh9KCz7"
+    },
+    {
+      "album": {
         "name": "10 Years of Tasha",
         "url": "https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR"
       },
@@ -7380,7 +7522,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 740413,
       "name": "Okaka",
       "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
@@ -9132,7 +9274,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 431265,
       "name": "Tell 'Em Yes - Live",
       "url": "https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly"
@@ -11188,7 +11330,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232572,
       "name": "Wrote A Song About It",
       "url": "https://open.spotify.com/track/1zY6ZBCxGqojCU82YGerS5"
@@ -11521,6 +11663,24 @@
     },
     {
       "album": {
+        "name": "Your Amazing Love",
+        "url": "https://open.spotify.com/album/6EmxddDI1oUeesbVOAYRmb"
+      },
+      "artists": [
+        {
+          "name": "The McCrary Sisters",
+          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287033,
+      "name": "Your Amazing Love",
+      "url": "https://open.spotify.com/track/3TaosRVEjWj45rmrAUNBKz"
+    },
+    {
+      "album": {
         "name": "Your Hand",
         "url": "https://open.spotify.com/album/0xCfBoEbEvp3NZtQPkDkuj"
       },
@@ -11634,6 +11794,24 @@
       "duration_ms": 206048,
       "name": "Yours To Use",
       "url": "https://open.spotify.com/track/5mSNr3VTEa0JuILanLXLTp"
+    },
+    {
+      "album": {
+        "name": "To Him Who Sits On The Throne - Live",
+        "url": "https://open.spotify.com/album/4m9siKsAxPVv46aHPsuKFe"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434748,
+      "name": "You\u2019re Good (To Him Who Sits On The Throne) - Live",
+      "url": "https://open.spotify.com/track/5fO4DbrkImjv2Y3PdjrzDt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx"

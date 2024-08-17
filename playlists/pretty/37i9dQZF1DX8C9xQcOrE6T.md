@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 ### [Disney Hits](https://open.spotify.com/playlist/37i9dQZF1DX8C9xQcOrE6T)
 
-> All your favorite Disney hits, including songs from The Lion King.
+> All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,378,475 likes - 109 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,378,937 likes - 109 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 108 | [The Aristocats](https://open.spotify.com/track/1yTZjNU4R0pYNpXwyl37bE) | [Maurice Chevalier](https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc) | [Songs From The Aristocats](https://open.spotify.com/album/2FeAtX8kDxc62NtpWNW93Z) | 2:20 |
 | 109 | [A Spoonful of Sugar \- From "Mary Poppins" / Soundtrack Version](https://open.spotify.com/track/29bQPrp6BT0w3kaXTqIo8A) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [Mary Poppins](https://open.spotify.com/album/4I53uIfFAiQPKjXFNN2k4d) | 4:09 |
 
-Snapshot ID: `ZqxZwAAAAABZebwzuqDJ75vwVsxlDpxJ`
+Snapshot ID: `Zr7OwAAAAAA0RjAYd9dsUp8jyVHk4LC/`

@@ -4,13 +4,13 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 20 min
+100 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Box Full of Sharp Objects](https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:56 | 2022-01-17 |  |
 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 | 2022-01-17 |  |
-| [Before I Leave](https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:17 | 2024-06-23 |  |
+| [Before I Leave](https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:17 | 2024-06-23 | 2024-08-17 |
 | [BIG, WANNA BE](https://open.spotify.com/track/0uUEGPZyZh4eVj7hP9gyf7) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 3:30 | 2022-01-17 | 2023-05-24 |
 | [Blood Meridian](https://open.spotify.com/track/3mW52uoe0PI5XQIjs2Eaid) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 2:45 | 2022-01-17 | 2022-10-08 |
 | [Blood on My Hands](https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork \(Deluxe Edition\)](https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p) | 3:17 | 2022-01-17 |  |
@@ -60,7 +60,8 @@
 | [Make Believe](https://open.spotify.com/track/7xoPwaMWYFsuL4NsmVpB7i) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:27 | 2022-01-17 | 2023-05-21 |
 | [Maybe Memories](https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:55 | 2022-01-20 |  |
 | [Meant to Die](https://open.spotify.com/track/3Fyq5OUycByql5TURYfBMs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:46 | 2022-01-18 | 2022-10-12 |
-| [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 | 2024-05-19 |  |
+| [MEDZ](https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:45 | 2024-08-17 |  |
+| [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 | 2024-05-19 | 2024-08-17 |
 | [Men Are All the Same](https://open.spotify.com/track/7fLHdD5ONsHXtP7u8m11tI) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 5:54 | 2022-01-17 | 2022-10-21 |
 | [My Cocoon](https://open.spotify.com/track/4eHZTkPNMpF4wDjA6myGGA) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 1:00 | 2022-01-30 | 2023-04-22 |
 | [Night\-Sea Journey](https://open.spotify.com/track/4S61z1zbkoyFOrkt2XqYIZ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 4:28 | 2022-02-14 | 2022-07-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Gusty dj y elaggume.",
+  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: La Joaqui & elaggume.",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165600,
       "name": "Coronado",
       "url": "https://open.spotify.com/track/76y3Fu9Wr9pWuXErCC0X16"
@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170535,
+      "name": "Guampea",
+      "url": "https://open.spotify.com/track/7war4ViCBgXGoZsgcUq9zo"
+    },
+    {
+      "album": {
         "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
         "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 144697,
       "name": "LOLLIRKT - Remix",
       "url": "https://open.spotify.com/track/22U4FIsGk7yguu7RAuC6mq"
@@ -3584,7 +3606,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 138630,
       "name": "Sesi\u00f3n - 7",
       "url": "https://open.spotify.com/track/6kq09nzEHEuXt1svtB0CVz"
@@ -3942,10 +3964,40 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136064,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv"
+    },
+    {
+      "album": {
+        "name": "TATTOO REMIX",
+        "url": "https://open.spotify.com/album/0PNTf1VNhQJZPmPzhDQijA"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162697,
+      "name": "TATTOO REMIX",
+      "url": "https://open.spotify.com/track/4LnJJwdPgID9vFXjmxfdMy"
     },
     {
       "album": {
@@ -4082,6 +4134,28 @@
       "duration_ms": 145669,
       "name": "Te Re Doy",
       "url": "https://open.spotify.com/track/3Ed4F7Tb2tdP5GcRH5oIqF"
+    },
+    {
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209247,
+      "name": "Te Vienes Con El Turro",
+      "url": "https://open.spotify.com/track/0E6tfmOBf1BjXtuEs79MIu"
     },
     {
       "album": {
@@ -4894,6 +4968,28 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "album": {
+        "name": "Yo Argento",
+        "url": "https://open.spotify.com/album/5jBZSNcYxE5R7q2wrzSFRr"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "LRZ",
+          "url": "https://open.spotify.com/artist/1fvaacuDXe0NLSWh5K9Koa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155697,
+      "name": "Yo Argento",
+      "url": "https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS"
     },
     {
       "album": {

@@ -1,60 +1,124 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Soccer Mommy",
-  "num_followers": 834063,
+  "description": "Explore all things indie rock right now. Featuring music from Wishy",
+  "num_followers": 834053,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAADW3JXQuhwoDTAPJdrXAbu1",
+  "snapshot_id": "Zr7RaQAAAABp2KrETq06sFMRTmGDq0Bx",
   "tracks": [
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:03:08",
       "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Crying At The End",
-        "url": "https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 101718,
-      "name": "Crying At The End",
-      "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
+      "duration_ms": 168160,
+      "name": "Persuasion",
+      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "M",
-        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
       },
       "artists": [
         {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 231533,
-      "name": "M",
-      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Kinky",
+        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Kinky",
+      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "added_at": "2024-08-16 04:03:08",
+      "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 242870,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Too Easy",
+        "url": "https://open.spotify.com/album/60lePTuvMcyMMCMe3opZ5Y"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 207569,
+      "name": "Too Easy",
+      "url": "https://open.spotify.com/track/6pvaDJcYpJmiFoZYs7Yf2H"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -89,52 +153,52 @@
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-08-16 04:03:08",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf"
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf"
       },
       "artists": [
         {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 242870,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Joker Lips",
-        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Joker Lips",
-      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+      "duration_ms": 194997,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7"
     },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Field of Vision",
-        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
       },
       "artists": [
         {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 215235,
-      "name": "Field of Vision",
-      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "M",
+        "url": "https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "M",
+      "url": "https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -173,6 +237,22 @@
       "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Crying At The End",
+        "url": "https://open.spotify.com/album/0HfjuMO9Uil1LZ664lb8D9"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 101718,
+      "name": "Crying At The End",
+      "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dig Your Man",
@@ -203,22 +283,6 @@
       "duration_ms": 230253,
       "name": "Sick",
       "url": "https://open.spotify.com/track/4QL7eo4hZ7ZTk4mcbPZG4N"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Kinky",
-        "url": "https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Kinky",
-      "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -267,22 +331,6 @@
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/3awweDjWIuXNMogMClJnvE"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Too Easy",
-        "url": "https://open.spotify.com/album/60lePTuvMcyMMCMe3opZ5Y"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 207569,
-      "name": "Too Easy",
-      "url": "https://open.spotify.com/track/6pvaDJcYpJmiFoZYs7Yf2H"
     },
     {
       "added_at": "2024-08-02 04:00:00",

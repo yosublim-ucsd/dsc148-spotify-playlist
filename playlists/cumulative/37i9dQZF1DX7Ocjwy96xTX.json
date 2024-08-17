@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "feel your love <3",
+        "url": "https://open.spotify.com/album/11lEkUKjrsHmHfkSWPMEH7"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "feel your love <3",
+      "url": "https://open.spotify.com/track/2HlLAsLSCADzpODg13r9Ic"
+    },
+    {
+      "album": {
         "name": "flutter",
         "url": "https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl"
       },
@@ -2859,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Lost In The Dark",
+        "url": "https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Lost In The Dark",
+      "url": "https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi"
+    },
+    {
+      "album": {
         "name": "Gouldian Finch 5",
         "url": "https://open.spotify.com/album/3FdxkBoB4O86sbVRYeTPsZ"
       },
@@ -3000,6 +3036,24 @@
       "duration_ms": 150500,
       "name": "making out at the cemetery",
       "url": "https://open.spotify.com/track/6dKxNezVre0MtpWtvrQnLS"
+    },
+    {
+      "album": {
+        "name": "Maryhead",
+        "url": "https://open.spotify.com/album/4IopjJyxd3TSbuglp9RtDa"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160593,
+      "name": "Maryhead",
+      "url": "https://open.spotify.com/track/68jt91LdwCYPd0Zl33ZJN2"
     },
     {
       "album": {
@@ -4074,7 +4128,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -4230,6 +4284,24 @@
       "duration_ms": 212080,
       "name": "Self Portrait",
       "url": "https://open.spotify.com/track/5IssEtH38Bs8vpGOoVnLlh"
+    },
+    {
+      "album": {
+        "name": "senses",
+        "url": "https://open.spotify.com/album/28hi1Bwo2YrIoenhj1LXBE"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "senses",
+      "url": "https://open.spotify.com/track/2zWbzraGIXmb58VgCuGFgv"
     },
     {
       "album": {
@@ -5009,6 +5081,24 @@
     },
     {
       "album": {
+        "name": "Vanessa",
+        "url": "https://open.spotify.com/album/4yCJhJkZte90keIPfN6ZyA"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397226,
+      "name": "Vanessa",
+      "url": "https://open.spotify.com/track/7lFRoZgi23jaHgEpQcD1JJ"
+    },
+    {
+      "album": {
         "name": "veil",
         "url": "https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx"
       },
@@ -5090,7 +5180,7 @@
       },
       "artists": [
         {
-          "name": "LIL DUSTY G",
+          "name": "DUSTY",
           "url": "https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ"
         }
       ],

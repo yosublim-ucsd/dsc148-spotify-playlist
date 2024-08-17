@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "album": {
         "name": "Enter The 37th Chamber",
         "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 317933,
       "name": "Ghostwriter",
       "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
@@ -919,6 +937,32 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2Cpqxj3j98RDeal2Xixriw"
+      },
+      "artists": [
+        {
+          "name": "Chill Jung",
+          "url": "https://open.spotify.com/artist/7BjGvQhrCR7fh53jMw2BRq"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/18eqjGeT05fy6JC4FW1d4Y"
+        },
+        {
+          "name": "M\u00fcx",
+          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173330,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3ndGCxdKv0HYO4SnxhBf0C"
+    },
+    {
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/07vs4sZUvb06ysdCjhYl40"
       },
@@ -1118,7 +1162,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 212000,
       "name": "Noble Metals",
       "url": "https://open.spotify.com/track/5fsYYgNSXWpAHq0sLtV6mj"
@@ -1184,6 +1228,24 @@
       "duration_ms": 220720,
       "name": "Oh My God (feat. Lily Allen) - Instrumental",
       "url": "https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6"
+    },
+    {
+      "album": {
+        "name": "A Media Noche",
+        "url": "https://open.spotify.com/album/7BzTg4gWSarVQqKDwaanmf"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174891,
+      "name": "Parasomnia",
+      "url": "https://open.spotify.com/track/5DlSpdEcViVYkeGCTsVaGg"
     },
     {
       "album": {
@@ -1385,6 +1447,24 @@
     },
     {
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+    },
+    {
+      "album": {
         "name": "How It Should Sound, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU"
       },
@@ -1414,7 +1494,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180166,
       "name": "The Anthem (Instrumental)",
       "url": "https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE"
@@ -1512,7 +1592,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203331,
       "name": "The World (Is Going Up in Flames) - Instrumental",
       "url": "https://open.spotify.com/track/7dBvMFSY8mABXn4Cmq4y5g"

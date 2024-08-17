@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 2825,
+  "num_followers": 2826,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAAGY5/xaX9SooMfzwY/SRfL",
+  "snapshot_id": "Zr1FAAAAAACfgk2V6/wh+f8FTSe7CFvU",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166533,
-      "name": "Gonna Be Strong",
-      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
+      "duration_ms": 145160,
+      "name": "Slow Drag",
+      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Slow Drag",
-      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
+      "duration_ms": 166533,
+      "name": "Gonna Be Strong",
+      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 395093,
-      "name": "Rainy Days and Mondays",
-      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
+      "duration_ms": 213146,
+      "name": "Energy of Love",
+      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 213146,
-      "name": "Energy of Love",
-      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
+      "duration_ms": 395093,
+      "name": "Rainy Days and Mondays",
+      "url": "https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -652,25 +636,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Guess Who Loves Me",
-      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children",
-        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "To Be Happy Is the Real Thing",
-      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -695,6 +663,38 @@
       "duration_ms": 183681,
       "name": "The Intruders MC Introduction - Live",
       "url": "https://open.spotify.com/track/1GOnplSqwgvFIcjeTL50SK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "To Be Happy Is the Real Thing",
+      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "Guess Who Loves Me",
+      "url": "https://open.spotify.com/track/3nFsGJAST3fdmMOps24MOl"
     },
     {
       "added_at": null,

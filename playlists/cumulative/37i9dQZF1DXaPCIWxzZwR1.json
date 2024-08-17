@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop Cover: Keshi",
+  "description": "next gen pop Cover: Addison Rae",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158910,
       "name": "ASPHALT RODEO",
       "url": "https://open.spotify.com/track/2u0NrSifafd4x4kO5NrSx8"
@@ -2586,6 +2586,24 @@
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/34Jxyb8jukqq6wA97vgjxa"
+      },
+      "artists": [
+        {
+          "name": "Kevian Kraemer",
+          "url": "https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161976,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5v6jNYWPDdH6lpL3dmn9Y2"
     },
     {
       "album": {
@@ -6078,7 +6096,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156576,
       "name": "CARDIAC",
       "url": "https://open.spotify.com/track/1BaUCDLiR6u3axnZ7jryk4"
@@ -6840,7 +6858,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169866,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/0CQ4LqiyejeeXRDCce1Mp4"
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225973,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
@@ -9353,6 +9371,24 @@
     },
     {
       "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Hate Me",
         "url": "https://open.spotify.com/album/5onmM2jMU1bod6ybbehqAq"
       },
@@ -10518,7 +10554,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181749,
       "name": "emotional affair",
       "url": "https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2"
@@ -13302,6 +13338,24 @@
       "duration_ms": 181046,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/6gEEbYgqjT46HsA9YBdztt"
+    },
+    {
+      "album": {
+        "name": "GIRLZ",
+        "url": "https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141660,
+      "name": "GIRLZ",
+      "url": "https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU"
     },
     {
       "album": {
@@ -21596,7 +21650,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158955,
       "name": "Make Me Your Mrs",
       "url": "https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb"
@@ -23913,6 +23967,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "Next",
         "url": "https://open.spotify.com/album/2OGJivJrp8P6m4kq1SscFa"
       },
@@ -24635,6 +24711,24 @@
     },
     {
       "album": {
+        "name": "OBVIOUS",
+        "url": "https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W"
+      },
+      "artists": [
+        {
+          "name": "Fordo",
+          "url": "https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190903,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE"
+    },
+    {
+      "album": {
         "name": "October Passed Me By",
         "url": "https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E"
       },
@@ -24686,6 +24780,24 @@
       "duration_ms": 188733,
       "name": "Off The Record",
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
+    },
+    {
+      "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "Officially Mine",
+      "url": "https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY"
     },
     {
       "album": {
@@ -26250,7 +26362,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196456,
       "name": "Pillow In My Arms",
       "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
@@ -26290,6 +26402,24 @@
       "duration_ms": 149814,
       "name": "Pink Ferrari",
       "url": "https://open.spotify.com/track/3UgRSsqHWfMkvt5UAxM6KC"
+    },
+    {
+      "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
       "album": {
@@ -26773,6 +26903,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123088,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
+    },
+    {
+      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },
@@ -26810,6 +26958,24 @@
       "duration_ms": 176423,
       "name": "Pretty In The Dark",
       "url": "https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB"
+    },
+    {
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "album": {
@@ -27234,6 +27400,24 @@
       "duration_ms": 186845,
       "name": "Ragdoll",
       "url": "https://open.spotify.com/track/2wGmoR8uo9yduuWzfLxZoL"
+    },
+    {
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
     },
     {
       "album": {
@@ -27684,7 +27868,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
@@ -31580,7 +31764,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"

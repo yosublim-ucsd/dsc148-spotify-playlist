@@ -2,7 +2,7 @@
 
 ### [This Is Trivium](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cr4xG)
 
-> This is Trivium\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Trivium\. The essential tracks, all in one playlist.
 
 90 songs - 7 hr 9 min
 

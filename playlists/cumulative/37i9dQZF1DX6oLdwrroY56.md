@@ -4,7 +4,7 @@
 
 > The leaders in the lively Pinoy indie scene\. Cover: Nameless Kids
 
-132 songs - 8 hr 35 min
+134 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Happier](https://open.spotify.com/track/141wnAaUIkdj4RtMSLSNmT) | [Hiroyuki Orion](https://open.spotify.com/artist/0WrCMobRw2luLr7c9D25d6) | [Happier](https://open.spotify.com/album/6SlKdezfi2j13jPzPlRiYA) | 3:35 | 2023-10-13 | 2023-10-28 |
 | [Hiling](https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM) | [NaÏV](https://open.spotify.com/artist/09UWVORoWNvb4g6A4CBDuF) | [Hiling](https://open.spotify.com/album/2kHCLBZdKE6aAHPI5qNJpW) | 3:35 | 2023-11-10 | 2024-06-04 |
 | [Himbing](https://open.spotify.com/track/0cYu2DWw8Fzo0ZyxBZKC6h) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Himbing](https://open.spotify.com/album/4xaUf04NoqxVOigOLbWaOk) | 4:21 | 2023-10-27 | 2024-07-19 |
-| [hindi ko alam](https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [hindi ko alam](https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF) | 3:31 | 2024-02-09 |  |
+| [hindi ko alam](https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [hindi ko alam](https://open.spotify.com/album/6hjmSdam936JPRPNM76pkF) | 3:31 | 2024-02-09 | 2024-08-17 |
 | [Horizon](https://open.spotify.com/track/3wIql1xTfBwTeaRQfuK5cL) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Horizon](https://open.spotify.com/album/2HvwHLj6sjOuyrZE4vG0fe) | 3:13 | 2023-10-13 | 2023-11-11 |
 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 | 2023-11-10 | 2024-07-19 |
 | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [I JUST WANT TO KISS YOU NOW](https://open.spotify.com/album/1cu62EgLqxSpDOw3nKGMhk) | 4:19 | 2023-10-13 | 2024-06-04 |
@@ -54,7 +54,7 @@
 | [Just to See You](https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw) | [The Braille Flowers](https://open.spotify.com/artist/1oCEHpiSBXA8IpjKsLc3OA) | [Just to See You](https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY) | 4:25 | 2023-10-13 | 2023-11-19 |
 | [Kaibigan Lang](https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn) | [Kai Buizon](https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430) | [Kaibigan Lang](https://open.spotify.com/album/1p58vGVNMjmM559sM3qXz1) | 3:04 | 2023-10-13 | 2024-05-04 |
 | [Kasayaw](https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa) | [Kiss n Tell](https://open.spotify.com/artist/4SJq9qpSpGvbKfCEGqnFqQ) | [Kasayaw](https://open.spotify.com/album/6s1WZe88wGse9q4e5Y5q0q) | 4:10 | 2024-07-19 |  |
-| [KELAN](https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KELAN](https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns) | 4:10 | 2024-02-09 |  |
+| [KELAN](https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe) | [BRISOM](https://open.spotify.com/artist/52AFbIsIjRLcaHCt8KV1rg) | [KELAN](https://open.spotify.com/album/6xIotKOoU9blLewoX4q0ns) | 4:10 | 2024-02-09 | 2024-08-17 |
 | [Kita Kita](https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO) | [7th](https://open.spotify.com/artist/1jFSGmSAx0UgJ5AeHS5xAN) | [Kita Kita](https://open.spotify.com/album/0ye0D8h094WLKJeql7RYAW) | 5:45 | 2023-10-13 | 2024-06-22 |
 | [Kyusi](https://open.spotify.com/track/4IMI7CdeNMDzq544pAgXqj) | [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Huminga](https://open.spotify.com/album/4qcNr0JC0t99HMt2fhKhL6) | 4:30 | 2023-10-27 | 2024-06-22 |
 | [Lalaluv](https://open.spotify.com/track/03f5I5T1V1qqQpJg2rHs5z) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Lalaluv](https://open.spotify.com/album/2TYz0hh3NKf6BEFTo4Kf8l) | 2:22 | 2024-06-21 |  |
@@ -76,7 +76,7 @@
 | [Nabuang](https://open.spotify.com/track/2nECVQQNx0wAZjaGKBt3qD) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Nabuang](https://open.spotify.com/album/3tXum3jn5NnXQRCnyQyfrM) | 3:20 | 2024-07-19 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 | 2024-07-19 |
 | [Nandito](https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Nandito](https://open.spotify.com/album/3xlq1xz7FYfdFqzB6P4rE8) | 4:26 | 2024-07-19 |  |
-| [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 |  |
+| [Nangungulila Sa'yo](https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Nangungulila Sa'yo](https://open.spotify.com/album/5gGQBiaHRGkE1Wm7hTOgbu) | 4:42 | 2024-02-09 | 2024-08-17 |
 | [Night and Day](https://open.spotify.com/track/1eMn5wODtO4TFj5OfYoPPv) | [Shoti](https://open.spotify.com/artist/68URuxUxsFzcPp2y3j0kjW) | [Night and Day](https://open.spotify.com/album/346R5cAIPZUJr7r4ZdHLaO) | 3:26 | 2024-07-19 |  |
 | [North Star](https://open.spotify.com/track/4zd6nKsF7gDSEUeluTiIgt) | [lxni](https://open.spotify.com/artist/7KWLSIR8jCVAj9Gvhndhgm) | [North Star](https://open.spotify.com/album/0IIo23clF6gI3MYNAyQqQv) | 3:45 | 2023-10-13 | 2024-06-22 |
 | [Oh Giliw Ko](https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09) | [The Knobs](https://open.spotify.com/artist/5SChS914naD0ev5pHTFMdt) | [Oh Giliw Ko](https://open.spotify.com/album/0Oexw3mJOsG9gHFkgzmu5I) | 5:16 | 2024-07-12 |  |
@@ -88,6 +88,7 @@
 | [Pano](https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO) | [Caren Tevanny](https://open.spotify.com/artist/3p3NIGIG5T7nlV5FIhh0M1) | [Pano](https://open.spotify.com/album/50MOgT7Zk05HfohHxIsk3b) | 3:17 | 2024-02-09 | 2024-07-19 |
 | [Panoba](https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg) | [JERGE](https://open.spotify.com/artist/220RvBKeVFbVEZf3YE2tKC) | [Panoba](https://open.spotify.com/album/1r64cPdeRYD3buv8KH6KlI) | 2:17 | 2024-04-26 |  |
 | [Paraisong Tela](https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq) | [Hey, Billie!](https://open.spotify.com/artist/4okWmMajo5EFSMIh9YBE6Q) | [Paraisong Tela](https://open.spotify.com/album/6j7KtrNERZHjP49QxH4kIu) | 5:59 | 2023-11-18 | 2024-07-19 |
+| [Patay](https://open.spotify.com/track/4YG4n8EHpRe5mLnDLxrdBM) | [Sean Archer](https://open.spotify.com/artist/19SziRzo0hKaQCP037qnkz) | [Patay](https://open.spotify.com/album/4g1PnUcI0HllNmIzc6Urj6) | 4:00 | 2024-08-16 |  |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-10-13 | 2024-02-10 |
 | [Paulit\-Ulit \(Sorry Na\)](https://open.spotify.com/track/7eUOsa6RfxYWV34ey5U2HI) | [CHELLY](https://open.spotify.com/artist/7nTSu9SOc12DLKLFktzIHJ) | [Paulit\-Ulit \(Sorry Na\)](https://open.spotify.com/album/0zmgAKDkDThn3Ika0rXULC) | 3:30 | 2023-10-13 | 2024-02-10 |
 | [Pillow](https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp) | [POP MONEY WORLDWIDE](https://open.spotify.com/artist/0E3yLyIpFoe2rznq1IsRPj), [serro](https://open.spotify.com/artist/5Fxq79t2xobaOsu2DfRAh0), [Carrot Mayor](https://open.spotify.com/artist/5s7aEasAPVKh5b7kwRiykk) | [Pillow](https://open.spotify.com/album/055Hvov2rOVus107OstKMO) | 2:31 | 2024-07-19 |  |
@@ -97,7 +98,7 @@
 | [Pramis](https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/7mGQSG3GPyox65DMOAX0j7) | 3:33 | 2024-05-03 |  |
 | [prinsesa](https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [prinsesa](https://open.spotify.com/album/4dKvGzZY4pHryHIuY5dm4W) | 4:01 | 2024-07-12 |  |
 | [Prom](https://open.spotify.com/track/5UNhmGXL2TWaguVTv9RVBZ) | [Arron Rebustes](https://open.spotify.com/artist/57bzRuWfRpg71paLHsYcjx) | [Prom](https://open.spotify.com/album/3wDnMvhivfZ9iPnYF5usXe) | 4:08 | 2024-06-28 |  |
-| [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-09 |  |
+| [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-09 | 2024-08-17 |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-10-13 | 2023-11-11 |
 | [Roses](https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Roses](https://open.spotify.com/album/4epwLmoCHvomYsTwtAPvfN) | 3:02 | 2023-10-13 | 2024-07-19 |
 | [Sa Iyo Na Lang Ako](https://open.spotify.com/track/3h7L0RyN7IR3M5I6L2fObU) | [Sunset Sessions](https://open.spotify.com/artist/77EPS0bhR5i4KusgcHqN5Y), [Earth To Mars](https://open.spotify.com/artist/6vidCmEKqTVNLxalYQuskK), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20) | [Sa Iyo Na Lang Ako](https://open.spotify.com/album/5RP6MCfIhoHQDAXBrhxRX0) | 5:03 | 2023-10-13 | 2023-10-28 |
@@ -128,6 +129,7 @@
 | [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 | 2024-07-19 |  |
 | [Things will fall to its place](https://open.spotify.com/track/7aoYrQTzLk4tGOwRrFBmdj) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [Things will fall to its place](https://open.spotify.com/album/7wXo0a8lh04U2nLVvaPlI2) | 3:53 | 2024-06-21 |  |
 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 | 2023-10-13 | 2024-02-10 |
+| [Toki](https://open.spotify.com/track/2C9Eh0yPIUvXDdamtZyrti) | [Rise High](https://open.spotify.com/artist/3F2yryKKtugBaJbQz2SkBN) | [Toki](https://open.spotify.com/album/0Q7ZoLdoAKHhu6DzWrBuoP) | 3:36 | 2024-08-16 |  |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-10-13 | 2024-02-10 |
 | [Trip To Jerusalem](https://open.spotify.com/track/2Lpv0Ddl63HHNZoUihmdt5) | [Mt\. Lewis](https://open.spotify.com/artist/0uJdRrv6tNjZPCY5HrMBMN) | [Trip To Jerusalem](https://open.spotify.com/album/3ubru9Bw27Qpt7qrgk3Wl9) | 4:46 | 2024-02-09 | 2024-07-19 |
 | [TT \(terrible things\)](https://open.spotify.com/track/5fMToMVlBhYxO9vYeHgrkD) | [bird.](https://open.spotify.com/artist/5ZR9GMo2iB8nxetEtvRdey) | [oshin](https://open.spotify.com/album/4z5TSk891ox2zzk5VKZCiB) | 2:49 | 2023-10-13 | 2024-06-04 |

@@ -1,13 +1,49 @@
 {
   "description": "tsubi club is back",
-  "num_followers": 462234,
+  "num_followers": 462271,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAADRYdMuaKsvtN39pFkxzhvh",
+  "snapshot_id": "Zr+TKAAAAABVx5fV2yfin3jMtlMYuhbt",
   "tracks": [
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "Shake It Like A (feat. Danny Brown)",
+        "url": "https://open.spotify.com/album/3cQBYLjNbuCMHBpiWTwIar"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 197765,
+      "name": "Shake It Like A (feat. Danny Brown)",
+      "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
+    },
+    {
+      "added_at": "2024-08-03 16:18:57",
+      "album": {
+        "name": "Flash in the Pan",
+        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 223365,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+    },
     {
       "added_at": "2024-08-03 15:58:38",
       "album": {
@@ -25,20 +61,40 @@
       "url": "https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z"
     },
     {
-      "added_at": "2024-08-03 16:18:57",
+      "added_at": "2024-08-16 17:58:00",
       "album": {
-        "name": "Flash in the Pan",
-        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+        "name": "Stolen - Namasenda Remix",
+        "url": "https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe"
       },
       "artists": [
         {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
         }
       ],
-      "duration_ms": 223365,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+      "duration_ms": 168506,
+      "name": "Stolen - Namasenda Remix",
+      "url": "https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "Notes To Self",
+        "url": "https://open.spotify.com/album/2kvu7ItaqbEGRjczYjmd0b"
+      },
+      "artists": [
+        {
+          "name": "Tama Gucci",
+          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Stalk Me 151 To 170",
+      "url": "https://open.spotify.com/track/612fIqLqyNA3HcRjZedJM0"
     },
     {
       "added_at": "2024-08-03 15:58:38",
@@ -75,6 +131,54 @@
       "duration_ms": 170206,
       "name": "just not sure",
       "url": "https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+        "url": "https://open.spotify.com/album/1cWKLjrR7KbXulcyJGRW4A"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 175595,
+      "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+      "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "rotation",
+        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "rotation",
+      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "drained to my core",
+        "url": "https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl"
+      },
+      "artists": [
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "drained to my core",
+      "url": "https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP"
     },
     {
       "added_at": "2024-07-19 20:54:01",
@@ -137,6 +241,26 @@
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "Not In Your Nature",
+        "url": "https://open.spotify.com/album/59MLyNyQuok3MrpLtMQxmn"
+      },
+      "artists": [
+        {
+          "name": "purpl",
+          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Not In Your Nature",
+      "url": "https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "keepsakeFM",
@@ -197,6 +321,38 @@
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
     },
     {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "SINGLE*",
+        "url": "https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 114339,
+      "name": "SINGLE*",
+      "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
+    },
+    {
+      "added_at": "2024-05-14 16:01:28",
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
+      },
+      "artists": [
+        {
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
+    },
+    {
       "added_at": "2024-06-14 05:37:00",
       "album": {
         "name": "360",
@@ -211,6 +367,22 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "added_at": "2024-06-28 22:20:04",
+      "album": {
+        "name": "Wallsocket (Director's Cut)",
+        "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Stupid (Can\u2019t run from the urge)",
+      "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -249,22 +421,6 @@
       "url": "https://open.spotify.com/track/0jk7BG707tRYtrfcQR6R8y"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "drained to my core",
-        "url": "https://open.spotify.com/album/2zE8ZUNDuyUrffMSm1o9gl"
-      },
-      "artists": [
-        {
-          "name": "funeral",
-          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "drained to my core",
-      "url": "https://open.spotify.com/track/57nD3VBKdideEPqDEcWLbP"
-    },
-    {
       "added_at": "2024-08-03 16:20:59",
       "album": {
         "name": "SMILE! :D",
@@ -283,22 +439,6 @@
       "duration_ms": 225388,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/10eSd64aL2TYuGLdrYCfU9"
-    },
-    {
-      "added_at": "2024-05-14 16:01:28",
-      "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
-      },
-      "artists": [
-        {
-          "name": "biblemami",
-          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
     },
     {
       "added_at": "2024-06-28 14:25:07",
@@ -411,22 +551,6 @@
       "duration_ms": 174500,
       "name": "We Invented Love",
       "url": "https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6"
-    },
-    {
-      "added_at": "2024-06-28 22:20:04",
-      "album": {
-        "name": "Wallsocket (Director's Cut)",
-        "url": "https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Stupid (Can\u2019t run from the urge)",
-      "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
     },
     {
       "added_at": "2024-06-25 19:39:18",
@@ -739,22 +863,6 @@
       "duration_ms": 203346,
       "name": "Ice u out",
       "url": "https://open.spotify.com/track/1pprxpl5zMkiUNB3O0ejEZ"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Knock Yourself Out XD",
-        "url": "https://open.spotify.com/album/6a6vazlfojF2pu0VXhmn4r"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Knock Yourself Out XD",
-      "url": "https://open.spotify.com/track/7sVPmzAf2TagX4anSxasuo"
     },
     {
       "added_at": "2024-06-28 14:25:07",
@@ -1153,22 +1261,6 @@
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "Soulbreaker",
-        "url": "https://open.spotify.com/album/7wHsf7I3cYPiC6KKWX5acW"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 234804,
-      "name": "Soulbreaker",
-      "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
-    },
-    {
       "added_at": "2024-05-30 21:41:29",
       "album": {
         "name": "pixie dust",
@@ -1335,22 +1427,6 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "i dont even own prada shoes lol",
-        "url": "https://open.spotify.com/album/1dn2JSwF9ULVnQzDprTaiQ"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 130440,
-      "name": "i dont even own prada shoes lol",
-      "url": "https://open.spotify.com/track/318DZCLXPsOAZTblTugO09"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -1549,22 +1625,6 @@
       "url": "https://open.spotify.com/track/7iT4eHdjG2Ny3iYhXP0iRz"
     },
     {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/5JyPo8RKjOzbnY0ajECzOD"
-      },
-      "artists": [
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "fangs.",
-      "url": "https://open.spotify.com/track/5sHE3crofShtlPonTGTdBL"
-    },
-    {
       "added_at": "2024-03-22 15:24:50",
       "album": {
         "name": "n'est-ce pas",
@@ -1675,38 +1735,6 @@
       "duration_ms": 126616,
       "name": "hand crushed by a mallet",
       "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
-      "added_at": "2024-04-19 05:00:00",
-      "album": {
-        "name": "#LEONARDO",
-        "url": "https://open.spotify.com/album/5yuVya9QYP095uM6uDYfkJ"
-      },
-      "artists": [
-        {
-          "name": "JUCK",
-          "url": "https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS"
-        }
-      ],
-      "duration_ms": 153687,
-      "name": "#RUready4the<4",
-      "url": "https://open.spotify.com/track/5Wqay462LDXGwK7OGwHW4y"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "AMERICAN DREAM",
-        "url": "https://open.spotify.com/album/4ZrCIa7KOUvCfuB10rIDgf"
-      },
-      "artists": [
-        {
-          "name": "Britney Manson",
-          "url": "https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf"
-        }
-      ],
-      "duration_ms": 160624,
-      "name": "AMERICAN DREAM",
-      "url": "https://open.spotify.com/track/4gxEAJpFbGX9iI7SPSn88z"
     },
     {
       "added_at": "2024-04-12 05:32:15",
@@ -1867,26 +1895,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "FUNKED UP",
-        "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
-      },
-      "artists": [
-        {
-          "name": "xxanteria",
-          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
-        },
-        {
-          "name": "isq",
-          "url": "https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s"
-        }
-      ],
-      "duration_ms": 115348,
-      "name": "FUNKED UP - SLOWED",
-      "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Wtf u want.",
         "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
       },
@@ -1939,22 +1947,6 @@
       "duration_ms": 167865,
       "name": "Sefirot",
       "url": "https://open.spotify.com/track/503P8jeXzfhYrEldXNLkrE"
-    },
-    {
-      "added_at": "2024-03-08 17:17:25",
-      "album": {
-        "name": "riddle/4u",
-        "url": "https://open.spotify.com/album/7vWNUTnV86tZ7HiFx7O5Bd"
-      },
-      "artists": [
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 144135,
-      "name": "riddle",
-      "url": "https://open.spotify.com/track/6rTyxMcBKW7TzBZvzrgqgb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2079,22 +2071,6 @@
       "duration_ms": 189272,
       "name": "Not There Anymore",
       "url": "https://open.spotify.com/track/2Hmx7yWUpz9bNJg1tE6A28"
-    },
-    {
-      "added_at": "2024-04-12 05:32:15",
-      "album": {
-        "name": "teardrops.on.a.book.page",
-        "url": "https://open.spotify.com/album/0r0xgU4VbWLjbMEsdzlKUD"
-      },
-      "artists": [
-        {
-          "name": "Changeline",
-          "url": "https://open.spotify.com/artist/6y4WxCw3Pu2MnjqSBtoxSJ"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "don't.get.hit",
-      "url": "https://open.spotify.com/track/048uebVWRxHb2j05rombOn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2283,30 +2259,6 @@
       "duration_ms": 230400,
       "name": "Pose1don",
       "url": "https://open.spotify.com/track/49lxUaoeNgHtSNf3EPyVkx"
-    },
-    {
-      "added_at": "2024-03-08 17:17:25",
-      "album": {
-        "name": "yellow patches",
-        "url": "https://open.spotify.com/album/4Abhnyu7vS2zAxOkZJvonh"
-      },
-      "artists": [
-        {
-          "name": "galen tipton",
-          "url": "https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv"
-        },
-        {
-          "name": "Giant Claw",
-          "url": "https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc"
-        },
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "yellow patches",
-      "url": "https://open.spotify.com/track/6yHdpcPQnbjagFjz8wVTYq"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2513,26 +2465,6 @@
       "url": "https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf"
     },
     {
-      "added_at": "2024-03-08 17:17:25",
-      "album": {
-        "name": "Hitty",
-        "url": "https://open.spotify.com/album/0Fw4C3r8IHnIvSoUJqeXHB"
-      },
-      "artists": [
-        {
-          "name": "Varg\u00b2\u2122",
-          "url": "https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy"
-        },
-        {
-          "name": "Thaiboy Digital",
-          "url": "https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee"
-        }
-      ],
-      "duration_ms": 176296,
-      "name": "Hitty",
-      "url": "https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1"
-    },
-    {
       "added_at": "2024-01-26 15:53:41",
       "album": {
         "name": "One Mile at a Time",
@@ -2695,22 +2627,6 @@
       "duration_ms": 180450,
       "name": "club hospice (I.WANTED.YOU.TO.KNOW)",
       "url": "https://open.spotify.com/track/58mrz6T6oMMmSGemae30nV"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "Sneg",
-        "url": "https://open.spotify.com/album/50NzWYA1Crzi4o6PkdUolk"
-      },
-      "artists": [
-        {
-          "name": "Nomark",
-          "url": "https://open.spotify.com/artist/0g3pkoWNlu6rXL487xBcH8"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sneg",
-      "url": "https://open.spotify.com/track/4vqx495fqoZcqo7iuXNSMF"
     },
     {
       "added_at": "2024-01-26 15:53:41",

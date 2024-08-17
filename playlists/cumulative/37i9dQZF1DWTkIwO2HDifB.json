@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00c9 Qu Eu Te Sarrei e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Arizinho, DJ THG, Tavin",
+  "description": "MTG Passa Passa Pra Eu Sarrar e os funks mais \ud83d\udd11 do Brasil. Foto: Mc Livinho, DJ TOPO",
   "name": "Funk Hits",
   "tracks": [
+    {
+      "album": {
+        "name": "300 no 7",
+        "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "300 no 7",
+      "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
+    },
     {
       "album": {
         "name": "Ningu\u00e9m T\u00e1 Puro!",
@@ -1956,7 +1986,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 703157,
       "name": "Diz A\u00ed Qual \u00e9 o Plano?",
       "url": "https://open.spotify.com/track/5tsKgj1Xbk5bL7t3QiPWOR"
@@ -2488,6 +2518,48 @@
       "duration_ms": 107102,
       "name": "Eu So Comi Ela uma Vez",
       "url": "https://open.spotify.com/track/7eoRm37Ta1jvGMiMRfOQoa"
+    },
+    {
+      "album": {
+        "name": "Aventuras Do Nelso",
+        "url": "https://open.spotify.com/album/01yDq1MejjyWxrCQPmSnFG"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "Dj Lc",
+          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
+        },
+        {
+          "name": "DJ Vitin MPC",
+          "url": "https://open.spotify.com/artist/66aytUwZqJsRrpLEEqJA0u"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Eu To Sem Freio",
+      "url": "https://open.spotify.com/track/7DR8uhPIMnuoCssvteOUVz"
     },
     {
       "album": {
@@ -3750,7 +3822,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 300487,
       "name": "Malvada",
       "url": "https://open.spotify.com/track/0Ce7kkIjy9gkXAaMAZAI9w"

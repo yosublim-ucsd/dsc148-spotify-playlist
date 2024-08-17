@@ -294,7 +294,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 185084,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/4g5SL9yCXRzAFyeTsI7kEu"
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 224754,
       "name": "Get With You Tonight",
       "url": "https://open.spotify.com/track/0l8uYmcOJym0cJwUc1SLfV"
@@ -2284,6 +2284,28 @@
       "duration_ms": 224241,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/4HQj53RJeJ0hah1i8qF068"
+    },
+    {
+      "album": {
+        "name": "HIGH SCHOOL.",
+        "url": "https://open.spotify.com/album/6hedKKC6Npmec14EZzKdMz"
+      },
+      "artists": [
+        {
+          "name": "Miranda Powell",
+          "url": "https://open.spotify.com/artist/0ooh81WuZPO0SfrChHB1YO"
+        },
+        {
+          "name": "Ryan Prewett",
+          "url": "https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196365,
+      "name": "HIGH SCHOOL.",
+      "url": "https://open.spotify.com/track/2EdjwyRcg3ZqBVsupTxh7S"
     },
     {
       "album": {
@@ -4612,6 +4634,32 @@
       "duration_ms": 176803,
       "name": "Space",
       "url": "https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T"
+    },
+    {
+      "album": {
+        "name": "Stand for Love",
+        "url": "https://open.spotify.com/album/5HtsctQ3Ies1Kb8T2RoVPE"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Laroye",
+          "url": "https://open.spotify.com/artist/24LSTJ4KOtLJt1Z23VZ6GI"
+        },
+        {
+          "name": "Bronte Shande",
+          "url": "https://open.spotify.com/artist/2mXxI3F62LdcHG7EFDeGT8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227661,
+      "name": "Stand for Love - Radio Mix",
+      "url": "https://open.spotify.com/track/2IYX0vmGGlXECEtJ4fs4yl"
     },
     {
       "album": {

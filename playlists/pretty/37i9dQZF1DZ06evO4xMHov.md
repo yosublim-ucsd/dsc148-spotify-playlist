@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,153 likes - 51 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,163 likes - 51 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 45 | [O Senhor É Bom \- Ao Vivo](https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Reino de Justiça \(Ao Vivo\)](https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi) | 7:18 |
 | 46 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 |
 | 47 | [Glória & Honra](https://open.spotify.com/track/5AMt6ZnnKYMggHbYKUcs5a) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:25 |
-| 48 | [Glória E Aleluia](https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Aleluia](https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K) | 6:51 |
-| 49 | [Elohim / Não Mais Escravos \- Ao Vivo](https://open.spotify.com/track/7ep4wOYoOgtObGj4gomwSs) | [Clamor Pelas Nações](https://open.spotify.com/artist/6ube8yDyEYxMvAGmuzwNEF), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ricardo Robortella](https://open.spotify.com/artist/17B72UyTRtaLFcuC5juWmz) | [Elohim / Não Mais Escravos \(Ao Vivo\)](https://open.spotify.com/album/1YJXXC0I9iandkorigXckC) | 6:43 |
+| 48 | [Elohim / Não Mais Escravos \- Ao Vivo](https://open.spotify.com/track/7ep4wOYoOgtObGj4gomwSs) | [Clamor Pelas Nações](https://open.spotify.com/artist/6ube8yDyEYxMvAGmuzwNEF), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Ricardo Robortella](https://open.spotify.com/artist/17B72UyTRtaLFcuC5juWmz) | [Elohim / Não Mais Escravos \(Ao Vivo\)](https://open.spotify.com/album/1YJXXC0I9iandkorigXckC) | 6:43 |
+| 49 | [Glória E Aleluia](https://open.spotify.com/track/16srjrwXoQuKE1SQ95zSoN) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Aleluia](https://open.spotify.com/album/0GkqpHA93sH8c6uposgX0K) | 6:51 |
 | 50 | [Enche Este Lugar \- Ao Vivo em Curitiba](https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Fogo e Glória \(Ao Vivo em Curitiba\)](https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq) | 14:57 |
 | 51 | [Filho Meu \- Ao Vivo](https://open.spotify.com/track/5kh9VHaBkb1IXmA3OqNvbP) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [Flavia Arrais](https://open.spotify.com/artist/3cBWe1HSdeUBQMnQD9NR2e), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Eu e a Minha Casa \(Ao Vivo\)](https://open.spotify.com/album/7IhafZgxgH4tmM2lDqmOjy) | 5:26 |
 
-Snapshot ID: `ZrvzgAAAAAADQS0LflYKTBFWAs7YVVVT`
+Snapshot ID: `Zr1FAAAAAABaNIvAOYqNbB+eq26mJWE7`

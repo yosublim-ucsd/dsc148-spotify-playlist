@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ">Run Into Waves</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,640 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,653 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 27 | [Penny Sleeps](https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Penny Sleeps](https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU) | 2:54 |
 | 28 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 29 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
-| 30 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
-| 31 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
+| 30 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
+| 31 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 32 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
 | 33 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 34 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 43 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
 | 44 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
 | 45 | [Hoogtyd](https://open.spotify.com/track/53EswYQ2pvFULtB93JbgBS) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv) | [Hoogtyd](https://open.spotify.com/album/3wkMmzlLUUDWNQHT507Lyv) | 3:32 |
-| 46 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
-| 47 | [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 |
-| 48 | [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 |
-| 49 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
+| 46 | [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 |
+| 47 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
+| 48 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 |
+| 49 | [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 |
 | 50 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 
 Snapshot ID: `Zr56YAAAAAB33B6BErVShnMMVH2CoEbg`

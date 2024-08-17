@@ -4,7 +4,7 @@
 
 > The best new music from indie faith\-based artists every Weds\. Cover:  <a href="spotify:artist:7yAymwuYh9RcpX84GSNIq2">Josiah Queen</a> & <a href="spotify:artist:7osFcSwjlRPwxZdVALIOuC">Henrik</a>  \| Artwork: Laina Deene
 
-189 songs - 11 hr 49 min
+192 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Died For You](https://open.spotify.com/track/0d7KJz83m6DcuymWGgfxtm) | [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [Died For You](https://open.spotify.com/album/63BssdiZm5LiKoinxDDQZs) | 2:53 | 2024-08-14 |  |
 | [Do It Again](https://open.spotify.com/track/5ob0IzNcVF3zBBodrAMWBk) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Do It Again](https://open.spotify.com/album/2zIYucTp5hSlLCn65ngiZt) | 2:51 | 2024-07-05 | 2024-08-08 |
 | [Dreaming](https://open.spotify.com/track/64mFiDTrYuDVXONvfRKyen) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Dreaming](https://open.spotify.com/album/34Dz65C8XBmWJ3CZwJjGcz) | 3:35 | 2024-07-05 | 2024-08-08 |
+| [dreams](https://open.spotify.com/track/6BYd51QOGm0O15QX6d37ml) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [dreams](https://open.spotify.com/album/6z043nNDyYIOlLYyqsFaZF) | 3:43 | 2024-08-14 |  |
 | [DRY GROUND](https://open.spotify.com/track/0UEGRJ4TNRLWmgzqCJasPX) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [DRY GROUND](https://open.spotify.com/album/3pfECj07Rd9WqEwAGBFG4V) | 3:52 | 2024-08-07 |  |
 | [Días Buenos :\)](https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Días Buenos :\)](https://open.spotify.com/album/5bgFo0ihjsMLcVZEylP4KC) | 2:40 | 2024-08-07 |  |
 | [Eres Tú](https://open.spotify.com/track/6OOGxCZ5gOk4WBXmz3gDat) | [SI7](https://open.spotify.com/artist/4PYIpJnf7VenPpq8gtb014) | [Eres Tú](https://open.spotify.com/album/6AbaLXyJhaz46WMqkABj4x) | 3:41 | 2024-08-14 |  |
@@ -104,6 +105,7 @@
 | [I'll Be Okay](https://open.spotify.com/track/6hPlQuK6U4XBudaLrvT4Ya) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [I'll Be Okay](https://open.spotify.com/album/3wdOejNCa7uZq7ttTvz3YW) | 4:02 | 2021-02-12 | 2024-04-19 |
 | [If I Told You](https://open.spotify.com/track/16bXA4pmzrMYTcdYjzdo7y) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [If I Told You](https://open.spotify.com/album/0fN0NC5q7XKJr66GU8uQwZ) | 2:35 | 2024-08-14 |  |
 | [If You Only Knew](https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc) | [André K Barrow](https://open.spotify.com/artist/4Ldcu5W8LWs5jUYbI0ZGiZ), [Niki Carless](https://open.spotify.com/artist/2sEB8jCfYOGYh5IeNwiNJk) | [If You Only Knew](https://open.spotify.com/album/1EDDMhz2KDeBiqGWw2c05x) | 3:38 | 2021-02-12 | 2024-07-06 |
+| [In the Rain](https://open.spotify.com/track/5qPBpx8x9EofaXhDn4amI6) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU) | [Wasteland](https://open.spotify.com/album/6BV3ZkhuV5imTw4VjecK9z) | 3:22 | 2024-08-14 |  |
 | [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/6fMDLbc40h9bEsCAUVdEgP) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [It Is Well \(My Soul Sings\)](https://open.spotify.com/album/6qAC5GtCNon0Kt3gKfWwKd) | 4:00 | 2021-02-12 | 2024-07-06 |
 | [It Is Well \(My Soul Sings\)](https://open.spotify.com/track/3rkGSQ3DLY9aNXNscTepQU) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [As Long As I Live Vol\. 1](https://open.spotify.com/album/57hsPEX7xRDNlqBimHt8Bp) | 4:00 | 2021-02-12 | 2024-04-19 |
 | [It Wasn't For Nothing](https://open.spotify.com/track/4eUgzy8Bv88o6sdIZYsrxL) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [It Wasn't For Nothing](https://open.spotify.com/album/06h0WdJrWuWP6XLGBHOuEs) | 3:01 | 2024-08-07 |  |
@@ -165,6 +167,7 @@
 | [Song In The Room](https://open.spotify.com/track/5wGjWQvn4A5lziL01lSBFv) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Song In The Room](https://open.spotify.com/album/46rXmAu0vGY3QyoxmqTIMx) | 3:22 | 2024-07-05 | 2024-08-08 |
 | [Start Right Now](https://open.spotify.com/track/6WT10ADn9Y5pUgNvSJQclM) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Start Right Now](https://open.spotify.com/album/0DPOGBL5n3QYfrBufbvnK8) | 3:12 | 2024-07-05 | 2024-08-08 |
 | [stay](https://open.spotify.com/track/47PlSslwMiEEI5L5WRAqG4) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [stay](https://open.spotify.com/album/2zRtGxan5ykbMo4zzPzIAb) | 2:47 | 2024-08-07 |  |
+| [Strength of My Heart](https://open.spotify.com/track/3dyeLQ9gpjAEAr7tDOykJA) | [Trulah](https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR) | [Strength of My Heart](https://open.spotify.com/album/6mS7LlvkEGLSjlV4EiBKUr) | 4:21 | 2024-08-14 |  |
 | [SUMMER](https://open.spotify.com/track/22xjQaEYVuTKbZVdTUneSw) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [SUMMER](https://open.spotify.com/album/42lZ7fs6ZVYjOvpXvbhUu1) | 2:25 | 2024-08-07 |  |
 | [SUPERNOVA](https://open.spotify.com/track/5y6brR4r57WlLQQZMb47Pw) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [SUPERNOVA](https://open.spotify.com/album/6ixJQ0WKAlyxfUm8oUJikM) | 2:25 | 2024-08-07 |  |
 | [Take Care](https://open.spotify.com/track/4WYduAQZo11fd28KLhiRCc) | [Emilie Weiss](https://open.spotify.com/artist/58aCPqTdL2wim0FOUm2txg) | [Resonance](https://open.spotify.com/album/2QFb7a2l0xoa0guWTeki0n) | 5:56 | 2024-08-14 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is N.I.N.A](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L7I2Y)
 
-> This Is N.I.N.A\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is N.I.N.A\. The essential tracks, all in one playlist.
 
 51 songs - 2 hr 57 min
 

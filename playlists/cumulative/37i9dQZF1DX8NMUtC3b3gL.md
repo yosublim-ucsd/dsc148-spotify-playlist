@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-550 songs - 21 hr 29 min
+551 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bamboo](https://open.spotify.com/track/5RXMhwXv1G0PRUVaGcqivt) | [Lay\-z Panda](https://open.spotify.com/artist/4RKLi1BBpzJj9pevFW4dj5) | [Bamboo](https://open.spotify.com/album/6qdpITquN0hFSuD2K2suPl) | 2:23 | 2024-06-13 |  |
 | [barred](https://open.spotify.com/track/5G8twxy897fzWrjYgrt6Mi) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [barred](https://open.spotify.com/album/7p996F0pe2XTafw6uyQoD1) | 1:56 | 2023-09-22 |  |
 | [Beach Day](https://open.spotify.com/track/018aK9iGP4GfZjg48dlAEq) | [SoFo](https://open.spotify.com/artist/2hsvv4SulxVhnoLWtuMxo1) | [Beach Day](https://open.spotify.com/album/2NvOHSV7GGtmkcP1BAXMH3) | 3:15 | 2023-03-24 |  |
-| [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 |  |
+| [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 | 2024-08-17 |
 | [Birdie's Best Brownies](https://open.spotify.com/track/03FcSjwZ1QCjodn9fGWB9n) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Birdie's Best Brownies](https://open.spotify.com/album/3w1LrufKydl4ixYfToYDJX) | 1:53 | 2023-03-01 | 2023-10-05 |
 | [black & orange fireflies](https://open.spotify.com/track/0KQiAKffgrI6M2hJvQ05mg) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Fnatic Island Vol\. 1](https://open.spotify.com/album/7wX06Zgl00aBrSMBaRQmbO) | 2:09 | 2022-11-11 | 2024-01-12 |
 | [Blacktop Days](https://open.spotify.com/track/1dH3oLHEysyPEBP0oyFHp0) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Blacktop Days](https://open.spotify.com/album/7vQJZriJ7kH9uFBt2eREe3) | 2:09 | 2022-07-29 | 2022-11-12 |
@@ -150,7 +150,7 @@
 | [East Coast](https://open.spotify.com/track/5E9Hv0qJghwtMpkf8rZdqW) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [East Coast](https://open.spotify.com/album/0PsUlLGnJ7l4hBNErLRhMs) | 2:55 | 2023-09-22 | 2023-10-27 |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-05-27 |  |
 | [Easy Cheese](https://open.spotify.com/track/4rnf2QpPSzkxLlbFxxXgK0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK) | [Easy Cheese](https://open.spotify.com/album/2XLsbqEwMJUGfr2Xgi9PWg) | 5:35 | 2022-12-09 | 2023-08-04 |
-| [Echoes from the Deep Blue](https://open.spotify.com/track/6Q3pWdM0ZYiCI2zgImmwvm) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Echoes from the Deep Blue](https://open.spotify.com/album/5WFHjTZNGZjn9OYCiLWrfi) | 2:26 | 2023-08-03 |  |
+| [Echoes from the Deep Blue](https://open.spotify.com/track/6Q3pWdM0ZYiCI2zgImmwvm) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Echoes from the Deep Blue](https://open.spotify.com/album/5WFHjTZNGZjn9OYCiLWrfi) | 2:26 | 2023-08-03 | 2024-08-17 |
 | [edge of distant shore](https://open.spotify.com/track/7eShWtF70R4wkKJa4wFDr4) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [edge of distant shore](https://open.spotify.com/album/7zb6Lx5sRYWGLBSZB3XcKC) | 2:02 | 2024-06-28 |  |
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
 | [Elegua](https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Elegua](https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka) | 2:02 | 2022-12-09 | 2023-08-04 |
@@ -442,6 +442,7 @@
 | [Steadyme](https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Steadyme](https://open.spotify.com/album/682AYVHvi48jFoXy2zzULL) | 2:19 | 2023-06-06 | 2023-10-27 |
 | [Steinmetz](https://open.spotify.com/track/2EfrdKFmQNFZw2MRCR1QjI) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Steinmetz](https://open.spotify.com/album/4QZfBtiRjvukoOSmdTuTXT) | 2:16 | 2022-08-05 | 2023-08-04 |
 | [Stellar Journey](https://open.spotify.com/track/3eyHbqF8Vkzv6JyGGN0Epb) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Stellar Journey](https://open.spotify.com/album/6OSGBC3uQF0M9P7LqtTbBW) | 3:07 | 2024-02-02 | 2024-07-27 |
+| [Stellar Light](https://open.spotify.com/track/3cdUTa5ndfHCZRcIrkEg7n) | [Space Time](https://open.spotify.com/artist/357YQNXCYAKT5NLytqNLs0) | [Stellar Light](https://open.spotify.com/album/5f3v91VNtLXqtNAlVRM1ND) | 2:37 | 2024-08-16 |  |
 | [Sthlm Night](https://open.spotify.com/track/7eMXZGWOAL7clS5ki24HDO) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Sthlm Night](https://open.spotify.com/album/1GgvBY2L1UVmlysJu45aWS) | 2:50 | 2023-09-22 |  |
 | [Still Here](https://open.spotify.com/track/6yXp48pov09DBrGIr0AiXu) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [Still Here](https://open.spotify.com/album/5l71uz99kUhTzmA1CynluJ) | 2:25 | 2023-11-24 |  |
 | [Still Trying](https://open.spotify.com/track/1PyTG6VhRlpARtgJT7WNnA) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Still Trying](https://open.spotify.com/album/2MScI9Tiq8mxugFETQ5pgz) | 2:24 | 2022-05-27 |  |

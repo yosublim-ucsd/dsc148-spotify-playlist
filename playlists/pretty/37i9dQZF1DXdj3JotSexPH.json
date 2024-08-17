@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35930,
+  "num_followers": 35931,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-08-13 10:28:14",
       "album": {
-        "name": "Little Things (Nia Archives Remix)",
-        "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 160221,
-      "name": "Little Things - Nia Archives Remix",
-      "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
-    },
-    {
-      "added_at": "2024-08-13 10:28:14",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 160752,
       "name": "London",
       "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
+    },
+    {
+      "added_at": "2024-08-13 10:28:14",
+      "album": {
+        "name": "Little Things (Nia Archives Remix)",
+        "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 160221,
+      "name": "Little Things - Nia Archives Remix",
+      "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
     },
     {
       "added_at": "2024-08-13 10:28:14",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-08-13 10:28:14",
       "album": {
+        "name": "\u0634\u0641\u062a",
+        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        }
+      ],
+      "duration_ms": 123503,
+      "name": "\u0634\u0641\u062a",
+      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
+    },
+    {
+      "added_at": "2024-08-13 10:28:14",
+      "album": {
         "name": "Sattar",
         "url": "https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 99083,
       "name": "Sheila Sattar",
       "url": "https://open.spotify.com/track/3WIAH5gwrFhd4tJz0oyEZ9"
-    },
-    {
-      "added_at": "2024-08-13 10:28:14",
-      "album": {
-        "name": "\u0634\u0641\u062a",
-        "url": "https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX"
-      },
-      "artists": [
-        {
-          "name": "BrownMusic",
-          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
-        }
-      ],
-      "duration_ms": 123503,
-      "name": "\u0634\u0641\u062a",
-      "url": "https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs"
     },
     {
       "added_at": "2024-08-13 10:28:14",

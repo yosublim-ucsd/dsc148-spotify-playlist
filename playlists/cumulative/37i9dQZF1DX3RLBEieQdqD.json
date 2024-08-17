@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206591,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52"
@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168271,
       "name": "Hasta El \u00daltimo Momento",
       "url": "https://open.spotify.com/track/5kLhFZ9dr3HF57sofekoHH"
@@ -1852,6 +1852,24 @@
       "duration_ms": 157193,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
+    },
+    {
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/487bGMoPKzTxVMQua6O10T"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4vwSnkU49dha68do07dNXp"
     },
     {
       "album": {
@@ -2270,7 +2288,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 284453,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/6jD818CoibqddGqCEyhjCy"
@@ -2913,6 +2931,24 @@
     },
     {
       "album": {
+        "name": "Pa Qu\u00e9 Me Estas Llamando",
+        "url": "https://open.spotify.com/album/14lrwg4Vmh0dtAQPtoYKz0"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Guiller",
+          "url": "https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Pa Qu\u00e9 Me Estas Llamando",
+      "url": "https://open.spotify.com/track/7yieL1HfxV1fAtTTWLzTVB"
+    },
+    {
+      "album": {
         "name": "Pa' los Gustos los Colores",
         "url": "https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO"
       },
@@ -3418,6 +3454,24 @@
       "duration_ms": 296640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/7Kr0Vnbv1PYoIgfUyhJuFf"
+    },
+    {
+      "album": {
+        "name": "Si Ya Me Voy",
+        "url": "https://open.spotify.com/album/5RATkF8Gxy842fBCe7GCVf"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Si Ya Me Voy",
+      "url": "https://open.spotify.com/track/1KBnfOwjRwVe70IbPUaFF0"
     },
     {
       "album": {

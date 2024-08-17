@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-197 songs - 13 hr 8 min
+198 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2023-03-20 |  |
 | [Candle Flame](https://open.spotify.com/track/0LdAEUc7gyEY6xIG9y3lLM) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Candle Flame](https://open.spotify.com/album/0CYQHh2Xwv6Jv30TUBvTjH) | 2:54 | 2023-03-27 | 2023-09-16 |
 | [Candle Flame](https://open.spotify.com/track/1Ad2HcIX9zBqoWRvxtpYGf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:54 | 2023-08-14 | 2024-04-19 |
+| [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 | 2024-08-16 |  |
 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 | 2023-03-20 |  |
 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 | 2023-08-14 | 2024-07-02 |
 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 | 2023-10-24 |  |
@@ -52,7 +53,7 @@
 | [Don't Sing \(Polo & Pan Remix\)](https://open.spotify.com/track/3e4OoM7ltrDn63xcZccpj1) | [Data](https://open.spotify.com/artist/75QkeG5yBHVCybZurCrMa8), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Don't Sing](https://open.spotify.com/album/7HGiUWfOslsBiDEeJkzy4V) | 5:11 | 2023-03-20 |  |
 | [Don't Stop Me Now](https://open.spotify.com/track/4G5NyEbu42sYIBeobEa1Pd) | [Nathan Behrens](https://open.spotify.com/artist/5R5BFqktonbS13NFJKJKLc) | [Don't Stop Me Now](https://open.spotify.com/album/6omAkoBcsxk9kdAz9SZ2N1) | 3:28 | 2023-08-14 |  |
 | [Don´t Give Up](https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [BOSS REGGAE FROM MEXICO \- REGGAE GORDO](https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT) | 2:50 | 2023-12-12 |  |
-| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 |  |
+| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 | 2024-08-17 |
 | [Echo Arms](https://open.spotify.com/track/44SXQFU3DfXDTm60NXyN9x) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Power of Two / Echo Arms](https://open.spotify.com/album/0u8kiGzYokhOupZ5AXXdJN) | 4:27 | 2023-03-20 | 2024-04-19 |
 | [Echoes](https://open.spotify.com/track/3w0PoZcluoJetM1ygo0c8A) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 5:36 | 2023-03-20 | 2024-01-13 |
 | [El Sabor del Viejo Mar](https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [El Sabor del Viejo Mar](https://open.spotify.com/album/3tq5mJs63eWyYYHsv1sdE1) | 4:23 | 2023-03-20 |  |

@@ -1,12 +1,12 @@
 {
-  "description": ".Los Primos del Este This is\u200f \u05d4\u05e8\u05e6\u05d5\u05e2\u05d5\u05ea \u05e9\u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05d4\u05db\u05d9\u05e8, \u05de\u05e8\u05d5\u05db\u05d6\u05d5\u05ea \u05d1\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d0\u05d7\u05d3.",
-  "num_followers": 5656,
-  "original_name": "Los Primos del Este This Is\u200f",
+  "description": "This is: Los Primos del Este. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 5663,
+  "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABDEXmQKTQSljXGnuFeiUnl",
+  "snapshot_id": "Zr1FAAAAAABV3QEBojDCInrSRn1cztCt",
   "tracks": [
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
+      "duration_ms": 164000,
+      "name": "Me Enamoras",
+      "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 152630,
-      "name": "El Momento",
-      "url": "https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia"
+      "duration_ms": 146685,
+      "name": "De Fiesta",
+      "url": "https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN"
     },
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Me Enamoras",
-      "url": "https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg"
+      "duration_ms": 200250,
+      "name": "Yaki",
+      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 146685,
-      "name": "De Fiesta",
-      "url": "https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN"
+      "duration_ms": 152630,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia"
     },
     {
       "added_at": null,
@@ -897,6 +897,6 @@
       "url": "https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs"
     }
   ],
-  "unique_name": "Los Primos del Este This Is\u200f",
+  "unique_name": "This Is Los Primos del Este",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i"
 }

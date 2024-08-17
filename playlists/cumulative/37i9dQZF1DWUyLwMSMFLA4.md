@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-191 songs - 11 hr 25 min
+192 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-05-05 |  |
 | [Cuando Me Enamoro](https://open.spotify.com/track/03wQrSM0nV1WyPIgWvapG4) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Éxitos de Oro](https://open.spotify.com/album/7xE1A1dVBXNaFG3mK8hOHK) | 2:54 | 2023-05-05 | 2024-04-19 |
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2023-05-05 |  |
+| [Darte Un Beso](https://open.spotify.com/track/2wYBn7U28mMYaW6VGXCagH) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Darte Un Beso](https://open.spotify.com/album/44VJAIvfoh1CV4vVMujqmI) | 2:58 | 2024-08-16 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2023-05-05 |  |
 | [Dime Quien](https://open.spotify.com/track/2RmMb9oAYUZKfK1JzahUIi) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Grupo Anaconda](https://open.spotify.com/artist/68hQE5kUOEyam0MAChqS8t) | [Dime Quien](https://open.spotify.com/album/4ezfh3czrZ39US5xqEdGza) | 3:05 | 2024-06-14 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-05-05 |  |
@@ -83,7 +84,7 @@
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-05 |  |
 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 | 2023-05-05 |  |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 | 2023-12-09 |
-| [Le Hace Falta un Beso](https://open.spotify.com/track/65Bae8oBZOIvQqPLesZa71) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Monolock](https://open.spotify.com/artist/3UIBNXAuR6AYrhuIx9lca2) | [Le Hace Falta un Beso](https://open.spotify.com/album/51Qfe89x4efECiaUiOjYgc) | 3:12 | 2024-06-07 |  |
+| [Le Hace Falta un Beso](https://open.spotify.com/track/65Bae8oBZOIvQqPLesZa71) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Monolock](https://open.spotify.com/artist/3UIBNXAuR6AYrhuIx9lca2) | [Le Hace Falta un Beso](https://open.spotify.com/album/51Qfe89x4efECiaUiOjYgc) | 3:12 | 2024-06-07 | 2024-08-17 |
 | [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-10-10 | 2024-05-26 |
 | [Llegó Tu Papi](https://open.spotify.com/track/3jdU5hu76KBxor1EBDDSXR) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Sabroso](https://open.spotify.com/album/7e53Mcoxr94SyJi9tLngln) | 3:43 | 2024-04-19 | 2024-06-03 |
 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 | 2023-05-05 |  |

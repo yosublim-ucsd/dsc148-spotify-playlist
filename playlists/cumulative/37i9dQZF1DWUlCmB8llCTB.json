@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Perreando toda la noche con Blessd, Ovy on the Drums y W Sound.",
+  "description": "Perreando toda la noche con Nio Garcia.",
   "name": "Perreo City",
   "tracks": [
     {
@@ -458,7 +458,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 144000,
       "name": "A POKA LUZ",
       "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
@@ -1075,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "Anto-Nio",
+        "url": "https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "An\u00f3nima",
+      "url": "https://open.spotify.com/track/7J2hOQyh0cqD5YEPthmUjD"
+    },
+    {
+      "album": {
         "name": "APAGA EL CEL",
         "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
       },
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 235146,
       "name": "BAD BOY",
       "url": "https://open.spotify.com/track/0sFyqFZE8YkkOMA9IFZ3S6"
@@ -1540,6 +1562,28 @@
       "duration_ms": 211404,
       "name": "Baja Sube Sube",
       "url": "https://open.spotify.com/track/6XlNE8CrehIYsI2ZivGn7I"
+    },
+    {
+      "album": {
+        "name": "BANDI2",
+        "url": "https://open.spotify.com/album/3vC8i5vlAcet2fLVLtbn2H"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189278,
+      "name": "BANDI2",
+      "url": "https://open.spotify.com/track/2RfSStDNc1VP8AbojzaiOf"
     },
     {
       "album": {
@@ -3840,7 +3884,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 348720,
       "name": "Coraz\u00f3n Roto pt. 3",
       "url": "https://open.spotify.com/track/0W5wp4qU6EUc1VGCp8GM74"
@@ -4626,7 +4670,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 197383,
       "name": "DESATAAA",
       "url": "https://open.spotify.com/track/1fU8x1SXZk9JMKC3VPANXZ"
@@ -5502,7 +5546,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 190322,
       "name": "EMPELOTICA",
       "url": "https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC"
@@ -9200,7 +9244,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 175200,
       "name": "LATIGAZO",
       "url": "https://open.spotify.com/track/0v5H6UaZrIOr14k6yKzsb0"
@@ -10888,6 +10932,24 @@
       "duration_ms": 183895,
       "name": "Mexicana (feat. El Malilla)",
       "url": "https://open.spotify.com/track/73APnBn08CSe4ygy3L3Be8"
+    },
+    {
+      "album": {
+        "name": "Anto-Nio",
+        "url": "https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/3UPBQKbMkHhXTKHFwvvCAx"
     },
     {
       "album": {
@@ -12676,7 +12738,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 229239,
       "name": "Pa la Proxima",
       "url": "https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J"
@@ -15106,7 +15168,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 155294,
       "name": "Quieres Quedarte?",
       "url": "https://open.spotify.com/track/3cDZ7ogdishEqb7BFdwKzE"
@@ -16306,7 +16368,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177534,
       "name": "Selectiva",
       "url": "https://open.spotify.com/track/208DqEdROg3MhTMmqEyfQA"
@@ -16877,6 +16939,46 @@
     },
     {
       "album": {
+        "name": "Sola Suelta Soltera",
+        "url": "https://open.spotify.com/album/2wZGGuDMF3MsvjCky3oOMy"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Sola Suelta Soltera",
+      "url": "https://open.spotify.com/track/2TsQ2eMg44sEqvbLwjzWrA"
+    },
+    {
+      "album": {
+        "name": "Solida",
+        "url": "https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr"
+      },
+      "artists": [
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Solida",
+      "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
+    },
+    {
+      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -16925,6 +17027,32 @@
     },
     {
       "album": {
+        "name": "Anto-Nio",
+        "url": "https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Soltero",
+      "url": "https://open.spotify.com/track/6yOQcRKYZsiv67ddil2gf5"
+    },
+    {
+      "album": {
         "name": "Partyson",
         "url": "https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL"
       },
@@ -16958,6 +17086,24 @@
       "duration_ms": 182091,
       "name": "SOMOS 3",
       "url": "https://open.spotify.com/track/66YbCQfo2jDuvcaOSk74FR"
+    },
+    {
+      "album": {
+        "name": "El Maquinon Vol.2",
+        "url": "https://open.spotify.com/album/7IqtTTQ7tv0eDY0T0QTra3"
+      },
+      "artists": [
+        {
+          "name": "El Osito Wito",
+          "url": "https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145904,
+      "name": "Somos Nosotros",
+      "url": "https://open.spotify.com/track/0N625N28Np9TmT2cliAV3b"
     },
     {
       "album": {
@@ -17030,7 +17176,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 140508,
       "name": "STORIES VERDES",
       "url": "https://open.spotify.com/track/2igZmkvi3nALgg4EbrrsbB"
@@ -17924,7 +18070,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192746,
       "name": "Triple S",
       "url": "https://open.spotify.com/track/57lPefSIAt3ghkfnYFj1B7"
@@ -18472,7 +18618,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194042,
       "name": "Una Noche",
       "url": "https://open.spotify.com/track/0PByhmyCwq9MCyc0MRJ0IV"

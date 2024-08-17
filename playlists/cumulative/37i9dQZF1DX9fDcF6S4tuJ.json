@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Special Spice (Music from \"Tiana's Bayou Adventure\")",
+        "url": "https://open.spotify.com/album/0BqXf2ni7ncYz6IqlGacel"
+      },
+      "artists": [
+        {
+          "name": "Anika Noni Rose",
+          "url": "https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161109,
+      "name": "Special Spice - Music from \"Tiana's Bayou Adventure\"",
+      "url": "https://open.spotify.com/track/7LGJtP8tWWlRmm6nbMYDxQ"
+    },
+    {
+      "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },

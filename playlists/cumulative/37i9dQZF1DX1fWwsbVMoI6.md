@@ -4,7 +4,7 @@
 
 > A ponerse a tono con los mejores cumbiones\. Foto: La Única Tropical
 
-152 songs - 10 hr 28 min
+154 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,11 @@
 | [Amor Prohibido](https://open.spotify.com/track/2SOWAjUzwv0xbSaMx7j522) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Vol\. 11: Amor Prohibido](https://open.spotify.com/album/39Mr4G9fWujU9CIlMoPlPW) | 3:33 | 2022-02-11 | 2022-07-28 |
 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 | 2022-08-05 | 2024-04-05 |
 | [Amor Vuelve \- \(En Vivo\)](https://open.spotify.com/track/29QkpKsdxiChq3xsmu5VDG) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Noche de Oro \(En Vivo\)](https://open.spotify.com/album/639y9TFplTFnb6WeqB4c9d) | 3:46 | 2023-09-22 |  |
+| [Angelito](https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Angelito](https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa) | 2:51 | 2024-08-16 |  |
 | [Antahuara](https://open.spotify.com/track/1d7eRr7zChFXSv13adTGcv) | [Grupo Maravilla](https://open.spotify.com/artist/4DDlcMniR5obaLi3lcy8uI) | [Los Éxitos del Grupo Maravilla](https://open.spotify.com/album/1mu9n0cqtB9vDRg2vOqpyl) | 3:58 | 2022-02-11 | 2023-06-14 |
 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 | 2022-02-11 |  |
 | [Ay Amor](https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 3:44 | 2022-02-11 |  |
+| [AYAYAY!](https://open.spotify.com/track/4ZPCNMnfJ61hpuq5tjvTtV) | [Papaya Dada](https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89), [Spiritual](https://open.spotify.com/artist/7dJnUKfWyG3iYsPFyo5HpQ) | [AYAYAY!](https://open.spotify.com/album/2zDCDoc0avgic2BKapvtvj) | 2:49 | 2024-08-16 |  |
 | [Cambio Mi Corazón \- En Vivo](https://open.spotify.com/track/0C7Uv6gVlrdXTZTVi8Yal2) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/4ZtxnbQnTZCkmdELHPmebJ) | 3:39 | 2022-02-11 |  |
 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 | 2023-03-31 | 2024-04-19 |
 | [Cervecero](https://open.spotify.com/track/4mdkLjfCwdVNZZD8jrtqQJ) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/0ti5xGT8I0efMsFbVBw7if) | 5:26 | 2022-02-11 | 2022-07-29 |
@@ -69,7 +71,7 @@
 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 | 2022-02-11 |  |
 | [Imposible Olvidarte](https://open.spotify.com/track/1v57w0VNYnXwVlomUgdddU) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Cariño Loco](https://open.spotify.com/album/47jmWuLpOc9R5bb06VM2Y6) | 4:10 | 2022-02-11 | 2022-07-28 |
 | [Imposible Olvidarte](https://open.spotify.com/track/28OYshVQTfw9ytKlXHjaqg) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Cariño Loco](https://open.spotify.com/album/2g3QVAasQuXmVPXmaWG6PT) | 4:10 | 2022-08-05 | 2022-11-13 |
-| [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 | 2022-02-11 |  |
+| [Juraste Querrerme](https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [El Baile de la Serpiente](https://open.spotify.com/album/0jIIIsrmBE2u1hSKLezjmt) | 3:29 | 2022-02-11 | 2024-08-17 |
 | [Júrame](https://open.spotify.com/track/2jlvQG0RDIj5KgnM2xjlUk) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Lo Mejor Del...](https://open.spotify.com/album/2IWLIYTe44e5MD6orWUaiC) | 4:07 | 2022-02-11 | 2022-07-29 |
 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 | 2022-02-11 | 2024-04-19 |
 | [La Caballita](https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P) | [Los 5 de Oro](https://open.spotify.com/artist/6FOEcawuPvpdwjryvY2kI0) | [La Caballita](https://open.spotify.com/album/0a7Dnjb0Pzai5WcUxFy9xp) | 3:38 | 2022-02-11 | 2022-07-18 |
@@ -121,7 +123,7 @@
 | [Quiero Amanecer](https://open.spotify.com/track/7FxnHDy0ew0aDygCSo6vYH) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Quiero Amanecer](https://open.spotify.com/album/1ccXrhxirn0DN7sqHNO9jO) | 2:52 | 2022-02-11 |  |
 | [Recuerdos](https://open.spotify.com/track/1Ab5YJEpEs5NHS8Lf8lqVP) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/3ErnVMXg1SFb6deQOH7YLI) | 4:33 | 2022-02-11 | 2022-07-29 |
 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 | 2022-02-11 | 2024-04-19 |
-| [Sacude el Billete](https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 4:00 | 2022-02-11 |  |
+| [Sacude el Billete](https://open.spotify.com/track/5sJHdbckrzXFABt9KqBTXa) | [Dilbert Aguilar y su Orquesta La Tribu](https://open.spotify.com/artist/0xMwRvaK2YWX4SqYfeAD7Y) | [Vol\. 1](https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d) | 4:00 | 2022-02-11 | 2024-08-17 |
 | [Serpiente](https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Primicias y Éxitos](https://open.spotify.com/album/5pzyQ9Ytd01DXdhZUCmgQ2) | 2:01 | 2023-02-03 |  |
 | [Si Esta Casa Hablara](https://open.spotify.com/track/27G6SfSgrwATYIM7G23u7U) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sin Fronteras](https://open.spotify.com/album/5iOAYIfJkHvXRmV3Q94skV) | 3:44 | 2024-02-16 | 2024-04-19 |
 | [Si Esta Casa Hablara](https://open.spotify.com/track/7aLA9WPyVfmB3WeciQ6Fb3) | [Orquesta La Única Tropical](https://open.spotify.com/artist/38B1gZEOqKD3hG1YJJqTwK) | [Sin Fronteras](https://open.spotify.com/album/2CEK6jQBdbmko7H3Y5JGAx) | 3:44 | 2022-02-11 |  |

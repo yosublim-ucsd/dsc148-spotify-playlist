@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "All Your Days",
+        "url": "https://open.spotify.com/album/43BrpODFYQ5nhPUL8mrtuG"
+      },
+      "artists": [
+        {
+          "name": "Allos",
+          "url": "https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1"
+        },
+        {
+          "name": "Sonast\u00e9rio",
+          "url": "https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290655,
+      "name": "All Your Days",
+      "url": "https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K"
+    },
+    {
+      "album": {
         "name": "Basic Session, Vol. 1",
         "url": "https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4"
       },
@@ -1205,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/6qwE5HKEYKA4oak3S4Q9OA"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336307,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/0Knupzr9ZhMApMjiwSAQBx"
+    },
+    {
+      "album": {
         "name": "Glorificar Cristo, Edificar a Igreja",
         "url": "https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE"
       },
@@ -1422,7 +1462,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210720,
       "name": "John",
       "url": "https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp"
@@ -2270,7 +2310,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 269523,
       "name": "Por\u00e3o",
       "url": "https://open.spotify.com/track/3vU0zgDNn2MA5jbV2eDpyT"

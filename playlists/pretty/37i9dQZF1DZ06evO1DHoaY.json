@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Marley & The Wailers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2028455,
+  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
+  "num_followers": 2028606,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABVj91A3BbNAdirTYRskv9O",
+  "snapshot_id": "Zr1FAAAAAAC0JOGQXxtnuCz4uZlSbu5a",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaya",
-        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
+        "name": "Legend - The Best Of Bob Marley And The Wailers",
+        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Satisfy My Soul",
-      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
+      "duration_ms": 177440,
+      "name": "Easy Skanking",
+      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend - The Best Of Bob Marley And The Wailers",
-        "url": "https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn"
+        "name": "Kaya",
+        "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 177440,
-      "name": "Easy Skanking",
-      "url": "https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO"
+      "duration_ms": 271000,
+      "name": "Satisfy My Soul",
+      "url": "https://open.spotify.com/track/5Uv1YNz6uBepPLDdoFANKQ"
     },
     {
       "added_at": null,

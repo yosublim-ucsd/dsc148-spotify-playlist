@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 67425,
+  "num_followers": 67446,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -50,6 +50,10 @@
         {
           "name": "Los Chacales del Maule",
           "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
       "duration_ms": 265789,
@@ -458,6 +462,10 @@
         {
           "name": "Los Chacales del Maule",
           "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
       "duration_ms": 273066,
@@ -619,22 +627,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Descaderando Viejos por Todo Chile",
-        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
-      },
-      "artists": [
-        {
-          "name": "Banda Salvaje",
-          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Me Vas a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Lo Mejor 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
@@ -651,18 +643,18 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Princesita M\u00eda",
-        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
+        "name": "Descaderando Viejos por Todo Chile",
+        "url": "https://open.spotify.com/album/1s7OSAGyz5wM1C0qm2Cb6Q"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+          "name": "Banda Salvaje",
+          "url": "https://open.spotify.com/artist/6QO04IJTCHf4iedGSa7iqg"
         }
       ],
-      "duration_ms": 391733,
-      "name": "Te Amo y Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
+      "duration_ms": 287040,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/5yPGRcZj487QaIP6Qfi1DW"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -683,6 +675,42 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Princesita M\u00eda",
+        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "Te Amo y Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
@@ -695,22 +723,6 @@
       "duration_ms": 252651,
       "name": "Deja de Llorar",
       "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -751,22 +763,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Por una Yegua No Se para la Trilla",
         "url": "https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm"
       },
@@ -779,6 +775,22 @@
       "duration_ms": 193125,
       "name": "La Mesa 20",
       "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+      },
+      "artists": [
+        {
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+        }
+      ],
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -835,22 +847,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Me Voy a Lanzar",
-        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        }
-      ],
-      "duration_ms": 177363,
-      "name": "Me Voy a Lanzar",
-      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
         "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
       },
@@ -863,6 +859,22 @@
       "duration_ms": 212093,
       "name": "Tu Me Estrujaste",
       "url": "https://open.spotify.com/track/3x5RC95BsHI7AgDtFIMiYf"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Me Voy a Lanzar",
+        "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
+      },
+      "artists": [
+        {
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        }
+      ],
+      "duration_ms": 177363,
+      "name": "Me Voy a Lanzar",
+      "url": "https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -883,6 +895,26 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
         "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/07Ztp63QO86WY8m2XehreY"
       },
@@ -895,22 +927,6 @@
       "duration_ms": 494471,
       "name": "A Trav\u00e9s del Vaso / Cuerpo de Sirena / La Misma (\u00c9xitos Festivos 2021- 2022)",
       "url": "https://open.spotify.com/track/2nzHumHZo0aDR0A5nPM1Su"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1223,38 +1239,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
-        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
-      },
-      "artists": [
-        {
-          "name": "Los Diamantes de Purapel",
-          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
-        "name": "Siempre Villanos",
-        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
-      },
-      "artists": [
-        {
-          "name": "Los Villanos de Coltauco",
-          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
-        }
-      ],
-      "duration_ms": 220203,
-      "name": "Maldita Sea la Primera Vez",
-      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "Traicionera / Como Dejar de Amarte / Entre Golpes y Besos (\u00c9xitos Festivos 2021- 2022)",
         "url": "https://open.spotify.com/album/4dkGzuwOhPqQWkU0IZmNut"
       },
@@ -1287,18 +1271,34 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Golero Emparamao",
-        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
+        "name": "Nuestra M\u00fasica Suena Mas Fuerte Que Tus Problemas",
+        "url": "https://open.spotify.com/album/2oKdLYpjkDEvjM6f9vLgEf"
       },
       "artists": [
         {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+          "name": "Los Diamantes de Purapel",
+          "url": "https://open.spotify.com/artist/2qXq5Q06bTg3wUxs7mar7U"
         }
       ],
-      "duration_ms": 268324,
-      "name": "Golero Emparamao",
-      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
+      "duration_ms": 211866,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/1NMPgg0S88HdOkrdCxjucv"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Siempre Villanos",
+        "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
+      },
+      "artists": [
+        {
+          "name": "Los Villanos de Coltauco",
+          "url": "https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk"
+        }
+      ],
+      "duration_ms": 220203,
+      "name": "Maldita Sea la Primera Vez",
+      "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1315,6 +1315,22 @@
       "duration_ms": 178586,
       "name": "La Rumbera",
       "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Golero Emparamao",
+        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
+      },
+      "artists": [
+        {
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
+        }
+      ],
+      "duration_ms": 268324,
+      "name": "Golero Emparamao",
+      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2024-06-12 22:58:17",
       "album": {
-        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
-      },
-      "artists": [
-        {
-          "name": "Los Inseparables",
-          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
-        }
-      ],
-      "duration_ms": 572865,
-      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
-    },
-    {
-      "added_at": "2024-06-12 22:58:17",
-      "album": {
         "name": "El Hijo Ausente",
         "url": "https://open.spotify.com/album/5oAxWYaybSW1M5TE9wEWvq"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 178289,
       "name": "El Hijo Ausente",
       "url": "https://open.spotify.com/track/4fKMiTFX6uSGGK5MZNj5mi"
+    },
+    {
+      "added_at": "2024-06-12 22:58:17",
+      "album": {
+        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
+      },
+      "artists": [
+        {
+          "name": "Los Inseparables",
+          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
+        }
+      ],
+      "duration_ms": 572865,
+      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
     },
     {
       "added_at": "2024-06-12 22:58:17",
@@ -1582,6 +1598,10 @@
         {
           "name": "Los Chacales del Maule",
           "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
         }
       ],
       "duration_ms": 254850,

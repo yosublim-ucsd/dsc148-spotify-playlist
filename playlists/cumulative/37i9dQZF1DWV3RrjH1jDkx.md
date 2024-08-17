@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-1,730 songs - 3 day 16 hr 25 min
+1,732 songs - 3 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-14 | 2024-06-21 |
 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-11 | 2024-07-19 |
 | [Brunette & Blondine \(feat\. Tyr\)](https://open.spotify.com/track/6Veqegam37sgXeKNaKSXly) | [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Brunette & Blondine \(feat\. Tyr\)](https://open.spotify.com/album/2GaBMPzaLkAgr59lCKyTAd) | 2:11 | 2024-05-31 | 2024-06-07 |
+| [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-15 |  |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 | 2024-06-14 |
 | [But Then The Night](https://open.spotify.com/track/105U0cTOYihNh1S4zHPjgK) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [But Then The Night](https://open.spotify.com/album/0NEoxBk7TlWuvz3QMStFZH) | 1:34 | 2024-07-11 | 2024-07-19 |
 | [Butterflies](https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Butterflies](https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH) | 3:08 | 2024-08-09 | 2024-08-16 |
@@ -364,6 +365,7 @@
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-11 | 2024-07-19 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2024-07-19 |
 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-15 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 | 2024-08-16 |
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-05-02 | 2024-05-10 |
 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 | 2024-08-09 | 2024-08-16 |

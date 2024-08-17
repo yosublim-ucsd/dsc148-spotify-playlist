@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-233 songs - 14 hr 4 min
+234 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Butterflies Pt\. 2 \- Acoustic](https://open.spotify.com/track/0P8cENEqN7W3U6rZohIaCJ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Butterflies Pt\. 2](https://open.spotify.com/album/04VUOnNhfsR1vm0sqfb73j) | 2:32 | 2021-12-09 | 2023-08-16 |
 | [Can't Be Wrong \- Majestic Session](https://open.spotify.com/track/6aTjY2Fj5lbVNy1p7Y0nLd) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Can't Be Wrong \(Majestic Session\)](https://open.spotify.com/album/3XyV7eKz63SzZHsxINSi67) | 4:05 | 2021-12-09 |  |
 | [Can't Have It All \(Acoustic\)](https://open.spotify.com/track/2xLhNn8me1FJM9k3m8qCRh) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Can't Have It All \(Acoustic\)](https://open.spotify.com/album/6SwbTc479EogHUYbI7tCan) | 2:58 | 2022-12-15 |  |
+| [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \- Acoustic](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 | 2024-08-16 |  |
 | [Coffee in the Morning](https://open.spotify.com/track/1I3hnFXFmco3dUY2AYcvLL) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 3:46 | 2024-01-17 | 2024-04-19 |
 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 | 2023-02-17 |  |
 | [Cold Outside](https://open.spotify.com/track/2J3ToF45OBUaeDqiLUfMr1) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Suburb Superhero: The Villain Within](https://open.spotify.com/album/5ZkqZQN2bPnBiRlnpBd5aH) | 1:51 | 2021-12-09 | 2022-07-29 |
@@ -206,7 +207,7 @@
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-03 | 2023-11-10 |
 | [Talk In The Morning \- Acoustic](https://open.spotify.com/track/4E9xdYBKevFHZVfX91w3tP) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Talk In The Morning \(Acoustic\)](https://open.spotify.com/album/1ZboNHs3k8AGSjAOgCNYLC) | 3:24 | 2021-12-09 | 2023-11-10 |
-| [The Most \(Acoustic\)](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 | 2024-08-09 |  |
+| [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \- Acoustic](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 | 2024-08-09 |  |
 | [The Reason Why \- Guitar Acoustic](https://open.spotify.com/track/45X6MX8ja2Mbq4vzJuDZCj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [The Reason Why \(Acoustics\)](https://open.spotify.com/album/5IF22Rph1d2GA3cTlhCQoh) | 3:09 | 2021-12-09 | 2023-04-09 |
 | [The Truth \(Acoustic\)](https://open.spotify.com/track/41Omyz5CX0Y6J3ftlbAJbJ) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The Truth \(Acoustic\)](https://open.spotify.com/album/751ImyJjwiXZDQLAhFD8Tg) | 3:53 | 2024-03-21 |  |
 | [The Truth \- Acoustic](https://open.spotify.com/track/5uWBV0sK0PmWv574AhLt2p) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The Truth \(Acoustic\)](https://open.spotify.com/album/24UvQ9VrN5nRAWllG7QGZC) | 3:53 | 2023-06-29 | 2024-04-19 |

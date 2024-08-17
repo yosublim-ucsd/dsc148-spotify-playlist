@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 514 songs - 1 day 9 hr 52 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 516 songs - 1 day 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -518,9 +518,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 508 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
 | 509 | [Acrid Avid Jam Shred](https://open.spotify.com/track/6RjEg1YpdNJlXrGOy4KeVs) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 7:39 |
 | 510 | [A Good Thing](https://open.spotify.com/track/4h7N08txmbfso1H5WtUkjS) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Carrier Pigeon](https://open.spotify.com/album/5ufL1kagvdUMrUNNP4FCuV) | 3:29 |
-| 511 | [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 |
-| 512 | [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 |
-| 513 | [Hymnal](https://open.spotify.com/track/5YhHAIAq6sFAeqjBOe40Lc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 2:22 |
-| 514 | [Landlines](https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp) | 2:58 |
+| 511 | [Live from 54th](https://open.spotify.com/track/5UkiLo3RAeN2Y3qmtFAmG2) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Evidence](https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O) | [Los Angeles](https://open.spotify.com/album/6SbSnccPne65cY6Fovd0h7) | 1:43 |
+| 512 | [Hymnal](https://open.spotify.com/track/5YhHAIAq6sFAeqjBOe40Lc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 2:22 |
+| 513 | [Landlines](https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp) | 2:58 |
+| 514 | [Growing Story](https://open.spotify.com/track/7b3QdP0oPZyUaQrtRjsqDj) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:32 |
+| 515 | [Get Back](https://open.spotify.com/track/5HvB1BWxjT7Mc5VVmJXyhU) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:12 |
+| 516 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 |
 
-Snapshot ID: `AAAGXNQ939LU/r0gFNRe8xsqxEzfO5FF`
+Snapshot ID: `AAAGYJu1jP0zCMgsS6ubJNSJS6rcp8Q9`

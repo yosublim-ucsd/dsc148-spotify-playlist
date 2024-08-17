@@ -1591,6 +1591,58 @@
     },
     {
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Dreebeatmaker",
+          "url": "https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Me Balan\u00e7a Toda",
+      "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
+    },
+    {
+      "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "album": {
         "name": "Me Deixa",
         "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
       },
@@ -2584,7 +2636,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150508,
       "name": "Rabet\u00e3o",
       "url": "https://open.spotify.com/track/6PynytExoTNHQzb2ur5Tsu"
@@ -3176,7 +3228,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216612,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"

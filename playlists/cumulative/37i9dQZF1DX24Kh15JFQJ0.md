@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-290 songs - 17 hr 0 min
+291 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Just To Be Loved](https://open.spotify.com/track/515sfGf2gmnr14l5dblnxH) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Just To Be Loved](https://open.spotify.com/album/3SjOoyWph9hb3oQKb2tSoU) | 3:12 | 2023-07-07 |  |
 | [Kindness](https://open.spotify.com/track/1r1AqeRw3T8eYbuMTHNTYB) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Kindness](https://open.spotify.com/album/25zJec6iPEpDZfnYA0DZpO) | 3:21 | 2023-04-07 |  |
 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 | 2023-06-02 |  |
+| [Last Leaf](https://open.spotify.com/track/3xZbfaTKjT7AxOEWKqOEMW) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf](https://open.spotify.com/album/4BxExZd0956GZcl9HotNfj) | 3:14 | 2024-08-16 |  |
 | [Lead Me Home](https://open.spotify.com/track/5okWmLTI9nYRZ5HcSoKffK) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Lead Me Home](https://open.spotify.com/album/6BtcUNipS0LAGkvkpsSt6b) | 3:34 | 2021-10-15 |  |
 | [Left Their Mark](https://open.spotify.com/track/0Uz8ahCmuqLcY78C4sca1D) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 3:55 | 2023-11-17 | 2024-03-26 |
 | [Left Their Mark](https://open.spotify.com/track/1ivKjWTRL02kRtBwbjMLCz) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [The Frontmen](https://open.spotify.com/album/5JZgtLCQxZsuFxLtUZzkRk) | 3:55 | 2023-11-03 | 2023-11-29 |

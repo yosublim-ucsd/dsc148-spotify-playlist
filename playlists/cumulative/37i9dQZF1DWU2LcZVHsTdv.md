@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-245 songs - 15 hr 1 min
+248 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Changed](https://open.spotify.com/track/5lgFs35aqgh22XECp44NEQ) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed \(Deluxe Edition\)](https://open.spotify.com/album/5fICps5zhCxC0TaVY62Jx2) | 4:21 | 2021-12-10 |  |
 | [Changed](https://open.spotify.com/track/7ClZTubD4KudpEuBysLMUI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Changed](https://open.spotify.com/album/3UFdvzvKR3spzlCkVpcqKb) | 4:22 | 2022-07-15 | 2024-04-19 |
 | [Chase Me Down \(feat\. RaeLynn\)](https://open.spotify.com/track/4PVt0PcZyI61mCuwMdvtzy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:28 | 2021-12-10 |  |
+| [Church](https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Church](https://open.spotify.com/album/1Q303HZ7KT6B5xGlfJBF6c) | 3:31 | 2024-08-16 |  |
 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 | 2021-12-10 |  |
 | [Church Pew](https://open.spotify.com/track/0Z1ZBLSFEu16lc2JPbiWlw) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/7lWtYUVYwsWT7iTtOR192c) | 3:59 | 2023-07-14 |  |
 | [Churches and Bars](https://open.spotify.com/track/5rdrGT068PeZfY1J32mcDn) | [Bear Bailey](https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz) | [Churches and Bars](https://open.spotify.com/album/5TcFStrKOcmhxwrqihFBqa) | 3:18 | 2022-09-09 |  |
@@ -123,6 +124,7 @@
 | [Introduce You to God](https://open.spotify.com/track/4EoyDUpn3VtkwXTa5ZUhKB) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo \(Introduce You To God\)](https://open.spotify.com/album/1523Ot5YIJnrFfxsAEemjj) | 3:34 | 2024-04-05 |  |
 | [Jesus Cries](https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Church Pew](https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN) | 3:23 | 2023-09-22 |  |
 | [Jesus in a Bar](https://open.spotify.com/track/4XBKMHoWOIJMqKol7VhWDk) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Jesus in a Bar](https://open.spotify.com/album/7dyXRT0wtewOg9jyKqm4WN) | 3:58 | 2023-08-25 |  |
+| [Jesus Saves](https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Jesus Saves](https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ) | 2:56 | 2024-08-16 |  |
 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 | 2024-04-12 |  |
 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 | 2022-09-30 |  |
 | [Jesus, Won't You Come By Here](https://open.spotify.com/track/3TkQkNP31WG8xnXAVkjB93) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Jesus, Won't You Come By Here](https://open.spotify.com/album/4DOFLP7P2QcvMvQX38jcdm) | 2:50 | 2022-05-27 |  |
@@ -162,6 +164,7 @@
 | [Outskirts of Heaven](https://open.spotify.com/track/5J3jB1IKglDvEu0WRsOcq5) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/1gJBFIxt0YT2v7kZWq99Rs) | 4:04 | 2023-10-20 | 2024-04-19 |
 | [Outskirts of Heaven](https://open.spotify.com/track/6gcNSi6b9gvDBjYO059lrF) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [See You Try](https://open.spotify.com/album/3z4mJYzha57sn2r4NtkyaP) | 4:04 | 2022-07-15 | 2023-11-05 |
 | [Phone Call to God](https://open.spotify.com/track/3oSyemHgjMoHqW85EuclSb) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [The Shack: Music From and Inspired By the Original Motion Picture](https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO) | 3:57 | 2021-12-10 |  |
+| [Pioneer \(feat\. Conner Smith\)](https://open.spotify.com/track/0zFMorAJB6rWnfKknLNARF) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Pioneer \(feat\. Conner Smith\)](https://open.spotify.com/album/1ASk8QZpt6jmnc9bK96PvT) | 3:24 | 2024-08-16 |  |
 | [Place for Me](https://open.spotify.com/track/6lhnuGmvxgRiozlK4J2cer) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2), [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Place for Me](https://open.spotify.com/album/23KSpAVjELjsop1LUXsldT) | 3:12 | 2023-01-06 |  |
 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Pray](https://open.spotify.com/track/3xcyAHzKbIqfij1NHHpjcD) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:33 | 2023-10-20 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. LOS DOS DE TAMAULIPAS en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Virlan Garc\u00eda en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200221,
       "name": "Advertencia",
       "url": "https://open.spotify.com/track/7LA72PEEcuoXEJxzAVckPM"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169277,
       "name": "ALGO BIEN",
       "url": "https://open.spotify.com/track/3sRSAwBQxGfDIMwmhTdoMT"
@@ -988,6 +988,24 @@
       "duration_ms": 149566,
       "name": "Amigos Mis Huevos",
       "url": "https://open.spotify.com/track/2psdyq0rZCpZINw5C55GcG"
+    },
+    {
+      "album": {
+        "name": "Amigos Mis Huevos",
+        "url": "https://open.spotify.com/album/5LcF3rp3yKDww4tQ2zuMdW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153340,
+      "name": "Amigos Mis Huevos",
+      "url": "https://open.spotify.com/track/6cVfc0pJRwGEilrqDICBSl"
     },
     {
       "album": {
@@ -5989,6 +6007,24 @@
     },
     {
       "album": {
+        "name": "El Caminito",
+        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155162,
+      "name": "El Caminito",
+      "url": "https://open.spotify.com/track/4lHWPXVlSkcah5YpBrjNaR"
+    },
+    {
+      "album": {
         "name": "El Canelo",
         "url": "https://open.spotify.com/album/6SM6UFkLSFLL8MKKyvDOCU"
       },
@@ -6026,6 +6062,24 @@
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "album": {
+        "name": "El Cartel",
+        "url": "https://open.spotify.com/album/0zi7eSgEN1Kil6b2hRGDGj"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173524,
+      "name": "El Cartel",
+      "url": "https://open.spotify.com/track/4Fj72ootB0Nc2EjMYQmrSb"
     },
     {
       "album": {
@@ -6240,6 +6294,24 @@
       "duration_ms": 168880,
       "name": "El Cherrys",
       "url": "https://open.spotify.com/track/1OkaJXylEGb6ut4tR4VYQJ"
+    },
+    {
+      "album": {
+        "name": "El Chino",
+        "url": "https://open.spotify.com/album/4CPtp2hMKUYg02JmRXcoFr"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "El Chino",
+      "url": "https://open.spotify.com/track/4yBK8JxOLTnTk9skiPp3ED"
     },
     {
       "album": {
@@ -7275,6 +7347,28 @@
     },
     {
       "album": {
+        "name": "El Dos Puertas",
+        "url": "https://open.spotify.com/album/1mYlCOtXWJOfDgykAFhu0x"
+      },
+      "artists": [
+        {
+          "name": "Rob Lasseter",
+          "url": "https://open.spotify.com/artist/7qUy2qxLYPqgygkWHzxJ1t"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182544,
+      "name": "El Dos Puertas",
+      "url": "https://open.spotify.com/track/59HFt04PbyDJKWkqol1lXR"
+    },
+    {
+      "album": {
         "name": "En Vivo De Culiacan",
         "url": "https://open.spotify.com/album/7aLvfvDELF2hdwC6iTKjCM"
       },
@@ -7971,6 +8065,32 @@
     },
     {
       "album": {
+        "name": "El Guason",
+        "url": "https://open.spotify.com/album/6W4xuUmUz1km7n6ZMFyWnS"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes De Durango",
+          "url": "https://open.spotify.com/artist/3wGRXHdFCbyHhyVbdAWNrd"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "El Guason",
+      "url": "https://open.spotify.com/track/0m3hgOFvDSSoKGbm15OTEc"
+    },
+    {
+      "album": {
         "name": "El Gucci (En Vivo)",
         "url": "https://open.spotify.com/album/5nQ52DxbePaKViVUyPUcGj"
       },
@@ -8454,6 +8574,28 @@
       "duration_ms": 167961,
       "name": "El Lema del Barbas",
       "url": "https://open.spotify.com/track/4tsQW89PubYxiNuJqddvRh"
+    },
+    {
+      "album": {
+        "name": "El Le\u00f3n En Su Manada",
+        "url": "https://open.spotify.com/album/4nZt2WMUbsFabCYg5LXlG0"
+      },
+      "artists": [
+        {
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196740,
+      "name": "El Le\u00f3n En Su Manada",
+      "url": "https://open.spotify.com/track/2PwnhIoZKlj3PpaifyXt0W"
     },
     {
       "album": {
@@ -9010,7 +9152,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160768,
       "name": "El Mismo De Las Pacas",
       "url": "https://open.spotify.com/track/5sRcJypLdHFQ82luHXbdBK"
@@ -9599,6 +9741,28 @@
     },
     {
       "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "album": {
         "name": "El Plumas (En Vivo)",
         "url": "https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs"
       },
@@ -9676,6 +9840,24 @@
       "duration_ms": 215041,
       "name": "El Prieto Bereta",
       "url": "https://open.spotify.com/track/4ou6FcWqtjorBer6znaAuU"
+    },
+    {
+      "album": {
+        "name": "El Primito",
+        "url": "https://open.spotify.com/album/1M76nO5nmruPUkJXjVUCoG"
+      },
+      "artists": [
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152822,
+      "name": "El Primito",
+      "url": "https://open.spotify.com/track/6M269T5bCl9Z5krUPZ389A"
     },
     {
       "album": {
@@ -10560,6 +10742,24 @@
       "duration_ms": 181654,
       "name": "El Texas",
       "url": "https://open.spotify.com/track/4x7ah1DHVZcvM3yTmBjvhG"
+    },
+    {
+      "album": {
+        "name": "Mi Guitarra y Yo, Vol. 5",
+        "url": "https://open.spotify.com/album/04n5uPmD1hCs9jrNlcrCrU"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216110,
+      "name": "El Tiempo es CARO",
+      "url": "https://open.spotify.com/track/7CFKN6UFQ3iiHeRrW5UdfK"
     },
     {
       "album": {
@@ -11459,6 +11659,28 @@
     },
     {
       "album": {
+        "name": "Era El Cholo",
+        "url": "https://open.spotify.com/album/7uuKdmO7ElpH6RQzGzJxJU"
+      },
+      "artists": [
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "Era El Cholo",
+      "url": "https://open.spotify.com/track/1abLmCTw9SOYU1VTtuC3H4"
+    },
+    {
+      "album": {
         "name": "ConBebio Culto (En Vivo)",
         "url": "https://open.spotify.com/album/674TPmkSQt1a1ZfbsmJv8d"
       },
@@ -12145,6 +12367,28 @@
     },
     {
       "album": {
+        "name": "Fui Chalito",
+        "url": "https://open.spotify.com/album/6HilJBdQziUF4oEP6isRBS"
+      },
+      "artists": [
+        {
+          "name": "Los mismos De La M",
+          "url": "https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8"
+        },
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196308,
+      "name": "Fui Chalito",
+      "url": "https://open.spotify.com/track/10CdhPVB74QlSu12BR2mfE"
+    },
+    {
+      "album": {
         "name": "Fui El Mini 6",
         "url": "https://open.spotify.com/album/47PXrceFCSNsCfPfvbN6Wu"
       },
@@ -12400,7 +12644,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 122379,
       "name": "Gente B\u00e9lica",
       "url": "https://open.spotify.com/track/6l2eP0YqEj06dnoaAMVGCj"
@@ -12712,7 +12956,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
@@ -13695,6 +13939,24 @@
     },
     {
       "album": {
+        "name": "El Caminito",
+        "url": "https://open.spotify.com/album/67epWivg3BVBB4Pjk9B7Q4"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178721,
+      "name": "Juan Carlos \"Lefty SM\"",
+      "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
+    },
+    {
+      "album": {
         "name": "Juicy",
         "url": "https://open.spotify.com/album/7HaxWb5dLjuMc2Wezdn9J5"
       },
@@ -13944,7 +14206,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 204472,
       "name": "La 602",
       "url": "https://open.spotify.com/track/0gIr69bAHCGP8aFRXwWubI"
@@ -14534,6 +14796,24 @@
     {
       "album": {
         "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5nDjskHgEkfIPHZJetzqwN"
       },
       "artists": [
@@ -14722,7 +15002,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192098,
       "name": "La Historia de Mi Vida",
       "url": "https://open.spotify.com/track/0DrxE5wSNxm187WHNuWGVr"
@@ -14940,7 +15220,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174875,
       "name": "LA MARUCHAN",
       "url": "https://open.spotify.com/track/2lofbPM2k0fVgaCrmVz4c1"
@@ -15250,7 +15530,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189633,
       "name": "La Plebada de la Sierra",
       "url": "https://open.spotify.com/track/4VvWMPR4qWC7djRy6gnmH2"
@@ -16172,7 +16452,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195029,
       "name": "Les Di Ventaja",
       "url": "https://open.spotify.com/track/0Hf8sW6muVvs2ZAp4D0lAv"
@@ -16380,7 +16660,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165701,
       "name": "Lo Que Aprend\u00ed",
       "url": "https://open.spotify.com/track/2KVLgxXdnrGHwGDVLWxauQ"
@@ -17210,7 +17490,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 253560,
       "name": "Maclovio 6-7",
       "url": "https://open.spotify.com/track/6cUZAAyIzwhS8Xmloq6APS"
@@ -18072,7 +18352,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 159453,
       "name": "Mi Casita",
       "url": "https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3"
@@ -18512,7 +18792,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 130753,
       "name": "Modo Diablo",
       "url": "https://open.spotify.com/track/7ae6qFfW0V7l6mRzFwWNip"
@@ -18778,6 +19058,24 @@
       "duration_ms": 264415,
       "name": "Nacho Coronel",
       "url": "https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE"
+    },
+    {
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/36AqBtfg7yxbZq920G2kJT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134255,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/5lfRpM2xBf5s51oBkJ9HmT"
     },
     {
       "album": {
@@ -19182,6 +19480,24 @@
       "duration_ms": 174743,
       "name": "No Soy lo Que Ven",
       "url": "https://open.spotify.com/track/54BBKByRpMjh2UjrjGqFBE"
+    },
+    {
+      "album": {
+        "name": "No Soy Monedita De Oro",
+        "url": "https://open.spotify.com/album/1ZIG0P2lG3p7ZWYkjUuHRd"
+      },
+      "artists": [
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "No Soy Monedita De Oro",
+      "url": "https://open.spotify.com/track/2uLfDYEGLPMsAZ0O3dpzVj"
     },
     {
       "album": {
@@ -19918,7 +20234,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186781,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/3umb4QpNzwLSG7nVFThhJP"
@@ -20626,7 +20942,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188268,
       "name": "Puro Festejar",
       "url": "https://open.spotify.com/track/5aznoSTQL5aoDUFq5NGGxC"
@@ -21424,7 +21740,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142477,
       "name": "Se Coron\u00f3",
       "url": "https://open.spotify.com/track/0OqkDGAJrf7yHNTPZ7R3ok"
@@ -23492,6 +23808,24 @@
       "duration_ms": 193039,
       "name": "Truenan Los Medios",
       "url": "https://open.spotify.com/track/42pm6EeIeWAeJDioHdDXQr"
+    },
+    {
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU"
     },
     {
       "album": {

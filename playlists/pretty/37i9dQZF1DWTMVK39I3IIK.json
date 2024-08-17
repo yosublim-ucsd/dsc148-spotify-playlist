@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a LILLI p\u00e5 coveret \ud83e\udd8b",
-  "num_followers": 23402,
+  "num_followers": 23418,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 191673,
+      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
+      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Get down / Loving you",
+        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 145246,
+      "name": "Get down",
+      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "grib mig hvis jeg falder",
         "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
       },
@@ -771,38 +803,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-        "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 191673,
-      "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
-      "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
-        "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 188408,
-      "name": "ENDORFINER",
-      "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "ENDORFINER (JEG VIL IKKE VIDE DU FINDES)",
+        "url": "https://open.spotify.com/album/2Hq70DHdUVp1Y5jsx4rGyg"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 188408,
+      "name": "ENDORFINER",
+      "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sunshine In Atalaya",
         "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 262071,
       "name": "Sunshine In Atalaya",
       "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Trampoliner",
+        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
+      },
+      "artists": [
+        {
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
+        }
+      ],
+      "duration_ms": 151062,
+      "name": "Kender Du F\u00f8lelsen",
+      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -875,22 +907,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Trampoliner",
-        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 151062,
-      "name": "Kender Du F\u00f8lelsen",
-      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Lyden Af Livet",
         "url": "https://open.spotify.com/album/1anEXLEWx8jsAnesccDtWv"
       },
@@ -907,38 +923,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Lander Et Sted",
-        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Lander Et Sted",
-      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Get down / Loving you",
-        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 145246,
-      "name": "Get down",
-      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "En s\u00f8d lille \u00e9n",
         "url": "https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 171188,
       "name": "Jeg ved det godt",
       "url": "https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Lander Et Sted",
+        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Lander Et Sted",
+      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Fra Wien Til Rom",
+      "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "7\"",
         "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 195833,
       "name": "Formskifter",
       "url": "https://open.spotify.com/track/6JjLdYF4tnAR6tJt9bypOu"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Legeb\u00f8rn",
-        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Fra Wien Til Rom",
-      "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
     },
     {
       "added_at": "2024-08-15 22:00:00",

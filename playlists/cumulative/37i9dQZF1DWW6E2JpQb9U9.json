@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Apocalipsis Confort - En Vivo",
+        "url": "https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261456,
+      "name": "Apocalipsis Confort - En Vivo",
+      "url": "https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij"
+    },
+    {
+      "album": {
         "name": "Vivire Viajando",
         "url": "https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg"
       },
@@ -4346,7 +4364,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 377832,
       "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
       "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"

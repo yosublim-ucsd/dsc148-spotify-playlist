@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Day In The Life",
+        "url": "https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B"
+      },
+      "artists": [
+        {
+          "name": "BABYKIRA",
+          "url": "https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180279,
+      "name": "Day In The Life",
+      "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
+    },
+    {
+      "album": {
         "name": "CROSSOVER (Deluxe)",
         "url": "https://open.spotify.com/album/3blh2LrECEQA15PwechWtO"
       },
@@ -2034,7 +2052,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/05vvPTidbjvDySLc9o65YS"
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
@@ -2400,6 +2418,24 @@
       "duration_ms": 216638,
       "name": "fitt (with Amaarae)",
       "url": "https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc"
+    },
+    {
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "album": {
@@ -3224,6 +3260,32 @@
       "duration_ms": 193533,
       "name": "Heart Storm (with NAO)",
       "url": "https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0dTP1GvdwEb3MXHks8qbYa"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/534mPnx4yc2nDRE2M8xPzn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/67RloP5xniak0DT4jXwxX0"
     },
     {
       "album": {
@@ -4246,7 +4308,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 220243,
       "name": "Just Cool",
       "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
@@ -4730,6 +4792,24 @@
       "duration_ms": 126905,
       "name": "Many Times",
       "url": "https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G"
+    },
+    {
+      "album": {
+        "name": "Mary Jane",
+        "url": "https://open.spotify.com/album/3jx04kCoe1V9ogqoXLNs8g"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Mary Jane",
+      "url": "https://open.spotify.com/track/3MSL42Ay6qoGALjrIacm4L"
     },
     {
       "album": {
@@ -5468,7 +5548,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181333,
       "name": "Over",
       "url": "https://open.spotify.com/track/4tgCLCpF1MkdNzjTw7lLwh"
@@ -6034,7 +6114,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
@@ -6334,6 +6414,24 @@
       "duration_ms": 144615,
       "name": "Save U",
       "url": "https://open.spotify.com/track/2MYsu9WonImaW3MdHglZgt"
+    },
+    {
+      "album": {
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160007,
+      "name": "SCREAM MY NAME",
+      "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
       "album": {
@@ -6892,6 +6990,24 @@
       "duration_ms": 225546,
       "name": "Still (feat. 6LACK and Smino)",
       "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
+    },
+    {
+      "album": {
+        "name": "still around",
+        "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217871,
+      "name": "still around",
+      "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
     },
     {
       "album": {

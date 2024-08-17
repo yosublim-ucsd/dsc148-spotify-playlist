@@ -4,11 +4,11 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-138 songs - 6 hr 57 min
+140 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 | 2024-02-16 |  |
+| [80 Summers](https://open.spotify.com/track/5gK9lwZXKT4H1r95OkZd9q) | [John Roseboro](https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s) | [80 Summers](https://open.spotify.com/album/4f26arqDYwDIG23p0R9ttB) | 3:20 | 2024-02-16 | 2024-08-17 |
 | [A Car Going Nowhere](https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb) | [ESAE](https://open.spotify.com/artist/573hBKu7MUNNUbp0OKhuRr) | [A Car Going Nowhere](https://open.spotify.com/album/5yR8GbZR66gjAoyt5Voc2O) | 3:47 | 2023-01-06 | 2023-07-29 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-20 |  |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2023-01-06 | 2023-08-05 |
@@ -70,12 +70,13 @@
 | [I'll Play the Fool](https://open.spotify.com/track/0ypsakEytTz70C7OgZjfbf) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0MgXt3BuZIRMEGaVI3uOU8) | 2:48 | 2024-04-12 | 2024-07-06 |
 | [I'll Play the Fool](https://open.spotify.com/track/44jrccmdmEEaAMgvWMiNN5) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 2:48 | 2023-01-06 | 2024-04-19 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-01-06 |  |
-| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2023-01-06 |  |
+| [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2023-01-06 | 2024-08-17 |
 | [In The Morning](https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [In The Morning](https://open.spotify.com/album/75NiNeiZxUtPBIg5qORqnA) | 2:44 | 2023-08-04 |  |
 | [In The Morning](https://open.spotify.com/track/6qU4WFDcW9ENITjPMdY3bC) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [In The Morning](https://open.spotify.com/album/4rEM6qbMmPiVgOxMTuaCzu) | 2:44 | 2023-10-13 | 2024-04-19 |
 | [J'aime les filles](https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [J'aime les filles](https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0) | 3:16 | 2023-01-20 |  |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-17 |  |
 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 | 2023-03-31 | 2024-07-18 |
+| [lazy afternoon](https://open.spotify.com/track/5yO75EkEQkxS9f0MizQbdD) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [lazy afternoon](https://open.spotify.com/album/2Q2fKoH1BjT2v90H4lDRCu) | 2:55 | 2024-08-16 |  |
 | [loml](https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [HOHYUN](https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu) | [loml](https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq) | 3:21 | 2024-02-09 |  |
 | [Love Is](https://open.spotify.com/track/6CbPF34njo6PpWYTFQrMZN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is](https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB) | 2:35 | 2024-02-02 |  |
 | [love of my life](https://open.spotify.com/track/2ooHvit2WOf9PmptyEWfY4) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [love letters to u \(EP\)](https://open.spotify.com/album/4F1W1gMngOB4UhVF0ykpox) | 2:37 | 2023-11-10 | 2024-02-17 |
@@ -142,6 +143,7 @@
 | [when ur around](https://open.spotify.com/track/5YZVINXGdthlMIrQAJKvKS) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [when ur around](https://open.spotify.com/album/4W04vSNFmCuXKTbHwBhNbp) | 1:41 | 2023-08-04 | 2024-04-11 |
 | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/track/7dlkFdNPITZL1OAWQ1fqOm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [When We Were Younger \(feat\. Cavetown\)](https://open.spotify.com/album/0nYhWc5ZvFPrfHAq6a08yh) | 3:54 | 2023-07-25 | 2024-07-27 |
 | [where u are](https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [where u are](https://open.spotify.com/album/4QtgZKyzpwutPTFkMGDFpX) | 4:41 | 2023-01-06 | 2023-11-11 |
+| [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-16 |  |
 | [Why Don't You](https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 3:48 | 2023-01-06 |  |
 | [You At Home](https://open.spotify.com/track/2FGn5SVPl5kzx7kSSZ2db0) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [You At Home](https://open.spotify.com/album/3i8PAjApnVRYhrby3hzCfJ) | 2:41 | 2023-09-15 | 2023-10-24 |
 | [You're the Reason](https://open.spotify.com/track/1OJqtwMsA3RHmAYh6DHWYK) | [Chris Wright](https://open.spotify.com/artist/2PUZljI6YOKycWygjY6EQV), [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [You're the Reason](https://open.spotify.com/album/0paZI3fai3hEJUfKglHwYl) | 2:37 | 2023-01-06 | 2023-08-06 |

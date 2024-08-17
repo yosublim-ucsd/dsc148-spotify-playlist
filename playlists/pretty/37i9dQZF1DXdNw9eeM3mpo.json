@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 464011,
+  "num_followers": 464056,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Que Empiece Ya!",
+        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Amor Sin Odio",
+      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1567,22 +1583,6 @@
       "duration_ms": 170529,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/59jQsqBgaRM6keNNXqsaQG"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Que Empiece Ya!",
-        "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Amor Sin Odio",
-      "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1659,6 +1659,26 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Amor por el Ska",
+        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
+      },
+      "artists": [
+        {
+          "name": "Skaparapid",
+          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
+        },
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        }
+      ],
+      "duration_ms": 267865,
+      "name": "Amor por el Ska",
+      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Amor por el Ska",
-        "url": "https://open.spotify.com/album/5bHFgnkMD0aoNIEMYkH9CO"
-      },
-      "artists": [
-        {
-          "name": "Skaparapid",
-          "url": "https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS"
-        },
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        }
-      ],
-      "duration_ms": 267865,
-      "name": "Amor por el Ska",
-      "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
     },
     {
       "added_at": "2024-08-09 06:00:00",

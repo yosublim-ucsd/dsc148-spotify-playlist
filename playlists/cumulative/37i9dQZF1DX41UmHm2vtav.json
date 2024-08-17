@@ -2345,6 +2345,32 @@
     },
     {
       "album": {
+        "name": "La Belle De Jour (Remix)",
+        "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
+      },
+      "artists": [
+        {
+          "name": "Ronald DJ",
+          "url": "https://open.spotify.com/artist/5MjKm3b0XYvzervh54609T"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155393,
+      "name": "La Belle De Jour (Remix)",
+      "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
+    },
+    {
+      "album": {
         "name": "Lay Your Head On Me (feat. Marcus Mumford)",
         "url": "https://open.spotify.com/album/1okJLjW2q0KbARmSd9EH3V"
       },
@@ -2570,7 +2596,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201600,
       "name": "Manh\u00e3 de Sol - Zuffo Remix",
       "url": "https://open.spotify.com/track/6cvataOXsYqggBKZRmQbQp"

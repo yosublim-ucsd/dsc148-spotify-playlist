@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Falke 912 en la casa del Trap Argentino.",
+  "description": "KHEA & C.R.O  en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -4115,6 +4115,32 @@
     },
     {
       "album": {
+        "name": "Ni Lo Intenten",
+        "url": "https://open.spotify.com/album/45tnkwi58ZSonhPRVnI1lp"
+      },
+      "artists": [
+        {
+          "name": "Matias Fisher",
+          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        },
+        {
+          "name": "Santiago Ibarra",
+          "url": "https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152981,
+      "name": "Ni Lo Intenten",
+      "url": "https://open.spotify.com/track/1TokKdKuXjVQgjRnNLH8St"
+    },
+    {
+      "album": {
         "name": "M\u00fasica de Barrio",
         "url": "https://open.spotify.com/album/3yXHx5bO1DX9pk114uWe6n"
       },
@@ -4450,7 +4476,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 170320,
       "name": "OPA",
       "url": "https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI"
@@ -4476,7 +4502,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171284,
       "name": "ORO SHAMPEIN",
       "url": "https://open.spotify.com/track/1EQEWkDx6XnlbkgrFfgNpO"
@@ -5097,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "Rock and Roll",
+        "url": "https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234816,
+      "name": "Rock and Roll",
+      "url": "https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP"
+    },
+    {
+      "album": {
         "name": "Roma",
         "url": "https://open.spotify.com/album/6YX2jYAlZjERuOlpjI3Rbt"
       },
@@ -5516,6 +5564,28 @@
       "duration_ms": 168960,
       "name": "Si Me Sobrara el Tiempo",
       "url": "https://open.spotify.com/track/2ypbIXW3a7fsLdLtLpZWDZ"
+    },
+    {
+      "album": {
+        "name": "Si no me olvido",
+        "url": "https://open.spotify.com/album/4IpaFXotEZwFxrAjqADMgb"
+      },
+      "artists": [
+        {
+          "name": "Mike Southside",
+          "url": "https://open.spotify.com/artist/4jIPjVHNkAKmqfWjfwg960"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188525,
+      "name": "Si no me olvido",
+      "url": "https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN"
     },
     {
       "album": {
@@ -7240,7 +7310,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160434,
       "name": "Zona Caliente",
       "url": "https://open.spotify.com/track/3QeW2fc6jJsoh7rK926Lq7"

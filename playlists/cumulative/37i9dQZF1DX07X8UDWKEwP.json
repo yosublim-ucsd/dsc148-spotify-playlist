@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Nicky Jam",
+  "description": "Lo nuevo del mundo tropical. Cover: Mike Bah\u00eda",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "BORRACHO",
+        "url": "https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181740,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2"
+    },
+    {
+      "album": {
         "name": "Brindo Con Agua",
         "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
       },
@@ -1314,6 +1332,28 @@
       "duration_ms": 209500,
       "name": "Cada Ves Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/2jNPwc6cNzigjSXnhT2JKC"
+    },
+    {
+      "album": {
+        "name": "Cali Buenaventura",
+        "url": "https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198238,
+      "name": "Cali Buenaventura",
+      "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
     },
     {
       "album": {
@@ -2912,6 +2952,24 @@
       "duration_ms": 227347,
       "name": "El Rey de la Kumbia",
       "url": "https://open.spotify.com/track/7oSjiHocGhbWhlTu9CN6zh"
+    },
+    {
+      "album": {
+        "name": "El Sabio (Remastered 2024)",
+        "url": "https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271289,
+      "name": "El Sabio - Remastered 2024",
+      "url": "https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi"
     },
     {
       "album": {
@@ -4540,7 +4598,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196746,
       "name": "La Visualizo 2.0 - Remix",
       "url": "https://open.spotify.com/track/7phxoWBhAn7fxGbkqKpGds"
@@ -5220,7 +5278,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208703,
       "name": "Me Beb\u00ed Tu Recuerdo",
       "url": "https://open.spotify.com/track/2jqmRUKoapLfY0zZmSwrZB"
@@ -5575,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "Mirame",
+        "url": "https://open.spotify.com/album/5MJP5rz5UQ4wcYnRvDpeG8"
+      },
+      "artists": [
+        {
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151283,
+      "name": "Mirame",
+      "url": "https://open.spotify.com/track/2QtJyCYsJexs0iNXXlHbKZ"
+    },
+    {
+      "album": {
         "name": "tres",
         "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
       },
@@ -5586,7 +5662,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 154794,
       "name": "Misi\u00f3n Imposible",
       "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
@@ -6096,7 +6172,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181294,
       "name": "No Quiero Amarte",
       "url": "https://open.spotify.com/track/2MM82QZZjFlgXi2vFCPW2C"
@@ -7083,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Que Sab\u00eda Yo",
+        "url": "https://open.spotify.com/album/5ACUZ50VXiQ5hvDpMtNMMn"
+      },
+      "artists": [
+        {
+          "name": "La Cassandra",
+          "url": "https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169772,
+      "name": "Que Sab\u00eda Yo",
+      "url": "https://open.spotify.com/track/7cCNt7UqSaujQ1FgcJSBgU"
+    },
+    {
+      "album": {
         "name": "Que Se Mueran De Celos",
         "url": "https://open.spotify.com/album/6V9UjUUqpR9YDDpuXHn2tu"
       },
@@ -7376,7 +7470,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186500,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/1LGnbMqQvJks6VpM2gmKZk"

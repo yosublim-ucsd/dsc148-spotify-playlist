@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,887 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Palpite](https://open.spotify.com/track/5tJi3MH0b90iHb8NWR9Hj1) | [Dj Billy Mandela](https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Palpite](https://open.spotify.com/album/4h8hU9tmxAJs5rxhSNqQWj) | 1:52 |
 | 50 | [Entre Fã e a Luana](https://open.spotify.com/track/1L1g0uQ3dZgJSXMIuzwfRn) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:44 |
 
-Snapshot ID: `ZrvzgAAAAACkFyKr/f3WaLP8bXazxfk3`
+Snapshot ID: `Zr1FAAAAAACidao+DOgu749Oxq0JMEJv`

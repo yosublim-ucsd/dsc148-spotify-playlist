@@ -2,9 +2,9 @@
 
 ### [do rockeeee](https://open.spotify.com/playlist/37i9dQZF1DX0PYkdiz2e8k)
 
-> POST HUMAN: NeX GEn is out! Foto: Bring Me The Horizon
+> lonely is the muse! Foto: Halsey
 
-115 songs - 5 hr 52 min
+116 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 | 2024-01-19 | 2024-03-02 |
 | [ESTACA ZERO](https://open.spotify.com/track/34CwrZfE80YzuAGdxPFyvu) | [SÜZY](https://open.spotify.com/artist/7kW1nUqeMjBFmdNvZePCtU) | [ESTACA ZERO](https://open.spotify.com/album/2TFext8NAafGDKSHxVNIxh) | 3:13 | 2024-08-09 |  |
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
-| [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 |  |
+| [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 | 2024-08-17 |
 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 | 2024-04-12 |  |
 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 | 2023-07-21 | 2024-04-19 |
 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 | 2023-07-21 |  |
@@ -74,6 +74,7 @@
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 |  |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-25 |  |
 | [Lindo, Gostoso!](https://open.spotify.com/track/4iuNOEUMAaXlhAAcBgGPDP) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [Lindo, Gostoso!](https://open.spotify.com/album/75vK4bi7lvuhuEhcGKlXFc) | 2:13 | 2024-05-24 | 2024-06-22 |
+| [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-16 |  |
 | [Lost Chapter](https://open.spotify.com/track/207K1MXwebxpXDS43OazOU) | [Pentakill](https://open.spotify.com/artist/2qcGTB5s2t9o2w9SrI719s), [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [III: Lost Chapter](https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE) | 3:49 | 2023-07-21 |  |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-07-21 | 2024-03-23 |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-07-21 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Chlo\u00eb",
+  "description": "Where R&B lives. Cover: Tinashe",
   "name": "RNB X",
   "tracks": [
     {
@@ -1168,6 +1168,28 @@
       "duration_ms": 310892,
       "name": "Breaking Point (feat. Victoria Mon\u00e9t) [Remix]",
       "url": "https://open.spotify.com/track/6thKLyOEc4LXkfWTRLmyq6"
+    },
+    {
+      "album": {
+        "name": "Breathing (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/0Wdv6Af4UhOXGriWRd26Kr"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Breathing (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/5C1hdPaaK43VDJ95Apfanq"
     },
     {
       "album": {
@@ -2544,7 +2566,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
@@ -2974,7 +2996,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182072,
       "name": "From A Woman",
       "url": "https://open.spotify.com/track/6x4z51Q0PBhSs8NoGbJ5wk"
@@ -5981,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
+      "album": {
         "name": "No Evil",
         "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
       },
@@ -7312,7 +7352,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207339,
       "name": "Run Away (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
@@ -8399,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Sweep It Up",
+        "url": "https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197958,
+      "name": "Sweep It Up",
+      "url": "https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -9308,6 +9366,28 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "Trouble In Paradise",
+        "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248183,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/1PhS4L7ug3hnWRHwiA9pc4"
     },
     {
       "album": {

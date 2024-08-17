@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-198 songs - 14 hr 9 min
+199 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Dividual Individual](https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 5:00 | 2023-06-05 | 2024-01-09 |
 | [Dois Palitos Fofinhos](https://open.spotify.com/track/6S8AJxUdc95lI4CNiVdKMu) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Dois Palitos Fofinhos](https://open.spotify.com/album/20HJ1KS55VbcT6tomohpxq) | 2:47 | 2024-01-03 |  |
-| [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-14 |  |
+| [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-14 | 2024-08-17 |
 | [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Hagata](https://open.spotify.com/album/7cclyMWA0t4LT2qaBodOzp) | 4:04 | 2024-01-03 | 2024-06-22 |
 | [Dos Uvas](https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Dos Uvas](https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf) | 3:29 | 2021-10-20 |  |
 | [East Of Any Place](https://open.spotify.com/track/68M4djLGRDlVPD53Dgiwnz) | [Rogér Fakhr](https://open.spotify.com/artist/6UFqtFCNxhYqsQ1QRF6HRd) | [East of Any Place \(Habibi Funk 025\)](https://open.spotify.com/album/7sTew04rtXKxlXg87MgS6e) | 2:10 | 2023-12-05 |  |
@@ -105,6 +105,7 @@
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-10-20 | 2024-04-19 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 |  |
 | [Me Voy](https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Ash](https://open.spotify.com/album/06z5kktv4TUsmlQk2vj0Wn) | 3:07 | 2021-10-20 | 2024-04-19 |
+| [Metropolis](https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Metropolis](https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP) | 3:21 | 2024-08-16 |  |
 | [Midnat](https://open.spotify.com/track/3IuCUFbRlEXQv9Wjbbxyys) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 3:36 | 2021-10-20 |  |
 | [Mirage](https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK) | 4:50 | 2021-10-20 | 2024-04-19 |
 | [Mirage](https://open.spotify.com/track/3pTtkt58Xi4VfAgZJVH3cU) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv) | 4:50 | 2021-10-20 | 2024-04-30 |

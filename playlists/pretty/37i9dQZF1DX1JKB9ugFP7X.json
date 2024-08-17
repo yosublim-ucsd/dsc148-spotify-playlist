@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24111,
+  "num_followers": 24115,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,26 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Fotonovela",
+        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 282020,
+      "name": "Fotonovela",
+      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Nico Valdi produciendo a Ruggero y Bernardita",
         "url": "https://open.spotify.com/album/33ekTyVf1xcrbvEof3WClm"
       },
@@ -539,46 +559,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Fotonovela",
-        "url": "https://open.spotify.com/album/04vG2wy1arlZRS1QmhIxUQ"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 282020,
-      "name": "Fotonovela",
-      "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "I SEE U LATER",
-        "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 205838,
-      "name": "I SEE U LATER",
-      "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "PAGA DIOS",
         "url": "https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit"
       },
@@ -599,22 +579,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Club de Fans de John Boy",
-        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+        "name": "I SEE U LATER",
+        "url": "https://open.spotify.com/album/7qhmOz5dZGhmcRfB0izeNl"
       },
       "artists": [
         {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
         },
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
         }
       ],
-      "duration_ms": 218806,
-      "name": "Club de Fans de John Boy",
-      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
+      "duration_ms": 205838,
+      "name": "I SEE U LATER",
+      "url": "https://open.spotify.com/track/4wEnEUyAyluBTAskEb96YU"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -643,6 +623,26 @@
       "duration_ms": 167113,
       "name": "Shock (feat. Kabasaki)",
       "url": "https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Club de Fans de John Boy",
+        "url": "https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y"
+      },
+      "artists": [
+        {
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 218806,
+      "name": "Club de Fans de John Boy",
+      "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Postal",
-        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 210002,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+        "name": "Postal",
+        "url": "https://open.spotify.com/album/7Fhi1gzWFYIFOJqI4cX6QV"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
         }
       ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
+      "duration_ms": 210002,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/0XLgejotJO28IcZwptFNpa"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1247,6 +1227,26 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
+        }
+      ],
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "\u00c1ngel Malo",
-        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
-      },
-      "artists": [
-        {
-          "name": "Entr\u00f3pica",
-          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
-        },
-        {
-          "name": "Karla Grunewaldt",
-          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
-        }
-      ],
-      "duration_ms": 214871,
-      "name": "\u00c1ngel Malo",
-      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
         "name": "Luc\u00eda",
         "url": "https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH"
       },
@@ -1615,38 +1595,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
-        "name": "La Mar (Remixes)",
-        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
+        "name": "\u00c1ngel Malo",
+        "url": "https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw"
       },
       "artists": [
         {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+          "name": "Entr\u00f3pica",
+          "url": "https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08"
         },
         {
-          "name": "Nico Castro",
-          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+          "name": "Karla Grunewaldt",
+          "url": "https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3"
         }
       ],
-      "duration_ms": 347000,
-      "name": "Dejarte de Querer - Nico Castro Remix",
-      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Noche de Vampiros",
-        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
-      },
-      "artists": [
-        {
-          "name": "Trashu",
-          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
-        }
-      ],
-      "duration_ms": 185187,
-      "name": "Noche de Vampiros",
-      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
+      "duration_ms": 214871,
+      "name": "\u00c1ngel Malo",
+      "url": "https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1687,6 +1651,42 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "La Mar (Remixes)",
+        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
+      },
+      "artists": [
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        },
+        {
+          "name": "Nico Castro",
+          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+        }
+      ],
+      "duration_ms": 347000,
+      "name": "Dejarte de Querer - Nico Castro Remix",
+      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
+        "name": "Noche de Vampiros",
+        "url": "https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n"
+      },
+      "artists": [
+        {
+          "name": "Trashu",
+          "url": "https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY"
+        }
+      ],
+      "duration_ms": 185187,
+      "name": "Noche de Vampiros",
+      "url": "https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me"
     },
     {
       "added_at": "2024-05-31 12:45:40",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-05-31 12:45:40",
       "album": {
+        "name": "Lucidez",
+        "url": "https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD"
+      },
+      "artists": [
+        {
+          "name": "Antonia Navarro",
+          "url": "https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt"
+        }
+      ],
+      "duration_ms": 371735,
+      "name": "Lucidez",
+      "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"
+    },
+    {
+      "added_at": "2024-05-31 12:45:40",
+      "album": {
         "name": "Autosabotear (Uffie & Lokoy Remix)",
         "url": "https://open.spotify.com/album/0d7ZiyUl0iBTBgbWBq13H5"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 196641,
       "name": "Autosabotear (Uffie & Lokoy Remix)",
       "url": "https://open.spotify.com/track/5qJbuq0Z72wXoMVIF7qtRD"
-    },
-    {
-      "added_at": "2024-05-31 12:45:40",
-      "album": {
-        "name": "Peces Raros (Vivo Buenos Aires)",
-        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 310890,
-      "name": "Sombras en la Pared - Vivo Buenos Aires",
-      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
     }
   ],
   "unique_name": "ElectroPop",

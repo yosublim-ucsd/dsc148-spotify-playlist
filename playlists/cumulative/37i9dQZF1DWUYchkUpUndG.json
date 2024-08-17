@@ -37565,6 +37565,24 @@
     },
     {
       "album": {
+        "name": "More Dearly",
+        "url": "https://open.spotify.com/album/6eqHzSqjYMzSTqryevQa6j"
+      },
+      "artists": [
+        {
+          "name": "Hugo David",
+          "url": "https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171874,
+      "name": "More Dearly",
+      "url": "https://open.spotify.com/track/1rHlV075lP6ITJ8h5qS4Qt"
+    },
+    {
+      "album": {
         "name": "More of You",
         "url": "https://open.spotify.com/album/2JnM5bI6wqYCh6cp534dk1"
       },

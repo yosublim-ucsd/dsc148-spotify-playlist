@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 
 > The saddest songs of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,567 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,640 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2fHCBYbwN7.md) - [plain]
 | 31 | [Don't Let the Sun Catch You Cryin'](https://open.spotify.com/track/3pEwXiu1AVstyAluolJnW7) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:45 |
 | 32 | [I Couldn't Sleep A Wink Last Night \- 1999 Remastered](https://open.spotify.com/track/4Hbk7bsJPmM0CkVOElCBdB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Close To You And More \(Remastered\)](https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn) | 3:25 |
 | 33 | [Crying My Heart Out for You](https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:13 |
-| 34 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |
-| 35 | [It Might as Well Rain Until September](https://open.spotify.com/track/7mb7W6k0YULE9qJyAqyrBM) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Sad 60's Songs](https://open.spotify.com/album/5cDzUoyI2FI4hLUE4PHGvS) | 2:27 |
+| 34 | [It Might as Well Rain Until September](https://open.spotify.com/track/7mb7W6k0YULE9qJyAqyrBM) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Sad 60's Songs](https://open.spotify.com/album/5cDzUoyI2FI4hLUE4PHGvS) | 2:27 |
+| 35 | [I Hope She'll Be Happier with Him](https://open.spotify.com/track/4MWgDWsgpdHIOwIdLN9pNb) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Hits & Rarities](https://open.spotify.com/album/6wZE4Eesz3b3wdrv9BRSKk) | 5:04 |
 | 36 | [Bad Luck](https://open.spotify.com/track/3OyEgS5Y0rdlnrapTke9sP) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Eddie Chamblee & His Orchestra](https://open.spotify.com/artist/5L0vJK0dN4dDCn2SjYUpQW) | [The Queen!](https://open.spotify.com/album/1iDTkNsswLznHgYP8DTSUN) | 2:54 |
 | 37 | [Someone Elses Roses](https://open.spotify.com/track/3NN3W2ru81bNYuQ70FNsZm) | [Joan Regan](https://open.spotify.com/artist/6HviRceqvDGNfw8PXqQgc0) | [Ladies in Jazz \- Joan Regan](https://open.spotify.com/album/31Dl9QiqxyHGz1nVjBzWD6) | 2:23 |
 | 38 | [Good Morning Heartache](https://open.spotify.com/track/0kXTWwLrFYtQeVXgPQzTiv) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Tribute To The Lady](https://open.spotify.com/album/7IR2bLGz2TpcpfVZXV8bRs) | 2:09 |

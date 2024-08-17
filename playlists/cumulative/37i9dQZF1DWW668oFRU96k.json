@@ -19815,6 +19815,24 @@
     },
     {
       "album": {
+        "name": "Pisces",
+        "url": "https://open.spotify.com/album/2cVK9riWnbCCuDgau2jpas"
+      },
+      "artists": [
+        {
+          "name": "T-Che",
+          "url": "https://open.spotify.com/artist/4zoX8HBXd4gmHlx9eFWDLq"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354841,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/5eTn9Dhl0QvSUk4cuU0iCJ"
+    },
+    {
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe"
       },

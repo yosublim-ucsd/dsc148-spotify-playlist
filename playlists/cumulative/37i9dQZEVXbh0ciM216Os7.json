@@ -707,6 +707,28 @@
     },
     {
       "album": {
+        "name": "A Ballet Through Mud",
+        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
+      },
+      "artists": [
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Christopher Dragon",
+          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269964,
+      "name": "A Ballet Through Mud",
+      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/3NOo89RhpGQUHGWEhvE8jc"
       },
@@ -1512,7 +1534,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 267813,
       "name": "Angel - Take 7",
       "url": "https://open.spotify.com/track/68AWvdZxuA19Z4U2WUBEA8"
@@ -2178,6 +2200,28 @@
       "duration_ms": 199773,
       "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
       "url": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+    },
+    {
+      "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     },
     {
       "album": {
@@ -3431,6 +3475,28 @@
     },
     {
       "album": {
+        "name": "Bob Marley (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108335,
+      "name": "Bob Marley (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
+    },
+    {
+      "album": {
         "name": "BOBBY ON THE DIGITAL",
         "url": "https://open.spotify.com/album/3emzO8yEOyIxkfpJbMmdAr"
       },
@@ -4016,7 +4082,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 250973,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
@@ -4963,6 +5029,36 @@
     },
     {
       "album": {
+        "name": "Chamber Cypher",
+        "url": "https://open.spotify.com/album/52bNbKa1hmgdtM3wt21G0k"
+      },
+      "artists": [
+        {
+          "name": "Big Dave",
+          "url": "https://open.spotify.com/artist/79KeK5F3mbOg6HpGm4xsZC"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Masta Killa",
+          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
+        },
+        {
+          "name": "Killah Preist",
+          "url": "https://open.spotify.com/artist/4bosAShTZvFUW9dy5zVJ87"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Chamber Cypher",
+      "url": "https://open.spotify.com/track/76AqiN1jcTfMBMWcmEltsy"
+    },
+    {
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -5632,7 +5728,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142522,
       "name": "Colorful Cutlery",
       "url": "https://open.spotify.com/track/4rYCsiH5ONq1kCIVYOn8rL"
@@ -5974,6 +6070,28 @@
       "duration_ms": 130000,
       "name": "Cup of Tea",
       "url": "https://open.spotify.com/track/4JBKPjRHlGBCXFH0R8A81l"
+    },
+    {
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/2t4Nl0s88goybrlOZDCNZu"
+      },
+      "artists": [
+        {
+          "name": "AshleyGotDatJuice",
+          "url": "https://open.spotify.com/artist/661OXgXh4r8xgLE6kjqWze"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198023,
+      "name": "Curious - The Neptunes Remix [Dirty Version",
+      "url": "https://open.spotify.com/track/31fSsPG3xJmWhpBeRKzUFk"
     },
     {
       "album": {
@@ -8141,6 +8259,24 @@
     },
     {
       "album": {
+        "name": "Drifting (Alternate Version / November 20, 1970)",
+        "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Drifting - Alternate Version / November 20, 1970",
+      "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
+    },
+    {
+      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/0t10C5PLUXcmqoM9IwtSfL"
       },
@@ -8448,6 +8584,32 @@
       "duration_ms": 208632,
       "name": "Dust In The Wind (Metal Version)",
       "url": "https://open.spotify.com/track/6B5yyHfm3jfirdcVLM9Z3o"
+    },
+    {
+      "album": {
+        "name": "Alliances",
+        "url": "https://open.spotify.com/album/3epB75kOj2EXrmrqQ6V7Hs"
+      },
+      "artists": [
+        {
+          "name": "Tangent",
+          "url": "https://open.spotify.com/artist/1YiekT7BoI2fz7bFIjy9kF"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Bronze Nazareth",
+          "url": "https://open.spotify.com/artist/4VhYUWpDsLraUG6Sd8g9TF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197934,
+      "name": "Eagle Eyes",
+      "url": "https://open.spotify.com/track/14F9mRWnccELxOuaOOvc89"
     },
     {
       "album": {
@@ -9831,6 +9993,28 @@
     },
     {
       "album": {
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/04Eyy8rccvW3LaS8Q2QIUi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
+    },
+    {
+      "album": {
         "name": "Fingerblast",
         "url": "https://open.spotify.com/album/1rt0e7RP4a3PMHcQuzkUjq"
       },
@@ -10761,6 +10945,40 @@
     },
     {
       "album": {
+        "name": "Glass: Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
+        "url": "https://open.spotify.com/album/5E7FPFaByDMSe3YEVF8oL8"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Emily D'Angelo",
+          "url": "https://open.spotify.com/artist/3MxEBUmCEHonZDGfnB1PAn"
+        },
+        {
+          "name": "Sophia Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0eh5mim3wGR8KZ3W9DCwuq"
+        },
+        {
+          "name": "Bruno Helstroffer",
+          "url": "https://open.spotify.com/artist/4SZJuk3dh3ICm8c4D1jACd"
+        },
+        {
+          "name": "Jonas Niederstadt",
+          "url": "https://open.spotify.com/artist/46W2YECsZAmWMq8kMQIZzX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203256,
+      "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
+      "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
+    },
+    {
+      "album": {
         "name": "PARIS IN LOVE - Live",
         "url": "https://open.spotify.com/album/2vm5G9XsPLmp946fCO2AbZ"
       },
@@ -11164,6 +11382,24 @@
       "duration_ms": 186272,
       "name": "GARDEN",
       "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
+    },
+    {
+      "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
       "album": {
@@ -12128,7 +12364,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -13847,6 +14083,32 @@
     },
     {
       "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126932,
+      "name": "I Shoplift Even Though I\u2019m Rich",
+      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
+    },
+    {
+      "album": {
         "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
         "url": "https://open.spotify.com/album/6Ne6B8BF4BE0wqGMPNhamG"
       },
@@ -14022,7 +14284,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202752,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/6LcVhrvAWkGESFcA7Uln6P"
@@ -19809,6 +20071,32 @@
     },
     {
       "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Brendon Small",
+          "url": "https://open.spotify.com/artist/6aMTDnpTXKCqaHFZ04SWFz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89498,
+      "name": "Murder Plot (The Caretaker\u2019s Theme)",
+      "url": "https://open.spotify.com/track/4ZyJGLUK1FHjXUfAP3wgIS"
+    },
+    {
+      "album": {
         "name": "The Dethalbum (Expanded Edition)",
         "url": "https://open.spotify.com/album/0NADZfQoyOerevGXzMqWru"
       },
@@ -20834,7 +21122,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 278260,
       "name": "No limit to the sky",
       "url": "https://open.spotify.com/track/6ANmR1MOC15xtq6w1QawUS"
@@ -21082,7 +21370,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 342352,
       "name": "Norupo - Live",
       "url": "https://open.spotify.com/track/3v2yP0sgEBXGE7dCH025dK"
@@ -21718,7 +22006,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 240280,
       "name": "One Cry (feat. Rosa Linn) - me n \u00fc Remix",
       "url": "https://open.spotify.com/track/2GhRCiI0E5cbUdnhqr9SFx"
@@ -22064,7 +22352,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195502,
       "name": "One Wish (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX"
@@ -23960,6 +24248,36 @@
       "duration_ms": 172655,
       "name": "Pretty Low",
       "url": "https://open.spotify.com/track/0svMffDGjaAgtQHL0Pn8DA"
+    },
+    {
+      "album": {
+        "name": "Pretty Low (The Remixes)",
+        "url": "https://open.spotify.com/album/6CT2g6m4w6Zu6urYr7clsX"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        },
+        {
+          "name": "BULLI",
+          "url": "https://open.spotify.com/artist/6bwjq5SBrVPav19I4TelUO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Pretty Low (Galantis & BULLI VIP Mix)",
+      "url": "https://open.spotify.com/track/4azLzCipU502x0M77KzNbW"
     },
     {
       "album": {
@@ -27528,10 +27846,36 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156450,
       "name": "Speshal Methods",
       "url": "https://open.spotify.com/track/1okiRo096A4lFAHSqaevSk"
+    },
+    {
+      "album": {
+        "name": "Mother & Gun",
+        "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
+      },
+      "artists": [
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Ti-Lar Bee",
+          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156450,
+      "name": "Speshal Methods (feat. Ti-Lar Bee)",
+      "url": "https://open.spotify.com/track/7B147kRLeLAnlpTnyqBkhe"
     },
     {
       "album": {
@@ -28756,6 +29100,28 @@
       "duration_ms": 244503,
       "name": "Sweet Home Alabama (Metal Version)",
       "url": "https://open.spotify.com/track/7pznb32u27lYL0cbNuSK9e"
+    },
+    {
+      "album": {
+        "name": "sweet moon",
+        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Choklate",
+          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255054,
+      "name": "sweet moon (jung remix)",
+      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
     },
     {
       "album": {
@@ -34760,6 +35126,28 @@
       "duration_ms": 156066,
       "name": "Wreckless",
       "url": "https://open.spotify.com/track/2C7ZHLGI6eQoQ1m0aGtLK3"
+    },
+    {
+      "album": {
+        "name": "Wrong Thing (with Kash'd Out)",
+        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Wrong Thing (with Kash'd Out)",
+      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
     },
     {
       "album": {

@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Street",
+        "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
+      },
+      "artists": [
+        {
+          "name": "LILLI",
+          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166895,
+      "name": "Butterfly Street",
+      "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
+    },
+    {
+      "album": {
         "name": "By The Sea",
         "url": "https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg"
       },

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Marlin's Dreaming
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,557 likes - 135 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,558 likes - 135 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Country Plains](https://open.spotify.com/track/6tRhpEikGam1EEI5RTObqQ) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [HIRL](https://open.spotify.com/album/2fTMxrci5X23QyqlObdNz2) | 2:44 |
-| 2 | [One More Chance \(feat\. Savage\)](https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Savage](https://open.spotify.com/artist/7JEv33Vt95yaH93J8FWjz2) | [One More Chance \(feat\. Savage\)](https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS) | 3:16 |
+| 2 | [One More Chance \(feat\. Savage\)](https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [One More Chance \(feat\. Savage\)](https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS) | 3:16 |
 | 3 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 4 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 5 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |

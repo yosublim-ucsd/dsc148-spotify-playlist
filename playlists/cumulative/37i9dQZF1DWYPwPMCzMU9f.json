@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-13",
-  "description": "\ud83d\udc94 ah\u00ed voy de tonto recordando y nunca paro, siempre lo mismo, solito me da\u00f1o \ud83d\udc94 Foto: Luis Alfonso, Jessi Uribe, Pipe Bueno, Ciro Qui\u00f1onez",
+  "description": "\ud83d\udc94 yo nac\u00ed pa' querer a la que no me quiere y eso duele \ud83d\udc94 Foto: Yeison Jimenez",
   "name": "La Llorer\u00eda",
   "tracks": [
     {
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/487bGMoPKzTxVMQua6O10T"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4vwSnkU49dha68do07dNXp"
+    },
+    {
+      "album": {
         "name": "La Santa y La Diabla (Remix) [feat. Jhonny Rivera]",
         "url": "https://open.spotify.com/album/5PdPQrWoZ7XTikWNuN7Mcu"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 284520,
       "name": "Nunca Comprendi Tu Amor",
       "url": "https://open.spotify.com/track/3bHaEgoiLOAFgll66PpqTU"
@@ -1655,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "Si Ya Me Voy",
+        "url": "https://open.spotify.com/album/5RATkF8Gxy842fBCe7GCVf"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Si Ya Me Voy",
+      "url": "https://open.spotify.com/track/1KBnfOwjRwVe70IbPUaFF0"
+    },
+    {
+      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A"
       },
@@ -2062,7 +2098,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142000,
       "name": "Vamos a Hacer el Amor",
       "url": "https://open.spotify.com/track/3Ue5K9fWPoiQZlyKUVmV8R"

@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: James Bay",
-  "num_followers": 628260,
+  "num_followers": 628240,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "b'lieve i'm goin down...",
         "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 272666,
       "name": "My Honest Face",
       "url": "https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Leader of the Pack",
-      "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Pour It Out Into The Night",
         "url": "https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 262066,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Bells and Whistles",
         "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 247000,
       "name": "Bells and Whistles",
       "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 210330,
-      "name": "Body & Soul",
-      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "DRUGS",
         "url": "https://open.spotify.com/album/67T0rpWRDBsHTVSCZqxC7e"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 203739,
       "name": "DRUGS",
       "url": "https://open.spotify.com/track/2kJUgk2aoKWN1cP1lErEOj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/6tLOZBgDUMg1uKdLgh0yVj"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 210330,
+      "name": "Body & Soul",
+      "url": "https://open.spotify.com/track/48LefWxe3ZMPgcHPi4jyhT"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "We Get By",
-        "url": "https://open.spotify.com/album/1L1EF7JK2LXXC6HVtQVtUh"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "We Get By",
-      "url": "https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "We Get By",
+        "url": "https://open.spotify.com/album/1L1EF7JK2LXXC6HVtQVtUh"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "We Get By",
+      "url": "https://open.spotify.com/track/4AdiTCMYdGx52WZOh3by6P"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "House Parties",
-        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 234200,
-      "name": "House Parties",
-      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/2xpbE9vaLpfQLryVl39SPz"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "House Parties",
+        "url": "https://open.spotify.com/album/03iw3EgMQIBS8kNH5hukrZ"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "House Parties",
+      "url": "https://open.spotify.com/track/24Zi5CRVX19Wi494VttArT"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 200546,
       "name": "Body",
       "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "The Cannonballers",
+        "url": "https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Cannonballers",
+      "url": "https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B"
     },
     {
       "added_at": "2024-08-02 16:56:06",
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "The Cannonballers",
-        "url": "https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW"
+        "name": "Stevie Nicks",
+        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
       },
       "artists": [
         {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Cannonballers",
-      "url": "https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B"
+      "duration_ms": 167462,
+      "name": "Stevie Nicks",
+      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 268276,
       "name": "Darkest Places",
       "url": "https://open.spotify.com/track/48j6fYjxi74z5BoRUcrUy9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Stevie Nicks",
-        "url": "https://open.spotify.com/album/6oVEbvZItYDzzlXN8cUDcp"
-      },
-      "artists": [
-        {
-          "name": "New West",
-          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
-        }
-      ],
-      "duration_ms": 167462,
-      "name": "Stevie Nicks",
-      "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 256178,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Fill My Cup",
         "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/6kSSORbrUJCzT6ejYCJSHX"
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 256178,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/40UpmsBZs3vJhtnR4VROIl"
+      "duration_ms": 253253,
+      "name": "Stand For Myself",
+      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1699,22 +1715,6 @@
       "duration_ms": 167200,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1ZvUudh4rpo0a5WIbrwJoc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Stand For Myself",
-      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "We Were Never Alive",
-        "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 248463,
-      "name": "We Were Never Alive",
-      "url": "https://open.spotify.com/track/2dwXQaUKEq5CTBbAjW5cYU"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Stay Out Of It",
         "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 218239,
       "name": "Rolling Down The 405",
       "url": "https://open.spotify.com/track/0QXh2Z2ynE2TiNvQrUOz19"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "We Were Never Alive",
+        "url": "https://open.spotify.com/album/7aWa7BJ3QPhGbXhYonhW2U"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 248463,
+      "name": "We Were Never Alive",
+      "url": "https://open.spotify.com/track/2dwXQaUKEq5CTBbAjW5cYU"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "What We Used To Be Is Not Who We Are",
+        "url": "https://open.spotify.com/album/7EEkK4YD0sF1ngAUOeawrJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Frasco & The U.N.",
+          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "What We Used To Be Is Not Who We Are",
+      "url": "https://open.spotify.com/track/7qMJfopcQrfegqylcyCq9V"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Burn It Away",
         "url": "https://open.spotify.com/album/32tuGofvxiyOCpx1SfoNBj"
       },
@@ -2455,22 +2471,6 @@
       "duration_ms": 244760,
       "name": "Burn It Away",
       "url": "https://open.spotify.com/track/69bJGbmDoTzpgbrfsuF2Ii"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "What We Used To Be Is Not Who We Are",
-        "url": "https://open.spotify.com/album/7EEkK4YD0sF1ngAUOeawrJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Frasco & The U.N.",
-          "url": "https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "What We Used To Be Is Not Who We Are",
-      "url": "https://open.spotify.com/track/7qMJfopcQrfegqylcyCq9V"
     },
     {
       "added_at": "2024-07-19 04:00:00",

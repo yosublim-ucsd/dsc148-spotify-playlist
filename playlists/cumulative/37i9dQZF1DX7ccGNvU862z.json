@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LIL X",
+  "description": "Rhyme Elite Artist League \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 1MILL",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136571,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6UV8MMLZJdrSauA6nTDGCQ"
@@ -1150,6 +1150,24 @@
       "duration_ms": 158201,
       "name": "FREE ME",
       "url": "https://open.spotify.com/track/4JUeAWQ78v1K5JuDzULnxv"
+    },
+    {
+      "album": {
+        "name": "G.T.B (Get That Bag)",
+        "url": "https://open.spotify.com/album/33on9ie2MBik0Urmud60my"
+      },
+      "artists": [
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119997,
+      "name": "G.T.B (Get That Bag)",
+      "url": "https://open.spotify.com/track/1Zx106eaVyCPAg3QuTBtD7"
     },
     {
       "album": {
@@ -3949,6 +3967,24 @@
     },
     {
       "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/7F9qWF5u7LY2QkM6fEIXGi"
+      },
+      "artists": [
+        {
+          "name": "Mega Perk",
+          "url": "https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/5Xj5j2S2zlK7gGkKVYHScI"
+    },
+    {
+      "album": {
         "name": "Mixed emotions",
         "url": "https://open.spotify.com/album/3IxU7scm3VLbXSDvG77Z3T"
       },
@@ -5420,6 +5456,36 @@
       "duration_ms": 183829,
       "name": "\u0e15\u0e31\u0e14\u0e43\u0e08\u0e2a\u0e31\u0e01\u0e17\u0e35",
       "url": "https://open.spotify.com/track/5Bopk2YoGdqgtAmND3uJ0d"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e31\u0e27\u0e1e\u0e48\u0e2d\u0e08\u0e30\u0e23\u0e2d\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/3e93pTBMC2t2QcB4qwYbpk"
+      },
+      "artists": [
+        {
+          "name": "MQT Squad",
+          "url": "https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif"
+        },
+        {
+          "name": "1st",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "\u0e15\u0e31\u0e27\u0e1e\u0e48\u0e2d\u0e08\u0e30\u0e23\u0e2d\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/2f5fn1DLiocCdgJ86BvfhL"
     },
     {
       "album": {
@@ -7574,7 +7640,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207833,
       "name": "\u0e2d\u0e35\u0e01\u0e2a\u0e31\u0e01\u0e04\u0e23\u0e32",
       "url": "https://open.spotify.com/track/6SYaUGIQgMyxkRyqTSWtiY"

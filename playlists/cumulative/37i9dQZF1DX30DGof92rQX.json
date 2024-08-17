@@ -294,7 +294,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 143172,
       "name": "Challeya",
       "url": "https://open.spotify.com/track/4SrnLielKwQmBq6rVSfcac"
@@ -408,6 +408,32 @@
       "duration_ms": 164218,
       "name": "echoes of us",
       "url": "https://open.spotify.com/track/3RyyouypVpQpTeBVK1Q32r"
+    },
+    {
+      "album": {
+        "name": "1 2 3 4 5",
+        "url": "https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "JJ47",
+          "url": "https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184077,
+      "name": "Fana",
+      "url": "https://open.spotify.com/track/5ll2XFNltQ7WFh8QCsJORp"
     },
     {
       "album": {
@@ -795,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Khushnaseebi",
+        "url": "https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "Khushnaseebi",
+      "url": "https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5"
+    },
+    {
+      "album": {
         "name": "Koi Toh Ho",
         "url": "https://open.spotify.com/album/2Vq4Qq3etb7wK6C1N1pRdG"
       },
@@ -952,6 +996,28 @@
       "duration_ms": 163404,
       "name": "Mansoob",
       "url": "https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb"
+    },
+    {
+      "album": {
+        "name": "1 2 3 4 5",
+        "url": "https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Mehbooba",
+      "url": "https://open.spotify.com/track/1KjNSAlv5QpiXQz20ru0l7"
     },
     {
       "album": {
@@ -1208,7 +1274,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168791,
       "name": "Rang Diya",
       "url": "https://open.spotify.com/track/0LSBqswxvemnJQ4MDqzi32"
@@ -1383,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "Silah",
+        "url": "https://open.spotify.com/album/4gHkDiXPtcYYP6dDOoYqce"
+      },
+      "artists": [
+        {
+          "name": "Ammaz Ali",
+          "url": "https://open.spotify.com/artist/5synhhykBpEe8szX5xKScC"
+        },
+        {
+          "name": "Mahad Sheikh",
+          "url": "https://open.spotify.com/artist/2bsO6llLoRgLaJ1HkX7cdS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192490,
+      "name": "Silah",
+      "url": "https://open.spotify.com/track/5y3Vx1M0lTD5HnJfiSP3EU"
+    },
+    {
+      "album": {
         "name": "Soch Le",
         "url": "https://open.spotify.com/album/0kAHa3ujohT9HqMTasmzzg"
       },
@@ -1398,7 +1486,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202800,
       "name": "Soch Le",
       "url": "https://open.spotify.com/track/1GRYbdL9yTKB3rsmVnsqww"
@@ -1530,10 +1618,28 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 233155,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37sXMEPJNVe6X9UYyTmsQt"
+    },
+    {
+      "album": {
+        "name": "Teri Muskurahat",
+        "url": "https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ"
+      },
+      "artists": [
+        {
+          "name": "Ch Azan Ahmad",
+          "url": "https://open.spotify.com/artist/0Sg9mWWjJEv4btRVUa98FW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Teri Muskurahat",
+      "url": "https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ"
     },
     {
       "album": {

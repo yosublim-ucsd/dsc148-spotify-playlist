@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Fer Altuzar en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Petite Amie en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 267906,
       "name": "309",
       "url": "https://open.spotify.com/track/1oIraT61b04Xd9K92KvwV3"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 204026,
       "name": "Dolor y Gloria",
       "url": "https://open.spotify.com/track/0W4cwhgJDCut9cpn69YpN0"
@@ -1404,10 +1404,28 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 266000,
       "name": "Fluir y Bailar",
       "url": "https://open.spotify.com/track/54gBtxU0fmBzdWXd8vFSfF"
+    },
+    {
+      "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "album": {
@@ -1505,6 +1523,46 @@
     },
     {
       "album": {
+        "name": "hongo",
+        "url": "https://open.spotify.com/album/1djNalQHShwXztroAztSMn"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253189,
+      "name": "hongo",
+      "url": "https://open.spotify.com/track/5nxB7s96I7383hrXvUSR3K"
+    },
+    {
+      "album": {
+        "name": "How\u2019s That Working Out",
+        "url": "https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180039,
+      "name": "How\u2019s That Working Out",
+      "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/2Ijg105iAPEqjlgt7H7cC7"
       },
@@ -1556,6 +1614,32 @@
       "duration_ms": 160000,
       "name": "intentar",
       "url": "https://open.spotify.com/track/7CLnnfyGhwK2U7UoMIzSlk"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/6ZGBCwQYjflgFEh42TFru0"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
     },
     {
       "album": {
@@ -1926,7 +2010,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 231093,
       "name": "Me Dej\u00f3 en Buz\u00f3n",
       "url": "https://open.spotify.com/track/1reJ1AtC7LuXg9uK0YmQsc"
@@ -2302,7 +2386,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213720,
       "name": "Pensar\u00e1s que ya olvid\u00e9",
       "url": "https://open.spotify.com/track/5nCV6kV0PkWnWQaL5vnIZi"
@@ -2502,7 +2586,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216607,
       "name": "quiero estar contigo",
       "url": "https://open.spotify.com/track/6SXWPe4uImrVzE4jcB8nnd"
@@ -2716,7 +2800,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 124462,
       "name": "solo fluye",
       "url": "https://open.spotify.com/track/2a1iiDbGAk0NwgtvnNtrb8"
@@ -2829,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "album": {
         "name": "Drop By When You Drop Dead",
         "url": "https://open.spotify.com/album/2BfdNvE24Y7JV3yWQLvDA5"
       },
@@ -2884,6 +2986,28 @@
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
+    },
+    {
+      "album": {
+        "name": "Te Odio / Te Amo",
+        "url": "https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179032,
+      "name": "Te Odio / Te Amo",
+      "url": "https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx"
     },
     {
       "album": {
@@ -3054,6 +3178,24 @@
       "duration_ms": 154000,
       "name": "Tu Forma",
       "url": "https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS"
+    },
+    {
+      "album": {
+        "name": "T\u00fa me quieres m\u00e1s",
+        "url": "https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202903,
+      "name": "T\u00fa me quieres m\u00e1s",
+      "url": "https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY"
     },
     {
       "album": {

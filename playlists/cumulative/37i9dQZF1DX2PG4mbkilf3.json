@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with PARTYNEXTDOOR.",
+  "description": "This is R&B in Canada. Elevate your aura with Avenoir from Edmonton.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 202500,
       "name": "1440",
       "url": "https://open.spotify.com/track/2fbS0Ka9up4KbcndDi189l"
+    },
+    {
+      "album": {
+        "name": "20 DAYS",
+        "url": "https://open.spotify.com/album/5nz6sBbSGLD196iIWaT6er"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204916,
+      "name": "20 DAYS",
+      "url": "https://open.spotify.com/track/5b03RkwpGxw8RpKfLiFl1y"
     },
     {
       "album": {
@@ -3939,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "CRY ABOUT",
+        "url": "https://open.spotify.com/album/4zLt69wZaxduR7jtbNidF2"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "CRY ABOUT",
+      "url": "https://open.spotify.com/track/2dRUvZtXS2h7gOwNPB0pds"
+    },
+    {
+      "album": {
         "name": "Curious",
         "url": "https://open.spotify.com/album/5kLXDsZRTG2vDhEcQ0uHWu"
       },
@@ -4884,7 +4920,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 248000,
       "name": "Don't Tempt Me",
       "url": "https://open.spotify.com/track/3OjOAb2KWoIupqKTug9OmM"
@@ -5166,7 +5202,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 120393,
       "name": "D\u00cdGANLE",
       "url": "https://open.spotify.com/track/5tQ4Ji3zMSxy6K5F49Is71"
@@ -5995,6 +6031,24 @@
     },
     {
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
+    },
+    {
+      "album": {
         "name": "Favours",
         "url": "https://open.spotify.com/album/3LlT9oh79fCGZ4P93DhfGA"
       },
@@ -6223,6 +6277,24 @@
     },
     {
       "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/5XB7j90lRW2QYzCK41m6Df"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121318,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3XlHdDuwPGjk63ruhqLUAW"
+    },
+    {
+      "album": {
         "name": "First Thing Smokin'",
         "url": "https://open.spotify.com/album/00HgeagDQJttNRTLrpjqa9"
       },
@@ -6430,6 +6502,24 @@
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269055,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
     },
     {
       "album": {
@@ -7216,7 +7306,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171479,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6"
@@ -7342,7 +7432,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201999,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/2pxutDTmh6dvNUO86PxpBY"
@@ -8330,7 +8420,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 170022,
       "name": "I LO<3 MY EX",
       "url": "https://open.spotify.com/track/375yP07IehIfCK16Ba4bne"
@@ -11106,7 +11196,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152017,
       "name": "Magic",
       "url": "https://open.spotify.com/track/76er21ysUhq1Luw6os29vI"
@@ -12242,7 +12332,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179571,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl"
@@ -13377,6 +13467,24 @@
     },
     {
       "album": {
+        "name": "On You",
+        "url": "https://open.spotify.com/album/1YOo4AOuv6sMKRecYIRyG0"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170286,
+      "name": "On You",
+      "url": "https://open.spotify.com/track/0X9rx5UiFs4I94FISybqUQ"
+    },
+    {
+      "album": {
         "name": "One 4 U",
         "url": "https://open.spotify.com/album/0ZKzGLUdPNcbVvDUbVUycX"
       },
@@ -14051,6 +14159,24 @@
     },
     {
       "album": {
+        "name": "Painting",
+        "url": "https://open.spotify.com/album/3povEk0ZZmC9olF2u4HDkz"
+      },
+      "artists": [
+        {
+          "name": "Serenade",
+          "url": "https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142855,
+      "name": "Painting",
+      "url": "https://open.spotify.com/track/5IXBsobNA9LI84TOgPKuea"
+    },
+    {
+      "album": {
         "name": "Papa Wemba",
         "url": "https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V"
       },
@@ -14673,6 +14799,24 @@
     },
     {
       "album": {
+        "name": "Pour My Love",
+        "url": "https://open.spotify.com/album/6nIMvmKkgal2reO7O0NHGq"
+      },
+      "artists": [
+        {
+          "name": "Merna",
+          "url": "https://open.spotify.com/artist/0aytGYP0dzM1d37B7C31qK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Pour My Love",
+      "url": "https://open.spotify.com/track/0IjbZrUQoSQJJVYT56TSE4"
+    },
+    {
+      "album": {
         "name": "Prayers 4 You",
         "url": "https://open.spotify.com/album/1fg0lbdDw1N4Eh5rT6fGcK"
       },
@@ -15046,7 +15190,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136421,
       "name": "RaRa",
       "url": "https://open.spotify.com/track/1kLYRXosVxfzYdvQrApT5F"
@@ -17853,6 +17997,24 @@
     },
     {
       "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
+    },
+    {
+      "album": {
         "name": "Summer Break",
         "url": "https://open.spotify.com/album/77fp6x4OQr5FfPHxkl90TC"
       },
@@ -17940,7 +18102,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164160,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5a4IW2MzERTAMJteRzoy1t"
@@ -18952,7 +19114,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173497,
       "name": "The Worst",
       "url": "https://open.spotify.com/track/4QJ8dCaN2uwg3ib3bDu6Bs"
@@ -19071,6 +19233,24 @@
     },
     {
       "album": {
+        "name": "thought of a feeling",
+        "url": "https://open.spotify.com/album/3LYqrabO0Hmxt0Ysbnpd67"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "thought of a feeling",
+      "url": "https://open.spotify.com/track/5DnxhJ31c1eesTN5oYqdEq"
+    },
+    {
+      "album": {
         "name": "THOUGHT THAT YOU LOVED ME",
         "url": "https://open.spotify.com/album/1f7FP7teRA5WcPYWCfcWXw"
       },
@@ -19158,6 +19338,24 @@
       "duration_ms": 220909,
       "name": "till the morning",
       "url": "https://open.spotify.com/track/76iMDaTanvz3bB0iCOndb6"
+    },
+    {
+      "album": {
+        "name": "Things I Should've Said",
+        "url": "https://open.spotify.com/album/4yvOcGMKAl1zsU2laXyvNM"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199390,
+      "name": "Till We're Halos",
+      "url": "https://open.spotify.com/track/0jMgJfzNi56zdxoEsoXda1"
     },
     {
       "album": {
@@ -19292,6 +19490,24 @@
       "duration_ms": 179013,
       "name": "Too Hot (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/51XLYXUO7WaEsXf9sUHt6a"
+    },
+    {
+      "album": {
+        "name": "Essie's World",
+        "url": "https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180590,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/14Qnu50Sy8uZbJR3zEcbY4"
     },
     {
       "album": {
@@ -19686,7 +19902,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210713,
       "name": "U & I",
       "url": "https://open.spotify.com/track/6TVz258t5IriFeq5qFJMuH"
@@ -20384,7 +20600,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183974,
       "name": "Waterslide",
       "url": "https://open.spotify.com/track/3iuYeqY846oq1YqvWULZDC"

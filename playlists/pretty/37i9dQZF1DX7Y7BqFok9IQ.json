@@ -1,13 +1,29 @@
 {
-  "description": "The best of modern blues rock. Cover: Larkin Poe",
-  "num_followers": 216636,
+  "description": "The best of modern blues rock. Cover: Joe Bonamassa",
+  "num_followers": 216732,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAADbyiWjeYLHFBxxpxC9KV3q",
+  "snapshot_id": "Zr7OwAAAAAAQgyqStha+j/8v2hKmAf1X",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Better The Devil You Know",
+        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 281214,
+      "name": "Better The Devil You Know",
+      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
+    },
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/7g2BjgygWUGgHFp5LwGyHS"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 231400,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Blow Wind Blow",
@@ -39,22 +71,6 @@
       "duration_ms": 208637,
       "name": "Blow Wind Blow",
       "url": "https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Never Made It To Memphis",
-        "url": "https://open.spotify.com/album/1SDFJ44buRab1oJZiN1UOv"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Never Made It To Memphis",
-      "url": "https://open.spotify.com/track/3grlrtWpHXHPtyLu6kWawn"
     },
     {
       "added_at": "2024-07-05 04:00:00",
@@ -715,22 +731,6 @@
       "duration_ms": 166862,
       "name": "Truth Be Told",
       "url": "https://open.spotify.com/track/4ZY31zJFjnkjnfJuvZGvnl"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Road To Redemption",
-        "url": "https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 301760,
-      "name": "Black Roses",
-      "url": "https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj"
     },
     {
       "added_at": "2022-08-08 19:56:47",

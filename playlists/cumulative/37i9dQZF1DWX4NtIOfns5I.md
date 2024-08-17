@@ -4,7 +4,7 @@
 
 > where folk flowers bloom 🍃 cover: Shawn Mendes
 
-305 songs - 17 hr 54 min
+307 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2024-08-01 |  |
 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 | 2024-03-15 |  |
 | [Be](https://open.spotify.com/track/0puGl6gLKNvG7Ze4X7Hliq) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Be](https://open.spotify.com/album/7HUojHE25L3aSp0TaqqBXS) | 1:51 | 2023-12-15 | 2024-02-10 |
-| [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-10-06 |  |
+| [Bindi in the Dirt](https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH) | [Mikayla Pasterfield](https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA) | [Bindi in the Dirt](https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm) | 3:51 | 2023-10-06 | 2024-08-17 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-10-13 | 2024-07-09 |
 | [Black Leather Daydream](https://open.spotify.com/track/4CtV5PEucaBYNpPXg7A8gj) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Black Leather Daydream](https://open.spotify.com/album/6lRyRBVUP5hKmjIDqe23Ie) | 2:34 | 2024-06-07 |  |
 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2023-10-13 |  |
@@ -109,6 +109,7 @@
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-05 | 2024-07-27 |
 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 | 2023-10-06 | 2024-03-13 |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
+| [Haunt Me](https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Haunt Me](https://open.spotify.com/album/2o5SW9AVHK02aGpjrpJSec) | 1:37 | 2024-08-16 |  |
 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 | 2023-11-27 | 2024-03-09 |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 | 2024-04-06 |
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 |  |
@@ -124,6 +125,7 @@
 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 | 2023-11-10 | 2023-12-09 |
 | [I Don't Have The Heart](https://open.spotify.com/track/4fNiJw07JzssQ1ApsNNeer) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Flicker + I Don’t Have The Heart](https://open.spotify.com/album/1hbCatj4IFzZjqTzXFiLR0) | 3:37 | 2024-03-29 | 2024-04-27 |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 | 2024-04-06 |
+| [i might say something stupid](https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL) | [LOVELOVELOVE](https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6) | [i might say something stupid](https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon) | 2:25 | 2024-08-16 |  |
 | [I Promise](https://open.spotify.com/track/02UnxTJJJYS0yGNOIGdjOF) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [I Promise](https://open.spotify.com/album/5Amy4k4ccGfO2pA9wFCPLs) | 3:41 | 2024-01-14 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-10-06 | 2024-05-11 |
 | [I Told You So](https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [I Told You So](https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j) | 4:14 | 2024-01-26 | 2024-04-06 |
@@ -276,7 +278,7 @@
 | [Timeline](https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Timeline](https://open.spotify.com/album/2SRvaltkNT8jvQ2NW8J8OZ) | 5:32 | 2024-05-17 |  |
 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 | 2023-10-06 | 2024-03-30 |
 | [To The West \(with Sophie Holohan\)](https://open.spotify.com/track/5gul0HAm9GjcbVcbKzxPNW) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD), [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [The Former EP](https://open.spotify.com/album/56wifcvWWb7xzxoQ4nyzuV) | 3:15 | 2023-10-06 | 2024-02-24 |
-| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2024-02-16 |  |
+| [To Watch The World Spin Without You](https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch The World Spin Without You](https://open.spotify.com/album/5omztpPEx83ylzQERN6xCs) | 2:32 | 2024-02-16 | 2024-08-17 |
 | [To Watch the World Spin Without You](https://open.spotify.com/track/0BdpYdgNeEZwHqP1vSrsw0) | [Mon RovÎa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [To Watch the World Spin Without You](https://open.spotify.com/album/1yFRhLSA5QlBIodWNqNoGh) | 2:32 | 2023-10-06 | 2024-04-19 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 |  |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-12-15 | 2024-04-06 |

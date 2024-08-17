@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Thisizlondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,385 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,386 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 15 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 |
 | 16 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 17 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
-| 18 | [One's summer days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One's summer days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
+| 18 | [One Summer's Days](https://open.spotify.com/track/72KjZWoJgmkiF5dZy6bbdk) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [One Summer's Days](https://open.spotify.com/album/3L7K9Yu850KSL0fuOpxGsj) | 2:36 |
 | 19 | [Strange Things](https://open.spotify.com/track/3bWpfAjDh9Rpszf8AkaN0w) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [VISION](https://open.spotify.com/album/7vUfDXmaVb6u4sDIzyyFB5) | 4:49 |
 | 20 | [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 |
 | 21 | [10 out of 10](https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [10 out of 10](https://open.spotify.com/album/6MVYiE2oxVEPBVTrG9xo9D) | 2:57 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Peggy Gou. The essential tracks, all in one playlist.",
-  "num_followers": 49149,
+  "description": "This is Peggy Gou. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 49199,
   "original_name": "This Is Peggy Gou",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAB5X5oZjtyKGR/WkJ8QXeaG",
+  "snapshot_id": "Zr1FAAAAAACzsoMJcMAFSUHTM95b67N/",
   "tracks": [
     {
       "added_at": null,
@@ -91,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
+        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
       "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+      "duration_ms": 271240,
+      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
+      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
     },
     {
       "added_at": null,
@@ -127,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
-        "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
       },
       "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
         {
           "name": "Peggy Gou",
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 271240,
-      "name": "Can't Get You out of My Head - Peggy Gou\u2019s Midnight Remix",
-      "url": "https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb"
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 117236,
-      "name": "Your Art",
-      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
+      "duration_ms": 157252,
+      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
+      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 157252,
-      "name": "Seoulsi Peggygou (\uc11c\uc6b8\uc2dc\ud398\uae30\uad6c)",
-      "url": "https://open.spotify.com/track/2MQWxF9FTFBHBkU3NcvODv"
+      "duration_ms": 117236,
+      "name": "Your Art",
+      "url": "https://open.spotify.com/track/3xSdEXX2d1A02U1jaLmGwl"
     },
     {
       "added_at": null,

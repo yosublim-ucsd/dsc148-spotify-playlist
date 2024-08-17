@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 240219,
+  "num_followers": 240255,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Canciones del Sur",
+        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
+      },
+      "artists": [
+        {
+          "name": "Ines Cuello",
+          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
+        },
+        {
+          "name": "Ram\u00f3n Maschio",
+          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "El Coraz\u00f3n al Sur",
+      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "15 Grandes Exitos - Los Discos De Oro De Roberto Goyeneche",
         "url": "https://open.spotify.com/album/7fScjvjQUNV06fB5WO5CZ8"
       },
@@ -707,26 +727,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Canciones del Sur",
-        "url": "https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy"
-      },
-      "artists": [
-        {
-          "name": "Ines Cuello",
-          "url": "https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW"
-        },
-        {
-          "name": "Ram\u00f3n Maschio",
-          "url": "https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "El Coraz\u00f3n al Sur",
-      "url": "https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Tangos",
         "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 177446,
       "name": "Volvio Una Noche",
       "url": "https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Pasional",
-        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
-      },
-      "artists": [
-        {
-          "name": "Jorge V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Pasional",
-      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -775,6 +759,22 @@
       "duration_ms": 221934,
       "name": "Chiquil\u00edn de Bach\u00edn",
       "url": "https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Pasional",
+        "url": "https://open.spotify.com/album/57cI3a1ZWB8kCN7FilRmHc"
+      },
+      "artists": [
+        {
+          "name": "Jorge V\u00e1zquez",
+          "url": "https://open.spotify.com/artist/6wiOHmlihMHpqgiPmYFCab"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Pasional",
+      "url": "https://open.spotify.com/track/4UWJSmwJe8qZnXz8KDa6V0"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "The Central Park Concert",
+        "url": "https://open.spotify.com/album/3Phv4UOzHL7XEHzjKSFgVd"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "Meurte Del Angel",
+      "url": "https://open.spotify.com/track/1nVCAvTvxAZ7oPh0eWEv83"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "De Criollos y Tangueros",
         "url": "https://open.spotify.com/album/3WiPN6KoVo58KwADQQ7FZU"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 207746,
       "name": "El Mundo De La Fantas\u00eda",
       "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "The Central Park Concert",
-        "url": "https://open.spotify.com/album/3Phv4UOzHL7XEHzjKSFgVd"
-      },
-      "artists": [
-        {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Meurte Del Angel",
-      "url": "https://open.spotify.com/track/1nVCAvTvxAZ7oPh0eWEv83"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1263,58 +1263,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Tal vez ser\u00e0 su voz",
         "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
       },
@@ -1335,6 +1283,42 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        }
+      ],
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 158487,
       "name": "Desencuentro",
       "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2024-08-02 03:00:00",

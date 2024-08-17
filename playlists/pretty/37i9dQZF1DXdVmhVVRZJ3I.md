@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,620 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,699 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 42 | [Rhythm of the Night](https://open.spotify.com/track/7ilFvm0mQy8WFsi67e3flq) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Yass](https://open.spotify.com/artist/1IfDLRzm8snCcXePrYzEI8) | [Rhythm of the Night](https://open.spotify.com/album/6BgupXtbUerk3l7hLOjxf1) | 3:17 |
 | 43 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 44 | [079](https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [Block Notice](https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq) | [079](https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6) | 2:48 |
-| 45 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
-| 46 | [Oscillator \(Jack Is Back\)](https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Oscillator \(Jack Is Back\)](https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z) | 2:48 |
+| 45 | [Oscillator \(Jack Is Back\)](https://open.spotify.com/track/6WPazu06dUe2cQ95KbS6NN) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Chuck Roberts](https://open.spotify.com/artist/239FYJjvsOE1bGL58BSVgu) | [Oscillator \(Jack Is Back\)](https://open.spotify.com/album/6IyQxAbhpHfUeL3zbjNx0z) | 2:48 |
+| 46 | [Showing Signs](https://open.spotify.com/track/2uG6wCBGkH01QiBAVMOaut) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Showing Signs](https://open.spotify.com/album/7AbEIGTOubOlHGFF7L8iZS) | 3:01 |
 | 47 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 |
 | 48 | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Juan Alcasar](https://open.spotify.com/artist/0R8n1LfNSyYfvDTynSZ9AY) | [Atomic Bomb \(feat\. Juan Alcasar\)](https://open.spotify.com/album/4j9gMw9UoRS3xydzvmtnGX) | 2:09 |
 | 49 | [Stay High \- Zerb Remix](https://open.spotify.com/track/3fripGC0ptg0cUE2qkjfRF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(Zerb Remix\)](https://open.spotify.com/album/3WNwoy8cC9kcksFSf4d0kM) | 3:07 |

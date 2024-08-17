@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Matheus Who",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Transmissor",
   "name": "alt BR",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 258144,
       "name": "A L\u00edngua Trava",
       "url": "https://open.spotify.com/track/4oiexM3EySbvbt9luyodil"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 104000,
       "name": "aqui",
       "url": "https://open.spotify.com/track/0A8kRbN1JIyTUnxkqCIYNN"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 254439,
       "name": "Assim",
       "url": "https://open.spotify.com/track/1RzXiVUnCAYlL1gKTrrlmh"
@@ -2062,6 +2062,32 @@
       "duration_ms": 137066,
       "name": "Can I Call You?",
       "url": "https://open.spotify.com/track/5v6S9wdpQiv5weg8sSI5U7"
+    },
+    {
+      "album": {
+        "name": "Canhoto de P\u00e9",
+        "url": "https://open.spotify.com/album/7EPWPOJ7jVbQHGhS5m0v3l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
+        },
+        {
+          "name": "Marcelo Cabral",
+          "url": "https://open.spotify.com/artist/6A1XWXo5PkhtCg1j2JMRNy"
+        },
+        {
+          "name": "Welington \"Pimpa\" Moreira",
+          "url": "https://open.spotify.com/artist/1CSBLXZoHVwfTh7hwqWQuz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532698,
+      "name": "Canhoto de P\u00e9",
+      "url": "https://open.spotify.com/track/2mui676jtyVvTzpnJEwHWC"
     },
     {
       "album": {
@@ -3104,6 +3130,24 @@
       "duration_ms": 232131,
       "name": "Degelo",
       "url": "https://open.spotify.com/track/357gtvzeFa2p4FzoS70eVl"
+    },
+    {
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/2xaWemkDMAUKaaWLa1MKdo"
+      },
+      "artists": [
+        {
+          "name": "Nathan Breves",
+          "url": "https://open.spotify.com/artist/6peTDrocUvgcTb0yJa4D86"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78318,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/2hXWPfRH7KsJ7Qzjh4hc2h"
     },
     {
       "album": {
@@ -4244,7 +4288,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 245538,
       "name": "Eu Me Deito Aqui",
       "url": "https://open.spotify.com/track/1P3gn9tKdtg2rJQega6x9f"
@@ -5690,7 +5734,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 224473,
       "name": "Leve",
       "url": "https://open.spotify.com/track/4qIBZNJNwvnXYrnQTEC8Vw"
@@ -5846,7 +5890,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 249584,
       "name": "Lugar",
       "url": "https://open.spotify.com/track/7agcP5gFfxhC5MZI7ypWgT"
@@ -6458,7 +6502,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195213,
       "name": "Melhor de Tr\u00eas",
       "url": "https://open.spotify.com/track/4rQfTr0ugCFFQTMhWGRQBZ"
@@ -7455,6 +7499,24 @@
     },
     {
       "album": {
+        "name": "Noites com Gosto de Sol",
+        "url": "https://open.spotify.com/album/0xxcUBZGL2nDks6sLs6ftB"
+      },
+      "artists": [
+        {
+          "name": "Transmissor",
+          "url": "https://open.spotify.com/artist/62Vy4K0wvijkJX0EjCY7yk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230678,
+      "name": "Noites com Gosto de Sol",
+      "url": "https://open.spotify.com/track/1EuzXkYKCyg4uRii3TGz2t"
+    },
+    {
+      "album": {
         "name": "Noites de Papel",
         "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
       },
@@ -7912,7 +7974,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 450923,
       "name": "o oceano de solaris",
       "url": "https://open.spotify.com/track/6KbQOtSpUSqdqXiH7nxlv5"
@@ -8136,7 +8198,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 307825,
       "name": "O Viajante",
       "url": "https://open.spotify.com/track/6wZREwKUbPx0OZTZBiUd2Q"
@@ -8270,6 +8332,28 @@
       "duration_ms": 199893,
       "name": "Outras Pessoas",
       "url": "https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0"
+    },
+    {
+      "album": {
+        "name": "outro lado",
+        "url": "https://open.spotify.com/album/26hC9jMxYGlIjmPg1aWxLC"
+      },
+      "artists": [
+        {
+          "name": "Lucas Maranh\u00e3o",
+          "url": "https://open.spotify.com/artist/2toIuAC4HlzxWWxEQGF1Uj"
+        },
+        {
+          "name": "Ta\u00eds Cardoso",
+          "url": "https://open.spotify.com/artist/3bR6CcZTfMngMAitBkBp81"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182291,
+      "name": "outro lado",
+      "url": "https://open.spotify.com/track/1Y9nMOJou7Wme3bChASU8K"
     },
     {
       "album": {
@@ -8420,6 +8504,24 @@
       "duration_ms": 105018,
       "name": "partida - eu corro lo-fi mix",
       "url": "https://open.spotify.com/track/5zMnl2vbs28HyE5PHat3pz"
+    },
+    {
+      "album": {
+        "name": "Passivo",
+        "url": "https://open.spotify.com/album/43ZldrTDZyuLw43J71JoVp"
+      },
+      "artists": [
+        {
+          "name": "Salma e Mac",
+          "url": "https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143482,
+      "name": "Passivo",
+      "url": "https://open.spotify.com/track/4DQdQVBsmC8y2Ng9fDpk8O"
     },
     {
       "album": {
@@ -10091,6 +10193,28 @@
     },
     {
       "album": {
+        "name": "Sem Dire\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6OqjpAXZFQvTyp5iwDeKfJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00f3",
+          "url": "https://open.spotify.com/artist/4PqyC4ZKN6l1rgFojodapX"
+        },
+        {
+          "name": "Nina Camillo",
+          "url": "https://open.spotify.com/artist/7lzwWBWvCpVb5FBDGcikEI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170181,
+      "name": "Sem Dire\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4YtGVCMMKJxFEcKzhRi1Su"
+    },
+    {
+      "album": {
         "name": "Sem Medo de Mudar",
         "url": "https://open.spotify.com/album/44OSmMHYllqbWo6DJX3FmL"
       },
@@ -10150,7 +10274,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 235636,
       "name": "Sem \u00d3dio na Pista",
       "url": "https://open.spotify.com/track/2hQ4dJT3DQofqImbP3i8of"
@@ -11910,7 +12034,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 303469,
       "name": "Uma Vez pra Nunca Mais",
       "url": "https://open.spotify.com/track/05eZ2RUYfAGjIzF4qhBRRm"
@@ -12263,6 +12387,24 @@
     },
     {
       "album": {
+        "name": "Vida Pacata",
+        "url": "https://open.spotify.com/album/0vjpg0SCUXWA1yL0oUonSD"
+      },
+      "artists": [
+        {
+          "name": "Varanda",
+          "url": "https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210952,
+      "name": "Vida Pacata",
+      "url": "https://open.spotify.com/track/6sSTsavIjxM4YY375ezUnp"
+    },
+    {
+      "album": {
         "name": "Vidadulta",
         "url": "https://open.spotify.com/album/56rcd8BD3O397HsS2zi7gn"
       },
@@ -12412,7 +12554,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 154178,
       "name": "Voc\u00ea Me Deu a M\u00e3o",
       "url": "https://open.spotify.com/track/1oOrihudjA8uPLlYK7KsV0"
@@ -12794,6 +12936,28 @@
       "duration_ms": 320914,
       "name": "Zig Zag",
       "url": "https://open.spotify.com/track/3ulcqRaQcoSCw4TplOb0Vl"
+    },
+    {
+      "album": {
+        "name": "\u00c1rvores do Fundo do Quintal",
+        "url": "https://open.spotify.com/album/3i5utGvKH0E9R7SAxqdi1z"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        },
+        {
+          "name": "Exclusive Os Cabides",
+          "url": "https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "\u00c1rvores do Fundo do Quintal",
+      "url": "https://open.spotify.com/track/3MRGPpSroiVOxUdEOhHv4C"
     },
     {
       "album": {

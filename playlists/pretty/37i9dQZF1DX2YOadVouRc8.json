@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 26578,
+  "num_followers": 26610,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 208500,
       "name": "Beggie Beggie",
       "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "wap",
+        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "wap",
+      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Fountain Baby",
-        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0qNH2olGC2AUMMptYsdrK5"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "January 9th",
         "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
       },
@@ -1055,6 +1055,26 @@
       "duration_ms": 222881,
       "name": "January 9th",
       "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Dis Kain Luv",
+        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 152565,
+      "name": "Dis Kain Luv",
+      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1079,26 +1099,6 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Dis Kain Luv",
-        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 152565,
-      "name": "Dis Kain Luv",
-      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 155999,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 114419,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 155999,
-      "name": "December",
-      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Love Garden",
-        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 150765,
-      "name": "Love Garden",
-      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -1287,6 +1267,26 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Love Garden",
+        "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 150765,
+      "name": "Love Garden",
+      "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "You Trap Me",
         "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 162787,
       "name": "Push (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/50EkygI3tkKMnD5e0MVNMF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-08-02 00:01:00",

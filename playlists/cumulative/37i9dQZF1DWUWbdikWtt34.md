@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Aulia
 
-185 songs - 14 hr 32 min
+188 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ampunan Dosa](https://open.spotify.com/track/407M4k7Z3Cc9iBNovzgNRo) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz) | [Ampunan Dosa](https://open.spotify.com/album/0XodovBD7SqRomNqCyNWZf) | 4:15 | 2024-03-14 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-08-23 |  |
 | [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 | 2024-01-11 |  |
+| [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/track/0kZZ0MtKjVzP8yVZkcuIsc) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Awal Yang Manis Akhir Yang Indah](https://open.spotify.com/album/0fpkXFjL9r30UahCEe5Din) | 6:04 | 2024-08-16 |  |
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 |  |
 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 | 2023-08-03 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |
@@ -85,6 +86,7 @@
 | [Kau Tercipta Untukku](https://open.spotify.com/track/0NfWMu3zA2v4ymR2pWiXV9) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Kau Tercipta Untukku](https://open.spotify.com/album/1zpXdr3kkwZF8RKMz4vi72) | 4:07 | 2021-08-23 | 2023-06-30 |
 | [Keabadian Cinta](https://open.spotify.com/track/24VgSe9g5MPcGbKCaaGXuU) | [Sridevi DA5](https://open.spotify.com/artist/7KM65RnfkPrC4zzLoKuQ0s), [Kier King](https://open.spotify.com/artist/532wLz7g4D1MycSKoesiq9) | [Keabadian Cinta](https://open.spotify.com/album/7HBmefgCHAcjAJcqNZhrD4) | 4:23 | 2024-01-25 |  |
 | [Kejam](https://open.spotify.com/track/1jGPT79sQ8k48Lu4nWqKMj) | [Iyeth Bustami](https://open.spotify.com/artist/00C7NuuxMrVAu6Yzxj667R) | [Kejam](https://open.spotify.com/album/7vOcQvH0zVauyTYW4wWh73) | 5:03 | 2023-05-11 |  |
+| [Keyakinan Cinta](https://open.spotify.com/track/5DYSKz8uJGPBY8Ldeh74yg) | [Faul Gayo](https://open.spotify.com/artist/5CdK6xKQYwaLsuAFQlhrSz), [Nia](https://open.spotify.com/artist/1lEHkPPwJDbJEGWtx4Pib0) | [Keyakinan Cinta](https://open.spotify.com/album/3KTGcrvO0bwQT8Z2ffN1Ty) | 3:19 | 2024-08-16 |  |
 | [Khianatiku](https://open.spotify.com/track/2TtWxUm8XnwMmKFEdw8FZN) | [Andre Mastijan](https://open.spotify.com/artist/4CaULC2hulDukMworEU70V) | [Khianatiku](https://open.spotify.com/album/2IuAi1TB6o7IVql5MKNAHI) | 4:18 | 2023-08-03 |  |
 | [Kilau Cinta](https://open.spotify.com/track/4pnuf1MaxKMi94aaSZ1xwq) | [Nilam Sari](https://open.spotify.com/artist/1HMH1XCsJiOQhp0piHmKE6) | [Kilau Cinta](https://open.spotify.com/album/3iPvBqNKPSsRQv0rnwEOoy) | 4:32 | 2023-10-12 |  |
 | [Konco Mesra](https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Nella Kharisma Special NDX](https://open.spotify.com/album/5lJx0J2xoruceOPUDWUDDD) | 5:01 | 2021-08-23 |  |
@@ -145,6 +147,7 @@
 | [Sakur Ngimpi](https://open.spotify.com/track/0wWjSOuRhpjOcLlkxlFTh4) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Sakur Ngimpi](https://open.spotify.com/album/1fYzlUuZ8TETKCgZaeeeQI) | 5:15 | 2024-05-23 |  |
 | [Salah Apa Aku \- DJ Version](https://open.spotify.com/track/4TZ6sKMb5qdsBijn7GAosK) | [Ilir7](https://open.spotify.com/artist/2Qq9xKJKNbWzXQpO9ueKwc) | [Salah Apa Aku \(DJ Version\)](https://open.spotify.com/album/6jgucnuziyH4ihofeI625E) | 4:20 | 2021-08-23 | 2023-11-04 |
 | [Salahkah Aku](https://open.spotify.com/track/377ZMIKzLmBAYx3BTdNISv) | [Imam S Arifin](https://open.spotify.com/artist/0kR8oZ9mW15tKZnYJhFCS9) | [Salahkah Aku](https://open.spotify.com/album/6TdZuqZQ4wdzTL0rl3WmzP) | 5:27 | 2023-05-18 | 2023-12-01 |
+| [Salahmu Sendiri \- \(Live Ska Reggae\)](https://open.spotify.com/track/6hjseVVhxshzbMzeSDgEeH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Salahmu Sendiri \- Live Ska Reggae](https://open.spotify.com/album/6TdgFQIwgvfAxmVqomKMdk) | 4:47 | 2024-08-16 |  |
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-08-23 | 2023-02-17 |
 | [Satru](https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Satru](https://open.spotify.com/album/6iVngjCW7DXIg4Q5f60OVi) | 5:11 | 2021-08-23 |  |
 | [Satu Hati Sampai Mati](https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Satu Hati Sampai Mati](https://open.spotify.com/album/0NdTR19Y6d5yS3eTRjnoEz) | 3:49 | 2021-08-23 |  |

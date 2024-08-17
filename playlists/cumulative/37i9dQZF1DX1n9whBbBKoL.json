@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Dreaming",
+        "url": "https://open.spotify.com/album/7g2v1Pd6ZnVPlDC7CZa3Iz"
+      },
+      "artists": [
+        {
+          "name": "Lyra Roman",
+          "url": "https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Ethereal Dreaming",
+      "url": "https://open.spotify.com/track/71tLNCDqh49mzRRxBtRVtE"
+    },
+    {
+      "album": {
         "name": "Eudaemonia",
         "url": "https://open.spotify.com/album/0E08nTyn985xgztmBEy8V4"
       },
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169411,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
@@ -2853,6 +2871,24 @@
     },
     {
       "album": {
+        "name": "Interstellar Medium",
+        "url": "https://open.spotify.com/album/51BiiAY9lkiiz6Ubl7UPa4"
+      },
+      "artists": [
+        {
+          "name": "Moonweaver",
+          "url": "https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "Interstellar Medium",
+      "url": "https://open.spotify.com/track/4vwK5jszQdRRyGs4gM9olS"
+    },
+    {
+      "album": {
         "name": "Intimate 432Hz",
         "url": "https://open.spotify.com/album/5XyLT2UV9Gjjn6O5aME8Hh"
       },
@@ -2922,6 +2958,24 @@
       "duration_ms": 219057,
       "name": "Iterative Calm",
       "url": "https://open.spotify.com/track/4Dn2R1NeJbrJq7qa8TUwZd"
+    },
+    {
+      "album": {
+        "name": "It\u00b4s Time",
+        "url": "https://open.spotify.com/album/4gaHLxt4F9Y0KVOE77Th4Z"
+      },
+      "artists": [
+        {
+          "name": "Iota Psi",
+          "url": "https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "It\u00b4s Time",
+      "url": "https://open.spotify.com/track/3yjFDsIhrMHdp3cCPvtCIN"
     },
     {
       "album": {
@@ -3170,7 +3224,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 138000,
       "name": "Lunar",
       "url": "https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ"
@@ -3836,7 +3890,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 144305,
       "name": "Pace Tua",
       "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"

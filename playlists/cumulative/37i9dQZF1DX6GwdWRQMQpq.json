@@ -1997,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+    },
+    {
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -2330,6 +2348,24 @@
       "duration_ms": 162056,
       "name": "Check",
       "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
     },
     {
       "album": {
@@ -4378,7 +4414,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146893,
       "name": "H&M",
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
@@ -7159,6 +7195,32 @@
     },
     {
       "album": {
+        "name": "Not In The Store",
+        "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
+      },
+      "artists": [
+        {
+          "name": "Doodles",
+          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189870,
+      "name": "Not In The Store",
+      "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
+    },
+    {
+      "album": {
         "name": "Not My N*gga",
         "url": "https://open.spotify.com/album/1CUo0EBK0PhrHJQeI2Lg3z"
       },
@@ -9600,7 +9662,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 128207,
       "name": "Suki Suki",
       "url": "https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p"
@@ -9888,7 +9950,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161800,
       "name": "There She Go",
       "url": "https://open.spotify.com/track/3hhBbf2lhUByyphVxhestO"

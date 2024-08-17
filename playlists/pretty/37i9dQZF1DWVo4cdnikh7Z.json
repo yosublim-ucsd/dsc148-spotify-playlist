@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : GOAT",
-  "num_followers": 668339,
+  "num_followers": 668464,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr4AcwAAAABaLz85ll8ZrDAac1A0Dlg4",
+  "snapshot_id": "Zr9HYgAAAABtnsvl0kGs+ZEuUe4G95c3",
   "tracks": [
     {
       "added_at": "2024-08-03 12:41:33",
@@ -345,6 +345,30 @@
       "url": "https://open.spotify.com/track/4i5J5wSQwGKsBWIM0tU554"
     },
     {
+      "added_at": "2024-08-16 12:34:42",
+      "album": {
+        "name": "Vedaa - Tamil - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5PiOe0BdbgBz3gyxcLz6yR"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Aarthi MN Ashwin",
+          "url": "https://open.spotify.com/artist/4paXvX9r87BKNN6Tu2Kc7R"
+        },
+        {
+          "name": "Naveen Bharathi",
+          "url": "https://open.spotify.com/artist/1B3EG1myMgdRwViPIA2p3S"
+        }
+      ],
+      "duration_ms": 339697,
+      "name": "Zaroorat Se Zyada - Female Version - Tamil - From \"Vedaa - Tamil\"",
+      "url": "https://open.spotify.com/track/5YfBbXE6lfU7QZBumCqQgG"
+    },
+    {
       "added_at": "2024-08-05 15:51:52",
       "album": {
         "name": "Otha Satti Soru - From \"Vaazhai\"",
@@ -451,6 +475,30 @@
       "duration_ms": 241714,
       "name": "Naan Kaanum Kana",
       "url": "https://open.spotify.com/track/7ALTbx3W05Y9Yh1TWgBtRT"
+    },
+    {
+      "added_at": "2024-08-16 12:34:42",
+      "album": {
+        "name": "Ezhundhu Nindru Poridu (From \"Raghu Thatha\")",
+        "url": "https://open.spotify.com/album/4uHjdnKuuJh0HPPFZoQOXi"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        },
+        {
+          "name": "Suman Kumar",
+          "url": "https://open.spotify.com/artist/26hRmvJV5nuwHPbS5xX3Yu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ezhundhu Nindru Poridu (From \"Raghu Thatha\")",
+      "url": "https://open.spotify.com/track/1L1vW6SBAwvcvwCpxvOyfh"
     },
     {
       "added_at": "2024-06-01 10:26:40",
@@ -591,6 +639,30 @@
       "duration_ms": 164949,
       "name": "Natpukkage - From \"Nanban Oruvan Vantha Piragu\"",
       "url": "https://open.spotify.com/track/69KeyAPeOU2gtmm0e7RieF"
+    },
+    {
+      "added_at": "2024-08-16 12:34:42",
+      "album": {
+        "name": "Annan Vararu (From \"Adharma Kadhaigal\")",
+        "url": "https://open.spotify.com/album/2T8NHwHzV3SiPmMZRDGMsF"
+      },
+      "artists": [
+        {
+          "name": "A. R. Reihana",
+          "url": "https://open.spotify.com/artist/7svWIUSwHbHQUw2gK1PfNh"
+        },
+        {
+          "name": "Gana Ruthra",
+          "url": "https://open.spotify.com/artist/6Cmz5p23chsJARbOvZSj4M"
+        },
+        {
+          "name": "Gana Settu",
+          "url": "https://open.spotify.com/artist/2MDv6laeREoldFzk9ykc9W"
+        }
+      ],
+      "duration_ms": 93333,
+      "name": "Annan Vararu (From \"Adharma Kadhaigal\")",
+      "url": "https://open.spotify.com/track/5hDenB6yQmKcqMFTlExoj1"
     },
     {
       "added_at": "2024-08-05 15:53:23",

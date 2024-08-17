@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192676,
       "name": "Despedidas",
       "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
@@ -3740,7 +3740,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 102889,
       "name": "Eryka Balduco",
       "url": "https://open.spotify.com/track/2upElutNF7J7L7Op1tLZEV"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228687,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2pKBHF2hqzaKNeY4HNnUos"
@@ -7129,6 +7129,32 @@
     },
     {
       "album": {
+        "name": "Versos e Voos",
+        "url": "https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ"
+      },
+      "artists": [
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Modestto",
+          "url": "https://open.spotify.com/artist/4foTKCq94d6Krz1soMJgGd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194464,
+      "name": "Meu Time",
+      "url": "https://open.spotify.com/track/7DzHCoyF4VA1luijJc7JjR"
+    },
+    {
+      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -8210,7 +8236,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156351,
       "name": "N\u00e3o Me Liga Mais",
       "url": "https://open.spotify.com/track/3BkXLQFYtkafM1zSNOji1V"
@@ -9208,7 +9234,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180000,
       "name": "Perder Voc\u00ea",
       "url": "https://open.spotify.com/track/7fBVa5LVtrks01m1Ouo0jL"

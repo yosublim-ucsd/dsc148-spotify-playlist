@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Better The Devil You Know",
+        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281214,
+      "name": "Better The Devil You Know",
+      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
+    },
+    {
+      "album": {
         "name": "Big Grey Sky",
         "url": "https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP"
       },
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 275054,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 261946,
       "name": "I Like Games - Single Version",
       "url": "https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9"
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 382040,
       "name": "Is It Safe To Go Home",
       "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
@@ -3738,6 +3756,24 @@
       "duration_ms": 203466,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
+    },
+    {
+      "album": {
+        "name": "Keep Your Worries On the Dance Floor / West Georgia Blues",
+        "url": "https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup"
+      },
+      "artists": [
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "Keep Your Worries On the Dance Floor",
+      "url": "https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE"
     },
     {
       "album": {
@@ -4360,6 +4396,24 @@
       "duration_ms": 292760,
       "name": "Move to the Country",
       "url": "https://open.spotify.com/track/5HbUq35R8wh1HYDlv0REwj"
+    },
+    {
+      "album": {
+        "name": "My Baby Left Me",
+        "url": "https://open.spotify.com/album/7EakjtgTdmuSIKySc3LJbE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133773,
+      "name": "My Baby Left Me",
+      "url": "https://open.spotify.com/track/1nRuwH66bqBOFoze3u6Pfp"
     },
     {
       "album": {

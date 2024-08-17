@@ -1,13 +1,29 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 518786,
+  "num_followers": 518826,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAC8tHRPKMNiakKcuUud0Ts8",
+  "snapshot_id": "Zr7OwAAAAAD0fecIlqiOT9UBLrX9R/Vs",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Paradise State of Mind",
+        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 189099,
+      "name": "See You In The Afterlife",
+      "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
@@ -1203,22 +1219,6 @@
       "duration_ms": 192207,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 176989,
-      "name": "Freezing",
-      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
     },
     {
       "added_at": "2023-09-04 21:51:37",

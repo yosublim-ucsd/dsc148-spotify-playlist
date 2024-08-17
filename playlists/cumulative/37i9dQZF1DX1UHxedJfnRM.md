@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Fresto Music
 
-157 songs - 11 hr 29 min
+158 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Amiga Mía](https://open.spotify.com/track/6Hst0kxjKNtjq9cUqH2kzB) | [Son Tentación](https://open.spotify.com/artist/1KDHOxKG7fC0sp3HE8VfEi) | [Amiga Mía](https://open.spotify.com/album/7EaTPnzWgkb8Lz8CRtmrdw) | 4:32 | 2022-05-13 |  |
 | [Amor De Etiqueta](https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB) | [La Caro Band](https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P) | [Vale La Pena \(It's Worth It\)](https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg) | 4:51 | 2022-05-13 |  |
 | [Cada Día Me Gustas Más](https://open.spotify.com/track/7fpU2M8STxfq8iZSiRmTbn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Cada Día Me Gustas Más](https://open.spotify.com/album/1J7PI5GUnRnzPw6KmInRoz) | 4:57 | 2022-05-13 | 2022-05-28 |
+| [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-16 |  |
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-05-13 | 2022-10-29 |
 | [Citas Clandestinas](https://open.spotify.com/track/0uRvViYnZWTRxwODPtwfn5) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Citas Clandestinas](https://open.spotify.com/album/2dfna1St5Mu6i9BnBKwSgX) | 5:33 | 2022-05-13 | 2023-02-17 |
 | [Cobarde](https://open.spotify.com/track/3w0IdrfXrlmvESogOesvOf) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Cobarde \(feat\. Sergio George\)](https://open.spotify.com/album/5mfrI3ImlLIbkiMaMGM4Uo) | 3:12 | 2022-05-13 |  |
@@ -116,7 +117,7 @@
 | [Por Ese Hombre](https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:37 | 2022-05-13 |  |
 | [Por Retenerte](https://open.spotify.com/track/5NQVgyomgTIHmtxfTZfncp) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Por Retenerte](https://open.spotify.com/album/1dcxcjZiHUGWDUzX8T62E5) | 4:27 | 2023-09-12 |  |
 | [Porque un Hombre No Llora](https://open.spotify.com/track/4VBehv3X5yJwEDunLEuoEk) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [Porque un Hombre No Llora](https://open.spotify.com/album/3CGIkVoYPGoN4Lp5YMGt4I) | 4:55 | 2022-05-13 |  |
-| [Primera Cita](https://open.spotify.com/track/1i3JiF39TkZNZ9qQJSjGB8) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Primera Cita](https://open.spotify.com/album/7mNw8iT6zKXf1s1NFGC4Bc) | 2:52 | 2024-05-31 |  |
+| [Primera Cita](https://open.spotify.com/track/1i3JiF39TkZNZ9qQJSjGB8) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Primera Cita](https://open.spotify.com/album/7mNw8iT6zKXf1s1NFGC4Bc) | 2:52 | 2024-05-31 | 2024-08-17 |
 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 | 2022-05-13 |  |
 | [Pídele Perdón](https://open.spotify.com/track/6D0zUi49ZXYhiJca3G69dV) | [Antonio Cartegena](https://open.spotify.com/artist/4pxB47gRTkcnK8vdaa5k1C) | [Mi Historia Musical, Vol\. 2](https://open.spotify.com/album/5hqrq6yXAtJ6bVf1VEPfwO) | 4:37 | 2022-05-13 |  |
 | [Que Locura Enamorarme de Ti](https://open.spotify.com/track/39OufQOaHXjXVdw1yEZAdb) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Celebracion](https://open.spotify.com/album/760k4T73Ji3jaYdIHLFkPE) | 4:59 | 2022-05-13 |  |

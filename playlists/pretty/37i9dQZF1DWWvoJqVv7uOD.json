@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Khalid",
-  "num_followers": 441101,
+  "num_followers": 441167,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAB/hL4L5O67Wf1nY90TqZZL",
+  "snapshot_id": "Zr7OwAAAAACUg1wGFm/exotQ5nyQX0zR",
   "tracks": [
     {
       "added_at": "2024-08-02 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
+    },
+    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "cut! (feat. Julia Michaels)",
@@ -61,6 +77,58 @@
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dirty (feat. Teddy Swims)",
@@ -79,22 +147,6 @@
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -143,6 +195,22 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "strangers again",
+        "url": "https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 145853,
+      "name": "strangers again",
+      "url": "https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -621,22 +689,6 @@
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "GRAVITY",
-        "url": "https://open.spotify.com/album/3q9bGy6VBdN5wwY0oLpydI"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 174248,
-      "name": "GRAVITY",
-      "url": "https://open.spotify.com/track/7jK1u0cB8KMCFQEkLqPjnu"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Work It Out",
@@ -871,22 +923,6 @@
       "duration_ms": 247613,
       "name": "Alienated",
       "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Our Way",
-        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1185,22 +1221,6 @@
       "url": "https://open.spotify.com/track/534LueCImkuvFriDEIxUiS"
     },
     {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/1WcyjfjfTXfv1LaqLtJGqZ"
-      },
-      "artists": [
-        {
-          "name": "Precious Pepala",
-          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
-        }
-      ],
-      "duration_ms": 201167,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/4VWJqXO2lnHTPrDze7zeQe"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Treehouse",
@@ -1251,22 +1271,6 @@
       "duration_ms": 187263,
       "name": "drunk text",
       "url": "https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He"
-    },
-    {
-      "added_at": "2023-12-01 17:56:37",
-      "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/1H6XatdVMrvJMvokzH2Kef"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 177946,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/1mreBnJEA5A6uIOTzkKq8Z"
     },
     {
       "added_at": "2023-12-01 17:56:37",

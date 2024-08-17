@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: GEMN \(Tatsuya Kitani + Kento Nakajima\)
 
-525 songs - 1 day 6 hr 14 min
+526 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Dodonpa](https://open.spotify.com/track/2AndL1gnrkjtzoxIy2AG8Y) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 4:37 | 2023-05-09 | 2024-04-19 |
 | [Dogs and Ducks](https://open.spotify.com/track/3Xmkf8BENKXeHv38sUfUa6) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [上出来](https://open.spotify.com/album/1nUwhyn08TSd7Ibg6EWPmv) | 2:41 | 2023-05-09 | 2023-05-17 |
 | [Don't Look Back](https://open.spotify.com/track/1W6FrZS2Nr4nc2tJSr6OPm) | [SASAKRECT](https://open.spotify.com/artist/2DcBqvgOlMtC3K4uGQZ9v8), [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [RhymeTube](https://open.spotify.com/artist/31iJDnqpS43YIG18nTFx14), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Hanagata](https://open.spotify.com/artist/12TrT3DcsxGAxARKh3vfxP) | [Don't Look Back](https://open.spotify.com/album/6U0uvb15O8jiaEiJTnijGJ) | 3:05 | 2024-03-21 | 2024-04-19 |
+| [DONMAI](https://open.spotify.com/track/3MtScqe0Jkt6aBz6l3m0re) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [PHANTOMIME](https://open.spotify.com/album/5tZME90UhKL46KuK5tjUvD) | 3:45 | 2024-08-15 |  |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-05-09 | 2023-12-08 |
 | [Easy Breezy](https://open.spotify.com/track/4B0iIMQz88iQiMlRP47fJ1) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [maze](https://open.spotify.com/album/6t1kYddCW5E9StZEf0UxMd) | 3:28 | 2023-05-09 | 2023-12-08 |
 | [Edison](https://open.spotify.com/track/0N4FgQoqMlmMPikactFwtE) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Neon](https://open.spotify.com/album/2B5aKWrCrb8XNAtufGyxm8) | 3:13 | 2023-05-09 | 2024-02-16 |

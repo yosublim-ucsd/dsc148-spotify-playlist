@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Kelsea Ballerini",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Muscadine Bloodline",
   "name": "New Boots",
   "tracks": [
     {
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 193200,
       "name": "Built by Broken Hearts",
       "url": "https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e"
@@ -5062,6 +5062,28 @@
       "duration_ms": 222319,
       "name": "California",
       "url": "https://open.spotify.com/track/29W9KpLZfhy1lTzzDi16J7"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204411,
+      "name": "California Sober (Feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
     },
     {
       "album": {
@@ -7016,7 +7038,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179559,
       "name": "Dammit Randy",
       "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
@@ -8643,6 +8665,28 @@
     },
     {
       "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133124,
+      "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
+    },
+    {
+      "album": {
         "name": "Drink Drank Drunk",
         "url": "https://open.spotify.com/album/44kwGfpA6RtzuLMxLfVNmb"
       },
@@ -9650,7 +9694,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183625,
       "name": "Everything Is Changing",
       "url": "https://open.spotify.com/track/7eNQKjmWn5AbYGpIStUQvX"
@@ -11198,7 +11242,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166231,
       "name": "Gatlinburg",
       "url": "https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs"
@@ -15037,6 +15081,24 @@
     },
     {
       "album": {
+        "name": "Hey Mom I Made It",
+        "url": "https://open.spotify.com/album/3QjNG5uvzA9wIimwWpDy2c"
+      },
+      "artists": [
+        {
+          "name": "Sacha",
+          "url": "https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169448,
+      "name": "Hey Mom I Made It",
+      "url": "https://open.spotify.com/track/00YB5b2EVOFz0SuNFP2Swv"
+    },
+    {
+      "album": {
         "name": "Hey Whiskey",
         "url": "https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt"
       },
@@ -18415,6 +18477,24 @@
     },
     {
       "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/05T7YUft6JbwZzwZRfMwYy"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165712,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/0KzMtN3OM0HKHeilGVB6N6"
+    },
+    {
+      "album": {
         "name": "Irish Goodbye",
         "url": "https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG"
       },
@@ -20717,6 +20797,28 @@
     },
     {
       "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209038,
+      "name": "Losers (Feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0kIZJEvojTW6esQ1whvKAq"
       },
@@ -22550,7 +22652,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217093,
       "name": "Mint Tea",
       "url": "https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8"
@@ -23116,7 +23218,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
@@ -23642,7 +23744,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172905,
       "name": "Neon Nowhere",
       "url": "https://open.spotify.com/track/3f2HzCPTvTN6xEimsGvCCn"
@@ -24856,6 +24958,28 @@
       "duration_ms": 214600,
       "name": "Nothin\u2019 Out Here (HARDY feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0fA2FyWWf8FjI4NwaKlE21"
+    },
+    {
+      "album": {
+        "name": "Now or Never (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Now or Never (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
     },
     {
       "album": {
@@ -28357,6 +28481,24 @@
     },
     {
       "album": {
+        "name": "Actin\u2019 Up Again",
+        "url": "https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq"
+      },
+      "artists": [
+        {
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160291,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT"
+    },
+    {
+      "album": {
         "name": "Runaways",
         "url": "https://open.spotify.com/album/6cKdYTJJWoDHKbgXcoCnW2"
       },
@@ -28462,7 +28604,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169720,
       "name": "Rust",
       "url": "https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX"
@@ -29108,6 +29250,24 @@
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "album": {
+        "name": "The Heartbroken Record",
+        "url": "https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172206,
+      "name": "Settling Things",
+      "url": "https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4"
     },
     {
       "album": {
@@ -36158,7 +36318,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183252,
       "name": "Wake Up With You",
       "url": "https://open.spotify.com/track/0lkckhwXvcl8Nm61wJ1CUo"
@@ -36180,6 +36340,28 @@
       "duration_ms": 198802,
       "name": "Waking Up Dreaming",
       "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
       "album": {

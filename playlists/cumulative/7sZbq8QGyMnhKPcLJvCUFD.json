@@ -8631,6 +8631,28 @@
     },
     {
       "album": {
+        "name": "Pump Up The Bassline",
+        "url": "https://open.spotify.com/album/3nQUY6Rx481Ilrha2JiiXT"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162850,
+      "name": "Pump Up The Bassline",
+      "url": "https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl"
+    },
+    {
+      "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/1vPWeTqs6zGdrjHcXmER5I"
       },

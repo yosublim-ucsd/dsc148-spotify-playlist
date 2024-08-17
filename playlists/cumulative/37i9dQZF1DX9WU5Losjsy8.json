@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 229733,
       "name": "Anton aus Tirol",
       "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
@@ -947,6 +947,28 @@
     },
     {
       "album": {
+        "name": "Erwischt",
+        "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Erwischt",
+      "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
+    },
+    {
+      "album": {
         "name": "Expresso & Tschianti",
         "url": "https://open.spotify.com/album/0I1uCG4t0ehOyQBBC4W44K"
       },
@@ -1662,7 +1684,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142750,
       "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
       "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
@@ -1896,6 +1918,28 @@
       "duration_ms": 169885,
       "name": "MALLE BEREIT",
       "url": "https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O"
+    },
+    {
+      "album": {
+        "name": "Mallekind",
+        "url": "https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173433,
+      "name": "Mallekind",
+      "url": "https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6"
     },
     {
       "album": {

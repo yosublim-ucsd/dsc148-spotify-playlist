@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1aBeik.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1aBeik) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1aBeik)
 
-### [Post Malone This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aBeik)
+### [This Is Post Malone](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aBeik)
 
-> .Post Malone This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is Post Malone\. The essential tracks, all in one playlist.
 
 78 songs - 4 hr 19 min
 

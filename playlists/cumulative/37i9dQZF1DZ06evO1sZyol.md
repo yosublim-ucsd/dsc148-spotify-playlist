@@ -2,7 +2,7 @@
 
 ### [This Is TOOL](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sZyol)
 
-> This is TOOL\. Tutti i brani in un'unica playlist.
+> This is TOOL\. The essential tracks, all in one playlist.
 
 37 songs - 4 hr 27 min
 

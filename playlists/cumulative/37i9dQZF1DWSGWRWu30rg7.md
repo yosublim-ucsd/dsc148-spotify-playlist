@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Sisca Saras
 
-3,765 songs - 9 day 14 hr 57 min
+3,766 songs - 9 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2875,6 +2875,7 @@
 | [Selamat Tinggal](https://open.spotify.com/track/685WlXxtde7oeh4hJTRzl6) | [Elnanda Utomo](https://open.spotify.com/artist/6dgv120gsfBBDSJ4XCLkgi) | [Bicara Sendiri](https://open.spotify.com/album/2mhrfFld2Rw5XTRiv7Rw4j) | 3:46 | 2022-02-10 | 2022-02-25 |
 | [Selangkah Demi Selangkah](https://open.spotify.com/track/0sqJlUgq4ibVkJEEReBWt5) | [De Brothers](https://open.spotify.com/artist/4Zn6hWvhssEGxhP6hXDAOK) | [Selangkah Demi Selangkah, Vol\. 2](https://open.spotify.com/album/1VKQ3iWu1Hk9iq1hsg28iC) | 3:52 | 2023-10-27 | 2023-11-18 |
 | [Selayaknya](https://open.spotify.com/track/52OiMu38nL7mfFRcoB1fay) | [Melyananda Putu](https://open.spotify.com/artist/1h5X1zjEEUjWB7xCjsk0LN) | [Selayaknya](https://open.spotify.com/album/5zy4e65gRdDP2viLHXCJ5D) | 3:37 | 2023-08-17 | 2023-09-01 |
+| [Seleksi Alam](https://open.spotify.com/track/3TZSN1FVvFeig37IqucVVV) | [Samosatu](https://open.spotify.com/artist/5RZITO4losOfZL5wOASoyb) | [Seleksi Alam](https://open.spotify.com/album/2AFlHqwIXRYYMR21PTzYw3) | 5:48 | 2024-08-15 |  |
 | [Selesai](https://open.spotify.com/track/7yY5IfjDJevbPAK39qgpG3) | [Agung Darisman](https://open.spotify.com/artist/0qUOddYpffGsklCpMN7Yur), [Julia Choirani](https://open.spotify.com/artist/5a5wrvMEYChg4Fa4gTNGp0) | [Selesai](https://open.spotify.com/album/4z0cN2FjZ2zsn4L6AZHZHO) | 3:30 | 2022-09-09 | 2022-09-23 |
 | [Selesai](https://open.spotify.com/track/0xI5nurTbsqgiS2sembxQt) | [Sendy Nurulita](https://open.spotify.com/artist/7DDBJWvw1cs7deI8V1cmEi) | [Selesai](https://open.spotify.com/album/5z680eBcv9PzcVuHOadVHq) | 3:54 | 2022-04-14 | 2022-05-06 |
 | [Selesai](https://open.spotify.com/track/4EQGWJPK48cIPQlNIR5zw1) | [Y.A.W](https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96) | [Selesai](https://open.spotify.com/album/1wdxmRqPLsxP2hvkDGHYrF) | 4:16 | 2023-05-18 | 2023-06-02 |

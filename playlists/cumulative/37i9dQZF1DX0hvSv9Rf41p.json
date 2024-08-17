@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Chains",
       "url": "https://open.spotify.com/track/3AZyW6Bz7paox5xChTqvHp"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205517,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2LSbYkErNTGB5JX0FOdbsu"
@@ -3834,6 +3834,24 @@
       "duration_ms": 258206,
       "name": "CRY - Borgore Remix",
       "url": "https://open.spotify.com/track/6ekIi6kltHC195Y4z6vMb0"
+    },
+    {
+      "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/18Gk7jKabdh5TT3op7Vppl"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135642,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/0gxFH859NhbHOI4XnZjcrX"
     },
     {
       "album": {
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg"
@@ -7638,10 +7656,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172610,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/0PyX0nNJjFCGPIMrlXUN1U"
+    },
+    {
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1wt3bPnbLUGulqDbCocnQk"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137491,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/41P1RlldZuKjnw2Pd8lGjQ"
     },
     {
       "album": {
@@ -8418,7 +8454,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 301095,
       "name": "HEART123",
       "url": "https://open.spotify.com/track/6SRDN6AyatafwXnJh6KI1n"
@@ -8912,7 +8948,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223200,
       "name": "House Of Cards (Paper Castles)",
       "url": "https://open.spotify.com/track/1naoBbS1eIIMeO8HGLKWpw"
@@ -10796,7 +10832,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208279,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
@@ -13181,6 +13217,24 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/6d9IYOHwhWu0dkjWReSJWS"
+      },
+      "artists": [
+        {
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190965,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/7f9Dlz5PhMB9sIIAJNnHJH"
+    },
+    {
+      "album": {
         "name": "Counting EP",
         "url": "https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd"
       },
@@ -13578,7 +13632,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 220800,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/0Uy2wbMiudT1PmJCpyxo1x"
@@ -13877,6 +13931,28 @@
     },
     {
       "album": {
+        "name": "Pop, Lock & Drop It",
+        "url": "https://open.spotify.com/album/38Ekud22i84S9aKovvGeNo"
+      },
+      "artists": [
+        {
+          "name": "Izzy Vadim",
+          "url": "https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l"
+        },
+        {
+          "name": "Huey",
+          "url": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Pop, Lock & Drop It",
+      "url": "https://open.spotify.com/track/3MGgzQBgl3nnrqychGdTtw"
+    },
+    {
+      "album": {
         "name": "Popstar shit.",
         "url": "https://open.spotify.com/album/5KwIGTyonaPG0pihilRpKs"
       },
@@ -14104,6 +14180,28 @@
       "duration_ms": 264827,
       "name": "Pump",
       "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Bassline",
+        "url": "https://open.spotify.com/album/3nQUY6Rx481Ilrha2JiiXT"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162850,
+      "name": "Pump Up The Bassline",
+      "url": "https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl"
     },
     {
       "album": {
@@ -15514,7 +15612,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160000,
       "name": "SECONDS",
       "url": "https://open.spotify.com/track/62K7mijyKUuvomEaFDWDX7"
@@ -16149,6 +16247,24 @@
     },
     {
       "album": {
+        "name": "SHOWOFF",
+        "url": "https://open.spotify.com/album/73CeKyAHVdhp5QNJOgwccA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "SHOWOFF",
+      "url": "https://open.spotify.com/track/60vjmRkxPb4bu3Iv3yPgqb"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
       },
@@ -16186,7 +16302,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162373,
       "name": "Shut Shit Down",
       "url": "https://open.spotify.com/track/7rIfWHDoTPLNtTtkorbs3h"
@@ -17074,7 +17190,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156924,
       "name": "STFU",
       "url": "https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw"
@@ -17916,6 +18032,24 @@
       "duration_ms": 202285,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3uvNNntgesD9IdobKz0O8T"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234620,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3KrINa3r5vWcp3pM2d9HDz"
     },
     {
       "album": {
@@ -18831,6 +18965,24 @@
     },
     {
       "album": {
+        "name": "Trip Sitter",
+        "url": "https://open.spotify.com/album/6ucv7r6LJIx5XF6Ue6zQ4i"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Trip Sitter",
+      "url": "https://open.spotify.com/track/2kRU9Bg9OnV0xZXSHWi2h1"
+    },
+    {
+      "album": {
         "name": "Trip To Mars",
         "url": "https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq"
       },
@@ -18982,7 +19134,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198857,
       "name": "Twin Fang",
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
@@ -19078,6 +19230,28 @@
       "duration_ms": 166400,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/0lh3n2HWKOKluhmYgCEURe"
+    },
+    {
+      "album": {
+        "name": "Uncaged",
+        "url": "https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Prosecute",
+          "url": "https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Uncaged",
+      "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"
     },
     {
       "album": {

@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 324022,
       "name": "Dream St.",
       "url": "https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A"
@@ -2430,6 +2430,10 @@
         {
           "name": "a.s.o.",
           "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        },
+        {
+          "name": "Alias Error",
+          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
         }
       ],
       "date_added": "2024-03-05",
@@ -2631,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
+    },
+    {
+      "album": {
         "name": "Heartlow",
         "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
       },
@@ -2660,7 +2682,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/5rZbQQ5VCGloeGWubvZfoF"
@@ -6370,6 +6392,24 @@
       "duration_ms": 166950,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E"
+    },
+    {
+      "album": {
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
     },
     {
       "album": {

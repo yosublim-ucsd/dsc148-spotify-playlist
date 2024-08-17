@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 944 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 954 likes - 70 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
-| 2 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 |
-| 3 | [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 |
-| 4 | [Krobo Princess](https://open.spotify.com/track/7JuzZV5N4yqPv8FYoEhFUj) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [Krobo Princess](https://open.spotify.com/album/1wqUzzGSfsUBdZuT51tyYy) | 2:57 |
-| 5 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 |
-| 6 | [Everyday People](https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [Everyday People](https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH) | 3:37 |
-| 7 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 |
-| 8 | [Curbside](https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [For Melanin Girlies](https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA) | 2:08 |
-| 9 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 |
-| 10 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 |
-| 11 | [227](https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 4:13 |
-| 12 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 |
+| 1 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 |
+| 2 | [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 |
+| 3 | [Krobo Princess](https://open.spotify.com/track/7JuzZV5N4yqPv8FYoEhFUj) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [Krobo Princess](https://open.spotify.com/album/1wqUzzGSfsUBdZuT51tyYy) | 2:57 |
+| 4 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 |
+| 5 | [Everyday People](https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [Everyday People](https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH) | 3:37 |
+| 6 | [Tonic No Lime](https://open.spotify.com/track/4PaF06tc9L8LnAW3fIHl18) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Tonic No Lime](https://open.spotify.com/album/0urB5NaXZ8nuLaYyAL5kil) | 3:03 |
+| 7 | [Curbside](https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [For Melanin Girlies](https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA) | 2:08 |
+| 8 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 |
+| 9 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 |
+| 10 | [227](https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 4:13 |
+| 11 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 |
+| 12 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 |
 | 13 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 |
 | 14 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 |
 | 15 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 69 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 |
 | 70 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 |
 
-Snapshot ID: `ZrVcPAAAAACpcsKW1nl5fnS1oFIfJ2iy`
+Snapshot ID: `Zr8STQAAAACLN9UrzW0G8zQ+DR5MpQgg`

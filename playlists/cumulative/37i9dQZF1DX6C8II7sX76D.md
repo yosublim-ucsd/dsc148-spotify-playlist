@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-291 songs - 15 hr 8 min
+292 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 | 2024-01-31 |  |
 | [FVN!](https://open.spotify.com/track/4lGOHDJr4PvUguwpMxjzlu) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [FVN!](https://open.spotify.com/album/4HrAnkSKPbpAhsJcp7bXSJ) | 3:10 | 2021-12-03 | 2022-07-29 |
 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 | 2022-04-14 | 2022-07-29 |
+| [Girls](https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [You're Invited](https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs) | 1:59 | 2024-08-16 |  |
 | [Give It To Me](https://open.spotify.com/track/40HqwKbcJ62zpsBW2pWBTq) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [Give It To Me](https://open.spotify.com/album/1s8GwqQlOG7X4e6mV4PQC5) | 2:51 | 2022-12-28 | 2023-01-14 |
 | [Give It To Me \(Party Party\) \- Remix](https://open.spotify.com/track/17B3JX4cJdnY0jEkZPjNMO) | [Muppet DJ](https://open.spotify.com/artist/1xP2Pos7aO9ONLRav8fmny), [SECA Records](https://open.spotify.com/artist/69JEXAvYd8sSMU4li9uSox) | [Give It To Me \(Party Party\) \(Remix\)](https://open.spotify.com/album/0FRow91LCygMthx8yIEBVf) | 2:51 | 2022-12-28 | 2023-01-19 |
 | [Give It To Me \(TikTok\) \- Remix](https://open.spotify.com/track/3vw1qbSopYw1XSXvw7D99u) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [Give It To Me \(TikTok\) \[Remix\]](https://open.spotify.com/album/5oVwCen70A8H4kKHf1bily) | 2:51 | 2023-01-19 | 2023-01-26 |
@@ -177,7 +178,7 @@
 | [More Than A Woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [How Can You Mend A Broken Heart](https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx) | 3:16 | 2021-12-03 | 2023-08-02 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2021-12-03 | 2022-08-12 |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2024-05-22 | 2024-05-25 |
-| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2024-05-24 |  |
+| [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 | 2024-05-24 | 2024-08-17 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-28 |  |
 | [MOVE YO BODY \(sped up\)](https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [MOVE YO BODY \(sped up\)](https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL) | 1:57 | 2024-03-15 | 2024-05-18 |
 | [Move Your Body](https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Move Your Body](https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL) | 2:37 | 2021-12-03 | 2024-01-27 |

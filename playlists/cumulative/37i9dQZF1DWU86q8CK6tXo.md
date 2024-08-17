@@ -4,7 +4,7 @@
 
 > Celebrating our EQUAL ambassador Kesha and the women she champions at the top of our list!
 
-1,483 songs - 3 day 7 hr 4 min
+1,484 songs - 3 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,7 +1164,7 @@
 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 | 2023-03-01 | 2023-04-06 |
 | [Shabooya](https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya](https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU) | 2:58 | 2022-11-02 | 2022-12-01 |
 | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Shades Of Love \(feat\. The Joy\)](https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR) | 3:23 | 2023-03-01 | 2024-01-27 |
-| [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 | 2024-08-01 |  |
+| [Shake](https://open.spotify.com/track/3srhWQpwocJ9tCXo4HGtWz) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Shake](https://open.spotify.com/album/1BBUoLrHaPDbQJlyhEPcA9) | 2:55 | 2024-08-01 | 2024-08-17 |
 | [Shake Yo Dreads](https://open.spotify.com/track/5n2V631qeQri7jI6Kvbm4j) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shake Yo Dreads](https://open.spotify.com/album/2xQmFSVYsk6qOvFCwVXqgh) | 2:57 | 2023-11-08 | 2023-11-30 |
 | [She Don’t Know](https://open.spotify.com/track/0pQoXJI5v3Nb9Nv2sr7Llk) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:29 | 2022-11-30 | 2023-01-05 |
 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 | 2022-06-01 | 2022-07-07 |
@@ -1386,6 +1386,7 @@
 | [Waiting](https://open.spotify.com/track/60XKYSAexkc70KPDefZzYs) | [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Waiting](https://open.spotify.com/album/6bvRJ36iuSYbQD5kYaP64I) | 2:45 | 2023-01-04 | 2023-02-02 |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-12-01 | 2022-01-06 |
 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 | 2022-10-05 | 2022-11-03 |
+| [Walked on Water \(feat\. Kesha\)](https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Obsessed](https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib) | 3:20 | 2024-08-16 |  |
 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 | 2024-05-01 | 2024-06-01 |
 | [want u 2 stay](https://open.spotify.com/track/2ss3z79TTuD3YkQAWol9DE) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [want u 2 stay](https://open.spotify.com/album/4DwQhiao8stnXWX6R9uZfb) | 2:58 | 2022-06-01 | 2022-07-07 |
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-08 | 2022-04-07 |

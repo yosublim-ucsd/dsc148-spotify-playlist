@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-148 songs - 11 hr 21 min
+149 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Early in the Morning](https://open.spotify.com/track/1N5FqOZsQ7dXHtl7zibPgw) | [Command Strange](https://open.spotify.com/artist/6ZslPRiDjYFasSPscHF7v2), [Intelligent Manners](https://open.spotify.com/artist/7Kgps1bJZyZeY7Oa17YaGs) | [Joy LP](https://open.spotify.com/album/5oxcbJO5IlyHimanGsHbxM) | 4:33 | 2023-02-14 | 2024-04-19 |
 | [Early in the Morning \- Original Mix](https://open.spotify.com/track/4XoGAJLZBvDg8IlnDyJGHE) | [Command Strange](https://open.spotify.com/artist/6ZslPRiDjYFasSPscHF7v2), [Intelligent Manners](https://open.spotify.com/artist/7Kgps1bJZyZeY7Oa17YaGs) | [Joy LP](https://open.spotify.com/album/6z7Zqow6RhmosibkQdkjwG) | 4:33 | 2022-11-30 |  |
 | [Eastern Surprise](https://open.spotify.com/track/64EFUJbhplwsrM315SFMyv) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2) | [Eastern Surprise](https://open.spotify.com/album/42uvb5jtA1JhjpP8eEGg2A) | 4:32 | 2023-03-09 |  |
+| [Edge of sketch](https://open.spotify.com/track/00KYGv9mh8iKToG1GCLS3a) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Edge Of Sketch](https://open.spotify.com/album/2kcyzU8IXUkzaVTAzWEiwL) | 4:12 | 2024-08-16 |  |
 | [Evolution Dub](https://open.spotify.com/track/4CgNZoBh7FJAlrVhlVdifY) | [Counter Culture](https://open.spotify.com/artist/5S9npCbtuNoMtN5xuMyvbU) | [Evolution Dub / You And & Me](https://open.spotify.com/album/5Vt32ASWXOUkfts2GMT527) | 4:55 | 2023-05-19 | 2024-03-30 |
 | [Fairy Forest](https://open.spotify.com/track/6XdhU2Wdb0HYhJmUAD2uWi) | [Eloran](https://open.spotify.com/artist/1fq90SLAmXXuNCRqVjM48b) | [Fairy Forest](https://open.spotify.com/album/7tAAVJ75iSHQWkqkxPvbUf) | 3:48 | 2023-09-15 |  |
 | [Falling Lights](https://open.spotify.com/track/5ZXXout3LaxYFT2dVRvT8j) | [Painted Skies & Viewer](https://open.spotify.com/artist/4VTZ1NxNNLeGdRuKXXv3ZK) | [Tonight](https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e) | 5:39 | 2022-11-30 | 2024-08-10 |

@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "dreams",
+        "url": "https://open.spotify.com/album/6z043nNDyYIOlLYyqsFaZF"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223157,
+      "name": "dreams",
+      "url": "https://open.spotify.com/track/6BYd51QOGm0O15QX6d37ml"
+    },
+    {
+      "album": {
         "name": "DRY GROUND",
         "url": "https://open.spotify.com/album/3pfECj07Rd9WqEwAGBFG4V"
       },
@@ -1858,6 +1876,24 @@
       "duration_ms": 218045,
       "name": "If You Only Knew",
       "url": "https://open.spotify.com/track/1xfqHOTSdVSwzlty8qcdgc"
+    },
+    {
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/6BV3ZkhuV5imTw4VjecK9z"
+      },
+      "artists": [
+        {
+          "name": "Sansone",
+          "url": "https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/5qPBpx8x9EofaXhDn4amI6"
     },
     {
       "album": {
@@ -3048,6 +3084,24 @@
       "duration_ms": 167232,
       "name": "stay",
       "url": "https://open.spotify.com/track/47PlSslwMiEEI5L5WRAqG4"
+    },
+    {
+      "album": {
+        "name": "Strength of My Heart",
+        "url": "https://open.spotify.com/album/6mS7LlvkEGLSjlV4EiBKUr"
+      },
+      "artists": [
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261385,
+      "name": "Strength of My Heart",
+      "url": "https://open.spotify.com/track/3dyeLQ9gpjAEAr7tDOykJA"
     },
     {
       "album": {

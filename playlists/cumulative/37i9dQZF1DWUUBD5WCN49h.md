@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Godwin
+> New and emerging R&B, afropop and Alternative tracks\. Cover:
 
-1,004 songs - 2 day 0 hr 20 min
+1,005 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan](https://open.spotify.com/artist/3pUxEfvD8SmdUQONUmfqZo) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 | 2023-04-14 | 2023-04-21 |
 | [Lowkey](https://open.spotify.com/track/35rjIaj1FibJnFFz0YJWnQ) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Lowkey](https://open.spotify.com/album/15s7cPQMJh3OHcbjgxXhpp) | 3:16 | 2023-12-01 | 2024-02-23 |
 | [Lucy](https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Wayyy Saucy](https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6) | 2:18 | 2023-11-24 | 2023-12-02 |
+| [Lungs](https://open.spotify.com/track/4IaBXEODvoQQzbGOxzQGfy) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Lungs](https://open.spotify.com/album/0cyYxrUNpkm679c66snDo6) | 2:18 | 2024-08-16 |  |
 | [Lètó](https://open.spotify.com/track/2ubBk71A4eKuKEiMB7Hwa6) | [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf) | [Lètó](https://open.spotify.com/album/3XBglUPviZeXtCrTRxFx23) | 2:36 | 2024-05-31 | 2024-07-27 |
 | [Ma Cherie](https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Ma Cherie](https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr) | 2:52 | 2023-10-27 | 2023-12-08 |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2023-06-10 |

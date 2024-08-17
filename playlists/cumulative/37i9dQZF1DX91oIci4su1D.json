@@ -7856,7 +7856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203000,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4jcgfud6oIl9fSPR3HM7a3"
@@ -13285,6 +13285,32 @@
     },
     {
       "album": {
+        "name": "Out Here (with Richard Patrick of Filter)",
+        "url": "https://open.spotify.com/album/7FqIAC6YdCIrtCoTLNJyaM"
+      },
+      "artists": [
+        {
+          "name": "Julian Gray",
+          "url": "https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN"
+        },
+        {
+          "name": "Richard Patrick",
+          "url": "https://open.spotify.com/artist/0vWrIs2jBCcuQMEW3SvnSH"
+        },
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321562,
+      "name": "Out Here (with Richard Patrick of Filter)",
+      "url": "https://open.spotify.com/track/3dQMDbZc2LmMelhot6vsMu"
+    },
+    {
+      "album": {
         "name": "Out Of The Blue (Matt Fax Remix)",
         "url": "https://open.spotify.com/album/6lSZfw4ZdsEDoTycjLqYpU"
       },
@@ -14504,7 +14530,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236250,
       "name": "Resource",
       "url": "https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r"
@@ -15221,6 +15247,28 @@
     },
     {
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7y2RmRh5b306NaZdPyNi99"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Christina Novelli",
+          "url": "https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190964,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/0ryaHEkXnKDLNdnRDrvtUk"
+    },
+    {
+      "album": {
         "name": "Say You're Mine",
         "url": "https://open.spotify.com/album/7bmSPSRgocYPZWKo0tl97O"
       },
@@ -15922,7 +15970,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232285,
       "name": "Someone - Kinetica Remix",
       "url": "https://open.spotify.com/track/14b6rZyEHbOsuUL992hPZn"
@@ -17840,6 +17888,32 @@
       "duration_ms": 232317,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7Kdxw4EYCfIXqOdUhxBM6Z"
+    },
+    {
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/6K2yMO5pAWUO9MU7u68yvk"
+      },
+      "artists": [
+        {
+          "name": "Silva City",
+          "url": "https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Reset Robot",
+          "url": "https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/6Jrrjgp9hvVCBKl3L0CF2T"
     },
     {
       "album": {

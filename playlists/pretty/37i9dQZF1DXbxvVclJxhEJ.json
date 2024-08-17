@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 53667,
+  "num_followers": 53734,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Trixie Smith Vol. 2 1925-1929",
-        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
-      },
-      "artists": [
-        {
-          "name": "Trixie Smith",
-          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
-        }
-      ],
-      "duration_ms": 174184,
-      "name": "My Daddy Rocks Me",
-      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
         "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 182400,
       "name": "Man Stealer Blues",
       "url": "https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Trixie Smith Vol. 2 1925-1929",
+        "url": "https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI"
+      },
+      "artists": [
+        {
+          "name": "Trixie Smith",
+          "url": "https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9"
+        }
+      ],
+      "duration_ms": 174184,
+      "name": "My Daddy Rocks Me",
+      "url": "https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Crazy Blues: The Best Of Mamie Smith",
-        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
-      },
-      "artists": [
-        {
-          "name": "Mamie Smith",
-          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Keep A Song In Your Soul",
-      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Complete Recordings, Vol. 3",
         "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 168626,
       "name": "I Used to Be Your Sweet Mama",
       "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Crazy Blues: The Best Of Mamie Smith",
+        "url": "https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s"
+      },
+      "artists": [
+        {
+          "name": "Mamie Smith",
+          "url": "https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Keep A Song In Your Soul",
+      "url": "https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
+        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
       },
       "artists": [
         {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+          "name": "Clara Smith",
+          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
         }
       ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
+      "duration_ms": 195586,
+      "name": "It's Tight Like That",
+      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
-        "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
       },
       "artists": [
         {
-          "name": "Clara Smith",
-          "url": "https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH"
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
         }
       ],
-      "duration_ms": 195586,
-      "name": "It's Tight Like That",
-      "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 136849,
-      "name": "(You Can Have My Husband But) Don\u00b4t Mess with My Man",
-      "url": "https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
         "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 177333,
       "name": "B.D. Woman's Blues",
       "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 136849,
+      "name": "(You Can Have My Husband But) Don\u00b4t Mess with My Man",
+      "url": "https://open.spotify.com/track/78EABXHJPg76VVrxRENUn1"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 196453,
       "name": "Funny Feathers",
       "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Powerhouse Gospel",
-        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
-      },
-      "artists": [
-        {
-          "name": "The Soul Satisfiers Of Philadelphia",
-          "url": "https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "I'm His And He's Mine",
-      "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Fujiyama Mama",
         "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 171693,
       "name": "The Bluest Blues",
       "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Powerhouse Gospel",
+        "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
+      },
+      "artists": [
+        {
+          "name": "The Soul Satisfiers Of Philadelphia",
+          "url": "https://open.spotify.com/artist/0WzaN470FTMx6xff6BbHwL"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "I'm His And He's Mine",
+      "url": "https://open.spotify.com/track/4ow8NW6mODvHBzeLlSiYXB"
     },
     {
       "added_at": "2024-06-02 16:39:20",

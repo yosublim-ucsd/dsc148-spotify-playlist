@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,270 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,278 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 62 | [Terlingua Girl](https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Terlingua Girl](https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF) | 4:14 |
 | 63 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
 | 64 | [Joshua Tree](https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD) | [Ruthie Collins](https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV) | [Joshua Tree](https://open.spotify.com/album/604SYSnLaQAYume81vqV1z) | 4:11 |
-| 65 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 |
-| 66 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 |
+| 65 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 |
+| 66 | [Graceland](https://open.spotify.com/track/2UduNMj9tpsEcBTur8VwH2) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Maybe A Moment / Graceland](https://open.spotify.com/album/67ZgBWzvcwzoyUxGXz9aLW) | 3:14 |
 | 67 | [Before The Dogwood Blooms](https://open.spotify.com/track/6OkVaVrNaWT54KQMBCCmyN) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Lamentations](https://open.spotify.com/album/16cNE8Er5s7OeJAe0Ki3vC) | 2:55 |
 | 68 | [Drunken Poet's Dream \[feat\. Ray Wylie Hubbard\] \(Alone Together Sessions\)](https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Alone Together Sessions](https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE) | 4:53 |
 | 69 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |

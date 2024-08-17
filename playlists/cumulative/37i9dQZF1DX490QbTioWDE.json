@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 190045,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy"
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 172585,
       "name": "Despechada (Cover) - En Vivo",
       "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189032,
       "name": "El M\u00e1s Popular - Remix",
       "url": "https://open.spotify.com/track/0JI00bxqWrdV4FRrqWfe2c"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 173949,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
@@ -3000,7 +3000,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236091,
       "name": "Me Duele No Verte - En Vivo",
       "url": "https://open.spotify.com/track/04YSt654jJqzKdcMNIke4F"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 143360,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/3yry8k1jcIzHQCsMmCmegS"
@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166973,
       "name": "Mil Preguntas",
       "url": "https://open.spotify.com/track/4NtNFcjVJ9jCoM3vwMU9dV"
@@ -5114,6 +5114,24 @@
       "duration_ms": 158817,
       "name": "M\u00e1tame",
       "url": "https://open.spotify.com/track/1Ppfw00BnRqGSOPA9b3HQD"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/0IuztiLZWWbaIACNbPU5xT"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186232,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/1kJjTCNnD5rmKOy02dViQA"
     },
     {
       "album": {
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195789,
       "name": "OJAL\u00c1",
       "url": "https://open.spotify.com/track/2ItF9nFswLbhAaFiZ8sEst"
@@ -6198,7 +6216,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 159823,
       "name": "Por Mil Noches - En Vivo",
       "url": "https://open.spotify.com/track/0StSn0gYnxTv0YY6KvLaSB"
@@ -6953,6 +6971,24 @@
     },
     {
       "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
+    },
+    {
+      "album": {
         "name": "Secciones 2020: El Bomb\u00f3n / Llego Tu Mami: / No Me Ense\u00f1aste / Otro D\u00eda M\u00e1s Sin Verte / Regresa a Mi / Quien Como T\u00fa",
         "url": "https://open.spotify.com/album/1B6tiewTsyGxptzhcJ0A4Y"
       },
@@ -7334,7 +7370,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
@@ -8986,6 +9022,24 @@
       "duration_ms": 245845,
       "name": "Yo Quer\u00eda (Estadio V\u00e9lez)",
       "url": "https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo har\u00e9?",
+        "url": "https://open.spotify.com/album/39fVOE1zBxuX6JkOVEndGu"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137694,
+      "name": "\u00bfC\u00f3mo har\u00e9?",
+      "url": "https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l"
     },
     {
       "album": {

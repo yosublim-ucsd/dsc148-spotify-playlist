@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 230097,
+  "num_followers": 230195,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZrZTegAAAACxBd0SKVTLhmw8lZ6cUYUu",
   "tracks": [
+    {
+      "added_at": "2024-08-09 17:35:54",
+      "album": {
+        "name": "The Shadow Of Your Smile",
+        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Trio",
+          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
+        }
+      ],
+      "duration_ms": 232261,
+      "name": "The Shadow of Your Smile",
+      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
+    },
     {
       "added_at": "2024-08-09 17:35:54",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 236618,
       "name": "Voando (Nel Blu Dipinto Di Blu)",
       "url": "https://open.spotify.com/track/5eJ4kcwdET3HsQvwT5QSuX"
-    },
-    {
-      "added_at": "2024-08-09 17:35:54",
-      "album": {
-        "name": "The Shadow Of Your Smile",
-        "url": "https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Trio",
-          "url": "https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD"
-        }
-      ],
-      "duration_ms": 232261,
-      "name": "The Shadow of Your Smile",
-      "url": "https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73"
     },
     {
       "added_at": "2024-08-09 17:35:54",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-08-09 17:35:54",
       "album": {
-        "name": "Anos Dourados",
-        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
+        "name": "Falando de Amor",
+        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
       },
       "artists": [
         {
-          "name": "Luiz Lucas",
-          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
+          "name": "Rosa Collins",
+          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
         }
       ],
-      "duration_ms": 333251,
-      "name": "A Paz",
-      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
+      "duration_ms": 256522,
+      "name": "Falando de Amor",
+      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
     },
     {
       "added_at": "2024-08-09 17:35:54",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-08-09 17:35:54",
       "album": {
-        "name": "Falando de Amor",
-        "url": "https://open.spotify.com/album/4se4CC3WUJQfipHtTYg63y"
+        "name": "Anos Dourados",
+        "url": "https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx"
       },
       "artists": [
         {
-          "name": "Rosa Collins",
-          "url": "https://open.spotify.com/artist/3ODYl7kPOjcfxnnjHz2zLe"
+          "name": "Luiz Lucas",
+          "url": "https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p"
         }
       ],
-      "duration_ms": 256522,
-      "name": "Falando de Amor",
-      "url": "https://open.spotify.com/track/1JeTY5hPf1lTIVWPWkJXQe"
+      "duration_ms": 333251,
+      "name": "A Paz",
+      "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
     },
     {
       "added_at": "2024-08-09 17:35:54",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-09 17:35:54",
       "album": {
-        "name": "Bim Bom",
-        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
-      },
-      "artists": [
-        {
-          "name": "Ana Solari",
-          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
-        }
-      ],
-      "duration_ms": 101793,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
-    },
-    {
-      "added_at": "2024-08-09 17:35:54",
-      "album": {
         "name": "Selfie",
         "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 187905,
       "name": "Seres Incriveis",
       "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
+    },
+    {
+      "added_at": "2024-08-09 17:35:54",
+      "album": {
+        "name": "Bim Bom",
+        "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
+      },
+      "artists": [
+        {
+          "name": "Ana Solari",
+          "url": "https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP"
+        }
+      ],
+      "duration_ms": 101793,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
     },
     {
       "added_at": "2024-08-09 17:35:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-09 17:35:54",
       "album": {
-        "name": "Mano Que Zuera",
-        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
-        }
-      ],
-      "duration_ms": 270386,
-      "name": "Duro Na Queda",
-      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
-    },
-    {
-      "added_at": "2024-08-09 17:35:54",
-      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 172506,
       "name": "Samba E Amor",
       "url": "https://open.spotify.com/track/1e1TMmjzesb5AzbBLn3yrj"
+    },
+    {
+      "added_at": "2024-08-09 17:35:54",
+      "album": {
+        "name": "Mano Que Zuera",
+        "url": "https://open.spotify.com/album/0eSCFDaXV1lwmAL5t3SDAK"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        }
+      ],
+      "duration_ms": 270386,
+      "name": "Duro Na Queda",
+      "url": "https://open.spotify.com/track/3N6tmw4XSBACtxPlWcYB1l"
     },
     {
       "added_at": "2024-08-09 17:35:54",

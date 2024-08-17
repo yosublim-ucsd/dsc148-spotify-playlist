@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: This is a Campus Romance Series\(대충 캠퍼스로맨스임\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-212 songs - 12 hr 55 min
+213 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 | 2023-11-14 |  |
 | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/track/3lYGiEnZ9FI9q1iqTal147) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Love no more \(Romance 101 X XIA\)](https://open.spotify.com/album/3f6CUnM9OowXKXKTdhImCd) | 4:11 | 2024-08-10 |  |
 | [Love Revolution](https://open.spotify.com/track/6ABW0qGEjyIAnCzFIUe4Bh) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [MION](https://open.spotify.com/artist/3W6iVC49XXZ0yovMbYerho) | [Love Revolution \(Original Television Soundtrack\)](https://open.spotify.com/album/35mxSJHzpfoEBpiH1sFPpt) | 3:41 | 2024-08-10 |  |
+| [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [LOVE REVOLUTION \(Original Webcomic Soundtrack\) \- Fairytale](https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3) | 3:53 | 2024-08-12 |  |
 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 | 2023-02-22 |  |
 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 | 2024-03-08 |  |
 | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g) | 4:15 | 2023-12-10 |  |
@@ -161,7 +162,7 @@
 | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/track/67Ouhn0JV62GyxpLBDXfVZ) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Tear Thief \(The Forbidden Marriage X Kim Jong Kook\)](https://open.spotify.com/album/5uRHJ5gqXFB7q4Je5PlhLR) | 3:50 | 2022-05-09 | 2023-02-23 |
 | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/track/0pRpX95wMdfhszOe7QkVYx) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [TEARS \(WEBTOON 'Discovery of Love' X HWANG CHI YEUL\)](https://open.spotify.com/album/5aXUCMv5HgCScCSUKhxVPT) | 3:51 | 2022-07-04 | 2023-12-11 |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-14 | 2023-12-11 |
-| [Thank You](https://open.spotify.com/track/7wGyK1pItt5T0a3p3mZOOl) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Thank You \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4mzRhzxDdoNxMbFq9PRda2) | 4:29 | 2024-04-05 |  |
+| [Thank You](https://open.spotify.com/track/7wGyK1pItt5T0a3p3mZOOl) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Thank You \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4mzRhzxDdoNxMbFq9PRda2) | 4:29 | 2024-04-05 | 2024-08-17 |
 | [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 | 2022-06-24 |  |
 | [The day, you left](https://open.spotify.com/track/6XwYhpviRrXo0gcxE9whmC) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [The day, you left](https://open.spotify.com/album/7lvmg9mp90fdnTOSHQ0Bmi) | 3:35 | 2022-05-09 | 2023-12-11 |
 | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/track/73QDovgtjTsReFTX0BSIAg) | [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [The Extra \(One of a Kind Romance\)](https://open.spotify.com/album/4ZLiUNdoytyeJWlhovG3JG) | 2:55 | 2022-05-09 |  |

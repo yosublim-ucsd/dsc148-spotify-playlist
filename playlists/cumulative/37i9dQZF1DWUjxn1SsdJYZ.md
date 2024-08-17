@@ -4,7 +4,7 @@
 
 > No Cap AUS & NZ Rap\. Cover: Miss Kaninna
 
-879 songs - 1 day 16 hr 57 min
+880 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 | 2023-11-30 | 2024-03-01 |
 | [Back Then](https://open.spotify.com/track/5QNsqbcnu7Mrmzr9Dt5N2C) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Back Then](https://open.spotify.com/album/3crncbKSH0N4NZ6b5SloP6) | 2:44 | 2022-11-10 | 2022-12-09 |
 | [Back to Back](https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Back to Back](https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0) | 2:48 | 2024-03-07 |  |
+| [Backpack Pack](https://open.spotify.com/track/4VgqtMysI586cQms9j3IbU) | [Murda of Cal](https://open.spotify.com/artist/576qFF81V85DFproLlFpil), [S.O.G](https://open.spotify.com/artist/1hhPFVKD325Fc4nDac793j) | [Backpack Pack](https://open.spotify.com/album/1e4AlcMaPV5t4ES9MnNkMq) | 2:25 | 2024-08-15 |  |
 | [Bad Boy](https://open.spotify.com/track/0w2INg5RVukivGRp9QYnGC) | [Lawd Lance](https://open.spotify.com/artist/2PUgqVHa3xxbtHd8MRQCxb) | [Bad Boy](https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u) | 3:37 | 2022-06-02 | 2023-02-24 |
 | [Badmind](https://open.spotify.com/track/6ssOZjJ6Wknkb8lUCuhVjp) | [Babyface Mal](https://open.spotify.com/artist/6IcfiOE8lEUiDg5ZsvA5uN) | [Badmind](https://open.spotify.com/album/4nd8q7HZwmxtfKUmBAEvWu) | 2:46 | 2022-03-21 | 2022-05-27 |
 | [BANK OF MEDELLIN](https://open.spotify.com/track/2AIkuv0AyvzJbGAMZEBvqB) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [KWEEN](https://open.spotify.com/album/7c1TIASie4Vssx3aJRHDHb) | 2:01 | 2022-12-01 | 2022-12-05 |

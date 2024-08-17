@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-394 songs - 23 hr 48 min
+395 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 | 2022-12-02 | 2023-03-11 |
 | [Don't Want Your Love](https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0) | [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA), [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Don't Want Your Love](https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d) | 3:32 | 2022-04-15 |  |
 | [Dream](https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [A Good Day](https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW) | 3:31 | 2020-10-17 | 2023-02-18 |
-| [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 |  |
+| [Dreamer](https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5o1yAsAo4mvlgYptShBCow) | 3:01 | 2022-07-01 | 2024-08-17 |
 | [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 | 2022-07-01 | 2023-06-20 |
 | [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 | 2022-10-10 |
 | [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-07-01 | 2022-11-21 |
@@ -194,6 +194,7 @@
 | [Last Laugh](https://open.spotify.com/track/68AvSj8Ndds28An5ZZSdVy) | [Elise Davis](https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1) | [Cactus](https://open.spotify.com/album/3S34xL7JbyFmttLuPw2FrC) | 3:23 | 2020-10-17 | 2022-04-25 |
 | [Lately](https://open.spotify.com/track/2UPZsKorPS5xSr4BRhOxny) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Sis\. He wasn't the one](https://open.spotify.com/album/5YevC69TIurE8iNXuEH4U3) | 3:02 | 2021-10-08 | 2022-04-18 |
 | [Lay Here With Me](https://open.spotify.com/track/14EpFSZ9OftxDX4g5qVvVN) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Everywhere I'm Goin'](https://open.spotify.com/album/5FghaO27P3Zy5igsCbMAn9) | 2:59 | 2020-10-17 | 2022-04-21 |
+| [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 | 2024-08-16 |  |
 | [LEAN ON YOU](https://open.spotify.com/track/5hzHj6nuD9qKtTvwj8Mkol) | [Shébani](https://open.spotify.com/artist/1t8rTRUUPUItjj6vOTP8kc), [James Chatburn](https://open.spotify.com/artist/4sOcMLlr0hMwrLXScjAgoq) | [LEAN ON YOU](https://open.spotify.com/album/35iQHoh9Rs6l4ohEvCstjF) | 3:30 | 2022-06-24 |  |
 | [Learning To Live Without You](https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Learning To Live Without You](https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB) | 3:13 | 2021-10-29 | 2023-02-18 |
 | [Leave it on the Line](https://open.spotify.com/track/51afCpXsV1wwLb4d85usqW) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Leave it on the Line](https://open.spotify.com/album/7ch6yA06bjTlxenojx205d) | 3:52 | 2022-01-21 | 2022-07-29 |

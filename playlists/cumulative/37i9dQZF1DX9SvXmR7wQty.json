@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Avec pas d'casque",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Jay Sc\u00f8tt",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -2847,6 +2847,24 @@
     },
     {
       "album": {
+        "name": "Appel",
+        "url": "https://open.spotify.com/album/47XA0xqqt706pZSbdnMBZx"
+      },
+      "artists": [
+        {
+          "name": "Farfadet",
+          "url": "https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Appel",
+      "url": "https://open.spotify.com/track/2X6IZMbyXdaOIt76fnDouA"
+    },
+    {
+      "album": {
         "name": "Reine de papier",
         "url": "https://open.spotify.com/album/7tXOmWg1UOXPcYXzmPhTB4"
       },
@@ -4168,7 +4186,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162406,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/3H6npmJown5S3sDn3cbWDh"
@@ -11290,7 +11308,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171236,
       "name": "Dans ma t\u00eate",
       "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
@@ -11330,6 +11348,24 @@
       "duration_ms": 142811,
       "name": "Dans Mon Prime",
       "url": "https://open.spotify.com/track/0KfUo1t8ua38q9PNKEwRId"
+    },
+    {
+      "album": {
+        "name": "Dans mon sang",
+        "url": "https://open.spotify.com/album/3XTWYuUSlmVNAEpbte9wGY"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Lafrance",
+          "url": "https://open.spotify.com/artist/68zsBMMCbmXplV5pBArgwI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145233,
+      "name": "Dans mon sang",
+      "url": "https://open.spotify.com/track/1ph5JAU5YiAtZQuClSBVec"
     },
     {
       "album": {
@@ -11526,7 +11562,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192468,
       "name": "Darement",
       "url": "https://open.spotify.com/track/1u5Knq7qXW8A8tXoFe25xE"
@@ -14475,6 +14511,24 @@
     },
     {
       "album": {
+        "name": "Encore et encore",
+        "url": "https://open.spotify.com/album/4jk98bApx8okC9gkHtlxxG"
+      },
+      "artists": [
+        {
+          "name": "Noir Silence",
+          "url": "https://open.spotify.com/artist/4JNWNjB0AE0aLIuG5GNdiR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282992,
+      "name": "Encore et encore",
+      "url": "https://open.spotify.com/track/1K8aX0ATAwaEWiq0XC9VrS"
+    },
+    {
+      "album": {
         "name": "Encore l\u00e0",
         "url": "https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx"
       },
@@ -17110,7 +17164,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 176701,
       "name": "Freestyle BMF #1",
       "url": "https://open.spotify.com/track/3Jys0zVvXhlgf0MVAcj9ji"
@@ -17515,6 +17569,24 @@
     },
     {
       "album": {
+        "name": "Fuseaux horaires",
+        "url": "https://open.spotify.com/album/2gW0aKVov45nJ99HXLZ0gk"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169289,
+      "name": "Fuseaux horaires",
+      "url": "https://open.spotify.com/track/4WZA7Q73sR5m3BSUQAlgpB"
+    },
+    {
+      "album": {
         "name": "Un jour de plus au paradis",
         "url": "https://open.spotify.com/album/3rz0HsjWhOAom7JaSRziWd"
       },
@@ -17712,6 +17784,24 @@
       "duration_ms": 274386,
       "name": "Gaz au fond",
       "url": "https://open.spotify.com/track/3ahYEYoP0voboULlwJH8Fx"
+    },
+    {
+      "album": {
+        "name": "Gazon mouill\u00e9",
+        "url": "https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj"
+      },
+      "artists": [
+        {
+          "name": "Kinkead",
+          "url": "https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Gazon mouill\u00e9",
+      "url": "https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw"
     },
     {
       "album": {
@@ -20381,6 +20471,24 @@
     },
     {
       "album": {
+        "name": "BTDT",
+        "url": "https://open.spotify.com/album/6eWpV9tyWqUzpIHxPPNgIF"
+      },
+      "artists": [
+        {
+          "name": "Les Chiens De Ruelles",
+          "url": "https://open.spotify.com/artist/4cgHDMFVZHOSFUOKEPbXAG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Insolente",
+      "url": "https://open.spotify.com/track/1WpuopwHKPAb2dnOxLtjqP"
+    },
+    {
+      "album": {
         "name": "Insomnie",
         "url": "https://open.spotify.com/album/5qGeFK5yQOW0a28H8YnnVf"
       },
@@ -20708,7 +20816,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167563,
       "name": "J'ai l'impression",
       "url": "https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz"
@@ -21008,7 +21116,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182984,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/4jH2zP0nXyJl55ruDJpJyL"
@@ -22670,7 +22778,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145426,
       "name": "Jolie b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/5rsBs4jsJRkpNMziVn4xw0"
@@ -23243,6 +23351,28 @@
     },
     {
       "album": {
+        "name": "KETCHUP",
+        "url": "https://open.spotify.com/album/3h27FLfrETdCJiMfP9DwVg"
+      },
+      "artists": [
+        {
+          "name": "KingAlexBeats",
+          "url": "https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "KETCHUP",
+      "url": "https://open.spotify.com/track/6x1tSvkdnEQqLh1WsLHFkN"
+    },
+    {
+      "album": {
         "name": "Kicks",
         "url": "https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl"
       },
@@ -23316,7 +23446,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 141897,
       "name": "killa",
       "url": "https://open.spotify.com/track/6SHYeNSIkCXZy5m6pvFXkV"
@@ -27287,6 +27417,24 @@
     },
     {
       "album": {
+        "name": "Le temps fait bien les choses",
+        "url": "https://open.spotify.com/album/4ClswQtnkH4uj0nHS3jhrH"
+      },
+      "artists": [
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177729,
+      "name": "Le temps fait bien les choses",
+      "url": "https://open.spotify.com/track/0yytZtr5NI3vzM0KK3KEOM"
+    },
+    {
+      "album": {
         "name": "Nonante-Cinq La Suite (Deluxe)",
         "url": "https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64"
       },
@@ -29142,7 +29290,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180827,
       "name": "LORO PIANA",
       "url": "https://open.spotify.com/track/5CJmBOAgae1IAiWiyvtezR"
@@ -29598,6 +29746,24 @@
       "duration_ms": 221600,
       "name": "L\u00e9gendes",
       "url": "https://open.spotify.com/track/5lzAnUP1thIejAaEqDeN6O"
+    },
+    {
+      "album": {
+        "name": "L\u00e9o",
+        "url": "https://open.spotify.com/album/0q6xd6lq4FGP0w00BFHtag"
+      },
+      "artists": [
+        {
+          "name": "Alex Pic",
+          "url": "https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "L\u00e9o",
+      "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
     },
     {
       "album": {
@@ -32671,6 +32837,24 @@
     },
     {
       "album": {
+        "name": "Montagne magique",
+        "url": "https://open.spotify.com/album/4WYenSyrAWOWUh1oHhTM1M"
+      },
+      "artists": [
+        {
+          "name": "Renzo Rivolta",
+          "url": "https://open.spotify.com/artist/41i5fl8UQOdY5ZIJtYPh4O"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228888,
+      "name": "Montagne magique",
+      "url": "https://open.spotify.com/track/3n06T3fYyRx64GzXqjltwH"
+    },
+    {
+      "album": {
         "name": "Montr\u00e9al",
         "url": "https://open.spotify.com/album/2yTfJwramR87GXyGfbLYB1"
       },
@@ -33106,7 +33290,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207877,
       "name": "M\u00e2cher tes bottes",
       "url": "https://open.spotify.com/track/6m10tqV7JardUKNPItH94C"
@@ -35504,7 +35688,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
@@ -37826,7 +38010,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208645,
       "name": "Play",
       "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
@@ -40368,7 +40552,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161377,
       "name": "Rayol",
       "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
@@ -44137,6 +44321,24 @@
     },
     {
       "album": {
+        "name": "Sobre / Une main lave l'autre",
+        "url": "https://open.spotify.com/album/44fuePoU9if0aWrnIzY58A"
+      },
+      "artists": [
+        {
+          "name": "zouz",
+          "url": "https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "Sobre",
+      "url": "https://open.spotify.com/track/0aRsawP9pAtoSVkhDa5mH2"
+    },
+    {
+      "album": {
         "name": "Ultra Dramatic Kid",
         "url": "https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD"
       },
@@ -44272,7 +44474,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 135593,
       "name": "Solide",
       "url": "https://open.spotify.com/track/19WSNgI0RNwB8zcXaomnpF"
@@ -45975,6 +46177,24 @@
     },
     {
       "album": {
+        "name": "T'\u00e9tais o\u00f9?",
+        "url": "https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165490,
+      "name": "T'\u00e9tais o\u00f9?",
+      "url": "https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq"
+    },
+    {
+      "album": {
         "name": "T.I.A - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B"
       },
@@ -46292,6 +46512,24 @@
       "duration_ms": 209903,
       "name": "Tant \u00e9trange",
       "url": "https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm"
+    },
+    {
+      "album": {
+        "name": "Tard dans la nuit",
+        "url": "https://open.spotify.com/album/7jyeKRMIuT2413hbziPZur"
+      },
+      "artists": [
+        {
+          "name": "Mignon Bandit",
+          "url": "https://open.spotify.com/artist/4iTJIo5yTKFlkHulNB6zUV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127941,
+      "name": "Tard dans la nuit",
+      "url": "https://open.spotify.com/track/7CgZYRP3lA6S28F3plJ2bf"
     },
     {
       "album": {
@@ -49342,6 +49580,24 @@
       "duration_ms": 203160,
       "name": "un million",
       "url": "https://open.spotify.com/track/3l2sADKbSEpg1F72iiZV6j"
+    },
+    {
+      "album": {
+        "name": "Un million de raisons",
+        "url": "https://open.spotify.com/album/1WExjIbjlD5vaw7A0yYp1o"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180717,
+      "name": "Un million de raisons",
+      "url": "https://open.spotify.com/track/16Mttc86ciKgNcQWPw7Kde"
     },
     {
       "album": {

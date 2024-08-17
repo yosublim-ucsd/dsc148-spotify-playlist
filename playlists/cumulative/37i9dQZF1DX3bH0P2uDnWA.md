@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-386 songs - 21 hr 51 min
+387 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Mr Sunshine](https://open.spotify.com/track/0veV0DEgDnpup5VRFF7O8n) | [Emma Lea](https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ), [Tom ESC](https://open.spotify.com/artist/5vGFSHIJP1qybpvmu06F2i) | [Mr Sunshine](https://open.spotify.com/album/3RkKhme9VyOraK1D5cLipg) | 2:29 | 2023-07-14 |  |
 | [Mr\. January\-King of the Swing](https://open.spotify.com/track/37zrAR3yngfTZeWyqMLR1B) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Mr\. January \- King of the Swing](https://open.spotify.com/album/66JjdbtD1kZuyAwBCXYrp4) | 3:05 | 2024-01-19 |  |
 | [Mr\. Jones \- Balduin Remix](https://open.spotify.com/track/322Zz1jDLcdiGT853C9cJ0) | [Alice Francis](https://open.spotify.com/artist/6RcdUNNARXB9coQqgHyqFA), [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv) | [Mr\. Jones \(Balduin Remix\)](https://open.spotify.com/album/3vmyVhZh4Ln48In8nOxJBS) | 3:02 | 2023-11-24 |  |
-| [Mr\. Perfect](https://open.spotify.com/track/1wk3h5pPRtjQp4mV0ON5pQ) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Mr\. Perfect](https://open.spotify.com/album/5cHVYiR6UCRfPHATwAHnjD) | 3:00 | 2024-06-28 |  |
+| [Mr\. Perfect](https://open.spotify.com/track/1wk3h5pPRtjQp4mV0ON5pQ) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Mr\. Perfect](https://open.spotify.com/album/5cHVYiR6UCRfPHATwAHnjD) | 3:00 | 2024-06-28 | 2024-08-17 |
 | [Murder in the Moonlight](https://open.spotify.com/track/7103gYEJR2fAKA6W5aUosb) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Sam Berry](https://open.spotify.com/artist/2vXekN8TR5Y2M6WHIjSM5i) | [Prohibition](https://open.spotify.com/album/6zxN2ZwKEIVxzKlp0m4m2V) | 3:47 | 2022-10-12 | 2023-11-07 |
 | [Music Has the Power \- Radio Edit](https://open.spotify.com/track/5NwWGVjLvbxJZrJLhcRqm1) | [Deladap](https://open.spotify.com/artist/1KIo4b95g1KHA2AQz7fwa2), [Melinda Stoika](https://open.spotify.com/artist/68TSKE26i8EDiY2UkCiRhE) | [Music Has the Power \(Radio Edit\)](https://open.spotify.com/album/5RpBtAjrWqTOKPoHbqWC9z) | 3:26 | 2020-10-30 | 2022-07-29 |
 | [My 20s Woman](https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [My 20s Woman](https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A) | 3:06 | 2020-10-30 | 2023-03-11 |
@@ -237,6 +237,7 @@
 | [No Swinggity](https://open.spotify.com/track/6WjIuiDbLuCvEQPiKBog8m) | [Minimatic](https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV) | [No Swinggity](https://open.spotify.com/album/4UpqjUupRuSTu27F4YZoio) | 3:31 | 2020-10-30 | 2023-03-11 |
 | [Old House](https://open.spotify.com/track/0YNgRNSE2bT5TbpBcjivVh) | [Dirty Honkers](https://open.spotify.com/artist/2WbG0sHo7zvYLCFPFSAXXJ) | [Just a Taste EP](https://open.spotify.com/album/3S0VBNvU3Du9MurFllTYur) | 4:25 | 2022-10-12 | 2023-11-07 |
 | [One for the Road](https://open.spotify.com/track/5YotzD692xl8wcqMi9pj8X) | [Atom Smith](https://open.spotify.com/artist/6ExlnA1FV2yvFCVlurHsc2), [Miss Emmma](https://open.spotify.com/artist/7rnokEFlig5Crhc4GEViUR), [Elliot Deutsch](https://open.spotify.com/artist/22JILoTTk3Xfdc2wNwq6Xf) | [One for the Road](https://open.spotify.com/album/6opglzlR3Z9OjX1y0WAfF6) | 3:58 | 2021-05-21 | 2023-01-12 |
+| [Opposites Attract](https://open.spotify.com/track/4CiRAe324clbMmEAyh1pie) | [Daisy La Fontaine](https://open.spotify.com/artist/7lnUP3Qdlp565wzuzkWqag) | [Opposites Attract](https://open.spotify.com/album/3p1yemgNUxMzxIkNuNxy4S) | 2:37 | 2024-08-16 |  |
 | [Otto Croy](https://open.spotify.com/track/2t9zpAfTNMZbUrDvYos1us) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/77OHZo2Dvd4fPVvflGlZKI) | 3:49 | 2022-11-07 | 2024-04-19 |
 | [Otto Croy](https://open.spotify.com/track/5kAbhPC9z3sJEfQQxaoMfu) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/5GOnP5QYwMOwKee44Fqipl) | 3:49 | 2020-10-30 |  |
 | [Pack Up The Louie \- Caravan Palace Remix](https://open.spotify.com/track/3K6KxAXRUmvP5qYG5oCpwt) | [Caro Emerald](https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm) | [The Shocking Miss Emerald The Remixes](https://open.spotify.com/album/1NdJNIjhj8n5REnjPHvlbk) | 3:27 | 2020-10-30 | 2022-07-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,598 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,755 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 55 | [Oh Fortuna \- Carmina Burana](https://open.spotify.com/track/1EvtCODhDxZAg8xqe5cqev) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [SMVGGLERS](https://open.spotify.com/artist/05TBQxRfomIdi2xJWLgQoM), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Oh Fortuna](https://open.spotify.com/album/65JHmOAmfng9D1jKIcwza0) | 2:50 |
 | 56 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |
 | 57 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
-| 58 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 |
-| 59 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
+| 58 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
+| 59 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 |
 | 60 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 61 | [Do Whatcha Say](https://open.spotify.com/track/5svlaUpNdfC4P4wO1snObR) | [Mark With a K](https://open.spotify.com/artist/4OPaH4YIqua9DUnI7t0fOQ) | [Do Whatcha Say](https://open.spotify.com/album/4HX4ooRkEjEbaRDvx0beVq) | 2:44 |
 | 62 | [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 |

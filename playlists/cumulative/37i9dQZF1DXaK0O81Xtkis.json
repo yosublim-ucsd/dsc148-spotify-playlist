@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Nina Nesbitt",
+  "description": "make it pop! cover: Moody Joody",
   "name": "soda",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160666,
       "name": "16 dogs",
       "url": "https://open.spotify.com/track/6evha6l77b3R2dxTKRVXjh"
@@ -418,7 +418,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203989,
       "name": "A Tear in Space (Airlock)",
       "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
@@ -1579,6 +1579,24 @@
     },
     {
       "album": {
+        "name": "Be Like Her",
+        "url": "https://open.spotify.com/album/4LCv8vqQsAVZpmHWGrPyyY"
+      },
+      "artists": [
+        {
+          "name": "Cyn",
+          "url": "https://open.spotify.com/artist/0lPhSdyfILTWuDUWJRyAk7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166265,
+      "name": "Be Like Her",
+      "url": "https://open.spotify.com/track/5rK3OJKGpDz5cy0JT2XYSy"
+    },
+    {
+      "album": {
         "name": "Be With Me",
         "url": "https://open.spotify.com/album/2mI0gv3S6ANVDmEbaMf5Wa"
       },
@@ -1921,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "blankets",
+        "url": "https://open.spotify.com/album/0IPxrFi7HScWklnOCqHhUl"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "blankets",
+      "url": "https://open.spotify.com/track/3GhoRc4xmryotoLnE6XM4u"
+    },
+    {
+      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk"
       },
@@ -2044,7 +2080,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 226306,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/0aYf2v4kpJkx4KHl49gwY0"
@@ -2134,7 +2170,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 137186,
       "name": "Bottle Go Down",
       "url": "https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX"
@@ -2433,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "burn",
+        "url": "https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "burn",
+      "url": "https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu"
+    },
+    {
+      "album": {
         "name": "Burner Phone",
         "url": "https://open.spotify.com/album/5lujInS05JMTTiinhnBU2B"
       },
@@ -2592,6 +2650,24 @@
       "duration_ms": 144192,
       "name": "Call Me a Quitter",
       "url": "https://open.spotify.com/track/5l51zmTjvBBCMB1oPtW800"
+    },
+    {
+      "album": {
+        "name": "Call Me When You Get This",
+        "url": "https://open.spotify.com/album/2m5r8reYRsjFlX7aF1re4Z"
+      },
+      "artists": [
+        {
+          "name": "Goldmyth",
+          "url": "https://open.spotify.com/artist/56SWqcV7Loc9Ec2TUynAnz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180978,
+      "name": "Call Me When You Get This",
+      "url": "https://open.spotify.com/track/2tdBGmOKklEYHK2GzFkop5"
     },
     {
       "album": {
@@ -3386,7 +3462,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217778,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH"
@@ -3516,7 +3592,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217177,
       "name": "COMING WITH GUNS",
       "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
@@ -3786,7 +3862,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 154360,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/5E4dFNH0sBnSnIybnKui0S"
@@ -3992,7 +4068,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
@@ -4364,7 +4440,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194680,
       "name": "Deep Cut",
       "url": "https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI"
@@ -5825,6 +5901,24 @@
     },
     {
       "album": {
+        "name": "Flicker of Light",
+        "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199085,
+      "name": "Flicker of Light",
+      "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
+    },
+    {
+      "album": {
         "name": "Fling for the Summer",
         "url": "https://open.spotify.com/album/1R3ckMl7RHuEhYEPFACpUM"
       },
@@ -6799,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4f3w41FgqHkRBo9RVQ4qYa"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/3DQ3Ksr9VNDRi4mJlaS87t"
+    },
+    {
+      "album": {
         "name": "Greenlight",
         "url": "https://open.spotify.com/album/1KmqDc5fsvkcXDvMY829Iy"
       },
@@ -7452,7 +7564,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 128759,
       "name": "HEAVEN AGAIN",
       "url": "https://open.spotify.com/track/5Bssz1HPKPFdJx75ylcfq1"
@@ -7532,6 +7644,24 @@
       "duration_ms": 163908,
       "name": "Help (feat. Pheelz)",
       "url": "https://open.spotify.com/track/288aAe5WOx05x67lDxvuTE"
+    },
+    {
+      "album": {
+        "name": "Heaven is a place, 2024",
+        "url": "https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7"
+      },
+      "artists": [
+        {
+          "name": "The Wldlfe",
+          "url": "https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163677,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4JU8kIrU6RAOVMuZ9Nxae4"
     },
     {
       "album": {
@@ -8228,7 +8358,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206833,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/59hOaDEcmGb1ILfHJG5zOw"
@@ -9664,7 +9794,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181266,
       "name": "KANSAS",
       "url": "https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6"
@@ -11452,7 +11582,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 212928,
       "name": "Melt",
       "url": "https://open.spotify.com/track/65OuiV65csFjciXDCRmWir"
@@ -13343,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0MjSx47z9CnwBusDxYbou9"
+      },
+      "artists": [
+        {
+          "name": "flor",
+          "url": "https://open.spotify.com/artist/0szWPxzzE8DVEfXFRCLBUb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148296,
+      "name": "Painted",
+      "url": "https://open.spotify.com/track/08bGyiwzKDkz6m0Muy92lg"
+    },
+    {
+      "album": {
         "name": "Palm Springs for the Weekend",
         "url": "https://open.spotify.com/album/136BiEvn24KBjdb2mEPRP0"
       },
@@ -13610,7 +13758,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 155160,
       "name": "Persona",
       "url": "https://open.spotify.com/track/73b1rZFO0vJSWZwTYhmCS4"
@@ -13754,7 +13902,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222059,
       "name": "Plant the Garden",
       "url": "https://open.spotify.com/track/774twEZBSapKhSUBIkbgaN"
@@ -15644,7 +15792,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174246,
       "name": "something bout april",
       "url": "https://open.spotify.com/track/5PFkfg2mqygvk3lxFOM8K1"
@@ -16436,7 +16584,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 163151,
       "name": "Summer Secret",
       "url": "https://open.spotify.com/track/1yfGTVORIA88GIrlFMU0NP"
@@ -17966,7 +18114,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206822,
       "name": "tomorrow [ANGLE OF ETERNITY]",
       "url": "https://open.spotify.com/track/3FPMhDvr63opoivWLiabxn"
@@ -18620,7 +18768,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 148326,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/7q32daOSf12k8WynvXBcyh"
@@ -19966,6 +20114,24 @@
       "duration_ms": 164000,
       "name": "YOU DON'T LIKE ME",
       "url": "https://open.spotify.com/track/5mQKjKTFhbujc7wdNvRzhQ"
+    },
+    {
+      "album": {
+        "name": "you fake your british accent",
+        "url": "https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188562,
+      "name": "you fake your british accent",
+      "url": "https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR"
     },
     {
       "album": {

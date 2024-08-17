@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Basics",
+        "url": "https://open.spotify.com/album/1htjttdNZQCvUYoc7oStbf"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Basics",
+      "url": "https://open.spotify.com/track/07tIqGwLyg2fVvypNhNML3"
+    },
+    {
+      "album": {
         "name": "jetsvm",
         "url": "https://open.spotify.com/album/6ywL1IfJGesqLYEZDjFFw9"
       },
@@ -4446,7 +4464,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 118847,
       "name": "cRASH oUT",
       "url": "https://open.spotify.com/track/31ePr2DwgqNDLTNGaGCCEZ"
@@ -8640,7 +8658,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 209454,
       "name": "high kick",
       "url": "https://open.spotify.com/track/4CfRF1iIZXnXe0gi0RSgnU"
@@ -9210,7 +9228,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 121518,
       "name": "i did",
       "url": "https://open.spotify.com/track/20uMpJeKWVssioB7yyXQyC"
@@ -9520,6 +9538,28 @@
       "duration_ms": 216046,
       "name": "Imported Couches",
       "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
+    },
+    {
+      "album": {
+        "name": "In It 4 Life",
+        "url": "https://open.spotify.com/album/5cmziRX0PyXyuJOnLpsK5P"
+      },
+      "artists": [
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Bobby Debarge",
+          "url": "https://open.spotify.com/artist/7evqTqZC93QUknjM2QW2gw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202410,
+      "name": "In It 4 Life",
+      "url": "https://open.spotify.com/track/3RyRxEIeXPwYIYUjI0Y9M7"
     },
     {
       "album": {
@@ -11312,6 +11352,36 @@
       "duration_ms": 150053,
       "name": "Louis Baggage (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
+    },
+    {
+      "album": {
+        "name": "Love Is Blu",
+        "url": "https://open.spotify.com/album/3GqfqdMsUvNofIab6fSbim"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        },
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258674,
+      "name": "Love Is Blu",
+      "url": "https://open.spotify.com/track/4cpd7sqW4Q7yypR7XWu004"
     },
     {
       "album": {
@@ -18576,7 +18646,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 221025,
       "name": "TimeZone",
       "url": "https://open.spotify.com/track/0zqisA5WQCsLx1iqR4ZZg0"
@@ -18660,6 +18730,28 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "album": {
+        "name": "Together Forever",
+        "url": "https://open.spotify.com/album/0DpxvSIe0g2ccOTo6Poiu0"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181910,
+      "name": "Together Forever (Big Sean & The Alchemist)",
+      "url": "https://open.spotify.com/track/38W7Dc1FqHiYgqWpoxrBd1"
     },
     {
       "album": {

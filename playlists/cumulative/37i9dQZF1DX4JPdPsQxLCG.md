@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-460 songs - 1 day 5 hr 26 min
+461 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 | 2022-09-10 | 2024-04-19 |
 | [California Dreamin'](https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes And Ears](https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB) | 2:37 | 2022-09-10 | 2022-09-15 |
 | [California Stars](https://open.spotify.com/track/38paDDziQ57k1f4VfKTeGk) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue](https://open.spotify.com/album/0yTmT1i6yHb5EVyJOmIwGw) | 4:58 | 2022-09-10 | 2022-09-15 |
-| [CALL ME BACK !](https://open.spotify.com/track/09qHcxlOC3GxBagxwUuP2P) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [CALL ME BACK !](https://open.spotify.com/album/43c0QKjFYlOebt7850XJKt) | 2:38 | 2024-06-21 |  |
+| [CALL ME BACK !](https://open.spotify.com/track/09qHcxlOC3GxBagxwUuP2P) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [CALL ME BACK !](https://open.spotify.com/album/43c0QKjFYlOebt7850XJKt) | 2:38 | 2024-06-21 | 2024-08-17 |
 | [Canadian Summer](https://open.spotify.com/track/5pwu3nQkMm0Ne4CpxBgHFp) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Canadian Summer](https://open.spotify.com/album/6b6xjfc3o91BfZaylRA9dS) | 3:24 | 2022-09-10 | 2022-09-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 | 2024-04-19 |  |
 | [Carefree Highway](https://open.spotify.com/track/59EupkPF0AA5nu0qDo5FlK) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:42 | 2023-10-06 | 2023-10-14 |
@@ -294,6 +294,7 @@
 | [Poor Ol' Broken Hearted Me](https://open.spotify.com/track/5tSLSixFTTLmiDmU3jlsuk) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Den of Thieves](https://open.spotify.com/album/43B4a3MCUaoQ5kbYGD6IGF) | 4:18 | 2022-05-02 | 2022-11-13 |
 | [Portland, Maine](https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Hard Settle, Ain't Troubled](https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR) | 3:23 | 2022-09-10 | 2022-09-15 |
 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 | 2024-04-19 | 2024-07-19 |
+| [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-16 |  |
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 |  |
 | [Push](https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 3:50 | 2022-05-02 | 2022-07-28 |
 | [Push + Pull](https://open.spotify.com/track/2mtydMx5aKuBk22E9a8cUQ) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Touch](https://open.spotify.com/album/5W33XMFTkmUBeY9rIGlSKc) | 2:51 | 2022-05-02 | 2022-06-13 |

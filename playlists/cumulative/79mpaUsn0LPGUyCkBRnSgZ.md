@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-724 songs - 1 day 23 hr 30 min
+727 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Future Nostalgia](https://open.spotify.com/track/3mC8VlVBwdVxCTq4cYZr64) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:04 | 2023-01-29 | 2024-03-15 |
 | [Gelid Ascent](https://open.spotify.com/track/1be49tNalB6UhKCfhpCV0B) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Paralytic Stalks](https://open.spotify.com/album/6nWmjBhBCijSziLSz10FyL) | 4:09 | 2023-06-03 |  |
 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 | 2024-03-17 | 2024-03-20 |
+| [Get Back](https://open.spotify.com/track/5HvB1BWxjT7Mc5VVmJXyhU) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:12 | 2024-08-16 |  |
 | [GET OFF UR PHONE](https://open.spotify.com/track/4Y0dZtNmCOjaj5FaU3RQaY) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Isa Reyes](https://open.spotify.com/artist/4TByvCGrRIFKUl3rMQKQa1) | [HEATWAVE](https://open.spotify.com/album/0H2zjZFLXSm5L2mNXUnC26) | 3:16 | 2024-06-11 | 2024-06-12 |
 | [Get Old Forever](https://open.spotify.com/track/4jCOQPjIYVMmT06kDWoJoj) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [We Cool?](https://open.spotify.com/album/50bg2f6DaWI3gmsMzZ30mV) | 3:19 | 2023-01-03 | 2024-03-27 |
 | [Getting Older](https://open.spotify.com/track/4HOryCnbme0zBnF8LWij3f) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:04 | 2023-01-15 | 2023-06-27 |
@@ -265,6 +266,7 @@
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2023-11-22 | 2024-04-10 |
 | [Gostar do Mundo](https://open.spotify.com/track/4JFbDXnpgNLxX83jJytV15) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/6INpt0l0lIDYZKAKO8vIC5) | 2:21 | 2024-07-25 |  |
 | [Great No One](https://open.spotify.com/track/4c03SdScyZkFELVKv70fna) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Future Me Hates Me](https://open.spotify.com/album/3tEbzW0ERmSIPNVekmeYOl) | 3:22 | 2022-12-09 | 2024-04-09 |
+| [Growing Story](https://open.spotify.com/track/7b3QdP0oPZyUaQrtRjsqDj) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:32 | 2024-08-16 |  |
 | [Habitat](https://open.spotify.com/track/7cv8pIeOu1pkwCXW9D4Oef) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [11:11](https://open.spotify.com/album/6sOmBkyGWJpzR04C7U7BZE) | 6:55 | 2024-03-31 |  |
 | [Hail Mary](https://open.spotify.com/track/377M5cHQ9COyB8i9t3Hval) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 2:49 | 2024-01-17 |  |
 | [Halfway Home](https://open.spotify.com/track/7J7PHMvf2i8ENxS4IS9jgl) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Dear Science](https://open.spotify.com/album/5c310xauiTULqfhkqvZdBa) | 5:31 | 2023-12-16 |  |
@@ -421,7 +423,7 @@
 | [Mother \- Remastered 2010](https://open.spotify.com/track/43Ud1IajwtBvw6ONj6aK2Q) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Plastic Ono Band](https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K) | 5:36 | 2023-08-17 | 2023-12-14 |
 | [Movement 1](https://open.spotify.com/track/0QkT7SfXL9eR6tuQ7xb9ya) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 6:24 | 2024-01-12 |  |
 | [My Friend Goo](https://open.spotify.com/track/3BbPWMc572VSVDC7okGwJx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 2:18 | 2024-01-17 |  |
-| [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 | 2024-08-05 |  |
+| [My Garage \(with Zac Brown\)](https://open.spotify.com/track/0L9aSYUIDijRCT1yzsKAsr) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:36 | 2024-08-05 | 2024-08-17 |
 | [My Golden Years](https://open.spotify.com/track/0BikNVR79txZhmczhZE68l) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 3:13 | 2024-05-28 |  |
 | [My, What A Strange Day With A Swede](https://open.spotify.com/track/11R34yTJbfLMltkkDxYzsH) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [If He Is Protecting Our Nation, Then Who Will Protect Big Oil, Our Children?](https://open.spotify.com/album/2Yi1vhHk6Fe52XLRUuw5b6) | 4:11 | 2023-06-03 |  |
 | [Myrrhman](https://open.spotify.com/track/6MuYpktGeHQXZHHko0Tmvl) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/3NEa40lY9rNpSIALSIKn79) | 5:32 | 2024-03-26 |  |
@@ -478,6 +480,7 @@
 | [Plantasia](https://open.spotify.com/track/2XV5CUyw7gPVi18d718D4f) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Mother Earth's Plantasia](https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv) | 3:21 | 2022-04-29 | 2023-07-29 |
 | [Plastic 100°C](https://open.spotify.com/track/0ah6qyhi2jlBP6D7JLxZrt) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 5:16 | 2022-05-19 |  |
 | [Pleasant Street Bossa](https://open.spotify.com/track/6qtkkHYgd5HcQepVTksKQp) | [Falling](https://open.spotify.com/artist/0o7xj8ZxvJJqUTgodQa9nW) | [Out of Sight](https://open.spotify.com/album/6SmxgbgTOJJfi7rfXE4vOy) | 1:10 | 2024-01-18 |  |
+| [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 | 2024-08-16 |  |
 | [Poem \(1\)](https://open.spotify.com/track/0GWFbxN3SyghTvvFu84rTW) | [Bruno Pernadas](https://open.spotify.com/artist/5LEK1kaklDfReP092sVvGd) | [Those Who Throw Objects at the Crocodiles Will Be Asked to Retrieve Them](https://open.spotify.com/album/2NYnAb4TkXGHrY8wZ9uZwT) | 0:27 | 2024-03-17 | 2024-03-25 |
 | [Politik](https://open.spotify.com/track/0u35Dpz37TY2M2j20RUdMf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:18 | 2024-01-08 |  |
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2024-02-14 |  |

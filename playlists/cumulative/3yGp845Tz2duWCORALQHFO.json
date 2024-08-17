@@ -1979,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Catch Fire",
+        "url": "https://open.spotify.com/album/7iEMsUTpOGRTwKt4eDQSBl"
+      },
+      "artists": [
+        {
+          "name": "Goodknight.",
+          "url": "https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Catch Fire",
+      "url": "https://open.spotify.com/track/0dtbHPqAMdOQoJGKayWnq1"
+    },
+    {
+      "album": {
         "name": "Chase It (Mmm Da Da Da)",
         "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
       },
@@ -2602,7 +2620,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 212571,
       "name": "Damage Per Second",
       "url": "https://open.spotify.com/track/2APu2zo0Q7p6aqEhT2yuSw"
@@ -3497,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Electric Night",
+        "url": "https://open.spotify.com/album/3nqxpyRGFMPBFvXFQwLL7g"
+      },
+      "artists": [
+        {
+          "name": "AFSHINAM",
+          "url": "https://open.spotify.com/artist/15NZTkIsx6XlINSHeNfJO9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "Electric Night",
+      "url": "https://open.spotify.com/track/7EAbDUdaBVEwKRJtobh8Fx"
+    },
+    {
+      "album": {
         "name": "Ella Elle L'a",
         "url": "https://open.spotify.com/album/1LajtYUpqZrhAsnH5KwZgM"
       },
@@ -3702,6 +3738,24 @@
       "duration_ms": 205440,
       "name": "Every Breath",
       "url": "https://open.spotify.com/track/6mTWTcuOnCGktsCXeCEEjK"
+    },
+    {
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/4w7cwpT6iTjJkd5gEeujkk"
+      },
+      "artists": [
+        {
+          "name": "Deetox",
+          "url": "https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2uZM3ukvsblXJU8cp3WwPu"
     },
     {
       "album": {
@@ -4796,6 +4850,24 @@
       "duration_ms": 176250,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/5w46J4OWD4CLjR7spKEPa4"
+    },
+    {
+      "album": {
+        "name": "Manual Summer Sampler 2024",
+        "url": "https://open.spotify.com/album/4LT4IIYMDFyoeRuFNBITSV"
+      },
+      "artists": [
+        {
+          "name": "Waxman (CA)",
+          "url": "https://open.spotify.com/artist/5ahprQyTBdUxt22Usf3OZK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "Get What You Want",
+      "url": "https://open.spotify.com/track/2Eq7GMh36cAl1f8QbzzQQX"
     },
     {
       "album": {
@@ -9253,6 +9325,24 @@
     },
     {
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2R1VhIIQyKpX8ieXxvx8Ox"
+      },
+      "artists": [
+        {
+          "name": "Wonbeat & Purpose",
+          "url": "https://open.spotify.com/artist/56vtgvhkyS8BNB2RXoskfb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7eEBF6miPhzP8Ip8ebfpZf"
+    },
+    {
+      "album": {
         "name": "My Melody",
         "url": "https://open.spotify.com/album/2Adc3IUdjn2mmkAOFAIHC8"
       },
@@ -9290,6 +9380,24 @@
       "duration_ms": 230322,
       "name": "Mythology",
       "url": "https://open.spotify.com/track/4KEw45Ne9fQu7Han4J6DSP"
+    },
+    {
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/31dhqiBHUWEYzkiD8Y5D4s"
+      },
+      "artists": [
+        {
+          "name": "Bassium",
+          "url": "https://open.spotify.com/artist/2W3Nv6Ej8jREhbxiTKK0lc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165678,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/3ycYMroQB6wIrWyo2frUog"
     },
     {
       "album": {
@@ -9391,6 +9499,28 @@
     },
     {
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6owIa7TTUMLB5zpDOnkWH2"
+      },
+      "artists": [
+        {
+          "name": "Triple Soil",
+          "url": "https://open.spotify.com/artist/6PSXEw51YWgAoqX4ChW4IH"
+        },
+        {
+          "name": "Eliz",
+          "url": "https://open.spotify.com/artist/2MwIt25j8VkeQGq4ij95Zr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/4wRXYj5zR0zR35JyAoVYhJ"
+    },
+    {
+      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/596QDlYgrp1C3l1NzSBW8A"
       },
@@ -9450,6 +9580,36 @@
       "duration_ms": 190344,
       "name": "NO FLEX",
       "url": "https://open.spotify.com/track/5jtuallvZreOdY3EaKed9k"
+    },
+    {
+      "album": {
+        "name": "No Heroes - Refuzion Remix",
+        "url": "https://open.spotify.com/album/757QxJK1pW3IhbxU628Uc4"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        },
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "No Heroes - Refuzion Remix",
+      "url": "https://open.spotify.com/track/4ilqjEEO2jt98QYTafslYj"
     },
     {
       "album": {
@@ -12098,7 +12258,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 133209,
       "name": "She Goes - OKAN Remix Radio Edit",
       "url": "https://open.spotify.com/track/1aXjL2VvsJkYUxI7f37G4r"
@@ -12242,7 +12402,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 299875,
       "name": "SHUTTERS",
       "url": "https://open.spotify.com/track/37sCaLdqkcqtuBArBcgg3f"
@@ -14081,6 +14241,24 @@
     },
     {
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4o3r3qELq1RX5Tz3g1FFoy"
+      },
+      "artists": [
+        {
+          "name": "Vito V",
+          "url": "https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173192,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/6MTvO2JpANHrxwEQe8xnNW"
+    },
+    {
+      "album": {
         "name": "Thousand Sides",
         "url": "https://open.spotify.com/album/4rK2goOC4f0FkcbzeW7sD8"
       },
@@ -14218,6 +14396,24 @@
       "duration_ms": 199354,
       "name": "Tides (feat. Bajka)",
       "url": "https://open.spotify.com/track/28bko2C8s1cI3oOvXag2gZ"
+    },
+    {
+      "album": {
+        "name": "Stars Collide",
+        "url": "https://open.spotify.com/album/5uaYv0X3U2HDpsPhQYZp6U"
+      },
+      "artists": [
+        {
+          "name": "Milo Van Houten",
+          "url": "https://open.spotify.com/artist/5Rj61AYufd8k1XOxaBCK0N"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252247,
+      "name": "Tides Will Turn",
+      "url": "https://open.spotify.com/track/31BdRr5k0de1M5yR8FaQow"
     },
     {
       "album": {

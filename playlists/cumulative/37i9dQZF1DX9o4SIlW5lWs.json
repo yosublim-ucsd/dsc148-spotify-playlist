@@ -520,7 +520,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 253738,
       "name": "Amiga Mia",
       "url": "https://open.spotify.com/track/4LtJw5rC6JW4977Eec579F"
@@ -614,6 +614,50 @@
       "duration_ms": 260056,
       "name": "Amor y Deudas",
       "url": "https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL"
+    },
+    {
+      "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171502,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
+    },
+    {
+      "album": {
+        "name": "Anoche La Perd\u00ed",
+        "url": "https://open.spotify.com/album/3daX2Z6krmShXdXPzApMCU"
+      },
+      "artists": [
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        },
+        {
+          "name": "Simplemente El \u00c1ngel",
+          "url": "https://open.spotify.com/artist/4crpkDgxnANIqV3V7gOq4g"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Anoche La Perd\u00ed",
+      "url": "https://open.spotify.com/track/6IW4czFoRns3q8uYzh5Hq7"
     },
     {
       "album": {
@@ -2018,7 +2062,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244000,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1ad3jaETpG3XnhWAZe86Yv"
@@ -5035,6 +5079,28 @@
     },
     {
       "album": {
+        "name": "Cumbia Viva Sesion #13 Walter Encina",
+        "url": "https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Viva",
+          "url": "https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS"
+        },
+        {
+          "name": "Walter Encina",
+          "url": "https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87640,
+      "name": "No me di cuenta",
+      "url": "https://open.spotify.com/track/3fvwqDyUm3A4mDQ1Q2SoZn"
+    },
+    {
+      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -6570,7 +6636,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 239418,
       "name": "Si Te Agarran Las Ganas",
       "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
@@ -7256,7 +7322,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 235989,
       "name": "Te Quiero Contar",
       "url": "https://open.spotify.com/track/3oKWAjE5Tg7Ljt0XeFEWdc"
@@ -8318,6 +8384,28 @@
       "duration_ms": 220575,
       "name": "Ya Sera Tarde",
       "url": "https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t"
+    },
+    {
+      "album": {
+        "name": "Ya te olvide",
+        "url": "https://open.spotify.com/album/1ENdzk69ytkTcEDmzJnISA"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "El Macho",
+          "url": "https://open.spotify.com/artist/78M8xxxKZHt00o53iItLci"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225970,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1re3qy4RgHRMnP2tCusOz2"
     },
     {
       "album": {

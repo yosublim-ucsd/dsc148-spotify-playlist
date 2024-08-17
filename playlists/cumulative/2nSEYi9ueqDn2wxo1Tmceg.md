@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE?si=sywPBZ9vQM2HZPIwHidE1w">Alex Izenberg</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Panda Bear &amp; Sonic Boom
 
 1,022 songs - 2 day 22 hr 23 min
 

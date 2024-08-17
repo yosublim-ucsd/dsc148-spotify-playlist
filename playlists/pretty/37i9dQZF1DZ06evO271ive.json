@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 19106,
+  "num_followers": 19140,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABwV1uipnoEDT5r3mPX/2Z3",
+  "snapshot_id": "Zr1FAAAAAAAwk3GA+YTix3pa8MDhKFY+",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 131965,
-      "name": "Ova Bad",
-      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BING BONG (Remix) [feat. Sexyy Red]",
         "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166956,
       "name": "BING BONG (Remix) [feat. Sexyy Red]",
       "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 131965,
+      "name": "Ova Bad",
+      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I love freaks (Sexyy\u2019s Version)",
-        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 163696,
-      "name": "I love freaks (Sexyy\u2019s Version)",
-      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Dad)",
         "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 84768,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I love freaks (Sexyy\u2019s Version)",
+        "url": "https://open.spotify.com/album/6Za5JkphdHQODSs1WvctSO"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 163696,
+      "name": "I love freaks (Sexyy\u2019s Version)",
+      "url": "https://open.spotify.com/track/4SC64uYq1eUnWhYbahqK6y"
     },
     {
       "added_at": null,

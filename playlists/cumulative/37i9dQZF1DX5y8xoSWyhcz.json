@@ -8276,7 +8276,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 139774,
       "name": "Haunt You Forever",
       "url": "https://open.spotify.com/track/0MNQOjeUl39sqTsARbOODk"
@@ -9237,6 +9237,28 @@
     },
     {
       "album": {
+        "name": "How\u2019s That Working Out",
+        "url": "https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180039,
+      "name": "How\u2019s That Working Out",
+      "url": "https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m"
+    },
+    {
+      "album": {
         "name": "Hurdles",
         "url": "https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH"
       },
@@ -9844,7 +9866,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 204493,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/3xRhZ0xgJ4pjXh6XLeSX54"
@@ -15566,7 +15588,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183449,
       "name": "Pillows",
       "url": "https://open.spotify.com/track/08elH5yYYCWP0aCnOIsqpa"
@@ -16042,6 +16064,24 @@
       "duration_ms": 183560,
       "name": "Push It Down",
       "url": "https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW"
+    },
+    {
+      "album": {
+        "name": "Push Me 'Til I Break",
+        "url": "https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181037,
+      "name": "Push Me 'Til I Break",
+      "url": "https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z"
     },
     {
       "album": {
@@ -19908,6 +19948,24 @@
       "duration_ms": 168000,
       "name": "text me when u get home",
       "url": "https://open.spotify.com/track/6zRqVnBUDNSur3jQQQJVOl"
+    },
+    {
+      "album": {
+        "name": "Thank Goodness",
+        "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "Thank Goodness",
+      "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
     },
     {
       "album": {

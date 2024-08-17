@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-179 songs - 11 hr 11 min
+180 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [So Grateful](https://open.spotify.com/track/1U236FYzQEdMWn1hMM0gQn) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Stripped Down & Surrendered](https://open.spotify.com/album/4Clnz845KVZqqINWEsVZ7y) | 5:47 | 2020-08-11 | 2022-08-27 |
 | [Sun on My Face](https://open.spotify.com/track/2hHyeOI9VDvR5cBK4JF5DP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sun on My Face](https://open.spotify.com/album/3HTbVEiLa8i13BNewI7nx2) | 4:05 | 2020-08-11 |  |
 | [Sun on My Face](https://open.spotify.com/track/35Hmr0JGSge1ivrl9xXqEP) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Can U Cook?](https://open.spotify.com/album/2P8zIqMbVrUfACL3oilh80) | 4:05 | 2020-08-11 | 2024-04-19 |
-| [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 |  |
+| [Take Me to the Country](https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Spectacular Class](https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8) | 2:56 | 2020-08-11 | 2024-08-17 |
 | [Talkin' To Jehova](https://open.spotify.com/track/2htN0gyb1WiJliAq9LtDza) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/7BsEu3aR82GbSKxMhbGnUS) | 4:36 | 2020-08-11 | 2024-04-19 |
 | [Talkin' To Jehova](https://open.spotify.com/track/69gubiWawGe46tKg6DpIyG) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Brother Sinner & The Whale](https://open.spotify.com/album/49SYH9sbBqVVLhFP1XJW8O) | 4:36 | 2020-08-11 |  |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-08-19 |  |
@@ -170,6 +170,7 @@
 | [The World Can Be So Cold](https://open.spotify.com/track/5N03Df9IsmsWtHNZbrmTjb) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [The World Can Be So Cold](https://open.spotify.com/album/4WA7Zxne8GkMDjnkkZEW1s) | 3:26 | 2021-05-21 | 2022-11-13 |
 | [Thumb a Ride](https://open.spotify.com/track/16AOTn3W58LmpNA6QG19CE) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/1GqL0hJ1WP4C3b52wqOUiF) | 2:53 | 2020-08-11 | 2024-04-13 |
 | [Thumb a Ride](https://open.spotify.com/track/6FFQ4nIyeXaDYQLb1zFitB) | [Big Daddy Wilson](https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr) | [Thumb a Ride](https://open.spotify.com/album/5RFZCJtz9yiadjhRB5kaof) | 2:53 | 2020-08-11 |  |
+| [Time Brings About a Change](https://open.spotify.com/track/4CBTXGS8L2hvBeBU2cjy0Z) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [West Georgia Blues](https://open.spotify.com/album/6AtGzcv5yfg0aqqbmpo4HE) | 2:29 | 2024-08-16 |  |
 | [Turtle Beach](https://open.spotify.com/track/3oXba26C2LfzWFnVXnrunT) | [Eric Von Schmidt](https://open.spotify.com/artist/739hmk6VVud7fbPNmYL7pa) | [2nd Right, 3rd Row](https://open.spotify.com/album/54NcsyWIW9MeKUSqzHCrHW) | 3:53 | 2020-08-11 | 2023-02-18 |
 | [Under His Command](https://open.spotify.com/track/5rO1zJCRkUdypNagJ99Zj0) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mountain](https://open.spotify.com/album/4gcXwCByBlccQEpSRMPPUH) | 3:15 | 2020-08-11 | 2022-05-07 |
 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 | 2020-08-11 |  |

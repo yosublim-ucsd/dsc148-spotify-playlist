@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: حماقي
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,422 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,474 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 14 | [Regala Men Bernameg Beit El Saad](https://open.spotify.com/track/76vwFCBdOtcTUdDMM9b1O3) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Amr Saad](https://open.spotify.com/artist/1hrucExvTdqEfvm2NSjMzv), [Ahmed El Sakka](https://open.spotify.com/artist/0hlYhezsFb9kxj5YYqw5Jf) | [Regala Men Bernameg Beit El Saad](https://open.spotify.com/album/7lCPVSZYmhk1AjXREwXpN3) | 2:00 |
 | 15 | [Forsa Kaman](https://open.spotify.com/track/2xgpP16UkbYq9nD2qKBFnI) | [Nourhan El Morshedy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Forsa Kaman](https://open.spotify.com/album/2MphMgZb7ANzR0CXyMZacY) | 2:57 |
 | 16 | [Mabaash Hawalek](https://open.spotify.com/track/4NL0wxC7IK7hWJGfVonPTs) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Mabaash Hawalek](https://open.spotify.com/album/79GGUUy1jxUJVVXhPZSmnk) | 3:46 |
-| 17 | [انا دادي](https://open.spotify.com/track/59JmAKiTL8gw49ET5ajmCJ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [انا دادي](https://open.spotify.com/album/0qDoHFIibnGVOT5bbfrhqS) | 1:37 |
-| 18 | [Raksa Espani](https://open.spotify.com/track/2ZXftAVw9qFnDVA5HGy0jB) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Raksa Espani](https://open.spotify.com/album/7cT73qmBh5tk2wYJVYzHX8) | 3:14 |
+| 17 | [Raksa Espani](https://open.spotify.com/track/2ZXftAVw9qFnDVA5HGy0jB) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Raksa Espani](https://open.spotify.com/album/7cT73qmBh5tk2wYJVYzHX8) | 3:14 |
+| 18 | [بعتتلي رسالة](https://open.spotify.com/track/2V0xkQoErjFjHuz4yBX9us) | [Khaled Mounib](https://open.spotify.com/artist/6OQ8SI8h90JGWuk3c1qZVs) | [Baatetli Resala](https://open.spotify.com/album/5cSegpi6Jw6PTHFBIgSFXq) | 4:05 |
 | 19 | [أنت لأ](https://open.spotify.com/track/2nwuR4TngBhug1tThFbqXq) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [أنت لأ](https://open.spotify.com/album/5UQrVAqYhr9HuXVtHlsrDh) | 2:51 |
 | 20 | [Bel Ayam](https://open.spotify.com/track/0Qgz51ULTJYW2WM9BIkOCZ) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Bel Ayam](https://open.spotify.com/album/2g5ojm2tJGOifaly1tD3UT) | 3:45 |
 | 21 | [أنا بابا](https://open.spotify.com/track/5PPphP4W68g1VWhghpGK0U) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [أنا بابا](https://open.spotify.com/album/368APOrzIAWbdIJo3YkiVS) | 3:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [غربة](https://open.spotify.com/track/2vClHDY6cQIG3X7T16IA4P) | [Rashad ComBal](https://open.spotify.com/artist/3YDkHfQTXespAgO8sGO4fY) | [غربة](https://open.spotify.com/album/3HXULF03MZww2PiZ2fAAn5) | 2:57 |
 | 75 | [Naddart El Shams](https://open.spotify.com/track/532L1SCyf7z5Rb0qrfqmUo) | [Sattar Saad](https://open.spotify.com/artist/2XwGAWUjz9JYas4QTq0lQN) | [Naddart El Shams](https://open.spotify.com/album/2tRmQ2V0j4YYsNxxCG9B5R) | 2:56 |
 
-Snapshot ID: `Zr6QXQAAAABS8D8eCeEJYJYQaMIpempj`
+Snapshot ID: `Zr8bIgAAAABGgx73L6Ij9c6MKd3kt9Nf`

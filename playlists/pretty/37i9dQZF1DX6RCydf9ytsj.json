@@ -1,6 +1,6 @@
 {
   "description": "The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene. Cover: The Judds",
-  "num_followers": 641873,
+  "num_followers": 642024,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+    },
+    {
+      "added_at": "2024-07-05 20:32:07",
+      "album": {
         "name": "Ultimate Alabama 20 # 1 Hits",
         "url": "https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 218613,
       "name": "Mountain Music",
       "url": "https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K"
-    },
-    {
-      "added_at": "2024-07-05 20:32:07",
-      "album": {
-        "name": "Lord I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Lord, I Hope This Day Is Good - Single Version",
-      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+        "name": "Lord I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
+      "duration_ms": 249906,
+      "name": "Lord, I Hope This Day Is Good - Single Version",
+      "url": "https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG"
     },
     {
       "added_at": "2024-07-05 20:32:07",
@@ -2407,8 +2407,8 @@
     {
       "added_at": "2024-07-05 20:32:07",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ"
+        "name": "Kentucky Hearts",
+        "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
       },
       "artists": [
         {
@@ -2416,9 +2416,9 @@
           "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Woke Up In Love",
-      "url": "https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR"
+      "duration_ms": 168666,
+      "name": "Give Me One More Chance",
+      "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
     },
     {
       "added_at": "2024-07-05 20:32:07",

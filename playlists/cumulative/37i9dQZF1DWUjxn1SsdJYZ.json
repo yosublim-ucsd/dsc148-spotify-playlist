@@ -1083,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Backpack Pack",
+        "url": "https://open.spotify.com/album/1e4AlcMaPV5t4ES9MnNkMq"
+      },
+      "artists": [
+        {
+          "name": "Murda of Cal",
+          "url": "https://open.spotify.com/artist/576qFF81V85DFproLlFpil"
+        },
+        {
+          "name": "S.O.G",
+          "url": "https://open.spotify.com/artist/1hhPFVKD325Fc4nDac793j"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145770,
+      "name": "Backpack Pack",
+      "url": "https://open.spotify.com/track/4VgqtMysI586cQms9j3IbU"
+    },
+    {
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/3Hj6q9U1TnpeRZCOvF8C0u"
       },

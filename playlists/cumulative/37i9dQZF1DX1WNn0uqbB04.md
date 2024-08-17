@@ -4,7 +4,7 @@
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-99 songs - 6 hr 18 min
+100 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 | 2023-11-24 |  |
 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 | 2023-08-04 |  |
 | [Carabelas Nada](https://open.spotify.com/track/6vgPBFsZOOjrlVPLlamQHj) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Carabelas Nada](https://open.spotify.com/album/6i37stRS1hsLchPh8qpBtz) | 4:43 | 2023-08-04 |  |
+| [Chiqué](https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP) | [Ramiro Boero](https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb) | [Chiqué](https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB) | 3:42 | 2024-08-16 |  |
 | [Clarens](https://open.spotify.com/track/1IHH4ncmI3TQZRed7SQEWd) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 5:02 | 2023-08-04 | 2024-04-19 |
 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 | 2023-08-04 |  |
 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 | 2023-11-24 |  |
@@ -50,7 +51,7 @@
 | [Los Vino´](https://open.spotify.com/track/4t65nqFwjv921ocsNlhUg5) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Dos](https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5) | 2:43 | 2023-08-04 |  |
 | [Línea D](https://open.spotify.com/track/35qVKJEncUuBN93wh29u9P) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:05 | 2023-08-04 |  |
 | [Madrugada](https://open.spotify.com/track/4w8FqwBHd21GiNZyoNremD) | [La Bomba de Tiempo](https://open.spotify.com/artist/2kzyHS3WRPwclRl5gsydu8), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Revolución Beat](https://open.spotify.com/album/0SkTNP6iRKY7vI5K1ruEvK) | 3:54 | 2023-08-04 |  |
-| [Melancolía](https://open.spotify.com/track/0pqWiwxviiWxlMOsfi04yn) | [Astr0kate](https://open.spotify.com/artist/4StNwiHyw87uEoiuJsdHtw), [GAUCHE](https://open.spotify.com/artist/2hVFYiot5Q7DChkPWXIoUQ) | [Melancolía](https://open.spotify.com/album/42rFR85uI8LptCvl34aMEH) | 2:18 | 2024-06-07 |  |
+| [Melancolía](https://open.spotify.com/track/0pqWiwxviiWxlMOsfi04yn) | [Astr0kate](https://open.spotify.com/artist/4StNwiHyw87uEoiuJsdHtw), [GAUCHE](https://open.spotify.com/artist/2hVFYiot5Q7DChkPWXIoUQ) | [Melancolía](https://open.spotify.com/album/42rFR85uI8LptCvl34aMEH) | 2:18 | 2024-06-07 | 2024-08-17 |
 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 | 2023-11-24 |  |
 | [Milonga de la Anunciación](https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:51 | 2024-06-07 | 2024-07-29 |
 | [Milonga Sentimental](https://open.spotify.com/track/5vcTHg2Rfb9alb9VvBFubo) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [Lautaro Greco](https://open.spotify.com/artist/54ob6kM8grbO4ymojmp804) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:38 | 2023-08-04 |  |

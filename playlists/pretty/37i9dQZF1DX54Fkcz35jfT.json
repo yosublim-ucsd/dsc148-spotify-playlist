@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: w.o.d.",
-  "num_followers": 45512,
+  "num_followers": 45515,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "duration_ms": 186962,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 187800,
       "name": "\u30aa\u30af\u30bf\u30fc\u30f4",
       "url": "https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq"
-      },
-      "artists": [
-        {
-          "name": "HEY-SMITH",
-          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm"
     },
     {
       "added_at": "2024-08-13 15:21:43",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2024-08-13 15:21:43",
       "album": {
-        "name": "Vendetta",
-        "url": "https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa"
-      },
-      "artists": [
-        {
-          "name": "Petit Brabancon",
-          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
-        }
-      ],
-      "duration_ms": 166056,
-      "name": "Vendetta",
-      "url": "https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
-        "name": "VOX",
-        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
-      },
-      "artists": [
-        {
-          "name": "Dragon Ash",
-          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
-        }
-      ],
-      "duration_ms": 250366,
-      "name": "VOX",
-      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
-    },
-    {
-      "added_at": "2024-08-13 15:21:43",
-      "album": {
         "name": "LEAVE IT ALL BEHIND",
         "url": "https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR"
       },
@@ -1631,6 +1599,38 @@
       "duration_ms": 247500,
       "name": "LEAVE IT ALL BEHIND",
       "url": "https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "VOX",
+        "url": "https://open.spotify.com/album/5ISFk8goiR0WgzsT07aZ8f"
+      },
+      "artists": [
+        {
+          "name": "Dragon Ash",
+          "url": "https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L"
+        }
+      ],
+      "duration_ms": 250366,
+      "name": "VOX",
+      "url": "https://open.spotify.com/track/7tonWzUNa7qiuBfTloPu3N"
+    },
+    {
+      "added_at": "2024-08-13 15:21:43",
+      "album": {
+        "name": "Vendetta",
+        "url": "https://open.spotify.com/album/7tbjNQEV1A7YeOT4Qi9IBa"
+      },
+      "artists": [
+        {
+          "name": "Petit Brabancon",
+          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+        }
+      ],
+      "duration_ms": 166056,
+      "name": "Vendetta",
+      "url": "https://open.spotify.com/track/5IfPB9YOdTgrQ88yReMvdW"
     },
     {
       "added_at": "2024-08-13 15:21:43",

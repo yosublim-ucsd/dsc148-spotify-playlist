@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Giift
 
-480 songs - 1 day 1 hr 17 min
+481 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bring It Back](https://open.spotify.com/track/1cDn2TimfiU2hlCUL9yQD2) | [Mat Eclair](https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa) | [Bring It Back](https://open.spotify.com/album/1xayuK3NQ4b6TmohBRg1Ri) | 3:14 | 2024-04-11 | 2024-06-07 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2024-02-08 | 2024-03-15 |
 | [Business](https://open.spotify.com/track/4o0DU1TUqx26lPbYGCohyI) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Business](https://open.spotify.com/album/0cz8izYJAuuiU8SxYIv5LM) | 2:10 | 2024-03-28 | 2024-04-26 |
+| [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-16 |  |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-06-07 |
 | [C'est La Vie](https://open.spotify.com/track/53M8zOUR70Ge8XBl80lxt8) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Dance Melancholia](https://open.spotify.com/album/5KJOMqOTmhEL4MwLjH72kX) | 3:22 | 2024-06-13 | 2024-08-16 |
 | [Cage](https://open.spotify.com/track/6xtqoi4IJyWMO3p478aLmd) | [Nowhere Blue](https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP) | [Cage](https://open.spotify.com/album/2Alb8nA1HWHEPto3yVoDAN) | 3:29 | 2024-05-02 | 2024-05-09 |

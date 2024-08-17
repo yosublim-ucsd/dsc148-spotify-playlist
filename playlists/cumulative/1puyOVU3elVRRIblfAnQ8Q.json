@@ -2377,6 +2377,32 @@
     },
     {
       "album": {
+        "name": "PREY",
+        "url": "https://open.spotify.com/album/4V1sFZ6ipjNyBLwDH71MJU"
+      },
+      "artists": [
+        {
+          "name": "TIGER DROOL",
+          "url": "https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA"
+        },
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Vincent",
+          "url": "https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166012,
+      "name": "PREY",
+      "url": "https://open.spotify.com/track/0Yk6JcL183ULQMmDQPc3f6"
+    },
+    {
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6gVP9lRi9rVyzp1Y7mGYA7"
       },
@@ -3366,6 +3392,24 @@
       "duration_ms": 232379,
       "name": "WYA (Where Ya At)",
       "url": "https://open.spotify.com/track/3d1Rm43gLSaWfH0mgWeYYP"
+    },
+    {
+      "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6h3SJviSvcDqBoAPiI0Pdl"
+      },
+      "artists": [
+        {
+          "name": "Odd Language",
+          "url": "https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140785,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/4U2QkQFO9uOJSjeD7vRBCS"
     }
   ],
   "url": "https://open.spotify.com/playlist/1puyOVU3elVRRIblfAnQ8Q"

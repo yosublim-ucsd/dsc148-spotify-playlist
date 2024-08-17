@@ -4,7 +4,7 @@
 
 > L'Algérino et Soolking à la une de la playlist numéro un en Algérie.
 
-227 songs - 13 hr 40 min
+228 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Oran Marseille](https://open.spotify.com/track/0Ye58r1DvVAIR2JMpNEu8B) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Nadirben](https://open.spotify.com/artist/6zqHGUcxVpqdd2aP3513d3), [Lakero](https://open.spotify.com/artist/15M6Rc9osdjjf4H45ET433) | [Oran Marseille](https://open.spotify.com/album/39RyhwGJlc0JKBclw45kFC) | 2:55 | 2022-06-23 | 2023-07-08 |
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-08 | 2024-07-19 |
 | [Oublie\-moi](https://open.spotify.com/track/19EZ9PFgJM0xh2Ruld9z2F) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Oublie\-moi](https://open.spotify.com/album/4hS1lDUpq5UXLapDgD9MFY) | 3:01 | 2022-09-28 | 2023-08-15 |
+| [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-08-16 |  |
 | [Peace N Love](https://open.spotify.com/track/7ohwke3nvqtXepKH6ujm5J) | [Kami Phénoméne](https://open.spotify.com/artist/2BxA0WWffDANrGk2etCPfI), [Phobia Isaac](https://open.spotify.com/artist/2blJ4Vh2V1STdZzcY72Nch) | [Bonita](https://open.spotify.com/album/6SV06bKUQ0zibdRafy5PSW) | 3:09 | 2021-12-09 | 2022-03-11 |
 | [Prblms](https://open.spotify.com/track/4Nm7SrYl6iaJ2wP1qLging) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [Prblms](https://open.spotify.com/album/5ZbdbOFkiDW6puijGldPY5) | 3:10 | 2021-12-09 | 2022-08-06 |
 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-07-26 |  |
@@ -213,7 +214,7 @@
 | [Welili](https://open.spotify.com/track/7l7ZDnYDzyEolxqsJP1POf) | [Amine Babylone](https://open.spotify.com/artist/2Dxc5IVSmvyXjR6sidLPT3) | [Welili](https://open.spotify.com/album/7xUBj6AnlQlJOznWSrZ9wp) | 4:16 | 2021-12-09 | 2022-05-05 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-07-29 | 2024-07-27 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-05-26 | 2023-10-12 |
-| [Ya Men 3ach](https://open.spotify.com/track/7HkC5x6gmkpZMsIbFeDTue) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Ya Men 3ach](https://open.spotify.com/album/3yJFWGqu2gS8JUEeJmLGyK) | 3:27 | 2023-08-14 |  |
+| [Ya Men 3ach](https://open.spotify.com/track/7HkC5x6gmkpZMsIbFeDTue) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv) | [Ya Men 3ach](https://open.spotify.com/album/3yJFWGqu2gS8JUEeJmLGyK) | 3:27 | 2023-08-14 | 2024-08-17 |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-12-09 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-07-27 | 2023-02-01 |
 | [Ya Zina](https://open.spotify.com/track/4p46adwQi8jhAn9TvinajR) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Ya Zina](https://open.spotify.com/album/04b2cvC1OdozRXWFtyXhNj) | 3:04 | 2024-05-09 |  |

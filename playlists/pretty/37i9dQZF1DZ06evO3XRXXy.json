@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 136648,
+  "num_followers": 136681,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADqwOKBBaofC9bK9/KtJunB",
+  "snapshot_id": "Zr1FAAAAAABTwMfO3yr8BDAh6Gvcs8Cj",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
       },
       "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Missing You Now (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
+      "duration_ms": 313933,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
     },
     {
       "added_at": null,
@@ -227,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
       "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/34U2gC6p6jFnoY4ts5imyb"
+      "duration_ms": 273306,
+      "name": "Missing You Now (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
       "duration_ms": 261866,
       "name": "How Could an Angel Break My Heart (with Toni Braxton)",
       "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "In The Rain",
+      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
     },
     {
       "added_at": null,
@@ -295,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "In The Rain",
-      "url": "https://open.spotify.com/track/41bWhFyo0NndpMMedZGMl0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -323,6 +323,22 @@
       "duration_ms": 256506,
       "name": "Going Home - Edit",
       "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,
@@ -355,22 +371,6 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4ZIOCYviEphLj1EpwXXvHy"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 201973,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0si6hASQu9bU9FPB6eOa63"
     },
     {
       "added_at": null,

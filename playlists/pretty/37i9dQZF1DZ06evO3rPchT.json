@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 70777,
+  "num_followers": 70815,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAAJYOFLxBdNv1Th4BYD6D+7",
+  "snapshot_id": "Zr1FAAAAAABqdC8iShnXN/5fjn/Nchp5",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 208478,
+      "name": "SIGNED, SOBER YOU",
+      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 170112,
       "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
       "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 208478,
-      "name": "SIGNED, SOBER YOU",
-      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "A ROCK",
-      "url": "https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHERE TO FIND ME",
         "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 161159,
       "name": "ALL SHE LEFT WAS ME",
       "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "A ROCK",
+      "url": "https://open.spotify.com/track/5w3h2BXf7Jvj8XgaQYVqfM"
     },
     {
       "added_at": null,
@@ -728,17 +728,17 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
         },
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 185813,
-      "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
-      "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
+      "duration_ms": 172546,
+      "name": "Redneck Tendencies (HARDY feat. Trace Adkins, Joe Diffie)",
+      "url": "https://open.spotify.com/track/0AumwgFsruoFRZMxF1Z4Qv"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
       "duration_ms": 203674,
       "name": "THROWBACK",
       "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192367,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
     },
     {
       "added_at": null,
@@ -807,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192367,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -820,17 +820,17 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         },
         {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         },
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         }
       ],
-      "duration_ms": 172546,
-      "name": "Redneck Tendencies (HARDY feat. Trace Adkins, Joe Diffie)",
-      "url": "https://open.spotify.com/track/0AumwgFsruoFRZMxF1Z4Qv"
+      "duration_ms": 185813,
+      "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
+      "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
     },
     {
       "added_at": null,

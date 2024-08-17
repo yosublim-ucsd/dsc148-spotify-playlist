@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 19398,
+  "num_followers": 19401,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAAFjVWDlbZCK7S/RdoqL6jx",
+  "snapshot_id": "Zr1FAAAAAABDJrivuXY8+fvEV+5DLJka",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modus Operandi",
+        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
+      },
+      "artists": [
+        {
+          "name": "M.O",
+          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
+        },
+        {
+          "name": "Lotto Boyzz",
+          "url": "https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Bad Vibe",
+      "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -251,30 +275,6 @@
       "duration_ms": 204173,
       "name": "Dance For Me (Eugy X Mr Eazi)",
       "url": "https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modus Operandi",
-        "url": "https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq"
-      },
-      "artists": [
-        {
-          "name": "M.O",
-          "url": "https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC"
-        },
-        {
-          "name": "Lotto Boyzz",
-          "url": "https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Bad Vibe",
-      "url": "https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu"
     },
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "KEYS TO THE KINGDOM",
-      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
         "url": "https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 204832,
       "name": "Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)",
       "url": "https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 198952,
+      "name": "KEYS TO THE KINGDOM",
+      "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 118938,
-      "name": "On D Low",
-      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ohema (feat. Mr Eazi)",
         "url": "https://open.spotify.com/album/4u0p0PbPm2Wm1E2K6LEvad"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 208666,
       "name": "Ohema (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/6f4JwY2yPutl4DIq29Pn7h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 118938,
+      "name": "On D Low",
+      "url": "https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Advice",
-        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 165995,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Control",
         "url": "https://open.spotify.com/album/1w7zh77gLaDTosxWxQ2eNT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 213354,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/24kLQBF5CBJyr0x06lRpiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advice",
+        "url": "https://open.spotify.com/album/3eAG4eWO35O6G1I8qkwPKM"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 165995,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/3pPT38es75c1jiI2hRSkXA"
     },
     {
       "added_at": null,

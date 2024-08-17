@@ -4,12 +4,13 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-435 songs - 1 day 1 hr 5 min
+436 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1C27aWAYNOiGtKuLLXucha) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles](https://open.spotify.com/album/5kjS3oqA3uScfk2Z7B4Jyc) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 | 2022-07-08 | 2023-10-17 |
+| [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2024-08-16 |  |
 | [A Million Dreams](https://open.spotify.com/track/40oSaFieDbdnNTlVr7YonY) | [Ravi Adelekan & Friends](https://open.spotify.com/artist/6x2xTBq8OgKYfkUIEOUbeS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL), [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O), [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Olugbenga](https://open.spotify.com/artist/6z3dK1jUpHKWeiKeiVQOlB) | [A Million Dreams](https://open.spotify.com/album/1T9WI6pLMrSXdmG1bBp4VS) | 4:49 | 2022-11-22 | 2023-10-17 |
 | [A Thousand Miles](https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM) | [SADBOii](https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN) | [A Thousand Miles](https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs) | 3:10 | 2021-12-17 | 2022-12-30 |
 | [abcdefu](https://open.spotify.com/track/0n4BamNwncSge7XWIcQjOO) | [The Butterfly Effect](https://open.spotify.com/artist/0uzyX6Q7XPMpRaqBNg8IEY) | [abcdefu](https://open.spotify.com/album/5lum6LKlkNtnB5jpuqKZNv) | 3:09 | 2022-04-01 | 2022-12-30 |
@@ -130,7 +131,7 @@
 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 | 2021-12-17 | 2023-10-17 |
 | [Don't Start Now](https://open.spotify.com/track/6dgZhiW5isdLIrpOdDqrwr) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 2:04 | 2022-12-30 | 2023-10-17 |
 | [Don't Start Now](https://open.spotify.com/track/5WJCqGGc4oqUWR2qzfIsWl) | [Chaz Mazzota](https://open.spotify.com/artist/6UOLJXk2Gy4J6OM3RziWmM), [Karis](https://open.spotify.com/artist/1U9tVmBqCyiaP2gDSVwDIX) | [Don't Start Now](https://open.spotify.com/album/7KqUfOkPGBNQkoS9um3JCF) | 2:10 | 2021-12-17 | 2022-04-16 |
-| [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-12-17 |  |
+| [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-12-17 | 2024-08-17 |
 | [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 | 2021-12-17 | 2022-04-16 |
 | [Don't You Want Me \- For Nest Audio Sessions](https://open.spotify.com/track/78Yt3QRgEwjsFM4gKMyVmS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Nest Christmas Number Ones](https://open.spotify.com/album/4mAjOyb5pNAQOUEtsrs09M) | 2:59 | 2021-12-17 | 2022-04-16 |
 | [Dreams](https://open.spotify.com/track/2Au8Kb3fJ4sYsdTwkVnqJW) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Dreams](https://open.spotify.com/album/3ofnpwxluWXId7vOLgG7d8) | 3:32 | 2022-04-01 | 2022-04-15 |

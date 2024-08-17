@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 418330,
+  "num_followers": 418353,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
       "artists": [
         {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Worry No More",
-        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Worry No More",
-      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Latch",
         "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 209819,
       "name": "Latch",
       "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Worry No More",
+        "url": "https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Worry No More",
+      "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Half Moon Light (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Dried Up River",
-      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Half Moon Light (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4BZtOxZRZVRVf5ufHPlXy3"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Dried Up River",
+      "url": "https://open.spotify.com/track/7bNvUAHtAVDee8w6SS6r0S"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 247826,
       "name": "Failure",
       "url": "https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Love Is Selfish",
-        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Love Is Selfish",
-      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Tobacco City, USA",
         "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 225297,
       "name": "Never on My Mind",
       "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Life and Life Only",
-        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
       "artists": [
         {
-          "name": "The Heavy Heavy",
-          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
         }
       ],
-      "duration_ms": 203573,
-      "name": "All My Dreams",
-      "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
+      "duration_ms": 316360,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 316360,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Subtitles",
         "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 245172,
       "name": "Subtitles",
       "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Life and Life Only",
+        "url": "https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "All My Dreams",
+      "url": "https://open.spotify.com/track/5St1urzGD938Zo3BL12Mam"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Third Way",
-      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Plan On You",
         "url": "https://open.spotify.com/album/4ZbYJnTiqmIBUrZy5S1fnT"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 208050,
       "name": "Plan On You",
       "url": "https://open.spotify.com/track/3OO6rLLpPq2ps8nqPrIgXU"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Third Way",
+      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "I Am Not There Anymore",
-        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
+        "name": "Fish Pond Fish",
+        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
       },
       "artists": [
         {
-          "name": "The Clientele",
-          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 197186,
-      "name": "Lady Grey",
-      "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
+      "duration_ms": 231066,
+      "name": "A Light On In The Dark",
+      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Fish Pond Fish",
-        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
+        "name": "I Am Not There Anymore",
+        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
         }
       ],
-      "duration_ms": 231066,
-      "name": "A Light On In The Dark",
-      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
+      "duration_ms": 197186,
+      "name": "Lady Grey",
+      "url": "https://open.spotify.com/track/6c2jAbpd22wJYbLp5Pa1iA"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Modern Woman",
         "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 297453,
       "name": "Olympians - Acoustic",
       "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 174598,
-      "name": "Late Bloomer",
-      "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3s1OBLlL9gLOVl5Dtc5RHs"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 174598,
+      "name": "Late Bloomer",
+      "url": "https://open.spotify.com/track/0dTgjND9WVIfk9M2jHbzjr"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Mount Airy Hill (Way Gone)",
-        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Wilderness Within You",
         "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
       },
@@ -2247,6 +2231,42 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
+        "name": "Mount Airy Hill (Way Gone)",
+        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Mouth (feat. Luke Krutzke)",
+        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        },
+        {
+          "name": "Luke Krutzke",
+          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+        }
+      ],
+      "duration_ms": 236032,
+      "name": "Mouth (feat. Luke Krutzke)",
+      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
         "name": "Happen",
         "url": "https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6"
       },
@@ -2259,22 +2279,6 @@
       "duration_ms": 253373,
       "name": "Happen",
       "url": "https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2299,22 +2303,18 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Mouth (feat. Luke Krutzke)",
-        "url": "https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg"
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
       },
       "artists": [
         {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        },
-        {
-          "name": "Luke Krutzke",
-          "url": "https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 236032,
-      "name": "Mouth (feat. Luke Krutzke)",
-      "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Halo & Begin Again (Unplugged)",
         "url": "https://open.spotify.com/album/6kx90x1EqvEtJWBrRqJstU"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 238300,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2024-07-05 20:01:43",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2024-07-05 20:01:43",
       "album": {
-        "name": "Growin' Down",
-        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
-      },
-      "artists": [
-        {
-          "name": "Illiterate Light",
-          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Growin' Down",
-      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
-    },
-    {
-      "added_at": "2024-07-05 20:01:43",
-      "album": {
         "name": "Greatest Weapon / Under The Water",
         "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 174156,
       "name": "Greatest Weapon",
       "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
+    },
+    {
+      "added_at": "2024-07-05 20:01:43",
+      "album": {
+        "name": "Growin' Down",
+        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
+      },
+      "artists": [
+        {
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Growin' Down",
+      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
     }
   ],
   "unique_name": "Modern Eclectic",

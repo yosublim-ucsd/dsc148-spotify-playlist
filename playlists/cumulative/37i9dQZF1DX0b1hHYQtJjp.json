@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Recent hits and new songs from your fave artists. Cover: Finneas",
+  "description": "Recent hits and new songs from your fave artists. Cover: Hozier",
   "name": "Just Good Music",
   "tracks": [
     {
@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Big Heart",
+        "url": "https://open.spotify.com/album/5ZVNpEHPupS6O4QRR8zZP1"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "Big Heart",
+      "url": "https://open.spotify.com/track/2WAY8PYqxhE4p46cefar0w"
+    },
+    {
+      "album": {
         "name": "BIG SHOT",
         "url": "https://open.spotify.com/album/15tWMDG6FxVJFECq3VV6iB"
       },
@@ -3604,6 +3622,28 @@
       "duration_ms": 170906,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148364,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI"
     },
     {
       "album": {
@@ -4069,7 +4109,7 @@
     },
     {
       "album": {
-        "name": "Broken Heart Thing (feat. Dustin Lynch)",
+        "name": "Broken Heart Thing",
         "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
       },
       "artists": [
@@ -4086,7 +4126,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186520,
-      "name": "Broken Heart Thing (feat. Dustin Lynch)",
+      "name": "Broken Heart Thing",
       "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
@@ -4230,6 +4270,24 @@
       "duration_ms": 175435,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE"
+    },
+    {
+      "album": {
+        "name": "Call It What You Want",
+        "url": "https://open.spotify.com/album/1X7pPUsv3FqEF0M9Xv4nMo"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155501,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/5sSWM68OdmGO7ekX1wVWww"
     },
     {
       "album": {
@@ -5150,6 +5208,28 @@
       "duration_ms": 279679,
       "name": "Chosen Family (with Elton John)",
       "url": "https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs"
+    },
+    {
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "album": {
@@ -6614,7 +6694,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203343,
       "name": "Dead Man",
       "url": "https://open.spotify.com/track/175ApsLKPzdEeEiibmtqFQ"
@@ -6918,6 +6998,28 @@
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -8004,7 +8106,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -11480,7 +11582,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151392,
       "name": "Hello World - Song of the Olympics\u2122",
       "url": "https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x"
@@ -12080,7 +12182,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195896,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5ixsARSHL26SXP89piNe1r"
@@ -12232,6 +12334,24 @@
       "duration_ms": 165675,
       "name": "Home Is You",
       "url": "https://open.spotify.com/track/2vbZzFdFtOC2MwjAxbiq8S"
+    },
+    {
+      "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/73wC0ne2a1wSaN4DHe27eR"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160957,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop"
     },
     {
       "album": {
@@ -12944,7 +13064,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -13578,7 +13698,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 143211,
       "name": "I Wanna Thank Me (feat. Niecy Nash)",
       "url": "https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr"
@@ -15118,7 +15238,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150000,
       "name": "JOYRIDE",
       "url": "https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0"
@@ -17380,7 +17500,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 163982,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC"
@@ -17864,6 +17984,24 @@
       "duration_ms": 235766,
       "name": "Love Story (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf"
+    },
+    {
+      "album": {
+        "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+        "url": "https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205080,
+      "name": "Love The Hell Out Of You - From The Motion Picture 'It Ends With Us'",
+      "url": "https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH"
     },
     {
       "album": {
@@ -20461,6 +20599,24 @@
     },
     {
       "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -22285,6 +22441,24 @@
     },
     {
       "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -23723,6 +23897,24 @@
     },
     {
       "album": {
+        "name": "Paradise State of Mind",
+        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189099,
+      "name": "See You In The Afterlife",
+      "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
+    },
+    {
+      "album": {
         "name": "Seeing Someone Else",
         "url": "https://open.spotify.com/album/4oAvf42fOYgtFbVdoslw6n"
       },
@@ -24028,6 +24220,24 @@
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
+    },
+    {
+      "album": {
+        "name": "Shoot it Straight",
+        "url": "https://open.spotify.com/album/1Aa6qHKypisaDeg1SjXzKT"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125262,
+      "name": "Shoot it Straight",
+      "url": "https://open.spotify.com/track/00CkXbvpP3bgjgYC9jbm0n"
     },
     {
       "album": {
@@ -25000,6 +25210,24 @@
       "duration_ms": 186552,
       "name": "Someone Like You (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "album": {
@@ -26132,6 +26360,24 @@
       "duration_ms": 214438,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+    },
+    {
+      "album": {
+        "name": "strangers again",
+        "url": "https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "strangers again",
+      "url": "https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz"
     },
     {
       "album": {
@@ -30142,7 +30388,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244146,
       "name": "Waiting For The Joy",
       "url": "https://open.spotify.com/track/2a6gh56vuPGtYM6RIT7fqe"
@@ -30182,6 +30428,28 @@
       "duration_ms": 177390,
       "name": "Walk Me Home",
       "url": "https://open.spotify.com/track/7DHApOHsIFo7EyfieArYGE"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
       "album": {
@@ -30646,6 +30914,24 @@
       "duration_ms": 218579,
       "name": "What Do You Think Of?",
       "url": "https://open.spotify.com/track/4S5qPSkDocZakNYjzZjqZh"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207176,
+      "name": "What Don't Belong To Me",
+      "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
       "album": {
@@ -31198,7 +31484,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203567,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"

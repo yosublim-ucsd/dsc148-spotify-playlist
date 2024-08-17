@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Fiorella",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Kelvin e Gustavo",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Gah na Chacrinha - Ao Vivo",
+        "url": "https://open.spotify.com/album/5HSxzXYQxJfDcBRlMrGatI"
+      },
+      "artists": [
+        {
+          "name": "Gah Bernardes",
+          "url": "https://open.spotify.com/artist/7u8RGJqTNFz0AOP74ok20D"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187946,
+      "name": "Boca de Solteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/26OlW1fS8XJULerEWJk3Ef"
+    },
+    {
+      "album": {
         "name": "Boca Reserva",
         "url": "https://open.spotify.com/album/5GTXMA4qQ7kWnmWWPZGTUM"
       },
@@ -344,7 +362,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 251393,
       "name": "Chorei no Sinal",
       "url": "https://open.spotify.com/track/6aTO59jOFsmS1Vgjg9Ehlg"
@@ -556,6 +574,28 @@
       "duration_ms": 160933,
       "name": "Ela \u00c9 do Mato - Ao Vivo",
       "url": "https://open.spotify.com/track/1cKzr0faPk6PNXEcjhkGoV"
+    },
+    {
+      "album": {
+        "name": "Elas Entenderam",
+        "url": "https://open.spotify.com/album/0tqnhyOGQaQ3rpqZeRhZa0"
+      },
+      "artists": [
+        {
+          "name": "Kelvin e Gustavo",
+          "url": "https://open.spotify.com/artist/4fCTwWqQITi3mPswut2wF7"
+        },
+        {
+          "name": "Golfao Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/0I3Au8CEIJlFAlJcSv29NL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139216,
+      "name": "Elas Entenderam",
+      "url": "https://open.spotify.com/track/7yu0Jr37G9rPBIFPbIkV2i"
     },
     {
       "album": {
@@ -834,7 +874,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 351408,
       "name": "Gera\u00e7\u00e3o Fazendinha #2: Ruralidade",
       "url": "https://open.spotify.com/track/2ciHg4G6b2hhAc7h6yedk7"
@@ -996,10 +1036,32 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 128688,
       "name": "Largado Num Len\u00e7ol - Ao Vivo",
       "url": "https://open.spotify.com/track/60q9EBzZtyMBSt9M2vkHpz"
+    },
+    {
+      "album": {
+        "name": "Maquininha - Solta a Voz e Vem Com N\u00f3is",
+        "url": "https://open.spotify.com/album/6HU7svFRpueFcobQ7bbT07"
+      },
+      "artists": [
+        {
+          "name": "Cacio & Marcos",
+          "url": "https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC"
+        },
+        {
+          "name": "Moura e Tunico",
+          "url": "https://open.spotify.com/artist/4VJQfP4fjQurfFxS5bNsMd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144864,
+      "name": "Maquininha - Solta a Voz e Vem Com N\u00f3is, Ao Vivo",
+      "url": "https://open.spotify.com/track/4zyCb6oVYHeWkxrsqxXNzP"
     },
     {
       "album": {
@@ -1097,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Minha Ira - Ao Vivo",
+        "url": "https://open.spotify.com/album/2NZp5BhcN1DzaGW3lrY3p3"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Augusto e Rafael",
+          "url": "https://open.spotify.com/artist/5Z4zyLiPBa36xdF8T5uXob"
+        },
+        {
+          "name": "Gregory e Matheus",
+          "url": "https://open.spotify.com/artist/1OPitzxsJ9TRYYIN0613y5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171611,
+      "name": "Minha Ira - Ao Vivo",
+      "url": "https://open.spotify.com/track/0JtgAGmZne9HPbv6gMouGJ"
+    },
+    {
+      "album": {
         "name": "A\u00f4 Mo\u00e7ada, Ep. 3 - Ao Vivo",
         "url": "https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj"
       },
@@ -1138,7 +1222,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174000,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/6PtpDOdRNXaHyigjgvN43m"
@@ -1389,7 +1473,7 @@
     },
     {
       "album": {
-        "name": "Pega Eu (Ao Vivo)",
+        "name": "Pega Eu - Ao Vivo",
         "url": "https://open.spotify.com/album/0GzSYPcj8ZLmrcyG5hiU1p"
       },
       "artists": [
@@ -1556,7 +1640,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162805,
       "name": "Problema de Longe - Ao Vivo",
       "url": "https://open.spotify.com/track/0DHFlQ3Hn1fSmIZsCjt7b8"
@@ -1905,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Supersti\u00e7\u00e3o - Ao Vivo",
+        "url": "https://open.spotify.com/album/4XKv4Hi7younyduk3glikF"
+      },
+      "artists": [
+        {
+          "name": "Tyago e Gabriel",
+          "url": "https://open.spotify.com/artist/0kaUBrs0r3rulhBhjWtTlj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148828,
+      "name": "Supersti\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vAb5nZ19Rt4iJMOKFZWPL"
+    },
+    {
+      "album": {
         "name": "Suposta Culpa (Ao Vivo)",
         "url": "https://open.spotify.com/album/482Aj0zg5S15WA2bu01Dei"
       },
@@ -2212,7 +2314,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188266,
       "name": "\u00c1gua de Sal",
       "url": "https://open.spotify.com/track/6XrAZaqZVdQRF5uZoyxjSc"

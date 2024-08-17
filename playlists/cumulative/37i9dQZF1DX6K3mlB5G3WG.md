@@ -4,7 +4,7 @@
 
 > Le migliori nuove uscite, 🇮🇹 e 🌎! Cover: Benson Boone
 
-244 songs - 12 hr 19 min
+245 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [DESNUDA](https://open.spotify.com/track/35BRwHz18c75LnbPq1IvTQ) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [DESNUDA](https://open.spotify.com/album/2lTfLDo6406WLjYUY9nUIM) | 2:54 | 2024-06-27 | 2024-07-05 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-15 |  |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-11 | 2024-08-08 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 |  |
 | [DIRE FARE BACIARE](https://open.spotify.com/track/5OPS3Mqk9yzYB6hAmv1M2W) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [DIRE FARE BACIARE](https://open.spotify.com/album/6r0iHqnfn9FvrIIhlu3CjE) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-01 |  |

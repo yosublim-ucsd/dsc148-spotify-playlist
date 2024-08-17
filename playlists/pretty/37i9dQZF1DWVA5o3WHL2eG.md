@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,481 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,478 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 15 | [My Mum's Birthday](https://open.spotify.com/track/6Kt6zpFaDTIGmzhOix6Ofh) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [My Mum's Birthday](https://open.spotify.com/album/1hTqbUSp4WufYwNm5q7FqU) | 2:55 |
 | 16 | [Extra](https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/64Fi0s4pMS4SkHx9Ok7Yfd) | 2:53 |
 | 17 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 |
-| 18 | [Mellifluous](https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Mellifluous](https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT) | 6:03 |
-| 19 | [Letztes Wort](https://open.spotify.com/track/0oiOfjmxlw8A6ooGkH35sd) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Letztes Wort](https://open.spotify.com/album/5sy1c14wii7KQWDxRL4Jqt) | 2:34 |
+| 18 | [Letztes Wort](https://open.spotify.com/track/0oiOfjmxlw8A6ooGkH35sd) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Letztes Wort](https://open.spotify.com/album/5sy1c14wii7KQWDxRL4Jqt) | 2:34 |
+| 19 | [Mellifluous](https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Mellifluous](https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT) | 6:03 |
 | 20 | [Liebe meines Lebens](https://open.spotify.com/track/02wGqqhWvrJ2fZGyLy9wTW) | [MELE](https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp) | [Liebe meines Lebens](https://open.spotify.com/album/64wrz2zT9UwgNdQfKlYUzN) | 2:03 |
 | 21 | [wir gehen rein](https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [wir gehen rein](https://open.spotify.com/album/70DzYvnurmsMhVt8z4w2UL) | 2:41 |
 | 22 | [Virtual For You](https://open.spotify.com/track/6NmiRfv2MB9rFnhVgvMA6t) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Virtual For You](https://open.spotify.com/album/4Bwa9QUG1CWHE44w4RwTvm) | 3:06 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Spieluhr](https://open.spotify.com/track/0kfw1seCclNc59FnqjM98N) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Spieluhr](https://open.spotify.com/album/7IKNDqzJyB4QqD0gu7M5A9) | 3:09 |
 | 41 | [get out](https://open.spotify.com/track/2qnaNRGxdd2lRkgiFWGCgt) | [sanna](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94), [Valentine](https://open.spotify.com/artist/0y5vlhGMt8wDmWpPa3Bi7o) | [get out](https://open.spotify.com/album/6yE9a6IkU5ahF0efFYOXPY) | 2:28 |
 | 42 | [Divers](https://open.spotify.com/track/1pfh6hFA1ZIBODDWD2g0Vr) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:28 |
-| 43 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 |
-| 44 | [Not Rick](https://open.spotify.com/track/2fKTWv3t5tOVve6bXmZ4sE) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Not Rick](https://open.spotify.com/album/0hrsV7BZ9aESzEdA496hX5) | 2:52 |
+| 43 | [Not Rick](https://open.spotify.com/track/2fKTWv3t5tOVve6bXmZ4sE) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Not Rick](https://open.spotify.com/album/0hrsV7BZ9aESzEdA496hX5) | 2:52 |
+| 44 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 |
 | 45 | [Plastic People](https://open.spotify.com/track/0Y3rJvEOjqON6l68XrKK7D) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Plastic People](https://open.spotify.com/album/4ptM6VWQoOBIaoC4SvlLBy) | 3:13 |
 | 46 | [Kill The Lonely](https://open.spotify.com/track/09umJrRF0nvpGuar0OIRoc) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Kill The Lonely](https://open.spotify.com/album/52crtY5BcHSeO2Oq8mFiIs) | 3:18 |
 | 47 | [Trümmer dieser Stadt](https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Trümmer](https://open.spotify.com/album/13Z4YuBFzsEONFHAzRxUWh) | 2:54 |

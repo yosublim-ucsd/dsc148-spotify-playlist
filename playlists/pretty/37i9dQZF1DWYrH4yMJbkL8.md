@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Soleil Launière.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,745 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,741 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 6 | [The Game](https://open.spotify.com/track/6HvYEU4mOdhVS68AxredhA) | [Kelly Fraser](https://open.spotify.com/artist/6tfktWLnyhNzZdUtGSChSW) | [Sedna](https://open.spotify.com/album/31GEU4ydpqEpOLRTlA2TFk) | 2:46 |
 | 7 | [MMIWG2S](https://open.spotify.com/track/4xGN8HySPSzC94QCnVXENt) | [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Taueu](https://open.spotify.com/album/4Nd9DJ1apGJMyAd3ItSRFf) | 3:25 |
 | 8 | [Love Alone](https://open.spotify.com/track/1qBOFi4RL3dPOgoQMQ8tkY) | [Anachnid](https://open.spotify.com/artist/3InHKoRqLAoPvPfH5T6WEO) | [Love Alone](https://open.spotify.com/album/11r93iWsgjzlkyDp2jymBc) | 4:06 |
-| 9 | [All My Relations](https://open.spotify.com/track/6c1D5ycIPBycYiRVKRXeJO) | [Anyma](https://open.spotify.com/artist/5EERuYYpAfLBVymbcG59hv) | [HUMANS](https://open.spotify.com/album/5CQruNqNtCtOOjxmnoo2f8) | 2:35 |
+| 9 | [All My Relations](https://open.spotify.com/track/6c1D5ycIPBycYiRVKRXeJO) | [ANYMA ORA'](https://open.spotify.com/artist/5ipWj5rsaNTS2pNvhnwlMN) | [HUMANS](https://open.spotify.com/album/5CQruNqNtCtOOjxmnoo2f8) | 2:35 |
 | 10 | [Ahiani: Elsewhere](https://open.spotify.com/track/1GwWqqbKTFfeVLy9duosQA) | [Piqsiq](https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ) | [Altering the Timeline](https://open.spotify.com/album/6LUDmJ1HfZK6NK1Fw2h16K) | 3:47 |
 | 11 | [Colonizer](https://open.spotify.com/track/5f4EAqwXpQ7kJGgZ7oVN60) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 4:24 |
 | 12 | [Aghbalu](https://open.spotify.com/track/7CrQwaIkTLaRKnKVUqWQKP) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez), [Thijs Borsten](https://open.spotify.com/artist/2rXcix5yePOodUVqDUiRKh) | [Akal](https://open.spotify.com/album/4WxeRyY52p2KHvHBj1xrN2) | 2:38 |

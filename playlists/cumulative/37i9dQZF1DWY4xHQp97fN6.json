@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "Mood: Turnt Cover: Central Cee & Lil Baby",
+  "description": "Mood: Turnt Cover: Mustard",
   "name": "Get Turnt",
   "tracks": [
     {
@@ -3459,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -6504,7 +6522,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207567,
       "name": "Giving Chanel",
       "url": "https://open.spotify.com/track/1wMxLpODBBQMC6CiIBIV8e"
@@ -6974,7 +6992,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146893,
       "name": "H&M",
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
@@ -9578,6 +9596,32 @@
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
+        "name": "JUST RE'D UP 3",
+        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193419,
+      "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
+      "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
     },
     {
       "album": {
@@ -13123,6 +13167,24 @@
     },
     {
       "album": {
+        "name": "Greatest Of All Trappers - Gangsta Grillz Edition",
+        "url": "https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258579,
+      "name": "Rich Niggaz",
+      "url": "https://open.spotify.com/track/6JNDrnCTLgQKT6SW5NlYLz"
+    },
+    {
+      "album": {
         "name": "Rich On Grape Street",
         "url": "https://open.spotify.com/album/1sjghOoEKmHQ9Uucxr012N"
       },
@@ -14834,7 +14896,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201000,
       "name": "Steppas",
       "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"

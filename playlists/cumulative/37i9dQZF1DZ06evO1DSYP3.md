@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-79 songs - 3 hr 42 min
+80 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-29 |  |
 | [GEEKED UP](https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:05 | 2024-07-07 |  |
 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 | 2024-01-29 |  |
-| [GIVE ME A BEAT!](https://open.spotify.com/track/01XhYQFGlrDCYAmyhgIYlA) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [GIVE ME A BEAT!](https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO) | 3:18 | 2024-06-17 |  |
+| [GIVE ME A BEAT!](https://open.spotify.com/track/01XhYQFGlrDCYAmyhgIYlA) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [GIVE ME A BEAT!](https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO) | 3:18 | 2024-06-17 | 2024-08-17 |
+| [GIVE ME A BEAT!](https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 3:18 | 2024-08-17 |  |
 | [Going Off](https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going Off](https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS) | 2:03 | 2024-01-29 |  |
 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 | 2024-01-29 |  |
 | [Good \(feat\. Larry June\)](https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:00 | 2024-01-29 |  |

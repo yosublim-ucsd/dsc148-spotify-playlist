@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194897,
       "name": "don't rely on other men",
       "url": "https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157297,
       "name": "Elegant",
       "url": "https://open.spotify.com/track/5urtbbacJkW1vfkwidsR8V"
@@ -2353,6 +2353,32 @@
     },
     {
       "album": {
+        "name": "If I Was President",
+        "url": "https://open.spotify.com/album/76WK1kfEroOSnApruiFyoR"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Co Cash",
+          "url": "https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH"
+        },
+        {
+          "name": "Tripstar",
+          "url": "https://open.spotify.com/artist/6CHFq8hiVCpHsNKsP2aMw2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166092,
+      "name": "If I Was President",
+      "url": "https://open.spotify.com/track/54uah4IGZFa1I0k14k0VjF"
+    },
+    {
+      "album": {
         "name": "Hot Commodity",
         "url": "https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl"
       },
@@ -2598,6 +2624,24 @@
       "duration_ms": 297794,
       "name": "Lady Killers II",
       "url": "https://open.spotify.com/track/1xUddpWyEuYl5T3mduKnOJ"
+    },
+    {
+      "album": {
+        "name": "Lagos 2 Vegas",
+        "url": "https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK"
+      },
+      "artists": [
+        {
+          "name": "Thutmose",
+          "url": "https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151710,
+      "name": "Lagos 2 Vegas",
+      "url": "https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT"
     },
     {
       "album": {
@@ -3172,10 +3216,36 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164706,
       "name": "Normally (feat. NSG)",
       "url": "https://open.spotify.com/track/3xo3GCZI9Vz1GVDeIKWJhR"
+    },
+    {
+      "album": {
+        "name": "Not In The Store",
+        "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
+      },
+      "artists": [
+        {
+          "name": "Doodles",
+          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189870,
+      "name": "Not In The Store",
+      "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
     },
     {
       "album": {
@@ -3620,7 +3690,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
@@ -3726,6 +3796,24 @@
       "duration_ms": 178765,
       "name": "Scar Tissue",
       "url": "https://open.spotify.com/track/2CtPYcGvQB8620WDFRnlmH"
+    },
+    {
+      "album": {
+        "name": "Screamin",
+        "url": "https://open.spotify.com/album/4u9r3h7tQ5cTzGKk2DMhBn"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210542,
+      "name": "Screamin",
+      "url": "https://open.spotify.com/track/1oKpIfzkVoS0j927ARkYCG"
     },
     {
       "album": {

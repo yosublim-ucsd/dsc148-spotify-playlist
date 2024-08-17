@@ -742,7 +742,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 265864,
       "name": "Dolorosa",
       "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
@@ -1836,6 +1836,24 @@
       "duration_ms": 187400,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4Qolq4voNJaxnQNYzFsMLu"
+    },
+    {
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
     },
     {
       "album": {

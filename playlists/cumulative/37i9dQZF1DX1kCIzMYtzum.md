@@ -4,7 +4,7 @@
 
 > Home is where the main stage is 💗 with Swedish House Mafia
 
-683 songs - 1 day 11 hr 7 min
+684 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,7 +351,7 @@
 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 | 2023-06-16 | 2024-05-18 |
 | [Luv Me a Little](https://open.spotify.com/track/1SFA5zEVOsLhEg7ynbvQFT) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Luv Me A Little](https://open.spotify.com/album/7rZOkDS1qDISQN3kValLId) | 3:44 | 2023-01-20 | 2024-03-02 |
 | [Ma Luv](https://open.spotify.com/track/48RoCGs1FNlp8NF3HXW2Wt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [Ma Luv](https://open.spotify.com/album/7CFZSyuqggIrBjyj86wP0A) | 2:50 | 2021-06-11 | 2022-04-17 |
-| [MAGIC \(feat\. babyidontlikeyou\)](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [babyidontlikeyou](https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq) | [MAGIC](https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H) | 3:22 | 2024-04-26 |  |
+| [MAGIC \(feat\. babyidontlikeyou\)](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [babyidontlikeyou](https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq) | [MAGIC](https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H) | 3:22 | 2024-04-26 | 2024-08-17 |
 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 | 2024-02-16 |  |
 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 | 2021-10-08 | 2022-03-02 |
 | [Make It Home](https://open.spotify.com/track/0V4Qpos8Es6VdHalZ4GsqC) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Héritage](https://open.spotify.com/album/5Ry4TznOKaJjwA7nAPriKB) | 3:38 | 2021-12-03 | 2022-06-12 |
@@ -552,6 +552,7 @@
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2022-07-28 |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 | 2022-07-09 |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2022-01-14 | 2022-04-23 |
+| [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-08-16 |  |
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 | 2023-06-10 |
 | [Sometimes](https://open.spotify.com/track/5PbOUQpnc8NTn24KdpWaIA) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7) | [Sometimes](https://open.spotify.com/album/4kBZ0roH4f66urmysH0DnK) | 3:17 | 2022-02-11 | 2022-07-27 |
 | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/track/39Hpybgua0RgOciVl1C4Sy) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Spacetime \(feat\. NEVVE\)](https://open.spotify.com/album/4rrf2a5ZbaHXpC1s85oJTM) | 2:48 | 2021-12-17 | 2022-04-20 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Gigi Perez",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Emma Foley",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 215082,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217400,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH"
@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 218031,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu"
@@ -2300,7 +2300,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 190500,
       "name": "clocks",
       "url": "https://open.spotify.com/track/4QpM0qoxJ9JxpggqXrDjIt"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194604,
       "name": "Coal",
       "url": "https://open.spotify.com/track/5cI23aJ66Gw2a4N8l4dGYw"
@@ -2981,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Paris / San Francisco",
+        "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227096,
+      "name": "Don't Go Back To Paris",
+      "url": "https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Tell My Mom",
         "url": "https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv"
       },
@@ -3233,6 +3251,24 @@
     },
     {
       "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/5Pm8GY1s2GRSuhxrxBvDLJ"
+      },
+      "artists": [
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249843,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3j2BSkuYt5zl3DcXUFIMpu"
+    },
+    {
+      "album": {
         "name": "Easy Love",
         "url": "https://open.spotify.com/album/3ZjApkMiuqIxvsZbEGCo0o"
       },
@@ -3482,6 +3518,24 @@
       "duration_ms": 139003,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz"
+    },
+    {
+      "album": {
+        "name": "Eternal June",
+        "url": "https://open.spotify.com/album/07UddeVlOY0BdtTIkUH51b"
+      },
+      "artists": [
+        {
+          "name": "Emma Foley",
+          "url": "https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144912,
+      "name": "Eternal June",
+      "url": "https://open.spotify.com/track/1KKHhlOK0Kt7aCRzccuQ5n"
     },
     {
       "album": {
@@ -4494,7 +4548,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
@@ -4840,7 +4894,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225413,
       "name": "her",
       "url": "https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY"
@@ -5038,7 +5092,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194493,
       "name": "House Of Lies",
       "url": "https://open.spotify.com/track/2fDmoxD2vvCHj9XgR9wRJD"
@@ -5200,7 +5254,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188160,
       "name": "how to not love you",
       "url": "https://open.spotify.com/track/1S04uGKqIG10eTAnSXH9QG"
@@ -6122,7 +6176,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171904,
       "name": "If You'll Be Mine",
       "url": "https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM"
@@ -6612,7 +6666,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183021,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
@@ -6918,7 +6972,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 155906,
       "name": "like i used to",
       "url": "https://open.spotify.com/track/1RoBUQ0gt9T4cff4xQflq3"
@@ -7458,7 +7512,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164939,
       "name": "love who you want to",
       "url": "https://open.spotify.com/track/0m8tszo2fzaSsBTlv43dRE"
@@ -7710,7 +7764,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 194304,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/5sVopsPUBDHBpadiCQfHcB"
@@ -7916,7 +7970,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
@@ -8474,7 +8528,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178068,
       "name": "One Man Show",
       "url": "https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV"
@@ -8582,7 +8636,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184556,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb"
@@ -9050,7 +9104,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203266,
       "name": "Problem Child",
       "url": "https://open.spotify.com/track/2QQTrwCupjGoBZYdWyia6v"
@@ -9332,6 +9386,24 @@
       "duration_ms": 178000,
       "name": "Right Person Right Time",
       "url": "https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb"
+    },
+    {
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "album": {
@@ -9958,7 +10030,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216746,
       "name": "Sky Up",
       "url": "https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG"
@@ -10174,7 +10246,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
@@ -10772,7 +10844,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189271,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/710qfjtXZ5epd7pl9KdpTY"
@@ -11046,7 +11118,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207600,
       "name": "tetherball",
       "url": "https://open.spotify.com/track/6CWWWOwL2JBCaMQaBnTcyO"
@@ -11486,7 +11558,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 249500,
       "name": "Tippy Toes",
       "url": "https://open.spotify.com/track/6krUyrHwGzkaF2nC6PlCSe"
@@ -12181,6 +12253,24 @@
     },
     {
       "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "We Were Girls",
+      "url": "https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx"
+    },
+    {
+      "album": {
         "name": "we were girls together",
         "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
       },
@@ -12228,7 +12318,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 176712,
       "name": "Weeping Willow",
       "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
@@ -12610,7 +12700,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 176321,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0ZTtIdhIhHcbVyYmbwKhWq"

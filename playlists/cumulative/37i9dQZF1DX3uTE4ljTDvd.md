@@ -4,12 +4,13 @@
 
 > Ouça e conheça as revelações da música gospel\. Foto: Paloma Possi
 
-68 songs - 5 hr 46 min
+69 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Igreja Te Adora](https://open.spotify.com/track/7AeBgQQQKVIvxD6jBEdF2c) | [Bekah Costa](https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb), [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [A Igreja Te Adora](https://open.spotify.com/album/1x4xaiUFRa6T8ZvIKu4l68) | 4:29 | 2022-12-09 |  |
 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 | 2022-12-09 |  |
+| [Algo Novo \(Ao Vivo\)](https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Algo Novo \(Ao Vivo\)](https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh) | 5:10 | 2024-08-16 |  |
 | [Alívio](https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Alívio](https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr) | 4:45 | 2022-12-09 | 2023-12-22 |
 | [Andar Sobre as Águas](https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre as Águas](https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA) | 4:23 | 2023-12-21 |  |
 | [Andar Sobre As Águas](https://open.spotify.com/track/40VTLWDGsKNLK9sHKIzZ7F) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre As Águas](https://open.spotify.com/album/2hQPAbaRfmLotiqzdMGMuT) | 4:23 | 2022-12-09 | 2024-04-19 |
@@ -33,7 +34,7 @@
 | [Emanuel](https://open.spotify.com/track/17fYhMm4mxOnbo5vDn7567) | [Atm Praise](https://open.spotify.com/artist/1bb4IKt4oYKRRXFlu2f7oN), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Emanuel](https://open.spotify.com/album/5gKW8nJBHsjNVUjW5TuJWV) | 9:09 | 2022-12-09 |  |
 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 | 2022-12-09 |  |
 | [Eu Me Rendo](https://open.spotify.com/track/2s60fUc38llO2Dr1k65P4I) | [Manú Paiva](https://open.spotify.com/artist/58ynl54r37EoYJC5LIUOER) | [Eu Me Rendo](https://open.spotify.com/album/4VHSizj9mNhF3BJtlarg5H) | 4:54 | 2022-12-09 |  |
-| [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l) | 2:36 | 2022-12-09 |  |
+| [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/track/3WOErrC9fsgv1x9rig0Co8) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Eu Sei Que Não Estou Só \(Ao Vivo\)](https://open.spotify.com/album/0DEHvPPLbnhAPQR40QDm2l) | 2:36 | 2022-12-09 | 2024-08-17 |
 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 | 2022-12-09 |  |
 | [Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/2l0Iqa3e3QzT0q798LiyhG) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/2BwUstX6wBqQCiGrThGxfP) | 5:23 | 2022-12-09 |  |
 | [Fogo E Altar](https://open.spotify.com/track/4oddcpptwNmykJqa4A2xcv) | [Kauê Penna](https://open.spotify.com/artist/66gr6eacn8mru8PygKXLvj), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Promessa](https://open.spotify.com/album/7M5BKDGBuYyfjzeQGWcVnG) | 4:05 | 2022-12-09 |  |

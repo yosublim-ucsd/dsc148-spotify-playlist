@@ -2,9 +2,9 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist.
+> Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lady Gaga, Bruno Mars
 
-1,504 songs - 3 day 1 hr 45 min
+1,505 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Boys Like Me](https://open.spotify.com/track/1KraQYABi08knx5vHCQ4em) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Boys Like Me](https://open.spotify.com/album/2bAHQBSz9NAdZvNFICknNo) | 3:22 | 2024-04-26 | 2024-05-03 |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-07-18 | 2024-07-27 |
 | [Break The Silence](https://open.spotify.com/track/6kkuncs5s9A84rp83BRvbr) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Ghosts & Monsters](https://open.spotify.com/album/2sKJZLUfylOSC0a0jBZjhv) | 2:19 | 2024-06-20 | 2024-06-28 |
-| [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:17 | 2024-08-15 |  |
+| [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:14 | 2024-08-15 |  |
 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 | 2024-06-20 | 2024-06-28 |
 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 | 2024-05-30 | 2024-06-07 |
 | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/track/2lvhedsuMeJOHvbY9zKJrh) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Breathe You In \(feat\. NORTH\)](https://open.spotify.com/album/31dM03FKgA4HluFTPiN2r5) | 4:05 | 2024-06-20 | 2024-06-28 |
@@ -339,6 +339,7 @@
 | [Die da oben](https://open.spotify.com/track/1T1njoIbslXr06PHxAKr9f) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Die da oben](https://open.spotify.com/album/5JyvPm4uYsjKaGxHtaYatw) | 2:27 | 2024-07-04 | 2024-07-12 |
 | [Die Jungs](https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Die Jungs](https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD) | 2:41 | 2024-08-08 | 2024-08-16 |
 | [die nacht ruft](https://open.spotify.com/track/1gFu1Ri0ZbPG5cLvdE5Kep) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90), [Jan Delay](https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc) | [die nacht ruft](https://open.spotify.com/album/5vBbpLTsYZ82a6LvhiThHF) | 3:02 | 2024-05-30 | 2024-06-07 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Dies das](https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dies das](https://open.spotify.com/album/44LE68OtvDk5sBlbsrqKPi) | 2:47 | 2024-08-08 | 2024-08-16 |
 | [Dieser Sommer](https://open.spotify.com/track/0Cnf2mlQavyPknr3OxzTAn) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [Dieser Sommer](https://open.spotify.com/album/4UrGldOU6mdTG7CKlXe2Ub) | 2:17 | 2024-05-30 | 2024-06-07 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-08 | 2024-08-16 |

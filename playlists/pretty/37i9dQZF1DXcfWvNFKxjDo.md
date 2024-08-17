@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Robin Schulz, Joel Corry,  KOPPY
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,711 likes - 94 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,800 likes - 94 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 93 | [Cool Like That](https://open.spotify.com/track/5NB7R5j9bQlR3c3HEKmRL3) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cool Like That](https://open.spotify.com/album/1ku2IkQS1ElR3yVQlen16y) | 2:40 |
 | 94 | [Like I Said](https://open.spotify.com/track/6BHGcsc8q9lrduVjXOuA0w) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Like I Said](https://open.spotify.com/album/2gsAnOVVfnMvMLQQk4BOwF) | 5:12 |
 
-Snapshot ID: `Zr56YAAAAAD38dqrRf5hZz25h66mPRRa`
+Snapshot ID: `Zr8N+gAAAAC8/Ln2O01dJIiN+KloG2Cu`

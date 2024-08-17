@@ -4,7 +4,7 @@
 
 > every day soul with a funky groove for a laid back day.
 
-174 songs - 10 hr 10 min
+175 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Pink Youth](https://open.spotify.com/track/2WwwfnTUm4yUK8stRMPd7V) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Pink Youth](https://open.spotify.com/album/52lWZNXWoJMWFNPmXdAWz9) | 4:00 | 2021-10-22 | 2023-10-21 |
 | [Play Too Much](https://open.spotify.com/track/11xILcyUmIjr2XpM6mpEvA) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Play Too Much](https://open.spotify.com/album/4POCpTZfG4JAiLDisEjfZv) | 3:17 | 2021-10-22 |  |
 | [Play Too Much](https://open.spotify.com/track/6kojoNSvYr4WFUx7CYMJWb) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [SUGA \(Deluxe\)](https://open.spotify.com/album/7uJlMQQqUJ8s17FRoMuPrq) | 3:17 | 2022-02-18 | 2024-04-19 |
+| [Playing With Fire](https://open.spotify.com/track/04RTHjA20H65nhX9REmVQu) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Jaye Locke](https://open.spotify.com/artist/6etTs24y7PrNhUggFGCGf9) | [Playing With Fire](https://open.spotify.com/album/73yJ7Lj6yuNLE6tRUcAosl) | 2:17 | 2024-08-16 |  |
 | [Positions](https://open.spotify.com/track/4rnriM1hFyeRrdRQSZd9uA) | [Nia Sultana](https://open.spotify.com/artist/1L8An7RfJbMW7zBy2fE0Tz) | [Positions](https://open.spotify.com/album/0HXZfdrZHBfkvCbvgmxpww) | 2:26 | 2021-10-22 | 2022-07-23 |
 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 | 2023-05-26 |  |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-09 |  |

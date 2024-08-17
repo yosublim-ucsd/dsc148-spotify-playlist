@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2NM7Yf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2NM7Yf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2NM7Yf)
 
-### [Meg Smith This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
+### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> .Meg Smith This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is Meg Smith\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 24 songs - 1 hr 11 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Chloe Qisha",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: \u00c1ine Deane",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 170318,
       "name": "Ain't Waiting For The World To Turn",
       "url": "https://open.spotify.com/track/193fZueEjp0NMkHSvMtZB4"
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/5xgTyiYj6SKB2taNZn4p3r"
+      },
+      "artists": [
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "August",
+      "url": "https://open.spotify.com/track/0bMcyfjZK0Ohpshoy2QXp2"
+    },
+    {
+      "album": {
         "name": "Before My Eyes",
         "url": "https://open.spotify.com/album/4IPv3ZDiUbYF4hUQq1DavI"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173061,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3r68CX9Is5Ad4oouA1kVIR"
@@ -214,10 +232,28 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180489,
       "name": "Bruised One",
       "url": "https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl"
+    },
+    {
+      "album": {
+        "name": "BT45",
+        "url": "https://open.spotify.com/album/0dGIB22t8fU4RGRewEQcyi"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252703,
+      "name": "BT45",
+      "url": "https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw"
     },
     {
       "album": {
@@ -232,7 +268,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 146585,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/36vQS6h923LbRcZS531gOh"
@@ -455,6 +491,24 @@
     },
     {
       "album": {
+        "name": "find your own",
+        "url": "https://open.spotify.com/album/0cT4iKCq6y1FfXjcaMTqqC"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "find your own",
+      "url": "https://open.spotify.com/track/64W7JQPeshk6EcT02XbYUP"
+    },
+    {
+      "album": {
         "name": "fly on the wall",
         "url": "https://open.spotify.com/album/4jC4BPvbaCQJ9jyCuINv3U"
       },
@@ -628,7 +682,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 164217,
       "name": "Hell & Never Back",
       "url": "https://open.spotify.com/track/2EdKKrPr5CUrb8oIUtZ7j9"
@@ -646,7 +700,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 238614,
       "name": "HERO",
       "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
@@ -725,6 +779,24 @@
     },
     {
       "album": {
+        "name": "In Any Weather",
+        "url": "https://open.spotify.com/album/7JVbiQvA7MlTyLUPVYAltK"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186998,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/6soowAK2q88ThzrteFWCvs"
+    },
+    {
+      "album": {
         "name": "Love Lost",
         "url": "https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN"
       },
@@ -754,7 +826,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207075,
       "name": "Love Me Or Not",
       "url": "https://open.spotify.com/track/7lOtbR5TeASy79006U1KHx"
@@ -830,7 +902,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 127192,
       "name": "Moist",
       "url": "https://open.spotify.com/track/0zF0Qrico9hPxd4dqmvsEL"
@@ -945,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
       },
@@ -963,6 +1053,24 @@
     },
     {
       "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183420,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
+    },
+    {
+      "album": {
         "name": "Studio Apartment",
         "url": "https://open.spotify.com/album/4sZi0Cl6KHqpYNJcUwwx7I"
       },
@@ -978,6 +1086,24 @@
       "duration_ms": 210000,
       "name": "Studio Apartment",
       "url": "https://open.spotify.com/track/6IsAc56JsJpxwVVLVznD0M"
+    },
+    {
+      "album": {
+        "name": "summer crush",
+        "url": "https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM"
+      },
+      "artists": [
+        {
+          "name": "Elle Darlington",
+          "url": "https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176330,
+      "name": "summer crush",
+      "url": "https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H"
     },
     {
       "album": {
@@ -1032,6 +1158,24 @@
       "duration_ms": 222000,
       "name": "Teenage Kinda Love",
       "url": "https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3"
+    },
+    {
+      "album": {
+        "name": "The One That You Call",
+        "url": "https://open.spotify.com/album/1amzwTCEfiGcehQLIFu4M1"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110757,
+      "name": "The One That You Call",
+      "url": "https://open.spotify.com/track/3VeSUTrht19Ecb6BnHh5ld"
     },
     {
       "album": {

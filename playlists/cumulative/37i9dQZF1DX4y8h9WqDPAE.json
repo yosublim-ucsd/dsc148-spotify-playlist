@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: thisizlondon",
   "name": "Channel-X",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166272,
       "name": "77 Degrees (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/10MebW3TqVEc8jVLeUBb0U"
@@ -522,6 +522,24 @@
       "duration_ms": 195528,
       "name": "act iv: fckin u again (18+)",
       "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
+    },
+    {
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa"
+      },
+      "artists": [
+        {
+          "name": "Brandz",
+          "url": "https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135018,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k"
     },
     {
       "album": {
@@ -2077,6 +2095,46 @@
     },
     {
       "album": {
+        "name": "Breathing (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/0Wdv6Af4UhOXGriWRd26Kr"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208600,
+      "name": "Breathing (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/5C1hdPaaK43VDJ95Apfanq"
+    },
+    {
+      "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/4S8m4NHgZkQQJPywHFnLbC"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196339,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3"
+    },
+    {
+      "album": {
         "name": "SWEET & SPICY (EP)",
         "url": "https://open.spotify.com/album/0TgC75fpouoOHF9LvUgoXg"
       },
@@ -3480,6 +3538,28 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -6334,7 +6414,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
@@ -8200,7 +8280,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151306,
       "name": "Life Size",
       "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
@@ -8570,7 +8650,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 231613,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
@@ -8756,7 +8836,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181080,
       "name": "Low",
       "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
@@ -9853,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
+      "album": {
         "name": "NO EVIL",
         "url": "https://open.spotify.com/album/56Jd4r8JhqgpAk6E43h71R"
       },
@@ -10907,6 +11005,28 @@
     },
     {
       "album": {
+        "name": "PASSENGER SEAT PRINCESS",
+        "url": "https://open.spotify.com/album/1EFVb2KHsYjqaxSAivNpDf"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "PASSENGER SEAT PRINCESS (feat. Destin Laurel)",
+      "url": "https://open.spotify.com/track/6hfujWCUcaL9EW8XXUAFHF"
+    },
+    {
+      "album": {
         "name": "Passion Pt. 2",
         "url": "https://open.spotify.com/album/3kytNG7DtrydrdK8Z0mcCS"
       },
@@ -11030,6 +11150,28 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/5PtIgP17XrTITTrco3uDOr"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162252,
+      "name": "Personal (Remix feat. Popcaan)",
+      "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
     },
     {
       "album": {
@@ -11202,6 +11344,32 @@
       "duration_ms": 164469,
       "name": "PICK YOUR POISON (feat. Stormzy)",
       "url": "https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y"
+    },
+    {
+      "album": {
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
       "album": {
@@ -11858,6 +12026,24 @@
       "duration_ms": 174033,
       "name": "Red Potion",
       "url": "https://open.spotify.com/track/1hVU0YUYyYvTh6cUJv9LHo"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164363,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1"
     },
     {
       "album": {
@@ -12721,6 +12907,24 @@
     },
     {
       "album": {
+        "name": "Shoot it Straight",
+        "url": "https://open.spotify.com/album/1Aa6qHKypisaDeg1SjXzKT"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125262,
+      "name": "Shoot it Straight",
+      "url": "https://open.spotify.com/track/00CkXbvpP3bgjgYC9jbm0n"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -12820,7 +13024,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
@@ -13892,6 +14096,24 @@
       "duration_ms": 144062,
       "name": "Strings (feat. French Montana & Fivio Foreign)",
       "url": "https://open.spotify.com/track/1nrfmk7g1EORXp2a0WnlHc"
+    },
+    {
+      "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
     },
     {
       "album": {
@@ -15872,7 +16094,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 90110,
       "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
       "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
@@ -16576,7 +16798,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"

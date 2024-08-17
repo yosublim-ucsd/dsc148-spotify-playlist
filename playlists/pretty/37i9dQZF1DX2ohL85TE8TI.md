@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Miss Night and Day\(낮과 밤이 다른 그녀\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Romance in the House\(가족X멜로\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,529,839 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,529,882 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stay](https://open.spotify.com/track/1b2IjQzK7jW0cKwZSZ4buN) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Miss Night and Day \- Original Television Soundtrack](https://open.spotify.com/album/2nZFm3bbJwr0rgbcG4ZFJW) | 3:59 |
-| 2 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 |
-| 3 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
-| 4 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 |
-| 5 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 |
+| 1 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 |
+| 2 | [Sudden Shower](https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq) | [ECLIPSE](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve) | [Lovely Runner, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37) | 3:53 |
+| 3 | [Love You With All My Heart](https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Queen of Tears \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx) | 4:04 |
+| 4 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 |
+| 5 | [Stay](https://open.spotify.com/track/1b2IjQzK7jW0cKwZSZ4buN) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Miss Night and Day \- Original Television Soundtrack](https://open.spotify.com/album/2nZFm3bbJwr0rgbcG4ZFJW) | 3:59 |
 | 6 | [Beautiful](https://open.spotify.com/track/6e2JgoDoG0ADpGKTcQ0zAB) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Good Partner \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6C21O1blhlQQdHjhq8pBAz) | 3:57 |
 | 7 | [연애초반](https://open.spotify.com/track/2SkeRyhSD3QQwcLegGLOuC) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ), [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [연애초반 \(나쁜 기억 지우개 X 빈센트블루, 리밋 \(Limit\)\) \- Soundtrack](https://open.spotify.com/album/7eEVkSStrPKy1j9qO66EAA) | 3:48 |
 | 8 | [I Like That](https://open.spotify.com/track/4VrBwIRElcmaiwwSYx9ksk) | [JD1](https://open.spotify.com/artist/6y0LC7jdOFxVUG164nXZoI) | [Miss Night and Day \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4kBtPy6AFSd7tdMpyCnEN4) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Be my wind](https://open.spotify.com/track/5xsKnnxpkMQr9j3Fa16hXp) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Love Song for Illusion, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/75kmD4NmIGzwHaCCE2LNOU) | 3:54 |
 | 100 | [Not alone](https://open.spotify.com/track/2XMxzKKoSN88CuyywFpltL) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Doctor Slump \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/2xVoamsnR6AmT4JtEJINAe) | 4:12 |
 
-Snapshot ID: `Zrl2pAAAAADjtzHteHTYIRmqpUDr7Dna`
+Snapshot ID: `Zr7xFgAAAAAwyjbrftdzs8U5CtlDNLXm`

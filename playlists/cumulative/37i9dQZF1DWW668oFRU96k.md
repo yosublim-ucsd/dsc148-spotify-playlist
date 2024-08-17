@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Don Diablo
 
-1,276 songs - 2 day 16 hr 4 min
+1,277 songs - 2 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,6 +891,7 @@
 | [PHYSICAL](https://open.spotify.com/track/3am2aiyW5kDSG80gxcxbh5) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PHYSICAL](https://open.spotify.com/album/4pdX1ZCBWDBlt6Njy39JhH) | 2:53 | 2024-07-18 |  |
 | [Picture](https://open.spotify.com/track/6sa8gVh0m5qFMeqk9liyXD) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Picture](https://open.spotify.com/album/0Vh5Eq6XcrKL9McjUIyyqd) | 3:18 | 2023-08-24 | 2023-09-29 |
 | [Pilot \(Feel Tonight\)](https://open.spotify.com/track/7qjFLz0faqGferF0I7u5PT) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Pilot \(Feel Tonight\)](https://open.spotify.com/album/43CcDN8KgjXdBtaHHLAN30) | 3:29 | 2023-08-17 | 2023-09-22 |
+| [Pisces](https://open.spotify.com/track/5eTn9Dhl0QvSUk4cuU0iCJ) | [T\-Che](https://open.spotify.com/artist/4zoX8HBXd4gmHlx9eFWDLq) | [Pisces](https://open.spotify.com/album/2cVK9riWnbCCuDgau2jpas) | 5:54 | 2024-08-15 |  |
 | [Places](https://open.spotify.com/track/7KuDz1GSApiK1mQAA5bcwO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Places](https://open.spotify.com/album/5sHlw3rOcrsrij8qvyyNHe) | 3:34 | 2024-07-04 | 2024-08-09 |
 | [Poetry](https://open.spotify.com/track/5Ly8NZO3ReTncvgY56Aj91) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Liam Geddes](https://open.spotify.com/artist/3tpTg64MFkufAStvUlU7B2) | [Poetry](https://open.spotify.com/album/0hitqATQZLJqEnkn5zwQyV) | 3:58 | 2024-02-29 | 2024-04-05 |
 | [Pressure \- Radio Edit](https://open.spotify.com/track/4OIHCpcPtEBHxbcqjFwqjT) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Pressure \(Radio Edit\)](https://open.spotify.com/album/0Q9fA0tY2YEOFYg8GkRR7J) | 3:09 | 2023-03-30 | 2023-05-05 |

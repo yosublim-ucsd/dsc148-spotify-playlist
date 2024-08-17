@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Boj
 
-718 songs - 1 day 11 hr 31 min
+720 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bad4u](https://open.spotify.com/track/47MrcI6SgwA4FRvURaaaZ1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Bad4u](https://open.spotify.com/album/6oWQWuCF0BGQSkGCVnzQN8) | 2:59 | 2022-06-16 | 2022-10-29 |
 | [Balablu](https://open.spotify.com/track/60Sewwrwex32vWYXNi6zgJ) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Hitsound](https://open.spotify.com/artist/1gkLlq1xDlp3krBv3H9zLg) | [Balablu](https://open.spotify.com/album/6bf4XCYj8Y5wvbhrFKW7S9) | 2:27 | 2023-04-27 | 2023-05-05 |
 | [Balance](https://open.spotify.com/track/3Kt5hNbXHXF4i9Uv2lE9t3) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Balance](https://open.spotify.com/album/3dF8lDBMv9ozOybtRhQZ1n) | 4:05 | 2021-12-09 | 2022-01-21 |
-| [BAli](https://open.spotify.com/track/305Ipp0gFu8qANsEaQF5lD) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [BAli](https://open.spotify.com/album/1p8ktNy1jJezjdOHuUhuyh) | 2:32 | 2024-03-25 |  |
+| [BAli](https://open.spotify.com/track/305Ipp0gFu8qANsEaQF5lD) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [BAli](https://open.spotify.com/album/1p8ktNy1jJezjdOHuUhuyh) | 2:32 | 2024-03-25 | 2024-08-17 |
 | [Balotteli X](https://open.spotify.com/track/7DDk2zW6zAZto4uHlSMTiH) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Balotteli X](https://open.spotify.com/album/7zBdUgAHyT2Hpu6ktioxtD) | 1:44 | 2024-02-16 | 2024-03-22 |
 | [Baltimore](https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:38 | 2024-03-21 | 2024-03-25 |
 | [BANDS GO MAKE HER WHAT?](https://open.spotify.com/track/5yy3EgImH4G09iQfjChVNl) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz) | [BANDS GO MAKE HER WHAT?](https://open.spotify.com/album/3woHyLSe3YcUqBKvmN0SHG) | 2:39 | 2023-11-17 | 2023-11-24 |
@@ -399,6 +399,7 @@
 | [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 | 2021-12-09 | 2022-02-04 |
 | [loving is harder](https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [loving is harder](https://open.spotify.com/album/66bXOBWU3SD12I3Hiw6TD9) | 2:29 | 2021-08-27 | 2022-01-14 |
 | [Lucid Cruise 2.0](https://open.spotify.com/track/2vw9YvN1l0plaFQUW2zTdi) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lucid Cruise 2.0](https://open.spotify.com/album/0XouERt5OLjWYljfLNhg0K) | 3:17 | 2022-10-13 | 2022-10-29 |
+| [Lungs](https://open.spotify.com/track/4IaBXEODvoQQzbGOxzQGfy) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Lungs](https://open.spotify.com/album/0cyYxrUNpkm679c66snDo6) | 2:18 | 2024-08-16 |  |
 | [luv in a mosh](https://open.spotify.com/track/2denljXKNduv1Ky8v18NqP) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [EVERYTHING YOU HEARD IS TRUE](https://open.spotify.com/album/2x6YmHjZ0hkVETiz6IJ3EN) | 1:37 | 2024-03-21 | 2024-03-25 |
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2023-03-30 | 2024-02-09 |
 | [Mad](https://open.spotify.com/track/61ro0prgAjKysf8STfmP31) | [Stevjazz](https://open.spotify.com/artist/0iNiJWkRzmHunJnPPeP7ri), [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [Mad](https://open.spotify.com/album/7Mg7s1UT9xl5u0n6EpBv6t) | 1:54 | 2022-08-25 | 2022-09-30 |
@@ -438,6 +439,7 @@
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 |  |
 | [My Dear](https://open.spotify.com/track/4BLiX8Qq3Q2fZgeu0BQEaw) | [OGC](https://open.spotify.com/artist/75TOSyYZpqUWnbMzpfKV57) | [My Dear](https://open.spotify.com/album/2xztOGVgCO2E0GUDhrPepL) | 2:36 | 2024-02-23 | 2024-03-22 |
 | [My Killa](https://open.spotify.com/track/5KOWD6wjr3SYferAnSVYt4) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv), [Anjeli](https://open.spotify.com/artist/6at7m0HyAUud3CXlhwOuqC), [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4) | [SITW/My Killa](https://open.spotify.com/album/21QRyfpVgNvixeecZxqF7j) | 2:49 | 2022-09-01 | 2023-06-17 |
+| [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 |  |
 | [N2P](https://open.spotify.com/track/74vkHzSB21qPkxzkkMN9Ls) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:30 | 2022-10-13 | 2024-03-25 |
 | [Na Die](https://open.spotify.com/track/1TKw7IaM6KS2l7JxY9oplQ) | [Ayzon](https://open.spotify.com/artist/6ttw8B6m9uBsCjZtIm4NAN), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Na Die](https://open.spotify.com/album/2EoNzxyyu0EAXxjiV5t0j5) | 2:27 | 2024-03-01 | 2024-08-09 |
 | [Naija Babes](https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Naija Babes](https://open.spotify.com/album/7ntOCkGQmsuftndPLRGx26) | 2:18 | 2024-05-24 |  |

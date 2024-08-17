@@ -156,7 +156,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208927,
       "name": "Achei um Bom Amigo",
       "url": "https://open.spotify.com/track/0vr7Aa6arlPy6LuraqouKJ"
@@ -868,6 +868,24 @@
       "duration_ms": 168725,
       "name": "De 1 At\u00e9 3",
       "url": "https://open.spotify.com/track/6F5xSGfgWc0ti0FTlzuRZ4"
+    },
+    {
+      "album": {
+        "name": "Deixa Esse Medo",
+        "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125890,
+      "name": "Deixa Esse Medo",
+      "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
     },
     {
       "album": {
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223428,
       "name": "Infinitamente Mais",
       "url": "https://open.spotify.com/track/56Dnb2DiKv5NMfUdNi4cEK"
@@ -2430,6 +2448,28 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "album": {
+        "name": "O Tempo Vai Curar",
+        "url": "https://open.spotify.com/album/52caz5cicFG5uUuhc1B45t"
+      },
+      "artists": [
+        {
+          "name": "DFONNSO",
+          "url": "https://open.spotify.com/artist/1wd9IiAXbROc1j9woj6yOR"
+        },
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "O Tempo Vai Curar",
+      "url": "https://open.spotify.com/track/0UCzwca3vNvZHqMqi5zfJN"
     },
     {
       "album": {

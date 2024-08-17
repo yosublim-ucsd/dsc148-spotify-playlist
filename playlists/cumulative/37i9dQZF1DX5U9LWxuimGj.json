@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/5u81MkIsVVDZtApxC2wBxm"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188232,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/1d0w3hqOzIB5p1qTv2BzC4"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X"
       },

@@ -2089,13 +2089,17 @@
     },
     {
       "album": {
-        "name": "a.s.o. (remixed)",
+        "name": "a.s.o. - remixed",
         "url": "https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC"
       },
       "artists": [
         {
           "name": "a.s.o.",
           "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        },
+        {
+          "name": "Alias Error",
+          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
         },
         {
           "name": "Lew E",

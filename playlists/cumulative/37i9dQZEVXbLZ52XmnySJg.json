@@ -328,7 +328,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
@@ -468,6 +468,40 @@
       "duration_ms": 260133,
       "name": "Aashiqui Aa Gayi(From \"Radhe Shyam\")",
       "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
+    },
+    {
+      "album": {
+        "name": "Aayi Nai (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Aayi Nai (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
     },
     {
       "album": {
@@ -4410,11 +4444,15 @@
         {
           "name": "Arko",
           "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
         }
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/2HbrsAxOZfG0s1xCQuk6nB"
@@ -8034,7 +8072,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198035,
       "name": "Jaanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/6ND2THVLeOyEyS8uxwBwil"
@@ -8052,7 +8090,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 198035,
       "name": "Jaanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
@@ -11203,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "A R Rahman - Live In Dubai - Hindi",
+        "url": "https://open.spotify.com/album/4RCPz40GJcRx709pb8FWTe"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365813,
+      "name": "Maa Tujhe Salaam",
+      "url": "https://open.spotify.com/track/35vXbb8fP4zmZojCCHMmDB"
+    },
+    {
+      "album": {
         "name": "Vande Mataram",
         "url": "https://open.spotify.com/album/7zFbzmYGeZeIoplDTADF0Z"
       },
@@ -11654,7 +11710,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 191647,
       "name": "Manjha",
       "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
@@ -16318,7 +16374,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172408,
       "name": "Samjho Na",
       "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
@@ -16394,7 +16450,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
@@ -18090,7 +18146,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 207157,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw"
@@ -18126,7 +18182,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207157,
       "name": "Tauba Tauba (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/1WaqQIJ0iENGWZ1QmYvYNK"
@@ -19626,7 +19682,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1kDZSmw3mKQeAjcmPTLS3M"
@@ -19686,7 +19742,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 277500,
       "name": "Tum Kya Mile, Pt. 2",
       "url": "https://open.spotify.com/track/13O0A6hqW8oHtQPr2I1vvd"
@@ -20392,7 +20448,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 246988,
       "name": "Ve Kamleya",
       "url": "https://open.spotify.com/track/2e4vEkdm8h8mNnGHSBfTMT"
@@ -20506,7 +20562,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 246988,
       "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/6y5SuF4NxGkvwpAdqcAkD3"

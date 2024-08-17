@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 礼賛 \(Raisan\)
 
-1,702 songs - 4 day 9 hr 51 min
+1,703 songs - 4 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,7 +1088,7 @@
 | [スモーキン・ビリー](https://open.spotify.com/track/6JaF5T2956QWqa4bHfv9aM) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [スモーキン・ビリー](https://open.spotify.com/album/2hjfiA40BEOHHkCaOJiGFD) | 3:14 | 2022-06-07 | 2022-07-01 |
 | [スルーザロンリーナイツ](https://open.spotify.com/track/2gLys6sn8Kas0av2iCdxQT) | [Inshow ha](https://open.spotify.com/artist/6oZfAOrVYegzxjJaaQ0LpA), [チアキ](https://open.spotify.com/artist/5BgZvhd8WV1wd3dChcjNK6) | [スルーザロンリーナイツ](https://open.spotify.com/album/6l8DDXE9nWMDZkib6ulwrY) | 4:22 | 2023-10-31 | 2023-11-08 |
 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 | 2022-05-26 | 2022-07-29 |
-| [セナカアワセ](https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [セナカアワセ](https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f) | 3:16 | 2024-07-23 |  |
+| [セナカアワセ](https://open.spotify.com/track/4I2TRJwkLkxotgmKJWNzPe) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [セナカアワセ](https://open.spotify.com/album/5RSmyqHHJJReS5tVHv0B7f) | 3:16 | 2024-07-23 | 2024-08-17 |
 | [ソー](https://open.spotify.com/track/0Q3bwm9x2p7qOsDQXZ6ahE) | [AIR\-CON BOOM BOOM ONESAN](https://open.spotify.com/artist/5fW0uZmGOE1kmRiqHbxE9Z) | [AIR \- CON BOOM BOOM ONESAN REPUBLIC](https://open.spotify.com/album/4sygk7SMXI6izkFwVprOfg) | 3:26 | 2024-02-20 | 2024-02-28 |
 | [タイトル未定](https://open.spotify.com/track/0H8SceWJV9Qf7kuQqc2xbS) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [タイトル未定](https://open.spotify.com/album/6bz28OpgHgkPnl57Ze8MZ2) | 4:04 | 2023-11-28 | 2023-12-06 |
 | [タイムリミット](https://open.spotify.com/track/1CYC0o7L61Ns3QBJqRWxvn) | [Emiko Suzuki](https://open.spotify.com/artist/76epfImetf9M3joFnNTrlJ) | [タイムリミット](https://open.spotify.com/album/16A2huHIO87s56t0LajnOU) | 2:50 | 2023-06-22 | 2023-06-28 |
@@ -1109,6 +1109,7 @@
 | [トキメキ](https://open.spotify.com/track/77qw8jtFOuBGF27B9sD4sA) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Fool](https://open.spotify.com/album/5DYGmpzZJvoeOWPh23LQtX) | 1:48 | 2022-06-07 | 2022-06-15 |
 | [トマトマシュマロメロン](https://open.spotify.com/track/41xEkGIUlL3AKG46RcrWAZ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [トマトマシュマロメロン](https://open.spotify.com/album/6kOBIm3AWRRcIhKBHqdk7h) | 2:27 | 2022-06-23 | 2022-06-25 |
 | [トランスファー](https://open.spotify.com/track/3Yv2jXpOPgZdZPgnOVK0oI) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [いつかの海](https://open.spotify.com/album/2hWKbb8Vy5CUzu1IzvgRrZ) | 4:08 | 2022-06-07 | 2022-06-15 |
+| [ドッペルゲンガー](https://open.spotify.com/track/3lG2lpAVirM0df8pMMUP1P) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 | 2024-08-13 |  |
 | [ドライブ](https://open.spotify.com/track/3NJctZrBhsRxi55ifJNh26) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 7](https://open.spotify.com/album/2p074ywYtKAJGyJT6ESvPe) | 4:50 | 2022-05-26 | 2023-02-05 |
 | [ドライブ](https://open.spotify.com/track/1M9HY1jU2K3p7LsIDJ0QL9) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 4:51 | 2023-02-03 | 2023-03-08 |
 | [ドラマチック](https://open.spotify.com/track/7ebfvkFg9UGkQDJqkSBr4H) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ドラマチック](https://open.spotify.com/album/56wTjr6MloiUT8jxr34gzU) | 4:04 | 2022-06-21 | 2022-07-22 |

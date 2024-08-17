@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Ravyn Lenae",
+  "description": "Genre-less. Quality first always. Cover: Jean Dawson",
   "name": "POLLEN",
   "tracks": [
     {
@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179538,
       "name": "Blue Car",
       "url": "https://open.spotify.com/track/6q0T53SQOskEXvzI5BcpWR"
@@ -12063,6 +12063,28 @@
     },
     {
       "album": {
+        "name": "Die For Me (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206955,
+      "name": "Die For Me (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
@@ -17584,7 +17606,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -17964,6 +17986,24 @@
       "duration_ms": 264910,
       "name": "Garage Rooftop",
       "url": "https://open.spotify.com/track/1dekstoglmqX3fq3K42sux"
+    },
+    {
+      "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
       "album": {
@@ -21492,6 +21532,24 @@
       "duration_ms": 274412,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2ipbVg9oVEJ6VJMOAwZOVG"
+    },
+    {
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4mhf0XnJKJwrustMTk4hRI"
+      },
+      "artists": [
+        {
+          "name": "Semma",
+          "url": "https://open.spotify.com/artist/63qIQLQgiDrn5JLeftvuoK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184300,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/5tdbBukXi7Hmg7gHXTpgwR"
     },
     {
       "album": {
@@ -28532,7 +28590,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 259204,
       "name": "Lover/Friend",
       "url": "https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y"
@@ -33804,7 +33862,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 292682,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/46zUvDdntnlZRTAZr9nMRS"
@@ -40544,7 +40602,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
@@ -44472,7 +44530,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219861,
       "name": "Sweet Like",
       "url": "https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ"
@@ -49294,6 +49352,24 @@
       "duration_ms": 151220,
       "name": "Want You",
       "url": "https://open.spotify.com/track/3rCfcTci0MDdEQyyZoZWSY"
+    },
+    {
+      "album": {
+        "name": "war",
+        "url": "https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129091,
+      "name": "war",
+      "url": "https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj"
     },
     {
       "album": {

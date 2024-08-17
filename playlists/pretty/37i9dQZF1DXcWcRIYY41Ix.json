@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125005,
+  "num_followers": 125011,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Ay Madrid",
-        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
+        "name": "la ra\u00edz",
+        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
       },
       "artists": [
         {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 181125,
-      "name": "Ay Madrid",
-      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+      "duration_ms": 224501,
+      "name": "la ra\u00edz",
+      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "la ra\u00edz",
-        "url": "https://open.spotify.com/album/0M9JyokZXKo3B1xgg4tDFh"
+        "name": "Ay Madrid",
+        "url": "https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
         }
       ],
-      "duration_ms": 224501,
-      "name": "la ra\u00edz",
-      "url": "https://open.spotify.com/track/2sBmqdqM6wSlSoMM1BSNz2"
+      "duration_ms": 181125,
+      "name": "Ay Madrid",
+      "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "La desped\u00eda",
-        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
-      },
-      "artists": [
-        {
-          "name": "Maestro Espada",
-          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "La desped\u00eda",
-      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231877,
       "name": "Tres Oto\u00f1os (feat. alberto.vela)",
       "url": "https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "La desped\u00eda",
+        "url": "https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ"
+      },
+      "artists": [
+        {
+          "name": "Maestro Espada",
+          "url": "https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu"
+        }
+      ],
+      "duration_ms": 212486,
+      "name": "La desped\u00eda",
+      "url": "https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "SN 2020Z",
-        "url": "https://open.spotify.com/album/0nzy45puRrqJHchb66A3uw"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 207587,
-      "name": "SN 2020Z",
-      "url": "https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/01Xe3VW1jvJEv9rngI9YEI"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 217787,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/4q8zBK2tiTaVKgzroaITdH"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "SN 2020Z",
+        "url": "https://open.spotify.com/album/0nzy45puRrqJHchb66A3uw"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 207587,
+      "name": "SN 2020Z",
+      "url": "https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "El hombre de la habitaci\u00f3n de al lado",
-        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
-      },
-      "artists": [
-        {
-          "name": "Pez Mago",
-          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "El hombre de la habitaci\u00f3n de al lado",
-      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Como Un Amuleto",
         "url": "https://open.spotify.com/album/2qln21nT8RxwJWyJOhSgGU"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+        "name": "El hombre de la habitaci\u00f3n de al lado",
+        "url": "https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC"
       },
       "artists": [
         {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+          "name": "Pez Mago",
+          "url": "https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY"
         }
       ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+      "duration_ms": 234933,
+      "name": "El hombre de la habitaci\u00f3n de al lado",
+      "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Naranjas Al Mar",
-        "url": "https://open.spotify.com/album/1TeVkrngJJKL0wKcOJAOnv"
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
       },
       "artists": [
         {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
         }
       ],
-      "duration_ms": 190468,
-      "name": "Naranjas Al Mar",
-      "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1519,22 +1503,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Pecho Jard\u00edn",
-        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
+        "name": "Naranjas Al Mar",
+        "url": "https://open.spotify.com/album/1TeVkrngJJKL0wKcOJAOnv"
       },
       "artists": [
         {
-          "name": "Alejandro Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
         }
       ],
-      "duration_ms": 282990,
-      "name": "Pecho Jard\u00edn",
-      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+      "duration_ms": 190468,
+      "name": "Naranjas Al Mar",
+      "url": "https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1559,18 +1539,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Regalizz",
-        "url": "https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3"
+        "name": "Pecho Jard\u00edn",
+        "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
       "artists": [
         {
-          "name": "La Helen",
-          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+          "name": "Alejandro Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/1QmdL2FgY8hrUjbKxX3jcK"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
         }
       ],
-      "duration_ms": 224410,
-      "name": "Regalizz",
-      "url": "https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1"
+      "duration_ms": 282990,
+      "name": "Pecho Jard\u00edn",
+      "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 214464,
       "name": "La Noche de Mi Amor",
       "url": "https://open.spotify.com/track/3kMOp6GfCkln4nR91q9ESE"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Regalizz",
+        "url": "https://open.spotify.com/album/53sFr03wfuWm5O8TEPOYO3"
+      },
+      "artists": [
+        {
+          "name": "La Helen",
+          "url": "https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7"
+        }
+      ],
+      "duration_ms": 224410,
+      "name": "Regalizz",
+      "url": "https://open.spotify.com/track/5dzFBixg9nfMGBHRX3T4R1"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Una mica m\u00e9s",
-        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
-      },
-      "artists": [
-        {
-          "name": "Las Migas",
-          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
-        },
-        {
-          "name": "Suu",
-          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
-        }
-      ],
-      "duration_ms": 261775,
-      "name": "Una mica m\u00e9s",
-      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Hoy no tengo nada que hacer",
         "url": "https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 221712,
       "name": "Oye mi Voz",
       "url": "https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Una mica m\u00e9s",
+        "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
+      },
+      "artists": [
+        {
+          "name": "Las Migas",
+          "url": "https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3"
+        },
+        {
+          "name": "Suu",
+          "url": "https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA"
+        }
+      ],
+      "duration_ms": 261775,
+      "name": "Una mica m\u00e9s",
+      "url": "https://open.spotify.com/track/6C36Pk2VkTCwEJ6LB3JMen"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Crezco y no lo veo",
-        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 190561,
-      "name": "Crezco y no lo veo",
-      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 231373,
       "name": "Siembro",
       "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Crezco y no lo veo",
+        "url": "https://open.spotify.com/album/7xxxbjh0tmefVgDoqJjjvr"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 190561,
+      "name": "Crezco y no lo veo",
+      "url": "https://open.spotify.com/track/42lBWRathPCNc7MX35eQg6"
     },
     {
       "added_at": "2024-08-02 06:00:00",

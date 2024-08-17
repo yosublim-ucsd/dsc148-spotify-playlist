@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 
 ### [It Ends With Us Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXcuJwuOjo3cW)
 
-> We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, coming soon to theaters.
+> We love, we break, we pick up the pieces\. Listen to the music from It Ends With Us, now in theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,465 likes - 44 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,530 likes - 44 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJwuOjo3cW.md) - [plain]
 | 43 | [Love The Hell Out Of You \(Guitar Acoustic\) \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/0BQsEkmTXqctAAkViUmWDe) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
 | 44 | [Love The Hell Out Of You \(Strings Version\) \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/track/1zuihTylZH1dbfqS10fXpi) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You \- From The Motion Picture 'It Ends With Us'](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:23 |
 
-Snapshot ID: `ZrangAAAAAAQD2xIM9bjgTKaSF7bk6aP`
+Snapshot ID: `Zr+N5AAAAADnq0u9+R4FmDmtDPY9edxu`

@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 206125,
+  "num_followers": 206197,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "For This Purpose (Live)",
+        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "duration_ms": 379093,
+      "name": "Altar (Live)",
+      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "King Of Kings (Live)",
         "url": "https://open.spotify.com/album/7qoQzOVmbXm4KXjbu7BJVU"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 291565,
       "name": "King Of Kings - Live at Hillsong Conference",
       "url": "https://open.spotify.com/track/4rjkDg26WVRWMZ1XL02z8m"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "For This Purpose (Live)",
-        "url": "https://open.spotify.com/album/2ci3jBSOWzTEsrQ6bnX9if"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        }
-      ],
-      "duration_ms": 379093,
-      "name": "Altar (Live)",
-      "url": "https://open.spotify.com/track/38heLtyRuyWilWcGxFl8Sw"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music|Amanda Lindsey Cook",
-          "url": "https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2"
-        }
-      ],
-      "duration_ms": 391640,
-      "name": "Wonder (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Better Word",
         "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 422626,
       "name": "Wait Upon the Lord (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/54ssR8bIVLOi4S1KH9lcS6"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music|Amanda Lindsey Cook",
+          "url": "https://open.spotify.com/artist/5ZXoFwpHZ0y0Try39IKAZ2"
+        }
+      ],
+      "duration_ms": 391640,
+      "name": "Wonder (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/69PJBGTRrZZQrwbH4TxnIQ"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "Take Courage (Radio Version)",
-      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
         "name": "Praise Before My Breakthrough",
         "url": "https://open.spotify.com/album/2Puh89WKI6MHT2VQLa76Q9"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "Take Courage (Radio Version)",
+      "url": "https://open.spotify.com/track/0GwFwWwKJMRx8LvNrna8Iv"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "This Is Love (Live)",
         "url": "https://open.spotify.com/album/2vBQ6WdlR01gc6iJbwFJdI"
       },
@@ -1119,6 +1119,26 @@
       "duration_ms": 320683,
       "name": "This Is Love - Live",
       "url": "https://open.spotify.com/track/19TTpoQDJmX11sBrLwt7Nx"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+      },
+      "artists": [
+        {
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Meredith Mauldin",
+          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
+        }
+      ],
+      "duration_ms": 488800,
+      "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
+      "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
     },
     {
       "added_at": "2024-08-03 08:12:04",
@@ -1151,26 +1171,6 @@
       "duration_ms": 303141,
       "name": "Midnight - Radio Version",
       "url": "https://open.spotify.com/track/1jn37EplTmgk8ZoXsoHGsu"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
-      },
-      "artists": [
-        {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Meredith Mauldin",
-          "url": "https://open.spotify.com/artist/4O0BmoWXRlZmal3Y4YrT7y"
-        }
-      ],
-      "duration_ms": 488800,
-      "name": "Jesus, Come Be the Center (feat. Meredith Mauldin)",
-      "url": "https://open.spotify.com/track/019bUsr4PoAECWZr49KaVJ"
     },
     {
       "added_at": "2024-08-03 08:12:04",

@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "Allure",
+        "url": "https://open.spotify.com/album/4zslDrVvuPwHAbxd6VOJEv"
+      },
+      "artists": [
+        {
+          "name": "Seventh Dose",
+          "url": "https://open.spotify.com/artist/4mEuEaZY0Med2WBAfZvjyP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Allure",
+      "url": "https://open.spotify.com/track/0BOSb6XK82MpPdY9cdtPzV"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3Sv4Hdijf2RUAMkLjkqjqR"
       },
@@ -928,7 +946,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181093,
       "name": "Big Hit",
       "url": "https://open.spotify.com/track/49FLtA4Wp0ViUcWMuAPG7F"
@@ -986,6 +1004,24 @@
       "duration_ms": 208985,
       "name": "Billow",
       "url": "https://open.spotify.com/track/6WUDy38EMl8ySyeNIizN66"
+    },
+    {
+      "album": {
+        "name": "Bishop",
+        "url": "https://open.spotify.com/album/6EiCp9jppjy93zMv96CDYG"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217762,
+      "name": "Bishop",
+      "url": "https://open.spotify.com/track/6iScOeNCXNDviwf8wGVBMA"
     },
     {
       "album": {
@@ -1076,6 +1112,24 @@
       "duration_ms": 221697,
       "name": "Blank Stare",
       "url": "https://open.spotify.com/track/0ayRdvWxhKZ03sm4xDuGye"
+    },
+    {
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289622,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN"
     },
     {
       "album": {
@@ -2069,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Chow",
+        "url": "https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "Chow",
+      "url": "https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm"
+    },
+    {
+      "album": {
         "name": "Circling the Drain",
         "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
       },
@@ -2978,7 +3050,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165786,
       "name": "Demolition Man",
       "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
@@ -3506,7 +3578,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136840,
       "name": "Esruc",
       "url": "https://open.spotify.com/track/6vH3omqh1aRKVGtpbD4PT0"
@@ -5718,7 +5790,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 226898,
       "name": "JOY",
       "url": "https://open.spotify.com/track/1th9pHQFEu9scMGLQ6JIUX"
@@ -6388,7 +6460,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202840,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6"
@@ -6698,7 +6770,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203026,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj"
@@ -7717,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/22cmhOAfNKARIxF2gUs37T"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194673,
+      "name": "Over & Over",
+      "url": "https://open.spotify.com/track/4PC40ChgiGuNEGBfwMFkv7"
+    },
+    {
+      "album": {
         "name": "Burning Halos",
         "url": "https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO"
       },
@@ -8041,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Port Allan",
+        "url": "https://open.spotify.com/album/6QT6q5wk57T4mEud5tgEqL"
+      },
+      "artists": [
+        {
+          "name": "Semantics",
+          "url": "https://open.spotify.com/artist/3ulcHuTU6eBcORZBJDhG6m"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235138,
+      "name": "Port Allan",
+      "url": "https://open.spotify.com/track/1yFjgcnb3i78OhsDl1SCzN"
+    },
+    {
+      "album": {
         "name": "Positive Charge",
         "url": "https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR"
       },
@@ -8268,7 +8376,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 187482,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD"
@@ -9244,7 +9352,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 208714,
       "name": "Spell",
       "url": "https://open.spotify.com/track/3M5a73GseVS617KuBHxj8t"
@@ -10113,6 +10221,24 @@
     },
     {
       "album": {
+        "name": "Into A Sea Of Gloom",
+        "url": "https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4"
+      },
+      "artists": [
+        {
+          "name": "Kids Don't Float",
+          "url": "https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127383,
+      "name": "Tear The Sky Apart",
+      "url": "https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc"
+    },
+    {
+      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
       },
@@ -10460,6 +10586,24 @@
       "duration_ms": 205644,
       "name": "Things I Don't Feel",
       "url": "https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR"
+    },
+    {
+      "album": {
+        "name": "This Feeling",
+        "url": "https://open.spotify.com/album/0GsvF8QKvM13nSwo5l4LRK"
+      },
+      "artists": [
+        {
+          "name": "Torus",
+          "url": "https://open.spotify.com/artist/2hAbK9kNETmY7FHExyadGM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207168,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/5Z6kzXKiH9vF5BGM57fO4E"
     },
     {
       "album": {

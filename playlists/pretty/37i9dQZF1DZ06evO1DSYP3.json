@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5422,
+  "num_followers": 5421,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADiur59QtwEPJ5fCJ4D/2iv",
+  "snapshot_id": "Zr1FAAAAAACzdSslGGe+xAWtTCkxORVP",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIVE ME A BEAT!",
-        "url": "https://open.spotify.com/album/388GujEhTMzqdyVt1t0IxO"
+        "name": "Going Off",
+        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 123810,
+      "name": "Going Off",
+      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
       "artists": [
         {
@@ -326,23 +342,7 @@
       ],
       "duration_ms": 198165,
       "name": "GIVE ME A BEAT!",
-      "url": "https://open.spotify.com/track/01XhYQFGlrDCYAmyhgIYlA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going Off",
-        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Going Off",
-      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
+      "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
     },
     {
       "added_at": null,
@@ -363,30 +363,6 @@
       "duration_ms": 155571,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 175982,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
     },
     {
       "added_at": null,
@@ -427,6 +403,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175982,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Hunnids (feat. P-Lo) - Single",
         "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
       },
@@ -443,38 +443,6 @@
       "duration_ms": 196905,
       "name": "Blue Hunnids",
       "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
-      },
-      "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "Michael Sneed",
-          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "ClayDough",
-          "url": "https://open.spotify.com/artist/5r7Rbfw8HjHPA5H0lHLyWW"
-        },
-        {
-          "name": "demahjiae",
-          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
-        }
-      ],
-      "duration_ms": 211612,
-      "name": "BIG DREAMS",
-      "url": "https://open.spotify.com/track/5KNpJ3nOEALAJGJcULira0"
     },
     {
       "added_at": null,
@@ -527,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
-      },
-      "artists": [
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        },
-        {
-          "name": "D\u0101M-FunK",
-          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 204943,
-      "name": "Untouchable (feat. P-LO)",
-      "url": "https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -560,13 +504,25 @@
           "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
         },
         {
+          "name": "Michael Sneed",
+          "url": "https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl"
+        },
+        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "ClayDough",
+          "url": "https://open.spotify.com/artist/5r7Rbfw8HjHPA5H0lHLyWW"
+        },
+        {
+          "name": "demahjiae",
+          "url": "https://open.spotify.com/artist/0BajT9ZXitGajSuc16Rass"
         }
       ],
-      "duration_ms": 152759,
-      "name": "LIL LAD (UNIMPRESSED)",
-      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
+      "duration_ms": 211612,
+      "name": "BIG DREAMS",
+      "url": "https://open.spotify.com/track/5KNpJ3nOEALAJGJcULira0"
     },
     {
       "added_at": null,
@@ -591,6 +547,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/3Kr36uWre0SDyAuIVfHePp"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "D\u0101M-FunK",
+          "url": "https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 204943,
+      "name": "Untouchable (feat. P-LO)",
+      "url": "https://open.spotify.com/track/61LUiHGsYksHUqqdXtdtev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -604,9 +584,29 @@
           "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
         }
       ],
-      "duration_ms": 125039,
-      "name": "GEEKED UP",
-      "url": "https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR"
+      "duration_ms": 135163,
+      "name": "MARDI GRAS",
+      "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 152759,
+      "name": "LIL LAD (UNIMPRESSED)",
+      "url": "https://open.spotify.com/track/5nTZU4TjLizQDmbOcqRtlh"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie! 2: The Yeequel",
+        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        }
+      ],
+      "duration_ms": 125039,
+      "name": "GEEKED UP",
+      "url": "https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie! 2: The Yeequel",
-        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        }
-      ],
-      "duration_ms": 135163,
-      "name": "MARDI GRAS",
-      "url": "https://open.spotify.com/track/5W6NELOFUgcZYvsR1tKe9y"
     },
     {
       "added_at": null,
@@ -723,30 +723,6 @@
       "duration_ms": 159064,
       "name": "bamboo",
       "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Connected And Respected",
-        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "B-Legit",
-          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 221287,
-      "name": "Boy (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,
@@ -795,6 +771,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Connected And Respected",
+        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 221287,
+      "name": "Boy (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talkin Bout",
         "url": "https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx"
       },
@@ -807,34 +807,6 @@
       "duration_ms": 117841,
       "name": "Talkin Bout",
       "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
-      },
-      "artists": [
-        {
-          "name": "Dame D.O.L.L.A",
-          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "OG DAYV",
-          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
-      "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
     },
     {
       "added_at": null,
@@ -863,6 +835,34 @@
       "duration_ms": 176634,
       "name": "THUMB (feat. Nef The Pharaoh & ALLBLACK)",
       "url": "https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Dame D.O.L.L.A",
+          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "OG DAYV",
+          "url": "https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
+      "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moovie! 2: The Yeequel",
         "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
       },
@@ -971,22 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
       },
       "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -1003,6 +983,26 @@
       "duration_ms": 197187,
       "name": "Going To Work",
       "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
     },
     {
       "added_at": null,

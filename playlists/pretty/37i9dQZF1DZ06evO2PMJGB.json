@@ -1,12 +1,12 @@
 {
-  "description": "This is Lu\u00edsa Sonza. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 244275,
+  "description": "This Is Lu\u00edsa Sonza. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 244433,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAB4HL7sUAmYhVMaoD7JJCgK",
+  "snapshot_id": "Zr1FAAAAAACR+dik51RJuaGNibuwB7vw",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olhos Castanhos",
-        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 205523,
-      "name": "Olhos Castanhos",
-      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olhos Castanhos",
+        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 205523,
+      "name": "Olhos Castanhos",
+      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
     },
     {
       "added_at": null,

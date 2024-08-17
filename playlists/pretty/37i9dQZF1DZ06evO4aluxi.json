@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 17571,
+  "num_followers": 17576,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAAoCzUNQawGoMX5QDM5i5Je",
+  "snapshot_id": "Zr1FAAAAAAChdTCf9JrFcBAKqp+KXpxD",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Thy Word",
-      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
         "url": "https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 266862,
       "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
       "url": "https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 200986,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
     },
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
       },
       "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 236800,
-      "name": "River Lullaby",
-      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+      "duration_ms": 230266,
+      "name": "Faithful (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Matter What",
-        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
       "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 230266,
-      "name": "Faithful (feat. Amy Grant)",
-      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 294693,
-      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
-      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead (Remastered)",
-        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 210493,
-      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
+      "duration_ms": 294693,
+      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
+      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Belong",
+        "url": "https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Timmons",
+          "url": "https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "I Belong",
+      "url": "https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -735,6 +755,38 @@
       "duration_ms": 252333,
       "name": "Raining On The Inside",
       "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
     },
     {
       "added_at": null,
@@ -759,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Love (Remastered)",
-        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
       },
       "artists": [
         {
@@ -768,45 +820,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 249386,
-      "name": "Lucky One",
-      "url": "https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Belong",
-        "url": "https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ"
-      },
-      "artists": [
-        {
-          "name": "Tim Timmons",
-          "url": "https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "I Belong",
-      "url": "https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 198546,
       "name": "Could I Have This Dance",
       "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-617 songs - 1 day 6 hr 23 min
+620 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Bountiful](https://open.spotify.com/track/5VzPfqAPty6kWuGywackk7) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Bountiful](https://open.spotify.com/album/3c2XFnhG8jgzSvUivAxY5h) | 2:29 | 2024-05-04 | 2024-07-10 |
 | [Boy Blowing Bubbles](https://open.spotify.com/track/4vhjKm3JGXjBefwblXlExw) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Boy Blowing Bubbles](https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6) | 2:37 | 2023-10-20 | 2024-03-21 |
 | [Breathe into the Still](https://open.spotify.com/track/0IsEyOQ5ObJcX1tnuXeXqX) | [Rnwy Lites](https://open.spotify.com/artist/6exNpXC777DwaiJHKM6Vy0) | [Breathe into the Still](https://open.spotify.com/album/7ocnlYwMZYzEGm1oGTeWj6) | 3:12 | 2023-10-20 | 2024-02-09 |
+| [Bridge](https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Bridge](https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h) | 2:55 | 2024-08-16 |  |
 | [Brief Moment](https://open.spotify.com/track/5OfZLjDUzrke9xWALBYVD7) | [Megan Elofius](https://open.spotify.com/artist/5L1XP5AqWWx7KskdRSiYFo) | [Brief Moment](https://open.spotify.com/album/2aDP4doHSJRMY2ldK185fD) | 3:04 | 2023-10-20 | 2024-03-21 |
 | [Brillo En El Mar](https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Brillo En El Mar](https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP) | 2:54 | 2023-10-20 | 2024-02-28 |
 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 | 2023-10-20 | 2024-02-09 |
@@ -95,6 +96,7 @@
 | [Calming Quality](https://open.spotify.com/track/7GJkHBbDnQ0JxgWoRWrcT9) | [Auxelia](https://open.spotify.com/artist/3IH62hlsEFxT7wDV7Sr3sj) | [Calming Quality](https://open.spotify.com/album/0ora1RTOVwglH8GQhc2GE2) | 3:18 | 2023-10-20 | 2024-05-05 |
 | [Calmness](https://open.spotify.com/track/0bVFmCgiejByOZ7c93zb7V) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Calmness](https://open.spotify.com/album/6rl4AYZm2ceF0B15vSkGtZ) | 3:00 | 2024-01-17 | 2024-07-16 |
 | [Canvas Of Dreams](https://open.spotify.com/track/6ggbzDPtCQKf3UxSy9ScyD) | [Lamente](https://open.spotify.com/artist/4Ag7w2NgcYPYHbqPgTp3Tq) | [Canvas Of Dreams](https://open.spotify.com/album/5QKI9bvr95E70LY8i6fTb8) | 3:02 | 2024-05-20 |  |
+| [Capacity](https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Capacity](https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c) | 3:00 | 2024-08-16 |  |
 | [Carnivoran](https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA) | [Sigmund Clyde](https://open.spotify.com/artist/7mRt5HifjBM95zliVtLK5F) | [Nasal Bones](https://open.spotify.com/album/0VQEEw2XIiA8DsfCoj2t3y) | 3:20 | 2023-10-20 | 2024-02-09 |
 | [Cassiopeia](https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh) | [Elysian Lotus](https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w) | [Cassiopeia](https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6) | 2:55 | 2024-03-20 |  |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 |  |
@@ -249,7 +251,7 @@
 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 | 2023-10-20 | 2024-02-28 |
 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 | 2023-10-20 | 2024-04-06 |
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-01-17 |  |
-| [Harmonic Clouds](https://open.spotify.com/track/5umtWFlo2kVPO8kxt0XhBI) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Harmonic Clouds](https://open.spotify.com/album/3XfKO4bOiGszE5U4nByU2Q) | 2:41 | 2024-01-17 |  |
+| [Harmonic Clouds](https://open.spotify.com/track/5umtWFlo2kVPO8kxt0XhBI) | [Clunieux](https://open.spotify.com/artist/7xBhOeyWNHk7r0Fl3I9d1k) | [Harmonic Clouds](https://open.spotify.com/album/3XfKO4bOiGszE5U4nByU2Q) | 2:41 | 2024-01-17 | 2024-08-17 |
 | [Harmony](https://open.spotify.com/track/1BDeMV08uNUpETmWGTfQFw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Harmony](https://open.spotify.com/album/03jsme3lLmwGjMm6fbSpzb) | 3:00 | 2023-10-20 | 2024-05-05 |
 | [Harvest Moon](https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Harvest Moon](https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd) | 3:08 | 2024-08-02 |  |
 | [Heart On The Tree](https://open.spotify.com/track/3cGW4cNhCTp8FzftakSFVy) | [Flamesoth](https://open.spotify.com/artist/2NnJcKlJCOhholG1vtsNOQ) | [Breathless](https://open.spotify.com/album/6kFVxQdoU5r5Fv90ICz0qn) | 3:04 | 2023-10-20 | 2024-03-21 |
@@ -570,6 +572,7 @@
 | [Through The Sky](https://open.spotify.com/track/4LJ0mcVqXgcPHVOwzIJv8B) | [On A Cloud](https://open.spotify.com/artist/68sd27bqb8nHxgO6lh9tEo) | [Through The Sky](https://open.spotify.com/album/1boGfj077LwvawIIi2CfFY) | 2:58 | 2024-02-08 | 2024-03-21 |
 | [Through Your Eyes](https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj) | [Don Mazuck](https://open.spotify.com/artist/45zt0raIfZd0fb6yzSneno) | [Through Your Eyes](https://open.spotify.com/album/5yaMmCGAb7Auv5ZbX0flBQ) | 2:49 | 2023-10-20 | 2024-02-09 |
 | [Tidal](https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Tidal](https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5) | 2:40 | 2024-03-06 |  |
+| [Tides](https://open.spotify.com/track/6RPNnOJ5l8PsTea79JNWej) | [Manuel Wall](https://open.spotify.com/artist/3RMH13VbjWYtpxwgAkF3cU) | [Tides](https://open.spotify.com/album/6wVyOjxR3E0yX5y3okLyQH) | 2:54 | 2024-08-16 |  |
 | [Tillbakalutande](https://open.spotify.com/track/4oAVmszDgIihib6QBxqjEh) | [Eleonora Feldt](https://open.spotify.com/artist/3N5bWM0Opalb3v1tWy6NJn) | [Tillbakalutande](https://open.spotify.com/album/6tJFLs7M0pE7ZTuCllaBDk) | 2:43 | 2023-10-20 | 2024-04-06 |
 | [Times](https://open.spotify.com/track/55zjeIIywlkvH80y1bmOL7) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [Times](https://open.spotify.com/album/2tBc8cJWSFFPIbq9bL00XY) | 2:54 | 2024-02-08 | 2024-07-16 |
 | [Tones](https://open.spotify.com/track/4qHvnvsZb43pDVNJiK14Z8) | [Elijah Sevan](https://open.spotify.com/artist/7xvxVsKZXEY0elcJ7i8HzN) | [Tones](https://open.spotify.com/album/4aHpLQWGS51gVc5vDtrQlw) | 2:48 | 2023-10-20 | 2024-03-21 |

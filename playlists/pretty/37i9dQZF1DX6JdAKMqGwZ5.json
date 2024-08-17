@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: Tanxugueiras.",
-  "num_followers": 194686,
+  "num_followers": 194726,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "En memoria de las cicatrices",
-        "url": "https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "En memoria de las cicatrices",
-      "url": "https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Nost\u00e0lgia Airlines",
         "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 176176,
       "name": "Pura geografia",
       "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "En memoria de las cicatrices",
+        "url": "https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "En memoria de las cicatrices",
+      "url": "https://open.spotify.com/track/5lP1pNkWObsnmBsRY7qT1W"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ni una sola palabra",
-        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
-      },
-      "artists": [
-        {
-          "name": "dani dicostas",
-          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
-        }
-      ],
-      "duration_ms": 211567,
-      "name": "Ni una sola palabra",
-      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Con otra cabeza",
         "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 149352,
       "name": "Con otra cabeza",
       "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Ni una sola palabra",
+        "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
+      },
+      "artists": [
+        {
+          "name": "dani dicostas",
+          "url": "https://open.spotify.com/artist/2k4Jys5s77VnAucRQ6WUSl"
+        }
+      ],
+      "duration_ms": 211567,
+      "name": "Ni una sola palabra",
+      "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 196084,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "El farsante",
         "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 182768,
       "name": "El farsante",
       "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 196084,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sin Morir Espero",
-        "url": "https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7"
+        "name": "Bailar Llorando",
+        "url": "https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby"
       },
       "artists": [
         {
-          "name": "Alba Morena",
-          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+          "name": "Carmen 113",
+          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
         }
       ],
-      "duration_ms": 159925,
-      "name": "Sin Morir Espero",
-      "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
+      "duration_ms": 163593,
+      "name": "Bailar Llorando",
+      "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1099,18 +1099,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Bailar Llorando",
-        "url": "https://open.spotify.com/album/5iMaYIQuXTCxtSdN7ylLby"
+        "name": "Sin Morir Espero",
+        "url": "https://open.spotify.com/album/27KNT9vF7Z74yjcAIJMZF7"
       },
       "artists": [
         {
-          "name": "Carmen 113",
-          "url": "https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe"
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
         }
       ],
-      "duration_ms": 163593,
-      "name": "Bailar Llorando",
-      "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
+      "duration_ms": 159925,
+      "name": "Sin Morir Espero",
+      "url": "https://open.spotify.com/track/54OlnFeQ7GvVciKv7yUavv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "MATCHPOINT!",
+        "url": "https://open.spotify.com/album/5AKCt1BVoVVdXAHWSWAzZh"
+      },
+      "artists": [
+        {
+          "name": "Desmelenao",
+          "url": "https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m"
+        },
+        {
+          "name": "Alba Morena",
+          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "MATCHPOINT!",
+      "url": "https://open.spotify.com/track/080505yqCmNc5Lqjx0uqCu"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1203,6 +1223,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "El Porvenir",
+        "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
+      },
+      "artists": [
+        {
+          "name": "Ale Acosta",
+          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
+        },
+        {
+          "name": "Depedro",
+          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
+        }
+      ],
+      "duration_ms": 232157,
+      "name": "Famara (feat. Depedro)",
+      "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "un beso y una flor",
         "url": "https://open.spotify.com/album/2f5b0JZTneMgOWC78ACg0p"
       },
@@ -1235,46 +1275,6 @@
       "duration_ms": 147789,
       "name": "No Te Voy a Besar",
       "url": "https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "El Porvenir",
-        "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
-      },
-      "artists": [
-        {
-          "name": "Ale Acosta",
-          "url": "https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx"
-        },
-        {
-          "name": "Depedro",
-          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
-        }
-      ],
-      "duration_ms": 232157,
-      "name": "Famara (feat. Depedro)",
-      "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "MATCHPOINT!",
-        "url": "https://open.spotify.com/album/5AKCt1BVoVVdXAHWSWAzZh"
-      },
-      "artists": [
-        {
-          "name": "Desmelenao",
-          "url": "https://open.spotify.com/artist/5e3AeuzcPHLKIimvkRlK5m"
-        },
-        {
-          "name": "Alba Morena",
-          "url": "https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "MATCHPOINT!",
-      "url": "https://open.spotify.com/track/080505yqCmNc5Lqjx0uqCu"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Cre\u00ed que era eterno",
-        "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
-      },
-      "artists": [
-        {
-          "name": "Sienna",
-          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
-        }
-      ],
-      "duration_ms": 192516,
-      "name": "Cre\u00ed que era eterno",
-      "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "sangre y sal",
         "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Cre\u00ed que era eterno",
+        "url": "https://open.spotify.com/album/0ScaKkT4wLKLPonVW0zLXH"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "duration_ms": 192516,
+      "name": "Cre\u00ed que era eterno",
+      "url": "https://open.spotify.com/track/0Tg0GZmGnB7nozNRy8OMxX"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "BLU",
         "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
@@ -1395,22 +1395,6 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "KORAJE",
-        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
-      },
-      "artists": [
-        {
-          "name": "Malva Vela",
-          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
-        }
-      ],
-      "duration_ms": 226549,
-      "name": "KORAJE",
-      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "KORAJE",
+        "url": "https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE"
+      },
+      "artists": [
+        {
+          "name": "Malva Vela",
+          "url": "https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz"
+        }
+      ],
+      "duration_ms": 226549,
+      "name": "KORAJE",
+      "url": "https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Si Tengo Suerte",
         "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
       },
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
+        "name": "la del cretino",
+        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
       },
       "artists": [
         {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+          "name": "vatocholo",
+          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
         }
       ],
-      "duration_ms": 114799,
-      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
+      "duration_ms": 216373,
+      "name": "la del cretino",
+      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "la del cretino",
-        "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
       },
       "artists": [
         {
-          "name": "vatocholo",
-          "url": "https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8"
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
         }
       ],
-      "duration_ms": 216373,
-      "name": "la del cretino",
-      "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1611,26 +1611,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Mimetizarnos",
-        "url": "https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L"
-      },
-      "artists": [
-        {
-          "name": "TAURO",
-          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
-        },
-        {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
-        }
-      ],
-      "duration_ms": 172562,
-      "name": "Mimetizarnos",
-      "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "AL OTRO LADO",
         "url": "https://open.spotify.com/album/6AAmEXwhaKrKWwg4hDhpXF"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 183524,
       "name": "Valle La Pena",
       "url": "https://open.spotify.com/track/0olSeXCDZo7HXTS9rHOH5i"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Mimetizarnos",
+        "url": "https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L"
+      },
+      "artists": [
+        {
+          "name": "TAURO",
+          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
+        },
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 172562,
+      "name": "Mimetizarnos",
+      "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
     },
     {
       "added_at": "2024-08-15 22:00:00",

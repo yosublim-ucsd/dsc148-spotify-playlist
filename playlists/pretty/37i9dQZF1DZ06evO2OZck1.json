@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 50413,
+  "num_followers": 50435,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAASaCc7psid68/FDE0VlASM",
+  "snapshot_id": "Zr1FAAAAAADf9PUf8YXmC9ayNkQAB949",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Fantastico",
-      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WOO! GO!",
         "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199413,
       "name": "WOO! GO!",
       "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR"
     },
     {
       "added_at": null,

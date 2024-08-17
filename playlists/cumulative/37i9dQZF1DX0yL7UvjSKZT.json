@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 322678,
       "name": "Cloak of the Sun",
       "url": "https://open.spotify.com/track/2UoPZNMav7zszKwGVf1GQ6"
@@ -6103,6 +6103,24 @@
     },
     {
       "album": {
+        "name": "Shield of Ages",
+        "url": "https://open.spotify.com/album/2me8tfhRTn1wYUBJw6gQIg"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258730,
+      "name": "Shield of Ages",
+      "url": "https://open.spotify.com/track/66INvc6jfELPow7I41l06P"
+    },
+    {
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/6iLR9EKDzM24YbNisa5mdc"
       },
@@ -6288,6 +6306,24 @@
       "duration_ms": 185040,
       "name": "Small Towns (Are Smaller for Girls)",
       "url": "https://open.spotify.com/track/5kOTn1SJ6cYZflxDX3ujaU"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/5LK9FIIcTQ7mcNq9HoeSzL"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182961,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/5phyocQUvFInRtHBHZLl8F"
     },
     {
       "album": {
@@ -6754,6 +6790,24 @@
       "duration_ms": 195571,
       "name": "Sweet Dreams, Caroline",
       "url": "https://open.spotify.com/track/4mIkX72rmpjwcwRn8UrYYj"
+    },
+    {
+      "album": {
+        "name": "Livin' by the Water",
+        "url": "https://open.spotify.com/album/2rWKNPrNt1MNNMwge3V8L2"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196424,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/6owT9dDLEt4IHs09znfkBd"
     },
     {
       "album": {
@@ -8252,7 +8306,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244186,
       "name": "Whirlwind",
       "url": "https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV"

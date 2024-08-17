@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Tan Bionica & Airbag
 
-339 songs - 1 day 1 hr 36 min
+340 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Angelito \- En Vivo](https://open.spotify.com/track/7IfpWTvwmgaQDvAVIThyuv) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Fantasmas Peleándole al Viento \(En Vivo\)](https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV) | 6:09 | 2022-06-24 | 2022-10-11 |
 | [Antes y Después](https://open.spotify.com/track/51udgXvhgt7foEEU26KDzg) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro Y los Persas En el Estadio de River](https://open.spotify.com/album/7DXwwQCZscyehAJoCC38jW) | 6:09 | 2023-10-06 | 2024-04-19 |
 | [Antes y Después \(En Vivo en River 2018\)](https://open.spotify.com/track/3O3RCDvoRRDKKcxdz43mKt) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 6:09 | 2022-04-01 | 2022-07-29 |
+| [Apocalipsis Confort \- En Vivo](https://open.spotify.com/track/5TROXg7dli2D1zzkcsvTij) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Apocalipsis Confort \- En Vivo](https://open.spotify.com/album/0VoOoho59C0nXYJUttEUwi) | 4:21 | 2024-08-15 |  |
 | [Arde la ciudad](https://open.spotify.com/track/4TAdfQJXaMWfJK63aGH2zJ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Vivire Viajando](https://open.spotify.com/album/0A6UwA0TXPMBiJG0m3O1Rg) | 4:13 | 2022-04-01 |  |
 | [Arruinarse \(feat\. Airbag\) \- En Vivo En River Plate](https://open.spotify.com/track/7GSS3AEO9emTV5yXJ66V0i) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU), [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Arruinarse \(feat\. Airbag\) \[En Vivo En River Plate\]](https://open.spotify.com/album/28d02LdDvtRAuB3oojgsQ0) | 5:49 | 2024-07-19 |  |
 | [Astros \(En Vivo en River 2018\)](https://open.spotify.com/track/2XLbqpwSsnURbn6uVPIgcK) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Eg7xsCicx687vDBSKqLcC) | 4:40 | 2022-04-01 | 2022-07-26 |
@@ -239,7 +240,7 @@
 | [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 | 2023-11-23 | 2024-08-16 |
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2023-07-09 |
 | [Para las Almas Sensibles \- En Vivo](https://open.spotify.com/track/53rOvzrY1XciuQh0mPQLMU) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Una Noche en el Ópera \(En Vivo\)](https://open.spotify.com/album/3UABaqEy05y9oRktWZNoB7) | 4:05 | 2022-04-01 | 2022-07-17 |
-| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 |  |
+| [Para Que Sigamos Siendo \(En Vivo Estadio Obras\)](https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [XV Años \- En Vivo Estadio Obras](https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX) | 6:17 | 2023-09-21 | 2024-08-17 |
 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 | 2022-04-01 |  |
 | [Pasajero en Extinción \- Remasterizado 2020](https://open.spotify.com/track/0uSEEENxLs5IJw6ysujZUJ) | [Cabezones](https://open.spotify.com/artist/7FGAi3mSjLMsq6p8SErsTA) | [20 Años](https://open.spotify.com/album/1kPk2P5D6QHM4pTRAyzk13) | 4:09 | 2022-04-01 | 2022-07-29 |
 | [Pasos al Costado \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:45 | 2022-04-01 |  |

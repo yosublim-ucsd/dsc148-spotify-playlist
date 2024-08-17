@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ENNIO
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Berq
 
-329 songs - 17 hr 20 min
+330 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [James Blake](https://open.spotify.com/track/2jjmmklmlTnS5WEYrL0MkN) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/0jaT6ytnqXaQ0EhElQg9Zn) | 3:44 | 2023-11-23 | 2024-04-19 |
 | [James Blake](https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [James Blake](https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW) | 3:44 | 2023-11-23 |  |
 | [Jungle](https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore](https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q) | 3:00 | 2021-12-16 | 2022-04-08 |
-| [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 | 2024-06-20 |  |
+| [Jungs](https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Jungs](https://open.spotify.com/album/6xck8Dqp9molj0ILkbwMbV) | 2:36 | 2024-06-20 | 2024-08-17 |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-02 | 2023-05-19 |
 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 | 2022-09-22 | 2024-02-16 |
 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 | 2022-12-15 | 2023-10-06 |
@@ -268,6 +268,7 @@
 | [STAINS](https://open.spotify.com/track/4PpDml43LDgWgpWlIxYYkT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [STAINS](https://open.spotify.com/album/77QgUYaKPNBK58mobKp7g7) | 5:46 | 2022-06-30 | 2023-02-10 |
 | [Stamina](https://open.spotify.com/track/4Xc2s9nE10G9kAGNQWneSp) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W), [Slimka](https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN) | [Stamina](https://open.spotify.com/album/2xSEFShNJW2V7g9nq5eSMp) | 3:33 | 2023-03-16 | 2023-04-07 |
 | [Star](https://open.spotify.com/track/5iSi0kDbvBcXc7ninaQiE2) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Star](https://open.spotify.com/album/6wukO4YtfgoQP5aGZ5q7gi) | 2:38 | 2023-07-27 | 2023-09-15 |
+| [Still](https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Still](https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25) | 2:16 | 2024-08-16 |  |
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-27 |  |
 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 | 2023-08-31 |  |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |

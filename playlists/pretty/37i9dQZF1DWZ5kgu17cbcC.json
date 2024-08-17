@@ -1,12 +1,12 @@
 {
   "description": "Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.",
-  "num_followers": 220872,
+  "num_followers": 220841,
   "original_name": "Hulu Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpnkwAAAAAD04BQSkOeB3vEW/XMzzXyU",
+  "snapshot_id": "Zr+0jwAAAADS/5a2eGeRZkdljeN2X9Qx",
   "tracks": [
     {
       "added_at": "2024-04-01 18:12:12",
@@ -83,6 +83,30 @@
       "duration_ms": 111733,
       "name": "Main Title (Sh\u014dgun)",
       "url": "https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT"
+    },
+    {
+      "added_at": "2024-08-16 20:20:31",
+      "album": {
+        "name": "Sh\u014dgun (Vol. 2) - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0PwtZGtmu3TfkuUkWxs8PZ"
+      },
+      "artists": [
+        {
+          "name": "Atticus Ross",
+          "url": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+        },
+        {
+          "name": "Leopold Ross",
+          "url": "https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS"
+        },
+        {
+          "name": "Nick Chuba",
+          "url": "https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G"
+        }
+      ],
+      "duration_ms": 91133,
+      "name": "Duty Endures",
+      "url": "https://open.spotify.com/track/6vnLuvqARrcKspbXFcHvsb"
     },
     {
       "added_at": "2024-04-12 01:30:09",

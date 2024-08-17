@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-210 songs - 9 hr 16 min
+211 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Antarctica](https://open.spotify.com/track/70vSSq0cTXUQzJD9fgtiCb) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Antarctica](https://open.spotify.com/album/1oWEYEC46CHtNyWkhayjtz) | 3:51 | 2023-01-06 | 2023-06-10 |
 | [Aria Math](https://open.spotify.com/track/0QeYTfxC3BchP1Hzn5HGPd) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Aria Math](https://open.spotify.com/album/4hIpj10UfZXzkhbocSxDXh) | 4:05 | 2022-12-16 |  |
 | [Ascension](https://open.spotify.com/track/655HUrteca32fCVbWCHe0b) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627), [Cowbell Christ](https://open.spotify.com/artist/1U1JvyVp0OJeyQowx6HOlm) | [Ascension](https://open.spotify.com/album/1sQ5onguS8iW0SfZb6WSoZ) | 2:00 | 2022-10-10 |  |
+| [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 | 2024-08-16 |  |
 | [AUTUMN SLEEP \- Slowed & Reverb](https://open.spotify.com/track/7pmw88lKWUHx00WHK4RqsM) | [OBLXKQ](https://open.spotify.com/artist/5kJn98Wf7hk1J7nn5sg67l), [eyfect](https://open.spotify.com/artist/2k4XvivwTpFDQhgN34RYcn) | [ETERNAL IN MEMORIUM \(Slowed & Reverb\)](https://open.spotify.com/album/4Pae9lPOsqOttCwzchxIWi) | 1:52 | 2022-10-10 | 2023-01-21 |
 | [BEAT EM DOWN](https://open.spotify.com/track/6WPu5r9lYZvZqMAIvPQrTs) | [DJ VIOLENCE](https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m) | [BEAT EM DOWN](https://open.spotify.com/album/0sHkjvCz8MMYOElNjt2Nq1) | 3:12 | 2022-10-10 | 2023-03-11 |
 | [Beat Magico Que Mexe Com a Sua](https://open.spotify.com/track/7iy7fR8TZRAKhHa7jiVy0P) | [Sxuth](https://open.spotify.com/artist/4zKFyMklFpXcDXAAr8YO4t) | [Beat Magico Que Mexe Com a Sua](https://open.spotify.com/album/4AqbEBHBpFtVWMlOix6Oc7) | 3:02 | 2023-06-16 | 2023-10-04 |
@@ -133,7 +134,7 @@
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-02-22 | 2024-04-19 |
 | [Moog City 2](https://open.spotify.com/track/5ZRKfEdvg8sRBi6F8LCXmc) | [bxkq](https://open.spotify.com/artist/65lEC99xqy295XmDhg1KtW) | [New World 2](https://open.spotify.com/album/6qQuNWgENDmCA19f01Zy0w) | 3:05 | 2023-06-09 | 2023-09-09 |
 | [MUSEUM OF THE VOID](https://open.spotify.com/track/6rDjt5uh8wte2GzZHQxVzT) | [ETERNVL SVDNESS](https://open.spotify.com/artist/0FNnibWWGPh1bSwBkcUrMg) | [CULTURE OF FUTURITY](https://open.spotify.com/album/38f0sIVlHZbIhEBlKeb0OF) | 2:49 | 2022-10-10 | 2022-12-17 |
-| [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 | 2023-05-05 |  |
+| [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 | 2023-05-05 | 2024-08-17 |
 | [MY LIFE](https://open.spotify.com/track/053gZ2j8c8cVK9ec5nPJbZ) | [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh), [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A) | [MY LIFE](https://open.spotify.com/album/5G2cyv4KGkZ1z033AbZjOV) | 1:52 | 2023-09-29 |  |
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 | 2023-01-21 |
 | [MY WORLD](https://open.spotify.com/track/3VDGdOujH6PrDEPzbydrM9) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [MY WORLD](https://open.spotify.com/album/09AkyzOHO3ymWmm9CYz6BF) | 2:03 | 2023-06-09 | 2024-02-23 |

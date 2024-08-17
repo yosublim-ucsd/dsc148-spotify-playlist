@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/01J98dwPpA63Vw1tX9Qiqy"
+      },
+      "artists": [
+        {
+          "name": "The Latenites",
+          "url": "https://open.spotify.com/artist/1RTNdrrEeA08zSItuqbn1r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232319,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/2LXmCjncKHHcNxXBorMxEV"
+    },
+    {
+      "album": {
         "name": "N64 / Affogato",
         "url": "https://open.spotify.com/album/41V5QX9pmhliqt8Ww2hIhH"
       },
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188307,
       "name": "Bodyshake",
       "url": "https://open.spotify.com/track/1TkuDbAh4sYcPbLKLK2fg5"
@@ -17486,7 +17504,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156279,
       "name": "Hit Me",
       "url": "https://open.spotify.com/track/6X23ZjqPL5rfGlbzxN5oBJ"
@@ -22959,6 +22977,24 @@
     },
     {
       "album": {
+        "name": "Lost My Mind",
+        "url": "https://open.spotify.com/album/1t2sroUscU3d3ih6JCpmJL"
+      },
+      "artists": [
+        {
+          "name": "BAN DELLO",
+          "url": "https://open.spotify.com/artist/4BrGkYYLoyb06i8FeuXV8v"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139023,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/5ptGCJ91ao9SRTaoZuEoEt"
+    },
+    {
+      "album": {
         "name": "Lost Myself",
         "url": "https://open.spotify.com/album/2jwyexfdTDFCq7eA7XqCbs"
       },
@@ -23268,6 +23304,24 @@
       "duration_ms": 206670,
       "name": "Lovedata",
       "url": "https://open.spotify.com/track/0byrx9AGVNLUhMrZBuHZNC"
+    },
+    {
+      "album": {
+        "name": "Loveguard",
+        "url": "https://open.spotify.com/album/3hmEvGRbHhlbw8HTtuI55N"
+      },
+      "artists": [
+        {
+          "name": "SKILE",
+          "url": "https://open.spotify.com/artist/74pogZ0aEj6VvDqKyz54yZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160957,
+      "name": "Loveguard",
+      "url": "https://open.spotify.com/track/2WRQalginfUIKukTiYdymL"
     },
     {
       "album": {
@@ -26576,7 +26630,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 299076,
       "name": "New York",
       "url": "https://open.spotify.com/track/1VQ95vCO1eZX99YYhm76QO"
@@ -26830,6 +26884,24 @@
       "duration_ms": 172800,
       "name": "No Drugs",
       "url": "https://open.spotify.com/track/0TFJemtFTaBQ12HwKiRPx3"
+    },
+    {
+      "album": {
+        "name": "No Fuss",
+        "url": "https://open.spotify.com/album/6eBZIYBzvYIXen9WmKgt0w"
+      },
+      "artists": [
+        {
+          "name": "Allan Low",
+          "url": "https://open.spotify.com/artist/10fRQ9UPedAiR089JYZZPN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "No Fuss",
+      "url": "https://open.spotify.com/track/3AwN4UWWMsqKcSZ2DJ75my"
     },
     {
       "album": {
@@ -38240,7 +38312,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 348196,
       "name": "The Ones",
       "url": "https://open.spotify.com/track/6Qzy9nPhJapriERr3FnUCu"

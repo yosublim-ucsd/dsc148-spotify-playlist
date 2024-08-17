@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156925,
       "name": "Canaillou",
       "url": "https://open.spotify.com/track/6LgStwh7l5Y91je4vuT6EC"
@@ -2711,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "EL GEMANO",
+        "url": "https://open.spotify.com/album/7MNh4XFiOSs4hHUkeGkfr4"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "EL GEMANO",
+      "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
+    },
+    {
+      "album": {
         "name": "Babacar (Remasteris\u00e9 en 2004)",
         "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
       },
@@ -2984,7 +3006,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177632,
       "name": "Fimbu",
       "url": "https://open.spotify.com/track/12rxH5rW5Do2hFcxSDpgyV"
@@ -4037,6 +4059,28 @@
     },
     {
       "album": {
+        "name": "Jeu De Jambes",
+        "url": "https://open.spotify.com/album/5xQTwahw6idIgUImvZJ7Om"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        },
+        {
+          "name": "Patson",
+          "url": "https://open.spotify.com/artist/1fhKApXTs6yTNnItlQ0Vo0"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Jeu De Jambes",
+      "url": "https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6"
+    },
+    {
+      "album": {
         "name": "Cats On Trees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y"
       },
@@ -4421,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "La trace",
+        "url": "https://open.spotify.com/album/54WqA4P88nX9CXc7PEK2uw"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181942,
+      "name": "La trace",
+      "url": "https://open.spotify.com/track/0E18hNahhPTSipvzAF31BB"
+    },
+    {
+      "album": {
         "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
@@ -4534,6 +4596,28 @@
       "duration_ms": 176013,
       "name": "Larme \u00e0 gauche",
       "url": "https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH"
+    },
+    {
+      "album": {
+        "name": "las vegas",
+        "url": "https://open.spotify.com/album/0F1vJ3NMMSBBgEITmjZEjx"
+      },
+      "artists": [
+        {
+          "name": "MadeInParis",
+          "url": "https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU"
+        },
+        {
+          "name": "BGRZ",
+          "url": "https://open.spotify.com/artist/6ZqlzWhnD6ctHRKh59uzMz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117165,
+      "name": "las vegas",
+      "url": "https://open.spotify.com/track/1IQ7K7VlR6vbATMo5Tt7SB"
     },
     {
       "album": {
@@ -6140,7 +6224,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 291866,
       "name": "Nti nti mon amour",
       "url": "https://open.spotify.com/track/3DPTEGIrjiTTEDSB6Rju2I"
@@ -8152,7 +8236,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
@@ -8902,6 +8986,24 @@
       "duration_ms": 199586,
       "name": "Zarzour",
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
+    },
+    {
+      "album": {
+        "name": "Zinzin",
+        "url": "https://open.spotify.com/album/3MOmjjL0LIHPUCPcYqIvfo"
+      },
+      "artists": [
+        {
+          "name": "H.E.M",
+          "url": "https://open.spotify.com/artist/06E6Q3eafhcSctpcIvzrTb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Zinzin",
+      "url": "https://open.spotify.com/track/0OOtwqPM1JImq7MLaG0b24"
     },
     {
       "album": {

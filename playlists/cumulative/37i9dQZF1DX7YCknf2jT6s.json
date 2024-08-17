@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Braxton Cook",
+  "description": "New jazz for open minds. Cover: Nubya Garcia",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 196613,
       "name": "Adam Alphabet",
       "url": "https://open.spotify.com/track/0YJT0lJS3GtXvJFlLu3XMV"
@@ -4649,6 +4649,32 @@
     },
     {
       "album": {
+        "name": "On Imagination",
+        "url": "https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev"
+      },
+      "artists": [
+        {
+          "name": "Ebonie Smith",
+          "url": "https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS"
+        },
+        {
+          "name": "On Imagination",
+          "url": "https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77086,
+      "name": "Calling Dreams (feat. Flyana Boss)",
+      "url": "https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN"
+    },
+    {
+      "album": {
         "name": "Camille",
         "url": "https://open.spotify.com/album/0Sw01YfIZjpmuPfq6N73ai"
       },
@@ -5404,7 +5430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 375291,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/4OroPOlqY8tPrAFNfRHKIS"
@@ -7394,7 +7420,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 93132,
       "name": "Don't Trip",
       "url": "https://open.spotify.com/track/4L8pGSUivnPwGsXIWAvGIF"
@@ -7526,6 +7552,36 @@
       "duration_ms": 369626,
       "name": "Dou",
       "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
+    },
+    {
+      "album": {
+        "name": "Double Entendre",
+        "url": "https://open.spotify.com/album/38ObGgBOt3XWjoXIobokkl"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Joe Cleveland",
+          "url": "https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg"
+        },
+        {
+          "name": "Stixx Taylor",
+          "url": "https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg"
+        },
+        {
+          "name": "Dominique Xavier",
+          "url": "https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379584,
+      "name": "Double Entendre",
+      "url": "https://open.spotify.com/track/4FWosPafFYxKL54oZB62tW"
     },
     {
       "album": {
@@ -8034,7 +8090,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 236985,
       "name": "early",
       "url": "https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY"
@@ -13859,6 +13915,24 @@
     },
     {
       "album": {
+        "name": "JAYBIRD100",
+        "url": "https://open.spotify.com/album/3ohHwGF0jcgBsVRtB56u3B"
+      },
+      "artists": [
+        {
+          "name": "Robert Edwards",
+          "url": "https://open.spotify.com/artist/5DmkuH4UiV7WesTUXh8itQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298466,
+      "name": "Jay Bird",
+      "url": "https://open.spotify.com/track/0VmsUOVB4o995oUmSaUB6Y"
+    },
+    {
+      "album": {
         "name": "JAZZ IS DEAD (feat. Gary Bartz & Kassa Overall)",
         "url": "https://open.spotify.com/album/52hb2bb8dacjqXLRLhyCZZ"
       },
@@ -16920,7 +16994,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158145,
       "name": "Meet Me Here",
       "url": "https://open.spotify.com/track/46JkP9tJzFL9bwXFQ85GD8"
@@ -16978,6 +17052,28 @@
       "duration_ms": 158504,
       "name": "Meteor Shower",
       "url": "https://open.spotify.com/track/0R6ahuW9r6OYv2wcsrl6Wj"
+    },
+    {
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje"
+        },
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282272,
+      "name": "Mica Moon",
+      "url": "https://open.spotify.com/track/1aS55TheI2I8uKwn85Lnd0"
     },
     {
       "album": {
@@ -18476,7 +18572,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 266060,
       "name": "New York",
       "url": "https://open.spotify.com/track/6BrJgJclatdJ0K8adzAhYY"
@@ -19174,6 +19270,32 @@
       "duration_ms": 338977,
       "name": "Oakland",
       "url": "https://open.spotify.com/track/12JtmOiSDB5YrXKWbGf7Ir"
+    },
+    {
+      "album": {
+        "name": "Obi Do Woa (If Someone Loves You)",
+        "url": "https://open.spotify.com/album/4V2vd2jBsyxQuhCJuBAKlN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232900,
+      "name": "Obi Do Woa (If Someone Loves You)",
+      "url": "https://open.spotify.com/track/6CAftbOe4g66XHh4HNsW1Q"
     },
     {
       "album": {
@@ -19921,6 +20043,32 @@
     },
     {
       "album": {
+        "name": "Ottobre",
+        "url": "https://open.spotify.com/album/7xUXA0rvAJOHdpmRMMMhnI"
+      },
+      "artists": [
+        {
+          "name": "Domenico Sanna",
+          "url": "https://open.spotify.com/artist/7FzyFf3LPN7errxLk8j2Sp"
+        },
+        {
+          "name": "Ameen Saleem",
+          "url": "https://open.spotify.com/artist/06PqoAQfQ2qejtBsWr5022"
+        },
+        {
+          "name": "Gregory Hutchinson",
+          "url": "https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336906,
+      "name": "Ottobre",
+      "url": "https://open.spotify.com/track/37EtjdiQZuYPgQ6A5fkE7D"
+    },
+    {
+      "album": {
         "name": "Oumuamua",
         "url": "https://open.spotify.com/album/6nuVkm6dza8i2UAhTppVIg"
       },
@@ -20052,7 +20200,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 257624,
       "name": "Outer Sea",
       "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
@@ -22608,7 +22756,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 275760,
       "name": "Riffette",
       "url": "https://open.spotify.com/track/4792cfwk2pZoBTfqm6F098"
@@ -23582,6 +23730,28 @@
       "duration_ms": 122000,
       "name": "Serenity's Illumination",
       "url": "https://open.spotify.com/track/28gdOAMvTLUKrIZnGXRll9"
+    },
+    {
+      "album": {
+        "name": "Set It Free [Feat. Richie]",
+        "url": "https://open.spotify.com/album/4cHbKnuwv6Y9EmEWvefqgY"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245403,
+      "name": "Set It Free [Feat. Richie]",
+      "url": "https://open.spotify.com/track/6NV7Oyl0h2FzLvDC2IrVM4"
     },
     {
       "album": {
@@ -25561,6 +25731,40 @@
     },
     {
       "album": {
+        "name": "Stories Untold",
+        "url": "https://open.spotify.com/album/7I31LI7vnpEvvaL9WBfbxZ"
+      },
+      "artists": [
+        {
+          "name": "Chiminyo",
+          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
+        },
+        {
+          "name": "Pouya Ehsaei",
+          "url": "https://open.spotify.com/artist/5KmxxBzGfPEMSK5LHhXNGn"
+        },
+        {
+          "name": "sam warner",
+          "url": "https://open.spotify.com/artist/4PO7cBYgYdl00Jht9qSEz1"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        },
+        {
+          "name": "YUIS",
+          "url": "https://open.spotify.com/artist/3NqLVcPDL026pXktKrGA9X"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239065,
+      "name": "Stories Untold",
+      "url": "https://open.spotify.com/track/60M9BNpDYRRHOzRfs9goAO"
+    },
+    {
+      "album": {
         "name": "Story Untold",
         "url": "https://open.spotify.com/album/1HC0YtWVIFdKMBmYNEMGuK"
       },
@@ -25790,6 +25994,24 @@
       "duration_ms": 119053,
       "name": "String Feelings",
       "url": "https://open.spotify.com/track/1HFutJnyYvkl8vOlcu1pP0"
+    },
+    {
+      "album": {
+        "name": "Stuff Happens",
+        "url": "https://open.spotify.com/album/3qhrFMIHrZC6wPP5hxmPn4"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416440,
+      "name": "Stuff Happens",
+      "url": "https://open.spotify.com/track/7yOvhfKshKkcVKoXl7uyYk"
     },
     {
       "album": {
@@ -27922,7 +28144,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157415,
       "name": "The Love That I Feel",
       "url": "https://open.spotify.com/track/4Sq1bPCB5HM70lljG68qsZ"
@@ -28404,6 +28626,44 @@
       "duration_ms": 339674,
       "name": "The Storm Will Pass",
       "url": "https://open.spotify.com/track/0CcZcX4yIRKlbbJ98u9Hcp"
+    },
+    {
+      "album": {
+        "name": "The Stunt Man",
+        "url": "https://open.spotify.com/album/5PnI5RzrRRCC8wwxToCybR"
+      },
+      "artists": [
+        {
+          "name": "The Headhunters",
+          "url": "https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT"
+        },
+        {
+          "name": "Bill Summers",
+          "url": "https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG"
+        },
+        {
+          "name": "Mike Clark",
+          "url": "https://open.spotify.com/artist/52gTviyJD418MV6uUsjf6k"
+        },
+        {
+          "name": "Donald Harrison",
+          "url": "https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb"
+        },
+        {
+          "name": "Kyle Roussel",
+          "url": "https://open.spotify.com/artist/0YeH8ZTHzZZw0dqE1XVCZi"
+        },
+        {
+          "name": "Chris Severin",
+          "url": "https://open.spotify.com/artist/0KdWhB893jPoeFdidMNGyF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358520,
+      "name": "The Stunt Man",
+      "url": "https://open.spotify.com/track/3DDJ34JYZNJgsOpB5i3DdR"
     },
     {
       "album": {
@@ -30084,7 +30344,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 409594,
       "name": "Unconscious Whispers",
       "url": "https://open.spotify.com/track/7vs0QT0b8gSp18FB8VG9hx"

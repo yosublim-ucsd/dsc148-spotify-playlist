@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Charlie Musselwhite",
-  "num_followers": 788227,
+  "num_followers": 788222,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowwvgAAAACxJzqSv32osyFqoUj1jmDS",
+  "snapshot_id": "Zr7OwAAAAADuQUGsonY19qdVLY4ZDruj",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "West Georgia Blues",
+        "url": "https://open.spotify.com/album/6AtGzcv5yfg0aqqbmpo4HE"
+      },
+      "artists": [
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
+        }
+      ],
+      "duration_ms": 149453,
+      "name": "Time Brings About a Change",
+      "url": "https://open.spotify.com/track/4CBTXGS8L2hvBeBU2cjy0Z"
+    },
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
@@ -775,22 +791,6 @@
       "duration_ms": 261493,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/2hVQh6Yq26Qjk8tEp484Vb"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Spectacular Class",
-        "url": "https://open.spotify.com/album/3VnetMqM2L9pmXcdgixAq8"
-      },
-      "artists": [
-        {
-          "name": "Jontavious Willis",
-          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
-        }
-      ],
-      "duration_ms": 176525,
-      "name": "Take Me to the Country",
-      "url": "https://open.spotify.com/track/3zq0O9elfqNSrIWM9S5eV2"
     },
     {
       "added_at": "2020-08-11 16:18:31",

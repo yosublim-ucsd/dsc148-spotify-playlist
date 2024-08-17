@@ -2,9 +2,9 @@
 
 ### [Modern Blues Rock](https://open.spotify.com/playlist/37i9dQZF1DX7Y7BqFok9IQ)
 
-> The best of modern blues rock\. Cover: Larkin Poe
+> The best of modern blues rock\. Cover: Joe Bonamassa
 
-334 songs - 21 hr 32 min
+336 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ballad of a Thin Man](https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is..\. 25](https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m) | 6:33 | 2022-11-04 | 2023-08-26 |
 | [Ballad of a Thin Man](https://open.spotify.com/track/3SFUwGNG1YuyZgBiDbMun6) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Ballad of a Thin Man](https://open.spotify.com/album/1UR6yF1dvoYhX3D2koRIzT) | 6:33 | 2022-10-28 | 2023-08-04 |
 | [Be Your Own Invention](https://open.spotify.com/track/1AfZrLEQLftSm2HsvGat4s) | [Henry's Funeral Shoe](https://open.spotify.com/artist/3KTPs5Fok7A2VrDWNBlr4f) | [Donkey Jacket](https://open.spotify.com/album/4GaibnEGmTlmMKutYQ80iI) | 5:18 | 2020-10-16 |  |
+| [Better The Devil You Know](https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Better The Devil You Know](https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8) | 4:41 | 2024-08-16 |  |
 | [Between Me and the Devil](https://open.spotify.com/track/0Dt5wjxCps2aaTJnQyt4lb) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:08 | 2021-06-18 | 2024-04-19 |
 | [Between Me and the Devil](https://open.spotify.com/track/3psWJDKW0A50XiCdqg4HVK) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Between Me and the Devil](https://open.spotify.com/album/2LElrhEghTn9zIJXhEer3z) | 3:08 | 2021-06-11 |  |
 | [Big Legged Woman](https://open.spotify.com/track/37RtOpFMu0i0wzjtK7c1bn) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 4:00 | 2024-05-24 | 2024-07-06 |
@@ -42,7 +43,7 @@
 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 | 2020-10-16 | 2024-07-19 |
 | [Black Magic](https://open.spotify.com/track/6qWbdBTcF2u7zvSXLxKRZx) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/7uIZLgnTNZEJ1d0iO0qvEo) | 2:48 | 2020-10-16 | 2024-04-19 |
 | [Black Moon](https://open.spotify.com/track/13F76PKJYIWbG986buVo66) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [The Wolves Are Coming](https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK) | 2:40 | 2024-02-23 |  |
-| [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 |  |
+| [Black Roses](https://open.spotify.com/track/5uiW9HcD9edXu2Gk65v9pj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:01 | 2022-10-21 | 2024-08-17 |
 | [Black Speakers](https://open.spotify.com/track/1nsSAObs1qdg5cRtzS9qCm) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Neanderthal Jam](https://open.spotify.com/album/11ILTtRztjMJLorRziNAkI) | 4:24 | 2022-08-26 | 2024-04-19 |
 | [Black Speakers](https://open.spotify.com/track/33ybiYIMl7PwGLZz0bETGy) | [Datura4](https://open.spotify.com/artist/3mA3sO1zseVtFQ56oqlJYk) | [Black Speakers](https://open.spotify.com/album/3qFMig0PZVFxzrh9z6M8hm) | 4:24 | 2022-08-26 |  |
 | [Blinded](https://open.spotify.com/track/027LnYtc3AvNAtEPVljiRB) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Blinded](https://open.spotify.com/album/5UR9aMOqwtsE6usHfRxMsW) | 2:50 | 2021-10-08 | 2022-07-27 |
@@ -170,6 +171,7 @@
 | [Little Thing Gone Wild](https://open.spotify.com/track/0KSkqC5o5e3birYoEY9bkk) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/4bqvmPwZxKndCe4DrsLbuV) | 3:19 | 2020-10-16 |  |
 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 | 2020-10-16 | 2024-04-19 |
 | [Lonely Road](https://open.spotify.com/track/38hLO27dbXiuyDoLdq2hHh) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Lonely Road](https://open.spotify.com/album/5VL4wl6fXGSQoAIJTC1ISo) | 3:44 | 2023-04-21 | 2023-06-24 |
+| [Long Way Down](https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Long Way Down](https://open.spotify.com/album/7g2BjgygWUGgHFp5LwGyHS) | 3:51 | 2024-08-16 |  |
 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 | 2022-10-21 | 2023-05-17 |
 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 2:45 | 2022-10-14 |  |
 | [Love & Peace](https://open.spotify.com/track/7qqRahwHKrtbNSLgu6Wtg9) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Love & Peace](https://open.spotify.com/album/7IWzUoiQj0lYIiq97ChEzo) | 5:59 | 2020-10-16 | 2023-06-03 |
@@ -190,7 +192,7 @@
 | [Muddy Water](https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Muddy Water](https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun) | 4:48 | 2022-03-18 |  |
 | [My Lucky Card](https://open.spotify.com/track/12u0n2WRFPk77ABpMpZf1n) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [My Lucky Card](https://open.spotify.com/album/6DHPzfzyUVucpFf74jHCTr) | 2:33 | 2021-05-14 | 2022-07-29 |
 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 | 2021-05-14 | 2024-01-27 |
-| [Never Made It To Memphis](https://open.spotify.com/track/3grlrtWpHXHPtyLu6kWawn) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Never Made It To Memphis](https://open.spotify.com/album/1SDFJ44buRab1oJZiN1UOv) | 4:20 | 2024-07-12 |  |
+| [Never Made It To Memphis](https://open.spotify.com/track/3grlrtWpHXHPtyLu6kWawn) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Never Made It To Memphis](https://open.spotify.com/album/1SDFJ44buRab1oJZiN1UOv) | 4:20 | 2024-07-12 | 2024-08-17 |
 | [No Blood From A Stone](https://open.spotify.com/track/5wnuJCeGo4AWr1iFYYxksC) | [Shawn James](https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm) | [A Place In The Unknown](https://open.spotify.com/album/5m8eSQ62CafLZhBjKEEYw6) | 3:39 | 2022-02-25 | 2022-08-14 |
 | [No Good](https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM) | [Chase Walker Band](https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB) | [No Good](https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M) | 2:35 | 2023-09-15 |  |
 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 | 2023-08-18 |  |

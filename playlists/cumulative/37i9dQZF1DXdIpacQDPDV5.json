@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Zedd & Remi Wolf",
+  "description": "The best of today's dance hits. Cover: Peggy Gou",
   "name": "mint Canada",
   "tracks": [
     {
@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207664,
       "name": "6 Million",
       "url": "https://open.spotify.com/track/2WMwdoeIrqPNYoJzg5K0cy"
@@ -802,6 +802,28 @@
       "duration_ms": 186288,
       "name": "Ain't 2 Proud",
       "url": "https://open.spotify.com/track/7kK9PFkIHWRr1jAN1XE5ey"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t Giving Up",
+        "url": "https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
     },
     {
       "album": {
@@ -2000,6 +2022,28 @@
       "duration_ms": 174310,
       "name": "back2u",
       "url": "https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8"
+    },
+    {
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "album": {
@@ -6230,7 +6274,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 147707,
       "name": "Drip Sweat (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/4r7e8yV4Xem3iC4hkkI4Hn"
@@ -6558,6 +6602,28 @@
       "duration_ms": 179612,
       "name": "EDGE - 2024 Version",
       "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
+    },
+    {
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
     },
     {
       "album": {
@@ -8031,6 +8097,24 @@
     },
     {
       "album": {
+        "name": "Find The Way",
+        "url": "https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Find The Way",
+      "url": "https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn"
+    },
+    {
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -8980,6 +9064,32 @@
       "duration_ms": 183934,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa"
+    },
+    {
+      "album": {
+        "name": "Get You Down (feat. Francis Waves)",
+        "url": "https://open.spotify.com/album/0GUhpHXyHwDJh3fzaHOBFS"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Takis",
+          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
+        },
+        {
+          "name": "Francis Waves",
+          "url": "https://open.spotify.com/artist/2MtNvH6rCmF6fZW5FhIzlo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140606,
+      "name": "Get You Down (feat. Francis Waves)",
+      "url": "https://open.spotify.com/track/2NCukcbTFBI8M2wnguauqC"
     },
     {
       "album": {
@@ -14777,6 +14887,28 @@
     },
     {
       "album": {
+        "name": "Lonely Space Cowboy",
+        "url": "https://open.spotify.com/album/7jGfrcJEOPOOBjhNelDUiO"
+      },
+      "artists": [
+        {
+          "name": "Sugar Jesus",
+          "url": "https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219374,
+      "name": "Lonely Space Cowboy",
+      "url": "https://open.spotify.com/track/5DOAjQXMFC2fSAvEgTkj3h"
+    },
+    {
+      "album": {
         "name": "Looking at Your Pager",
         "url": "https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz"
       },
@@ -19096,7 +19228,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 222908,
       "name": "Out of Time (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/10t8QGZXfGCeAnEWSaWymM"
@@ -22068,7 +22200,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198750,
       "name": "Savage",
       "url": "https://open.spotify.com/track/4gSIwT7QNE9XLPR8hIk9Ah"
@@ -23196,7 +23328,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 124931,
       "name": "Sippin",
       "url": "https://open.spotify.com/track/7kgq3ZdX63WVDahd2thHQB"
@@ -24896,7 +25028,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183307,
       "name": "take my time",
       "url": "https://open.spotify.com/track/0FGuaUntFJcCjrwa3b1xsf"

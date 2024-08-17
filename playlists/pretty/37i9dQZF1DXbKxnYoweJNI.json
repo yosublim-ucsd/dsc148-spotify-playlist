@@ -1,6 +1,6 @@
 {
   "description": "\u7368\u7acb\u5c31\u662f\u786c\u5730\u81ea\u4e3b\uff0c\u97f3\u6a02\u5c31\u8981\u5c55\u73fe\u98a8\u683c\uff0c\u52a0\u8d77\u4f86\u5c31\u662f\u75db\u5feb\uff01Cover: \u7f8e\u79c0\u96c6\u5718  x \u76e7\u5ee3\u4ef2 (Amazing Show x Crowd Lu)",
-  "num_followers": 60493,
+  "num_followers": 60518,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-08-15 16:00:00",
       "album": {
+        "name": "\u8a72\u6b7b\u7684\u7d50\u5c40",
+        "url": "https://open.spotify.com/album/0eFOPuItlkSdSrh7HCKHzY"
+      },
+      "artists": [
+        {
+          "name": "Wadewei",
+          "url": "https://open.spotify.com/artist/3NO1uEvxv7DM2ZIeSHTQG0"
+        }
+      ],
+      "duration_ms": 233513,
+      "name": "\u8a72\u6b7b\u7684\u7d50\u5c40",
+      "url": "https://open.spotify.com/track/1DjRpNCvgcV2TsUkO01jBu"
+    },
+    {
+      "added_at": "2024-08-15 16:00:00",
+      "album": {
         "name": "\u9019\u4e9b\u65e5\u5b50\u4ee5\u4f86",
         "url": "https://open.spotify.com/album/5zBUqIPkaA5BzBBZYmpygD"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 267500,
       "name": "\u9519\u8fc7",
       "url": "https://open.spotify.com/track/099YTMOk0bGpsjUCdR7DZp"
+    },
+    {
+      "added_at": "2024-08-15 16:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6fIjnQnBCt1NGmU9w6FIUc"
+      },
+      "artists": [
+        {
+          "name": "Aiden Chen",
+          "url": "https://open.spotify.com/artist/4fN8OLPzgJFd7t40sbomjB"
+        }
+      ],
+      "duration_ms": 194795,
+      "name": "\u76f8\u50cf",
+      "url": "https://open.spotify.com/track/5FBjb0I25KrkDI0nDApQhv"
     },
     {
       "added_at": "2024-08-15 16:00:00",

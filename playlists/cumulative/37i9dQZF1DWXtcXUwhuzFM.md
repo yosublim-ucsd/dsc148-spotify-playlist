@@ -4,7 +4,7 @@
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Gasellit ja Ellinoora.
 
-1,862 songs - 4 day 0 hr 32 min
+1,864 songs - 4 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-14 | 2024-06-21 |
 | [Bully](https://open.spotify.com/track/09Cn90pZmF9dzDgP3LJvRz) | [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk) | [Bully](https://open.spotify.com/album/7meb4Yr57V7TmJsZ4JSr4G) | 2:24 | 2024-08-15 |  |
 | [Bumerangi](https://open.spotify.com/track/5OmEynQM0uAZN0RoxcxZdN) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Bumerangi](https://open.spotify.com/album/5WGKUg8xCORjijuzcI10pP) | 2:45 | 2024-04-26 | 2024-05-03 |
+| [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-15 |  |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-04 | 2024-07-12 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Butterflies](https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Butterflies](https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH) | 3:08 | 2024-08-08 | 2024-08-16 |
@@ -332,6 +333,7 @@
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-11 | 2024-07-19 |
 | [Didn't Have To](https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 2:20 | 2024-07-04 | 2024-07-12 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2024-07-19 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-08 | 2024-08-16 |
 | [Different \(Feat\. The Shapeshifters\)](https://open.spotify.com/track/5G75eHPGwOAVMjf6y4xa4i) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Different \(Feat\. The Shapeshifters\)](https://open.spotify.com/album/1CkjIuhwPOoKlAlmMrK7r0) | 3:11 | 2024-07-18 | 2024-07-27 |
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-05-02 | 2024-05-10 |

@@ -2,7 +2,7 @@
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. The essential tracks, all in one playlist.
+> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
 73 songs - 5 hr 55 min
 
@@ -44,8 +44,8 @@
 | [Medley A Doçura do Teu Falar \- Ao Vivo](https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Memórias do Coração \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS) | 8:02 | 2023-09-09 |  |
 | [Meu Bem Maior](https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Meu Bem Maior](https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae) | 3:37 | 2023-07-09 |  |
 | [Mulher de Oração](https://open.spotify.com/track/7i48HRNvitkNXHuWwpH4Q1) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Mulher de Oração](https://open.spotify.com/album/4utor3puCJf5AuXVjqcFGd) | 2:48 | 2024-05-04 | 2024-06-01 |
-| [Não é Tarde](https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:24 | 2023-07-09 | 2024-04-28 |
-| [Não É Tarde \- Ao Vivo](https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [30 Anos na África \(Ao Vivo\)](https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw) | 3:16 | 2024-04-28 |  |
+| [Não é Tarde](https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:24 | 2023-07-09 |  |
+| [Não É Tarde \- Ao Vivo](https://open.spotify.com/track/0umDiXd76MSfzTIiE1nSMN) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [30 Anos na África \(Ao Vivo\)](https://open.spotify.com/album/5091QEo5tIwJagb4poUeiw) | 3:16 | 2024-04-28 | 2024-08-17 |
 | [O Amor Que Cura](https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:16 | 2023-07-09 | 2024-02-04 |
 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 | 2024-02-03 |  |
 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:01 | 2023-07-09 |  |

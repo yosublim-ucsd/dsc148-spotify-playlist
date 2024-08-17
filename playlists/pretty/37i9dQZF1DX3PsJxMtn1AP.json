@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74714,
+  "num_followers": 74719,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrpM/QAAAABc/umf+zaf9LMO9vWLtlWV",
+  "snapshot_id": "Zr+yhgAAAAC0+XmxXF/lC71N63wfAYER",
   "tracks": [
     {
       "added_at": "2024-08-12 17:57:17",
@@ -105,6 +105,46 @@
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
+      "added_at": "2024-08-16 19:15:20",
+      "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "nothing",
+        "url": "https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Weird Moments",
+      "url": "https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n"
+    },
+    {
       "added_at": "2024-07-01 18:02:25",
       "album": {
         "name": "Technicolor Dream",
@@ -119,6 +159,22 @@
       "duration_ms": 250085,
       "name": "Technicolor Dream",
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
+    },
+    {
+      "added_at": "2024-08-16 20:11:50",
+      "album": {
+        "name": "Metropolis",
+        "url": "https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Metropolis",
+      "url": "https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG"
     },
     {
       "added_at": "2024-07-20 14:39:43",
@@ -307,6 +363,30 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/6ZGBCwQYjflgFEh42TFru0"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 191145,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
     },
     {
       "added_at": "2024-06-26 18:53:13",
@@ -521,6 +601,22 @@
       "url": "https://open.spotify.com/track/7KxCbBeAHa5gBbLXPNzzaD"
     },
     {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
       "added_at": "2024-07-05 06:00:00",
       "album": {
         "name": "Love Heart Cheat Code",
@@ -591,6 +687,98 @@
       "duration_ms": 215040,
       "name": "TONY MONTANA",
       "url": "https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "Yo Me Estreso",
+        "url": "https://open.spotify.com/album/4L1khaAO4FthiUXyu2IUj1"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "duration_ms": 193281,
+      "name": "Yo Me Estreso",
+      "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "Sur La Terre",
+        "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 196331,
+      "name": "Sur la terre",
+      "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "Let Them Bells Ring",
+        "url": "https://open.spotify.com/album/1kUem2rJeRdoVwB2UG9nlT"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "Let Them Bells Ring",
+      "url": "https://open.spotify.com/track/5Q8H1439FS6cHNHX7gbubB"
+    },
+    {
+      "added_at": "2024-08-16 19:25:03",
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
     },
     {
       "added_at": "2024-07-29 22:25:24",

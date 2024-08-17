@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 370711,
+  "num_followers": 370756,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADBR7KoZPQm+Mk+Tc/iI0qF",
+  "snapshot_id": "Zr1FAAAAAAAHRFUzGufJaAuJ8i5EUkZe",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 238480,
-      "name": "Apricot Princess",
-      "url": "https://open.spotify.com/track/6SK6sdcklU02bEuhjvs5bK"
+      "duration_ms": 171789,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/6XpbhukKdSB6cnVPW7fgSR"
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/39GNDyrCTPMlXb9JHLAAm3"
+      "duration_ms": 238480,
+      "name": "Apricot Princess",
+      "url": "https://open.spotify.com/track/6SK6sdcklU02bEuhjvs5bK"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got a Friend in Me",
-        "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        },
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 139521,
-      "name": "You've Got a Friend in Me",
-      "url": "https://open.spotify.com/track/2zTvaaqnkgnOa5hdSPV61i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 215426,
       "name": "Forever Always",
       "url": "https://open.spotify.com/track/1Ioxy6OY4NwwxHFS7XLh8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You've Got a Friend in Me",
+        "url": "https://open.spotify.com/album/4xoGLGE2nneHuYg832m5IX"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 139521,
+      "name": "You've Got a Friend in Me",
+      "url": "https://open.spotify.com/track/2zTvaaqnkgnOa5hdSPV61i"
     },
     {
       "added_at": null,

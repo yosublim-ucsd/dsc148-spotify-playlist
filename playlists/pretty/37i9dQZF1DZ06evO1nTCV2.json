@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43459,
+  "num_followers": 43463,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADpQnpBEdEMRC4+d6HbP748",
+  "snapshot_id": "Zr1FAAAAAABBzZIYAyp3jQhUobFxjGrd",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy Tiger",
-        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
+        "name": "Morning Glory",
+        "url": "https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 158293,
-      "name": "Two",
-      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
+      "duration_ms": 404329,
+      "name": "Hey Now",
+      "url": "https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morning Glory",
-        "url": "https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO"
+        "name": "Easy Tiger",
+        "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 404329,
-      "name": "Hey Now",
-      "url": "https://open.spotify.com/track/5aBwKfZ1DtfOj8eH9vMn59"
+      "duration_ms": 158293,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/4Yg9sKLmvYuybzU9Ruiced"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
+        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+      "duration_ms": 232656,
+      "name": "Moon River - Live from Newcastle, UK. 2023",
+      "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
       "duration_ms": 235120,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
       "duration_ms": 204026,
       "name": "Nuclear",
       "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
-        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 232656,
-      "name": "Moon River - Live from Newcastle, UK. 2023",
-      "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
+        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Don't You (Forget About Me) - Live from Glasgow",
+      "url": "https://open.spotify.com/track/6h3BP0ajpt6uvb4vlUpu0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -663,42 +679,6 @@
       "duration_ms": 164466,
       "name": "Style",
       "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
-        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 265700,
-      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
-      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Battle",
-        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Cary",
-          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
-        },
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "The Battle (feat. Ryan Adams)",
-      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
     },
     {
       "added_at": null,
@@ -719,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
-        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
       "artists": [
+        {
+          "name": "Caitlin Cary",
+          "url": "https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk"
+        },
         {
           "name": "Ryan Adams",
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Don't You (Forget About Me) - Live from Glasgow",
-      "url": "https://open.spotify.com/track/6h3BP0ajpt6uvb4vlUpu0g"
+      "duration_ms": 180560,
+      "name": "The Battle (feat. Ryan Adams)",
+      "url": "https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y"
     },
     {
       "added_at": null,
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Sign",
-        "url": "https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS"
+        "name": "Sympathy For The Devil (Live from Edmonton, AL. 2023)",
+        "url": "https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 176557,
-      "name": "Shinin' through the Dark",
-      "url": "https://open.spotify.com/track/3uvqaNcznMbmvaw2zOuJ4n"
+      "duration_ms": 265700,
+      "name": "Sympathy For The Devil - Live from Edmonton, AL. 2023",
+      "url": "https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq"
     },
     {
       "added_at": null,
@@ -815,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinnamon Girl (Live from Calgary, AL. 2023)",
-        "url": "https://open.spotify.com/album/3mi2e18BqDgJGz1p8SZHqL"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 168503,
-      "name": "Cinnamon Girl - Live from Calgary, AL. 2023",
-      "url": "https://open.spotify.com/track/1fbqDTZADDqo1BpVtvFtIJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway Train (Live from Minneapolis, MN. 2022.)",
         "url": "https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 264699,
       "name": "When Doves Cry - Live from Minneapolis, MN. 2022.",
       "url": "https://open.spotify.com/track/07DYpYvOfxSSx7Rwk4WZRm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ryan Adams",
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "Gimme Something Good",
+      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
     }
   ],
   "unique_name": "This Is Ryan Adams",

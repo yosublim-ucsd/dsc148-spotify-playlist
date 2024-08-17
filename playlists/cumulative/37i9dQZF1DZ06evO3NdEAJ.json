@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": ".La Fiera de Ojinaga This is\u200f \u05d4\u05e8\u05e6\u05d5\u05e2\u05d5\u05ea \u05e9\u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05d4\u05db\u05d9\u05e8, \u05de\u05e8\u05d5\u05db\u05d6\u05d5\u05ea \u05d1\u05e4\u05dc\u05d9\u05d9\u05dc\u05d9\u05e1\u05d8 \u05d0\u05d7\u05d3.",
-  "name": "La Fiera de Ojinaga This Is\u200f",
+  "description": "This is La Fiera de Ojinaga. The essential tracks, all in one playlist.",
+  "name": "This Is La Fiera de Ojinaga",
   "tracks": [
     {
       "album": {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181669,
       "name": "El Mejor De Mis D\u00edas",
       "url": "https://open.spotify.com/track/2TiaN5xxTHxUT2jdKAJyP5"
@@ -758,6 +758,24 @@
       "duration_ms": 160235,
       "name": "Si Llegan a Enterarse",
       "url": "https://open.spotify.com/track/235uSINaGqneZry2vVXtx0"
+    },
+    {
+      "album": {
+        "name": "Si Te Quedas Conmigo",
+        "url": "https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136810,
+      "name": "Si Te Quedas Conmigo",
+      "url": "https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT"
     },
     {
       "album": {

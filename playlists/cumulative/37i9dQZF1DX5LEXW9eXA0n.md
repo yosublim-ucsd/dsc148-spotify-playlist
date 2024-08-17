@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: DOYOUNG\(도영\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Onestar\(임한별\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,288 songs - 3 day 11 hr 20 min
+1,289 songs - 3 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -626,6 +626,7 @@
 | [Lonely](https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:04 | 2021-12-20 | 2022-07-08 |
 | [Lonely night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 | 2021-12-23 | 2022-06-30 |
 | [Lonely Night](https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT) | 4:02 | 2021-12-20 | 2022-07-08 |
+| [Lonely Night](https://open.spotify.com/track/57n1vSsM55Is7Z007RnPuM) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Lonely Night](https://open.spotify.com/album/1jdfeH9b7fZ1YJSbSnHik8) | 3:59 | 2024-08-16 |  |
 | [Lonely Sailing](https://open.spotify.com/track/1L10uVWyG4ZuAMksnXJDk3) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [The World of the Married, Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3UMljJKEPzNPDB5y1uioo5) | 4:41 | 2022-03-29 | 2022-04-07 |
 | [Lonely way back home](https://open.spotify.com/track/3edsDNPzvnS7Pr3DyJRLSo) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Lonely way back home](https://open.spotify.com/album/4NDH33cswMmKgVoW7Q4Ou0) | 3:54 | 2022-12-21 | 2023-02-09 |
 | [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-12 | 2022-12-27 |

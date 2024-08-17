@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXXaIQy2nTx.md) - [plain]
 
 > Music from "SAMURAI CHAMPLOO" /「サムライチャンプルー」の楽曲を1つのプレイリストで。©︎manglobe／下井草チャンプルーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,943 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,988 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

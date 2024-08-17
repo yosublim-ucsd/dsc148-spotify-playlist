@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Be\u00e9le, Maria Becerra, Joeboy & Humby ",
-  "num_followers": 117559,
+  "num_followers": 117592,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-06-07 09:14:55",
       "album": {
+        "name": "Afrobocelli",
+        "url": "https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "ULLO\u039b",
+          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Afrobocelli",
+      "url": "https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06"
+    },
+    {
+      "added_at": "2024-06-07 09:14:55",
+      "album": {
         "name": "TumbaGobierno",
         "url": "https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
-    },
-    {
-      "added_at": "2024-06-07 09:14:55",
-      "album": {
-        "name": "Afrobocelli",
-        "url": "https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "ULLO\u039b",
-          "url": "https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Afrobocelli",
-      "url": "https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06"
     },
     {
       "added_at": "2024-06-07 09:14:55",

@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-679 songs - 1 day 14 hr 11 min
+680 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Far Cry](https://open.spotify.com/track/1XbclEPLmGD9jYPzdR4avl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 4:38 | 2022-03-18 | 2022-09-20 |
 | [Favorite What If](https://open.spotify.com/track/5LLaPfgP7Ssw1v5aKqdkre) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Favorite What If](https://open.spotify.com/album/4MCImCKI5cGdXPMp0wtEpb) | 2:52 | 2021-06-26 | 2021-07-04 |
 | [Fear Of Dying](https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fear Of Dying](https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q) | 3:07 | 2022-02-25 | 2022-04-17 |
-| [Feel Less](https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Feel Less](https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6) | 4:01 | 2024-02-09 |  |
+| [Feel Less](https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Feel Less](https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6) | 4:01 | 2024-02-09 | 2024-08-17 |
 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 | 2020-10-13\* | 2021-07-04 |
 | [Feeling Whitney](https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:17 | 2021-06-19 | 2021-07-04 |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-03 | 2022-04-17 |
@@ -487,6 +487,7 @@
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-09 | 2022-10-29 |
 | [Powerline](https://open.spotify.com/track/4DIXN5pGfWjYbIXXYA6pq7) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [\_A BREAK](https://open.spotify.com/album/5goyJEMY4dnRhO9vrxI4wX) | 3:27 | 2020-10-13\* | 2021-02-19 |
 | [pretend \(2003\) \(with Tennyson\)](https://open.spotify.com/track/0wjQx6amJQ61K8tFQaDkgw) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [why can't we just pretend?](https://open.spotify.com/album/3yzDE04dMgYvyZHzJm1p2b) | 2:56 | 2022-04-15 | 2022-05-20 |
+| [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 | 2024-08-16 |  |
 | [Psycho](https://open.spotify.com/track/6YZwJSMNL7hB4ItxZtn7jx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Psycho](https://open.spotify.com/album/5UBAspHjoGNtNAvHAf5aSI) | 3:04 | 2021-07-10 | 2021-10-02 |
 | [PULSE](https://open.spotify.com/track/0QHZGpHLzjeYgcVARNpb29) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [PULSE](https://open.spotify.com/album/5s2CVXsIYs2yangXeisfkk) | 3:09 | 2022-10-21 | 2023-04-14 |
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-01-07 | 2024-01-20 |

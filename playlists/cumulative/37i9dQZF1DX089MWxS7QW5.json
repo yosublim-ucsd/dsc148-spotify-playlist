@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: jeebanoff(\uc9c0\ubc14\ub178\ud504))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: ISHA(\uc774\uc0e4))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -638,6 +638,28 @@
       "duration_ms": 197450,
       "name": "B.T",
       "url": "https://open.spotify.com/track/176b8YUipX6fJi4SQNmMoK"
+    },
+    {
+      "album": {
+        "name": "Baby Cat (Feat. Qim Isle)",
+        "url": "https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A"
+      },
+      "artists": [
+        {
+          "name": "Summer Soul",
+          "url": "https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao"
+        },
+        {
+          "name": "Qim Isle",
+          "url": "https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186998,
+      "name": "Baby Cat (Feat. Qim Isle)",
+      "url": "https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp"
     },
     {
       "album": {
@@ -2684,6 +2706,24 @@
       "duration_ms": 220506,
       "name": "FRR",
       "url": "https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9"
+    },
+    {
+      "album": {
+        "name": "Fxxk U",
+        "url": "https://open.spotify.com/album/1R7rVkQjokKtivCt8dc6wD"
+      },
+      "artists": [
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231652,
+      "name": "Fxxk U",
+      "url": "https://open.spotify.com/track/4r1hWaa99K7i69M5eEEy8V"
     },
     {
       "album": {

@@ -158,7 +158,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214586,
       "name": "ABC",
       "url": "https://open.spotify.com/track/4z77bfxjeVqrPbptqaPd4d"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 195895,
       "name": "Cabron Yo Puedo",
       "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
@@ -676,6 +676,24 @@
       "duration_ms": 154408,
       "name": "Creo Estar So\u00f1ando (En Vivo)",
       "url": "https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N"
+    },
+    {
+      "album": {
+        "name": "NAC\u00cd PARA CANTAR",
+        "url": "https://open.spotify.com/album/07Pw5W4cOW1VEzkyfsEzyR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178053,
+      "name": "Cuando Te Cambian Por Alguien",
+      "url": "https://open.spotify.com/track/33lSiX3Q1UVh2Q8gukiTH9"
     },
     {
       "album": {
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "NAC\u00cd PARA CANTAR",
+        "url": "https://open.spotify.com/album/07Pw5W4cOW1VEzkyfsEzyR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "Noqueado",
+      "url": "https://open.spotify.com/track/2PfxXfnoKEnlKEuRC6tZWQ"
+    },
+    {
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
       },
@@ -2420,6 +2456,28 @@
       "duration_ms": 217613,
       "name": "Que Sepas - En Vivo",
       "url": "https://open.spotify.com/track/6mSf8TimkWgrcpoLiBTN7C"
+    },
+    {
+      "album": {
+        "name": "QuesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
     },
     {
       "album": {

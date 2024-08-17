@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Leon Thomas",
+  "description": "R&B of the moment by the artists of the future. Cover: RINI",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Back in My Body",
+        "url": "https://open.spotify.com/album/1ABXO5zAU7TQYoh5QETYdA"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Back in My Body",
+      "url": "https://open.spotify.com/track/1QAmVJiBVbCr3MYQ7XNQAY"
+    },
+    {
+      "album": {
         "name": "Yam Grier",
         "url": "https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q"
       },
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 181682,
       "name": "better than me",
       "url": "https://open.spotify.com/track/4xSV6XMbiEN5ZlJeKBGSTk"
@@ -1928,6 +1946,24 @@
       "duration_ms": 188421,
       "name": "Bonafide",
       "url": "https://open.spotify.com/track/1jIopA8Imz4gwR8bjBlEjJ"
+    },
+    {
+      "album": {
+        "name": "I'll Finish The Lyrics Later",
+        "url": "https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90572,
+      "name": "BONES",
+      "url": "https://open.spotify.com/track/5OGo4XiomAu2eI2Pc1oZvX"
     },
     {
       "album": {
@@ -2972,7 +3008,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 90069,
       "name": "CIRCLE",
       "url": "https://open.spotify.com/track/6MsNRRTP7BIOUg0VnyGSEP"
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168012,
       "name": "Control",
       "url": "https://open.spotify.com/track/4d68kQcEkzo54yzicu9N9K"
@@ -3556,6 +3592,24 @@
       "duration_ms": 208494,
       "name": "CULTURE",
       "url": "https://open.spotify.com/track/2uhU539AYa4pnq7oNU2AT8"
+    },
+    {
+      "album": {
+        "name": "cum again?",
+        "url": "https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185876,
+      "name": "cum again?",
+      "url": "https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG"
     },
     {
       "album": {
@@ -5253,6 +5307,24 @@
     },
     {
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
+    },
+    {
+      "album": {
         "name": "Fearful",
         "url": "https://open.spotify.com/album/13AvOXQDWRgbfxhQW9wfAY"
       },
@@ -5442,6 +5514,24 @@
       "duration_ms": 157808,
       "name": "Fell Asleep",
       "url": "https://open.spotify.com/track/1kWY5tzwAwSDa3oOLv6KyN"
+    },
+    {
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9"
+      },
+      "artists": [
+        {
+          "name": "Bathe",
+          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Fields",
+      "url": "https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya"
     },
     {
       "album": {
@@ -5900,6 +5990,24 @@
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269055,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
     },
     {
       "album": {
@@ -7973,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "SHIVER",
+        "url": "https://open.spotify.com/album/59RpQ5D83mW6Wu5fpRMUsQ"
+      },
+      "artists": [
+        {
+          "name": "Skylar Simone",
+          "url": "https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "I Wish I Lied",
+      "url": "https://open.spotify.com/track/1veP0WhNefQOYZ8zo1Nvri"
+    },
+    {
+      "album": {
         "name": "3000\u00b0",
         "url": "https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF"
       },
@@ -9296,7 +9422,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 151765,
       "name": "LEMON TREES",
       "url": "https://open.spotify.com/track/3P4nm6VN7ZHA8Xbd4KGkIk"
@@ -10314,6 +10440,24 @@
       "duration_ms": 231532,
       "name": "Mad At Fire",
       "url": "https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII"
+    },
+    {
+      "album": {
+        "name": "Mad At Me",
+        "url": "https://open.spotify.com/album/62Nn5iDRbJrvyKsSaWcPOA"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174821,
+      "name": "Mad At Me",
+      "url": "https://open.spotify.com/track/2wQmcZpQyG5VnUaScPlcTB"
     },
     {
       "album": {
@@ -11901,6 +12045,28 @@
     },
     {
       "album": {
+        "name": "On Ice",
+        "url": "https://open.spotify.com/album/4DBpEwgkwOreuXgLXAeRvc"
+      },
+      "artists": [
+        {
+          "name": "Steven G",
+          "url": "https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140161,
+      "name": "On Ice",
+      "url": "https://open.spotify.com/track/2Deg7XYJBSVidKb7Bwmwkr"
+    },
+    {
+      "album": {
         "name": "Im Him (First Quarter)",
         "url": "https://open.spotify.com/album/7a6k7rlAAlCF0euKrR8vL3"
       },
@@ -12036,6 +12202,28 @@
       "duration_ms": 172235,
       "name": "ONE THING",
       "url": "https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a"
+    },
+    {
+      "album": {
+        "name": "Only For Your Eyes",
+        "url": "https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT"
+      },
+      "artists": [
+        {
+          "name": "A\u00e1yanna",
+          "url": "https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P"
+        },
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140722,
+      "name": "Only For Your Eyes",
+      "url": "https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY"
     },
     {
       "album": {
@@ -12495,6 +12683,28 @@
     },
     {
       "album": {
+        "name": "PASSENGER SEAT PRINCESS",
+        "url": "https://open.spotify.com/album/1EFVb2KHsYjqaxSAivNpDf"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "PASSENGER SEAT PRINCESS (feat. Destin Laurel)",
+      "url": "https://open.spotify.com/track/6hfujWCUcaL9EW8XXUAFHF"
+    },
+    {
+      "album": {
         "name": "Past",
         "url": "https://open.spotify.com/album/5FdrJtnXc19gWY2WgCoUo8"
       },
@@ -12876,6 +13086,24 @@
       "duration_ms": 152574,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "album": {
+        "name": "Essie's World",
+        "url": "https://open.spotify.com/album/5POh4uMQRFPQuZcAMKAtRB"
+      },
+      "artists": [
+        {
+          "name": "Essosa",
+          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187899,
+      "name": "Pluto",
+      "url": "https://open.spotify.com/track/7xup6lJrtfiMnholC8ZK5v"
     },
     {
       "album": {
@@ -15505,6 +15733,24 @@
     },
     {
       "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
+    },
+    {
+      "album": {
         "name": "Sugar (feat. Larry June & SHOW N PROVE)",
         "url": "https://open.spotify.com/album/0h7bTMDZohzz8kfNVBu7oq"
       },
@@ -16481,6 +16727,24 @@
     },
     {
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/68XoaEZT5650PV6tSrw1ad"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/5gLOR2GxtsOszaWpkfTfhR"
+    },
+    {
+      "album": {
         "name": "Before I Let Her Go EP",
         "url": "https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg"
       },
@@ -16906,7 +17170,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
@@ -18930,6 +19194,24 @@
       "duration_ms": 136662,
       "name": "Young & Reckless",
       "url": "https://open.spotify.com/track/6V4PJjy37MgVSZELGsia5P"
+    },
+    {
+      "album": {
+        "name": "Your Ecstasy",
+        "url": "https://open.spotify.com/album/3rvVKbEF5GQWdjA4RfEshs"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228261,
+      "name": "Your Ecstasy",
+      "url": "https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT"
     },
     {
       "album": {

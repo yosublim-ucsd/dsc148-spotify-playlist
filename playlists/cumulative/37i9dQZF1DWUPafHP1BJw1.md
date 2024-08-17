@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-192 songs - 11 hr 28 min
+193 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [I Don't Care](https://open.spotify.com/track/2IkYprcljrcbpoesS5XHGS) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [I Don't Care](https://open.spotify.com/album/6AERAS6KAFgZU8aRGpKbyf) | 3:35 | 2021-11-19 |  |
 | [I Get To Love You](https://open.spotify.com/track/0QYujEIONvjFGCftCnEspy) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [I Get To Love You](https://open.spotify.com/album/4pt5KnoAN1ZjbPeLO4QuSb) | 3:55 | 2024-03-29 |  |
 | [I Want It That Way](https://open.spotify.com/track/6QylIoQHgQGE4YE7tYlkAt) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [I Want It That Way](https://open.spotify.com/album/7l4Dt8NNDtsAEGTlqmmqDY) | 3:27 | 2022-12-02 | 2024-03-30 |
+| [I Want To Know What Love Is](https://open.spotify.com/track/48NJRzCcD6t3d65nOJcrhg) | [Rock Me Classical](https://open.spotify.com/artist/08tuXNeG1BJ8mn3jixU8Rj), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [I Want To Know What Love Is](https://open.spotify.com/album/1IcD6YtmkSavyvatxFxnax) | 3:37 | 2024-08-16 |  |
 | [I Will Always Love You](https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:45 | 2023-05-04 |  |
 | [IDOL](https://open.spotify.com/track/40THRMzCNR75ta2uRvcVlS) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [IDOL](https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj) | 3:41 | 2022-09-23 |  |
 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 | 2023-05-04 |  |

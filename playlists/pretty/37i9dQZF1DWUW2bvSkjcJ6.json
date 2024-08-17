@@ -1,13 +1,33 @@
 {
-  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. ",
-  "num_followers": 814671,
+  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. Cover: Lady Gaga, Bruno Mars",
+  "num_followers": 815059,
   "original_name": "New Music Friday Deutschland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr56YAAAAADvbWE61Z6Rs6XeK+QVne7K",
+  "snapshot_id": "Zr7OwAAAAAB1n3c5zNQ1L7+p3CVSi/v1",
   "tracks": [
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
@@ -1136,7 +1156,7 @@
           "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 137076,
+      "duration_ms": 134769,
       "name": "BREAK!",
       "url": "https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2"
     },

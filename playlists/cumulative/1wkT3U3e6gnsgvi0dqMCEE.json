@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258596,
+      "name": "All",
+      "url": "https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc"
+    },
+    {
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -302,6 +320,24 @@
       "duration_ms": 304000,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp"
+    },
+    {
+      "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
     },
     {
       "album": {
@@ -651,6 +687,24 @@
     },
     {
       "album": {
+        "name": "One Deep River - Deluxe",
+        "url": "https://open.spotify.com/album/3U7AwXppw5yAnsAWSkmgOZ"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308933,
+      "name": "Dolly Shop Man",
+      "url": "https://open.spotify.com/track/6B82z0cidwuqfTJuM4pYkw"
+    },
+    {
+      "album": {
         "name": "The Tipping Point",
         "url": "https://open.spotify.com/album/2fw2PxmN6epMmz6qZXXNLn"
       },
@@ -872,6 +926,28 @@
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/0UMNsgVC22IulXGKvnMyDn"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
     },
     {
       "album": {
@@ -1378,6 +1454,24 @@
       "duration_ms": 258959,
       "name": "Let's Fall In Love",
       "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
+    },
+    {
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "album": {
@@ -2711,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "The Harder They Come: The Remixes",
+        "url": "https://open.spotify.com/album/4TPNcqvtgLmayYYq0oGfuR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217029,
+      "name": "The Harder They Come - Remix",
+      "url": "https://open.spotify.com/track/0MBxswSDvXheQKJNLkvrI3"
+    },
+    {
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/3tHGLaibgszG59jDPHkw2Q"
       },
@@ -3097,7 +3213,7 @@
     },
     {
       "album": {
-        "name": "Louis In London (Live At The BBC)",
+        "name": "Louis In London - Live At The BBC",
         "url": "https://open.spotify.com/album/5agu2tOeRrQKNduqGpRSIq"
       },
       "artists": [

@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 19317,
+  "num_followers": 19377,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADhbtxi5UYbu/lEJupV1p4k",
+  "snapshot_id": "Zr1FAAAAAAAMj+/JhjHA3lCwDZlWU0DA",
   "tracks": [
     {
       "added_at": null,
@@ -871,26 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "R-A-T-C-H-E-T (FNF FREESTYLE) [Remix]",
-        "url": "https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr"
+        "name": "Loving U 2 Hard",
+        "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
       },
       "artists": [
         {
-          "name": "Nosym",
-          "url": "https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4"
-        },
-        {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+          "name": "Sencere",
+          "url": "https://open.spotify.com/artist/7wZVx30o6I4o3Ra6kE2Cvo"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 150848,
-      "name": "R-A-T-C-H-E-T (FNF FREESTYLE) - Remix",
-      "url": "https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg"
+      "duration_ms": 205271,
+      "name": "Loving U 2 Hard",
+      "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
     },
     {
       "added_at": null,
@@ -915,22 +911,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loving U 2 Hard",
-        "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
+        "name": "R-A-T-C-H-E-T (FNF FREESTYLE) [Remix]",
+        "url": "https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr"
       },
       "artists": [
         {
-          "name": "Sencere",
-          "url": "https://open.spotify.com/artist/7wZVx30o6I4o3Ra6kE2Cvo"
+          "name": "Nosym",
+          "url": "https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 205271,
-      "name": "Loving U 2 Hard",
-      "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
+      "duration_ms": 150848,
+      "name": "R-A-T-C-H-E-T (FNF FREESTYLE) - Remix",
+      "url": "https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg"
     },
     {
       "added_at": null,

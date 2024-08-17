@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc1QfibhC7kDbaNKDXM7sPJBY16xKJ",
+  "snapshot_id": "AAAc1sabjWFIKt0Ls3BsSa0Q5Alp0PmE",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2955,6 +2955,26 @@
       "duration_ms": 252389,
       "name": "Fear",
       "url": "https://open.spotify.com/track/6eKRCw9oMbKuDJ6gwFwgwM"
+    },
+    {
+      "added_at": "2024-08-16 04:24:49",
+      "album": {
+        "name": "KEEP IT COOL",
+        "url": "https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "KEEP IT COOL",
+      "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
     }
   ],
   "unique_name": "main ",

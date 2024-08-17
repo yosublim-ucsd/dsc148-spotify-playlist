@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Shalmali Kholgade",
+  "description": "Latest music from your fav I-Pop artists. Cover- Javed Ali",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 215094,
       "name": "Ae Kaash",
       "url": "https://open.spotify.com/track/05mqon0NyDBLuk8poJM3LV"
@@ -1598,6 +1598,32 @@
       "duration_ms": 190250,
       "name": "Asar",
       "url": "https://open.spotify.com/track/4Cl13lnGGhHmNpO4tTi3az"
+    },
+    {
+      "album": {
+        "name": "Asar Tera Kaisa",
+        "url": "https://open.spotify.com/album/7JiymfZOTvdMbmQAjHm34C"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Asar Tera Kaisa",
+      "url": "https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6"
     },
     {
       "album": {
@@ -2885,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Barsatein Achhi Lagti Hai",
+        "url": "https://open.spotify.com/album/0uAg2kJbg3TdtW7pTdZ3Rp"
+      },
+      "artists": [
+        {
+          "name": "Amit Mishra",
+          "url": "https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU"
+        },
+        {
+          "name": "Ashique Elahi",
+          "url": "https://open.spotify.com/artist/4oGbD4krLHtkyd75RRWdCv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211136,
+      "name": "Barsatein Achhi Lagti Hai",
+      "url": "https://open.spotify.com/track/6Vi0BT6TlXv8BBvnSk8FQf"
+    },
+    {
+      "album": {
         "name": "Bas Tujhse Pyaar Ho",
         "url": "https://open.spotify.com/album/7f7sUKr0VLjEjwETcNjVYF"
       },
@@ -3415,6 +3463,32 @@
     },
     {
       "album": {
+        "name": "Bhulane Lage Hum",
+        "url": "https://open.spotify.com/album/5dQfZaIx0n0GFuIeARlANb"
+      },
+      "artists": [
+        {
+          "name": "PARESH GANDHI",
+          "url": "https://open.spotify.com/artist/1Z2xKdg9TwSwHJMnytJ8tG"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Ujwala Bavkar",
+          "url": "https://open.spotify.com/artist/38zzOn38cDvOQjJj7dzIB9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255024,
+      "name": "Bhulane Lage Hum",
+      "url": "https://open.spotify.com/track/1Gn6DFl0sbm7xaLRcOstmq"
+    },
+    {
+      "album": {
         "name": "Bidaai",
         "url": "https://open.spotify.com/album/6lvHqFoVIEA0RCdMiXywq5"
       },
@@ -3894,7 +3968,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 203161,
       "name": "Chahun",
       "url": "https://open.spotify.com/track/6tx8UJ7Hlv05KmDMUcGFsY"
@@ -7700,7 +7774,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228000,
       "name": "Guzarne Do - Palak Muchhal's Version",
       "url": "https://open.spotify.com/track/6riCSsKimbDjv0toXpntrs"
@@ -10053,6 +10127,32 @@
     },
     {
       "album": {
+        "name": "Jaane Kyun",
+        "url": "https://open.spotify.com/album/2z8yhdPHVBKjk6rzcwJmq1"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "vivasvan",
+          "url": "https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108837,
+      "name": "Jaane Kyun",
+      "url": "https://open.spotify.com/track/7vJISkwoUuZOSoS4MyLqyD"
+    },
+    {
+      "album": {
         "name": "Jaaneya",
         "url": "https://open.spotify.com/album/1OYRxc9T15JKGAt53slFuB"
       },
@@ -11444,7 +11544,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 252000,
       "name": "Kaisa Rishta Ye Banaayaa Tune Rab",
       "url": "https://open.spotify.com/track/4wTnN3TNxGgOwyNubm44ng"
@@ -12758,6 +12858,28 @@
       "duration_ms": 165862,
       "name": "Khwabon Wali Raat",
       "url": "https://open.spotify.com/track/2GozYPicH3zmddSgoKbQBi"
+    },
+    {
+      "album": {
+        "name": "Khwahish",
+        "url": "https://open.spotify.com/album/4kvJl4wV2H81VEYUO0NalP"
+      },
+      "artists": [
+        {
+          "name": "Gurman",
+          "url": "https://open.spotify.com/artist/6idSI8A0Mid4mx6GMognXx"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Khwahish",
+      "url": "https://open.spotify.com/track/0GFEXCaXAunXtbY095uQ22"
     },
     {
       "album": {
@@ -14575,6 +14697,24 @@
     },
     {
       "album": {
+        "name": "Mann Laage Na",
+        "url": "https://open.spotify.com/album/1aM8UsrZZHEPNEN1HMbQ8k"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Mann Laage Na",
+      "url": "https://open.spotify.com/track/0mjAJHCCIZMW9vTjdbjXym"
+    },
+    {
+      "album": {
         "name": "Manzil",
         "url": "https://open.spotify.com/album/4gpCDGJE7SPhibnLlXvPtx"
       },
@@ -14950,7 +15090,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188000,
       "name": "Meethi Boliyaan",
       "url": "https://open.spotify.com/track/3YcYEu1aaoQacrj0Bz73DV"
@@ -15770,7 +15910,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 199800,
       "name": "Mohabbat Ki Barsaat",
       "url": "https://open.spotify.com/track/1nKKWaoGyBf3UCJkiypoVT"
@@ -17198,7 +17338,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189081,
       "name": "Pagal",
       "url": "https://open.spotify.com/track/7n85x6EpfleVtbIjQGe0TD"
@@ -18466,6 +18606,24 @@
       "duration_ms": 224211,
       "name": "Raatan Kaaliyan",
       "url": "https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr"
+    },
+    {
+      "album": {
+        "name": "Raaz Keh Gaye",
+        "url": "https://open.spotify.com/album/36AxHDQXAc4KY5Wo9c3wB3"
+      },
+      "artists": [
+        {
+          "name": "Shafqat Amanat Ali",
+          "url": "https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265201,
+      "name": "Raaz Keh Gaye",
+      "url": "https://open.spotify.com/track/2XOXP3hSor8znselDEDnRC"
     },
     {
       "album": {

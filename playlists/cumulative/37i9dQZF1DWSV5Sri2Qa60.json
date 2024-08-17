@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Man/Woman/Chainsaw",
+  "description": "Where your new favourite bands are discovered. Cover: Balancing Act",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -74,6 +74,42 @@
       "duration_ms": 197027,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
+    },
+    {
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/1haIHMphCyAK4P3YWOvNQF"
+      },
+      "artists": [
+        {
+          "name": "CHIG",
+          "url": "https://open.spotify.com/artist/27nXPtM8ein7WkzysU641i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289622,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/0pj4uSiZvfWSzXsG44sxrN"
+    },
+    {
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/5sFHFJWNEZ1aBBG8z57CcK"
+      },
+      "artists": [
+        {
+          "name": "Adult Leisure",
+          "url": "https://open.spotify.com/artist/1x8fyCiAVXjUlU0yfRSIP7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221508,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5ZeId40tYso3dnPaH0Irnl"
     },
     {
       "album": {
@@ -383,6 +419,24 @@
     },
     {
       "album": {
+        "name": "DYLM",
+        "url": "https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234101,
+      "name": "DYLM",
+      "url": "https://open.spotify.com/track/6sINksp0eE9N704kiauZJs"
+    },
+    {
+      "album": {
         "name": "Exactly As It Seems",
         "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
       },
@@ -394,10 +448,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177706,
       "name": "Exactly As It Seems",
       "url": "https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn"
+    },
+    {
+      "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/7dWVkkH0NcD2gE3qNSAPhY"
+      },
+      "artists": [
+        {
+          "name": "Lazy Day",
+          "url": "https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164440,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs"
     },
     {
       "album": {
@@ -646,7 +718,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167000,
       "name": "I Could Face A Lonely Summer",
       "url": "https://open.spotify.com/track/5DWfumIEW0dqluidtTU54b"
@@ -826,7 +898,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 155471,
       "name": "Mown In Circles",
       "url": "https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL"
@@ -844,7 +916,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 113480,
       "name": "Nineteen",
       "url": "https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx"
@@ -952,7 +1024,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 358418,
       "name": "Resisting Resistance",
       "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
@@ -970,7 +1042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188120,
       "name": "rosie",
       "url": "https://open.spotify.com/track/00xit1IKzGivuMXn6FZNUw"
@@ -1150,7 +1222,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 229090,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1qeTmcVqGjsdxCRHARn25T"
@@ -1172,6 +1244,42 @@
       "duration_ms": 304291,
       "name": "teeth",
       "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
+    },
+    {
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/1PiAdNZtIBipn9FGJ4GjZB"
+      },
+      "artists": [
+        {
+          "name": "She's In Parties",
+          "url": "https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194817,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/6yUy4C7Gn0Geg7YEB8qRzj"
+    },
+    {
+      "album": {
+        "name": "The Painting of the Bay",
+        "url": "https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA"
+      },
+      "artists": [
+        {
+          "name": "W. H. Lung",
+          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "The Painting of the Bay",
+      "url": "https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf"
     },
     {
       "album": {
@@ -1211,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL"
+      },
+      "artists": [
+        {
+          "name": "Saloon Dion",
+          "url": "https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213441,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz"
+    },
+    {
+      "album": {
         "name": "TV Car Chase",
         "url": "https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn"
       },
@@ -1222,10 +1348,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 284848,
       "name": "TV Car Chase",
       "url": "https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON"
+    },
+    {
+      "album": {
+        "name": "Under The Table",
+        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
+      },
+      "artists": [
+        {
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
     },
     {
       "album": {

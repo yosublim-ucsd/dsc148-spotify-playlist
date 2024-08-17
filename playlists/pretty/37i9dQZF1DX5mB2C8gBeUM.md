@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: mgk and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,851 likes - 125 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,890 likes - 125 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 76 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 |
 | 77 | [To the Bar](https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [To the Bar](https://open.spotify.com/album/7gychLTprJqJqVoJ3XIDtD) | 2:32 |
 | 78 | [Twenty One](https://open.spotify.com/track/37GplPmP2JCLifXt9YXVv2) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m), [Jeb Bundy](https://open.spotify.com/artist/6ZtihUIqX9h72FrkQW43U6) | [Twenty One](https://open.spotify.com/album/4D8JP6VGjKOpdKt7U8A7lm) | 2:30 |
-| 79 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/1Go8mgbPyNAsBF4vEK5MxN) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:09 |
+| 79 | [I’ll Be Damned](https://open.spotify.com/track/69Asb7QVKn11cRDpbwPpcY) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [I’ll Be Damned](https://open.spotify.com/album/4PjzPyI2uEAnKW603XKKSc) | 3:09 |
 | 80 | [Mile a Minute](https://open.spotify.com/track/3ZId83LVU8njcHXP8ZiMvr) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/1XyZaEQP7xLclmVg5ni3fk) | 3:15 |
 | 81 | [Mr\. Percocet](https://open.spotify.com/track/2HmNAp3GcJ7DCKtnmV7N84) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Mr\. Percocet](https://open.spotify.com/album/3qpuOpm7O2Z9yiad1w7dlS) | 3:13 |
 | 82 | [Around You](https://open.spotify.com/track/3LWhbpStRiRnTM3FrdmqOB) | [Skeez](https://open.spotify.com/artist/2VWRwW6HEugI8FWTDv9exG), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Around You](https://open.spotify.com/album/4xiADjut6p4Q6JaoZZ01tp) | 3:02 |

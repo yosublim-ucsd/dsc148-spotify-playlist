@@ -676,7 +676,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183560,
       "name": "Black Gives Way to Blue",
       "url": "https://open.spotify.com/track/7A4XQjmM6VZ2H7MJIJY4qJ"
@@ -766,10 +766,32 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 349506,
       "name": "Bridge to Cross",
       "url": "https://open.spotify.com/track/5eSHCkfACRxO32LbH7HqlU"
+    },
+    {
+      "album": {
+        "name": "Disclaimer II",
+        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258333,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
     },
     {
       "album": {
@@ -838,7 +860,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 250693,
       "name": "Burning Heart",
       "url": "https://open.spotify.com/track/6mVJRgyXJ3eAy6EViECJyW"
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 224973,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/1OvEB2uv8dr51dsXwo5lTe"
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 461773,
       "name": "I Never Said Goodbye",
       "url": "https://open.spotify.com/track/2mrxbcjEZ3rwUkLzpHQ8ZT"
@@ -3286,7 +3308,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 229880,
       "name": "I'll Be Over You",
       "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
@@ -3358,7 +3380,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -4004,7 +4026,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-02",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
@@ -4382,7 +4404,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 495133,
       "name": "Love Is A Lie",
       "url": "https://open.spotify.com/track/22rb3suWekuTn8o2KSkBRL"
@@ -4508,7 +4530,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
@@ -4778,7 +4800,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 288666,
       "name": "Miss You - Remastered",
       "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
@@ -4998,6 +5020,24 @@
       "duration_ms": 184586,
       "name": "Never Tear Us Apart",
       "url": "https://open.spotify.com/track/3pyTksNccLM1jRvzQ4zTke"
+    },
+    {
+      "album": {
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
     },
     {
       "album": {
@@ -5394,7 +5434,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 209213,
       "name": "Perdida",
       "url": "https://open.spotify.com/track/37AWxJfFokpKZhn6b0o483"
@@ -5448,7 +5488,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
@@ -7304,7 +7344,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 253906,
       "name": "Walk Away From The Sun",
       "url": "https://open.spotify.com/track/3mNJnrphRRXNC7pl6Iaf2x"
@@ -7358,7 +7398,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 357466,
       "name": "Watch the Children Pray",
       "url": "https://open.spotify.com/track/2BNvvoD2p6dHWSDDNM9jml"
@@ -7988,7 +8028,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 234866,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"

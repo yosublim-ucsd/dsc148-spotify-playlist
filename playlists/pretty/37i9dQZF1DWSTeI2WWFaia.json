@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1591981,
+  "num_followers": 1591986,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 235317,
       "name": "Blueslides",
       "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -383,22 +383,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -499,26 +499,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 291038,
-      "name": "oHio (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -655,6 +655,46 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Summertime Butch",
+        "url": "https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Black Soprano Family",
+          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 132506,
+      "name": "Kitchen Table",
+      "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
@@ -707,62 +747,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Love Life",
-      "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Summertime Butch",
-        "url": "https://open.spotify.com/album/10FJPB8KEAOK6PLXe8PEvR"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Black Soprano Family",
-          "url": "https://open.spotify.com/artist/3s7WzrEs4FkNObqj4WyfQm"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 132506,
-      "name": "Kitchen Table",
-      "url": "https://open.spotify.com/track/5ioDyG14CzzR5mIHA7UApb"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 190067,
       "name": "Never Die (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Across The Tracks",
         "url": "https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt"
       },
@@ -871,6 +887,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "shadowbox",
+        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 92524,
+      "name": "the sky is quiet",
+      "url": "https://open.spotify.com/track/2vyy3jKeULwP2ZL5qsSE4I"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
       },
@@ -883,22 +915,6 @@
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -943,18 +959,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "shadowbox",
-        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
       },
       "artists": [
         {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 92524,
-      "name": "the sky is quiet",
-      "url": "https://open.spotify.com/track/2vyy3jKeULwP2ZL5qsSE4I"
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -983,22 +999,6 @@
       "duration_ms": 213640,
       "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     }
   ],
   "unique_name": "Spilled Ink",

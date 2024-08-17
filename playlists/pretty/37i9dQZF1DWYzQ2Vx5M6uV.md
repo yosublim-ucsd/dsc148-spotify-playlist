@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists + the best afro beat from both worlds! Cover: Beéle, Maria Becerra, Joeboy & Humby
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,559 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,592 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 47 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
 | 48 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 49 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 |
-| 50 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
-| 51 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 |
+| 50 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 |
+| 51 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 | 52 | [Dame Un Break \- Remix](https://open.spotify.com/track/1GrpcJyJteho5VRPr70mYu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Dame Un Break \(Remix\)](https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN) | 4:22 |
 | 53 | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
 | 54 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |

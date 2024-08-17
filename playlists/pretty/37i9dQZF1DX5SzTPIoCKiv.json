@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
-  "num_followers": 623353,
+  "num_followers": 623445,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Rivers in the Wasteland",
+        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 275560,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "The Blessing",
         "url": "https://open.spotify.com/album/2vdGtEIX7BYmmruQ7UbEFL"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 423193,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/2lIB1TU0Cqnc6RuYDjc92z"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Rivers in the Wasteland",
-        "url": "https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 275560,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -639,30 +639,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Raise a Hallelujah (Studio Version)",
-        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Raise a Hallelujah - Studio Version",
-      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Brighter Days / Tin Roof",
         "url": "https://open.spotify.com/album/5yuElBwZWNM9LfC3X8CbdX"
       },
@@ -695,18 +671,18 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "High Up",
-        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E"
       },
       "artists": [
         {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 180986,
-      "name": "High Up",
-      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
+      "duration_ms": 156199,
+      "name": "Come Forth",
+      "url": "https://open.spotify.com/track/7G9od7QNw1snBdtiyBE5Eu"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -727,18 +703,42 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E"
+        "name": "High Up",
+        "url": "https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
         }
       ],
-      "duration_ms": 156199,
-      "name": "Come Forth",
-      "url": "https://open.spotify.com/track/7G9od7QNw1snBdtiyBE5Eu"
+      "duration_ms": 180986,
+      "name": "High Up",
+      "url": "https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Raise a Hallelujah (Studio Version)",
+        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Raise a Hallelujah - Studio Version",
+      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
     },
     {
       "added_at": "2024-06-21 08:48:55",

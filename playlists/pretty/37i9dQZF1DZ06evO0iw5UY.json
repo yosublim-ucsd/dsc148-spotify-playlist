@@ -1,13 +1,29 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 27335,
+  "num_followers": 27336,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABR2yzGRwpnykEwMMCWcnf/",
+  "snapshot_id": "Zr1FAAAAAADviZWVm2zWxB6QzsFziAuI",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 290760,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2SHnUyZq0zwmvRIl4WY77G"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 264774,
       "name": "Lay It Down",
       "url": "https://open.spotify.com/track/0dxAvCV7LGcGIJQZuqhmgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 290760,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2SHnUyZq0zwmvRIl4WY77G"
     },
     {
       "added_at": null,
@@ -87,6 +87,26 @@
       "duration_ms": 184000,
       "name": "No Regrets (feat. Krewella)",
       "url": "https://open.spotify.com/track/58hjBuGWj43LQ6WjN3ZQAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alibi & Runaway (Remixes)",
+        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Far Out",
+          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
+        }
+      ],
+      "duration_ms": 219553,
+      "name": "Alibi (Far Out Remix)",
+      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
     },
     {
       "added_at": null,
@@ -163,26 +183,6 @@
       "duration_ms": 231679,
       "name": "Love Song to the Earth",
       "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alibi & Runaway (Remixes)",
-        "url": "https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Far Out",
-          "url": "https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2"
-        }
-      ],
-      "duration_ms": 219553,
-      "name": "Alibi (Far Out Remix)",
-      "url": "https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6"
     },
     {
       "added_at": null,
@@ -379,30 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucid (The Remixes)",
-        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "WE ARE FURY",
-          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
-        }
-      ],
-      "duration_ms": 187431,
-      "name": "Alarm - WE ARE FURY Remix",
-      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/17eQ3uApRVcrHR14M3RZcK"
       },
@@ -423,6 +399,30 @@
       "duration_ms": 162030,
       "name": "New World",
       "url": "https://open.spotify.com/track/6VuVNvS6HjNRFLSX8yP3YX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucid (The Remixes)",
+        "url": "https://open.spotify.com/album/1assR3OlxCGXOBays37pqQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "WE ARE FURY",
+          "url": "https://open.spotify.com/artist/44Wi4QHWK4CzACCqCyxo3x"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Alarm - WE ARE FURY Remix",
+      "url": "https://open.spotify.com/track/4ZbQvhuML79GPnoxloXE0j"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Surrender The Throne",
+      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 204800,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Surrender The Throne",
-      "url": "https://open.spotify.com/track/6609cCUb8ayZkTUvkJ03Rm"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Body Never Lies",
-        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Drive Away",
-      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 227880,
       "name": "Beggars",
       "url": "https://open.spotify.com/track/0UBgJMgfxiIsuL9zfiEuKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Body Never Lies",
+        "url": "https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Drive Away",
+      "url": "https://open.spotify.com/track/408UEGA6FV2nvQjr1nt1VT"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere to Run",
-        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Somewhere to Run",
-      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ammunition",
         "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 206120,
       "name": "Ammunition",
       "url": "https://open.spotify.com/track/2z5zyZaP6J9sh74mMKytUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere to Run",
+        "url": "https://open.spotify.com/album/0ncAjnBlT0NZERLH9m0VsR"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "Somewhere to Run",
+      "url": "https://open.spotify.com/track/7AeYomUuCNb965CWyfLTjK"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ammunition",
+        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Town Called Paradise",
         "url": "https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ammunition",
-        "url": "https://open.spotify.com/album/2F1dgnWAcVnBlX6Qp0MlBG"
+        "name": "Bad Liar",
+        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 208240,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/2eQeO6nn2hMaMECtoWMT6y"
+      "duration_ms": 227368,
+      "name": "Bad Liar",
+      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
     },
     {
       "added_at": null,
@@ -823,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Liar",
-        "url": "https://open.spotify.com/album/2vM48bdBKltEFYUSOEQ8EG"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "Bad Liar",
-      "url": "https://open.spotify.com/track/22NGk2oktlQtKoiHiEXt6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 219813,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Can't Control Myself",
-      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 162400,
       "name": "Ain't That Why - Skytech Remix",
       "url": "https://open.spotify.com/track/6Nz6JvBuOSAx8381IDiJGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Hard EP",
-        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 227539,
       "name": "zer0",
       "url": "https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play Hard EP",
+        "url": "https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r"
     },
     {
       "added_at": null,

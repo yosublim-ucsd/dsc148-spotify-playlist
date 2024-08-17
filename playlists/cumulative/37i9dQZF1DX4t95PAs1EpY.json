@@ -207,6 +207,28 @@
     },
     {
       "album": {
+        "name": "Advancing Clocks",
+        "url": "https://open.spotify.com/album/3iAuPg7eHMETIV2DJpKEJg"
+      },
+      "artists": [
+        {
+          "name": "C4C",
+          "url": "https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr"
+        },
+        {
+          "name": "Mike Beating",
+          "url": "https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Advancing Clocks",
+      "url": "https://open.spotify.com/track/7swnMRbwI93juFNuwedI0g"
+    },
+    {
+      "album": {
         "name": "Lasting Memories",
         "url": "https://open.spotify.com/album/75vXCfbM1TdyfXLgMC1hyS"
       },
@@ -2244,6 +2266,24 @@
       "duration_ms": 151034,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2sAueBql5AeZv5lbgIoCmw"
+    },
+    {
+      "album": {
+        "name": "Dreaming of Something",
+        "url": "https://open.spotify.com/album/35sEdq8QCOeyzRxZMXcEbV"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140802,
+      "name": "Dreaming of Something",
+      "url": "https://open.spotify.com/track/2GztP8kMzUiE8hTHqiICXr"
     },
     {
       "album": {
@@ -5295,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "mata ashita",
+        "url": "https://open.spotify.com/album/4L9eOkCFicZ1g7gmklvhzY"
+      },
+      "artists": [
+        {
+          "name": "SPUDB",
+          "url": "https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135729,
+      "name": "mata ashita",
+      "url": "https://open.spotify.com/track/2M2jNOGD4r3GuBYTb1zCoF"
+    },
+    {
+      "album": {
         "name": "May Flowers",
         "url": "https://open.spotify.com/album/1002yX4qiTkPohWNARwY79"
       },
@@ -5773,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/3WuRkVHICqLzaQulyjPH3a"
+      },
+      "artists": [
+        {
+          "name": "lechiffrebeats",
+          "url": "https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121708,
+      "name": "Moonlight Garden",
+      "url": "https://open.spotify.com/track/0fFxgEhnKDNHLTbJcSOK7s"
+    },
+    {
+      "album": {
         "name": "moonlit",
         "url": "https://open.spotify.com/album/3jlHIyISw3OGEaP3S6OS1I"
       },
@@ -6056,6 +6132,24 @@
       "duration_ms": 137250,
       "name": "Muddy",
       "url": "https://open.spotify.com/track/506Z7ZBQuue7pbeBv3a0OM"
+    },
+    {
+      "album": {
+        "name": "My head becomes lighter",
+        "url": "https://open.spotify.com/album/6j2Gzr52DLm3L7kRYxjsIc"
+      },
+      "artists": [
+        {
+          "name": "eugenio izzi",
+          "url": "https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133150,
+      "name": "My head becomes lighter",
+      "url": "https://open.spotify.com/track/6Xrf7TNhj07P2RQ1Th3O7L"
     },
     {
       "album": {
@@ -7666,7 +7760,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 104018,
       "name": "Road to Emmaus",
       "url": "https://open.spotify.com/track/7lIMlaVwAsjo6ZZdT5UxAN"

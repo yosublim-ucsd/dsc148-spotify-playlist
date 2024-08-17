@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665403,
+  "num_followers": 665416,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "FARDOS",
-        "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 183335,
-      "name": "FARDOS",
-      "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "CALOR",
         "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 200769,
       "name": "CALOR",
       "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "FARDOS",
+        "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 183335,
+      "name": "FARDOS",
+      "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Martini",
-        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 164365,
-      "name": "Martini",
-      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Passoa",
         "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2e8SXv09hUT9mpkNPBRLhZ"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 164365,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/5tikPg9QkVfGtstjTUb5dB"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -947,6 +927,26 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "SIGO AL PENDIENTE",
+        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "SIGO AL PENDIENTE",
+      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "SIGO AL PENDIENTE",
-        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "SIGO AL PENDIENTE",
-      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "ALMA</3",
-        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 144260,
-      "name": "ALMA</3",
-      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5S7g9lFAwX5rUAM2I4idTS"
       },
@@ -2359,18 +2343,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+        "name": "ALMA</3",
+        "url": "https://open.spotify.com/album/68bcjscUFhKvunT391ALub"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
         }
       ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
+      "duration_ms": 144260,
+      "name": "ALMA</3",
+      "url": "https://open.spotify.com/track/1Mq86WnX64KKQoCuIaXT1t"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2387,6 +2371,22 @@
       "duration_ms": 267953,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "POEMA A TUS PROBLEMAS",
-        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
-      },
-      "artists": [
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
-        }
-      ],
-      "duration_ms": 209857,
-      "name": "POEMA A TUS PROBLEMAS",
-      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "BeSos aL vIEnTo :(",
         "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
@@ -2515,22 +2499,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 184748,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "CHRONOS",
         "url": "https://open.spotify.com/album/39ZCda6u6x5gq6HkNA3D1n"
       },
@@ -2547,6 +2515,22 @@
       "duration_ms": 248703,
       "name": "CHRONOS",
       "url": "https://open.spotify.com/track/29eomS83SDqGWkRgdvOUFC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2571,6 +2555,22 @@
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 184748,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2635,6 +2635,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Ojos Negros",
         "url": "https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 199999,
       "name": "Ojos Negros",
       "url": "https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
     },
     {
       "added_at": "2024-08-09 04:00:00",

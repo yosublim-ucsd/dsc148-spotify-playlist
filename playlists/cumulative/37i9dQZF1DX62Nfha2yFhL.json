@@ -2779,6 +2779,28 @@
     },
     {
       "album": {
+        "name": "Playing With Fire",
+        "url": "https://open.spotify.com/album/73yJ7Lj6yuNLE6tRUcAosl"
+      },
+      "artists": [
+        {
+          "name": "Ballad",
+          "url": "https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx"
+        },
+        {
+          "name": "Jaye Locke",
+          "url": "https://open.spotify.com/artist/6etTs24y7PrNhUggFGCGf9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137751,
+      "name": "Playing With Fire",
+      "url": "https://open.spotify.com/track/04RTHjA20H65nhX9REmVQu"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/0HXZfdrZHBfkvCbvgmxpww"
       },

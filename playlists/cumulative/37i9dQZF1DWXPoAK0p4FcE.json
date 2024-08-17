@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: CORNBOI",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: \u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 296368,
       "name": "\u0e09\u0e31\u0e19\u0e41\u0e2d\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e19\u0e49\u0e33\u0e15\u0e32\u0e43\u0e15\u0e49\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e21\u0e35\u0e23\u0e2d\u0e22\u0e22\u0e34\u0e49\u0e21",
       "url": "https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH"
@@ -338,10 +338,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214615,
       "name": "\u0e14\u0e27\u0e07\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e15\u0e01 (Sunset)",
       "url": "https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e36\u0e07 (Tension)",
+        "url": "https://open.spotify.com/album/5CvAyfpneNWmsBodEmZ1kX"
+      },
+      "artists": [
+        {
+          "name": "Slur",
+          "url": "https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244588,
+      "name": "\u0e14\u0e36\u0e07 (Tension)",
+      "url": "https://open.spotify.com/track/5ScRHC5BJzjzNWbrEHE6TS"
     },
     {
       "album": {
@@ -382,6 +400,24 @@
       "duration_ms": 185002,
       "name": "\u0e15\u0e25\u0e2d\u0e14\u0e44\u0e1b\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e08\u0e23\u0e34\u0e07 (\u0e04\u0e37\u0e2d\u0e42\u0e14\u0e19\u0e17\u0e34\u0e49\u0e07\u0e15\u0e25\u0e2d\u0e14\u0e01\u0e32\u0e25)",
       "url": "https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh"
+    },
+    {
+      "album": {
+        "name": "Rainbow Landscape",
+        "url": "https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd"
+      },
+      "artists": [
+        {
+          "name": "YEW",
+          "url": "https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265977,
+      "name": "\u0e15\u0e32\u0e02\u0e48\u0e32\u0e22\u0e14\u0e31\u0e01\u0e1d\u0e31\u0e19 (Rainbow Catcher)",
+      "url": "https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U"
     },
     {
       "album": {
@@ -745,6 +781,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e30\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
+        "url": "https://open.spotify.com/album/58hZgQmEWJeJ6hoNiGqK31"
+      },
+      "artists": [
+        {
+          "name": "\u0e40\u0e23\u0e19\u0e34\u0e29\u0e23\u0e32",
+          "url": "https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW"
+        },
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280866,
+      "name": "\u0e40\u0e18\u0e2d\u0e19\u0e48\u0e30\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e01\u0e48\u0e07\u0e01\u0e27\u0e48\u0e32\u0e19\u0e35\u0e49",
+      "url": "https://open.spotify.com/track/7Io7duTHbX22guoinFQpcx"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
         "url": "https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W"
       },
@@ -792,7 +850,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 257566,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01\u0e40\u0e1e\u0e25\u0e07\u0e41\u0e23\u0e01 - Blooming",
       "url": "https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU"

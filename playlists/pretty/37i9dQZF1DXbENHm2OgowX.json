@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 213506,
+  "num_followers": 213776,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,22 @@
     {
       "added_at": "2024-05-28 18:24:20",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+        "name": "haunted, but it's ambient",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+      "duration_ms": 136800,
+      "name": "haunted, but it's ambient",
+      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2024-05-28 18:24:20",
@@ -679,22 +683,18 @@
     {
       "added_at": "2024-05-28 18:24:20",
       "album": {
-        "name": "haunted, but it's ambient",
-        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
       "artists": [
         {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
         }
       ],
-      "duration_ms": 136800,
-      "name": "haunted, but it's ambient",
-      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2024-05-28 18:24:20",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-05-28 18:24:20",
       "album": {
-        "name": "haunted (remixes)",
-        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        },
-        {
-          "name": "weareflorence",
-          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "haunted - + slowed version",
-      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
-    },
-    {
-      "added_at": "2024-05-28 18:24:20",
-      "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
@@ -895,22 +871,6 @@
     {
       "added_at": "2024-05-28 18:24:20",
       "album": {
-        "name": "Vintage Well",
-        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 170878,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
-    },
-    {
-      "added_at": "2024-05-28 18:24:20",
-      "album": {
         "name": "...Is Doomed",
         "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
@@ -923,6 +883,46 @@
       "duration_ms": 505249,
       "name": "If I Let Him In",
       "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2024-05-28 18:24:20",
+      "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        },
+        {
+          "name": "weareflorence",
+          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted - + slowed version",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2024-05-28 18:24:20",
+      "album": {
+        "name": "Vintage Well",
+        "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 170878,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
     },
     {
       "added_at": "2024-05-28 18:24:20",

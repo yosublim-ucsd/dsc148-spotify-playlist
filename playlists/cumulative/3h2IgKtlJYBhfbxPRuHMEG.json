@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
@@ -2858,6 +2858,24 @@
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "album": {

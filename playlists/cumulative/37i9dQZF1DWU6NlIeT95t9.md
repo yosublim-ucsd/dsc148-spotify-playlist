@@ -4,7 +4,7 @@
 
 > Meet the future\.  Cover: Umair
 
-97 songs - 5 hr 22 min
+100 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-10-05 |  |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-07-31 |  |
 | [Khair](https://open.spotify.com/track/3rXGNW4iX1XcbJVx2N4qev) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Khair](https://open.spotify.com/album/1egKAuUTNnYFWXwdWWfeRg) | 2:45 | 2024-08-09 |  |
+| [Khushnaseebi](https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Khushnaseebi](https://open.spotify.com/album/6UFJPoceIxfmjOMeodyGFu) | 2:35 | 2024-08-16 |  |
 | [Kids](https://open.spotify.com/track/2qTqeKMywXEsWbrdYr5OxP) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:49 | 2023-07-31 | 2024-07-23 |
 | [KYUN](https://open.spotify.com/track/6nw0sXQqDNCQx2IN6ZyJqX) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [KYUN](https://open.spotify.com/album/3qh8blK64o1CqB6Q8hpNMb) | 4:06 | 2023-07-31 |  |
 | [Laiyan](https://open.spotify.com/track/2l7Z6J3b0wpohKqmNfASdC) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Laiyan](https://open.spotify.com/album/7sunQsnhjmkVyPKQZsjJDy) | 3:13 | 2023-07-31 | 2024-07-23 |
@@ -61,6 +62,7 @@
 | [MAHI // AVAY](https://open.spotify.com/track/4klMH7SD2ypbWvV8GxR452) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [MAHI // AVAY](https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0) | 2:34 | 2024-01-05 |  |
 | [Mann Mein Tu](https://open.spotify.com/track/3hfEObd2ttNLTEBCVIafKa) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Mann Mein Tu](https://open.spotify.com/album/68gFrMFNTNTxLa8Nmm9Lx0) | 2:59 | 2023-07-31 | 2024-01-06 |
 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 | 2023-07-31 |  |
+| [Mehbooba](https://open.spotify.com/track/1KjNSAlv5QpiXQz20ru0l7) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 2:00 | 2024-08-16 |  |
 | [Melancholic](https://open.spotify.com/track/2J6ehazUCGusP0YqK31fjL) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Melancholic](https://open.spotify.com/album/3v76zS849Cf1r2M1j9vuPX) | 3:42 | 2023-07-31 |  |
 | [Mera Musafir](https://open.spotify.com/track/02zLhpWokJghrfZrwV2z8a) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [Suno](https://open.spotify.com/album/3pHRNlVpIx4PBBXxBkoUTZ) | 4:51 | 2023-09-03 |  |
 | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/track/4BoFJMLSO3ZoD48KgnslSe) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Mere Humsafar \(Original Score\) \[Female Version\]](https://open.spotify.com/album/1xT6hChxAkSLclY5Jvl65M) | 5:51 | 2023-07-31 |  |
@@ -83,6 +85,7 @@
 | [Saazish](https://open.spotify.com/track/0rIFaLZnR5zy1AAxQOV4kA) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/7k07DkXFCBMGlWfbeB7iwf) | 3:34 | 2023-11-29 | 2024-04-19 |
 | [Saazish](https://open.spotify.com/track/17251D1EDAoyd0pQFMG7y5) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Saazish](https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc) | 3:34 | 2023-07-31 |  |
 | [Saddiyan](https://open.spotify.com/track/0qoORzqrSxpIvREz58ugkW) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Saddiyan](https://open.spotify.com/album/6g27JelkjIlYYVfGY3Jbaq) | 2:49 | 2023-07-31 |  |
+| [Sahara](https://open.spotify.com/track/2wixiINOjX8L2ciIkLmnia) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Varqa Faraid](https://open.spotify.com/artist/58Sy8Jc3tHOFT5KLBgr8Xp) | [1 2 3 4 5](https://open.spotify.com/album/41NSZy9hW6WWrHYpIqyH0a) | 2:58 | 2024-08-16 |  |
 | [SAHI HO](https://open.spotify.com/track/1Y5WFyPuEzuBXx8qC76iNW) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [SAHI HO](https://open.spotify.com/album/2xFigGgtJ8yE66lC6hPs8H) | 2:41 | 2023-07-31 | 2024-07-23 |
 | [SAHI HO](https://open.spotify.com/track/7klqQjK3sKkxN9zDUEvyLS) | [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc) | [SAHI HO](https://open.spotify.com/album/4haO3WH3xLa7aRkciThjQ1) | 2:41 | 2024-02-23 | 2024-04-19 |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-07-31 |  |

@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Asar Tera Kaisa",
+        "url": "https://open.spotify.com/album/7JiymfZOTvdMbmQAjHm34C"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Asar Tera Kaisa",
+      "url": "https://open.spotify.com/track/6RXfTpSmLM4P5f6XiNSYC6"
+    },
+    {
+      "album": {
         "name": "Assi Sajna",
         "url": "https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U"
       },
@@ -1204,6 +1230,24 @@
       "duration_ms": 170666,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/7y9udl44FlkXa9FpApa76N"
+    },
+    {
+      "album": {
+        "name": "Dhal Jaun",
+        "url": "https://open.spotify.com/album/4G73BUPoSOxaNdCtH3WNEn"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dhal Jaun",
+      "url": "https://open.spotify.com/track/5RMEne2PneLrQebp1oWhJJ"
     },
     {
       "album": {
@@ -5960,7 +6004,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214000,
       "name": "Rangi Saari",
       "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
@@ -6766,7 +6810,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 334173,
       "name": "Shaamat",
       "url": "https://open.spotify.com/track/6v5SAmKr4QjRr0K2RdlPFm"

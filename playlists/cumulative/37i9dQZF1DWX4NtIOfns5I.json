@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 231573,
       "name": "Bindi in the Dirt",
       "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
@@ -1867,6 +1867,24 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/2o5SW9AVHK02aGpjrpJSec"
+      },
+      "artists": [
+        {
+          "name": "Ezra Glatt",
+          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97839,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF"
+    },
+    {
+      "album": {
         "name": "Same Streets But I Don't See You Around",
         "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
       },
@@ -2134,6 +2152,24 @@
       "duration_ms": 224022,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z"
+    },
+    {
+      "album": {
+        "name": "i might say something stupid",
+        "url": "https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon"
+      },
+      "artists": [
+        {
+          "name": "LOVELOVELOVE",
+          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145185,
+      "name": "i might say something stupid",
+      "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
     },
     {
       "album": {
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152275,
       "name": "To Watch The World Spin Without You",
       "url": "https://open.spotify.com/track/4GSPVH7RXVUrdUmc7V6Xd1"

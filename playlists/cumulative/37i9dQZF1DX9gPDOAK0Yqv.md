@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-566 songs - 1 day 21 hr 33 min
+567 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
 | [Future Call](https://open.spotify.com/track/3BjwyLMgRb29YRwcunLXnN) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [Future Call](https://open.spotify.com/album/2wWBj0RTjHVLoUcexFpl6Y) | 3:29 | 2023-09-07 | 2023-10-03 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
-| [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 |  |
+| [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 | 2024-08-17 |
 | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/track/4NvPv0tX9JU0Z8aY9e05T0) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Gamma \(Joyhauser Remix\)](https://open.spotify.com/album/4IpmI7v3nTcGSw4YLKEMrw) | 7:02 | 2022-12-09 | 2023-10-20 |
 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 | 2023-06-02 |  |
 | [Genie's Wish](https://open.spotify.com/track/7qcFBluDDX9xUTN0SZ5uci) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Genie's Wish](https://open.spotify.com/album/2Ad7Qtp9eNY0DYuaUHmw2C) | 6:07 | 2023-02-10 | 2023-02-18 |
@@ -342,6 +342,7 @@
 | [No Place To Go](https://open.spotify.com/track/7gHzjDJZKID5EuWK0K7JEp) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg) | [No Place To Go](https://open.spotify.com/album/5odeKuu8Tejxz6s3TFxzd7) | 4:20 | 2024-05-31 | 2024-07-30 |
 | [No Tomorrow](https://open.spotify.com/track/1KiKIjnfm2is7U2iBEebda) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Maunt](https://open.spotify.com/artist/23VFpXmOCxnReEwvUCulSb) | [No Tomorrow](https://open.spotify.com/album/78OyyeUJyyoYRHDLtBzsqi) | 3:56 | 2022-12-28 | 2023-01-06 |
 | [Not Exactly \- Rebūke Remix](https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Not Exactly \(Rebūke Remix\)](https://open.spotify.com/album/3tuUxwV6i6hXlluIhz0ZCI) | 3:00 | 2024-04-11 |  |
+| [Nothing Ever Changes \- Agents of Time Remix](https://open.spotify.com/track/2XAxDEYtT8X5ZLm7hktDOG) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Nothing Ever Changes \- Agents of Time Remix](https://open.spotify.com/album/5PsIsYwY9XgclLpfzkETpv) | 3:24 | 2024-08-15 |  |
 | [Nothing Ever Changes \- Camelphat Remix](https://open.spotify.com/track/2g0mTSsQCz7C36ee5Varka) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Nothing Ever Changes \(Camelphat Remix\)](https://open.spotify.com/album/0SkcnpoGxDAbhHcj9LA0tk) | 4:18 | 2024-04-25 |  |
 | [Now Or Never \(feat\. IVERSON\)](https://open.spotify.com/track/5ODOZBqS9a6bRmyWtsBsRt) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [IVERSON](https://open.spotify.com/artist/37Ta8OzT2wEZDyTaCYqzEo) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:59 | 2024-03-29 |  |
 | [Ocean Drive](https://open.spotify.com/track/5p8w7JOwtF7brVkTIErUpT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [ETERN3](https://open.spotify.com/artist/5PdrEVEQ1qv1psFZ9pxDMx) | [Ocean Drive](https://open.spotify.com/album/7zvBu5tW5d286WfktO4bRV) | 3:55 | 2023-11-09 | 2023-12-01 |

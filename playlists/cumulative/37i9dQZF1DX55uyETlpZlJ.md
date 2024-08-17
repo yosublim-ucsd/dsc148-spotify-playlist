@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-376 songs - 20 hr 26 min
+377 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Shambo Shiva Shankara](https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Shambo Shiva Shankara](https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD) | 2:22 | 2024-05-20 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
 | [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 |  |
+| [Sindi Sarai](https://open.spotify.com/track/2YePAWfRwKlt5dSgEQs4gS) | [Amrapali Shindhe](https://open.spotify.com/artist/2qEUD5jyimcJVrCttLAjON) | [Sindi Sarai](https://open.spotify.com/album/2saJcd1WCzHnFDjjT8aL1E) | 3:15 | 2024-08-16 |  |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
 | [Solo King](https://open.spotify.com/track/2caf1VcfyH0Op9ozofaJrN) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [Solo King](https://open.spotify.com/album/76ChkZ5OwDEguUC8VZVdJG) | 3:07 | 2023-03-28 | 2023-12-30 |
 | [Soneyeah](https://open.spotify.com/track/7HkGqzq6taygvr8nCO721g) | [Quake](https://open.spotify.com/artist/6PytpCLLu3iY5kXYQq6Dxd), [Martin Yo](https://open.spotify.com/artist/5aoFP8e4teKaBy6MVh8x8f), [Adi Dhar](https://open.spotify.com/artist/0nYRMoyeXOXmvMnkHl9Xfi) | [Soneyeah](https://open.spotify.com/album/2P1N9uIF3fGuQM3p2Uuz4E) | 3:14 | 2023-02-16 | 2023-09-30 |

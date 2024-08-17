@@ -4,12 +4,13 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: J Balvin
 
-148 songs - 7 hr 31 min
+149 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-09-30 | 2023-12-16 |
 | [Ahora que no estás sola](https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Ahora que no estás sola](https://open.spotify.com/album/0zSVmbdS1gDc2TXghbD1vv) | 2:55 | 2024-08-02 | 2024-08-10 |
+| [Amor De Tu Vida](https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Amor De Tu Vida](https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e) | 2:51 | 2024-08-16 |  |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2023-09-30 | 2024-02-17 |
 | [Bellakito](https://open.spotify.com/track/3puSZqdV314y5zy96ZhaCl) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Bellakito](https://open.spotify.com/album/64Ff6wk6lyoCqVU6JRlLwx) | 2:53 | 2023-11-24 | 2024-01-27 |
 | [Beyblade](https://open.spotify.com/track/5tWycCyiMEZSrDa9W37TSL) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Tezzel](https://open.spotify.com/artist/25wbr3tsglSoeDK40ockmT) | [Beyblade](https://open.spotify.com/album/06tRiOznvjvLPmn7Yv4j2p) | 2:51 | 2024-07-05 | 2024-07-27 |
@@ -41,7 +42,7 @@
 | [El Proceso](https://open.spotify.com/track/0U7Np9KFcf7jWLvKUv1mn8) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [El Proceso](https://open.spotify.com/album/3mEPBqD1r3DVB7f3ajBpeF) | 2:34 | 2024-01-19 | 2024-03-02 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-09-30 | 2024-01-27 |
 | [EL RITMO QUE NOS UNE \- feat\. Selección Colombia](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 | 2024-07-26 |  |
-| [El Voldemor](https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [El Voldemor](https://open.spotify.com/album/5hAgPOazMiYtb86O8LVwV8) | 2:47 | 2024-05-17 |  |
+| [El Voldemor](https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [El Voldemor](https://open.spotify.com/album/5hAgPOazMiYtb86O8LVwV8) | 2:47 | 2024-05-17 | 2024-08-17 |
 | [EMPELOTICA](https://open.spotify.com/track/0dKsNKiWmqkoz8YAUzfigC) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EMPELOTICA](https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg) | 3:10 | 2024-03-01 |  |
 | [En Mi Piel](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [En Mi Piel](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 | 2023-09-30 | 2023-10-11 |
 | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [En Privado ft\. Ovy On The Drums \- Spotify Singles](https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ) | 2:19 | 2023-11-17 | 2024-01-27 |

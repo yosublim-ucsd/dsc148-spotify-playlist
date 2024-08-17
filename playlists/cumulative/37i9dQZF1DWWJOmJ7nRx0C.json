@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>Four Year Strong</b>",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>Jack White</b>",
   "name": "VOLUME",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214735,
       "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
       "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
@@ -810,6 +810,24 @@
       "duration_ms": 214106,
       "name": "Alkaline",
       "url": "https://open.spotify.com/track/3TgG7j2pQTuRGXbmgR1QYw"
+    },
+    {
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258596,
+      "name": "All",
+      "url": "https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc"
     },
     {
       "album": {
@@ -4278,6 +4296,28 @@
       "duration_ms": 224703,
       "name": "Creeps",
       "url": "https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H"
+    },
+    {
+      "album": {
+        "name": "CRIMINAL",
+        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227258,
+      "name": "CRIMINAL",
+      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
     },
     {
       "album": {
@@ -9075,6 +9115,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Fed",
+        "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh"
+    },
+    {
+      "album": {
         "name": "Confessions Of The Fallen",
         "url": "https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6"
       },
@@ -9580,6 +9638,24 @@
       "duration_ms": 180674,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
+    },
+    {
+      "album": {
+        "name": "FISSION",
+        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213924,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
     },
     {
       "album": {
@@ -11885,6 +11961,24 @@
     },
     {
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "album": {
         "name": "Melanin Punk",
         "url": "https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD"
       },
@@ -13336,7 +13430,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207670,
       "name": "My Condition",
       "url": "https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ"
@@ -16586,7 +16680,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 192734,
       "name": "S!CK",
       "url": "https://open.spotify.com/track/5ofXHXnmlZ4zqFWCo6oGOB"
@@ -21379,6 +21473,24 @@
     },
     {
       "album": {
+        "name": "Unpopular",
+        "url": "https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185553,
+      "name": "Unpopular",
+      "url": "https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq"
+    },
+    {
+      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/3vjslnHAw36HG80YWAhos1"
       },
@@ -21932,7 +22044,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 255560,
       "name": "Wanting and Waiting",
       "url": "https://open.spotify.com/track/4OiL5M05HmrnBk1AOdHNe0"

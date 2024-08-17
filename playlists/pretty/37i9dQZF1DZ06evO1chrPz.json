@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 199585,
+  "num_followers": 199614,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAACo8v21OyLrOYh95PePba20",
+  "snapshot_id": "Zr1FAAAAAAAj2PmHNUqT5ZLKv5PlmaCV",
   "tracks": [
     {
       "added_at": null,
@@ -316,13 +316,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 412048,
-      "name": "The Blessing",
-      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
+      "duration_ms": 301090,
+      "name": "Surrounded (Fight My Battles)",
+      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
     },
     {
       "added_at": null,
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 301090,
-      "name": "Surrounded (Fight My Battles)",
-      "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
+      "duration_ms": 412048,
+      "name": "The Blessing",
+      "url": "https://open.spotify.com/track/3b3r4F5ynaUxn3TpMd4F9e"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Words: Genesis",
+        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0MKleYfsAvoHLasJSvXX9M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 415059,
       "name": "We Praise You (Live)",
       "url": "https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Words: Genesis",
-        "url": "https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0MKleYfsAvoHLasJSvXX9M"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
         }
       ],
-      "duration_ms": 451297,
-      "name": "Show Me Your Face (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
+      "duration_ms": 485396,
+      "name": "Be Enthroned (Live)",
+      "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
       "artists": [
         {
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
         }
       ],
-      "duration_ms": 485396,
-      "name": "Be Enthroned (Live)",
-      "url": "https://open.spotify.com/track/4Q73DCRJjgfNP6cmW73Igw"
+      "duration_ms": 451297,
+      "name": "Show Me Your Face (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
       "duration_ms": 414280,
       "name": "Padre Nuestro (En Vivo)",
       "url": "https://open.spotify.com/track/3pjl44IOMQPTcxrf7gE74v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 526768,
-      "name": "Nothing Else (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/0Kt7R8V7dWWQTQXvTI0xTL"
     },
     {
       "added_at": null,
@@ -911,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 526768,
+      "name": "Nothing Else (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/0Kt7R8V7dWWQTQXvTI0xTL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -927,26 +927,6 @@
       "duration_ms": 295610,
       "name": "I\u2019ll Be Everything",
       "url": "https://open.spotify.com/track/7zwxsdRIYKJPs68hQae83C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 759555,
-      "name": "Forever YHWH/Worthy Of It All (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 759555,
+      "name": "Forever YHWH/Worthy Of It All (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After All These Years",
         "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
@@ -999,30 +999,6 @@
       "duration_ms": 314306,
       "name": "Gravity (Instrumental)",
       "url": "https://open.spotify.com/track/5sycWSwH9Ces4PjsGSiLs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 600035,
-      "name": "Stand In Awe (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW"
     },
     {
       "added_at": null,
@@ -1043,6 +1019,26 @@
       "duration_ms": 452520,
       "name": "God I Look to You",
       "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "duration_ms": 281506,
+      "name": "We Dance (Live)",
+      "url": "https://open.spotify.com/track/7qF0lmgrcxedPRdTSERDxo"
     }
   ],
   "unique_name": "This Is Bethel Music",

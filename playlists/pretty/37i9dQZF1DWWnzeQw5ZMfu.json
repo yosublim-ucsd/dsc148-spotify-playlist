@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69595,
+  "num_followers": 69603,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Serious Hits...Live! (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 393146,
-      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Still The One: Live From Vegas",
         "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 215786,
       "name": "You're Still The One - Live",
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Serious Hits...Live! - 2019 Remaster",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 393146,
+      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Gloria (Special Edition)",
-        "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 253671,
-      "name": "Stay With Me - Live From The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "The Confessions Tour (Live)",
         "url": "https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 590120,
       "name": "Hung Up - Live",
       "url": "https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Gloria (Special Edition)",
+        "url": "https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 253671,
+      "name": "Stay With Me - Live From The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Warwick Avenue (Live)",
-        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
-      },
-      "artists": [
-        {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Warwick Avenue - Live",
-      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "New Rules (Live)",
         "url": "https://open.spotify.com/album/6pobOtMOg9Fa4gqwIcZulc"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 275101,
       "name": "New Rules - Live",
       "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Warwick Avenue (Live)",
+        "url": "https://open.spotify.com/album/0dFJSKMXB5ElM9Ymr3svkw"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/4XSDvU0Av796VBb4et2VpU"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live in Dortmund",
-        "url": "https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i"
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 246146,
-      "name": "The Lady In Red - Live",
-      "url": "https://open.spotify.com/track/107TF9ikYY7Cnpm4FQ5v0k"
+      "duration_ms": 232200,
+      "name": "Make You Feel My Love (Live at Hotel Cafe)",
+      "url": "https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn"
     }
   ],
   "unique_name": "Pop Live",

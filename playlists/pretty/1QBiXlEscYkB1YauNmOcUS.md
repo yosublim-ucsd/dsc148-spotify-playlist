@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 | 79 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 80 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 
-Snapshot ID: `AAAXEhNoz3yaKJkERXuRuwwoiyDV4Ybm`
+Snapshot ID: `AAAXFGF6yUhztUWaVvyGFKvFwGbClj3p`

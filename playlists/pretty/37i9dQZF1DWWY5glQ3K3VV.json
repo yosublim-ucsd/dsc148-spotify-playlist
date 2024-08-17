@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 98528,
+  "num_followers": 98584,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
+        "name": "FULL FULL",
+        "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "duration_ms": 111115,
+      "name": "FULL FULL",
+      "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
         "name": "COPACABANA",
         "url": "https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 138320,
       "name": "COPACABANA",
       "url": "https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
-        "name": "FULL FULL",
-        "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
-      },
-      "artists": [
-        {
-          "name": "VMonster",
-          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
-        }
-      ],
-      "duration_ms": 111115,
-      "name": "FULL FULL",
-      "url": "https://open.spotify.com/track/1MZhpRUEC5f0u5FTls4dPP"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
-        "name": "Arte",
-        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Twerk (con Boro)",
-      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1123,6 +1103,26 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
+        "name": "Arte",
+        "url": "https://open.spotify.com/album/335zYmm0dgfHw5Ki2yyKXQ"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Twerk (con Boro)",
+      "url": "https://open.spotify.com/track/4jiCUUfjuJoG03gnw3jj1r"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
-        "name": "100% (feat. Salmo)",
-        "url": "https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH"
-      },
-      "artists": [
-        {
-          "name": "Luciennn",
-          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "100% (feat. Salmo)",
-      "url": "https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -1275,22 +1255,22 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
-        "name": "VIDA LOCA (feat. Medy)",
-        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
+        "name": "100% (feat. Salmo)",
+        "url": "https://open.spotify.com/album/3Uw4hrJI3XRv2HvChEZuTH"
       },
       "artists": [
         {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
         },
         {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 182067,
-      "name": "VIDA LOCA (feat. Medy)",
-      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
+      "duration_ms": 160645,
+      "name": "100% (feat. Salmo)",
+      "url": "https://open.spotify.com/track/4Bsfr9fyqjgThu4In7RkE7"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -1311,6 +1291,26 @@
       "duration_ms": 158769,
       "name": "Ma Jolie (feat. ANNA)",
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
+        "name": "VIDA LOCA (feat. Medy)",
+        "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        }
+      ],
+      "duration_ms": 182067,
+      "name": "VIDA LOCA (feat. Medy)",
+      "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
-        "name": "HOE + HARD (feat. Tony Effe)",
-        "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 153300,
-      "name": "HOE + HARD (feat. Tony Effe)",
-      "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 229147,
       "name": "SENZA RUMORE",
       "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
+        "name": "HOE + HARD (feat. Tony Effe)",
+        "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 153300,
+      "name": "HOE + HARD (feat. Tony Effe)",
+      "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -1963,30 +1963,6 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
-        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Drillionaire",
-          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
-        },
-        {
-          "name": "Verano",
-          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
-        }
-      ],
-      "duration_ms": 140297,
-      "name": "181",
-      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -2007,6 +1983,30 @@
       "duration_ms": 183724,
       "name": "25 ore RMX (feat. Ernia & Shablo)",
       "url": "https://open.spotify.com/track/0Q7Y2E8cj8uvNXI3hs9Mvc"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
+        "name": "BLOCCO 181 \u2013 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Drillionaire",
+          "url": "https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq"
+        },
+        {
+          "name": "Verano",
+          "url": "https://open.spotify.com/artist/1UY14QmPtbYtJp41TBmquK"
+        }
+      ],
+      "duration_ms": 140297,
+      "name": "181",
+      "url": "https://open.spotify.com/track/3yEA1LJvalVoh8ejwq7PHD"
     },
     {
       "added_at": "2024-08-08 22:01:00",
@@ -2079,6 +2079,30 @@
     {
       "added_at": "2024-08-08 22:01:00",
       "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/7C9m0DdXdl0Z92bmv45BpX"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3Xhl7OqWAFgVxQKrWhyVVO"
+    },
+    {
+      "added_at": "2024-08-08 22:01:00",
+      "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
       },
@@ -2107,26 +2131,6 @@
       "duration_ms": 158630,
       "name": "DREAM TEAM (feat. Pyrex, Capo Plaza, Tedua & Shiva)",
       "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
-    },
-    {
-      "added_at": "2024-08-08 22:01:00",
-      "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/7bfLjhLjTRhykft2Bk9wtf"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 187550,
-      "name": "Balaclava (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/5yG2Z6SiaYbDy04enXnkMS"
     }
   ],
   "unique_name": "Club Rap ",

@@ -1,13 +1,33 @@
 {
   "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 149222,
+  "num_followers": 149237,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAACQy7BtwP9NC4lnWfvm81AT",
+  "snapshot_id": "Zr7OwAAAAADfdQM0zImG1H0XCxvYLfpX",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj"
+      },
+      "artists": [
+        {
+          "name": "Mike \u00c4pt",
+          "url": "https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka"
+        },
+        {
+          "name": "Steven Rodriguez",
+          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -23,22 +43,6 @@
       "duration_ms": 224586,
       "name": "Hold Of My Heart",
       "url": "https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Devil Wears Lace Pt. 2",
-        "url": "https://open.spotify.com/album/6i7Twe9fH5R8cHpxJBXTaB"
-      },
-      "artists": [
-        {
-          "name": "Steven Rodriguez",
-          "url": "https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O"
-        }
-      ],
-      "duration_ms": 172420,
-      "name": "The Devil Wears Lace Pt. 2",
-      "url": "https://open.spotify.com/track/1LYvA2WZFghVMRyunh0P59"
     },
     {
       "added_at": "2024-08-09 04:00:00",

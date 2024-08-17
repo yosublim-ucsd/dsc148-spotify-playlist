@@ -4,27 +4,22 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,382 likes - 18 songs - 1 hr 12 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,384 likes - 13 songs - 46 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [See You Dancing \(do you feel good\)](https://open.spotify.com/track/3hjipKlaFKsx4hiO9RZFua) | [TRIP RGAZZI](https://open.spotify.com/artist/0SK8CcodNPQb6on1zFWq5e) | [See You Dancing \(do you feel good\)](https://open.spotify.com/album/4e6a1eDLxpIUQqoS295DqD) | 3:04 |
-| 2 | [Falling For You](https://open.spotify.com/track/4F6V5Rn3xjoiUBEFA9Eakn) | [Lola Grace](https://open.spotify.com/artist/3sbZAqHGTHzpAFFTahPVD8), [Chhoeing Rangdol](https://open.spotify.com/artist/4fz0CFxo4RqH89t4ZSFBmo), [Soul Food](https://open.spotify.com/artist/30MFrvSkiIdgzYkSRUigQM) | [Falling For You](https://open.spotify.com/album/69Qc7hbL0JUZM6pJcNkRK3) | 3:21 |
-| 3 | [The MILF dream \(forget about it\)](https://open.spotify.com/track/6yi6Eo5EqmpPwcNZVvOspX) | [Ai\-na](https://open.spotify.com/artist/1jKqpV5L4Llxm70jACkiLj) | [The MILF dream \(forget about it\)](https://open.spotify.com/album/1ME1hUd3W07Sbo2wSpwzMk) | 3:23 |
-| 4 | [Crying Out In Space](https://open.spotify.com/track/5Zx8SXTFjLwVCmlGAO2Snw) | [Aisyah Leman](https://open.spotify.com/artist/0TyvauGATIBO6ciV21b5ri) | [Crying Out In Space](https://open.spotify.com/album/5sTo2oOrtspLnRvKPqQavV) | 5:23 |
-| 5 | [Venus was her name](https://open.spotify.com/track/2bo9Y30VgWLb9qTttjnW1h) | [Magdalena Muse](https://open.spotify.com/artist/315RcWJAdfObjoa7vkH5F0) | [Venus was her name](https://open.spotify.com/album/3rigE809kCU1sfaNKCDWE8) | 3:17 |
-| 6 | [U & I](https://open.spotify.com/track/5eq71nqjFsOBqO9YehxCIp) | [Ciaran Boast](https://open.spotify.com/artist/1oAlxLnsAEPUhu46wQ826j) | [U & I](https://open.spotify.com/album/4iWik3AelbhncNmRuOMzTy) | 3:32 |
-| 7 | [Malibu](https://open.spotify.com/track/2u7DIA1yIKMBR173RO0A0Z) | [Tropic Waste](https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv) | [Malibu](https://open.spotify.com/album/2RRvYxKxLLUrn2K03gdtHS) | 1:15 |
-| 8 | [GONE FOR LOVE \- JAKE BEAUTYMAN REMIX](https://open.spotify.com/track/4hS3Td5vlG2EOEnqRAuIJz) | [Rubén Baiz](https://open.spotify.com/artist/72sfklTDzb5PKbmC69JM5l), [Jake Beautyman](https://open.spotify.com/artist/7KSUfZcwGfsX5P0yBSlxwr) | [Gone For Love](https://open.spotify.com/album/52ZTAf91ddsWe3Ouk9fM4i) | 7:10 |
-| 9 | [Vieux\-Port](https://open.spotify.com/track/0CtFbeVfBCplrEgskGaGsa) | [OST Fox](https://open.spotify.com/artist/6QsTaQJfaxuA25E2VHaLHw) | [Seulement à Marseille](https://open.spotify.com/album/33C6UScx3x6CiU10GcaolI) | 6:07 |
-| 10 | [Anemoia](https://open.spotify.com/track/6esG5DXRmeAGXkt7y65zDh) | [Sister Venus](https://open.spotify.com/artist/2EfQ3E2YBAHK426zug2Tpe) | [Nebula Rising](https://open.spotify.com/album/635YNAk3dXnS0APvAJ2AIi) | 3:57 |
-| 11 | [Redneck Dubstep](https://open.spotify.com/track/77ulnCFTagv5krU9tSuCsE) | [KennyR](https://open.spotify.com/artist/07l4MIrDSaRouWJE6sayAh) | [Redneck Dubstep](https://open.spotify.com/album/545wAlk8nxjilkbvnJ6L13) | 2:33 |
-| 12 | [Yellow Gray](https://open.spotify.com/track/7tQE9wz1W6UxvY47KcmCKD) | [Takashi Shallow](https://open.spotify.com/artist/0rudaDiNfpyb9HJDVEXaSO) | [Formalist II: Tactility](https://open.spotify.com/album/4SuyUSuhHlzR3EXOMcLJUb) | 7:16 |
-| 13 | [Hurriya](https://open.spotify.com/track/4wh1SEzPKNGF0KlDANGKDX) | [Torgny Elgstrand](https://open.spotify.com/artist/5bHkOOTJw2yCfHxIXtrZ7L) | [Hurriya](https://open.spotify.com/album/4372eGxTmTbHAaCW6JPbrC) | 1:50 |
-| 14 | [Dina ögon](https://open.spotify.com/track/24PD4yZVVOc3Re49I3TNs8) | [Petter Elfsberg](https://open.spotify.com/artist/0uvVSH8mf5ESwUewiSkIb2) | [Dina ögon](https://open.spotify.com/album/14U0AaD4LqqLltek6Pg32r) | 2:21 |
-| 15 | [Voices](https://open.spotify.com/track/6I5g8ShYrB3S2KVLd6ncHW) | [ECOS](https://open.spotify.com/artist/0zO3uR40KJJeGkHlnV0P4A) | [Morning](https://open.spotify.com/album/2mVPy3KIbX8u4Q2qr4YjcZ) | 3:23 |
-| 16 | [Glima \- Live in Kristiansand](https://open.spotify.com/track/6TLNxrvyHhHT0SbqB71ys2) | [Wrath](https://open.spotify.com/artist/4Xdvi6S3GRwAlBVh5naGmf) | [BARE LIVE \(Live\)](https://open.spotify.com/album/6xDZ4z04yzw0Cdm8iW73EN) | 6:16 |
-| 17 | [Om du vore här](https://open.spotify.com/track/0TWCXjDt48tOqhDfAiAsIB) | [Anders Barsk](https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO) | [Om du vore här](https://open.spotify.com/album/3hoXbMe9cqPNGvlDFUDHfN) | 3:44 |
-| 18 | [En röd liten kyss](https://open.spotify.com/track/5vX8EEqCxUOQWFp4lLjsNm) | [Jonas Tegnér](https://open.spotify.com/artist/2WOouZH4O5FGgrM0PypZIy) | [En röd liten kyss](https://open.spotify.com/album/2Oy2ul4bP12yXplpBRwCJA) | 4:00 |
+| 1 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 |
+| 2 | [Wicked Game](https://open.spotify.com/track/0s5XxWW3DRLkmSb0d8YwEu) | [Clödie](https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15), [Mike Olow](https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt) | [Wicked Game](https://open.spotify.com/album/2IMm7bIMOkDnxMbYohzJhA) | 4:12 |
+| 3 | [House Of Love](https://open.spotify.com/track/26H7Nffsit80gbewHRfWu0) | [Micke Lovberg](https://open.spotify.com/artist/5HfjZQR2FGcfUQ0oMAAxsG) | [House Of Love](https://open.spotify.com/album/5cjHZ8tzjLuhaEHkaKMyVA) | 4:00 |
+| 4 | [Mama](https://open.spotify.com/track/7HeH3Djnx5p5Uq4SWGbHpw) | [Yozif](https://open.spotify.com/artist/5Y0UtFJl6GLJFXu9UH9Xwg) | [Mama](https://open.spotify.com/album/7vhmpLYvCMPNuWjfvgRg1V) | 5:22 |
+| 5 | [Fiery Night](https://open.spotify.com/track/30wShil0OGBnolu9NqyX2p) | [Spiders On Drugs](https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm), [Patrik Tammelin](https://open.spotify.com/artist/6RE5O8YXcLufw1yqYsKsDi), [Maria Simonson](https://open.spotify.com/artist/67yhCBMk6NuA2XaCSUTF3o) | [Fiery Night](https://open.spotify.com/album/3JFJ8vEYlFhCyHUH4KJsh1) | 3:11 |
+| 6 | [Love me harder](https://open.spotify.com/track/0TaConHdFV7yjGdcTFnXuj) | [Odessa K](https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7) | [Love me harder](https://open.spotify.com/album/55dBJAuL13NRfkxssHcJGj) | 3:26 |
+| 7 | [Ghostdance](https://open.spotify.com/track/06DNSk0u174rsFqH02D0ew) | [Blue Train](https://open.spotify.com/artist/7rdg63lZqxc0bJq39Zat00) | [Ghostdance](https://open.spotify.com/album/2v50r02yQefeIlssieqrUq) | 3:47 |
+| 8 | [Inte ha mage](https://open.spotify.com/track/4zvaqXkcpFKMY8OQ20JlR5) | [Kajsa Larsson](https://open.spotify.com/artist/0UsiAYIj7AE0jTnDrC3itV) | [Inte ha mage](https://open.spotify.com/album/2fpzdrD47dRRNgYPbpHJkK) | 2:43 |
+| 9 | [Zombie](https://open.spotify.com/track/37UOnSrtT1FAIB6eqRXoYU) | [Ad.03.00.am](https://open.spotify.com/artist/3UgiNpWgMpsrOFyxlqBb6r), [Fjern](https://open.spotify.com/artist/05QVbmiN8MmnCQzwm5ebur) | [Zombie](https://open.spotify.com/album/36iKwzZScYT3ugXFEs2kyK) | 2:44 |
+| 10 | [Koirankoppi](https://open.spotify.com/track/1PQgImlchEAXyLptApv0CL) | [Pudel Blanco](https://open.spotify.com/artist/54ehlR3XM3YNwv5R7p60iN) | [Koirankoppi](https://open.spotify.com/album/6gvaaZPHhdPN1e6mAsk5ie) | 3:08 |
+| 11 | [あなたの歌](https://open.spotify.com/track/4sHxZQDidvElrXRSjXlIxa) | [Daigo Akane](https://open.spotify.com/artist/6aTFD0LHw9wphqLFRdHoMi) | [信楽ドライブ](https://open.spotify.com/album/6uIvryWynYWovVjDSN4vbW) | 3:51 |
+| 12 | [Lost in the lights](https://open.spotify.com/track/6CPgiMb7oBC1po1MEjSdZz) | [Lisa D](https://open.spotify.com/artist/1TcqqLgeU8TnYRhRgZ37fG) | [Lost in the lights](https://open.spotify.com/album/2mEGH09KaUD8wf1LV9DK1u) | 3:34 |
+| 13 | [If I Can't Be Alone](https://open.spotify.com/track/5EYoGOK5TGWLoeI4QqO658) | [Maè](https://open.spotify.com/artist/1WkoXsYTfEcrvfojd1tyQu) | [If I Can't Be Alone](https://open.spotify.com/album/5C1pVqb5t5rpj1m717pA4R) | 2:11 |
 
-Snapshot ID: `AAADzDWe0GhtAjATqhO/FsO+WiolAQMQ`
+Snapshot ID: `AAADzhs3QsPN8uvutcQStKooSee0BitQ`

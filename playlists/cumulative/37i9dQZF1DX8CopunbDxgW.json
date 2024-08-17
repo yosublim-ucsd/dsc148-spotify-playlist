@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: The Dare",
+  "description": "The best indie dance tracks of the moment. Cover: Bag Raiders & Panama",
   "name": "metropolis",
   "tracks": [
     {
@@ -2288,6 +2288,28 @@
       "duration_ms": 260362,
       "name": "be free.",
       "url": "https://open.spotify.com/track/0qTvCYCKnLjEjm2rXatkKb"
+    },
+    {
+      "album": {
+        "name": "Late Night Tails",
+        "url": "https://open.spotify.com/album/673Knbuukfc84494HkQeTv"
+      },
+      "artists": [
+        {
+          "name": "Luke Million",
+          "url": "https://open.spotify.com/artist/1khu4DLsGK5MWLbUlfKkgz"
+        },
+        {
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Be Here Tonight",
+      "url": "https://open.spotify.com/track/3U3zQQcN4EUFI2F0erJyG2"
     },
     {
       "album": {
@@ -8037,6 +8059,24 @@
     },
     {
       "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/1j4s6sv6WFu86u052hrpTh"
+      },
+      "artists": [
+        {
+          "name": "Wacomo",
+          "url": "https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/06QGDM31PNF0MBD2WOBfef"
+    },
+    {
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -8907,6 +8947,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/3me9thHbtjc4oj9nKmNYHG"
+      },
+      "artists": [
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233190,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/55qMAQxnxF1chuekaqOwoJ"
+    },
+    {
+      "album": {
         "name": "Mirror Mountain",
         "url": "https://open.spotify.com/album/3hcYCXbWFUV5eP4wZPQn8K"
       },
@@ -9472,6 +9534,24 @@
       "duration_ms": 459903,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/4VlHhqkB6TCdL9AuOm9r1B"
+    },
+    {
+      "album": {
+        "name": "Get Myself Together",
+        "url": "https://open.spotify.com/album/2Fu1yGeLLBPQ7CL7UmC7M9"
+      },
+      "artists": [
+        {
+          "name": "Classixx",
+          "url": "https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Get Myself Together",
+      "url": "https://open.spotify.com/track/5duJ3Vv73N5MNNqh3KyjPG"
     },
     {
       "album": {
@@ -10872,7 +10952,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 307360,
       "name": "Hey Lou - Je3's CCTV Mix",
       "url": "https://open.spotify.com/track/0pfMYh8Pbu4hBOY3eNU20v"
@@ -14925,6 +15005,28 @@
     },
     {
       "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/34fhH2JfUYk74ygiMc3plp"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126024,
+      "name": "LIVE",
+      "url": "https://open.spotify.com/track/67azexYEXRdBvNnkAZuZY1"
+    },
+    {
+      "album": {
         "name": "lived to love",
         "url": "https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk"
       },
@@ -15636,7 +15738,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 185524,
       "name": "Love You Better",
       "url": "https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU"
@@ -16218,7 +16320,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 217403,
       "name": "Make U Happy",
       "url": "https://open.spotify.com/track/7101CbuwiVfNknaPNi997p"
@@ -16348,7 +16450,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205384,
       "name": "Maximum",
       "url": "https://open.spotify.com/track/52d7hMqDso3KSzTKT9c0tl"
@@ -16494,7 +16596,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 255133,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
@@ -21731,6 +21833,28 @@
     },
     {
       "album": {
+        "name": "Sensationalize Me (with Donna Missal)",
+        "url": "https://open.spotify.com/album/7wJN5T4kCAy6TNp6LD7RcJ"
+      },
+      "artists": [
+        {
+          "name": "Austin Ward",
+          "url": "https://open.spotify.com/artist/3iQH8Wnh2zRBvZEdoV2aHz"
+        },
+        {
+          "name": "Donna Missal",
+          "url": "https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266133,
+      "name": "Sensationalize Me (with Donna Missal)",
+      "url": "https://open.spotify.com/track/3s4pX9Mw77sU6vJR6LfzN9"
+    },
+    {
+      "album": {
         "name": "Sensitive Child (Soulwax Remix)",
         "url": "https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA"
       },
@@ -23798,6 +23922,24 @@
       "duration_ms": 182166,
       "name": "summertime breeze",
       "url": "https://open.spotify.com/track/1IdASaCkAnfqAPHBqOVP7t"
+    },
+    {
+      "album": {
+        "name": "Mixed Signals EP",
+        "url": "https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Sun In Your Eyes",
+      "url": "https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3"
     },
     {
       "album": {
@@ -26214,7 +26356,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202133,
       "name": "trust issues",
       "url": "https://open.spotify.com/track/4MeabdGHhY0AIs0NaWttgQ"
@@ -27094,7 +27236,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171898,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/646SlBx1mA5L2a3yr9QrX7"

@@ -1,13 +1,33 @@
 {
   "description": "Listen to all her biggest hits, in one place.",
-  "num_followers": 1692596,
+  "num_followers": 1693120,
   "original_name": "This Is Lady Gaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZhGhBAAAAAAQQGA6fLJlt9AqnfzxiG1P",
+  "snapshot_id": "Zr7OwAAAAACfiWs6OsHvgz9N+kUo8voi",
   "tracks": [
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
     {
       "added_at": "2024-04-06 19:22:44",
       "album": {
@@ -719,26 +739,6 @@
       "duration_ms": 270826,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/36ebL42b6QAqitgzbkIjw5"
-    },
-    {
-      "added_at": "2024-04-06 19:22:44",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "I Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL"
     },
     {
       "added_at": "2024-04-06 19:22:44",

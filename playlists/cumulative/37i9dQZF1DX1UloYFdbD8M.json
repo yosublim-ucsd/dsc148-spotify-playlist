@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 275733,
       "name": "Athe Nila (From \"I'm Original\") by Job Kurian",
       "url": "https://open.spotify.com/track/1a2xwbwGVHUYGFcVGKyEtC"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 290951,
       "name": "GVQ",
       "url": "https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK"
@@ -3825,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Thanne",
+        "url": "https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR"
+      },
+      "artists": [
+        {
+          "name": "Matadoria",
+          "url": "https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Thanne",
+      "url": "https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH"
+    },
+    {
+      "album": {
         "name": "The Bacardi Song",
         "url": "https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr"
       },
@@ -4262,6 +4280,28 @@
       "duration_ms": 204000,
       "name": "Uyaru",
       "url": "https://open.spotify.com/track/3rFUkoIS2Hb8ZUvNtpXoRc"
+    },
+    {
+      "album": {
+        "name": "Uyire",
+        "url": "https://open.spotify.com/album/4Tg0keyVKad01TmwNVQSXH"
+      },
+      "artists": [
+        {
+          "name": "Zeusheelan",
+          "url": "https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN"
+        },
+        {
+          "name": "Abhi Sulaimani",
+          "url": "https://open.spotify.com/artist/6OCXNGT9pE7hOScBz8RSOp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "Uyire",
+      "url": "https://open.spotify.com/track/3ZyDq4gEu7MVDFyoEXwq9X"
     },
     {
       "album": {

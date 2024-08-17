@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/5foR1PGhkVlOnY2fVjicRP"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135858,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/2Yvs2TLzIogzXMX8LBAMJd"
+    },
+    {
+      "album": {
         "name": "Isle of Arran",
         "url": "https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R"
       },

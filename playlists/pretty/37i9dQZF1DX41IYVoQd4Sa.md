@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,012 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,024 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 37 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 38 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 |
 | 39 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 |
-| 40 | [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 |
-| 41 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
-| 42 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
+| 40 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 |
+| 41 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
+| 42 | [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 |
 | 43 | [Fool For Your Smile](https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2) | [GADEE](https://open.spotify.com/artist/7amPV764MD1pbuSGbj9bO0) | [Homesick](https://open.spotify.com/album/6vKpcaZxcbSq2isqEL9gJw) | 3:01 |
 | 44 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 |
 | 45 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 51 | [Wild Wonder](https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY) | [Wild Wonder](https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB) | 4:08 |
 | 52 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 53 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 |
-| 54 | [In Love Again](https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [In love Again](https://open.spotify.com/album/5ysI0lyjbTNUI0w7MoVvHA) | 3:01 |
-| 55 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 54 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 |
+| 55 | [In Love Again](https://open.spotify.com/track/47jC4oWp7aLnmO5SMkhfU3) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [In love Again](https://open.spotify.com/album/5ysI0lyjbTNUI0w7MoVvHA) | 3:01 |
 | 56 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 57 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
-| 58 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
-| 59 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
-| 60 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
+| 57 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
+| 58 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 59 | [תמיד ילדים](https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [Guy Mazig](https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R) | [תמיד ילדים](https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS) | 3:28 |
+| 60 | [Goodbye Mary](https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Goodbye Mary](https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a) | 3:03 |
 
 Snapshot ID: `Zr5sUAAAAADZr0SDnzkKyVvX63Xcc9oQ`

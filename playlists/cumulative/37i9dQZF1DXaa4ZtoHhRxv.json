@@ -3103,6 +3103,32 @@
     },
     {
       "album": {
+        "name": "Raise Your Glass (feat. DINER)",
+        "url": "https://open.spotify.com/album/2wzAMQg6TnW1GH64P9YWkn"
+      },
+      "artists": [
+        {
+          "name": "Country Night",
+          "url": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
+        },
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        },
+        {
+          "name": "DINER",
+          "url": "https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120483,
+      "name": "Raise Your Glass (feat. DINER)",
+      "url": "https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7"
+    },
+    {
+      "album": {
         "name": "Rumor (Remixes)",
         "url": "https://open.spotify.com/album/0htPXn3wIk2tOAGxxMTLGK"
       },

@@ -1,31 +1,15 @@
 {
   "description": "Beats que le suben el \u00e1nimo a tu d\u00eda.",
-  "num_followers": 82726,
+  "num_followers": 82772,
   "original_name": "Relax Brunch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zm0flAAAAAA1HOvHSoZiDcIcjoLnG8Iq",
+  "snapshot_id": "Zr7clAAAAABEprYbmxacpPtubpN5rY2R",
   "tracks": [
     {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "Headspace",
-        "url": "https://open.spotify.com/album/0PVtjv3yysRqlqZn2olRsc"
-      },
-      "artists": [
-        {
-          "name": "Epifania",
-          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
-        }
-      ],
-      "duration_ms": 133464,
-      "name": "Headspace",
-      "url": "https://open.spotify.com/track/24BqtlnVXT1XpccuGPje36"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "A Strange Arrangement Instrumentals",
         "url": "https://open.spotify.com/album/0JA5Nfyg8NaOODEB3vojEa"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/6hnHCJOa5E6VaEaJsRTjfD"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Colors of Jazz",
         "url": "https://open.spotify.com/album/4O4EW5fWTbGuI3wl2uVCQ0"
@@ -57,7 +41,63 @@
       "url": "https://open.spotify.com/track/0mP794DC011KhYyhqwy8rQ"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "Play & Play: The B Sides",
+        "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 241173,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/0PVtjv3yysRqlqZn2olRsc"
+      },
+      "artists": [
+        {
+          "name": "Epifania",
+          "url": "https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b"
+        }
+      ],
+      "duration_ms": 133464,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/24BqtlnVXT1XpccuGPje36"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2Cpqxj3j98RDeal2Xixriw"
+      },
+      "artists": [
+        {
+          "name": "Chill Jung",
+          "url": "https://open.spotify.com/artist/7BjGvQhrCR7fh53jMw2BRq"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/18eqjGeT05fy6JC4FW1d4Y"
+        },
+        {
+          "name": "M\u00fcx",
+          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
+        }
+      ],
+      "duration_ms": 173330,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/3ndGCxdKv0HYO4SnxhBf0C"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
@@ -81,43 +121,7 @@
       "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "Play & Play: The B Sides",
-        "url": "https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 241173,
-      "name": "Porcelain",
-      "url": "https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "No Time for Dreaming (The Instrumentals)",
-        "url": "https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 203331,
-      "name": "The World (Is Going Up in Flames) - Instrumental",
-      "url": "https://open.spotify.com/track/7dBvMFSY8mABXn4Cmq4y5g"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Sonido C\u00f3smico",
         "url": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t"
@@ -133,39 +137,7 @@
       "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "Noble Metals",
-        "url": "https://open.spotify.com/album/06QsvcZqx4qg1Zif2Gx4A6"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Noble Metals",
-      "url": "https://open.spotify.com/track/5fsYYgNSXWpAHq0sLtV6mj"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "Coffee Shop Selection",
-        "url": "https://open.spotify.com/album/2Du6CyEJh7uk7nfiGATB1r"
-      },
-      "artists": [
-        {
-          "name": "Gramatik",
-          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
-        }
-      ],
-      "duration_ms": 180166,
-      "name": "The Anthem (Instrumental)",
-      "url": "https://open.spotify.com/track/39WiivO5yDqfhHFXsREqCE"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
@@ -197,7 +169,23 @@
       "url": "https://open.spotify.com/track/1ux778Ljln0QEitz2fB4PH"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "A Media Noche",
+        "url": "https://open.spotify.com/album/7BzTg4gWSarVQqKDwaanmf"
+      },
+      "artists": [
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Parasomnia",
+      "url": "https://open.spotify.com/track/5DlSpdEcViVYkeGCTsVaGg"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Marc Mac presents Visioneers - Dirty Old Hip Hop",
         "url": "https://open.spotify.com/album/7ytasfSaRrQtKyjkiiYibW"
@@ -213,23 +201,7 @@
       "url": "https://open.spotify.com/track/6x0fMgsxvhpiOspnhykuF2"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
-      "album": {
-        "name": "Deadringer: Deluxe",
-        "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Ghostwriter",
-      "url": "https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp"
-    },
-    {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "This Girl (Special Edition)",
         "url": "https://open.spotify.com/album/4Fan1WsiMLAtgeycJNvzs4"
@@ -245,7 +217,23 @@
       "url": "https://open.spotify.com/track/01zGD4HoAR90snBfA0yMCu"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "Blood Milk Moon",
+        "url": "https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 177852,
+      "name": "Blood Milk Moon",
+      "url": "https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "H\u00f4tel Costes 6",
         "url": "https://open.spotify.com/album/1VxdV8gGNW9JAdZ7yak3c0"
@@ -261,7 +249,7 @@
       "url": "https://open.spotify.com/track/5R4q6bsvAChmt1icAE1EWh"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Faithful Man (Instrumentals)",
         "url": "https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG"
@@ -277,7 +265,23 @@
       "url": "https://open.spotify.com/track/1WrQreMyy7L97MUSdS01xu"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+    },
+    {
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Dusty Lake",
         "url": "https://open.spotify.com/album/6TjGE9e5AucQWWtYFUSrA1"
@@ -293,7 +297,7 @@
       "url": "https://open.spotify.com/track/5xgON9z9ym08pQrRKHkBsT"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "1925",
         "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
@@ -309,7 +313,7 @@
       "url": "https://open.spotify.com/track/3navZS9goNH9MlBiKD1E6V"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Chinoiseries pt 2",
         "url": "https://open.spotify.com/album/5bl0ylxUoBnIMB1Fn2oSYF"
@@ -325,7 +329,7 @@
       "url": "https://open.spotify.com/track/6vQHxIHj6mFAsHgP6F52tf"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "You Make Me Smile",
         "url": "https://open.spotify.com/album/7gpO1RGycB9OmjuALSkNBO"
@@ -341,7 +345,7 @@
       "url": "https://open.spotify.com/track/3erovQ48Iy0iqZb9e9NrZu"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Curses from Past Times",
         "url": "https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael"
@@ -357,7 +361,7 @@
       "url": "https://open.spotify.com/track/7hgCSM590WO7HC02mgnXvh"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp"
@@ -373,7 +377,7 @@
       "url": "https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Thought So\u2026",
         "url": "https://open.spotify.com/album/0nLCUby65vPnn29qRPFq4I"
@@ -389,7 +393,7 @@
       "url": "https://open.spotify.com/track/4JCmpKszRvku5euErqBIPO"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/07vs4sZUvb06ysdCjhYl40"
@@ -405,7 +409,7 @@
       "url": "https://open.spotify.com/track/1gkVziEAUzRL8KglfQZfGL"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Inner Fire",
         "url": "https://open.spotify.com/album/6A7uB5OoxomiuSO4TvOXDB"
@@ -421,7 +425,7 @@
       "url": "https://open.spotify.com/track/5jiJYFm6YBqRJ0sLbwmezm"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Curses from Past Times",
         "url": "https://open.spotify.com/album/5se7J0zVDdu3lH5dcw3ael"
@@ -437,7 +441,7 @@
       "url": "https://open.spotify.com/track/2hHNFmRgj2KUCeCcJH0QLP"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Study Guide",
         "url": "https://open.spotify.com/album/46LudqPGBEIX9l8FlVqe9x"
@@ -453,7 +457,7 @@
       "url": "https://open.spotify.com/track/3ZB4h7rWKKIMC06EzFiuE9"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Like I Usually Do",
         "url": "https://open.spotify.com/album/1p5jDeVqSrZvhPZiJ20Xbl"
@@ -469,7 +473,7 @@
       "url": "https://open.spotify.com/track/4PHqFuq0cfUP8LblrwcBaK"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "The Final Adventure (Instrumentals)",
         "url": "https://open.spotify.com/album/0z0rbyEtYkisRJBja0FmRk"
@@ -485,7 +489,7 @@
       "url": "https://open.spotify.com/track/3cEBPjgsxmelctGjeaB7wY"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Barfly (Remixes)",
         "url": "https://open.spotify.com/album/5quziiwWuBP5sIPMqthYgm"
@@ -501,7 +505,7 @@
       "url": "https://open.spotify.com/track/6Cq5rm1CEQcXV1bWXmL8Vq"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "My World (Instrumentals)",
         "url": "https://open.spotify.com/album/3SFxXvZr27fS5fpOWPckrI"
@@ -521,7 +525,7 @@
       "url": "https://open.spotify.com/track/1SGQDxceZAPK4IWffYCw8c"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Atlantic Oscillations",
         "url": "https://open.spotify.com/album/729Ja1YsqDHtt4kVh4nP7J"
@@ -537,7 +541,7 @@
       "url": "https://open.spotify.com/track/0FzxpBbzXCiOjNvSW0Q1NY"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "SB3",
         "url": "https://open.spotify.com/album/6zRPOKKIiUEQPGYnLoavVj"
@@ -553,7 +557,7 @@
       "url": "https://open.spotify.com/track/6O7qFEXmLQcOsV37wrgJDz"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "VXNTX VXNTX",
         "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
@@ -569,7 +573,7 @@
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Oh My God (feat. Lily Allen)",
         "url": "https://open.spotify.com/album/2NPq3xrMiBkXt6dz8LPPTN"
@@ -589,7 +593,7 @@
       "url": "https://open.spotify.com/track/5KNqTr64pJLzSrDC6P4NH6"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "The Crossing",
         "url": "https://open.spotify.com/album/1MY3VMNUb73QNJhZB92uGB"
@@ -605,7 +609,7 @@
       "url": "https://open.spotify.com/track/5aqR0sE4AVaycHGVVjoZmx"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
@@ -621,7 +625,7 @@
       "url": "https://open.spotify.com/track/2MddqD0MryxIAKS03raHsz"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Rebirth of Cool",
         "url": "https://open.spotify.com/album/4Qs2QGM0QfiQnnQwc032Z1"
@@ -637,7 +641,7 @@
       "url": "https://open.spotify.com/track/4aNsaULjrRRMUPXP9IcDEa"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Highlighter",
         "url": "https://open.spotify.com/album/4ZZOgZ1MOnTrN3X6bIOEIW"
@@ -653,7 +657,7 @@
       "url": "https://open.spotify.com/track/0TK3fh9LH2OGfex6ns2gP2"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Mantra, Pt. 1",
         "url": "https://open.spotify.com/album/1EQMjvDq41T3p6iiq0Kx7H"
@@ -669,7 +673,7 @@
       "url": "https://open.spotify.com/track/6jo4enDzLZjNaod4zmgzXc"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Man from the Future",
         "url": "https://open.spotify.com/album/0Rq7LrLsPt0urUEgvqbrZb"
@@ -685,7 +689,7 @@
       "url": "https://open.spotify.com/track/5YN3J3Fc6fVFEeOVWyvSk1"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Faithful Man (Instrumentals)",
         "url": "https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG"
@@ -701,7 +705,7 @@
       "url": "https://open.spotify.com/track/1Fq9IQT0vGQrCQ0DsQtQuz"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Party Of One",
         "url": "https://open.spotify.com/album/7za7wEUn5JAq6yKC2SEbnj"
@@ -717,7 +721,7 @@
       "url": "https://open.spotify.com/track/64GFQFCscymlV0uCbo4qlu"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -733,7 +737,7 @@
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "The Music Scene",
         "url": "https://open.spotify.com/album/4i0QEXwMps7KIuVq5PBckJ"
@@ -749,7 +753,7 @@
       "url": "https://open.spotify.com/track/2LH8eZOTAp4spvNCuLvZ8V"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Make the Road By Walking",
         "url": "https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/1bZH8L8V2m454tdcSPEIl7"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Taking up Your Precious Time",
         "url": "https://open.spotify.com/album/5E5U9ckjlBvJ3qkNAAqESY"
@@ -781,7 +785,7 @@
       "url": "https://open.spotify.com/track/3WS7spXVlbeC5kjePmHMQW"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "How It Should Sound, Vol. 1 & 2",
         "url": "https://open.spotify.com/album/5KIoOhlCq4pWV9aupB97KU"
@@ -797,7 +801,7 @@
       "url": "https://open.spotify.com/track/2APXQ9ONhqK1GDexegeSdv"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
@@ -813,7 +817,7 @@
       "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
@@ -833,7 +837,7 @@
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Destination",
         "url": "https://open.spotify.com/album/3h18Tdtt5rtE5fH1wlnqoZ"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/6D7iSWp1lC1SSCuYkqP4gL"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Realize",
         "url": "https://open.spotify.com/album/2WGk8lQFbPpRdecsNUCVlQ"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/0ZStPeLfNLMH1EacArPO5W"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Get It Together (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cUzBfvfHSs6fTR7zYiHja"
@@ -881,7 +885,7 @@
       "url": "https://open.spotify.com/track/6wk7xDBvxOB9mC58mAiHtI"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Magnifique",
         "url": "https://open.spotify.com/album/4Lp4NxL8v03Mxg3hbAgW1Z"
@@ -897,7 +901,7 @@
       "url": "https://open.spotify.com/track/3s25iX3minD5jORW4KpANZ"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Enter The 37th Chamber",
         "url": "https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5"
@@ -913,7 +917,7 @@
       "url": "https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Athletic Progression",
         "url": "https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6"
@@ -929,7 +933,7 @@
       "url": "https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Windmills of the Soul Instrumentals",
         "url": "https://open.spotify.com/album/21J9q0qN5O76XkGVUQLsM9"
@@ -945,7 +949,7 @@
       "url": "https://open.spotify.com/track/1tJ0cJiI2hSY05InPQc93p"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "No Time for Dreaming (The Instrumentals)",
         "url": "https://open.spotify.com/album/52Ad1j9o1wFWUj8DRul2sL"
@@ -965,7 +969,7 @@
       "url": "https://open.spotify.com/track/6FEESiC65oKkgebXZlPc5J"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Faithful Man (Instrumentals)",
         "url": "https://open.spotify.com/album/1mtrVXhx0JBuv53GqqJbiG"
@@ -981,7 +985,7 @@
       "url": "https://open.spotify.com/track/6gZkoHTufo7bTuMHFyppWv"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "SB4",
         "url": "https://open.spotify.com/album/0bLCkwjclcyYzC7CxTXnFa"
@@ -997,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6hg7Re7Eu6MfAd33G6KOKa"
     },
     {
-      "added_at": "2024-06-15 04:59:00",
+      "added_at": "2024-08-16 04:59:00",
       "album": {
         "name": "Fool's Gold",
         "url": "https://open.spotify.com/album/0fn9HuJ6H8wuIW4a1Yt9uH"

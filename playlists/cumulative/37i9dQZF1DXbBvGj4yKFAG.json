@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "i only remember the good parts",
+        "url": "https://open.spotify.com/album/4LGSeJINAOVyvKPIuuxPvI"
+      },
+      "artists": [
+        {
+          "name": "Orchid Mantis",
+          "url": "https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq"
+        },
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131182,
+      "name": "another life",
+      "url": "https://open.spotify.com/track/0cv23MDqZknh1AwCjr6y0S"
+    },
+    {
+      "album": {
         "name": "lakehouse",
         "url": "https://open.spotify.com/album/2kUUcrTb16BTD6oXjOpjip"
       },
@@ -918,6 +940,24 @@
       "duration_ms": 188661,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY"
+    },
+    {
+      "album": {
+        "name": "drain",
+        "url": "https://open.spotify.com/album/6i8d0bLtfgx6EuM9CwGE8f"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "drain",
+      "url": "https://open.spotify.com/track/12pZ8Iyk84bJ3AYHTOzKS7"
     },
     {
       "album": {
@@ -1690,6 +1730,24 @@
       "duration_ms": 63934,
       "name": "i'm going to fail my class",
       "url": "https://open.spotify.com/track/5omKvSB7yvJZxHthOzhqRP"
+    },
+    {
+      "album": {
+        "name": "I'm Tired",
+        "url": "https://open.spotify.com/album/7oB65bc5kSOn3blOn7Od3n"
+      },
+      "artists": [
+        {
+          "name": "My Final Sanctuary",
+          "url": "https://open.spotify.com/artist/2uIUI2Atle9OTOvwb3UfYO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194625,
+      "name": "I'm Tired",
+      "url": "https://open.spotify.com/track/2XmAnZjJtlSDtxPKDx6ET4"
     },
     {
       "album": {
@@ -4232,6 +4290,24 @@
       "duration_ms": 209500,
       "name": "Wishuwerehere",
       "url": "https://open.spotify.com/track/7nAg9e2rEkIVtM4PQockjj"
+    },
+    {
+      "album": {
+        "name": "Word",
+        "url": "https://open.spotify.com/album/5r8G19v5d6ZoLpT7SJlWmx"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206386,
+      "name": "Word",
+      "url": "https://open.spotify.com/track/4M6x3QboBSckK3j0rNxYJQ"
     },
     {
       "album": {

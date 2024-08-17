@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Godwin",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -10428,6 +10428,24 @@
       "duration_ms": 138000,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9"
+    },
+    {
+      "album": {
+        "name": "Lungs",
+        "url": "https://open.spotify.com/album/0cyYxrUNpkm679c66snDo6"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138827,
+      "name": "Lungs",
+      "url": "https://open.spotify.com/track/4IaBXEODvoQQzbGOxzQGfy"
     },
     {
       "album": {

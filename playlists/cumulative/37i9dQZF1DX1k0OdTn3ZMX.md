@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Silly Goose
+> nü\-metal revival is happening here and now with FEVER 333
 
-180 songs - 10 hr 20 min
+181 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Hard Knock](https://open.spotify.com/track/3zxoPM98k49H9cuxsXPWoL) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Hard Knock](https://open.spotify.com/album/4z0FAe3hOWNG5McJu8JCUw) | 2:49 | 2023-10-13 | 2024-03-09 |
 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 | 2024-06-14 |  |
 | [Hellstar](https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Hellstar](https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv) | 3:12 | 2024-03-08 | 2024-03-30 |
-| [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 | 2024-07-19 |  |
+| [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 | 2024-07-19 | 2024-08-17 |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 |  |
 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-05-03 |  |
 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 | 2023-09-13 | 2024-04-06 |
@@ -104,6 +104,7 @@
 | [MY DISASTER](https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [MY DISASTER](https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w) | 2:41 | 2024-07-26 |  |
 | [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-14 |  |
 | [Nightmare](https://open.spotify.com/track/5c3fIHmLHmL4iaqUuqBPHo) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:07 | 2023-09-13 | 2024-05-25 |
+| [NO HOSTAGES](https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [NO HOSTAGES](https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO) | 3:03 | 2024-08-16 |  |
 | [No One Else To Blame](https://open.spotify.com/track/1LAUa3m7ncdsdzC6e0WtJ1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:40 | 2023-09-29 | 2023-11-11 |
 | [No Way Out](https://open.spotify.com/track/6YfWZraEqW5CDfGGlo69sa) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/1DLMfaroYM5VJpEdimgzHu) | 4:01 | 2023-12-15 | 2024-06-01 |
 | [Old School Sound](https://open.spotify.com/track/3ozOUkF7LFjtE8nx9CR5ih) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Old School Sound](https://open.spotify.com/album/7F8m6iLwPnmMZWYhoCDvzm) | 3:31 | 2023-12-15 | 2024-03-30 |

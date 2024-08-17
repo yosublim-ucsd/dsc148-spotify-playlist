@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-795 songs - 1 day 21 hr 35 min
+796 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Haunt You](https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Haunt You](https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ) | 2:42 | 2023-04-25 | 2023-07-22 |
 | [haunted](https://open.spotify.com/track/7rMhXwRXJc2C6oLYzkdt2J) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [lucid](https://open.spotify.com/album/19rvrdBIeSrbvQG8wSiyRM) | 2:59 | 2023-11-28 | 2024-03-12 |
 | [haunted](https://open.spotify.com/track/5mUu3ORxehXOXQwqrLwBTt) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [haunted](https://open.spotify.com/album/3Vb9NYVMJFam1G2IFTqUYO) | 2:14 | 2023-09-18 | 2024-01-11 |
+| [Have It All](https://open.spotify.com/track/6hR4plghLBRSbXEf2wNvsX) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Have It All](https://open.spotify.com/album/2YEjMz4R5PEz69Qc5b2LtY) | 2:56 | 2024-08-16 |  |
 | [Haze](https://open.spotify.com/track/4VjALfCVxHTUB1Te6FEWUY) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Haze](https://open.spotify.com/album/4UF3ppHDuxCNrupmlGx9gZ) | 4:36 | 2022-09-28 | 2022-12-01 |
 | [HEADCASE](https://open.spotify.com/track/5WOZJnZXHTB02ZavH48bMH) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [HEADCASE](https://open.spotify.com/album/4QFtZ8a8SjNrk2uCY1TP0Z) | 2:02 | 2023-11-20 | 2024-03-02 |
 | [Heal](https://open.spotify.com/track/2nGEfupnQbdQyxFjHrx0SM) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Heal](https://open.spotify.com/album/2ZFsWsRhG8XFk4Srgq5qI1) | 4:14 | 2023-08-28 | 2023-12-14 |
@@ -427,7 +428,7 @@
 | [Marea Turquesa](https://open.spotify.com/track/4S0GJba78XTTYMDChLvTjc) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Marea Turquesa](https://open.spotify.com/album/2z7jQZ0dnfYMErTg4CVnp4) | 3:08 | 2023-01-23 | 2023-04-06 |
 | [Mayday](https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Mayday](https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR) | 3:03 | 2023-05-29 | 2023-08-28 |
 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 | 2022-05-13 | 2022-07-26 |
-| [MEANT 2 BE](https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija) | [MEANT 2 BE](https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE) | 2:44 | 2024-05-27 |  |
+| [MEANT 2 BE](https://open.spotify.com/track/4zMVHb3ZWygsiB3oxDiur4) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde), [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija) | [MEANT 2 BE](https://open.spotify.com/album/1IWx8iljeD27g0OOrzD9mE) | 2:44 | 2024-05-27 | 2024-08-17 |
 | [Midnight](https://open.spotify.com/track/3lLGqbg4MFogvxKKgK3dQB) | [Mick Mazoo](https://open.spotify.com/artist/1Yx2K8SQD3JPnPesUxNqve) | [Midnight](https://open.spotify.com/album/6tekFxWP50ojlYn6jHL2vW) | 2:32 | 2022-09-23 | 2022-11-29 |
 | [Million Reasons](https://open.spotify.com/track/76LqoAbnaxhc9gaGnXluFy) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Gunnva](https://open.spotify.com/artist/7MVtZkqiCMOWchZpXPEMXh) | [Million Reasons](https://open.spotify.com/album/1shWfHagehxkIqbREDm5fx) | 3:25 | 2021-12-03 | 2022-03-09 |
 | [Mindbreak](https://open.spotify.com/track/6EP8jgwI9FS3qEEfNC6idl) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Mindbreak](https://open.spotify.com/album/21Cj0g82RnutbkJdlrwTkD) | 3:33 | 2023-03-31 | 2023-06-24 |
@@ -627,7 +628,7 @@
 | [Slip Away](https://open.spotify.com/track/316uf691AwTyNmSmcr6ceL) | [Arlow](https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ), [Kid Spirit](https://open.spotify.com/artist/6biLxqgIjSH15QbzXE8v8A) | [Slip Away](https://open.spotify.com/album/7zLGfYzZkeMd6rVaYgA2c9) | 3:22 | 2022-10-18 | 2022-12-17 |
 | [Smile](https://open.spotify.com/track/5P45OGJSEG8LUsdulhp6sJ) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Lalo](https://open.spotify.com/artist/2of5gwyLkBz7D4phC09h3f) | [Smile](https://open.spotify.com/album/7qTMw9yGynm49gjq2MyUC2) | 3:25 | 2022-09-08 | 2022-11-09 |
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
-| [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 |  |
+| [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 | 2024-08-17 |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |

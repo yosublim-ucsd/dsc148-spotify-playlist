@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-10",
-  "description": "This is Rodr\u00edguez. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "description": "This Is Rodr\u00edguez. Los temas esenciales, todos en una lista.",
   "name": "This Is Rodr\u00edguez",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 110373,
       "name": "Forget It",
       "url": "https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206680,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c"

@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Giift",
-  "num_followers": 22204,
+  "num_followers": 22203,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr56YAAAAAD1lqDpz9xQ+OgY0v3lb2cj",
+  "snapshot_id": "Zr8tcAAAAACW/Fry83APB+V2DOmm0w3y",
   "tracks": [
     {
       "added_at": "2024-08-15 22:00:00",
@@ -55,6 +55,22 @@
       "duration_ms": 174225,
       "name": "Digital girl - funk remix",
       "url": "https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH"
+    },
+    {
+      "added_at": "2024-08-16 10:44:00",
+      "album": {
+        "name": "Butterfly Street",
+        "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
+      },
+      "artists": [
+        {
+          "name": "LILLI",
+          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
+        }
+      ],
+      "duration_ms": 166895,
+      "name": "Butterfly Street",
+      "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
     },
     {
       "added_at": "2024-08-15 22:00:00",

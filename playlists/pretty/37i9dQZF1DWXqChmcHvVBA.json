@@ -1,13 +1,61 @@
 {
-  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Gusty dj y elaggume.",
-  "num_followers": 227075,
+  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: La Joaqui & elaggume.",
+  "num_followers": 227326,
   "original_name": "RKT  & Turreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxLsAAAAAAkYXwI0LydY+gM75QOIyXP",
+  "snapshot_id": "Zr7AsAAAAAB56F9g0WiTa9hHzOjIk9YX",
   "tracks": [
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "TATTOO REMIX",
+        "url": "https://open.spotify.com/album/0PNTf1VNhQJZPmPzhDQijA"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "TATTOO REMIX",
+      "url": "https://open.spotify.com/track/4LnJJwdPgID9vFXjmxfdMy"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "Te Vienes Con El Turro",
+      "url": "https://open.spotify.com/track/0E6tfmOBf1BjXtuEs79MIu"
+    },
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
@@ -53,6 +101,26 @@
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
     },
     {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 170535,
+      "name": "Guampea",
+      "url": "https://open.spotify.com/track/7war4ViCBgXGoZsgcUq9zo"
+    },
+    {
       "added_at": "2024-08-02 03:00:00",
       "album": {
         "name": "Mujeres Solteras",
@@ -83,6 +151,26 @@
       "duration_ms": 166153,
       "name": "Garota RKT",
       "url": "https://open.spotify.com/track/4PMiyhXJKDG4QBPgCxClGJ"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "LLEGU\u00c9 YO",
+        "url": "https://open.spotify.com/album/0gBAdQq0uKOeiFxCjutBB9"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "LLEGU\u00c9 YO",
+      "url": "https://open.spotify.com/track/07XP74OBxaDGNGqllhORde"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -167,30 +255,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "TATTOO",
-        "url": "https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw"
-      },
-      "artists": [
-        {
-          "name": "elaggume",
-          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
-        },
-        {
-          "name": "Fauna Music",
-          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
-        },
-        {
-          "name": "Coco Palmer",
-          "url": "https://open.spotify.com/artist/133e2UQ9uCSvJaN1awjZFY"
-        }
-      ],
-      "duration_ms": 136064,
-      "name": "TATTOO",
-      "url": "https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "NO SE VE NA",
         "url": "https://open.spotify.com/album/2bHpbrSulNCo8ZOEV0btLA"
       },
@@ -211,6 +275,26 @@
       "duration_ms": 146400,
       "name": "NO SE VE NA",
       "url": "https://open.spotify.com/track/4p2Q6Tv4Nvkmczss8QtW3I"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Yo Argento",
+        "url": "https://open.spotify.com/album/5jBZSNcYxE5R7q2wrzSFRr"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "LRZ",
+          "url": "https://open.spotify.com/artist/1fvaacuDXe0NLSWh5K9Koa"
+        }
+      ],
+      "duration_ms": 155697,
+      "name": "Yo Argento",
+      "url": "https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -251,26 +335,6 @@
       "duration_ms": 120018,
       "name": "Cierre Rkt",
       "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "LLEGU\u00c9 YO",
-        "url": "https://open.spotify.com/album/0gBAdQq0uKOeiFxCjutBB9"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "LLEGU\u00c9 YO",
-      "url": "https://open.spotify.com/track/07XP74OBxaDGNGqllhORde"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -2239,58 +2303,6 @@
       "duration_ms": 217826,
       "name": "Te Escapas De Mis Brazos - Remix",
       "url": "https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Coronado",
-        "url": "https://open.spotify.com/album/1DuftnjBpkPqcGdIDvCAY9"
-      },
-      "artists": [
-        {
-          "name": "Tirri La Roca",
-          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Coronado",
-      "url": "https://open.spotify.com/track/76y3Fu9Wr9pWuXErCC0X16"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "LOLLIRKT (Remix)",
-        "url": "https://open.spotify.com/album/2ZqpX5dbeXy1un8dSmgEfn"
-      },
-      "artists": [
-        {
-          "name": "Lautaro DDJ",
-          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
-        }
-      ],
-      "duration_ms": 144697,
-      "name": "LOLLIRKT - Remix",
-      "url": "https://open.spotify.com/track/22U4FIsGk7yguu7RAuC6mq"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "Sesi\u00f3n - 7",
-        "url": "https://open.spotify.com/album/2QEShF7300XPtFTvh96nLh"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 138630,
-      "name": "Sesi\u00f3n - 7",
-      "url": "https://open.spotify.com/track/6kq09nzEHEuXt1svtB0CVz"
     }
   ],
   "unique_name": "RKT  & Turreo",

@@ -4,7 +4,7 @@
 
 > Post Malone in cover + le migliori uscite di questa settimana!
 
-1,471 songs - 3 day 1 hr 30 min
+1,472 songs - 3 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [DIAMANTI](https://open.spotify.com/track/7t2rpasMsB8D8CTw9k9G9I) | [THAEO](https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J) | [DIAMANTI](https://open.spotify.com/album/0s6hzucJTj9Z7VDGoa7pOr) | 2:22 | 2024-05-31 | 2024-06-07 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-11 | 2024-07-19 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2024-07-19 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [DIECI MINUTI](https://open.spotify.com/track/4haRjU6zmnHPX7HWQbXoIp) | [TOMMI](https://open.spotify.com/artist/15c9nfXZzBlZ8I6LbZmJ4C) | [DIECI MINUTI](https://open.spotify.com/album/4O5ElYWFAHYb3DFwWeh9pg) | 3:04 | 2024-04-26 | 2024-05-03 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-08 | 2024-08-16 |
 | [Dimenticare](https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT : tour](https://open.spotify.com/album/3hC8Ul139lIFkmtmX8B8XL) | 2:47 | 2024-07-04 | 2024-07-12 |
@@ -1399,7 +1400,7 @@
 | [VaLiGeTTa GiaLLa](https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [VaLiGeTTa GiaLLa](https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI) | 2:03 | 2024-08-08 | 2024-08-16 |
 | [Vampiri \(feat\. Alberto Bianco\)](https://open.spotify.com/track/0JWLnM3yGpNlNfbBrR6PT0) | [Brando Madonia](https://open.spotify.com/artist/3UAeF4girTzN2loV6WRsCh), [Alberto Bianco](https://open.spotify.com/artist/4OvEjbTT6H3zArVIrsEoII) | [Primavera aria](https://open.spotify.com/album/5kNvbfaYUOpLL6ntvCTnWi) | 3:20 | 2024-05-02 | 2024-05-10 |
 | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U) | 3:12 | 2024-06-20 | 2024-06-28 |
-| [Vem](https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Juniper](https://open.spotify.com/artist/6gXxUckROtxJeMb1Djj0aw), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vem](https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx) | 2:59 | 2024-08-15 |  |
+| [Vem](https://open.spotify.com/track/7Mg5nr4B60ROtiaiVOOBop) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Vem](https://open.spotify.com/album/30sb6ff27adl8x19nQ51Zx) | 2:59 | 2024-08-15 |  |
 | [Vent'anni](https://open.spotify.com/track/3b9qwv1l4WW2Yipz8aLWgR) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Vent'anni](https://open.spotify.com/album/3EYZS9x81k6jtpAWhHmnm0) | 2:33 | 2024-05-02 | 2024-05-10 |
 | [Vento in faccia](https://open.spotify.com/track/1QtAkNRuN7sq8xW6fwq5zn) | [Gioia Lucia](https://open.spotify.com/artist/33ZiBbteOVAAXrZ6HgB3aU), [Ombra](https://open.spotify.com/artist/1GyHIEILIuWwQ5HA5x2BvD) | [Vento in faccia](https://open.spotify.com/album/4tzWhZ5SSJ3xauVfF6Get2) | 3:25 | 2024-05-02 | 2024-05-10 |
 | [Vertigo](https://open.spotify.com/track/3jVo350GBcozw5OrXySv5N) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Vertigo](https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz) | 3:54 | 2024-07-18 | 2024-07-27 |

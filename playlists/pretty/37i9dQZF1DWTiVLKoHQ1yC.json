@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 187998,
+  "num_followers": 188100,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "Hyperreal (Middle of the Night)",
+        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Robinson",
+          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Hyperreal (Middle of the Night)",
+      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "Give Me Something To Hold",
         "url": "https://open.spotify.com/album/5OpfL67XVSZ0TPAAecK7aU"
       },
@@ -679,42 +699,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Hyperreal (Middle of the Night)",
-        "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        },
-        {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hyperreal (Middle of the Night)",
-      "url": "https://open.spotify.com/track/1f9H7N9ijHFnV0BqJufUIS"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 292156,
-      "name": "Next Life",
-      "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
+      "duration_ms": 169275,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -739,18 +735,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/310zPynreWG7NPfazR7z02"
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
       },
       "artists": [
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
         }
       ],
-      "duration_ms": 169275,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+      "duration_ms": 292156,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
     },
     {
       "added_at": "2024-08-15 23:00:00",

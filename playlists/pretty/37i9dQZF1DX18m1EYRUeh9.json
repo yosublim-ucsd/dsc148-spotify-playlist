@@ -1,13 +1,29 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Thee Marloes",
-  "num_followers": 72793,
+  "num_followers": 72926,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAAB5rVtBzPnrNG7fDdHofYpU",
+  "snapshot_id": "Zr9tygAAAAAx5u2kKgahGxHYWu6WllwD",
   "tracks": [
+    {
+      "added_at": "2024-08-16 15:18:34",
+      "album": {
+        "name": "As Above So Below",
+        "url": "https://open.spotify.com/album/1YABglrz86yYnpHCoRZlfG"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "duration_ms": 226340,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 186300,
       "name": "Not Today",
       "url": "https://open.spotify.com/track/0CY15iJa0m8MJxOXlOqUtR"
+    },
+    {
+      "added_at": "2024-08-16 15:18:34",
+      "album": {
+        "name": "Beetlebugs",
+        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Beetlebugs",
+      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -81,20 +113,20 @@
       "url": "https://open.spotify.com/track/4ilcgmelP0B7j6OXVj6XyL"
     },
     {
-      "added_at": "2024-06-19 17:02:14",
+      "added_at": "2024-08-16 15:18:34",
       "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+        "name": "Do You Want More",
+        "url": "https://open.spotify.com/album/7fVMB1sEhRJ1IC9HZgfiHN"
       },
       "artists": [
         {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
         }
       ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+      "duration_ms": 377901,
+      "name": "Do You Want More",
+      "url": "https://open.spotify.com/track/5ybA4h5miGkxaLgs7TVsGu"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -143,18 +175,58 @@
     {
       "added_at": "2024-06-19 17:02:14",
       "album": {
-        "name": "Mid Spiral: Chaos",
-        "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
         }
       ],
-      "duration_ms": 188761,
-      "name": "Last Laugh",
-      "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-08-16 15:18:34",
+      "album": {
+        "name": "Romance ESL / The Heavy Loop",
+        "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Romance ESL",
+      "url": "https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV"
+    },
+    {
+      "added_at": "2024-08-16 15:18:34",
+      "album": {
+        "name": "nothing",
+        "url": "https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 104228,
+      "name": "Who Cares 1",
+      "url": "https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq"
     },
     {
       "added_at": "2024-07-05 16:30:02",
@@ -171,22 +243,6 @@
       "duration_ms": 284862,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Euphoric Avenue",
-        "url": "https://open.spotify.com/album/3og1e6r8gWEy5jgo1HTp5c"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 234182,
-      "name": "Euphoric Avenue",
-      "url": "https://open.spotify.com/track/0GQOHvIPdVWrvnII8p6OBG"
     },
     {
       "added_at": "2024-03-15 00:21:41",
@@ -235,6 +291,22 @@
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Euphoric Avenue",
+        "url": "https://open.spotify.com/album/3og1e6r8gWEy5jgo1HTp5c"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 234182,
+      "name": "Euphoric Avenue",
+      "url": "https://open.spotify.com/track/0GQOHvIPdVWrvnII8p6OBG"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -375,46 +447,6 @@
       "duration_ms": 125867,
       "name": "Coyote, You're My Star",
       "url": "https://open.spotify.com/track/2tZ4GQajl2yetk2EA8SvMW"
-    },
-    {
-      "added_at": "2024-02-10 01:46:17",
-      "album": {
-        "name": "Little Monk (feat. Karriem Riggins)",
-        "url": "https://open.spotify.com/album/6InhfvTOSyqsMZbdRoeR8c"
-      },
-      "artists": [
-        {
-          "name": "The South Hill Experiment",
-          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 134616,
-      "name": "Little Monk (feat. Karriem Riggins)",
-      "url": "https://open.spotify.com/track/58G48t6eicC81u3W2OHFeq"
-    },
-    {
-      "added_at": "2024-06-19 17:02:14",
-      "album": {
-        "name": "Porto Leone",
-        "url": "https://open.spotify.com/album/7rFG3JddoRhJDTOtsdSdQa"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        },
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        }
-      ],
-      "duration_ms": 166287,
-      "name": "Porto Leone",
-      "url": "https://open.spotify.com/track/4tdl1dv3eNHOvSQ1MUqOZW"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1159,22 +1191,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Sample The Sky",
-        "url": "https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 247102,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1203,46 +1219,6 @@
       "duration_ms": 163000,
       "name": "Never Fight The Way You Feel",
       "url": "https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Bad State",
-        "url": "https://open.spotify.com/album/4olKeHrhZ5NZqfnj3vRGOA"
-      },
-      "artists": [
-        {
-          "name": "Sen Morimoto",
-          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
-        }
-      ],
-      "duration_ms": 143173,
-      "name": "Bad State",
-      "url": "https://open.spotify.com/track/1iT8kdKFOaYhbH7fz1A4dU"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "edbl & friends \u2013 Jackson Mathod",
-        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1407,22 +1383,6 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "IJ",
-        "url": "https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa"
-      },
-      "artists": [
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        }
-      ],
-      "duration_ms": 150712,
-      "name": "IJ",
-      "url": "https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
         "name": "Stings",
         "url": "https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4"
       },
@@ -1475,18 +1435,22 @@
     {
       "added_at": "2024-01-12 00:22:54",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7b607glTYc3E06eB9hQusa"
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
       },
       "artists": [
         {
-          "name": "First Beige",
-          "url": "https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
         }
       ],
-      "duration_ms": 265885,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/70NoGzQstw0zYukOY2PVBl"
+      "duration_ms": 222945,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1571,26 +1535,6 @@
       "duration_ms": 180426,
       "name": "A Matter Of Fact",
       "url": "https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 222945,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -1839,22 +1783,6 @@
       "duration_ms": 245546,
       "name": "Departure",
       "url": "https://open.spotify.com/track/2mS8I2Uqpg98kHGc3quqU4"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Bhuta Kala",
-        "url": "https://open.spotify.com/album/1L8ulFB7FYlglGlIKMns6v"
-      },
-      "artists": [
-        {
-          "name": "Meernaa",
-          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
-        }
-      ],
-      "duration_ms": 219634,
-      "name": "Bhuta Kala",
-      "url": "https://open.spotify.com/track/5kM9HjvFKnENXfkNdvFdyJ"
     },
     {
       "added_at": "2024-01-12 00:22:54",

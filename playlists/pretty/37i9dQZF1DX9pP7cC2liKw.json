@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 273822,
+  "num_followers": 273977,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "TANDEM",
         "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
       "added_at": "2024-07-29 19:50:25",
       "album": {
         "name": "Live at KEXP!",
@@ -695,6 +679,22 @@
       "duration_ms": 300480,
       "name": "Move on Up - Live",
       "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1257,36 +1257,44 @@
       "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
-      "added_at": "2022-11-18 17:46:22",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Chichala",
-        "url": "https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG"
+        "name": "Hybridism",
+        "url": "https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H"
       },
       "artists": [
         {
-          "name": "Gitkin",
-          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
         }
       ],
-      "duration_ms": 173148,
-      "name": "Chichala",
-      "url": "https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW"
+      "duration_ms": 308813,
+      "name": "Aima",
+      "url": "https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q"
     },
     {
-      "added_at": "2024-05-31 15:54:13",
+      "added_at": "2022-07-11 18:32:36",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6runm41hpgMzMSzA6S7u5a"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 180396,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/6xwGsyTxtrClNf1hN8idvg"
+      "duration_ms": 149647,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     }
   ],
   "unique_name": "Tulum Vibes",

@@ -1461,6 +1461,48 @@
     },
     {
       "album": {
+        "name": "CYPHER, VOL. 2",
+        "url": "https://open.spotify.com/album/2dXKMk7BeqzBCKRY9LYRUK"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "T&K",
+          "url": "https://open.spotify.com/artist/15OITC7ZBApsLCNKvquUG0"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        },
+        {
+          "name": "Troubless",
+          "url": "https://open.spotify.com/artist/2nERcYxoWpuXEqqNyNxVfN"
+        },
+        {
+          "name": "IL Tano",
+          "url": "https://open.spotify.com/artist/6JaqA9vuIgHux5GKCBmasD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512760,
+      "name": "CYPHER, VOL. 2",
+      "url": "https://open.spotify.com/track/5Rc6JymSmpqTIUpfasQ6D2"
+    },
+    {
+      "album": {
         "name": "D1SPARO",
         "url": "https://open.spotify.com/album/5HoVqzZkQiRchJSoST2Epi"
       },
@@ -2029,6 +2071,28 @@
     },
     {
       "album": {
+        "name": "EPDTM RMX - Remix",
+        "url": "https://open.spotify.com/album/2dsKum7SiaOLXGIrhS36qo"
+      },
+      "artists": [
+        {
+          "name": "Fianru",
+          "url": "https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW"
+        },
+        {
+          "name": "Malandro",
+          "url": "https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248773,
+      "name": "EPDTM RMX - Remix",
+      "url": "https://open.spotify.com/track/7jhBUJswWbBhvGrdx0qoWU"
+    },
+    {
+      "album": {
         "name": "Es Como",
         "url": "https://open.spotify.com/album/63tHVFdnWdxVAWJ7vPUBSk"
       },
@@ -2078,6 +2142,24 @@
       "duration_ms": 213336,
       "name": "Es Una Trampa",
       "url": "https://open.spotify.com/track/5ObEhvixPr295RLAEbcFEm"
+    },
+    {
+      "album": {
+        "name": "Estoy fuera - Freestyle",
+        "url": "https://open.spotify.com/album/6V2frckzXN5aURiPlcWljL"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155440,
+      "name": "Estoy fuera - Freestyle",
+      "url": "https://open.spotify.com/track/5JYlNZMxphxneDI8DU8kTX"
     },
     {
       "album": {
@@ -4248,7 +4330,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 235728,
       "name": "No Tiene Nombre",
       "url": "https://open.spotify.com/track/0cws4NHHYz3g1xGKEjkdJJ"
@@ -4548,7 +4630,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182068,
       "name": "Pensando en Verte",
       "url": "https://open.spotify.com/track/0Kros3xlCtmyHTarar1SZ3"
@@ -5080,7 +5162,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 139354,
       "name": "RILI RILI",
       "url": "https://open.spotify.com/track/1J48l5Y8USDVLR5uBfFZ5l"
@@ -5684,7 +5766,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168928,
       "name": "Te Quiero para",
       "url": "https://open.spotify.com/track/69nP6g8hzlfQ5kUka943Fk"

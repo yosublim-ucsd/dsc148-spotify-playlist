@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Istanbul",
+        "url": "https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99"
+      },
+      "artists": [
+        {
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192174,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz"
+    },
+    {
+      "album": {
         "name": "Jesu, Joy of Man's Desiring",
         "url": "https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR"
       },
@@ -2307,6 +2325,36 @@
     },
     {
       "album": {
+        "name": "Grieg and Clara Schumann Piano Concertos",
+        "url": "https://open.spotify.com/album/7Fvehd6vUj8XATZvJzWgvz"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Alexandra Dariescu",
+          "url": "https://open.spotify.com/artist/1KJQ9mUdpAJtljNQWH5Rvq"
+        },
+        {
+          "name": "Tianyi Lu",
+          "url": "https://open.spotify.com/artist/0oEjQvt6t6QidTuJ2Y9Nvt"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302106,
+      "name": "Piano Concerto in A Minor, Op. 7: II. Romanze. Andante non troppo con grazia",
+      "url": "https://open.spotify.com/track/6ZT2omWWJQAc0jtup5gvy5"
+    },
+    {
+      "album": {
         "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
         "url": "https://open.spotify.com/album/2HmIxrr7jXKF9cQf2OE84u"
       },
@@ -2334,6 +2382,36 @@
       "duration_ms": 398240,
       "name": "Piano Concerto In A Minor, Op.16: 2. Adagio - Live",
       "url": "https://open.spotify.com/track/1tnxups7Vr7wKjwCtzfhT8"
+    },
+    {
+      "album": {
+        "name": "Ravel: Piano Concertos; Valses nobles et sentimentales",
+        "url": "https://open.spotify.com/album/0uMPPy2lbRhzn0PPonpyaT"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563000,
+      "name": "Piano Concerto in G Major, M. 83: II. Adagio assai",
+      "url": "https://open.spotify.com/track/4ju98rvX917EwXLKLnRbQ2"
     },
     {
       "album": {
@@ -2765,6 +2843,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Sinfonia (3-Part Invention) No. 11 in G Minor, BWV 797 (Transcr. for Harp)",
+        "url": "https://open.spotify.com/album/08DQSCK8terstaXdLw9Z9y"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Magdalena Hoffmann",
+          "url": "https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "Sinfonia (3-Part Invention) No. 11 in G Minor, BWV 797 (Transcr. for Harp)",
+      "url": "https://open.spotify.com/track/6NKrz1n8qHb2a2ZrKnzBCb"
+    },
+    {
+      "album": {
         "name": "Somnia",
         "url": "https://open.spotify.com/album/7dtv2mPeog1e4VssWa3zh4"
       },
@@ -3125,6 +3225,28 @@
     },
     {
       "album": {
+        "name": "The Fabelmans",
+        "url": "https://open.spotify.com/album/739mvLsQoXlNtAr3RnV5mB"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Simone Pedroni",
+          "url": "https://open.spotify.com/artist/0ikPH8Vl2teD0cHKXdCif3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "The Fabelmans",
+      "url": "https://open.spotify.com/track/5T7vBdg23LE9Nzn1YRVBEO"
+    },
+    {
+      "album": {
         "name": "Philip Glass: Glassworlds, Vol. 4 \u2013 On Love",
         "url": "https://open.spotify.com/album/2HItrNjxkcndzejvNPdE6v"
       },
@@ -3444,6 +3566,24 @@
       "duration_ms": 188906,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq"
+    },
+    {
+      "album": {
+        "name": "Awadis: \u00c9tude No. 8: Through the Window",
+        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340040,
+      "name": "\u00c9tude No. 8: Through the Window",
+      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
     },
     {
       "album": {

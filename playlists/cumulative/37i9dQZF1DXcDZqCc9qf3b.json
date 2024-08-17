@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 190306,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/54BKvxfy3gCcDRr4HuXAvv"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230434,
       "name": "Always",
       "url": "https://open.spotify.com/track/5H6Ams75Ab5rob7lfVx6LK"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 60098,
       "name": "Ask The StoryBots Theme",
       "url": "https://open.spotify.com/track/1JaN2fP2SeMc0B8vYCkbRm"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 149838,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/4yYrFMKjLBVEXF7Psy36LB"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 99586,
       "name": "Breakout (Theme From The Netflix Series \"Battle Kitty\")",
       "url": "https://open.spotify.com/track/1gSHxEgZI4rmvjUcQ0UUzy"
@@ -428,7 +428,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 131649,
       "name": "Danger, Danger",
       "url": "https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136002,
       "name": "Finger Family",
       "url": "https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169302,
       "name": "Five Little Monkeys Jumping on the Bed",
       "url": "https://open.spotify.com/track/1nTBgueuGtO762MadGoWvZ"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184807,
       "name": "Flying Solo (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
       "url": "https://open.spotify.com/track/2e3ZtFtjaPvcBgJy3xpXFT"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174602,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/1aa4uizAfJZQJKycxZCWLo"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157396,
       "name": "Freezie Day",
       "url": "https://open.spotify.com/track/2JQR4HGnpYSBeN6G6uJxef"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 130504,
       "name": "Full Speed Fun",
       "url": "https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"
@@ -796,7 +796,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157999,
       "name": "Good Good Day",
       "url": "https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 141238,
       "name": "Grizbot Groove",
       "url": "https://open.spotify.com/track/4qiArbjA2EqcgnfYFMSbof"
@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Happiness All Around",
+        "url": "https://open.spotify.com/album/66bOB1Bp95aWJSkRgaHkFt"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90925,
+      "name": "Happiness All Around",
+      "url": "https://open.spotify.com/track/2Fv91nXVKXshHI6AhGnm0R"
+    },
+    {
+      "album": {
         "name": "CoComelon Essentials",
         "url": "https://open.spotify.com/album/6dj7EyztDD42IJqsxZ1XMz"
       },
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189880,
       "name": "Here Comes The Sun",
       "url": "https://open.spotify.com/track/11p0T6y1TKZ913rlJm9H1N"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 74373,
       "name": "Home (From The Netflix Series: \u201cRidley Jones\u201d Vol. 3) (feat. Sutton Foster, Iara Nemirovsky)",
       "url": "https://open.spotify.com/track/5LUcArrZoeWmcTjzA1okYW"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 287331,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/5QCNav5MXT4un1jxr49qnB"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173773,
       "name": "I'll Always Love You",
       "url": "https://open.spotify.com/track/5rpvjntUS4tjEOFRGJr7d9"
@@ -1232,7 +1250,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 75786,
       "name": "I'm Ready (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Iara Nemirovsky)",
       "url": "https://open.spotify.com/track/0MqcYLLTOyScQwD8xAd7nz"
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214625,
       "name": "If It's To Be - From \"Maya And The Three\" - A Netflix Animated Event",
       "url": "https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9"
@@ -1268,7 +1286,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 66928,
       "name": "It Takes Two - Theme Song",
       "url": "https://open.spotify.com/track/3WWpdKMbTca5o8d5yhWyaL"
@@ -1286,7 +1304,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 63186,
       "name": "It's All Me (From The Netlix Series: \"Ridley Jones\" Vol. 2)",
       "url": "https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 250555,
       "name": "Keep Holding On - Hybrid Version",
       "url": "https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 153214,
       "name": "Let's Go Make A Memory",
       "url": "https://open.spotify.com/track/2QE54qAFv2rEEKZf6eqY9P"
@@ -1526,7 +1544,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230895,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/2iVVtYtEgeXfpN1DGvBZlP"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184128,
       "name": "Now or Never (feat. Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)",
       "url": "https://open.spotify.com/track/2h4BV7jx9Ltz9NxC2zgNcW"
@@ -1794,7 +1812,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 86939,
       "name": "Ordinary Me",
       "url": "https://open.spotify.com/track/4Wf6McIFTYEyJFPkSNHk3P"
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 64986,
       "name": "Paws Off",
       "url": "https://open.spotify.com/track/4F0lrCxtYqDPsg5HXzEbPE"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 130073,
       "name": "Proud Of My Hair",
       "url": "https://open.spotify.com/track/32Mar6wKUVHa886N2iwcG0"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 241189,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/7kMlkg1X3DTi2S5H11o626"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 61333,
       "name": "Rise Above (From The Netflix Series: \u201cRidley Jones\u201d) (feat. Ridley Jones Cast)",
       "url": "https://open.spotify.com/track/1LaGlSuXnL6px2J6OjXR5M"
@@ -1990,7 +2008,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 235147,
       "name": "ROAR",
       "url": "https://open.spotify.com/track/2i84adxgZGi1ujHaLdKPSG"
@@ -2008,7 +2026,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 228372,
       "name": "Rocket to the Moon (From the Netflix Film \"Over the Moon\")",
       "url": "https://open.spotify.com/track/7z6wKPYntTIAPLNOZRQq3t"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158167,
       "name": "Rules R Made 2 B Broken",
       "url": "https://open.spotify.com/track/5wX68SsEADVhUjFdEyTOAd"
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 193180,
       "name": "Say Hello to Your Friends",
       "url": "https://open.spotify.com/track/2MGc23qUgE1PiQ1dlGx9Eu"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 87626,
       "name": "Scientific Method",
       "url": "https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161025,
       "name": "The Gratitude Attitude",
       "url": "https://open.spotify.com/track/2BGfPHga1Kr75ew5NDqGKb"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 121533,
       "name": "The Kid (Kid Cosmic Theme)",
       "url": "https://open.spotify.com/track/6i2A4dpAYVkIINr7ypBNJD"
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174493,
       "name": "The Power Is Ours",
       "url": "https://open.spotify.com/track/7jiLiLBb2UPYKiomQpNwTd"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 91624,
       "name": "The Why Song",
       "url": "https://open.spotify.com/track/0PPhUn8wym6SElNCXhoHad"
@@ -2486,7 +2504,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213958,
       "name": "This Day",
       "url": "https://open.spotify.com/track/2rZWWJNvLD2MRSIqjsLXpc"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150800,
       "name": "Two Left Feet",
       "url": "https://open.spotify.com/track/70FZ0JbtD0BmEB3ekr8rcd"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 82957,
       "name": "Tyrannosaurus Rex",
       "url": "https://open.spotify.com/track/5hAafNnf54qxm1jNX9nLZ0"
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 200000,
       "name": "Ultraluminary (From the Netflix Film \"Over the Moon\")",
       "url": "https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2"
@@ -2664,7 +2682,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 101000,
       "name": "We Are The Planets",
       "url": "https://open.spotify.com/track/6T6reDGarkisz8OraafLRy"
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165902,
       "name": "Welcome To Karma's World",
       "url": "https://open.spotify.com/track/1AP554izviISI1m6Yb7O0o"
@@ -2718,7 +2736,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162266,
       "name": "Yellow Submarine",
       "url": "https://open.spotify.com/track/7uXZBavuyzvEKGQHLwL1Om"

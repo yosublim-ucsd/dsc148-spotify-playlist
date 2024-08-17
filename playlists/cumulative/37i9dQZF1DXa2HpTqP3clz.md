@@ -2,9 +2,9 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Today's Bluegrass and old time favorites\. Cover: Tony Trischka
+> Today's Bluegrass and old time favorites\. Cover: Dan Tyminski
 
-602 songs - 1 day 11 hr 45 min
+603 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Bad Angel \- Live](https://open.spotify.com/track/5TZHBG5VWv4kv5VtHXijdb) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:18 | 2021-12-17 | 2022-07-29 |
 | [Bad Decisions](https://open.spotify.com/track/5a2LtBesYSHKRCLxkepSXG) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:43 | 2021-12-31 | 2022-07-06 |
 | [Banjo Guzheng Pickin' Girls \(天涯海角走一遍\)](https://open.spotify.com/track/64RnsxwHjAHHJQ1Dzm1de5) | [Wu Fei](https://open.spotify.com/artist/66VaD5GG0umqpfIIJyuYts), [Abigail Washburn](https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP) | [Wu Fei & Abigail Washburn](https://open.spotify.com/album/5g5YMRlbLBECA9ba7BQ7Jj) | 2:23 | 2021-12-17 | 2022-07-29 |
+| [BBQ Chips](https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER) | [Abby Webster](https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD) | [BBQ Chips](https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o) | 4:08 | 2024-08-16 |  |
 | [Behind the 8 Ball](https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv) | [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa) | [Behind the 8 Ball](https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7) | 4:24 | 2024-04-06 | 2024-06-05 |
 | [Being A Woman \(Is Like Being The Sun\)](https://open.spotify.com/track/1KjJf8opjEc8hU7N8l8ljb) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Being A Woman \(Is Like Being The Sun\)](https://open.spotify.com/album/0RJL4YotXGlKw1h7fMxElN) | 4:11 | 2022-05-13 | 2022-07-10 |
 | [Believe](https://open.spotify.com/track/1WCr2LWff8IKCuz71tM0ta) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Under the Covers](https://open.spotify.com/album/6aJU6GmzDVVCyIt3K41cGn) | 4:26 | 2021-12-17 | 2022-07-08 |
@@ -389,7 +390,7 @@
 | [One By One](https://open.spotify.com/track/6VARJfVzHhYJELvE3oZSdx) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Danny Paisley](https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi) | [One By One](https://open.spotify.com/album/27kQbwSMmZ0n2L1XFaQbFu) | 2:56 | 2022-02-04 | 2022-07-18 |
 | [One Glass Of Whiskey](https://open.spotify.com/track/6eMgmQch1oo4fy0YWmBwHM) | [Robbie Fulks](https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe) | [One Glass Of Whiskey](https://open.spotify.com/album/09fw4MJN1YzCUOcftQ32oU) | 2:23 | 2023-04-07 | 2023-05-16 |
 | [One More Night](https://open.spotify.com/track/5apN6ZXpBhuhVQ8ulXIky7) | [Seth Mulder & Midnight Run](https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp) | [One More Night](https://open.spotify.com/album/0MAOg6YTLLiadBm7vilpvU) | 2:54 | 2021-12-31 | 2022-07-16 |
-| [One Sunray At A Time](https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [One Sunray At A Time](https://open.spotify.com/album/6wyosEFDOpn2NlDyNlpKPg) | 3:59 | 2024-08-02 |  |
+| [One Sunray At A Time](https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [One Sunray At A Time](https://open.spotify.com/album/6wyosEFDOpn2NlDyNlpKPg) | 3:59 | 2024-08-02 | 2024-08-17 |
 | [Onwards](https://open.spotify.com/track/3Wi89XJzg7ZbQ8ro9IayBj) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Onwards](https://open.spotify.com/album/6AcjqnLMWfaK3ymr8pOuwJ) | 3:37 | 2022-01-07 | 2022-05-13 |
 | [Open Water](https://open.spotify.com/track/2URfv93mR97fnXOh0VXcNJ) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Open Water](https://open.spotify.com/album/6h93IZ0qSC6vpaO6q7NnVt) | 3:20 | 2021-12-17 | 2022-07-09 |
 | [Orphan Annie](https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Orphan Annie](https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv) | 5:00 | 2021-12-17 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-431 songs - 22 hr 54 min
+432 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Celebration](https://open.spotify.com/track/1Lpmbi3o2CEkDfZuP8xOOV) | [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Celebration](https://open.spotify.com/album/6z2q8lvWT9eSqutr1vkaWC) | 3:48 | 2021-12-03 | 2022-01-03 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2021-12-03 | 2022-01-08 |
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-03 | 2023-08-05 |
-| [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-16 |  |
+| [Cherry Lips](https://open.spotify.com/track/2vfcLK0mU3JhMC6vscawrM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Cherry Lips](https://open.spotify.com/album/4MjHMcTvVgqGFuXVejbpXc) | 2:51 | 2024-02-16 | 2024-08-17 |
 | [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-07-26 |  |
 | [Chucks](https://open.spotify.com/track/2syb6g2gf1rj50CovNjtI6) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Chucks](https://open.spotify.com/album/1NtBG3u5z3xHdvl3fYFaZW) | 2:49 | 2021-12-03 | 2022-07-29 |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2022-05-27 |  |
@@ -137,6 +137,7 @@
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-22 |  |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-10-06 |
 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 | 2021-12-03 | 2022-12-10 |
+| [Gatluak \- Bakermat Remix](https://open.spotify.com/track/0GT2hQQ6mdHeW0AZDl5NlJ) | [Kronan](https://open.spotify.com/artist/6AC7fqQQgNwXXpBa5bqyBr), [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Gatluak \(Bakermat Remix\)](https://open.spotify.com/album/1XVR96ao2iSG3yDGr1a1rN) | 2:19 | 2024-08-16 |  |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-03-10 |  |
 | [Give Me The Night](https://open.spotify.com/track/0VMs54iWe3TQvkpZmH7cTX) | [Beachcrimes](https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7), [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [AM](https://open.spotify.com/album/3LEIvFGkEuGKlj1NcjQ8RY) | 2:46 | 2024-04-19 | 2024-05-11 |
 | [GOLDEN](https://open.spotify.com/track/6QWB8L8CgRGLxFi34PD382) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [GOLDEN](https://open.spotify.com/album/2GbsIk9c3vANdWCufpftWn) | 3:39 | 2021-12-03 | 2022-01-08 |

@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Showdemcamp, The cavemen & nsikak david
+> Hip hop and rap music from Nigeria\. Cover: Jeriq
 
-454 songs - 21 hr 32 min
+455 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Culture](https://open.spotify.com/track/6ilJ5I8xWC4CjCvgLA91Fy) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Culture](https://open.spotify.com/album/3D2Q4xKdKQQigHuNk1O3ZD) | 3:28 | 2022-06-09 | 2022-12-29 |
 | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [D\-RIDE \(feat\. SadBoi\)](https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl) | 2:00 | 2024-07-19 |  |
 | [Dahtor](https://open.spotify.com/track/7cajggDhww5RVtEN8XASI5) | [C.I.C](https://open.spotify.com/artist/3aXsyi1OrB31fQETNot0lw), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Dahtor](https://open.spotify.com/album/2Wodk3tCTbwz4BIONX4JOp) | 2:37 | 2023-08-03 | 2023-09-29 |
+| [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 | 2024-08-16 |  |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-25 | 2023-12-02 |
 | [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-02-16 |  |
@@ -205,7 +206,7 @@
 | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/track/6D4MeOwamBjPt1FI3l3Uzs) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Tribal Mark](https://open.spotify.com/artist/5yIgGM9s6jw4L0g8CmD8dT) | [Jangrova \(feat\. Tribal Mark\)](https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp) | 2:46 | 2024-01-19 |  |
 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 | 2024-08-02 |  |
 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 | 2023-08-10 | 2024-07-19 |
-| [John Travolta \(feat\. Blaqbonez\)](https://open.spotify.com/track/22aQcPPXH3vFltmSO7vIhr) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Purple Doesn't Exist](https://open.spotify.com/album/67W3Xd68ThXeWwQVRm8m2d) | 2:42 | 2024-08-02 |  |
+| [John Travolta \(feat\. Blaqbonez\)](https://open.spotify.com/track/22aQcPPXH3vFltmSO7vIhr) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Purple Doesn't Exist](https://open.spotify.com/album/67W3Xd68ThXeWwQVRm8m2d) | 2:42 | 2024-08-02 | 2024-08-17 |
 | [Jowo](https://open.spotify.com/track/1prMFxghLt3N68CVOtiYK2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/7FB85ZQoIIlVUIQH7UaFJL) | 2:43 | 2024-02-09 | 2024-02-16 |
 | [Jowo](https://open.spotify.com/track/3JMPFxoSzCeLD9n5JumZFb) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Jowo](https://open.spotify.com/album/5sXgkD3qm5z4QKznPlGJNT) | 2:43 | 2024-02-23 | 2024-04-09 |
 | [Jowo](https://open.spotify.com/track/6x4Kpfpwx9Eld9qbexRiX2) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Jowo](https://open.spotify.com/album/0vtBtHGWGE1f6OwlWfA9V4) | 2:43 | 2024-02-02 | 2024-02-05 |
@@ -240,7 +241,7 @@
 | [Love Triangle](https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac) | [7Dime](https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi) | [Love Triangle](https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU) | 2:32 | 2023-03-30 | 2023-06-17 |
 | [Madam De Madam](https://open.spotify.com/track/0ZsbFYlRLuxPiz0geTzUTZ) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Madam De Madam](https://open.spotify.com/album/3bMvPUkqDhLz4rJ39ysnHr) | 4:22 | 2023-05-04 | 2023-05-27 |
 | [Mama Maradona](https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Mama Maradona](https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y) | 2:55 | 2022-09-01 | 2023-03-25 |
-| [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 |  |
+| [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/534w3xm1EQmh0SzbrV2Dgc) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 |  |
 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 | 2022-12-08 | 2023-03-25 |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2023-10-06 | 2023-10-14 |
 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 | 2024-06-28 |  |

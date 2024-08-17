@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Anna Graves",
-  "num_followers": 79324,
+  "num_followers": 79359,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Me Again",
-        "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cowboys Cry",
-      "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 265360,
       "name": "Don't Forget Me",
       "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Me Again",
+        "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cowboys Cry",
+      "url": "https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Honeymind",
-        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 251053,
-      "name": "Before I Knew You",
-      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley",
       "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Honeymind",
+        "url": "https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 251053,
+      "name": "Before I Knew You",
+      "url": "https://open.spotify.com/track/3qR4a0OJETm6ptX1coBQ2g"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A Week in Nashville",
-        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "I Came Here to Leave You",
-      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "How Long",
         "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210658,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Week in Nashville",
+        "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "I Came Here to Leave You",
+      "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nightvisions",
-        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 236320,
-      "name": "Nightvisions",
-      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "The Past Is Still Alive",
         "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "talking to myself",
         "url": "https://open.spotify.com/album/4Q6zy7BRVEapZ8b0haQ6Tq"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 173953,
       "name": "talking to myself",
       "url": "https://open.spotify.com/track/4cJ7PE4KoLaUJg2S1iQMs3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Weeping Willow",
-        "url": "https://open.spotify.com/album/7imiiEYZmcrbNMpSFq9JlN"
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
       "artists": [
         {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 176712,
-      "name": "Weeping Willow",
-      "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
+      "duration_ms": 241152,
+      "name": "Malleable",
+      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

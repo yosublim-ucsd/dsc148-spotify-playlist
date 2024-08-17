@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from mandrake handshake.",
+  "description": "welcome to the underground. greetings from w. h. lung.",
   "name": "melomania",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 170964,
       "name": "2010",
       "url": "https://open.spotify.com/track/7xmCHaJqmZe9uhd3YeM987"
+    },
+    {
+      "album": {
+        "name": "A Bit Like James Bond",
+        "url": "https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0"
+      },
+      "artists": [
+        {
+          "name": "The Bug Club",
+          "url": "https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158306,
+      "name": "A Bit Like James Bond",
+      "url": "https://open.spotify.com/track/4fASEx9IsOpo4SFsp67C8b"
     },
     {
       "album": {
@@ -175,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7sM3EjIPx3j5n3M0T0qjAt"
+      },
+      "artists": [
+        {
+          "name": "Ziggy 2000",
+          "url": "https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ"
+    },
+    {
+      "album": {
         "name": "Bon Bon",
         "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
       },
@@ -222,7 +258,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 179025,
       "name": "Bullet of Dignity",
       "url": "https://open.spotify.com/track/0bd1oHZdvi2DHUGPVhdOAI"
@@ -359,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Devil Dressed In Disguise",
+        "url": "https://open.spotify.com/album/4dwBXlSXeCdTFDwH0U4dKn"
+      },
+      "artists": [
+        {
+          "name": "Blood Wizard",
+          "url": "https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202037,
+      "name": "Devil Dressed In Disguise",
+      "url": "https://open.spotify.com/track/7yH30g05pfREez9IEhqj6c"
+    },
+    {
+      "album": {
         "name": "Disposition",
         "url": "https://open.spotify.com/album/7Hp6sdzf7aLweRbHCdqj6t"
       },
@@ -413,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Dreams Aren't Enough",
+        "url": "https://open.spotify.com/album/1RhlvRwVVjKKC29gg5BCrS"
+      },
+      "artists": [
+        {
+          "name": "IST IST",
+          "url": "https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196688,
+      "name": "Dreams Aren't Enough",
+      "url": "https://open.spotify.com/track/31cbWUY16syoEfOTz4g0dg"
+    },
+    {
+      "album": {
         "name": "DUST OFF / START AGAIN",
         "url": "https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef"
       },
@@ -424,10 +496,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 224000,
       "name": "DUST OFF / START AGAIN",
       "url": "https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z"
+    },
+    {
+      "album": {
+        "name": "DYLM",
+        "url": "https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234101,
+      "name": "DYLM",
+      "url": "https://open.spotify.com/track/6sINksp0eE9N704kiauZJs"
     },
     {
       "album": {
@@ -737,6 +827,24 @@
     },
     {
       "album": {
+        "name": "HOT MESS",
+        "url": "https://open.spotify.com/album/6nT5hqcDpuYXssUPI5WXx9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hunter",
+          "url": "https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "HOT MESS",
+      "url": "https://open.spotify.com/track/1dKlvNXx9uIOcb4GW8kGE8"
+    },
+    {
+      "album": {
         "name": "Now Leaving West Feldwood",
         "url": "https://open.spotify.com/album/7m10seswHmxu6oSrXNvths"
       },
@@ -863,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Kid Muscle",
+        "url": "https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311500,
+      "name": "Kid Muscle",
+      "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
+    },
+    {
+      "album": {
         "name": "May I Comply",
         "url": "https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c"
       },
@@ -874,7 +1000,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 240551,
       "name": "May I Comply",
       "url": "https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5"
@@ -950,6 +1076,24 @@
       "duration_ms": 213953,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/3wOxqgkrQV0YUwUAc28duq"
+    },
+    {
+      "album": {
+        "name": "More Heat!",
+        "url": "https://open.spotify.com/album/27HX6A9hmHHspKjZbHAYDT"
+      },
+      "artists": [
+        {
+          "name": "DEADLETTER",
+          "url": "https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143618,
+      "name": "More Heat!",
+      "url": "https://open.spotify.com/track/1w6FHZA5UdyM8LacC6sOfA"
     },
     {
       "album": {
@@ -1061,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Nuclear War",
+        "url": "https://open.spotify.com/album/5fFHU9LVGjISlQ1Ci9YEAd"
+      },
+      "artists": [
+        {
+          "name": "Human Interest",
+          "url": "https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245953,
+      "name": "Nuclear War",
+      "url": "https://open.spotify.com/track/00jps4o6aCLxqeZsHMsePN"
+    },
+    {
+      "album": {
         "name": "Oar",
         "url": "https://open.spotify.com/album/30GQIVpFXmNtlb9JuzlRwn"
       },
@@ -1169,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Pretty Girls",
+        "url": "https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234566,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/56U1pIituJfEkU0impIpYA"
+    },
+    {
+      "album": {
         "name": "Pumpkin",
         "url": "https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs"
       },
@@ -1184,6 +1364,24 @@
       "duration_ms": 257920,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq"
     },
     {
       "album": {
@@ -1349,6 +1547,42 @@
     },
     {
       "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
+    },
+    {
+      "album": {
+        "name": "Si No Es Hoy Cu\u00e1ndo Es",
+        "url": "https://open.spotify.com/album/0PU2uRa2fJkbjgB45e1PoA"
+      },
+      "artists": [
+        {
+          "name": "Dame Area",
+          "url": "https://open.spotify.com/artist/1Cmtis0NcKGTvAnovenEJl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332942,
+      "name": "Si No Es Hoy Cu\u00e1ndo Es",
+      "url": "https://open.spotify.com/track/3lhfjRNPYpOL9IIF15IEWo"
+    },
+    {
+      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -1382,6 +1616,24 @@
       "duration_ms": 194826,
       "name": "Sickner",
       "url": "https://open.spotify.com/track/53qusT03Me6Z7NbruE34EK"
+    },
+    {
+      "album": {
+        "name": "Silly Little Song",
+        "url": "https://open.spotify.com/album/4AVGw3FGLxZO9g9aRdSqKV"
+      },
+      "artists": [
+        {
+          "name": "Julie Dawson",
+          "url": "https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185887,
+      "name": "Silly Little Song",
+      "url": "https://open.spotify.com/track/2HbDaoFyY4ewsaYN6orlFA"
     },
     {
       "album": {
@@ -1421,6 +1673,24 @@
     },
     {
       "album": {
+        "name": "pushing daisies",
+        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136221,
+      "name": "skipping tiles",
+      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
+    },
+    {
+      "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
@@ -1454,6 +1724,24 @@
       "duration_ms": 238346,
       "name": "Space Girl",
       "url": "https://open.spotify.com/track/0Adu5x2aj2vFEnEikNoHH8"
+    },
+    {
+      "album": {
+        "name": "Staying Alive",
+        "url": "https://open.spotify.com/album/2iZEodFeofrguHR9RPZAZt"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "Staying Alive",
+      "url": "https://open.spotify.com/track/1O3Ci5e4Ca936YoJTyOUzx"
     },
     {
       "album": {
@@ -1565,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "The Painting of the Bay",
+        "url": "https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA"
+      },
+      "artists": [
+        {
+          "name": "W. H. Lung",
+          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "The Painting of the Bay",
+      "url": "https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf"
+    },
+    {
+      "album": {
         "name": "The Pressures of the Heart",
         "url": "https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe"
       },
@@ -1594,7 +1900,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 174040,
       "name": "The Real Thing",
       "url": "https://open.spotify.com/track/2Qe5XnI7iRXFlvk7fBEBQw"
@@ -1655,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL"
+      },
+      "artists": [
+        {
+          "name": "Saloon Dion",
+          "url": "https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213441,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz"
+    },
+    {
+      "album": {
         "name": "Umbrella Tree",
         "url": "https://open.spotify.com/album/0tqj67OS0gdFcknGMDCjem"
       },
@@ -1670,6 +1994,24 @@
       "duration_ms": 220000,
       "name": "Umbrella Tree",
       "url": "https://open.spotify.com/track/6sxVrDXBrdL80ZQKtqUxHb"
+    },
+    {
+      "album": {
+        "name": "Under The Table",
+        "url": "https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW"
+      },
+      "artists": [
+        {
+          "name": "Balancing Act",
+          "url": "https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p"
     },
     {
       "album": {
@@ -1745,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Well Done Honey",
+        "url": "https://open.spotify.com/album/7L3hHtrAwWrAjAhZS5rKLM"
+      },
+      "artists": [
+        {
+          "name": "Half Happy",
+          "url": "https://open.spotify.com/artist/1dwwH3Hj6GgsQnBzyDBuRj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256497,
+      "name": "Well Done Honey",
+      "url": "https://open.spotify.com/track/3wSMGOqlVmrE6yhv7kCKfp"
+    },
+    {
+      "album": {
         "name": "What's Mine",
         "url": "https://open.spotify.com/album/6OhgaDAi1BjCnXwXp3kkIR"
       },
@@ -1792,7 +2152,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 209932,
       "name": "You Make Me Feel So Dumb",
       "url": "https://open.spotify.com/track/4ieveV7aFYub2I2caGoTDy"

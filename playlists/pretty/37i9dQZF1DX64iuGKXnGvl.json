@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 149807,
+  "num_followers": 149961,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Al Norte Del Sur",
-        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Louis",
-      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
         "name": "Flans",
         "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 209573,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Al Norte Del Sur",
+        "url": "https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Louis",
+      "url": "https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "No Controles",
+      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
         "name": "Bravo Bos\u00e9 - 30 Grandes Exitos",
         "url": "https://open.spotify.com/album/2CGUVc0znuuZlW0pAAk4aS"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 263173,
       "name": "Amante Bandido",
       "url": "https://open.spotify.com/track/1wJneaMg40pI9qxGXPxG9X"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
-        "name": "Best of Righeira (Le meilleur des annees 80)",
-        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
-      },
-      "artists": [
-        {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa - 1983",
-      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+        "name": "Best of Righeira (Le meilleur des annees 80)",
+        "url": "https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 208573,
-      "name": "No Controles",
-      "url": "https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa - 1983",
+      "url": "https://open.spotify.com/track/3iB7lzsBC7PdJLU9k2nttT"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "!Volare! The Very Best of the Gipsy Kings",
-        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
+        "name": "20 Millas",
+        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
       },
       "artists": [
         {
-          "name": "Gipsy Kings",
-          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 203173,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
+      "duration_ms": 216400,
+      "name": "T\u00edmido",
+      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-06-12 20:35:23",
       "album": {
-        "name": "20 Millas",
-        "url": "https://open.spotify.com/album/4XDOln6yWfqfuDN7TzLDqI"
+        "name": "!Volare! The Very Best of the Gipsy Kings",
+        "url": "https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id"
       },
       "artists": [
         {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+          "name": "Gipsy Kings",
+          "url": "https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL"
         }
       ],
-      "duration_ms": 216400,
-      "name": "T\u00edmido",
-      "url": "https://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S"
+      "duration_ms": 203173,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/4EveU9Zb50mjgi5avDNqlK"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -683,6 +683,22 @@
       "duration_ms": 223560,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/0voqOa0RHLxuo5mNQ1PTaj"
+    },
+    {
+      "added_at": "2024-06-12 20:35:23",
+      "album": {
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "En El Boulevard (Corre, Corre)",
+      "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
     },
     {
       "added_at": "2024-06-12 20:35:23",
@@ -763,22 +779,6 @@
       "duration_ms": 210893,
       "name": "S\u00fabete a Mi Moto",
       "url": "https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ"
-    },
-    {
-      "added_at": "2024-06-12 20:35:23",
-      "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "En El Boulevard (Corre, Corre)",
-      "url": "https://open.spotify.com/track/6Uxus4vvORyWbkEdHxAYEj"
     },
     {
       "added_at": "2024-06-12 20:35:23",

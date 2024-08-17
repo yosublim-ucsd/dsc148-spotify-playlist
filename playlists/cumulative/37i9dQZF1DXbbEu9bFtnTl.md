@@ -4,7 +4,7 @@
 
 > Hyperpopemocoretrap 100pre sad t odio bye 👾 Awexa en portada
 
-113 songs - 4 hr 37 min
+114 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [INSOMNIO](https://open.spotify.com/track/1muqpBqYe7O6fZgcK49uba) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [INSOMNIO](https://open.spotify.com/album/0auZksU0YvrKAino1T9i2g) | 2:42 | 2024-07-05 | 2024-08-03 |
 | [JUMPING OUT THE WINDOW](https://open.spotify.com/track/5V0N1nOMFFOOL9TjiOnNtX) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 2:36 | 2024-06-14 |  |
 | [just4u \(funnynoiseclub 001\)](https://open.spotify.com/track/70cClzPl8UeQXoCviqutLU) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [just4u \(funnynoiseclub 001\)](https://open.spotify.com/album/2AB0JMXczhHtNwRs6UMvO1) | 3:12 | 2024-06-14 |  |
+| [K.O.](https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [K.O.](https://open.spotify.com/album/6ZGBCwQYjflgFEh42TFru0) | 3:11 | 2024-08-16 |  |
 | [KieremeAMi](https://open.spotify.com/track/29q8YUa7y2B7Z4wGpZhjCV) | [ZOKOO](https://open.spotify.com/artist/6suLbyw3oCCM4PDXghq7kd), [Dxniel Idk](https://open.spotify.com/artist/6qxmjRvTHz8aXgOEHOazaC), [Cris $now](https://open.spotify.com/artist/3d4jCnRZ5med30rUQCV8tG) | [KieremeAMi](https://open.spotify.com/album/0UuvmoWFNqnT6lk4yeGi1q) | 2:06 | 2024-06-14 |  |
 | [Kokoro](https://open.spotify.com/track/6SyNhF43GaHxOo4PYvSmrI) | [Haruki!!!](https://open.spotify.com/artist/5gdw2RUEaYpz1Vmkx3ewjB), [Nana!](https://open.spotify.com/artist/5vqTkyJrjYddHL7Sz6dwfw) | [Kokoro](https://open.spotify.com/album/3aA6zlhQmNVdefVv5EcGtz) | 1:47 | 2024-07-05 |  |
 | [KOMO TU ME MIRAS](https://open.spotify.com/track/6pw31lLexI8W1DY8UWaLoD) | [Is Dead](https://open.spotify.com/artist/0EKvKtaSHhGT2Sppi8qZLS) | [KOMO TU ME MIRAS](https://open.spotify.com/album/1iSB1gsiO7SWXI4OPLhU0C) | 1:26 | 2024-06-14 |  |

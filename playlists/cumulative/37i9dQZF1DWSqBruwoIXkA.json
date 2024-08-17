@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 172000,
       "name": "broken by you",
       "url": "https://open.spotify.com/track/472jZF9DQbbJlp6Zg58aai"
@@ -2176,6 +2176,24 @@
       "duration_ms": 225246,
       "name": "Cheatback",
       "url": "https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN"
+    },
+    {
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "album": {
@@ -4256,7 +4274,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 190680,
       "name": "girl talk",
       "url": "https://open.spotify.com/track/7oEi5Vuk2OeSYEs34C5wlt"
@@ -5506,7 +5524,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 182000,
       "name": "How?",
       "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
@@ -7976,7 +7994,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 237421,
       "name": "look what you did",
       "url": "https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt"
@@ -9259,6 +9277,42 @@
     },
     {
       "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
+    {
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179178,
+      "name": "No Strings Attached",
+      "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
+    },
+    {
+      "album": {
         "name": "No Words",
         "url": "https://open.spotify.com/album/1zqo2hzuuP6ZZtg7a6bMZz"
       },
@@ -10348,6 +10402,24 @@
       "duration_ms": 254466,
       "name": "Renegade (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue"
+    },
+    {
+      "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "album": {
@@ -11534,7 +11606,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 152520,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/28jtlpjqjubsGlly6caVwL"
@@ -13624,6 +13696,24 @@
       "duration_ms": 152237,
       "name": "Who I Am Without You",
       "url": "https://open.spotify.com/track/42NmFnYg5iTlRxgfa54Q7K"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C"
+      },
+      "artists": [
+        {
+          "name": "Adrey",
+          "url": "https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206517,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Autechre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO46FPXj)
 
-> This is Autechre。アーティストの代表曲をひとつのプレイリストに。
+> This is Autechre\. The essential tracks, all in one playlist.
 
 222 songs - 1 day 1 hr 35 min
 

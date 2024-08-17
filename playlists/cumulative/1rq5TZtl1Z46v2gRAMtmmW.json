@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+    },
+    {
+      "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81"
       },
@@ -3416,7 +3434,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 273291,
       "name": "Love Heart Cheat Code",
       "url": "https://open.spotify.com/track/0ewpVF33opGsxPJlLRflWX"

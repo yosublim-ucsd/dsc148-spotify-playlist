@@ -1,13 +1,61 @@
 {
   "description": "The best in blues right now. Cover: Toronzo Cannon",
-  "num_followers": 58001,
+  "num_followers": 58020,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAAA9+kEhqFdPQqFUTph793Q",
+  "snapshot_id": "Zr+XoQAAAACpul8eM2g2AsMWWyyKcvu+",
   "tracks": [
+    {
+      "added_at": "2024-08-16 18:17:05",
+      "album": {
+        "name": "Keep Your Worries On the Dance Floor / West Georgia Blues",
+        "url": "https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup"
+      },
+      "artists": [
+        {
+          "name": "Jontavious Willis",
+          "url": "https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r"
+        }
+      ],
+      "duration_ms": 169013,
+      "name": "Keep Your Worries On the Dance Floor",
+      "url": "https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "My Baby Left Me",
+        "url": "https://open.spotify.com/album/7EakjtgTdmuSIKySc3LJbE"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "My Baby Left Me",
+      "url": "https://open.spotify.com/track/1nRuwH66bqBOFoze3u6Pfp"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Better The Devil You Know",
+        "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 281214,
+      "name": "Better The Devil You Know",
+      "url": "https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -811,22 +859,6 @@
       "duration_ms": 176549,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Blues Deluxe Vol. 2",
-        "url": "https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 382040,
-      "name": "Is It Safe To Go Home",
-      "url": "https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1715,42 +1747,6 @@
       "duration_ms": 159886,
       "name": "I'm Just Getting Started!",
       "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Feel Like Going Home",
-        "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 275054,
-      "name": "Feel Like Going Home",
-      "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
-    },
-    {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "I Like Games",
-        "url": "https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu"
-      },
-      "artists": [
-        {
-          "name": "Arthur Brown",
-          "url": "https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm"
-        }
-      ],
-      "duration_ms": 261946,
-      "name": "I Like Games - Single Version",
-      "url": "https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9"
     },
     {
       "added_at": "2022-06-24 04:02:00",

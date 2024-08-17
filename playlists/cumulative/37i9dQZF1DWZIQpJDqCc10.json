@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "the wonderful world of nature (deluxe)",
+        "url": "https://open.spotify.com/album/1L4ACpkhGFbIVJ4ZdCSFOW"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth",
+          "url": "https://open.spotify.com/artist/4PeDuiJ3tM8So1Ai7c5szN"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280875,
+      "name": "beautiful baby",
+      "url": "https://open.spotify.com/track/6R2YcTMGx3OrbuXFHtZICy"
+    },
+    {
+      "album": {
         "name": "Bubble Gum (Vol. 2)",
         "url": "https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0"
       },
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 207856,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/0uNo3E6rg68AFf18ZyeLgm"

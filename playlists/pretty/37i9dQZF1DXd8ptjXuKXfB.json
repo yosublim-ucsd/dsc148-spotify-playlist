@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon.",
-  "num_followers": 23826,
+  "num_followers": 23852,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-08-12 08:41:10",
       "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
-    },
-    {
-      "added_at": "2024-08-12 08:41:10",
-      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 180141,
       "name": "The Code",
       "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
+    },
+    {
+      "added_at": "2024-08-12 08:41:10",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "added_at": "2024-08-12 08:41:10",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-08-12 08:41:10",
       "album": {
+        "name": "Careful What You Wish For (the doctor said to)",
+        "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
+      },
+      "artists": [
+        {
+          "name": "Jack Harris",
+          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Careful What You Wish For (the doctor said to)",
+      "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "added_at": "2024-08-12 08:41:10",
+      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-08-12 08:41:10",
-      "album": {
-        "name": "Careful What You Wish For (the doctor said to)",
-        "url": "https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8"
-      },
-      "artists": [
-        {
-          "name": "Jack Harris",
-          "url": "https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr"
-        }
-      ],
-      "duration_ms": 193384,
-      "name": "Careful What You Wish For (the doctor said to)",
-      "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
     },
     {
       "added_at": "2024-08-12 08:41:10",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2024-08-12 08:41:10",
       "album": {
-        "name": "kelet",
-        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        },
-        {
-          "name": "Signo",
-          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
-        }
-      ],
-      "duration_ms": 207818,
-      "name": "kelet",
-      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
-    },
-    {
-      "added_at": "2024-08-12 08:41:10",
-      "album": {
         "name": "ROSSZ \u00d6TLET",
         "url": "https://open.spotify.com/album/2edYWz5cD17JvfppjOChrG"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 176000,
       "name": "ROSSZ \u00d6TLET",
       "url": "https://open.spotify.com/track/5oMm7nr3dQsNDnVNzgeFeg"
+    },
+    {
+      "added_at": "2024-08-12 08:41:10",
+      "album": {
+        "name": "kelet",
+        "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        },
+        {
+          "name": "Signo",
+          "url": "https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s"
+        }
+      ],
+      "duration_ms": 207818,
+      "name": "kelet",
+      "url": "https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD"
     },
     {
       "added_at": "2024-08-12 08:41:10",

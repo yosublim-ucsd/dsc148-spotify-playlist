@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 467740,
+  "num_followers": 467898,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
+        "name": "Too Good (Unknown Mortal Orchestra Remix)",
+        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 216094,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
+      "duration_ms": 235005,
+      "name": "Too Good - Unknown Mortal Orchestra Remix",
+      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
     },
     {
       "added_at": "2022-10-05 01:25:40",
@@ -699,38 +703,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Too Good (Unknown Mortal Orchestra Remix)",
-        "url": "https://open.spotify.com/album/5PHJreAXfXiHlSEWigdeFN"
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
       },
       "artists": [
         {
           "name": "Arlo Parks",
           "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        },
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 235005,
-      "name": "Too Good - Unknown Mortal Orchestra Remix",
-      "url": "https://open.spotify.com/track/4jMmXKJjle1GD241r9s1oj"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+      "duration_ms": 216094,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
       "added_at": "2023-06-02 01:45:44",
@@ -747,6 +731,22 @@
       "duration_ms": 186528,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2n5xkzoCBGMRqmmXmfJ06R"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2021-10-28 19:01:32",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Spotlight - Single Edit",
-      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
-    },
-    {
       "added_at": "2022-12-07 04:04:10",
       "album": {
         "name": "head down",
@@ -815,6 +799,22 @@
       "duration_ms": 148304,
       "name": "head down",
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Spotlight - Single Edit",
+      "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1121,6 +1121,22 @@
       "url": "https://open.spotify.com/track/1Vv16VYpddnreBUtCFy0AE"
     },
     {
+      "added_at": "2023-09-25 02:40:58",
+      "album": {
+        "name": "Sorry I Haven't Called",
+        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Lexicon",
+      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
+    },
+    {
       "added_at": "2023-04-11 00:45:41",
       "album": {
         "name": "Sundown",
@@ -1151,22 +1167,6 @@
       "duration_ms": 170500,
       "name": "say your way",
       "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
-    },
-    {
-      "added_at": "2023-09-25 02:40:58",
-      "album": {
-        "name": "Sorry I Haven't Called",
-        "url": "https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Lexicon",
-      "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
       "added_at": "2022-02-09 03:25:54",

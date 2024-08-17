@@ -2,7 +2,7 @@
 
 ### [Hot Hits Tunisia](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> Adam Port & Stryv en tête de la playlist numéro un en Tunisie.
+> Samara en tête de la playlist numéro un en Tunisie.
 
 226 songs - 13 hr 42 min
 

@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 131000,
       "name": "Attention",
       "url": "https://open.spotify.com/track/1RhRsbMl9eYpt6GbkJj0Y0"
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161428,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
@@ -3372,6 +3372,24 @@
       "duration_ms": 181874,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/1Zw0EkCEoEtHTzmZV3UlIf"
+    },
+    {
+      "album": {
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/3Ma9NLeHpkB5VKuUq99ZDQ"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142080,
+      "name": "Comeback",
+      "url": "https://open.spotify.com/track/6TpDLUKEKk6ce1ZCnazwyQ"
     },
     {
       "album": {
@@ -3630,6 +3648,24 @@
       "duration_ms": 234330,
       "name": "Dancerteria",
       "url": "https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS"
+    },
+    {
+      "album": {
+        "name": "Dancin'",
+        "url": "https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP"
+      },
+      "artists": [
+        {
+          "name": "Riggi & Piros",
+          "url": "https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144193,
+      "name": "Dancin'",
+      "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
     },
     {
       "album": {
@@ -3931,6 +3967,28 @@
     },
     {
       "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
       },
@@ -3976,6 +4034,24 @@
       "duration_ms": 207619,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/2OPZfzuF3UHXa3jpnWgfdj"
+      },
+      "artists": [
+        {
+          "name": "\u00d6ien",
+          "url": "https://open.spotify.com/artist/6ujx2cHU7MoBoq8aOS2C3X"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/1feOxl8OKfXkDFf5NjRxWz"
     },
     {
       "album": {
@@ -4340,7 +4416,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186962,
       "name": "Don't Talk To Me",
       "url": "https://open.spotify.com/track/3rO0TlnVlPQviUMnUkfJ1A"
@@ -4866,6 +4942,28 @@
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "album": {
+        "name": "Euphoria Rush",
+        "url": "https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Euphoria Rush",
+      "url": "https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq"
     },
     {
       "album": {
@@ -7898,7 +7996,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 206307,
       "name": "Is It True? What I Feel?",
       "url": "https://open.spotify.com/track/32sDfkIliTuTEqJ8EdMi1v"
@@ -7986,7 +8084,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156190,
       "name": "I\u2019m A Freak (feat. Kazhi)",
       "url": "https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA"
@@ -8114,7 +8212,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156960,
       "name": "Juice",
       "url": "https://open.spotify.com/track/51dzsgG32Z9nPvSdpVwJ86"
@@ -9212,6 +9310,28 @@
       "duration_ms": 168170,
       "name": "Magic Carpet",
       "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
+    },
+    {
+      "album": {
+        "name": "Magnificent",
+        "url": "https://open.spotify.com/album/4Futqdz65JImRIxgili4sx"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        },
+        {
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
     },
     {
       "album": {
@@ -11871,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "Pump The Bass",
+        "url": "https://open.spotify.com/album/45K47FDDqFIcAQslA77hf4"
+      },
+      "artists": [
+        {
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187031,
+      "name": "Pump The Bass",
+      "url": "https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor"
+    },
+    {
+      "album": {
         "name": "Pump This",
         "url": "https://open.spotify.com/album/4XtL60LoQJLrPQfzINSTSV"
       },
@@ -13238,7 +13376,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 131520,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
@@ -13670,12 +13808,12 @@
       },
       "artists": [
         {
-          "name": "WHOWHENWHY",
-          "url": "https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL"
-        },
-        {
           "name": "Guest Who",
           "url": "https://open.spotify.com/artist/1KNQdt0U3TqZUUPvAAwyk3"
+        },
+        {
+          "name": "WHOWHENWHY",
+          "url": "https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL"
         },
         {
           "name": "Haylee Wood",

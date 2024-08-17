@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Hern\u00e1n Sep\u00falveda en portada.",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Horacio Palencia en portada.",
   "name": "La Miscel\u00e1nea: Banda, Corridos & m\u00e1s...",
   "tracks": [
     {
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225663,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/6XitPMvbyJka63xQQBQXKr"
@@ -650,6 +650,28 @@
       "duration_ms": 190706,
       "name": "Casi Completa",
       "url": "https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ"
+    },
+    {
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "album": {
@@ -722,7 +744,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162806,
       "name": "Corte de Caja",
       "url": "https://open.spotify.com/track/2T2THnfAdUNXJl1epVmNpT"
@@ -813,6 +835,24 @@
     },
     {
       "album": {
+        "name": "Cuando Te Cambian Por Alguien",
+        "url": "https://open.spotify.com/album/1B0Y0VxZDvbEVvOLhpFRdh"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Cuando Te Cambian Por Alguien",
+      "url": "https://open.spotify.com/track/2vEW1egg6xdTm5WBVopBFe"
+    },
+    {
+      "album": {
         "name": "De Ellas",
         "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
       },
@@ -854,6 +894,24 @@
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
+    },
+    {
+      "album": {
+        "name": "Del 1 al 10",
+        "url": "https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196184,
+      "name": "Del 1 al 10",
+      "url": "https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK"
     },
     {
       "album": {
@@ -984,7 +1042,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 198080,
       "name": "El Da\u00f1o Te Lo Haces T\u00fa",
       "url": "https://open.spotify.com/track/4OXRlvyjkSkRgcnnTzmhUf"
@@ -1010,6 +1068,28 @@
       "duration_ms": 158780,
       "name": "El Tutorial",
       "url": "https://open.spotify.com/track/2ZBV9gqsTQanftR3gXRn5F"
+    },
+    {
+      "album": {
+        "name": "El Valiente",
+        "url": "https://open.spotify.com/album/3KaTydWo5cOZEQQTXejf8N"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182091,
+      "name": "El Valiente",
+      "url": "https://open.spotify.com/track/2nMUyoPs9if5CMl07wuELR"
     },
     {
       "album": {
@@ -1104,7 +1184,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 186226,
       "name": "Felic\u00edtalo",
       "url": "https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd"
@@ -1178,6 +1258,32 @@
       "duration_ms": 234642,
       "name": "Generaci\u00f3n Tumbada",
       "url": "https://open.spotify.com/track/4UTahnQbQsLzCrQ7KHRTuc"
+    },
+    {
+      "album": {
+        "name": "GOMIN0LA",
+        "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169440,
+      "name": "GOMIN0LA",
+      "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
     },
     {
       "album": {
@@ -1412,7 +1518,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 258441,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
@@ -1540,6 +1646,24 @@
       "duration_ms": 184165,
       "name": "La Guerita",
       "url": "https://open.spotify.com/track/7AuloEFqtDCrlcPTF2uP9q"
+    },
+    {
+      "album": {
+        "name": "LA MALA",
+        "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
     },
     {
       "album": {
@@ -2168,10 +2292,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 178039,
       "name": "Mis Amigas Las Flores",
       "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
+    },
+    {
+      "album": {
+        "name": "Morro Dolido",
+        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "Morro Dolido",
+      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
     },
     {
       "album": {
@@ -2419,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "NAC\u00cd PARA CANTAR",
+        "url": "https://open.spotify.com/album/07Pw5W4cOW1VEzkyfsEzyR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Aguilar",
+          "url": "https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "Noqueado",
+      "url": "https://open.spotify.com/track/2PfxXfnoKEnlKEuRC6tZWQ"
+    },
+    {
+      "album": {
         "name": "Mariachi Y Tequila (Deluxe)",
         "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
       },
@@ -2506,7 +2670,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 169853,
       "name": "Ojal\u00e1 Que Te Mueras",
       "url": "https://open.spotify.com/track/56ebjrGMxk4cjmycPiZJIM"
@@ -2546,6 +2710,32 @@
       "duration_ms": 142410,
       "name": "Ojos Verdes",
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "album": {
+        "name": "Reset Mariachi EP",
+        "url": "https://open.spotify.com/album/0NCCLK5RqnGNMvRON2hDjf"
+      },
+      "artists": [
+        {
+          "name": "Panda Bear",
+          "url": "https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ"
+        },
+        {
+          "name": "Sonic Boom",
+          "url": "https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI"
+        },
+        {
+          "name": "Mariachi 2000 de Cutberto P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2zuzlDjpiL13KS95cZGGjI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317657,
+      "name": "Peligro (Danger) - Mariachi 2000 de Cutberto Perez Version",
+      "url": "https://open.spotify.com/track/7iHf1VheSsGZbGRdZOxaDD"
     },
     {
       "album": {
@@ -2665,6 +2855,28 @@
     },
     {
       "album": {
+        "name": "QuesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
+    },
+    {
+      "album": {
         "name": "Quiero Ser (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/7nwBAclWEuLBH335I138sP"
       },
@@ -2734,10 +2946,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 148760,
       "name": "S Cool...ito",
       "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
+    },
+    {
+      "album": {
+        "name": "S.O.S",
+        "url": "https://open.spotify.com/album/1pMRvAQAizHhGOvsjO0eEv"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175683,
+      "name": "S.O.S",
+      "url": "https://open.spotify.com/track/3rsbBwx4iQtmdWOIeWLNJa"
     },
     {
       "album": {
@@ -3054,7 +3284,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214781,
       "name": "Te quiero",
       "url": "https://open.spotify.com/track/5IShqQgFFTRRpQVVubD52f"
@@ -3098,7 +3328,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173975,
       "name": "Te Ves Tan Bien",
       "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
@@ -3516,7 +3746,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213425,
       "name": "YO QUISIERA",
       "url": "https://open.spotify.com/track/6oUfleqHtxkXLIGBEZKA9n"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 > From the LGBTQIA+ songwriters that make the music happen\. This month curated by: <a href="https://open.spotify.com/playlist/37i9dQZF1EFFaNIqhJxmrd?si=91ad250cc0614a66">Fanny Hultman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 9 | [Naked In Manhattan](https://open.spotify.com/track/4LKYOetuIF5c9XjeLBL9av) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:31 |
 | 10 | [Maybe](https://open.spotify.com/track/4dGjMKCXok3F866sHnDgQy) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/3D4R2K9WvgchXUkefusOrC) | 4:30 |
 | 11 | [The Village](https://open.spotify.com/track/6epvwUINain4iSHCTWA0sj) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Village](https://open.spotify.com/album/1tVsOrPK4fwQB6kN7jIZxy) | 3:50 |
-| 12 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 |
+| 12 | [No California](https://open.spotify.com/track/2qWI9KeeGFSyshLALQ61MG) | [Ilsey](https://open.spotify.com/artist/4XheHqhIQFNGHcmRknqJmB) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:35 |
 | 13 | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bad At Letting Go \(feat\. MUNA\)](https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX) | 3:20 |
 | 14 | [Body](https://open.spotify.com/track/7vXnqJKU3ljgaBNa4Kjt7p) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:57 |
 | 15 | [Forever](https://open.spotify.com/track/0nTtF1P89E5wln7cAtBA9p) | [Justin Tranter](https://open.spotify.com/artist/3D7L8f9VRhsXHHNPiTBioz) | [The Lego Batman Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20Am1bee946Kdace8R9bC0) | 3:49 |

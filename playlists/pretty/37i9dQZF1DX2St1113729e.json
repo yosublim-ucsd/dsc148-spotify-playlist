@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. TAICHU",
-  "num_followers": 216446,
+  "num_followers": 216455,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -502,6 +502,10 @@
         {
           "name": "Seo Jaleo",
           "url": "https://open.spotify.com/artist/0wUAR1OTy7vzf5yUddtc5r"
+        },
+        {
+          "name": "Shama",
+          "url": "https://open.spotify.com/artist/4paX5a2On2c6qn6V1l6c11"
         }
       ],
       "duration_ms": 177391,
@@ -699,22 +703,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "G&G",
-        "url": "https://open.spotify.com/album/1PLa6ZKSdI9LxAyE07aR4s"
-      },
-      "artists": [
-        {
-          "name": "FADES",
-          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "G&G",
-      "url": "https://open.spotify.com/track/6lTPoWf2umuL8sDKTgBQtv"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "NO GRITAR\u00c9 TU NOMBRE",
         "url": "https://open.spotify.com/album/48edR6gXJ7L4myjPBEILZq"
       },
@@ -727,6 +715,22 @@
       "duration_ms": 185000,
       "name": "NO GRITAR\u00c9 TU NOMBRE",
       "url": "https://open.spotify.com/track/0DHOq0zNiaAIEqvYhZ8BYv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "G&G",
+        "url": "https://open.spotify.com/album/1PLa6ZKSdI9LxAyE07aR4s"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "G&G",
+      "url": "https://open.spotify.com/track/6lTPoWf2umuL8sDKTgBQtv"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -819,26 +823,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "QU\u00c9 M\u00c1S DA",
-        "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
-      },
-      "artists": [
-        {
-          "name": "Xenia",
-          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
-        },
-        {
-          "name": "Margarita Quebrada",
-          "url": "https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "QU\u00c9 M\u00c1S DA",
-      "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Rave Generator (feat. DJ Flapjack)",
         "url": "https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX"
       },
@@ -907,18 +891,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Trapboi",
-        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
+        "name": "QU\u00c9 M\u00c1S DA",
+        "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
       "artists": [
         {
-          "name": "Akafre$h",
-          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        },
+        {
+          "name": "Margarita Quebrada",
+          "url": "https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi"
         }
       ],
-      "duration_ms": 143534,
-      "name": "Trapboi",
-      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
+      "duration_ms": 153333,
+      "name": "QU\u00c9 M\u00c1S DA",
+      "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -943,6 +931,22 @@
       "duration_ms": 173775,
       "name": "ADULTA Y FUNCIONAL",
       "url": "https://open.spotify.com/track/7cMPEH5WqRvID3ovjYgy17"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Trapboi",
+        "url": "https://open.spotify.com/album/5OrtZMQ3bMfybH4VxsxFfI"
+      },
+      "artists": [
+        {
+          "name": "Akafre$h",
+          "url": "https://open.spotify.com/artist/411qKyHGD5CZakuDDVOwfj"
+        }
+      ],
+      "duration_ms": 143534,
+      "name": "Trapboi",
+      "url": "https://open.spotify.com/track/0MLLCp68Wz4IhFPSy4eAZd"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -987,22 +991,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Lejos del ruido",
-        "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
-      },
-      "artists": [
-        {
-          "name": "Stormykid",
-          "url": "https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb"
-        }
-      ],
-      "duration_ms": 188903,
-      "name": "Lejos del ruido",
-      "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Hay Que Venir Al Sur",
         "url": "https://open.spotify.com/album/09uJZ3rlqPosjshlIhLi2r"
       },
@@ -1019,6 +1007,22 @@
       "duration_ms": 166660,
       "name": "Hay Que Venir Al Sur",
       "url": "https://open.spotify.com/track/5npbKSTNpSEJ6CRU2y0qq4"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Lejos del ruido",
+        "url": "https://open.spotify.com/album/0GTiRd3k4OSuXhdu7eIK7Q"
+      },
+      "artists": [
+        {
+          "name": "Stormykid",
+          "url": "https://open.spotify.com/artist/5h47EUJ6IZrCFO1paksFkb"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Lejos del ruido",
+      "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1363,6 +1367,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "INOCENTE",
+        "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
+      },
+      "artists": [
+        {
+          "name": "W.A.H.",
+          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "INOCENTE",
+      "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "C me apag\u00f3 el coso",
         "url": "https://open.spotify.com/album/7y9G19YJdQI4nbfRZxEloG"
       },
@@ -1379,22 +1399,6 @@
       "duration_ms": 123410,
       "name": "C me apag\u00f3 el coso",
       "url": "https://open.spotify.com/track/33hPveqI2sVkwHGm0vrWGQ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "INOCENTE",
-        "url": "https://open.spotify.com/album/4hVOaFq3mlzVybDaMMTxNG"
-      },
-      "artists": [
-        {
-          "name": "W.A.H.",
-          "url": "https://open.spotify.com/artist/5keKPrJcSL0pAmEyL9ArQN"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "INOCENTE",
-      "url": "https://open.spotify.com/track/1Q8iQTMgUPqnPWE1WSuXiW"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1419,22 +1423,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "PASODOBLE",
-        "url": "https://open.spotify.com/album/4hjgpCwdCfuvpPj8MUGTwx"
-      },
-      "artists": [
-        {
-          "name": "kepa",
-          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
-        }
-      ],
-      "duration_ms": 136778,
-      "name": "PASODOBLE",
-      "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "LOVE 003",
         "url": "https://open.spotify.com/album/1tCti1oIrfocCG2CIGLVc4"
       },
@@ -1451,6 +1439,22 @@
       "duration_ms": 147350,
       "name": "LOVE 003",
       "url": "https://open.spotify.com/track/12pQvOYiIJw5dtng80QMul"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "PASODOBLE",
+        "url": "https://open.spotify.com/album/4hjgpCwdCfuvpPj8MUGTwx"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        }
+      ],
+      "duration_ms": 136778,
+      "name": "PASODOBLE",
+      "url": "https://open.spotify.com/track/7sEkenTzNgk2begN3tfZDb"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1675,6 +1679,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "AMOR EVITATIVO",
+        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
+      },
+      "artists": [
+        {
+          "name": "Poder Fantasma",
+          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "KAWAII MUY TIERNA",
+      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Diavlo",
         "url": "https://open.spotify.com/album/0nMcBrHpOatpLxHX37jxXM"
       },
@@ -1707,22 +1727,6 @@
       "duration_ms": 174055,
       "name": "INSTINTO",
       "url": "https://open.spotify.com/track/1oNzAosrVjzc4xP9CgYDia"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "AMOR EVITATIVO",
-        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
-      },
-      "artists": [
-        {
-          "name": "Poder Fantasma",
-          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "KAWAII MUY TIERNA",
-      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1799,6 +1803,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Maldades",
+        "url": "https://open.spotify.com/album/2N0MNS2RYHfNQNTV3YcSi9"
+      },
+      "artists": [
+        {
+          "name": "XhanelBBY",
+          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
+        },
+        {
+          "name": "Octopvs To The Party",
+          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Maldades",
+      "url": "https://open.spotify.com/track/0jkAxbSw023xwgNauSO3Hv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Purgatorio_RMX",
         "url": "https://open.spotify.com/album/3I3pOaFLUOtxtDgKvQk8BQ"
       },
@@ -1839,26 +1863,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Maldades",
-        "url": "https://open.spotify.com/album/2N0MNS2RYHfNQNTV3YcSi9"
-      },
-      "artists": [
-        {
-          "name": "XhanelBBY",
-          "url": "https://open.spotify.com/artist/0XilNKZaQEvUz3X571uXCW"
-        },
-        {
-          "name": "Octopvs To The Party",
-          "url": "https://open.spotify.com/artist/2KhAknita2n0dejlwfhkd8"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Maldades",
-      "url": "https://open.spotify.com/track/0jkAxbSw023xwgNauSO3Hv"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "No Hab\u00eda Choice",
         "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
       },
@@ -1895,6 +1899,26 @@
       "duration_ms": 123824,
       "name": "CUTE",
       "url": "https://open.spotify.com/track/0fUJ44OtRfKgiNQFdwE87o"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "SI ME NECESITAS",
+        "url": "https://open.spotify.com/album/5Zsj1I3RGE5BGSe0Nuz2tg"
+      },
+      "artists": [
+        {
+          "name": "ghostlyjose",
+          "url": "https://open.spotify.com/artist/0GSh1hNWSEOQibWqjejKgf"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+        }
+      ],
+      "duration_ms": 158624,
+      "name": "SI ME NECESITAS",
+      "url": "https://open.spotify.com/track/1N2wmnhMCqr4r4rAUfUHk5"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1943,26 +1967,6 @@
       "duration_ms": 163636,
       "name": "Cocky",
       "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "SI ME NECESITAS",
-        "url": "https://open.spotify.com/album/5Zsj1I3RGE5BGSe0Nuz2tg"
-      },
-      "artists": [
-        {
-          "name": "ghostlyjose",
-          "url": "https://open.spotify.com/artist/0GSh1hNWSEOQibWqjejKgf"
-        },
-        {
-          "name": "Dewuhu",
-          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
-        }
-      ],
-      "duration_ms": 158624,
-      "name": "SI ME NECESITAS",
-      "url": "https://open.spotify.com/track/1N2wmnhMCqr4r4rAUfUHk5"
     },
     {
       "added_at": "2024-08-15 22:00:00",

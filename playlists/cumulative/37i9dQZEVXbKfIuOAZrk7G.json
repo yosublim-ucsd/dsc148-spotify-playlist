@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 188581,
       "name": "(Make My) Country Rock (feat. Sully Erna of Godsmack, Travis Tritt, and Mick Mars)",
       "url": "https://open.spotify.com/track/1Z2ayz8NgAD3HtNUfxUlrL"
@@ -1159,7 +1159,7 @@
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 289504,
+      "duration_ms": 288000,
       "name": "530",
       "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
     },
@@ -11228,7 +11228,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 150943,
       "name": "DAMNSON",
       "url": "https://open.spotify.com/track/630ZXewu63FXyhoiKpO6tC"
@@ -22622,7 +22622,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
@@ -28988,7 +28988,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
@@ -43145,6 +43145,24 @@
     },
     {
       "album": {
+        "name": "She Just Is",
+        "url": "https://open.spotify.com/album/1GveKpHO4oy0KFAHCK8G41"
+      },
+      "artists": [
+        {
+          "name": "Justin Fancy",
+          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179576,
+      "name": "She Just Is",
+      "url": "https://open.spotify.com/track/3ziINLreWslGeULonRV7Bd"
+    },
+    {
+      "album": {
         "name": "She Know What She Wanted (Jersey Club Remix Slowed)",
         "url": "https://open.spotify.com/album/5q3J1gqVyTvChtFf8EJKQk"
       },
@@ -49224,7 +49242,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 83000,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/5EbJjO0X1Xw620AXZMyyNZ"

@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 802160,
+  "num_followers": 802496,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
     },
     {
-      "added_at": "2022-08-09 01:37:48",
-      "album": {
-        "name": "Lonely Is An Eyesore",
-        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Muscoviet Mosquito",
-      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Starfish",
@@ -1031,6 +1015,22 @@
       "duration_ms": 289173,
       "name": "North, South, East and West",
       "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
+    },
+    {
+      "added_at": "2022-08-09 01:37:48",
+      "album": {
+        "name": "Lonely Is An Eyesore",
+        "url": "https://open.spotify.com/album/3lgwTWVYdTRhCtaOAMJDvc"
+      },
+      "artists": [
+        {
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Muscoviet Mosquito",
+      "url": "https://open.spotify.com/track/0VkLpkFFjIRS4XDCdW6NdO"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Always Now",
-        "url": "https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ"
-      },
-      "artists": [
-        {
-          "name": "Section 25",
-          "url": "https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "Hit",
-      "url": "https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Lucky Number (The Best Of)",
         "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 268733,
       "name": "Bird Song",
       "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Always Now",
+        "url": "https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ"
+      },
+      "artists": [
+        {
+          "name": "Section 25",
+          "url": "https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge"
+        }
+      ],
+      "duration_ms": 178906,
+      "name": "Hit",
+      "url": "https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj"
     },
     {
       "added_at": "2021-10-15 04:04:50",

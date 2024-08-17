@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-384 songs - 21 hr 46 min
+385 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Keh Do Na](https://open.spotify.com/track/6c3LR94yDATEjWBJQCaYs3) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Lafz](https://open.spotify.com/album/4LAHU5zvi4sU5wBApjHa4E) | 3:42 | 2024-04-09 | 2024-05-16 |
 | [Keh Na Paya](https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67) | [Keh Na Paya](https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx) | 3:28 | 2024-04-26 |  |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
-| [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 |  |
+| [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 | 2024-08-17 |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 | 2024-04-19 |
 | [Khabar](https://open.spotify.com/track/08M1HqLsOYeWetO7WYNrIf) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Khabar](https://open.spotify.com/album/37fNvMhuiO1O2F4EdCCKqq) | 3:33 | 2024-07-26 |  |
@@ -382,6 +382,7 @@
 | [Yaari Ke Dhaage](https://open.spotify.com/track/1F79kSzDvRgQFOge5CMvl0) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Brite Roy](https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y) | [Yaari Ke Dhaage](https://open.spotify.com/album/0fRZWJiJsvrMnGEWhN7WfU) | 2:47 | 2023-08-04 | 2023-09-21 |
 | [Yahi](https://open.spotify.com/track/6iiHvnhqvtXuE364OiHPDY) | [Subhranil Paul](https://open.spotify.com/artist/4EqjmfWeakKJdFZkoZd3vb) | [Yahi](https://open.spotify.com/album/5jQuBe9YHXDDXanNaUWQ6M) | 3:31 | 2024-05-15 | 2024-08-03 |
 | [Yahi Sach Hai](https://open.spotify.com/track/3dpvuS1Kow72xFcThRX3X9) | [Yugm](https://open.spotify.com/artist/43uEANXUn0eOJrYKfjq2DL) | [Yahi Sach Hai](https://open.spotify.com/album/0dQUjoVuziFkNaoeDMR1RA) | 6:14 | 2023-06-19 | 2023-07-07 |
+| [Yakeen](https://open.spotify.com/track/16FEEGbsDkm1oAxrZe4v6j) | [Yuvi](https://open.spotify.com/artist/67iUYoHE7CHnWYO2ZtV5IJ) | [Yakeen](https://open.spotify.com/album/1jQDvQlY3g3cvoAk0IB93R) | 2:52 | 2024-08-16 |  |
 | [Ye Sama](https://open.spotify.com/track/6YdMuBCmTZUypKNZuFvIuv) | [Muzaffer](https://open.spotify.com/artist/6lKmfBnq8JWmPpUHJWpyzm) | [Ye Sama](https://open.spotify.com/album/57VlJwy79d6s3pkCcqsvvn) | 3:23 | 2023-05-17 | 2023-06-24 |
 | [Ye Zindagi](https://open.spotify.com/track/76WGQlitFCuX9m4IsChzsq) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ye Zindagi](https://open.spotify.com/album/1Tib7ORYuc7K9nEMADj6ME) | 2:47 | 2023-12-15 | 2024-02-29 |
 | [Yeh Mera Dil](https://open.spotify.com/track/459wvXRbstNfUVyQoJ8PB2) | [Hammad Ehsan](https://open.spotify.com/artist/7FvUkx4OEVD7hvYirKrZKD) | [Yeh Mera Dil](https://open.spotify.com/album/7sNjCGtlVEKsRVHCGEISKv) | 3:01 | 2023-10-03 | 2023-12-07 |

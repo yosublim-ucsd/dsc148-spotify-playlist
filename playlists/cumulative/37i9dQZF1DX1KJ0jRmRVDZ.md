@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,172 songs - 2 day 18 hr 50 min
+1,173 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Dohdatte.](https://open.spotify.com/track/2OTfuTcICjCrI2xtc4sdf3) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Tatsuya Kitani](https://open.spotify.com/artist/3YxLZDzRbeskxCOlubACis) | [Dohdatte.](https://open.spotify.com/album/0srCp2sHV9KTw80Sd22l91) | 3:18 | 2022-11-17 | 2023-01-04 |
 | [DOKU](https://open.spotify.com/track/2sqPCT6yAAPhIyMIZhnuKJ) | [未完成ブレイブ](https://open.spotify.com/artist/04Ed81vmCD3qqU2AoBePXW) | [DOKU](https://open.spotify.com/album/3OSPwW9d5VhUdXO3Wz5uyJ) | 2:46 | 2023-10-26 | 2023-11-16 |
 | [Don't Stop the DOKKYUN!!](https://open.spotify.com/track/04SaykXEj1ZWwjqJAiTdbe) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [Don't Stop the DOKKYUN!!](https://open.spotify.com/album/7mkuJn3G6P87OcuLcoKYuE) | 4:08 | 2022-07-14 | 2022-07-16 |
+| [DONMAI](https://open.spotify.com/track/3MtScqe0Jkt6aBz6l3m0re) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [PHANTOMIME](https://open.spotify.com/album/5tZME90UhKL46KuK5tjUvD) | 3:45 | 2024-08-15 |  |
 | [Dorothy](https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN) | [KANKAN](https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d), [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Dorothy](https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl) | 3:02 | 2022-08-05 | 2022-08-17 |
 | [DOSOKAI](https://open.spotify.com/track/1dMudQWegtmUjdKK0uWTTi) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [DOSOKAI](https://open.spotify.com/album/1adNWaG3EwYZU1QE8kCWAf) | 2:49 | 2022-10-18 | 2022-12-21 |
 | [Double](https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk) | [MILGRAM ミコト \(CV: 花江夏樹\)](https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo) | [Double](https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd) | 2:33 | 2023-10-26 | 2023-11-29 |

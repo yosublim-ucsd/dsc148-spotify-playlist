@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greccia.
 
-385 songs - 21 hr 5 min
+386 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Domingo \- Acústico](https://open.spotify.com/track/64cVrxutf7ukLzWPSlyAUj) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Domingo \(Acústico\)](https://open.spotify.com/album/2NckREV9zX743s0a21Case) | 2:43 | 2024-04-03 | 2024-05-02 |
 | [E Ye Ye](https://open.spotify.com/track/1N1o37CJclFYfPhTpxAg4I) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Curao](https://open.spotify.com/album/1FWlRjAwpcQCab5c4KinaJ) | 6:39 | 2022-01-05 | 2022-03-10 |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-01-04 | 2023-04-06 |
+| [el Alquimista](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 | 2024-08-16 |  |
 | [El Estuche](https://open.spotify.com/track/1mJcdYX9gUBzsv80P7utib) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Originales \- 20 Exitos](https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf) | 3:23 | 2024-06-05 | 2024-07-04 |
 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 | 2022-01-05 |  |
 | [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-21 | 2023-11-02 |
@@ -286,7 +287,7 @@
 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 | 2022-01-05 | 2022-03-10 |
 | [Para Que](https://open.spotify.com/track/66xcmIG3jt2YGekLctpH6e) | [Ana & Jaime](https://open.spotify.com/artist/5kG6asc4JG03E54SLVaapf) | [Los Años Inmensos](https://open.spotify.com/album/5nrncrDRqLLFmAGKtREqZg) | 2:44 | 2024-07-03 |  |
 | [Para Variar](https://open.spotify.com/track/4bJ4ysT06LxZ7utoLnqHA0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para Variar](https://open.spotify.com/album/6T4lNaOLKBbWGjg65ZaXtw) | 2:59 | 2024-03-08 |  |
-| [Para Verte](https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2024-05-01 |  |
+| [Para Verte](https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2024-05-01 | 2024-08-17 |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-01 | 2023-04-06 |
 | [Pero Frágil](https://open.spotify.com/track/5VhKKkNdzFCeijhApJWnis) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [Pero Frágil](https://open.spotify.com/album/4Ru87PmTzlRJxwh0zgptXc) | 4:15 | 2024-08-07 |  |
 | [Perra Melancólica](https://open.spotify.com/track/1oz56HcDz9gNaN659hDg3Z) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [GURUNDANGA](https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA) | 4:00 | 2024-06-05 |  |

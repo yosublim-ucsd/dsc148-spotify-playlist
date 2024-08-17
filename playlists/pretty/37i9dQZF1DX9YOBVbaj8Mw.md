@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,392 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,394 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 74 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
 | 75 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |
 | 76 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
-| 77 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
-| 78 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
+| 77 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
+| 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
 | 80 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
 | 81 | [Serce Otwarte Na Pół](https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX) | [Michał Aftyka Quintet](https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT) | [Frukstrakt](https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn) | 3:31 |

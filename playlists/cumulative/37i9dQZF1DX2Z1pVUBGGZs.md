@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring bradley simpson  ☁️  art: @doolittleillustrations
 
-141 songs - 6 hr 59 min
+142 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Baby](https://open.spotify.com/track/3oZ8sRsrZTnRyREtrJ30s1) | [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO) | [Baby](https://open.spotify.com/album/3UFtjO57n1GolabGQsCs1s) | 1:59 | 2024-06-27 |  |
 | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-06-27 |  |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 |  |
-| [BAD 4 MY HEALTH](https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BAD 4 MY HEALTH](https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359) | 2:06 | 2024-07-04 |  |
+| [BAD 4 MY HEALTH](https://open.spotify.com/track/1ZRtMHVeF4KO1sZyTyVMIh) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BAD 4 MY HEALTH](https://open.spotify.com/album/5to9l8DNYbCnkivd9q2359) | 2:06 | 2024-07-04 | 2024-08-17 |
 | [BAD!](https://open.spotify.com/track/5WOyh6lYHKe2zJ3JxyRa1k) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [BAD!](https://open.spotify.com/album/5hfJiBLnHNx2RaOE2acqWc) | 2:39 | 2024-07-11 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 |  |
 | [Bedbugs](https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Bedbugs](https://open.spotify.com/album/5s6HqHbHK8PDnsSHtBUivO) | 2:56 | 2024-06-27 | 2024-08-09 |
@@ -113,6 +113,7 @@
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-27 |  |
 | [Robot Lovers](https://open.spotify.com/track/6UWwYDs100VkZly8XWzg4e) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Robot Lovers](https://open.spotify.com/album/0y4HNgrnrtIeD9givcomUT) | 2:34 | 2024-06-27 | 2024-08-09 |
 | [Sage](https://open.spotify.com/track/6So2kOCuIGv8gYgOPLHapp) | [Ari Morgan](https://open.spotify.com/artist/1EeyV1OJruocrWkphr12mX) | [Sage](https://open.spotify.com/album/5Vyej2QgmMLO0NPyQ6kkPB) | 2:40 | 2024-07-04 |  |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-16 |  |
 | [Scotch of St\. James](https://open.spotify.com/track/4owudhylhdEDmUt7xggVK1) | [Barny Fletcher](https://open.spotify.com/artist/5q9zHGohILrZ2j1bSL1VeG) | [Scotch of St\. James](https://open.spotify.com/album/6e7VhvhyMxN2Vz3LRZCj0H) | 2:54 | 2024-07-04 |  |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-18 |  |
 | [See the Patterns](https://open.spotify.com/track/54rKzUySpkE6LOoFniDc4e) | [nikhil](https://open.spotify.com/artist/21Nhs4mlXS9iS4wR1VV6Sp) | [See the Patterns](https://open.spotify.com/album/6OiXMsYRQaD0fCNwVEx6Xa) | 2:38 | 2024-06-27 | 2024-08-09 |

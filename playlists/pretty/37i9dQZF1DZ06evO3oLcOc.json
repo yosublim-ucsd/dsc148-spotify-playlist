@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 222975,
+  "num_followers": 222991,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAAD39SGKEJpPR71LlxeAot4N",
+  "snapshot_id": "Zr1FAAAAAADCNNtsvh0qXq5G7E6svPW1",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hookah",
         "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 202320,
       "name": "Hookah",
       "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
     },
     {
       "added_at": null,
@@ -727,42 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello B*tch",
-        "url": "https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 139003,
-      "name": "Hello B*tch",
-      "url": "https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -787,6 +751,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello B*tch",
+        "url": "https://open.spotify.com/album/5bWWgmLIujZiZrJUzxbhFn"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 139003,
+      "name": "Hello B*tch",
+      "url": "https://open.spotify.com/track/1hzAauRjVOW3QJlCUTP3X4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bops Goin Brazy",
         "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 128367,
       "name": "Bops Goin Brazy",
       "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 195991,
       "name": "Dip (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Blessed (with Tyga)",
+      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,

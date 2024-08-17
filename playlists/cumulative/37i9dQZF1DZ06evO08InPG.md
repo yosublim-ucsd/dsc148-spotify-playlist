@@ -2,7 +2,7 @@
 
 ### [This Is Machine Head](https://open.spotify.com/playlist/37i9dQZF1DZ06evO08InPG)
 
-> This is Machine Head\. Todos os maiores hits em uma só playlist.
+> This Is Machine Head\. Les titres incontournables, réunis dans une seule et même playlist.
 
 87 songs - 7 hr 39 min
 

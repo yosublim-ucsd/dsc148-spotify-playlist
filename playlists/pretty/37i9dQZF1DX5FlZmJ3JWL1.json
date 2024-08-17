@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 768042,
+  "num_followers": 768093,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -179,26 +179,6 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        }
-      ],
-      "duration_ms": 157444,
-      "name": "Move Your Body",
-      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 120522,
       "name": "Would You (go to bed with me?)",
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -787,22 +787,18 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
+        "name": "ABC",
+        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Jordan Rys",
-          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 143117,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
+      "duration_ms": 159562,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
     },
     {
       "added_at": "2024-07-04 10:39:17",
@@ -827,18 +823,22 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
-        "name": "ABC",
-        "url": "https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
       },
       "artists": [
         {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Jordan Rys",
+          "url": "https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI"
         }
       ],
-      "duration_ms": 159562,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k"
+      "duration_ms": 143117,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
     },
     {
       "added_at": "2024-07-04 10:39:17",

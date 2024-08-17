@@ -2,7 +2,7 @@
 
 ### [This Is EST Gee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JD1f2)
 
-> This is: EST Gee\. Alle wichtigen Tracks in einer Playlist.
+> This is EST Gee\. The essential tracks, all in one playlist.
 
 109 songs - 4 hr 57 min
 

@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
 
-103 songs - 4 hr 51 min
+104 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dr\. Feelgood](https://open.spotify.com/track/1mrwGzom3ttIcxkZztbq4U) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(2021 \- Remaster\)](https://open.spotify.com/album/1pRY36LiSRq5oBwdrLKrF2) | 4:49 | 2024-04-01 | 2024-07-03 |
 | [Dr\. Feelgood \(2021\- Remaster\)](https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(40th Anniversary;2021 \- Remaster\)](https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6) | 4:49 | 2024-01-05 | 2024-04-19 |
 | [Duke Skywalker](https://open.spotify.com/track/62ben8Jf3UG7I0dWJyQ7FA) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [White Men Can't Jump \(Original Soundtrack\)](https://open.spotify.com/album/3TulH3ox1JlMw2V7fcuv9r) | 1:17 | 2024-01-05 |  |
+| [Duty Endures](https://open.spotify.com/track/6vnLuvqARrcKspbXFcHvsb) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Vol\. 2\) \- Original Soundtrack](https://open.spotify.com/album/0PwtZGtmu3TfkuUkWxs8PZ) | 1:31 | 2024-08-16 |  |
 | [Echo](https://open.spotify.com/track/2W1819JHLnNhB4paubiPWK) | [Dave Porter](https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5), [Brenner Billy](https://open.spotify.com/artist/39s2fv1CDe6pxNT3Kne2pj), [Bryon "Mahli" Billy](https://open.spotify.com/artist/4JHxRNU2YIhFMK6PpzbHso), [Philip L\. Billy](https://open.spotify.com/artist/1muYBPXPmzBlQIcSoize2D), [Lisa Johnson\-Billy](https://open.spotify.com/artist/4WFBUcHNMlLx2EqYsaFbMn), [Alisha Williams](https://open.spotify.com/artist/6w6aLgf6yZPXXaZ4ZSb63T), [Seth Fairchild](https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik) | [Echo \(Original Soundtrack\)](https://open.spotify.com/album/2QA8kRrS8knS0JNX8PMbbV) | 2:13 | 2024-01-05 | 2024-04-19 |
 | [Echo \- From "Echo"](https://open.spotify.com/track/7MNFjEqc7G4kjskQSz7Bxn) | [Dave Porter](https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5), [Brenner Billy](https://open.spotify.com/artist/39s2fv1CDe6pxNT3Kne2pj), [Bryon "Mahli" Billy](https://open.spotify.com/artist/4JHxRNU2YIhFMK6PpzbHso), [Philip L\. Billy](https://open.spotify.com/artist/1muYBPXPmzBlQIcSoize2D), [Lisa Johnson\-Billy](https://open.spotify.com/artist/4WFBUcHNMlLx2EqYsaFbMn), [Alisha Williams](https://open.spotify.com/artist/6w6aLgf6yZPXXaZ4ZSb63T), [Seth Fairchild](https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik) | [Echo \(From "Echo"\)](https://open.spotify.com/album/1Fp8O0KHxXodPjvIAdUiCY) | 2:12 | 2024-04-01 | 2024-07-03 |
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2024-01-05 | 2024-07-03 |

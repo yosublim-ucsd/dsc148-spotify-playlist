@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's Bluegrass and old time favorites. Cover: Tony Trischka",
+  "description": "Today's Bluegrass and old time favorites. Cover: Dan Tyminski",
   "name": "Grass Roots",
   "tracks": [
     {
@@ -718,6 +718,24 @@
       "duration_ms": 143453,
       "name": "Banjo Guzheng Pickin' Girls (\u5929\u6daf\u6d77\u89d2\u8d70\u4e00\u904d)",
       "url": "https://open.spotify.com/track/64RnsxwHjAHHJQ1Dzm1de5"
+    },
+    {
+      "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "album": {
@@ -7626,7 +7644,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 239082,
       "name": "One Sunray At A Time",
       "url": "https://open.spotify.com/track/0IgtgB0NRDvceJCoNpJPg1"

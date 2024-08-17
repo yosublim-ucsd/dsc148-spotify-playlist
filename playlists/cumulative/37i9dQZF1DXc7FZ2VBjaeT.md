@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-134 songs - 8 hr 21 min
+135 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Diamond Heart](https://open.spotify.com/track/2dCcDpm6O6ocomusl5ao6p) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/4JiY4JUvXdEA7UFIbiAyor) | 3:30 | 2020-10-16\* | 2022-07-29 |
 | [Diamond Heart](https://open.spotify.com/track/45CPhDilfgK14IE7LbNvPh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:30 | 2022-05-09 | 2024-04-07 |
 | [Diamond Heart](https://open.spotify.com/track/5XtD05pQ1m23DcBIKdwdnP) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Best of Pop Rock](https://open.spotify.com/album/1yGSn27sbvhbVkanaszYFs) | 3:30 | 2022-05-09 | 2022-11-13 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
 | [Do I Love You](https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:48 | 2021-10-02 | 2021-10-16 |
 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 | 2024-04-06 |  |
 | [Dream Dancing](https://open.spotify.com/track/7kjzAKTVd9umvnChTkzTNd) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:16 | 2021-10-02 | 2021-10-16 |
@@ -61,7 +62,7 @@
 | [Hey Girl](https://open.spotify.com/track/554PnB96IltLzVlbinBstw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 4:15 | 2024-04-06 |  |
 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 | 2022-05-09 |  |
 | [I Concentrate On You](https://open.spotify.com/track/1Z2el1XLsdJwt6Kefb2F5p) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:56 | 2021-10-02 | 2021-10-16 |
-| [I Don't Know What Love Is](https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 2:57 | 2020-10-16\* |  |
+| [I Don't Know What Love Is](https://open.spotify.com/track/1EWKuMkjiVrHRoqAquXVfL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 2:57 | 2020-10-16\* | 2024-08-17 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [I Get A Kick Out Of You](https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab) | 3:33 | 2021-08-05 | 2022-07-29 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 3:33 | 2022-05-09 | 2024-04-07 |
 | [I Get A Kick Out Of You](https://open.spotify.com/track/7vFyHHpHhtdrygb7ULHVUU) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Award Winning Hits 2022](https://open.spotify.com/album/2oF6fEtW5G1rJh4TusCJAE) | 3:33 | 2022-05-09 | 2022-11-13 |

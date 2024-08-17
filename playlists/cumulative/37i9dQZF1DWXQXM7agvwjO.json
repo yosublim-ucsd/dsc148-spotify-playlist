@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Three Marloes",
+  "description": "Hottest indie sounds & the best new tracks from Asia. cover: Wellsaid (Hong Kong)",
   "name": ".ORG",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 187354,
       "name": "5949mi",
       "url": "https://open.spotify.com/track/3rgDed1aygTvUKwvWETfZq"
+    },
+    {
+      "album": {
+        "name": "62 mi (outer space)",
+        "url": "https://open.spotify.com/album/5TtpXg7P59VFo2MuO9dwYS"
+      },
+      "artists": [
+        {
+          "name": "Delorians",
+          "url": "https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "62 mi (outer space)",
+      "url": "https://open.spotify.com/track/2XhHKrXnBovVAjnujwDBCu"
     },
     {
       "album": {
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 233222,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/76HyU4x0lvucRXTXeCca0I"
@@ -3667,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX"
+      },
+      "artists": [
+        {
+          "name": "ikkubaru",
+          "url": "https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Catch The Love",
+      "url": "https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn"
+    },
+    {
+      "album": {
         "name": "Chalawan Sound",
         "url": "https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go"
       },
@@ -4750,6 +4786,28 @@
       "duration_ms": 216124,
       "name": "Cue Sign",
       "url": "https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf"
+    },
+    {
+      "album": {
+        "name": "Cul-de-sac",
+        "url": "https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ"
+      },
+      "artists": [
+        {
+          "name": "Seaside",
+          "url": "https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw"
+        },
+        {
+          "name": "Henry Foundation",
+          "url": "https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Cul-de-sac",
+      "url": "https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw"
     },
     {
       "album": {
@@ -7115,6 +7173,24 @@
     },
     {
       "album": {
+        "name": "Feet on the Table",
+        "url": "https://open.spotify.com/album/3wVEHkxNXVvsbhsMzpQfF1"
+      },
+      "artists": [
+        {
+          "name": "Alann8h",
+          "url": "https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Feet on the Table",
+      "url": "https://open.spotify.com/track/0UBeQX3hNYyZzHNCrZqblg"
+    },
+    {
+      "album": {
         "name": "Supercycle",
         "url": "https://open.spotify.com/album/18HjB1RGevPDCwBmbSADx2"
       },
@@ -8617,6 +8693,24 @@
     },
     {
       "album": {
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
+    },
+    {
+      "album": {
         "name": "Happy Prince",
         "url": "https://open.spotify.com/album/37ragGvhMrZgxxyOe9wlKo"
       },
@@ -9168,7 +9262,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244102,
       "name": "Hoa H\u1ed3ng",
       "url": "https://open.spotify.com/track/2RyBIXrFX6OYRprEKYwdN5"
@@ -9566,7 +9660,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 264362,
       "name": "How Could You Still Love Me",
       "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
@@ -10714,7 +10808,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
@@ -10766,6 +10860,24 @@
       "duration_ms": 151637,
       "name": "If You Leave Me Alone",
       "url": "https://open.spotify.com/track/4BJV20iCiOS0GAETnb94HI"
+    },
+    {
+      "album": {
+        "name": "Imaginary Road Trip",
+        "url": "https://open.spotify.com/album/6XN09QYvUZZE6uqfuy4vAS"
+      },
+      "artists": [
+        {
+          "name": "Wellsaid",
+          "url": "https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Imaginary Road Trip",
+      "url": "https://open.spotify.com/track/01p8rktC9ZGUvYgzziqq1c"
     },
     {
       "album": {
@@ -12631,6 +12743,24 @@
     },
     {
       "album": {
+        "name": "Lionel",
+        "url": "https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kind",
+          "url": "https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211863,
+      "name": "Lionel",
+      "url": "https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi"
+    },
+    {
+      "album": {
         "name": "Little Balcony",
         "url": "https://open.spotify.com/album/75zUQz0Ak8fUlhreq72tor"
       },
@@ -13278,6 +13408,24 @@
       "duration_ms": 263654,
       "name": "Madoromi",
       "url": "https://open.spotify.com/track/7H8fkWbpfyggT5xpWAIr0d"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/653aKK0vOZIlyWmq8B0RSd"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200865,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1urNcISPElPL9gIcYd1VNu"
     },
     {
       "album": {
@@ -14552,7 +14700,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 269048,
       "name": "Museum of My Mess",
       "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
@@ -15959,6 +16107,28 @@
     },
     {
       "album": {
+        "name": "SWELTERING NIGHT",
+        "url": "https://open.spotify.com/album/1qGbg0sy8jpO9FndhNZiGK"
+      },
+      "artists": [
+        {
+          "name": "CHS",
+          "url": "https://open.spotify.com/artist/3cCaTUacr5zO6U6NK4zafd"
+        },
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365751,
+      "name": "One Summer Day (feat. mei ehara)",
+      "url": "https://open.spotify.com/track/75NDt6YwStctgaU5yotXAx"
+    },
+    {
+      "album": {
         "name": "One True Thing",
         "url": "https://open.spotify.com/album/2BP7DTTHDQNbvo4tUUFo0E"
       },
@@ -16574,7 +16744,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 244615,
       "name": "Pentas Sandiwara",
       "url": "https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt"
@@ -22049,6 +22219,24 @@
     },
     {
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5F4nx93yqmXlEhBMdxBJ2g"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190777,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/6O0OJF1r7cUKLeKCwdW4tS"
+    },
+    {
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
       },
@@ -22810,7 +22998,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232333,
       "name": "uphill climb",
       "url": "https://open.spotify.com/track/23J1clqlbex31Vz2XzFzfP"
@@ -26142,7 +26330,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 232232,
       "name": "\u30cf\u30ca\u30ce\u30e8\u30a6",
       "url": "https://open.spotify.com/track/5WwC895TwQsdgxiH9qkuq5"
@@ -26366,7 +26554,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 326388,
       "name": "\u5187\u6709\u5f62\u72c0 - \u58de\u6578\u5b78 VERSION",
       "url": "https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI"
@@ -27394,7 +27582,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202325,
       "name": "\u8e05\u795e\u5922",
       "url": "https://open.spotify.com/track/5gI6vgJNsI4pbQdwW8qh69"

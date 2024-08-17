@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
+    },
+    {
+      "album": {
         "name": "Crazy Vibez",
         "url": "https://open.spotify.com/album/5x20kr3HFbo8n8OT4LULjI"
       },
@@ -1034,7 +1056,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 484264,
       "name": "Do It For Your Self",
       "url": "https://open.spotify.com/track/3V0nBbIRWZrajEw2M9sUxq"
@@ -1975,6 +1997,32 @@
     },
     {
       "album": {
+        "name": "Into Space",
+        "url": "https://open.spotify.com/album/5oh7lwjEsuoMs6QRlMNCoI"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Thabza De Soul",
+          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
+        },
+        {
+          "name": "Anne Noor",
+          "url": "https://open.spotify.com/artist/6V2aXvr8dsRc60wVG9cdU8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290098,
+      "name": "Into Space",
+      "url": "https://open.spotify.com/track/3PErG1gG7fXLCzf5Jb7kVk"
+    },
+    {
+      "album": {
         "name": "IQHAWE",
         "url": "https://open.spotify.com/album/4FxgWaDxIrMGItb5cc5ur4"
       },
@@ -2578,6 +2626,32 @@
       "duration_ms": 449491,
       "name": "Mama (Da Capo's Touch)",
       "url": "https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw"
+    },
+    {
+      "album": {
+        "name": "Manuwe",
+        "url": "https://open.spotify.com/album/0zXDrtn1h40y47F5fF65L8"
+      },
+      "artists": [
+        {
+          "name": "Afriindi",
+          "url": "https://open.spotify.com/artist/6j7mWAsDiZmbhmOYqHGMYb"
+        },
+        {
+          "name": "Jayden Alva",
+          "url": "https://open.spotify.com/artist/3LibPAKhzp3GAFK0HfuvAD"
+        },
+        {
+          "name": "Soul Star",
+          "url": "https://open.spotify.com/artist/3hOsGdLoINDweQrMm2tjZy"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302124,
+      "name": "Manuwe",
+      "url": "https://open.spotify.com/track/4FP5sFOVt6J0V3Oc0eu7U0"
     },
     {
       "album": {
@@ -4428,7 +4502,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 401000,
       "name": "The Sign - Original Mix",
       "url": "https://open.spotify.com/track/3fgbYKAsTutcBLh8JTAuNW"
@@ -4614,7 +4688,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167804,
       "name": "Tribe of Eurafric (Never Go)",
       "url": "https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7"
@@ -4750,7 +4824,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 352041,
       "name": "Umuthi (The Cure)",
       "url": "https://open.spotify.com/track/7CSBTqNRFaRo09Gwz6fkro"
@@ -4992,7 +5066,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 404067,
       "name": "Visions Of Love - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/3bXwyFgXfvKqqX7QLbocCt"
@@ -5128,7 +5202,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 157360,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/0osksFbz98MXqscHdrNiff"

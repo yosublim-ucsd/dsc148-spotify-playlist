@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-426 songs - 18 hr 39 min
+427 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Infinity clouds](https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Infinity clouds](https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g) | 2:30 | 2022-12-21 |  |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2021-12-14 | 2022-02-17 |
 | [Into the Dark](https://open.spotify.com/track/1AIlPogcpB2XdSk9DdtPnn) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Into the Dark](https://open.spotify.com/album/3UMEUeoWsQn6DYTDIRCTSj) | 3:28 | 2023-02-28 | 2023-11-16 |
+| [Into the Unknown](https://open.spotify.com/track/2Yvs2TLzIogzXMX8LBAMJd) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Into the Unknown](https://open.spotify.com/album/5foR1PGhkVlOnY2fVjicRP) | 2:15 | 2024-08-16 |  |
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2021-12-14 | 2023-11-08 |
 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 | 2024-04-15 |  |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2021-12-14 | 2023-11-16 |

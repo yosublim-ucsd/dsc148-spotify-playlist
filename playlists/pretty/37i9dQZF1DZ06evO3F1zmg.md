@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,580 likes - 52 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,592 likes - 52 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 18 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 19 | [Hey, Mickey!](https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Hey, Mickey!](https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0) | 2:53 |
 | 20 | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tap In \(feat\. Post Malone, DaBaby & Jack Harlow\)](https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft) | 4:13 |
-| 21 | [Fast \(Motion\)](https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast \(Motion\)](https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB) | 2:50 |
-| 22 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/album/0N13HBBuSoxEauKqk90tqe) | 3:39 |
+| 21 | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/track/7HRelVQHFYUIalNf6jDxqh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Proclivities \(feat\. Saweetie\)](https://open.spotify.com/album/0N13HBBuSoxEauKqk90tqe) | 3:39 |
+| 22 | [Fast \(Motion\)](https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast \(Motion\)](https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB) | 2:50 |
 | 23 | [Swan Song](https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:47 |
 | 24 | [Back Seat](https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 3:03 |
 | 25 | [Handstand \(with Doja Cat feat\. Saweetie\)](https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:50 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 51 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/3Ge1KFkRXKJgPz3keyQWaw) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over](https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd) | 3:07 |
 | 52 | [Only Live Once \(feat\. Saweetie\)](https://open.spotify.com/track/1z1VdvqDHeuqklquYp43k3) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [What Was Said?](https://open.spotify.com/album/4Kd6xvRUGl0F4frNpyu7Ve) | 2:01 |
 
-Snapshot ID: `ZrvzgAAAAAAOpOJXpNjNJL06ucU12qrt`
+Snapshot ID: `Zr1FAAAAAAAzrRPIUvmCbNUwtVHzTCBQ`

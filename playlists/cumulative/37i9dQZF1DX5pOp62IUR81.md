@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-185 songs - 7 hr 54 min
+187 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Strange Awakens](https://open.spotify.com/track/2YGTCT7Efw9CNvJTEtc6r0) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Doctor Strange in the Multiverse of Madness \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QDzfMs8x9fkS8vYOKnhfM) | 0:42 | 2024-01-05 |  |
 | [Sugar Cookies](https://open.spotify.com/track/0ig0QTeIhfSw6eWvoXb2cX) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If..\. Happy Hogan Saved Christmas? \(Season 2/Episode 3\) \[Original Soundtrack\]](https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293) | 1:20 | 2024-05-22 |  |
 | [Summon the Suit](https://open.spotify.com/track/2gniwO6ylK0s2tRZ8gNbMT) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [Moon Knight \(Original Soundtrack\)](https://open.spotify.com/album/3z9OjeKSTG1OtElUq3OGv8) | 2:16 | 2024-01-05 |  |
+| [Swing \(Lofi Version\)](https://open.spotify.com/track/4hCwxMk9WLaXmH4se0KWCL) | [Pendrick](https://open.spotify.com/artist/12WlLXqXCFZ2VTy96t7UtF) | [Marvel's Spider\-Man 2: Lofi](https://open.spotify.com/album/57zKQ5DLqVI7PiEaqUsKFU) | 2:51 | 2024-08-16 |  |
 | [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 | 2024-01-05 |  |
 | [T'Challa](https://open.spotify.com/track/5AnZGhVpAit04ocwEbzy04) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 1:25 | 2024-01-05 |  |
 | [The Absolute Point](https://open.spotify.com/track/6Ekz4owNWxKT0aBjopbJlM) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 4\) \[Original Soundtrack\]](https://open.spotify.com/album/61zBoHQeZ0swPHAQZZvxDS) | 2:12 | 2024-01-05 |  |
@@ -153,6 +154,7 @@
 | [The Bamboo Spring](https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 3:18 | 2024-01-05 |  |
 | [The Convergence \(Main Theme\)](https://open.spotify.com/track/06oxloNrchPg8GOovW6k1V) | [Moonju Lee](https://open.spotify.com/artist/0vepBUJFXH3lLEUO8bdbbS), [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 1:43 | 2024-01-05 |  |
 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 | 2024-01-05 |  |
+| [The Hero of the Multiverse](https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...? \- An Immersive Story \- Original Soundtrack](https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8) | 1:23 | 2024-08-16 |  |
 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 | 2024-01-05 |  |
 | [The Mind Stone](https://open.spotify.com/track/5QWpMTowF8po4JgIpJxOKV) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [WandaVision: Episode 8 \(Original Soundtrack\)](https://open.spotify.com/album/5n0jcupsCMSOjt8K7vq555) | 2:29 | 2024-01-05 |  |
 | [The Punisher Main Title](https://open.spotify.com/track/0rSJtqCSAkhKORRpJlk7pL) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [The Punisher \(Original Soundtrack\)](https://open.spotify.com/album/4z7w3IoSFgysP7iNpDgUqu) | 1:15 | 2024-01-05 |  |

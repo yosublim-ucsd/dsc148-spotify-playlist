@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: حماقي
 
-1,106 songs - 2 day 14 hr 3 min
+1,107 songs - 2 day 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -827,7 +827,7 @@
 | [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 | 2023-05-23 |
 | [انا بكيت](https://open.spotify.com/track/53aBCmnMQpIbWrDo3b9VXI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [عندي كلام](https://open.spotify.com/album/1ftMwFolOx5hURYoTxu7Vu) | 4:20 | 2023-01-27 | 2023-03-08 |
 | [انا بلا فخر](https://open.spotify.com/track/0p1K8ARs8n2fli5c7aOimZ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [انا بلا فخر](https://open.spotify.com/album/7Ei9Ec11ZWpG1AaJbYqMJb) | 2:32 | 2024-02-20 | 2024-05-08 |
-| [انا دادي](https://open.spotify.com/track/59JmAKiTL8gw49ET5ajmCJ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [انا دادي](https://open.spotify.com/album/0qDoHFIibnGVOT5bbfrhqS) | 1:37 | 2024-08-08 |  |
+| [انا دادي](https://open.spotify.com/track/59JmAKiTL8gw49ET5ajmCJ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [انا دادي](https://open.spotify.com/album/0qDoHFIibnGVOT5bbfrhqS) | 1:37 | 2024-08-08 | 2024-08-17 |
 | [انا لسة بفتكرك](https://open.spotify.com/track/4qFrbwNcpoWyhh8sNlFtrU) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [انا لسة بفتكرك](https://open.spotify.com/album/2jmuhAKSdnc6zPC3zcEXpT) | 3:08 | 2023-12-14 | 2024-01-24 |
 | [انا مش بديل](https://open.spotify.com/track/0GQ6yRwhiGHq2CPTUuladQ) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [انا مش بديل](https://open.spotify.com/album/4ZPYA3NZgnqyzfWcHrfOUv) | 3:47 | 2024-05-30 | 2024-07-03 |
 | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/track/3ZdlAcmMvt3R4a6wIk2Aik) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [انا مش ضعيفة \(فاتن امل حربي\)](https://open.spotify.com/album/7v2P77Gc48qMDAyF5Mx9Xu) | 4:00 | 2022-04-07 | 2022-07-15 |
@@ -856,6 +856,7 @@
 | [بره المقاييس](https://open.spotify.com/track/0J6wnJRwAvxO23m3mczYU7) | [Mohamed Rahim](https://open.spotify.com/artist/2PlOBU4hLGbVxIGOtDOeEi) | [بره المقاييس](https://open.spotify.com/album/7tmwsV5DxlO0tn3nGVGBjR) | 4:40 | 2023-08-28 | 2023-12-15 |
 | [برود ببرود](https://open.spotify.com/track/74slcsn6CwqPaHLEPb6g6R) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [برود ببرود](https://open.spotify.com/album/2NpIPlPZGiQV6t6uf6bSgv) | 3:47 | 2024-07-16 | 2024-08-16 |
 | [بستغرب](https://open.spotify.com/track/5wGoS3qpazTNnRJBW6f2Gm) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [فولي بحبك](https://open.spotify.com/album/6fLSxoXaRADW2u60QptVNP) | 3:20 | 2024-07-25 |  |
+| [بعتتلي رسالة](https://open.spotify.com/track/2V0xkQoErjFjHuz4yBX9us) | [Khaled Mounib](https://open.spotify.com/artist/6OQ8SI8h90JGWuk3c1qZVs) | [Baatetli Resala](https://open.spotify.com/album/5cSegpi6Jw6PTHFBIgSFXq) | 4:05 | 2024-08-16 |  |
 | [بعد الفراق](https://open.spotify.com/track/5EhzRYCsi33GWkiEWKfVUB) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بعد الفراق](https://open.spotify.com/album/48cCganqz8LB7yT5OYq9e7) | 3:46 | 2022-12-01 | 2023-02-03 |
 | [بعده فارق](https://open.spotify.com/track/1c58kQ7ncA2yMYlU6uSgjW) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بعده فارق](https://open.spotify.com/album/11pIRK3KwFhwP5e4muhxMi) | 4:13 | 2024-01-19 | 2024-02-02 |
 | [بقول واكدب](https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقول واكدب](https://open.spotify.com/album/2Gc1wvyvsKOrJQm91zGF92) | 4:40 | 2024-04-18 | 2024-06-27 |

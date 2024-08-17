@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,598,705 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,598,851 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 42 | [Shaun White](https://open.spotify.com/track/7bcuO1wFvhjYErw3YHgJjI) | [cr1tter](https://open.spotify.com/artist/0A5sCOcNtMRg1oaU7XpsPR) | [UnderDog Tale](https://open.spotify.com/album/5SL27P9vVdAYEniywJVRzE) | 2:54 |
 | 43 | [an ode to what could be](https://open.spotify.com/track/6240BN4Mg4ZEmqtDH6SJAD) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [an ode to what could be](https://open.spotify.com/album/7bV3VuSIZuMd7ZeYc3thmI) | 4:40 |
 | 44 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 |
-| 45 | [Sorry](https://open.spotify.com/track/3RwPhgCYVi3qXQieYvO2V6) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Sorry](https://open.spotify.com/album/7iELbh8MEDcTvv7ukeQxFh) | 2:44 |
+| 45 | [Sorry](https://open.spotify.com/track/3RwPhgCYVi3qXQieYvO2V6) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [DUSTY](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Sorry](https://open.spotify.com/album/7iELbh8MEDcTvv7ukeQxFh) | 2:44 |
 | 46 | [I Miss The Days](https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:29 |
 | 47 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 48 | [Hiding in the Dark](https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Hiding in the Dark](https://open.spotify.com/album/0hMJhcenN0EFZvD4qxdyZN) | 3:04 |

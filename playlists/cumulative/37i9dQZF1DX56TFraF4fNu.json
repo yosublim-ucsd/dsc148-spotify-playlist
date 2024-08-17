@@ -936,7 +936,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160434,
       "name": "Chimba De D\u00eda",
       "url": "https://open.spotify.com/track/0BAw066Ofh17UrdxHtsG2K"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 165824,
       "name": "Dos De Az\u00facar",
       "url": "https://open.spotify.com/track/2Bpt714kWW4u98LuZVt6ir"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 175498,
       "name": "FRASES",
       "url": "https://open.spotify.com/track/3LBgixXJaCw86aYbbMgVcO"
@@ -3033,6 +3033,28 @@
     },
     {
       "album": {
+        "name": "Passoa",
+        "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309280,
+      "name": "Passoa",
+      "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
+    },
+    {
+      "album": {
         "name": "GURUNDANGA",
         "url": "https://open.spotify.com/album/6w2Fmjyrv5Vhs6ll216FQA"
       },
@@ -3847,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
       },
@@ -4005,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "X1 BESITO",
+        "url": "https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "X1 BESITO",
+      "url": "https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o"
+    },
+    {
+      "album": {
         "name": "XQ TAN DIFERENTE (\u2260)",
         "url": "https://open.spotify.com/album/4cotdPZq0krUEWJmljpnGN"
       },
@@ -4064,7 +4122,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
@@ -4112,6 +4170,24 @@
       "duration_ms": 188688,
       "name": "Zaza (Chimbita)",
       "url": "https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ya no me pregunten por mi ex!",
+        "url": "https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130838,
+      "name": "\u00a1Ya no me pregunten por mi ex!",
+      "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX56TFraF4fNu"

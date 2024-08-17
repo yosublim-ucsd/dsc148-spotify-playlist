@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+        "url": "https://open.spotify.com/album/0PfgMekJLkMMNacqYMSMF3"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233647,
+      "name": "LOVE REVOLUTION (Original Webcomic Soundtrack) - Fairytale",
+      "url": "https://open.spotify.com/track/3YIJ3pgIDtt3LPjkmBCuc4"
+    },
+    {
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 269800,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/7wGyK1pItt5T0a3p3mZOOl"

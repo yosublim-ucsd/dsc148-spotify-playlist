@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 166299,
       "name": "44444",
       "url": "https://open.spotify.com/track/1202P3kL4ZNpQvYb8qhHby"
@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 149787,
       "name": "CORRA",
       "url": "https://open.spotify.com/track/0aQgt7Fkn35MWSEdhil9Zs"
@@ -2324,6 +2324,32 @@
       "duration_ms": 178956,
       "name": "Dedo No Gatilho",
       "url": "https://open.spotify.com/track/0njafdCdWWgPFzOjv2leO6"
+    },
+    {
+      "album": {
+        "name": "Deixa Pensar",
+        "url": "https://open.spotify.com/album/1E9mRUyhBJeHRV0cnVJYUh"
+      },
+      "artists": [
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "San Joe",
+          "url": "https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX"
+        },
+        {
+          "name": "Nezq",
+          "url": "https://open.spotify.com/artist/2cF1Y44kCR45YFK7bmXQ3D"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135857,
+      "name": "Deixa Pensar",
+      "url": "https://open.spotify.com/track/6jwve5VyehWjt7OrCvcv2X"
     },
     {
       "album": {
@@ -5976,6 +6002,24 @@
       "duration_ms": 187972,
       "name": "Pop Smoke Freestyle",
       "url": "https://open.spotify.com/track/4NdVfpzsIl80ydtWuvveNh"
+    },
+    {
+      "album": {
+        "name": "Por Amor E Por Lucro",
+        "url": "https://open.spotify.com/album/4YTGPhBPXsEe76Z0JWhKtQ"
+      },
+      "artists": [
+        {
+          "name": "Ororo ii",
+          "url": "https://open.spotify.com/artist/1vKsthVBmGCSW6MggvoMp1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139857,
+      "name": "Por Amor E Por Lucro",
+      "url": "https://open.spotify.com/track/7c5iSSkheCSPiHSfDcyG69"
     },
     {
       "album": {

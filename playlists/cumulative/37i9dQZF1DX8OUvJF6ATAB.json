@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Whispering Ln",
+        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+      },
+      "artists": [
+        {
+          "name": "Volodja Brodsky",
+          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548178,
+      "name": "Mirror of Memories",
+      "url": "https://open.spotify.com/track/0RHxI2zH3IIprnjJN5hhTf"
+    },
+    {
+      "album": {
         "name": "Los D\u00edas Ser\u00e1n M\u00e1s Cortos",
         "url": "https://open.spotify.com/album/4TgXIydTP8MIuVVdQOnvUA"
       },
@@ -4568,7 +4586,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 183063,
       "name": "Silia",
       "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"

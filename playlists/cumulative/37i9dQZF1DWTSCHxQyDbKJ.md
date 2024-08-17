@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: Cassyette
 
-119 songs - 6 hr 13 min
+120 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2024-06-10 |  |
 | [Close To You](https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [I AM JORDAN](https://open.spotify.com/album/5FpECE3Ow4HGUEhnGN58yU) | 5:41 | 2024-06-10 | 2024-07-09 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-10 |  |
+| [Crumbling](https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M) | [Catlea](https://open.spotify.com/artist/3MKB5HGt7ZcprzEZt4BxMV) | [Crumbling](https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o) | 3:20 | 2024-08-12 |  |
 | [Crush Me Up](https://open.spotify.com/track/6YFEYclecVFUsvZ4dKoqjh) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Crush Me Up](https://open.spotify.com/album/4iwkw4bGIapRyVEc0WzwBm) | 2:30 | 2024-06-10 |  |
 | [cyber meat](https://open.spotify.com/track/1TebdBxUoNUicUQZesNuEM) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [softscars](https://open.spotify.com/album/7t01lwQRDjtEvwiAm88ACH) | 3:06 | 2024-06-10 |  |
 | [Dancing star](https://open.spotify.com/track/1ubYusrYTfwfw7sZnUcwAn) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Dancing star](https://open.spotify.com/album/1LKkLN3lZykJ53kc4skG21) | 3:01 | 2024-06-10 |  |
@@ -39,7 +40,7 @@
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2024-06-10 |  |
 | [Empire](https://open.spotify.com/track/3hHlgSx6ezhonHwGyFcH3S) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Empire](https://open.spotify.com/album/5oS0HZVqZCNhoTV3yxNfpU) | 3:05 | 2024-06-10 | 2024-08-13 |
 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2024-06-10 |  |
-| [Everything Changes \- Beer Fear Pt\. II](https://open.spotify.com/track/1qfutYpctnBXn8ydrVYkcf) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/1U7IKNUfUq3YRL4HgSI0KG) | 2:58 | 2024-06-10 |  |
+| [Everything Changes \- Beer Fear Pt\. II](https://open.spotify.com/track/1qfutYpctnBXn8ydrVYkcf) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Balance](https://open.spotify.com/album/1U7IKNUfUq3YRL4HgSI0KG) | 2:58 | 2024-06-10 | 2024-08-17 |
 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 | 2024-08-12 |  |
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2024-06-10 |  |
 | [Falling Deep](https://open.spotify.com/track/55u8ATvEGWOBIb4vY81OgP) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Falling Deep](https://open.spotify.com/album/7kMyLSuFjj6zudrTaYRfG2) | 3:08 | 2024-06-10 |  |

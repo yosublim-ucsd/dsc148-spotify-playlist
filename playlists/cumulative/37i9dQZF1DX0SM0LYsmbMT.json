@@ -9866,7 +9866,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 105542,
       "name": "Brightly",
       "url": "https://open.spotify.com/track/3yxSrw45IzjWwz70XqUV8j"
@@ -52142,6 +52142,28 @@
       "duration_ms": 138892,
       "name": "Oh World",
       "url": "https://open.spotify.com/track/3LeGhGrdlZ5m3S5gnFfYkr"
+    },
+    {
+      "album": {
+        "name": "Ohkay",
+        "url": "https://open.spotify.com/album/4FhSsDTy5dvCXxzb5mhGKz"
+      },
+      "artists": [
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        },
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Ohkay",
+      "url": "https://open.spotify.com/track/25TVeAkwi7ZfGIHqGpyV9Y"
     },
     {
       "album": {

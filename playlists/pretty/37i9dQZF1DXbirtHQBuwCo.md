@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: SOLE\(쏠\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JAEHYUN\(재현\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,010,277 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,523 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 |
-| 2 | [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 |
+| 1 | [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 |
+| 2 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 |
 | 3 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 |
 | 4 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 |
 | 5 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 74 | [Birthday](https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [Birthday \- SM STATION : NCT LAB](https://open.spotify.com/album/6tcPTRUC3gwmG1iyWyzRzr) | 3:41 |
 | 75 | [What 2 Do](https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:44 |
 
-Snapshot ID: `Zr1v6AAAAAArVyz2tQn27QTEJj2UDeqI`
+Snapshot ID: `Zr703wAAAAAJdwQ8mR6Pu8J6qK32kMAu`

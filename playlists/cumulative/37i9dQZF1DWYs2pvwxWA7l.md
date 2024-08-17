@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover: Bnxn
 
-557 songs - 1 day 4 hr 35 min
+558 songs - 1 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-04-27 |
 | [MORE PRETTY GIRLS](https://open.spotify.com/track/5cXQQa5G0hyc6m5Mk1rM2i) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [MORE PRETTY GIRLS](https://open.spotify.com/album/4WwnvAPqTcwcBBd4kuMkx0) | 3:18 | 2024-06-14 |  |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-09-27 | 2022-05-06 |
-| [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-07-26 |  |
+| [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 | 2024-07-26 | 2024-08-17 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2024-02-23 |
 | [Moula](https://open.spotify.com/track/4S0kxDT70nEYBGqllI2d8Q) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Moula](https://open.spotify.com/album/2rqUvkHvMfuX8QOaU28qPj) | 2:23 | 2024-06-28 | 2024-07-05 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-10-18 |
@@ -405,6 +405,7 @@
 | [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 | 2023-08-10 | 2024-01-26 |
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2023-11-08 |  |
 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 | 2022-08-05 | 2022-09-02 |
+| [Perspective](https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Perspective](https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT) | 2:39 | 2024-08-16 |  |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-09-27 | 2022-05-20 |
 | [Peru](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(with 21 Savage & Blxst\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 | 2022-02-11 | 2022-02-25 |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-12-09 | 2022-03-25 |

@@ -1,47 +1,15 @@
 {
   "description": "Chill, take a long walk and clear your mind. ",
-  "num_followers": 9010,
+  "num_followers": 9020,
   "original_name": "Barefoot and Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrW1OQAAAADHkmOnm7FYqZlNinZm42Nf",
+  "snapshot_id": "Zr8FiQAAAACCPZCA07L0GMU1LZo1uLXo",
   "tracks": [
     {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Mellow Dramatic",
-        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 234582,
-      "name": "New Lamp",
-      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Phases",
-      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Heartbreak Song",
         "url": "https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa"
@@ -61,7 +29,7 @@
       "url": "https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Alusa Why Are You Topless?",
         "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
@@ -77,7 +45,7 @@
       "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "The Footprint",
         "url": "https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4"
@@ -93,7 +61,23 @@
       "url": "https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Bad Side",
+        "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "Bad Side",
+      "url": "https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Timestamp",
         "url": "https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ"
@@ -109,7 +93,59 @@
       "url": "https://open.spotify.com/track/63vI6WXyNAcT5k849dnJUC"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T"
+      },
+      "artists": [
+        {
+          "name": "Daveny",
+          "url": "https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3"
+        },
+        {
+          "name": "tugi ndichu",
+          "url": "https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7"
+        }
+      ],
+      "duration_ms": 252017,
+      "name": "Take Your Time",
+      "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Mellow Dramatic",
+        "url": "https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "duration_ms": 234582,
+      "name": "New Lamp",
+      "url": "https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Soul'd Duets",
         "url": "https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6"
@@ -133,47 +169,7 @@
       "url": "https://open.spotify.com/track/1q7H5GOKYhxtJi7qUWAi3I"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/2Eenldjdnm9OpQXSBSp19T"
-      },
-      "artists": [
-        {
-          "name": "Daveny",
-          "url": "https://open.spotify.com/artist/6Aw4KeEvY6cyNUz7IIyPe3"
-        },
-        {
-          "name": "tugi ndichu",
-          "url": "https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7"
-        }
-      ],
-      "duration_ms": 252017,
-      "name": "Take Your Time",
-      "url": "https://open.spotify.com/track/5FIFjUVWBIihte8cXpj11Z"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "LOVE / HATE Pt. 1",
-        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 144572,
-      "name": "Southwards",
-      "url": "https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Love Struck",
         "url": "https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw"
@@ -193,7 +189,7 @@
       "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "For Keeps - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3"
@@ -209,7 +205,7 @@
       "url": "https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Konke",
         "url": "https://open.spotify.com/album/443uREi4EtPJTxpKgGJVG4"
@@ -229,7 +225,7 @@
       "url": "https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Buy Me Love",
         "url": "https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H"
@@ -245,7 +241,7 @@
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Tawasifu Ya Moyo",
         "url": "https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Pete",
         "url": "https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx"
@@ -277,7 +273,23 @@
       "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "ReMind Me",
+        "url": "https://open.spotify.com/album/2IRaVGufv0PkpXGTOPhW8I"
+      },
+      "artists": [
+        {
+          "name": "Webi",
+          "url": "https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "ReMind Me",
+      "url": "https://open.spotify.com/track/0v3a2TWovCCiLJYHffRaEs"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i"
@@ -297,7 +309,27 @@
       "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "LOVE / HATE Pt. 1",
+        "url": "https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 144572,
+      "name": "Southwards",
+      "url": "https://open.spotify.com/track/0ufIj2swMeqQksU75dVSUJ"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Ndoa",
         "url": "https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR"
@@ -313,23 +345,7 @@
       "url": "https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "ReMind Me",
-        "url": "https://open.spotify.com/album/2IRaVGufv0PkpXGTOPhW8I"
-      },
-      "artists": [
-        {
-          "name": "Webi",
-          "url": "https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "ReMind Me",
-      "url": "https://open.spotify.com/track/0v3a2TWovCCiLJYHffRaEs"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Shorts -EP",
         "url": "https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/7zbQtW2Xb7NADsW6Yw6dIM"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "HOW FAR",
         "url": "https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "For Life",
         "url": "https://open.spotify.com/album/01LAdgvIXOkrBigv0pyDLF"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/6VbXGySuhLG1MTb7AkZast"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Sasa Hivi (Stripped Down)",
         "url": "https://open.spotify.com/album/21QfGfMQr8s4EAmZqdcXVg"
@@ -421,7 +437,7 @@
       "url": "https://open.spotify.com/track/1Qk7oSqD7oE61MfyxzGRQR"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Bald Men Love Better",
         "url": "https://open.spotify.com/album/0mh0omjloNFwYzudtlk8xZ"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Kitanda Baridi",
         "url": "https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/4LolcPDdgSroaKquGfCFqt"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "truth",
         "url": "https://open.spotify.com/album/3UKFqVZGA0X7bFBVM6bXy8"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/5DbTBskBpsHoO8MCaP3ubM"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/7pr7HuG2oWV4AhvM4SDbsW"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Tamu",
         "url": "https://open.spotify.com/album/4PDq2lzF6SAZL6ebC99mUg"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/4xu6oHkvaV57HvAP8Zdhf5"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Wuodh Hera",
         "url": "https://open.spotify.com/album/4n8DWVD48VkPBhcbZ4mU1U"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/5H3ej9j2jqgGEN6qIXTnEq"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Wild Ride - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "You Never Learn",
         "url": "https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Asali (Sweeter)",
         "url": "https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R"
@@ -597,7 +613,7 @@
       "url": "https://open.spotify.com/track/6OM5yjhSYR68YwS4fADK3O"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "The Journey Continues...",
         "url": "https://open.spotify.com/album/0oFTaTpg0kUPIbwi9xJPkl"
@@ -613,7 +629,7 @@
       "url": "https://open.spotify.com/track/5SaG30jdhIatQo1THOTFe7"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "SAVAGE LEVEL",
         "url": "https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/4mY9viBrQYRVOOINLmwI1I"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Save Me, Pt. 2",
         "url": "https://open.spotify.com/album/5x2Jk0WaGbKFjFB1HtAu8F"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/3ZxOiRrYY7h9BIE552XeOW"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Nipende",
         "url": "https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Bright Outside",
         "url": "https://open.spotify.com/album/66dHkOodHx6Bnm566qPrwx"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/1zUdoJf7QiUx9fvCDzz4Qq"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/5ZZ5etoKU2wQ6eb2U5j1uZ"
@@ -697,131 +713,7 @@
       "url": "https://open.spotify.com/track/67CQz7IH16hlEQf7AszkY8"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "YOU'LL NEVER LEAVE ME",
-        "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
-      },
-      "artists": [
-        {
-          "name": "Colossal Music",
-          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
-        },
-        {
-          "name": "MARISA AYUNTA",
-          "url": "https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "YOU'LL NEVER LEAVE ME",
-      "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Oceans",
-        "url": "https://open.spotify.com/album/2xhSN6qB5HsKwWUFLUhMyI"
-      },
-      "artists": [
-        {
-          "name": "Chemutai Sage",
-          "url": "https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx"
-        }
-      ],
-      "duration_ms": 195498,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/50eCGnJmjeJU1HfjmcdK2N"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "dawa",
-        "url": "https://open.spotify.com/album/567zkX4DjYyss366DTflSG"
-      },
-      "artists": [
-        {
-          "name": "Wanja Wohoro",
-          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
-        },
-        {
-          "name": "Junior Nyong'o",
-          "url": "https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW"
-        }
-      ],
-      "duration_ms": 158643,
-      "name": "dawa",
-      "url": "https://open.spotify.com/track/6DywLDHN945BpPggycAYYW"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Ambia",
-        "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
-      },
-      "artists": [
-        {
-          "name": "Billy Black",
-          "url": "https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU"
-        }
-      ],
-      "duration_ms": 136192,
-      "name": "Ambia",
-      "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Aibu",
-        "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
-      },
-      "artists": [
-        {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 137368,
-      "name": "Aibu",
-      "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Kitenge",
-        "url": "https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke"
-      },
-      "artists": [
-        {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
-        }
-      ],
-      "duration_ms": 223312,
-      "name": "Mae Wendi",
-      "url": "https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
-      "album": {
-        "name": "Njia Moja",
-        "url": "https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp"
-      },
-      "artists": [
-        {
-          "name": "Rafiiki",
-          "url": "https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Njia Moja",
-      "url": "https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL"
-    },
-    {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/1vF0nqkfedSTlQrXh0Feoa"
@@ -841,7 +733,115 @@
       "url": "https://open.spotify.com/track/0RDjgKJuFxZVUk93ov59o6"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "YOU'LL NEVER LEAVE ME",
+        "url": "https://open.spotify.com/album/6SC1WweelSTjiRFn8XPZX6"
+      },
+      "artists": [
+        {
+          "name": "Colossal Music",
+          "url": "https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520"
+        },
+        {
+          "name": "MARISA AYUNTA",
+          "url": "https://open.spotify.com/artist/2FnCb0QgCIyN2MFPjBYD92"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "YOU'LL NEVER LEAVE ME",
+      "url": "https://open.spotify.com/track/212foSbfdipO7619yXHkJx"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "dawa",
+        "url": "https://open.spotify.com/album/567zkX4DjYyss366DTflSG"
+      },
+      "artists": [
+        {
+          "name": "Wanja Wohoro",
+          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
+        },
+        {
+          "name": "Junior Nyong'o",
+          "url": "https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW"
+        }
+      ],
+      "duration_ms": 158643,
+      "name": "dawa",
+      "url": "https://open.spotify.com/track/6DywLDHN945BpPggycAYYW"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Ambia",
+        "url": "https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn"
+      },
+      "artists": [
+        {
+          "name": "Billy Black",
+          "url": "https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU"
+        }
+      ],
+      "duration_ms": 136192,
+      "name": "Ambia",
+      "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Aibu",
+        "url": "https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 137368,
+      "name": "Aibu",
+      "url": "https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Kitenge",
+        "url": "https://open.spotify.com/album/0s9GBxIYoI56h8XlNbY4ke"
+      },
+      "artists": [
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        }
+      ],
+      "duration_ms": 223312,
+      "name": "Mae Wendi",
+      "url": "https://open.spotify.com/track/6YPaq5MbxQDKxnODtg4CKy"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
+      "album": {
+        "name": "Njia Moja",
+        "url": "https://open.spotify.com/album/0DhkCfovACaJcz26OjNtwp"
+      },
+      "artists": [
+        {
+          "name": "Rafiiki",
+          "url": "https://open.spotify.com/artist/3RQugbKSKDSg8oHS1MdMXn"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Njia Moja",
+      "url": "https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL"
+    },
+    {
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Lisa Oduor-Noah",
         "url": "https://open.spotify.com/album/01OpRABjuFQgRtj4DdT55m"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/6ncAWPMP3cxAmiwN6SI8ca"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4URmrv5RB7dI5VKHiCI0FV"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/5v8bHru9HBHysftNF2orLb"
     },
     {
-      "added_at": "2024-08-09 06:20:41",
+      "added_at": "2024-08-16 07:53:45",
       "album": {
         "name": "Lock me",
         "url": "https://open.spotify.com/album/4xPEootVjy1AmsVr6vYZkL"

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Apat Na Buwan",
+        "url": "https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217558,
+      "name": "Apat Na Buwan",
+      "url": "https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1"
+    },
+    {
+      "album": {
         "name": "Atin Ang Walang Hanggan",
         "url": "https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe"
       },
@@ -185,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Bakit Hindi Ka Crush Ng Crush Mo",
+        "url": "https://open.spotify.com/album/7pvBl5IBQ2XaGccv4P9a09"
+      },
+      "artists": [
+        {
+          "name": "The Itchyworms",
+          "url": "https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337477,
+      "name": "Bakit Hindi Ka Crush Ng Crush Mo",
+      "url": "https://open.spotify.com/track/2KuTrG1x4SYCeZh1FMDCGu"
+    },
+    {
+      "album": {
         "name": "Balang Araw Ay Mapapangiti ft. Zel Bautista of December Avenue",
         "url": "https://open.spotify.com/album/5tD4jcjwjq9p9OmI7ZPHYt"
       },
@@ -261,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Bulaklak Sa Buwan",
+        "url": "https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9"
+      },
+      "artists": [
+        {
+          "name": "Ely Buendia",
+          "url": "https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295638,
+      "name": "Bulaklak Sa Buwan",
+      "url": "https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv"
+    },
+    {
+      "album": {
         "name": "Cherry On Top",
         "url": "https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ"
       },
@@ -326,7 +380,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 242763,
       "name": "Dahan Dahan",
       "url": "https://open.spotify.com/track/7trAmBLuRdzxHDftBs8LwX"
@@ -598,7 +652,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 271510,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE"
@@ -717,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Isa Dalawa Tatlo",
+        "url": "https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Isa Dalawa Tatlo",
+      "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
+    },
+    {
+      "album": {
         "name": "Janice",
         "url": "https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6"
       },
@@ -786,6 +858,28 @@
       "duration_ms": 206584,
       "name": "kaibigan",
       "url": "https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma"
+    },
+    {
+      "album": {
+        "name": "kapoy (feat. ZOYA)",
+        "url": "https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        },
+        {
+          "name": "ZOYA",
+          "url": "https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253928,
+      "name": "kapoy (feat. ZOYA)",
+      "url": "https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf"
     },
     {
       "album": {
@@ -1718,7 +1812,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 223299,
       "name": "Room",
       "url": "https://open.spotify.com/track/3WJo7bV3Hi9BgwnVq13SK6"
@@ -1884,7 +1978,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225139,
       "name": "Segurista",
       "url": "https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F"
@@ -2022,7 +2116,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 219519,
       "name": "Sumugal",
       "url": "https://open.spotify.com/track/5fbSD2COzb6064kqXuxyls"

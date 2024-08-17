@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1639084,
+  "num_followers": 1639112,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAADsKBGiduP453JGo/zAlba5",
+  "snapshot_id": "Zr1FAAAAAABt062fWGVWthkGV1lqzCHc",
   "tracks": [
     {
       "added_at": null,
@@ -787,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 202719,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -831,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Team Side Feat. RCB",
         "url": "https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 180999,
       "name": "Team Side Feat. RCB",
       "url": "https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
     },
     {
       "added_at": null,
@@ -1027,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire! (Tribbs Remix)",
         "url": "https://open.spotify.com/album/0D5CVgPJs3zWbzWhyK4cvK"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 105664,
       "name": "Fire! - Tribbs Remix",
       "url": "https://open.spotify.com/track/3eCnYztoiJj5XC8A7SAXLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
     },
     {
       "added_at": null,

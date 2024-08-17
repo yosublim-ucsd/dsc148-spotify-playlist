@@ -4,7 +4,7 @@
 
 > DEADBEATS &amp; BROWNIES \- Drum &amp; Bass compilation out now!  DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-166 songs - 9 hr 37 min
+168 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Pechanga](https://open.spotify.com/track/4O4Hre1uaXnS5lp9Lz1t63) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Pechanga](https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf) | 2:44 | 2023-06-21 | 2023-11-09 |
 | [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-02-24 | 2023-11-09 |
 | [Pressure](https://open.spotify.com/track/4tbO0VeLT9fVcKxLXCrqy5) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Brutalist](https://open.spotify.com/album/7z3rpvdW5ptqjSSMwxNHhd) | 3:11 | 2023-02-03 | 2023-11-09 |
+| [PREY](https://open.spotify.com/track/0Yk6JcL183ULQMmDQPc3f6) | [TIGER DROOL](https://open.spotify.com/artist/0rSRhW3EmJTsqAM3hTefwA), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [PREY](https://open.spotify.com/album/4V1sFZ6ipjNyBLwDH71MJU) | 2:46 | 2024-08-16 |  |
 | [Pull Up](https://open.spotify.com/track/0ZzJ8dgTXvblXbHwCtbd8I) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Pull Up](https://open.spotify.com/album/6gVP9lRi9rVyzp1Y7mGYA7) | 3:22 | 2023-09-06 | 2024-05-17 |
 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 |  |
 | [Reasons](https://open.spotify.com/track/07wxoKnyPZnrRtzcRX917e) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [MNNR](https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd) | [Reasons](https://open.spotify.com/album/3gYJNB9aT8weYejDegHbTX) | 3:18 | 2023-10-06 | 2024-01-27 |
@@ -174,5 +175,6 @@
 | [What I Need](https://open.spotify.com/track/7pRAUjVVOHT6vXMto3kxv5) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Deadbeats & Brownies \- Drum & Bass Compilation](https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule) | 3:02 | 2024-01-26 |  |
 | [WRAITH](https://open.spotify.com/track/7zxIAyGp8Cq7qY5YLqjIZJ) | [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [WRAITH \| THERMAL](https://open.spotify.com/album/6vvGQsvYRr5yk6rbNIzyHN) | 3:39 | 2023-08-11 | 2024-01-27 |
 | [WYA \(Where Ya At\)](https://open.spotify.com/track/3d1Rm43gLSaWfH0mgWeYYP) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [WYA](https://open.spotify.com/album/3e0YYtHBlZ2Tw28SrWoFA3) | 3:52 | 2023-06-28 | 2023-11-09 |
+| [You Know](https://open.spotify.com/track/4U2QkQFO9uOJSjeD7vRBCS) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [You Know](https://open.spotify.com/album/6h3SJviSvcDqBoAPiI0Pdl) | 2:20 | 2024-08-16 |  |
 
 \*This playlist was first scraped on 2023-11-08. Prior content cannot be recovered.

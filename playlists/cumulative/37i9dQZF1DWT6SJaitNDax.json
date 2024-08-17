@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "MAFFIAN",
+        "url": "https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Are you there?",
+      "url": "https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA"
+    },
+    {
+      "album": {
         "name": "Arizona",
         "url": "https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga"
       },
@@ -752,6 +770,28 @@
       "duration_ms": 180563,
       "name": "Attention",
       "url": "https://open.spotify.com/track/00pg6ROBxCsQ8lL9fpmosR"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/2AdY4UcwvrLoje59GKAjLL"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167615,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/10XA5zX3K8n0lyV5LpK9ji"
     },
     {
       "album": {
@@ -2706,7 +2746,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
@@ -2972,7 +3012,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 168779,
       "name": "Double",
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
@@ -3666,10 +3706,32 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184800,
       "name": "Favourite Girl (with Rema)",
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/7LKevxlgs3jILWLe8VQlmW"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/3eRaxLLhyYHKr8oiR6NeYI"
     },
     {
       "album": {
@@ -4064,7 +4126,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 162371,
       "name": "Formula",
       "url": "https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC"
@@ -5012,7 +5074,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 184580,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/0RHdQDaqgDwsXQujji1TSn"
@@ -5260,7 +5322,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 136515,
       "name": "jehovah witness",
       "url": "https://open.spotify.com/track/1jHPgnGJnzHW4uP5VfnejF"
@@ -7066,7 +7128,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 148235,
       "name": "My Dealer (Remix)",
       "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
@@ -8258,7 +8320,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 171447,
       "name": "Oyoyo",
       "url": "https://open.spotify.com/track/1bjOWoDQmB9PYEaIZMAfam"
@@ -8578,6 +8640,24 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "album": {
+        "name": "Phenomena",
+        "url": "https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202861,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo"
     },
     {
       "album": {
@@ -9420,7 +9500,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
@@ -10605,6 +10685,24 @@
     },
     {
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+    },
+    {
+      "album": {
         "name": "Stubborn (with Asake)",
         "url": "https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b"
       },
@@ -10762,6 +10860,28 @@
       "duration_ms": 228681,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
+    },
+    {
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220134,
+      "name": "Suru (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/25KjMlA0KAwRKS9JuT1NSq"
     },
     {
       "album": {
@@ -11447,6 +11567,36 @@
     },
     {
       "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "TREASURE (feat. Alpha P, Olamide & Phyno)",
+      "url": "https://open.spotify.com/track/4XcL8MB78aDAlbGQVntnph"
+    },
+    {
+      "album": {
         "name": "Pioneers",
         "url": "https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv"
       },
@@ -11802,6 +11952,28 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
+        "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182008,
+      "name": "wanted (feat. Naomi Sharon)",
+      "url": "https://open.spotify.com/track/5Teihsj5GGSvEKCEcJANV7"
     },
     {
       "album": {
@@ -12414,6 +12586,24 @@
       "duration_ms": 200209,
       "name": "Zodi (feat. Mr Eazi)",
       "url": "https://open.spotify.com/track/2s2arJw9uQkl9P8ZWwkGmr"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax"

@@ -4,7 +4,7 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: Michael Kiwanuka
 
-140 songs - 8 hr 50 min
+141 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 |  |
 | [A Love International](https://open.spotify.com/track/6Am9eCuCQELrIqImfCLhgM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Love International](https://open.spotify.com/album/3PKIvfo8AFCJr9dhUiKQf9) | 4:15 | 2024-06-14 | 2024-07-14 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 |  |
-| [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 |  |
+| [All That School For Nothing](https://open.spotify.com/track/1Gn11B0GFzjUvFMe03rP0w) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [The Art of the Lie](https://open.spotify.com/album/7doTp70QkWb5synkUpOdHf) | 5:20 | 2024-06-14 | 2024-08-17 |
 | [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:10 | 2024-06-14 |  |
 | [Apple](https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [La Fusion](https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66) | 3:51 | 2024-06-14 | 2024-07-20 |
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-06-14 | 2024-07-18 |
@@ -138,6 +138,7 @@
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-06-14 |  |
 | [Two Pairs Of Hands](https://open.spotify.com/track/0L5FTei1MmePVB9ECKOMwd) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [One Deep River](https://open.spotify.com/album/1VD0dpNJZjdQ0lelA5JTHv) | 4:05 | 2024-08-14 |  |
 | [U R MINE](https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [U R MINE](https://open.spotify.com/album/2oiVZlo0jwrJ1U7b0t49b7) | 3:11 | 2024-07-18 |  |
+| [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 | 2024-08-14 |  |
 | [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-07-18 |  |
 | [Water Underground](https://open.spotify.com/track/56UnwWtjPqJA2gQthNALiR) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Water Underground](https://open.spotify.com/album/4qpSwHfArylYxrXD9BK7lI) | 3:26 | 2024-06-14 |  |
 | [Way Over Your Head](https://open.spotify.com/track/0BrlNgoHkld65rRAosLY3h) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Yummy](https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY) | 4:18 | 2024-06-14 |  |

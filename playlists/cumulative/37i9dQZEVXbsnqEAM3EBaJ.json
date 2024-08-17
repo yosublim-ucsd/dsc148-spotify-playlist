@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 142000,
       "name": "And Waves of Dreams",
       "url": "https://open.spotify.com/track/4rxvzq4CtdaR1sNxAYCq6y"
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 202453,
       "name": "Black Mold",
       "url": "https://open.spotify.com/track/0uOLM57T5P4nRq2ul5u65X"
@@ -13964,7 +13964,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 193920,
       "name": "I'm The Greatest - Ultimate Mix",
       "url": "https://open.spotify.com/track/0CiKKYLQXZeGjsU7RkvszK"
@@ -15165,6 +15165,28 @@
     },
     {
       "album": {
+        "name": "It's All Over Now, Baby Blue [Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)]",
+        "url": "https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "It's All Over Now, Baby Blue - Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)",
+      "url": "https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3"
+    },
+    {
+      "album": {
         "name": "It's Called Paradise",
         "url": "https://open.spotify.com/album/5KVHMKigtRSzH2qV6rd1XU"
       },
@@ -15742,6 +15764,24 @@
       "duration_ms": 260200,
       "name": "Kaamos - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/7tHc7q634GxvivLKJfMcmY"
+    },
+    {
+      "album": {
+        "name": "Other Landscapes, Vol. 1",
+        "url": "https://open.spotify.com/album/3mRM87d7RHlFrF27fWhAtD"
+      },
+      "artists": [
+        {
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Kaleidoscope Eyes",
+      "url": "https://open.spotify.com/track/0KyOqeVAPYVKcryHhqrGPU"
     },
     {
       "album": {
@@ -16474,7 +16514,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 160000,
       "name": "Lamenting Hymns of Illusion",
       "url": "https://open.spotify.com/track/012aClsseUslnVaBsxdUpp"
@@ -20525,6 +20565,24 @@
     },
     {
       "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280251,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
+    },
+    {
+      "album": {
         "name": "NO+SAD",
         "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
       },
@@ -21939,6 +21997,40 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Rabbitts",
+          "url": "https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Attila",
+          "url": "https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP"
+        },
+        {
+          "name": "Fronzilla",
+          "url": "https://open.spotify.com/artist/2JvkRVVvySroPAtnf3sEW3"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
+    },
+    {
+      "album": {
         "name": "King of a Land",
         "url": "https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj"
       },
@@ -23070,7 +23162,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210174,
       "name": "Proof",
       "url": "https://open.spotify.com/track/5ASY9hrg61fOhdQ1isNbQm"
@@ -24978,6 +25070,24 @@
       "duration_ms": 231573,
       "name": "Ruska - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "album": {
+        "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
+        "url": "https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274533,
+      "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
+      "url": "https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI"
     },
     {
       "album": {
@@ -27080,6 +27190,32 @@
       "duration_ms": 363661,
       "name": "Sosteniendo la Visi\u00f3n",
       "url": "https://open.spotify.com/track/6LQtGlPkwPJc5wAz5TTvFK"
+    },
+    {
+      "album": {
+        "name": "50 Best Songs for Relaxing & Sleep",
+        "url": "https://open.spotify.com/album/2WagqlYLkJR3UJ4dQOUiXo"
+      },
+      "artists": [
+        {
+          "name": "Natural Sounds",
+          "url": "https://open.spotify.com/artist/1arpeXjzf6nmroE8PsxlxN"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Mantra para Dormir",
+          "url": "https://open.spotify.com/artist/4iCMqFAM6rCO1YnJlkGFg4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Soul's Euphoric Awakening",
+      "url": "https://open.spotify.com/track/0iPkjz6Of1KimZ3LXCtYxi"
     },
     {
       "album": {
@@ -33315,6 +33451,24 @@
     },
     {
       "album": {
+        "name": "Endtime Signals",
+        "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
+      },
+      "artists": [
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Wayward Eyes",
+      "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
+    },
+    {
+      "album": {
         "name": "We Didn\u2019t Start The Fire",
         "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
       },
@@ -33756,7 +33910,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 309046,
       "name": "What If - Live At Freeman Coliseum / 1999",
       "url": "https://open.spotify.com/track/6Woi982jOv5fNkfbD2P8Fo"
@@ -34403,6 +34557,24 @@
     },
     {
       "album": {
+        "name": "Human Clay (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0COtuvphKnKh3lYWJEheML"
+      },
+      "artists": [
+        {
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222490,
+      "name": "With Arms Wide Open - Single Version / Remastered 2024",
+      "url": "https://open.spotify.com/track/4jxhl6bhajNa92S9363ETG"
+    },
+    {
+      "album": {
         "name": "BETWEEN DREAD AND VALOR",
         "url": "https://open.spotify.com/album/3SmknD92qODVEs7owlhTgI"
       },
@@ -34646,6 +34818,24 @@
       "duration_ms": 148235,
       "name": "Ya Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/4LVPeCZ2iOpkLcmGhSdNkV"
+    },
+    {
+      "album": {
+        "name": "Yes - Mind Games Meditation Mix",
+        "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363189,
+      "name": "Yes - Mind Games Meditation Mix",
+      "url": "https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy"
     },
     {
       "album": {

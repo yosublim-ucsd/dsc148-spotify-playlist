@@ -6651,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "Best Flex",
+        "url": "https://open.spotify.com/album/29GzDIRTIUyobJXCqgihxB"
+      },
+      "artists": [
+        {
+          "name": "DamnKarma",
+          "url": "https://open.spotify.com/artist/3RB7Lf3cvsja5VEcIGnsYU"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193886,
+      "name": "Best Flex",
+      "url": "https://open.spotify.com/track/2IZ7X8ZfQwsEUnKTNChaCv"
+    },
+    {
+      "album": {
         "name": "Best in the City",
         "url": "https://open.spotify.com/album/58s2XMnMheDdEnsPIbWzeq"
       },
@@ -12006,6 +12024,24 @@
       "duration_ms": 212067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1povXjJAZZbtMuQiDvJL3s"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E"
+      },
+      "artists": [
+        {
+          "name": "Sayat Nokerban",
+          "url": "https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157001,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4OEnccrWAJMICjZB2krgk6"
     },
     {
       "album": {
@@ -24591,6 +24627,24 @@
     },
     {
       "album": {
+        "name": "GO(RILLA)",
+        "url": "https://open.spotify.com/album/0f4pkoEyClQzBm553ig9QY"
+      },
+      "artists": [
+        {
+          "name": "Claire Brooks",
+          "url": "https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149862,
+      "name": "GO(RILLA)",
+      "url": "https://open.spotify.com/track/5DIjkwYU1lZEyrrGopKYuJ"
+    },
+    {
+      "album": {
         "name": "God Bite",
         "url": "https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV"
       },
@@ -29352,7 +29406,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 205600,
       "name": "I Just Wish",
       "url": "https://open.spotify.com/track/4L5SAcyv6nl2AQYLGP5FcS"
@@ -33545,6 +33599,24 @@
     },
     {
       "album": {
+        "name": "Keys to Your Truck",
+        "url": "https://open.spotify.com/album/1UjCXO8JBWTBhE9BdW34kV"
+      },
+      "artists": [
+        {
+          "name": "Maggie Thompson",
+          "url": "https://open.spotify.com/artist/0KRXX1QbhCzrISdMD34epD"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145907,
+      "name": "Keys to Your Truck",
+      "url": "https://open.spotify.com/track/4aVw5UeLCtHc0pJ4oLZph2"
+    },
+    {
+      "album": {
         "name": "Self Titled",
         "url": "https://open.spotify.com/album/1zGMYvTKtcNXthhYTq7AXe"
       },
@@ -36084,6 +36156,24 @@
       "duration_ms": 135358,
       "name": "Like Wine",
       "url": "https://open.spotify.com/track/0SJwUCWvHPqhGphKOfAMG5"
+    },
+    {
+      "album": {
+        "name": "Can't Get Over You",
+        "url": "https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E"
+      },
+      "artists": [
+        {
+          "name": "Sayat Nokerban",
+          "url": "https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176183,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/11duClBBY8VRSVdKRJurAn"
     },
     {
       "album": {
@@ -50245,6 +50335,32 @@
     },
     {
       "album": {
+        "name": "Rabbit's Got a Gun",
+        "url": "https://open.spotify.com/album/1Nik92haPmKRSMBNkvGFnE"
+      },
+      "artists": [
+        {
+          "name": "Henry Aberson",
+          "url": "https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G"
+        },
+        {
+          "name": "Nariah Taylor",
+          "url": "https://open.spotify.com/artist/6juqczQpC33D80JUhPlHg1"
+        },
+        {
+          "name": "Brian Hargrove",
+          "url": "https://open.spotify.com/artist/0R1rCQ1HKBx56CM24pfJ0v"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235250,
+      "name": "Rabbit's Got a Gun",
+      "url": "https://open.spotify.com/track/3LGVTPOSRFWMA8v208kabx"
+    },
+    {
+      "album": {
         "name": "'79 Playlist",
         "url": "https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz"
       },
@@ -59502,6 +59618,24 @@
     {
       "album": {
         "name": "Superficial",
+        "url": "https://open.spotify.com/album/2uidvmd1YLefWI9Dv34PIm"
+      },
+      "artists": [
+        {
+          "name": "Ben Swissa",
+          "url": "https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165357,
+      "name": "Superficial",
+      "url": "https://open.spotify.com/track/5kAuF9nGhcBmevYFTyhvrv"
+    },
+    {
+      "album": {
+        "name": "Superficial",
         "url": "https://open.spotify.com/album/1ZUcLUQu3tMTWAtCaWd1Ze"
       },
       "artists": [
@@ -63146,7 +63280,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 210240,
       "name": "this will probably change",
       "url": "https://open.spotify.com/track/1XJmsWetiXGomYo0muxAPw"
@@ -69698,7 +69832,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 216847,
       "name": "Why California",
       "url": "https://open.spotify.com/track/2ePIrsvT5QdVgyPuoaSdfG"

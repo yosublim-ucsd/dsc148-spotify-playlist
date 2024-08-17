@@ -4,7 +4,7 @@
 
 > 💎 <a href="spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT">LISA</a> 🔗 <a href="spotify:artist:7ltDVBr6mKbRvohxheJ9h1">ROSALÍA</a> 💎
 
-1,651 songs - 3 day 12 hr 6 min
+1,653 songs - 3 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Brænder Ud](https://open.spotify.com/track/444PXk9mKTa5JCNsgJPrNn) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Brænder Ud](https://open.spotify.com/album/31q2r95fxuMI3kLBxAp1ft) | 2:57 | 2024-06-06 | 2024-06-14 |
 | [Build That Love](https://open.spotify.com/track/6Ek7bGJ4NTBo2OFDsYjL6Z) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Build That Love](https://open.spotify.com/album/5vdzm6P6y81PCOvJg3D3ON) | 3:57 | 2024-08-16 |  |
 | [Bullet](https://open.spotify.com/track/46H0GSu3BRBk746HIHH3l1) | [This Is Not America](https://open.spotify.com/artist/2VlxJZZG5aPHnlPzbtNflE) | [Bullet](https://open.spotify.com/album/1lfX9T7i39mnNhyxeYo0XV) | 3:33 | 2024-05-02 | 2024-05-10 |
+| [burn](https://open.spotify.com/track/6gsfnm1qCpDzbyALdTzoxu) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [burn](https://open.spotify.com/album/2ORYGkzXBNrd1npPQBeZYQ) | 2:29 | 2024-08-16 |  |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2024-06-14 |
 | [Butter](https://open.spotify.com/track/1JOYsKzXQqyZ984onqIKRz) | [Molyna](https://open.spotify.com/artist/4bWawKLZYPgaUPOF1MmE0m), [CINIM](https://open.spotify.com/artist/4lMSurGPhIYsdxEmQHR1Rm), [NÆLDE](https://open.spotify.com/artist/1BQZAyFQvZtfad0WLu8iwr) | [Butter](https://open.spotify.com/album/7dOsyc7WbIqXmZkLGVgrY8) | 2:32 | 2024-05-23 | 2024-06-01 |
 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-27 | 2024-07-05 |
@@ -355,6 +356,7 @@
 | [Didn't Have To](https://open.spotify.com/track/5t2FrzAyXGGZGq8I1UacCu) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Didn't Have To](https://open.spotify.com/album/5VVKWRiULbJkKeAJTysitg) | 2:20 | 2024-07-04 | 2024-07-12 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 | 2024-07-19 |
 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 | 2024-08-16 |  |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-09 | 2024-08-16 |
 | [Dig feat\. Rhian Teasdale](https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c) | [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA), [Rhian Teasdale](https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF) | [Dig feat\. Rhian Teasdale](https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw) | 2:47 | 2024-05-02 | 2024-05-10 |
 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 | 2024-08-09 | 2024-08-16 |

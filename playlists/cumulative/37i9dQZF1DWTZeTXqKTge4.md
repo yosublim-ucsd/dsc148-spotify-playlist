@@ -4,7 +4,7 @@
 
 > Le meilleur du hip\-hop québécois\. Photo: Souldia
 
-705 songs - 1 day 12 hr 4 min
+706 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Ange de la mort](https://open.spotify.com/track/30Dn5bDh5M00zRpy5L1VJj) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Ange de la mort](https://open.spotify.com/album/3io81YwkhXGzJOkTZhx6Sy) | 3:13 | 2022-01-07 | 2022-03-18 |
 | [Angle obtus](https://open.spotify.com/track/1nKh1iLM6TSPdacLG2dCel) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Le cheval blanc de Napoléon](https://open.spotify.com/album/3ZoWSR9Fay4WzDRgemaC00) | 2:59 | 2024-05-31 | 2024-06-15 |
 | [Apparaît](https://open.spotify.com/track/3GS2743jHrfQlA37gOVsmd) | [Bouldat](https://open.spotify.com/artist/6OJIqTSNa43LsvZmIURNAb), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [JPS](https://open.spotify.com/artist/0tziQnn4fmfk5ReISVIJEN) | [Apparaît](https://open.spotify.com/album/6WrLK9v2g0Ggzqy5h00vpe) | 4:11 | 2022-09-23 | 2022-10-29 |
+| [Appel](https://open.spotify.com/track/2X6IZMbyXdaOIt76fnDouA) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Appel](https://open.spotify.com/album/47XA0xqqt706pZSbdnMBZx) | 2:09 | 2024-08-16 |  |
 | [Astronef](https://open.spotify.com/track/5nu3PJOyMRQft0xLkz4UDN) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [Abri de fortune \(pour fin du monde\)](https://open.spotify.com/album/0amYsj30gPQuSgc2ukxNdO) | 2:41 | 2022-04-01 | 2022-09-03 |
 | [Attrape\-moi si tu peux](https://open.spotify.com/track/57ixH2CoJSG4vPPFHuWJhr) | [Die\-On](https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Attrape\-moi si tu peux](https://open.spotify.com/album/7loflFAMtP4zW5gGTYXZAd) | 2:59 | 2022-11-11 | 2023-04-29 |
 | [Aucune promesse](https://open.spotify.com/track/4bE84m2q6Xecrl8Etn8hKC) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Aucune promesse](https://open.spotify.com/album/2UVAEGSrXaicQMavEAmVUP) | 3:35 | 2022-05-20 | 2023-01-28 |
@@ -379,7 +380,7 @@
 | [Les belles filles \- Spotify Singles](https://open.spotify.com/track/6ArGOTiUwMzXgAh0tWjZKu) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT), [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Spotify Singles](https://open.spotify.com/album/2eiZ94kZNFeLdDzUi5cV5X) | 2:23 | 2023-03-31 | 2023-09-23 |
 | [Les Ennuis](https://open.spotify.com/track/40K9zKz1MRE6VKAFW9elSS) | [Jamaz](https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC) | [Les Ennuis](https://open.spotify.com/album/4ewGs4YasSOx9NVM8nj7ww) | 3:20 | 2023-11-03 | 2023-11-13 |
 | [Les pauvres](https://open.spotify.com/track/2ggyrTquA6iI2urXHHL5Wl) | [Eman X Vlooper](https://open.spotify.com/artist/4ldnVAuXXq9U5bN7BKHIKu) | [XXL](https://open.spotify.com/album/4gOt29BO49sVnHYfbxCAnq) | 3:09 | 2023-11-03 | 2023-11-13 |
-| [Les sécheresses du Sahara](https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Les sécheresses du Sahara](https://open.spotify.com/album/3xu6QWThnNteVK7w0zmNbj) | 3:17 | 2024-04-19 |  |
+| [Les sécheresses du Sahara](https://open.spotify.com/track/6ehM6SHvqgZAARovOr7cUv) | [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Les sécheresses du Sahara](https://open.spotify.com/album/3xu6QWThnNteVK7w0zmNbj) | 3:17 | 2024-04-19 | 2024-08-17 |
 | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/track/7hElxwN1zI3SLAOh6aX2uD) | [Calamine](https://open.spotify.com/artist/1eYuV6IDT7vYuBdIF0SgjJ) | [LESBIENNE WOKE SUR L'AUTOTUNE](https://open.spotify.com/album/6mKwEJV5F4DqilpZaJMS0N) | 3:24 | 2022-04-01 | 2022-07-09 |
 | [LFQB](https://open.spotify.com/track/4kw4akPXc0aMJJIklnSc3B) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [LFQB](https://open.spotify.com/album/6SrTR3iGnL2NUpjAKcP9Vc) | 2:38 | 2022-08-12 | 2022-09-24 |
 | [Liaison toxique](https://open.spotify.com/track/2ty8WQ2JfPRvZEfgi68ltm) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Liaison toxique](https://open.spotify.com/album/3udeCmESR4MZ4F3AxRZySv) | 2:56 | 2023-12-01 | 2024-07-13 |

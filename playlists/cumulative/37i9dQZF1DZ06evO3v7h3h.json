@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 286570,
       "name": "Estere\u00f3tipo",
       "url": "https://open.spotify.com/track/4LlPG12E6JJLbV9SmyDS1E"
@@ -1252,6 +1252,28 @@
       "duration_ms": 252279,
       "name": "Portal",
       "url": "https://open.spotify.com/track/4bX1GDvKQ237I6cEGLsV08"
+    },
+    {
+      "album": {
+        "name": "Crise",
+        "url": "https://open.spotify.com/album/5gtoxo8VoETM0EhENX6k91"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "God\u00f4",
+          "url": "https://open.spotify.com/artist/7MBgy5E7SII5xPK7V1bqIz"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268160,
+      "name": "P\u00e9s na Areia (Promessas) (feat. God\u00f4)",
+      "url": "https://open.spotify.com/track/1JZCxnavkk1QEebmKlBqs1"
     },
     {
       "album": {

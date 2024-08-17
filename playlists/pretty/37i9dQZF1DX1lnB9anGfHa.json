@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 225955,
+  "num_followers": 226050,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -711,38 +711,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Shade Under Your Hands",
         "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
       },
@@ -767,22 +735,34 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Jinxed by Being",
-        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
       },
       "artists": [
         {
-          "name": "Shackleton",
-          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
-        },
-        {
-          "name": "Six Organs Of Admittance",
-          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
         }
       ],
-      "duration_ms": 553600,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -799,6 +779,26 @@
       "duration_ms": 271693,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Jinxed by Being",
+        "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
+      },
+      "artists": [
+        {
+          "name": "Shackleton",
+          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
+        },
+        {
+          "name": "Six Organs Of Admittance",
+          "url": "https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI"
+        }
+      ],
+      "duration_ms": 553600,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
-      },
-      "artists": [
-        {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
-        }
-      ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 188250,
       "name": "Of Air",
       "url": "https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Vajranala",
+        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
+      },
+      "artists": [
+        {
+          "name": "Senyawa",
+          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Vajranala",
+      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Life of the Forbidden",
         "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
       },
@@ -1151,38 +1167,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Vajranala",
-        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
-      },
-      "artists": [
-        {
-          "name": "Senyawa",
-          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "Vajranala",
-      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Image Langage",
-        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
-      },
-      "artists": [
-        {
-          "name": "Felicia Atkinson",
-          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "The House That Agnes Built",
-      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Signal Remixes",
         "url": "https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Image Langage",
+        "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The House That Agnes Built",
+      "url": "https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod"
     },
     {
       "added_at": "2024-06-28 00:01:00",

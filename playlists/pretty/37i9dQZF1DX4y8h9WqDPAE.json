@@ -1,32 +1,56 @@
 {
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Ciara",
-  "num_followers": 1749202,
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: thisizlondon",
+  "num_followers": 1749146,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAABmdTuv1CoyeJptntBE03R8",
+  "snapshot_id": "Zr7OwAAAAAAjfiQWMcy81G7Co6Fc1FjZ",
   "tracks": [
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Run It Up (feat. BossMan Dlow)",
-        "url": "https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2"
+        "name": "PINACOLADA",
+        "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
         },
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 191925,
-      "name": "Run It Up (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/1bpHOhTahBPeL08SVrxvjc"
+      "duration_ms": 177847,
+      "name": "PINACOLADA",
+      "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Favourite Girl (with Rema)",
+        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Favourite Girl (with Rema)",
+      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -65,24 +89,92 @@
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
     },
     {
-      "added_at": "2024-07-19 15:46:40",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Nasty XXX Remix (feat. Tyga)",
-        "url": "https://open.spotify.com/album/7wYSM5P3myPWOSoTao1a2n"
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
       },
       "artists": [
         {
           "name": "Tinashe",
           "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Nasty XXX Remix (feat. Tyga)",
-      "url": "https://open.spotify.com/track/5OHxVP5lTk1ZdKEXORPyIA"
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 164363,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Breathing (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/0Wdv6Af4UhOXGriWRd26Kr"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Breathing (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/5C1hdPaaK43VDJ95Apfanq"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2024-05-31 06:53:12",
@@ -103,26 +195,6 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Favourite Girl (with Rema)",
-        "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Favourite Girl (with Rema)",
-      "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
       "added_at": "2024-06-28 17:36:18",
@@ -155,26 +227,6 @@
       "duration_ms": 232804,
       "name": "Young Rich & In Love - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2024-07-26 10:00:29",
-      "album": {
-        "name": "DIAMANTE",
-        "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253770,
-      "name": "Sideways",
-      "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
     },
     {
       "added_at": "2024-07-19 15:46:40",
@@ -213,6 +265,26 @@
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
+      "added_at": "2024-07-19 15:46:40",
+      "album": {
+        "name": "Nasty XXX Remix (feat. Tyga)",
+        "url": "https://open.spotify.com/album/7wYSM5P3myPWOSoTao1a2n"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Nasty XXX Remix (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5OHxVP5lTk1ZdKEXORPyIA"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Sincere",
@@ -227,22 +299,6 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 155563,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2024-07-19 15:46:40",
@@ -287,6 +343,26 @@
       "duration_ms": 173087,
       "name": "Big Boy (feat. Starrah)",
       "url": "https://open.spotify.com/track/6617OvEesvCz7kGfXLYW4h"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Run It Up (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 191925,
+      "name": "Run It Up (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/1bpHOhTahBPeL08SVrxvjc"
     },
     {
       "added_at": "2024-06-28 17:36:18",
@@ -473,6 +549,26 @@
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 162252,
+      "name": "Personal (Remix feat. Popcaan)",
+      "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Trouble In Paradise",
@@ -491,6 +587,22 @@
       "duration_ms": 195261,
       "name": "Never Let You Go (feat. YG Marley)",
       "url": "https://open.spotify.com/track/24XvVvkb3QY6aSKMrb83tN"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/4S8m4NHgZkQQJPywHFnLbC"
+      },
+      "artists": [
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -521,40 +633,40 @@
       "url": "https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT"
     },
     {
-      "added_at": "2024-07-26 10:00:29",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/5JVBHP3jLdPWPzGolbF8TD"
+        "name": "PASSENGER SEAT PRINCESS",
+        "url": "https://open.spotify.com/album/1EFVb2KHsYjqaxSAivNpDf"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
-    },
-    {
-      "added_at": "2024-07-26 10:00:29",
-      "album": {
-        "name": "Life Size",
-        "url": "https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         },
         {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
         }
       ],
-      "duration_ms": 151306,
-      "name": "Life Size",
-      "url": "https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX"
+      "duration_ms": 165677,
+      "name": "PASSENGER SEAT PRINCESS (feat. Destin Laurel)",
+      "url": "https://open.spotify.com/track/6hfujWCUcaL9EW8XXUAFHF"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa"
+      },
+      "artists": [
+        {
+          "name": "Brandz",
+          "url": "https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl"
+        }
+      ],
+      "duration_ms": 135018,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k"
     },
     {
       "added_at": "2024-07-19 15:46:40",
@@ -589,6 +701,22 @@
       "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
     },
     {
+      "added_at": "2024-07-19 15:46:40",
+      "album": {
+        "name": "Boys Like U",
+        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Boys Like U",
+      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Like A Flower",
@@ -619,6 +747,62 @@
       "duration_ms": 158338,
       "name": "Baddest In The Room",
       "url": "https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5"
+    },
+    {
+      "added_at": "2024-07-19 15:46:40",
+      "album": {
+        "name": "I'll Always Come Find You",
+        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Better Off Friends",
+      "url": "https://open.spotify.com/track/26Inj2lua1Eq3fTIUOIN8H"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
+    },
+    {
+      "added_at": "2024-07-12 06:57:25",
+      "album": {
+        "name": "Faith + Sight",
+        "url": "https://open.spotify.com/album/702fkCVmFTYMQGZCXIyAWa"
+      },
+      "artists": [
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 159113,
+      "name": "Faith + Sight",
+      "url": "https://open.spotify.com/track/1XbYrixaAFERnv6QPsSWJ3"
     },
     {
       "added_at": "2024-07-12 06:57:25",
@@ -661,26 +845,6 @@
       "url": "https://open.spotify.com/track/3VU5hcDFXuX8aDwfn7GDeY"
     },
     {
-      "added_at": "2024-07-12 06:57:25",
-      "album": {
-        "name": "Faith + Sight",
-        "url": "https://open.spotify.com/album/702fkCVmFTYMQGZCXIyAWa"
-      },
-      "artists": [
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        },
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 159113,
-      "name": "Faith + Sight",
-      "url": "https://open.spotify.com/track/1XbYrixaAFERnv6QPsSWJ3"
-    },
-    {
       "added_at": "2024-07-19 15:46:40",
       "album": {
         "name": "Bonnie & Clyde (feat. Fivio Foreign)",
@@ -721,42 +885,6 @@
       "url": "https://open.spotify.com/track/0oVazidxG4n1IZXv1Mizux"
     },
     {
-      "added_at": "2024-07-19 15:46:40",
-      "album": {
-        "name": "I'll Always Come Find You",
-        "url": "https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Better Off Friends",
-      "url": "https://open.spotify.com/track/26Inj2lua1Eq3fTIUOIN8H"
-    },
-    {
-      "added_at": "2024-07-19 15:46:40",
-      "album": {
-        "name": "Boys Like U",
-        "url": "https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Boys Like U",
-      "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
-    },
-    {
       "added_at": "2024-06-21 06:59:45",
       "album": {
         "name": "the boy is mine (Remix)",
@@ -779,6 +907,22 @@
       "duration_ms": 213384,
       "name": "the boy is mine (with Brandy, Monica)",
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Shoot it Straight",
+        "url": "https://open.spotify.com/album/1Aa6qHKypisaDeg1SjXzKT"
+      },
+      "artists": [
+        {
+          "name": "Jesse\u00ae",
+          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
+        }
+      ],
+      "duration_ms": 125262,
+      "name": "Shoot it Straight",
+      "url": "https://open.spotify.com/track/00CkXbvpP3bgjgYC9jbm0n"
     },
     {
       "added_at": "2024-06-28 17:36:18",
@@ -1913,22 +2057,6 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-05-03 04:21:45",
-      "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Love Is Blind",
-      "url": "https://open.spotify.com/track/5BYJ8m1VJZUXUe8SoYAq2n"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Deep in the Water",
@@ -2203,22 +2331,6 @@
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
-    },
-    {
-      "added_at": "2024-03-08 14:13:35",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2023-12-01 18:55:35",
@@ -2713,26 +2825,6 @@
       "url": "https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ"
     },
     {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "To Be Eaten Alive",
-        "url": "https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 166272,
-      "name": "77 Degrees (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/10MebW3TqVEc8jVLeUBb0U"
-    },
-    {
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "WY@",
@@ -2861,22 +2953,6 @@
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
-    },
-    {
       "added_at": "2023-06-02 04:00:00",
       "album": {
         "name": "Don't Give It Away",
@@ -2895,26 +2971,6 @@
       "duration_ms": 206143,
       "name": "Don't Give It Away (with Chris Brown)",
       "url": "https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez"
-    },
-    {
-      "added_at": "2023-02-14 06:06:12",
-      "album": {
-        "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-        "url": "https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 90110,
-      "name": "We Might Even Be Falling In Love (Duet) - Spotify Singles",
-      "url": "https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN"
     },
     {
       "added_at": "2023-06-10 16:58:46",

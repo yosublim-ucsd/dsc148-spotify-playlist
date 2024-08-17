@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 271384,
       "name": "Chikibombon",
       "url": "https://open.spotify.com/track/1XEWg9ozyHDopYP5MOPln1"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 150967,
       "name": "Esta Pegao",
       "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 156923,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4MBcx34MIGhVcjbjUb5WAs"
@@ -2919,6 +2919,36 @@
     },
     {
       "album": {
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
+      },
+      "artists": [
+        {
+          "name": "BADDIES ONLY",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -2938,6 +2968,24 @@
       "duration_ms": 170403,
       "name": "La Bulla",
       "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
+    },
+    {
+      "album": {
+        "name": "La Chica",
+        "url": "https://open.spotify.com/album/5gvKoXGUrD7FcbS9r7v5up"
+      },
+      "artists": [
+        {
+          "name": "Siwell",
+          "url": "https://open.spotify.com/artist/3ktDOdSifPv7lXzeyXX1J1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199424,
+      "name": "La Chica",
+      "url": "https://open.spotify.com/track/5mtKD2WWmYe8mQm2H4kNrb"
     },
     {
       "album": {
@@ -3812,7 +3860,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "Mi Canto",
       "url": "https://open.spotify.com/track/2gLJenD6ovBmFvCoqWyF6X"
@@ -4006,7 +4054,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 167213,
       "name": "Mosika",
       "url": "https://open.spotify.com/track/6eNUbxMJ6BiTK4dHy9mzU0"
@@ -5278,6 +5326,32 @@
       "duration_ms": 159360,
       "name": "Sway (Mucho Mambo)",
       "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+    },
+    {
+      "album": {
+        "name": "TABLA",
+        "url": "https://open.spotify.com/album/15E0lX6pHvCz8WIyZRZ6MR"
+      },
+      "artists": [
+        {
+          "name": "Bla-De",
+          "url": "https://open.spotify.com/artist/1Xrr08n5RuyrzvLljE1HPa"
+        },
+        {
+          "name": "J. Cruze",
+          "url": "https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V"
+        },
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "TABLA",
+      "url": "https://open.spotify.com/track/0jpqvB6Up1DTAD3XSfaBUu"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: Plantpot
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: DUMB.RONG
 
-83 songs - 6 hr 5 min
+84 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 | 2024-06-21 |  |
 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 | 2024-06-21 |  |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 |  |
-| [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 |  |
+| [ปล่อยใจ](https://open.spotify.com/track/6YEXIvR9f3S1Ca9E6Dn5uM) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ปล่อยใจ](https://open.spotify.com/album/7aAhsiKMaeuWLnmE70lohf) | 4:00 | 2024-07-05 | 2024-08-17 |
 | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/track/5lB51wzR4OxghE3qvREaaj) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ผู้ที่ศรัทธาในพระเจ้า แต่หมดกำลังอธิษฐาน](https://open.spotify.com/album/0eBVwsYfR3cDooFjZJGyyZ) | 4:06 | 2024-06-21 |  |
 | [ฝันไป](https://open.spotify.com/track/2VP1vuiq8XKnOVyiwctD7h) | [Vitamin D from The Sun](https://open.spotify.com/artist/5zngLj3BO0BHiyuXaPEQYJ) | [ฝันไป \- Single](https://open.spotify.com/album/6msuekm9iwP2z7jSl5heFs) | 5:25 | 2024-06-21 |  |
 | [พอ ?](https://open.spotify.com/track/3zhfuDGfJUMZuTMBb7HlJV) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [พอ ?](https://open.spotify.com/album/35J14FwPhKm9ZPyjZyWNsg) | 4:01 | 2024-06-21 |  |
@@ -63,6 +63,7 @@
 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 | 2024-06-21 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-21 |  |
 | [หากเธอยังอ่อนล้า](https://open.spotify.com/track/4sEHPGZUSkwvR1MOx7F32s) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [หากเธอยังอ่อนล้า](https://open.spotify.com/album/2e0gtbdOLAFDXASeJpyslR) | 5:04 | 2024-06-21 |  |
+| [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [หากเวลายังมีความหมาย \(Disposable\)](https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS) | 3:51 | 2024-08-16 |  |
 | [อนันตกาล](https://open.spotify.com/track/1Q8mMXizYlIL3uE3klZPkT) | [Plastic Cavern](https://open.spotify.com/artist/6tpZMDoMCapU7JEefVtyAR) | [อนันตกาล](https://open.spotify.com/album/1BaTNj2bow0sTC8Tpajz0u) | 4:54 | 2024-06-21 |  |
 | [อัลไซเมอร์](https://open.spotify.com/track/4t0sPKSccteTN07TJ6X8X9) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [อัลไซเมอร์](https://open.spotify.com/album/2V06K7AqhOftvipGFg0KHF) | 4:39 | 2024-06-21 | 2024-08-03 |
 | [เคย](https://open.spotify.com/track/0bI1FqL6jfmnPSX2wvyeET) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [เคย](https://open.spotify.com/album/1tNCbUIKysKQPVtbcAJ9is) | 4:18 | 2024-07-19 | 2024-08-10 |

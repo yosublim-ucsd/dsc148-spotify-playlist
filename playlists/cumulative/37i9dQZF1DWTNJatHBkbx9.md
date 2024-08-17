@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-102 songs - 4 hr 58 min
+103 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2024-05-10 |  |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
+| [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 |  |
 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
 | [Never Fold](https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU) | [SagetheRager](https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j) | [Never Fold](https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T) | 2:18 | 2024-07-26 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 | 2024-07-19 |
@@ -106,7 +107,7 @@
 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 | 2024-05-10 |  |
 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 | 2024-05-10 |  |
 | [Wine](https://open.spotify.com/track/2jpy0Amc4lz9rJodkYCUBW) | [Clive](https://open.spotify.com/artist/0LJrjizc2pgyDOy9FRgLsI) | [Wine](https://open.spotify.com/album/7eQpq5QztpKzA25D3EKgEt) | 3:36 | 2024-05-10 | 2024-07-27 |
-| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 |  |
+| [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 | 2024-05-10 | 2024-08-17 |
 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 | 2024-05-10 |  |
 | [Your Place](https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa) | [Stella Sena](https://open.spotify.com/artist/06DWd2np5gdOvR08UaaiA6) | [Your Place](https://open.spotify.com/album/0moOoMHv8K1A4qY4e95Jt7) | 2:28 | 2024-07-12 |  |
 | [YSL](https://open.spotify.com/track/3DklWVkyKx5gRW1d3Khq6R) | [Odartei](https://open.spotify.com/artist/2IBRGdRZQJzvoeQMTdRoxN) | [cool.](https://open.spotify.com/album/4IbKmVyXzY4bTDkkBcA6KG) | 3:05 | 2024-05-10 |  |

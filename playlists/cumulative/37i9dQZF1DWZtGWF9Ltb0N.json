@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 166285,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
@@ -790,6 +790,28 @@
       "duration_ms": 264000,
       "name": "Bawl Out",
       "url": "https://open.spotify.com/track/2lAWlPQRlAAG0dO9b1Q6k6"
+    },
+    {
+      "album": {
+        "name": "Be Your Ghost",
+        "url": "https://open.spotify.com/album/3TbdP7nQBzIOV9nApWHE4g"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Roniit",
+          "url": "https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Be Your Ghost (feat. Roniit)",
+      "url": "https://open.spotify.com/track/67OQeL8ecLRIw5nItFZgTm"
     },
     {
       "album": {
@@ -1958,7 +1980,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 177931,
       "name": "COUNTRY RIDDIM",
       "url": "https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W"
@@ -2499,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "DEMOLISH/REIMAGINE/REBUILD",
+        "url": "https://open.spotify.com/album/4JakuTJg2gurAFJAGOcong"
+      },
+      "artists": [
+        {
+          "name": "SUAHN",
+          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "DEMOLISH/REIMAGINE/REBUILD",
+      "url": "https://open.spotify.com/track/426UUrBZ1a4PQOIraHrnAa"
+    },
+    {
+      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/4SQ5ZlYYGUFuEWWl5zkr5j"
       },
@@ -2662,7 +2702,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 189295,
       "name": "DIY - Old Skool Mix",
       "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
@@ -3830,7 +3870,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 308571,
       "name": "Generation Sound",
       "url": "https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP"
@@ -5072,6 +5112,28 @@
       "duration_ms": 218026,
       "name": "Irisoft Livemixx",
       "url": "https://open.spotify.com/track/40AHKeEeYL67CrEXy05IRz"
+    },
+    {
+      "album": {
+        "name": "Jabba Wars",
+        "url": "https://open.spotify.com/album/48FLwRmHhco88Ay8KKDBx6"
+      },
+      "artists": [
+        {
+          "name": "Sling Wave",
+          "url": "https://open.spotify.com/artist/4tu3xCRyU9n12q0MUscs52"
+        },
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259411,
+      "name": "Jabba Wars",
+      "url": "https://open.spotify.com/track/3Ep9277iCyM3ryPvKvyFpw"
     },
     {
       "album": {
@@ -6596,7 +6658,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 185142,
       "name": "Miss Moneypenny",
       "url": "https://open.spotify.com/track/4aPRLWap6EuvzngQ4WX6eC"
@@ -7528,7 +7590,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
@@ -9560,7 +9622,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 221147,
       "name": "Skanka",
       "url": "https://open.spotify.com/track/3M2l5Rh3qLjHzgVEWbyAbZ"
@@ -11136,7 +11198,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 246200,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5oNAbbhAuoz6xrEPWo3U0M"
@@ -11818,7 +11880,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 222664,
       "name": "Warrior Mentality",
       "url": "https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE"

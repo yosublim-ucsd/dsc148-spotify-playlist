@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrvzgAAAAABT7KtjaTYp/IA8f1u5nidg",
+  "snapshot_id": "Zr1FAAAAAACxCRjtYc6xqVK2MKBi2H6u",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising (Pt. 1)",
-        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 195480,
-      "name": "IN-TO-IT",
-      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
+      "duration_ms": 161461,
+      "name": "Pollyanna",
+      "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollyanna",
-        "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 161461,
-      "name": "Pollyanna",
-      "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
+      "duration_ms": 195480,
+      "name": "IN-TO-IT",
+      "url": "https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 191653,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 189053,
       "name": "Snakes",
       "url": "https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 191653,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Golden Retriever",
-      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 264600,
       "name": "Hypercolour",
       "url": "https://open.spotify.com/track/1JpGubCuJfLzf9zRYrIJ8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Golden Retriever",
+      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Positive Rising: Part 2",
-        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruined My Life",
         "url": "https://open.spotify.com/album/6DmNm4kgQ8ImBla8OvEahZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 219400,
       "name": "The Mess Up",
       "url": "https://open.spotify.com/track/2l1DgrC0PobfxiFwtN8BEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Positive Rising: Part 2",
+        "url": "https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/4NjJkdn01Mf5xGptES9225"
     },
     {
       "added_at": null,

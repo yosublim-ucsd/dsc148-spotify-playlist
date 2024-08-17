@@ -1,6 +1,6 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 75141,
+  "num_followers": 75164,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
@@ -523,8 +523,8 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
         }
       ],
-      "duration_ms": 505080,
-      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
+      "duration_ms": 400840,
+      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -587,38 +587,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 400840,
-      "name": "The Cat Walk - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "Sonny Rollins",
         "url": "https://open.spotify.com/album/0eySuZQb7ZGcE5qOAXvRlO"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 478453,
       "name": "Decision - Remastered 1999",
       "url": "https://open.spotify.com/track/4Sd3IwEYdoyTsFl9Tfp6WX"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 505080,
+      "name": "Here I Am - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/7iu2Oae1eI295Ay086GNFt"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
       },
@@ -735,22 +719,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "Royal Flush",
-        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Hush - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -763,6 +731,38 @@
       "duration_ms": 565106,
       "name": "These Are Soulful Days",
       "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "Royal Flush",
+        "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Hush - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+        "name": "Rollin' With Leo (Remastered)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
       "artists": [
         {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
         }
       ],
-      "duration_ms": 439866,
-      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
+      "duration_ms": 385200,
+      "name": "Rollin' With Leo - Remastered",
+      "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -843,22 +843,6 @@
       "duration_ms": 404213,
       "name": "East Of The Village - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
-        "name": "Rollin' With Leo (Remastered)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
-      },
-      "artists": [
-        {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
-        }
-      ],
-      "duration_ms": 385200,
-      "name": "Rollin' With Leo - Remastered",
-      "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
     },
     {
       "added_at": "2024-07-08 07:17:28",
@@ -895,22 +879,6 @@
     {
       "added_at": "2024-07-08 07:17:28",
       "album": {
-        "name": "A Fickle Sonance",
-        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 294893,
-      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
-    },
-    {
-      "added_at": "2024-07-08 07:17:28",
-      "album": {
         "name": "Lee-Way",
         "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 741106,
       "name": "Society Red - Rudy Van Gelder/24-Bit Mastering/Digital Remaster/2004",
       "url": "https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"
+    },
+    {
+      "added_at": "2024-07-08 07:17:28",
+      "album": {
+        "name": "A Fickle Sonance",
+        "url": "https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 294893,
+      "name": "Sundu - Remastered 1999 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5tSD3SWFAbQxM9RL5Mxx3A"
     },
     {
       "added_at": "2024-07-08 07:17:28",

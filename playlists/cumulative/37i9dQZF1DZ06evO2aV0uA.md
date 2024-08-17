@@ -2,7 +2,7 @@
 
 ### [This Is Lamb of God](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2aV0uA)
 
-> This is Lamb of God\. The essential tracks, all in one playlist.
+> This Is Lamb of God\. Les titres incontournables, réunis dans une seule et même playlist.
 
 114 songs - 8 hr 9 min
 
@@ -19,7 +19,7 @@
 | [Blacken the Cursed Sun](https://open.spotify.com/track/0pCIJphJDddTWn6svXyQeD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament \(15th Anniversary Edition\)](https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf) | 5:28 | 2024-06-04 |  |
 | [Blacken the Cursed Sun](https://open.spotify.com/track/7gNqCN4EK3B0mnklBp7EqP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 5:28 | 2022-05-30 | 2024-06-04 |
 | [Blood Of The Scribe](https://open.spotify.com/track/4PBgVPXXnrBJXSUtFv5b2S) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 4:23 | 2024-06-19 |  |
-| [Break You](https://open.spotify.com/track/6nQZeJoVPuebEKoHHtgb4N) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:35 | 2024-07-20 |  |
+| [Break You](https://open.spotify.com/track/6nQZeJoVPuebEKoHHtgb4N) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:35 | 2024-07-20 | 2024-08-17 |
 | [Broken Hands](https://open.spotify.com/track/1vSXIfAsN3AGa4H1pPHKVj) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 3:53 | 2022-05-30 | 2022-10-16 |
 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 | 2022-10-15 |  |
 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 | 2022-05-30 |  |
@@ -69,8 +69,8 @@
 | [Insurrection](https://open.spotify.com/track/6MceLF6UAG3Hw2vzPo5LiL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:50 | 2022-09-06 | 2022-09-22 |
 | [King Me](https://open.spotify.com/track/2YEOckiFPxRlCqr4yjFVSw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 6:35 | 2022-08-23 | 2022-10-12 |
 | [King Me](https://open.spotify.com/track/7v5yAaXL6mqdZdl87jmO8T) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 6:35 | 2022-06-01 | 2022-10-06 |
-| [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-05-30 | 2024-07-20 |
-| [Laid to Rest \- HEALTH Remix](https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Laid to Rest \(HEALTH Remix\)](https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K) | 2:38 | 2024-07-20 |  |
+| [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-05-30 |  |
+| [Laid to Rest \- HEALTH Remix](https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Laid to Rest \(HEALTH Remix\)](https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K) | 2:38 | 2024-07-20 | 2024-08-17 |
 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 | 2022-05-30 |  |
 | [Nevermore](https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:35 | 2022-10-10 |  |
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-08-13 | 2022-10-11 |

@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Danny Ocean
 
-163 songs - 9 hr 50 min
+164 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dueño de Nada](https://open.spotify.com/track/4g3KI2lxYGsY7WxQTLnsxm) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Sólo para Mujeres](https://open.spotify.com/album/5RGetLlVCc3QMSBJLQtbEn) | 5:10 | 2022-09-30 | 2022-11-13 |
 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 | 2022-07-01 | 2024-04-19 |
 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 | 2021-12-17 | 2024-08-01 |
+| [el Alquimista](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 | 2024-08-16 |  |
 | [El Farolito](https://open.spotify.com/track/4RIcZ1yQNUV7KmgEFl9XKO) | [Vos Veis](https://open.spotify.com/artist/6o2nLC8Ud7Aegw74dBM6WE) | [Vas](https://open.spotify.com/album/05iwiz6Y9tvN7Sy1azQ0Hf) | 3:19 | 2021-12-17 |  |
 | [El Farolito](https://open.spotify.com/track/3izHYPHnoEt0pp6aiI3VNR) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/2K5h4bSh0pFAhAhKQO5mhZ) | 3:19 | 2022-09-30 | 2022-11-13 |
 | [El Farolito](https://open.spotify.com/track/67vl3Vho4atdzslUGgB67i) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/0BX2GBWYpsDFd95iHObVvB) | 3:21 | 2022-07-01 | 2023-01-21 |
@@ -119,7 +120,7 @@
 | [Persona Ideal](https://open.spotify.com/track/4RqmUue0IPUaI9x1me5asq) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Salsa Mix, Vol\. 3](https://open.spotify.com/album/1wOMY5o7ss0MptUEp8oitS) | 4:39 | 2022-09-30 | 2022-11-14 |
 | [Persona Ideal](https://open.spotify.com/track/6RgTdJ485ABZ64HkWpEYon) | [Milleniun Hits](https://open.spotify.com/artist/0xbGf3FKLF3P3yzf1hecRY) | [Los Adolescentes](https://open.spotify.com/album/6S1EDLEQGq8iofwgUtJxas) | 4:42 | 2022-07-01 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-07-01 | 2024-04-19 |
-| [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 |  |
+| [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 | 2024-06-07 | 2024-08-17 |
 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 | 2024-07-19 |  |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2022-04-22 |  |
 | [Primera Cita](https://open.spotify.com/track/61TIqrpTJ6ZlEaQpneVboa) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Primera Cita](https://open.spotify.com/album/12zL0QO90BC88QJTYeso5d) | 2:44 | 2023-02-10 |  |

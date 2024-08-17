@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: NIKI",
+  "description": "Illuminating Asian artists everywhere.  Cover: Grace Power",
   "name": "Jasmine",
   "tracks": [
     {
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
@@ -3471,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "angelbites",
+        "url": "https://open.spotify.com/album/6zC62Ec79njeC4ubsKYbeY"
+      },
+      "artists": [
+        {
+          "name": "Minh",
+          "url": "https://open.spotify.com/artist/0MdanvjehiCvBNsqER4gwA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167670,
+      "name": "deserve you",
+      "url": "https://open.spotify.com/track/5POkAmWp0ta48aLFuBAgLM"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6tUQHiBPeeWlFoSEBFYDAQ"
       },
@@ -4672,6 +4690,24 @@
       "duration_ms": 145061,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/03c2bluectSWUWsIRbSpjB"
+    },
+    {
+      "album": {
+        "name": "FAR AWAY",
+        "url": "https://open.spotify.com/album/6XpkoSYods2AQKpm1D6BXK"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192226,
+      "name": "FAR AWAY",
+      "url": "https://open.spotify.com/track/5yytQ1fzofNj5YcWX6jgcL"
     },
     {
       "album": {
@@ -9342,7 +9378,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 221490,
       "name": "maybe",
       "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
@@ -10287,6 +10323,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "No Explanations",
         "url": "https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9"
       },
@@ -10656,7 +10714,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 239320,
       "name": "Only for a Moment",
       "url": "https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs"
@@ -11299,6 +11357,24 @@
     },
     {
       "album": {
+        "name": "Push Me 'Til I Break",
+        "url": "https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY"
+      },
+      "artists": [
+        {
+          "name": "Avry",
+          "url": "https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181037,
+      "name": "Push Me 'Til I Break",
+      "url": "https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z"
+    },
+    {
+      "album": {
         "name": "Puzzle",
         "url": "https://open.spotify.com/album/5M036X9ie02v6htGvb6aJN"
       },
@@ -11608,7 +11684,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 122448,
       "name": "Right About Love",
       "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
@@ -12024,7 +12100,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 180592,
       "name": "scenic route",
       "url": "https://open.spotify.com/track/1WrIpH5KlgQrYBsutdyWSE"
@@ -12162,7 +12238,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 197500,
       "name": "SEEING PINK",
       "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
@@ -12778,7 +12854,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 173293,
       "name": "So I Danced",
       "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
@@ -12890,7 +12966,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 161099,
       "name": "Solo Dates",
       "url": "https://open.spotify.com/track/4TdgwnihAXiS8AmvjItqIz"
@@ -13507,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "Suckin Up",
+        "url": "https://open.spotify.com/album/35HM7jBdmCS3i21AtpNgzR"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137097,
+      "name": "Suckin Up",
+      "url": "https://open.spotify.com/track/5qJNNgDuLrIY2HcOvQwZRY"
+    },
+    {
+      "album": {
         "name": "SUGAR DIVE",
         "url": "https://open.spotify.com/album/6nhu2S33qQ7nhnSBPDaa39"
       },
@@ -13548,7 +13642,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 145059,
       "name": "summer after senior year",
       "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
@@ -13904,6 +13998,24 @@
       "duration_ms": 174000,
       "name": "TANGO",
       "url": "https://open.spotify.com/track/6WYAO8rja9iZwBsIH1kPyz"
+    },
+    {
+      "album": {
+        "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+        "url": "https://open.spotify.com/album/1cWKLjrR7KbXulcyJGRW4A"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175595,
+      "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+      "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
     },
     {
       "album": {
@@ -15638,6 +15750,24 @@
       "duration_ms": 245233,
       "name": "we can't be friends (wait for your love) - Spotify Singles",
       "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow",
+        "url": "https://open.spotify.com/album/1LkNXMNJm99IwXVM2LGYMS"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "We Were Girls",
+      "url": "https://open.spotify.com/track/31jhZxOBe1l5Mp7kQcz9Sx"
     },
     {
       "album": {

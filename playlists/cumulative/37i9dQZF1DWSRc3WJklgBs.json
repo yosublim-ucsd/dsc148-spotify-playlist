@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/53LIEoBVRqQrFUS2kC2wHT"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144646,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/6TJW1HmoAU2OPNcL8M0PUM"
+    },
+    {
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/7vlLGz5jUD3E6pGQrFUJVl"
       },
@@ -3641,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "bring your love (to the light)",
+        "url": "https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6"
+      },
+      "artists": [
+        {
+          "name": "Noah Henderson",
+          "url": "https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "bring your love (to the light)",
+      "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
+    },
+    {
+      "album": {
         "name": "Bringing Me Home",
         "url": "https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL"
       },
@@ -5614,6 +5650,32 @@
       "duration_ms": 208106,
       "name": "Decide",
       "url": "https://open.spotify.com/track/2py6xMr2thQmJ2VhlpSD8W"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/2WKcvQnpIfFzRIiNRQk8Pt"
+      },
+      "artists": [
+        {
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        },
+        {
+          "name": "Cal-A",
+          "url": "https://open.spotify.com/artist/0THBKtaldoZ6Ndcw9WogpS"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/22oIJRdQwzREbrnrOOqC6F"
     },
     {
       "album": {
@@ -23167,6 +23229,28 @@
     },
     {
       "album": {
+        "name": "Surrender To You",
+        "url": "https://open.spotify.com/album/36Wt4mue1QWKCit4ov4Ux6"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Surrender To You",
+      "url": "https://open.spotify.com/track/6npNJi27oaklmOsdWEOKWh"
+    },
+    {
+      "album": {
         "name": "Reviver",
         "url": "https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz"
       },
@@ -26095,6 +26179,28 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189743,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY"
+    },
+    {
+      "album": {
         "name": "Wake Up With You",
         "url": "https://open.spotify.com/album/0w3pORscruGFSgCQgw8N0E"
       },
@@ -27490,6 +27596,24 @@
       "duration_ms": 232276,
       "name": "Will You Be Mine",
       "url": "https://open.spotify.com/track/15H467gdxSmq8IMl1TC46u"
+    },
+    {
+      "album": {
+        "name": "Will You Be There",
+        "url": "https://open.spotify.com/album/0FsRj2MTn1gMsqUmSwN7x5"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171547,
+      "name": "Will You Be There",
+      "url": "https://open.spotify.com/track/2A2gax6c7FmxhERVEDipsY"
     },
     {
       "album": {

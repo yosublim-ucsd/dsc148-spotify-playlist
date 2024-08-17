@@ -1,33 +1,13 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover :  Tenant\n",
-  "num_followers": 58407,
+  "description": "Check out the latest hits from Sandalwood!\nCover :  Royal\n",
+  "num_followers": 58419,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrygmgAAAAAsbiI4nBcRqIyaoBIscfwe",
+  "snapshot_id": "Zr8hEwAAAABtS7SVx8VcyUeHsT0hiS/M",
   "tracks": [
-    {
-      "added_at": "2024-08-06 12:30:20",
-      "album": {
-        "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1p9Ypde4bd9P3AeeuOspbB"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/59nurG5HKf5mWx5jn2JuZi"
-    },
     {
       "added_at": "2024-08-14 12:15:59",
       "album": {
@@ -57,6 +37,46 @@
       "url": "https://open.spotify.com/track/7IRutAFk82TSzHa4pwhBya"
     },
     {
+      "added_at": "2024-08-16 09:50:08",
+      "album": {
+        "name": "Krishnam Pranaya Sakhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5sHres67eZQUnBlOLttSh2"
+      },
+      "artists": [
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 258840,
+      "name": "Sri Krishnam (From \"Krishnam Pranaya Sakhi\")",
+      "url": "https://open.spotify.com/track/10IGIg3gqgqVZIx55aT25N"
+    },
+    {
+      "added_at": "2024-08-06 12:30:20",
+      "album": {
+        "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1p9Ypde4bd9P3AeeuOspbB"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Nagunaguta Edebadita (From \"Tenant\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/59nurG5HKf5mWx5jn2JuZi"
+    },
+    {
       "added_at": "2024-08-13 09:20:00",
       "album": {
         "name": "Kaadadeye Hegirali (From \"Krishnam Pranaya Sakhi\")",
@@ -75,6 +95,46 @@
       "duration_ms": 214095,
       "name": "Kaadadeye Hegirali (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/1onhyMSonHxMyOv0fk2YqT"
+    },
+    {
+      "added_at": "2024-08-16 09:45:46",
+      "album": {
+        "name": "Hani Hani Maleyu (From \"Great Love\")",
+        "url": "https://open.spotify.com/album/3Rl2sZZCjHxpzhAJSPVIY8"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Jaisri Shruti",
+          "url": "https://open.spotify.com/artist/2dThuPW4VnTvije2y0MugE"
+        },
+        {
+          "name": "Nikhil Kumar",
+          "url": "https://open.spotify.com/artist/6v6SjrMitLUazSYfGbXcWc"
+        }
+      ],
+      "duration_ms": 249269,
+      "name": "Hani Hani Maleyu (From \"Great Love\")",
+      "url": "https://open.spotify.com/track/2MBkqgtSqxqqSvVu7DxZo1"
+    },
+    {
+      "added_at": "2024-08-09 13:43:28",
+      "album": {
+        "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
+        "url": "https://open.spotify.com/album/3h3n5j8sQm403V5v4BEbFR"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
+        }
+      ],
+      "duration_ms": 176474,
+      "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
+      "url": "https://open.spotify.com/track/2ViwIwFqOzQu3DONknuz3l"
     },
     {
       "added_at": "2024-08-12 04:23:22",
@@ -101,22 +161,6 @@
       "url": "https://open.spotify.com/track/2XRvBbbNQmy9I1AHOmILvo"
     },
     {
-      "added_at": "2024-08-09 13:43:28",
-      "album": {
-        "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
-        "url": "https://open.spotify.com/album/3h3n5j8sQm403V5v4BEbFR"
-      },
-      "artists": [
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/1ouBpMzbHI9hMAdqZwIheV"
-        }
-      ],
-      "duration_ms": 176474,
-      "name": "Aadi Baa Magane Bheema (From \"Bheema\")",
-      "url": "https://open.spotify.com/track/2ViwIwFqOzQu3DONknuz3l"
-    },
-    {
       "added_at": "2024-08-14 12:18:34",
       "album": {
         "name": "Thangalaan (Original Motion Picture Soundtrack) - Kannada",
@@ -139,6 +183,26 @@
       "duration_ms": 183385,
       "name": "Thamateya Paari",
       "url": "https://open.spotify.com/track/4NxmhyAoglB2bgTLqkmcLI"
+    },
+    {
+      "added_at": "2024-08-16 09:51:15",
+      "album": {
+        "name": "Roopanthara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5T8u93f7IwIoG3Q31vQ4MS"
+      },
+      "artists": [
+        {
+          "name": "Midhun Mukundan",
+          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        {
+          "name": "Keerthan Bhandary",
+          "url": "https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn"
+        }
+      ],
+      "duration_ms": 138625,
+      "name": "Horatavayya (From \"Roopanthara\")",
+      "url": "https://open.spotify.com/track/3OauVwgZdKJokejWNwbB8C"
     },
     {
       "added_at": "2024-08-12 04:24:17",
@@ -1763,110 +1827,6 @@
       "duration_ms": 332000,
       "name": "Oh Anahita (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/1t0v6QWwA5eRaXSBJ1UaAn"
-    },
-    {
-      "added_at": "2024-06-17 06:46:15",
-      "album": {
-        "name": "Dhoom Dham (From \" LoveLi \")",
-        "url": "https://open.spotify.com/album/5at3LpeCS0Tnem9vV5cxVK"
-      },
-      "artists": [
-        {
-          "name": "Supreeth Phalguna",
-          "url": "https://open.spotify.com/artist/5QlgyJNe32Beofvbw7RhsA"
-        },
-        {
-          "name": "Pramod Maravanthe",
-          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        }
-      ],
-      "duration_ms": 174525,
-      "name": "Dhoom Dham - From \" LoveLi \"",
-      "url": "https://open.spotify.com/track/5ovBxwA1UO3SPIbUPrvwS7"
-    },
-    {
-      "added_at": "2024-06-21 05:39:41",
-      "album": {
-        "name": "Innenide (From \"Taj\")",
-        "url": "https://open.spotify.com/album/4AhXbB8zlX85ePGEAvdlDN"
-      },
-      "artists": [
-        {
-          "name": "Rajath Hegde",
-          "url": "https://open.spotify.com/artist/1ywPcIQtZs2lJEhtB4aYZN"
-        },
-        {
-          "name": "B R Surendranath",
-          "url": "https://open.spotify.com/artist/3QKeX8CH6c8Izb2FwA1aDK"
-        },
-        {
-          "name": "Jassie Gift",
-          "url": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
-        },
-        {
-          "name": "B Rajaratna",
-          "url": "https://open.spotify.com/artist/09PL06vNaV1FQaAvRxxmnL"
-        }
-      ],
-      "duration_ms": 279424,
-      "name": "Innenide - From \"Taj\"",
-      "url": "https://open.spotify.com/track/2iBaHQvtE8iQKMcWEXfg5W"
-    },
-    {
-      "added_at": "2024-06-20 07:30:57",
-      "album": {
-        "name": "Hoovina Kaadu (From \"Chilli Chicken\")",
-        "url": "https://open.spotify.com/album/2z8O4lunLUFBduLZyUzmuU"
-      },
-      "artists": [
-        {
-          "name": "Shilpa Mudbi Kothakota",
-          "url": "https://open.spotify.com/artist/7L72ncMUAxbRJFc93Jc5ob"
-        },
-        {
-          "name": "Siddhanth Sundar",
-          "url": "https://open.spotify.com/artist/0vLiJsPeD7oaMsDeCdcWnU"
-        },
-        {
-          "name": "Abhishek Menon",
-          "url": "https://open.spotify.com/artist/4SYLarPwR7xsjlwtA4oAJl"
-        },
-        {
-          "name": "Martin Yo",
-          "url": "https://open.spotify.com/artist/5aoFP8e4teKaBy6MVh8x8f"
-        }
-      ],
-      "duration_ms": 208119,
-      "name": "Hoovina Kaadu (From \"Chilli Chicken\")",
-      "url": "https://open.spotify.com/track/6Nv9LjJ0FHn3PVCIsr5ZKb"
-    },
-    {
-      "added_at": "2024-06-13 11:42:28",
-      "album": {
-        "name": "Yenu Padeyade (From \"Sambhavami Yuge Yuge\")",
-        "url": "https://open.spotify.com/album/2yLCQflzH9pYZIuSQbrA7Y"
-      },
-      "artists": [
-        {
-          "name": "Harshika Devanath",
-          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
-        },
-        {
-          "name": "Puran Shettigaar",
-          "url": "https://open.spotify.com/artist/1H57nTqeH3QL2sa4abWwzQ"
-        },
-        {
-          "name": "Dr. Umesh Pilikudelu",
-          "url": "https://open.spotify.com/artist/49eBxQQoKSRI35VeuY4pZF"
-        }
-      ],
-      "duration_ms": 236612,
-      "name": "Yenu Padeyade (From \"Sambhavami Yuge Yuge\")",
-      "url": "https://open.spotify.com/track/09ybLdAwYIFxbPYFHDJDO2"
     }
   ],
   "unique_name": "Latest Kannada",

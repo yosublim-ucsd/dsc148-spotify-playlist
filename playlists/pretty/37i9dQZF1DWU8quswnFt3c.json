@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: DOROFEEVA.",
-  "num_followers": 955239,
+  "num_followers": 955240,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,22 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "Getting No Sleep",
-        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
+        "name": "My Barn My Rules",
+        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Getting No Sleep",
-      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
+      "duration_ms": 266344,
+      "name": "My Barn My Rules",
+      "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -523,22 +527,18 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "My Barn My Rules",
-        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
+        "name": "Getting No Sleep",
+        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
       },
       "artists": [
         {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        },
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 266344,
-      "name": "My Barn My Rules",
-      "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
+      "duration_ms": 192000,
+      "name": "Getting No Sleep",
+      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-07 04:00:00",
       "album": {
-        "name": "MARIA",
-        "url": "https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH"
-      },
-      "artists": [
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
-        }
-      ],
-      "duration_ms": 128123,
-      "name": "VIRGIN MARIA",
-      "url": "https://open.spotify.com/track/2nPladpIRlyszZaOm9q9Rw"
-    },
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
         "name": "Two Friends",
         "url": "https://open.spotify.com/album/3AyO9wJl2IB3PRZSX2Mogs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "duration_ms": 128123,
+      "name": "VIRGIN MARIA",
+      "url": "https://open.spotify.com/track/2nPladpIRlyszZaOm9q9Rw"
     }
   ],
   "unique_name": "EQUAL",

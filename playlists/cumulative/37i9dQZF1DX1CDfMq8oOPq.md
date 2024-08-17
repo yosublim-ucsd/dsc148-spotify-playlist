@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> torya e mil fitas
+> todos os olhos na onnika 👀
 
-254 songs - 12 hr 7 min
+255 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Apostas e Contratos \- Ao Vivo](https://open.spotify.com/track/79mrh2ByWxSh24uV8I6pIc) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Ashira No Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/6nxV2RXjblA8wg4ZZs6Mea) | 3:32 | 2023-01-13 | 2023-04-01 |
 | [Aquecimento](https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Aquecimento](https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw) | 2:03 | 2022-03-11 |  |
 | [As Preta Primeiro](https://open.spotify.com/track/7L1JQv9Lg1QFMmiGvUmQDq) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [As Preta Primeiro](https://open.spotify.com/album/1HsXss4gvRvAJ79OcdkoZw) | 2:37 | 2024-03-08 | 2024-04-19 |
-| [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 | 2022-03-11 |  |
+| [Ashley Banks](https://open.spotify.com/track/5zu8LEldkTfctEEFVQID8x) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Ashley Banks](https://open.spotify.com/album/6CDE1Mgxb05mEbjI9LdyQY) | 3:28 | 2022-03-11 | 2024-08-17 |
 | [ATL Freestyle](https://open.spotify.com/track/5JU5JyRvxarASKxiieyO1R) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [taldiBruna](https://open.spotify.com/artist/3snpFKva3dzwybLBYseLP8), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Artilheira](https://open.spotify.com/album/4L9PPCaKaPq4mtTJTImIvn) | 2:16 | 2024-06-21 | 2024-08-10 |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-08-25 |  |
 | [Audi](https://open.spotify.com/track/2988kuv79kMRHfLHFucz7k) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Jô](https://open.spotify.com/artist/4DztvVriZDy8pMRiPBA6qI) | [Audi](https://open.spotify.com/album/0xkY0Q55DwJjnEUvkVVsM4) | 2:11 | 2023-08-18 | 2023-09-23 |
@@ -151,6 +151,7 @@
 | [Muito Calma](https://open.spotify.com/track/5MLnrPYZDlH1MRRaD4rRXU) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM) | [A Preta](https://open.spotify.com/album/0c6NCCSnLJjgQTZlkzUmQS) | 2:25 | 2022-03-11 |  |
 | [Mute](https://open.spotify.com/track/0so4HfRx4F1Ffs1PXl04Hk) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl) | [Mute](https://open.spotify.com/album/7DWW9bwIeodx2l7VVGXq2R) | 2:33 | 2022-11-25 | 2023-01-14 |
 | [N.I.N.A](https://open.spotify.com/track/0ZVW6vKav9Jp9AunMFmulJ) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 3:44 | 2022-04-29 | 2024-04-06 |
+| [Na Rua](https://open.spotify.com/track/6TwXnsObSHGAOKUbhxGmfC) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Versos e Voos](https://open.spotify.com/album/0PxKUgrFm5TILYhoQk98XQ) | 3:07 | 2024-08-16 |  |
 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 | 2024-03-01 |  |
 | [Negona](https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Negona](https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP) | 3:06 | 2023-12-01 |  |
 | [Negra Tipo A](https://open.spotify.com/track/0BGTRgMKPa0L6Z4YH9q7wU) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD) | [Por Que os Homens Amam as Vadias?](https://open.spotify.com/album/7qpP3amvqMAqMZInViXcFS) | 2:34 | 2024-01-19 | 2024-03-30 |

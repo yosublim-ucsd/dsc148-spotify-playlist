@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 ### [Hot Hits Tunisia](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> Adam Port & Stryv en tête de la playlist numéro un en Tunisie.
+> Samara en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,941 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,002 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Netmanelk Kol El Khiir](https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Netmanelk Kol El Khiir](https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc) | 2:25 |
 | 50 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 |
 
-Snapshot ID: `ZrC38QAAAABprjrhRLpa+UMURJhSYCOA`
+Snapshot ID: `Zr8n5QAAAADFai6Gzy787vlBc2ZaSLkL`

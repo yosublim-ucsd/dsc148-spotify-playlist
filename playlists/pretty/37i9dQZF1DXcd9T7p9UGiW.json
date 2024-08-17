@@ -1,12 +1,12 @@
 {
-  "description": "Catching flights and going global. Cover: Stonebwoy",
-  "num_followers": 50894,
+  "description": "Catching flights and going global. Cover: Juls",
+  "num_followers": 50925,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7AdAAAAABz6e/d6WisWklf1rudv10P",
+  "snapshot_id": "Zr8fxwAAAADNS3Ya0+d9S1JlSNkFw62G",
   "tracks": [
     {
       "added_at": "2024-08-16 02:59:00",
@@ -99,6 +99,26 @@
       "duration_ms": 205263,
       "name": "Wave",
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+    },
+    {
+      "added_at": "2024-08-16 09:45:43",
+      "album": {
+        "name": "Perspective",
+        "url": "https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 159818,
+      "name": "Perspective",
+      "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
     },
     {
       "added_at": "2024-08-16 02:59:00",
@@ -744,7 +764,7 @@
           "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
         }
       ],
-      "duration_ms": 152195,
+      "duration_ms": 138536,
       "name": "Live For The Night",
       "url": "https://open.spotify.com/track/23OzgVOHgahWB5MrYPudno"
     },
@@ -1671,26 +1691,6 @@
       "duration_ms": 159500,
       "name": "Ta Ta Ta (with Jason Derulo)",
       "url": "https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy"
-    },
-    {
-      "added_at": "2024-08-16 02:59:00",
-      "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Hold On (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/1kiGp1LrMv3AHAOuNsjXnM"
     },
     {
       "added_at": "2024-08-16 02:59:00",

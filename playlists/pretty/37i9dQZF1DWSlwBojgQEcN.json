@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1716878,
+  "num_followers": 1716861,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Sea Of Love",
-        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 203190,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Highway Woman",
         "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 245840,
       "name": "Who Saved Who",
       "url": "https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Sea Of Love",
+        "url": "https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 203190,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS"
     },
     {
       "added_at": "2024-07-05 22:35:53",

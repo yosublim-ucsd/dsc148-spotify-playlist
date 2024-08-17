@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59202,
+  "num_followers": 59199,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Kyss mig snabbt i otakt",
+        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "F\u00f6rlora",
+      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Inget halleluja",
         "url": "https://open.spotify.com/album/4wJROHXVthUZyZofON9tj8"
       },
@@ -479,18 +495,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Kyss mig snabbt i otakt",
-        "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
+        "name": "Hils Din Mor (feat. Anne Linnet)",
+        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
       "artists": [
         {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+          "name": "Freja Kirk",
+          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
+        },
+        {
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "Anne Linnet",
+          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
         }
       ],
-      "duration_ms": 189613,
-      "name": "F\u00f6rlora",
-      "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+      "duration_ms": 172998,
+      "name": "Hils Din Mor (feat. Anne Linnet)",
+      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -523,30 +547,6 @@
       "duration_ms": 207160,
       "name": "Stj\u00e4rnorna inatt",
       "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Hils Din Mor (feat. Anne Linnet)",
-        "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
-      },
-      "artists": [
-        {
-          "name": "Freja Kirk",
-          "url": "https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG"
-        },
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "Anne Linnet",
-          "url": "https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY"
-        }
-      ],
-      "duration_ms": 172998,
-      "name": "Hils Din Mor (feat. Anne Linnet)",
-      "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "En F\u00f6rsta Dans",
-        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "En F\u00f6rsta Dans",
-      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Aff\u00e4ren (feat. Dolce)",
         "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "En F\u00f6rsta Dans",
+        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "En F\u00f6rsta Dans",
+      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Fr\u00e4knar (500 dagar)",
         "url": "https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 223812,
       "name": "Fr\u00e4knar (500 dagar)",
       "url": "https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Might Destroy You",
+        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Might Destroy You",
+      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -791,26 +807,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sprit & Blondiner",
-        "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
-      },
-      "artists": [
-        {
-          "name": "Silvana Imam",
-          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
-        },
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Sprit & Blondiner",
-      "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -827,18 +823,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Might Destroy You",
-        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+        "name": "Sprit & Blondiner",
+        "url": "https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK"
       },
       "artists": [
         {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+          "name": "Silvana Imam",
+          "url": "https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g"
+        },
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Might Destroy You",
-      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
+      "duration_ms": 203571,
+      "name": "Sprit & Blondiner",
+      "url": "https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
+      },
+      "artists": [
+        {
+          "name": "Orph\u00e9e Noah",
+          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
+        }
+      ],
+      "duration_ms": 188643,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 213750,
       "name": "I'll Come Your Way",
       "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
-      },
-      "artists": [
-        {
-          "name": "Orph\u00e9e Noah",
-          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
-        }
-      ],
-      "duration_ms": 188643,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Imagine Paradise",
-        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
-      },
-      "artists": [
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        }
-      ],
-      "duration_ms": 237655,
-      "name": "Imagine Paradise",
-      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 149333,
       "name": "Free",
       "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Imagine Paradise",
+        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
+      },
+      "artists": [
+        {
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
+        }
+      ],
+      "duration_ms": 237655,
+      "name": "Imagine Paradise",
+      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Waterworks",
-        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
-        }
-      ],
-      "duration_ms": 128920,
-      "name": "BeReal",
-      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Se p\u00e5 oss",
         "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 209327,
       "name": "Se p\u00e5 oss",
       "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Waterworks",
+        "url": "https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cy",
+          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
+        }
+      ],
+      "duration_ms": 128920,
+      "name": "BeReal",
+      "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "I Miss My Adidas",
+        "url": "https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4"
+      },
+      "artists": [
+        {
+          "name": "Gina Hannuksela",
+          "url": "https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs"
+        },
+        {
+          "name": "CharlyC",
+          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "I Miss My Adidas",
+      "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Closer To You",
         "url": "https://open.spotify.com/album/5en29xsFo9ZGuUlz5cc94V"
       },
@@ -1511,26 +1531,6 @@
       "duration_ms": 189546,
       "name": "GALAXER",
       "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "I Miss My Adidas",
-        "url": "https://open.spotify.com/album/3zj3iOABTpniQ7gpa69Ex4"
-      },
-      "artists": [
-        {
-          "name": "Gina Hannuksela",
-          "url": "https://open.spotify.com/artist/4UzbWXKuUlOMtrsUaVyQcs"
-        },
-        {
-          "name": "CharlyC",
-          "url": "https://open.spotify.com/artist/6EKwuMau0XsZaaBea8aXAV"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "I Miss My Adidas",
-      "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "NOSTALGI",
         "url": "https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U"
       },
@@ -1715,6 +1731,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 150170,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Pussycat.",
         "url": "https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs"
       },
@@ -1735,18 +1783,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+        "name": "Havet",
+        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
       },
       "artists": [
         {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+          "name": "Marcus Berggren",
+          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
+      "duration_ms": 262976,
+      "name": "Havet",
+      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1779,54 +1827,6 @@
       "duration_ms": 165176,
       "name": "MATTER",
       "url": "https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Rollercoaster",
-        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 150170,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Havet",
-        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
-      },
-      "artists": [
-        {
-          "name": "Marcus Berggren",
-          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Havet",
-      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
     }
   ],
   "unique_name": "p\u00e5 repeat",

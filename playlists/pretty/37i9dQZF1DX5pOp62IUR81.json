@@ -1,12 +1,12 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 177366,
+  "num_followers": 177397,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAACR271XFFgE9Wx1U0Bi0fk5",
+  "snapshot_id": "Zr+1tAAAAABYd3SVXwJVTvHOrqC8TfYY",
   "tracks": [
     {
       "added_at": "2024-07-25 18:31:54",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/5YEpYN4oyDaWODhd5t4av3"
     },
     {
+      "added_at": "2024-08-16 20:25:24",
+      "album": {
+        "name": "Marvel's Spider-Man 2: Lofi",
+        "url": "https://open.spotify.com/album/57zKQ5DLqVI7PiEaqUsKFU"
+      },
+      "artists": [
+        {
+          "name": "Pendrick",
+          "url": "https://open.spotify.com/artist/12WlLXqXCFZ2VTy96t7UtF"
+        }
+      ],
+      "duration_ms": 171527,
+      "name": "Swing (Lofi Version)",
+      "url": "https://open.spotify.com/track/4hCwxMk9WLaXmH4se0KWCL"
+    },
+    {
       "added_at": "2024-01-05 18:09:37",
       "album": {
         "name": "Black Panther: Wakanda Forever (Original Score)",
@@ -491,6 +507,26 @@
       "duration_ms": 123553,
       "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
       "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
+    },
+    {
+      "added_at": "2024-08-16 20:23:55",
+      "album": {
+        "name": "What If...? - An Immersive Story - Original Soundtrack",
+        "url": "https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 83418,
+      "name": "The Hero of the Multiverse",
+      "url": "https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG"
     },
     {
       "added_at": "2024-01-05 18:09:37",

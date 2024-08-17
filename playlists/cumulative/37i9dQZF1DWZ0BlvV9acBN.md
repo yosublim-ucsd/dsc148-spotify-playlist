@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
 
-159 songs - 12 hr 19 min
+161 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 | 2022-09-02 | 2024-08-10 |
 | [Acredita \(Legado\)](https://open.spotify.com/track/7uqo88bv78vsNOmSwEpgLP) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Novo Som \(Legado\)](https://open.spotify.com/album/70s9Abr9QOsXPlXu9cx0og) | 4:01 | 2024-06-21 |  |
 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 | 2022-09-02 |  |
+| [All Your Days](https://open.spotify.com/track/40J1TaiS7nLpfHbF0SBL4K) | [Allos](https://open.spotify.com/artist/22oyZI0CrBWBe7eHVd9LP1), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [All Your Days](https://open.spotify.com/album/43BrpODFYQ5nhPUL8mrtuG) | 4:50 | 2024-08-16 |  |
 | [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 | 2024-06-08 |
 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 | 2022-09-02 | 2023-04-16 |
 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 | 2023-03-03 | 2024-06-01 |
@@ -70,6 +71,7 @@
 | [Fui Encontrado](https://open.spotify.com/track/0U4A3mLKbj59c8WxUFdhZ9) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI](https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK) | 3:13 | 2023-11-24 | 2024-04-19 |
 | [Fui Encontrado](https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Fui Encontrado](https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu) | 3:13 | 2023-03-18 |  |
 | [Galileu](https://open.spotify.com/track/1UcENe6fEk2JiX49sAd5ba) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Filipe Martins](https://open.spotify.com/artist/3Y2RYm0nbrGZC7dzSeTtau) | [Galileu](https://open.spotify.com/album/5Jpc8te4YQyzxpgfb3ZRl7) | 3:01 | 2023-01-13 | 2023-01-21 |
+| [Girassol](https://open.spotify.com/track/0Knupzr9ZhMApMjiwSAQBx) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Girassol](https://open.spotify.com/album/6qwE5HKEYKA4oak3S4Q9OA) | 5:36 | 2024-08-16 |  |
 | [Glorificar](https://open.spotify.com/track/01BOsTs8gmz5XYl7vafIlj) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Glorificar Cristo, Edificar a Igreja](https://open.spotify.com/album/0M76j8Ya0ivRnkRvTHR0GE) | 5:24 | 2022-09-02 | 2024-03-09 |
 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 | 2023-12-18 |  |
 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 | 2024-08-09 |  |
@@ -81,7 +83,7 @@
 | [Inteiro](https://open.spotify.com/track/5b6mh3jQ9Fo1UGn6WYcsMB) | [O Maior Clichê do Mundo](https://open.spotify.com/artist/4fvOeE1bNOgK9e10xKwg4w) | [FRAGMENTADO](https://open.spotify.com/album/44UeCTwnZhEnGCzD7cKmML) | 3:51 | 2023-11-03 | 2023-11-25 |
 | [Jardim Dos Inocentes](https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [Jardim Dos Inocentes](https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s) | 6:10 | 2023-09-08 |  |
 | [Jesus é o Amigo da Hora](https://open.spotify.com/track/7aeJCG02CJAMgXjX5NmJX8) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Jesus é o Amigo da Hora](https://open.spotify.com/album/29CVx12VyXFjyNZbvC2iSW) | 3:19 | 2023-01-20 | 2023-03-04 |
-| [John](https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp) | [Geisson Augusto](https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle) | [John](https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD) | 3:30 | 2024-06-07 |  |
+| [John](https://open.spotify.com/track/2VrZk39CZtqr7TIjF0aJIp) | [Geisson Augusto](https://open.spotify.com/artist/4UBl1COiNkZVcA0blaQKle) | [John](https://open.spotify.com/album/5Kkg9ZUfUlO7nTyHmrrMuD) | 3:30 | 2024-06-07 | 2024-08-17 |
 | [João 1 \- VEC](https://open.spotify.com/track/4uruuwLWdKR34haz31Ptzk) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/3upWhnmQOjNyyUyFnIO4PP) | 4:18 | 2022-10-07 |  |
 | [João 1 \- VEC](https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [Vida/Eternidade](https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be) | 4:18 | 2023-05-05 | 2024-04-19 |
 | [justiça, paz, alegria](https://open.spotify.com/track/0uFxeF9GqOOOlYAwHQVOjW) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY), [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4) | [justiça, paz, alegria](https://open.spotify.com/album/2xtFRJflfGl6hkMIoZ1fKS) | 4:30 | 2022-09-02 | 2022-10-08 |
@@ -125,7 +127,7 @@
 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 | 2022-09-02 |  |
 | [Palavra Que Liberta](https://open.spotify.com/track/1U6LHz1vv8ZMdlMuCNusOf) | [William Graziane](https://open.spotify.com/artist/1d6bwuv0gGdrJbheeMwzip) | [Palavra Que Liberta](https://open.spotify.com/album/3Hr4GvmwDl0cZoThZAAyAO) | 4:24 | 2023-08-18 | 2023-09-16 |
 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 | 2022-09-02 |  |
-| [Porão](https://open.spotify.com/track/3vU0zgDNn2MA5jbV2eDpyT) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Porão](https://open.spotify.com/album/7relusD39q6LDbVecuicYx) | 4:29 | 2024-06-14 |  |
+| [Porão](https://open.spotify.com/track/3vU0zgDNn2MA5jbV2eDpyT) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Porão](https://open.spotify.com/album/7relusD39q6LDbVecuicYx) | 4:29 | 2024-06-14 | 2024-08-17 |
 | [Pra Quem Já Perdeu um Sonho](https://open.spotify.com/track/6pLxOs1DafrlwPRGfNziZs) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Terra À Vista](https://open.spotify.com/album/61UUKcuzMdg2jV5IFTLYSK) | 3:57 | 2022-09-02 | 2023-04-16 |
 | [Prodigus](https://open.spotify.com/track/2RRQa8aFw1aYUTv220EAyx) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Prodigus](https://open.spotify.com/album/0q7pvDiTuiZzpq4f1t9Ta5) | 4:40 | 2023-07-14 | 2023-09-16 |
 | [Pura Luz](https://open.spotify.com/track/4ueM9Lm7cMB68qkveLIFG0) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Pura Luz](https://open.spotify.com/album/5dC3nxKgPPfZJD0ZJxTE5D) | 5:45 | 2022-09-02 | 2023-03-18 |

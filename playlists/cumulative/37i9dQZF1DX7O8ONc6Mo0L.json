@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 285098,
       "name": "Al\u00edvio",
       "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
@@ -1339,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Ficarei Aqui (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1xh3s0d92kE7lKXCNCQ1zL"
+      },
+      "artists": [
+        {
+          "name": "Lorhann",
+          "url": "https://open.spotify.com/artist/2JzXhnel5dnhOOjYAmTgjJ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109223,
+      "name": "Ficarei Aqui - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/59ipGli2xXjxfvQAS82cyD"
+    },
+    {
+      "album": {
         "name": "Florescer",
         "url": "https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG"
       },
@@ -1456,6 +1474,24 @@
       "duration_ms": 219625,
       "name": "Intimidade - Ao Vivo",
       "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
+    },
+    {
+      "album": {
+        "name": "Lan\u00e7a Sobre Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3dElFFGWuuY118yedT8Oia"
+      },
+      "artists": [
+        {
+          "name": "Dalete Hungria",
+          "url": "https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330155,
+      "name": "Lan\u00e7a Sobre Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/3NKfKJAnUScbZSk5EU6xfT"
     },
     {
       "album": {
@@ -2944,7 +2980,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-17",
       "duration_ms": 214445,
       "name": "T\u00e1 Chorando Por Qu\u00ea?",
       "url": "https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE"

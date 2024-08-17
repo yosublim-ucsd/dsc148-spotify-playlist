@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain]
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 54,124 likes - 374 songs - 20 hr 27 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 54,119 likes - 374 songs - 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

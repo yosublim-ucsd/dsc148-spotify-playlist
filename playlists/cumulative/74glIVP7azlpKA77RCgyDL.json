@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Deadlands",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Heriot",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "At the Fortress Gate",
+        "url": "https://open.spotify.com/album/335GTRmZ0rVWAW0zCy8CpC"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "At the Fortress Gate",
+      "url": "https://open.spotify.com/track/03U4RGt6wDRNuU5ba83FQ9"
+    },
+    {
+      "album": {
         "name": "Attainable",
         "url": "https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx"
       },
@@ -1206,6 +1224,24 @@
       "duration_ms": 175173,
       "name": "Bite The Hook",
       "url": "https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM"
+    },
+    {
+      "album": {
+        "name": "Or So I Thought / Blind / Detached",
+        "url": "https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib"
+      },
+      "artists": [
+        {
+          "name": "Fentanyl",
+          "url": "https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59392,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb"
     },
     {
       "album": {
@@ -5909,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "In Desolation",
+        "url": "https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3"
+      },
+      "artists": [
+        {
+          "name": "Born Of Osiris",
+          "url": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221801,
+      "name": "In Desolation",
+      "url": "https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp"
+    },
+    {
+      "album": {
         "name": "In The Mean Time (feat. Ash Costello)",
         "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
       },
@@ -6998,6 +7052,24 @@
       "duration_ms": 191724,
       "name": "Mark of the Beast",
       "url": "https://open.spotify.com/track/2H7S1nfwOMiorqcxIngVdx"
+    },
+    {
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc"
+      },
+      "artists": [
+        {
+          "name": "GEL",
+          "url": "https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156600,
+      "name": "Martyr",
+      "url": "https://open.spotify.com/track/2wtCQ4hMGsPQrQ45Kq98qJ"
     },
     {
       "album": {
@@ -9921,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/6jbtH3B1S1Gae3EALfxiY2"
+      },
+      "artists": [
+        {
+          "name": "Vended",
+          "url": "https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278764,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/1xLE6B5cXy3mTobUzntBQM"
+    },
+    {
+      "album": {
         "name": "Seventy Thorns (feat. Jonathan Davis)",
         "url": "https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt"
       },
@@ -10316,6 +10406,24 @@
       "duration_ms": 238000,
       "name": "Sleepless Deathbed",
       "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
+    },
+    {
+      "album": {
+        "name": "Leap of Death",
+        "url": "https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236204,
+      "name": "Slow Talk",
+      "url": "https://open.spotify.com/track/02EG7ed9hWM4AB31YoChgJ"
     },
     {
       "album": {

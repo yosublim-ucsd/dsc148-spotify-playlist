@@ -1407,20 +1407,24 @@
     },
     {
       "album": {
-        "name": "24/Siempre Vol.1",
+        "name": "24/Siempre, Vol. 1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
       "artists": [
         {
           "name": "El Triangulo Estudio",
           "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 110229,
-      "name": "C.R.O",
+      "name": "C.R.O 24/Siempre",
       "url": "https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY"
     },
     {
@@ -4089,20 +4093,24 @@
     },
     {
       "album": {
-        "name": "24/Siempre Vol.1",
+        "name": "24/Siempre, Vol. 1",
         "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
       "artists": [
         {
           "name": "El Triangulo Estudio",
           "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
         }
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 152298,
-      "name": "Homer el Mero Mero",
+      "name": "Homer el Mero Mero 24/Siempre",
       "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
