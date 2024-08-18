@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 766496,
+  "num_followers": 766541,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Anyone Who Loves Me",
-      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Le Petit Prince (Bande originale du film)",
-        "url": "https://open.spotify.com/album/6epIOxXmRWOLlxTjIgKG7k"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
       },
       "artists": [
         {
-          "name": "Camille",
-          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
         }
       ],
-      "duration_ms": 206506,
-      "name": "Suis-moi",
-      "url": "https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"
+      "duration_ms": 236533,
+      "name": "Anyone Who Loves Me",
+      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -591,6 +571,26 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Le Petit Prince (Bande originale du film)",
+        "url": "https://open.spotify.com/album/6epIOxXmRWOLlxTjIgKG7k"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Suis-moi",
+      "url": "https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 196577,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180973,
       "name": "You",
       "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 196577,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/1UGWZxOlDi4dU5GLXbow0b"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7udUBZMgHJcaf7ByUr0l8a"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Enzo Enzo",
         "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 208200,
       "name": "Les yeux ouverts",
       "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/1UGWZxOlDi4dU5GLXbow0b"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7udUBZMgHJcaf7ByUr0l8a"
     },
     {
       "added_at": "2024-07-25 22:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-25 22:00:00",
       "album": {
-        "name": "Sunset Park",
-        "url": "https://open.spotify.com/album/5SIZvHjcywZNeJZx0158sB"
-      },
-      "artists": [
-        {
-          "name": "H-Burns",
-          "url": "https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "Sunset Park",
-      "url": "https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi"
-    },
-    {
-      "added_at": "2024-07-25 22:00:00",
-      "album": {
         "name": "Les montagnes de Cor\u00e9e",
         "url": "https://open.spotify.com/album/4gGUSlybPIo465qR464coa"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 197040,
       "name": "Les montagnes de Cor\u00e9e",
       "url": "https://open.spotify.com/track/5bYqFb02PzWCOVpjvpCSm5"
+    },
+    {
+      "added_at": "2024-07-25 22:00:00",
+      "album": {
+        "name": "Sunset Park",
+        "url": "https://open.spotify.com/album/5SIZvHjcywZNeJZx0158sB"
+      },
+      "artists": [
+        {
+          "name": "H-Burns",
+          "url": "https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "Sunset Park",
+      "url": "https://open.spotify.com/track/3C24CgUmtZsEWHCJ7aEDoi"
     },
     {
       "added_at": "2024-07-25 22:00:00",

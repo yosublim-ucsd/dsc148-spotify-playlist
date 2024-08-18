@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Linda Lindas
 
-1,392 songs - 3 day 7 hr 56 min
+1,394 songs - 3 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Feather](https://open.spotify.com/track/4HqJBwbL1IKs2oueLRTf4d) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Whyte](https://open.spotify.com/artist/7EEDX8dHGLFMAE2AJ29ZAC) | [WORLD](https://open.spotify.com/album/3Fv32HrpkGIRiNeClZqJ9z) | 3:51 | 2024-04-18 | 2024-06-21 |
 | [Feather](https://open.spotify.com/track/5Cq0AqbX6OcD9EWfTzxC86) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Whyte](https://open.spotify.com/artist/7EEDX8dHGLFMAE2AJ29ZAC) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:51 | 2024-04-04 | 2024-04-19 |
 | [February Sky](https://open.spotify.com/track/5MwtA7nicSHA0JAL8DwSuv) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [February Sky](https://open.spotify.com/album/0dr6d4tl4PRIAP2PqnCWCJ) | 3:18 | 2024-04-11 | 2024-04-19 |
-| [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-06-02 |  |
+| [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 | 2024-06-02 | 2024-08-18 |
 | [Feel Like Me](https://open.spotify.com/track/4dft8CZAm1yURC9weV6o7N) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Feel Like Me](https://open.spotify.com/album/79y7ORz2Q77AnlJnNaS46K) | 2:33 | 2023-09-28 | 2023-10-06 |
 | [Feeling Grey](https://open.spotify.com/track/5DaqBBrzz9cenJsBACDz2S) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [i'll remember you for the same feeling you gave me as i slept](https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm) | 4:32 | 2024-02-15 | 2024-02-23 |
 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 | 2023-10-12 | 2023-11-24 |
@@ -456,7 +456,7 @@
 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-14 | 2023-12-22 |
 | [Flow](https://open.spotify.com/track/2NB6ACcaEct5ha069bXw7P) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Flow](https://open.spotify.com/album/5ALiFefXq1BQLwVG7CVJwq) | 3:53 | 2023-06-30 | 2023-07-14 |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |
-| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 |  |
+| [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2024-08-18 |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-05-25 | 2023-06-02 |
 | [forever mine](https://open.spotify.com/track/3OZw5UHlYIzwc0dCBOBFx9) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:55 | 2023-11-30 | 2023-12-08 |
 | [Forevermore](https://open.spotify.com/track/4kga9bV33OuMRYwzt7oPul) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [A Torch In The Dark](https://open.spotify.com/album/6H6kvxbLq2kpLd8QGJfrbx) | 2:53 | 2023-11-02 | 2023-11-10 |
@@ -715,6 +715,7 @@
 | [Living Or Dying](https://open.spotify.com/track/33hscsDJtrZMeOi5eJhHLr) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Living Or Dying](https://open.spotify.com/album/1B43OF6rFqDRanhHHDUIQH) | 3:39 | 2023-11-02 | 2023-11-17 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-07-19 |
 | [Living Proof](https://open.spotify.com/track/5EiE9ElrC8UNnyuEOIpPeV) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 3:22 | 2023-05-04 | 2023-05-12 |
+| [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-15 |  |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-02-01 | 2024-02-09 |
 | [Lonely Together](https://open.spotify.com/track/5OcPfwCFJ5WDIywu4fZ1Jp) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Lonely Together](https://open.spotify.com/album/1tVvVpUuYQtHVNzWueWKPr) | 3:34 | 2023-07-27 | 2023-08-04 |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-05-02 | 2024-05-26 |
@@ -841,6 +842,7 @@
 | [no\_thing](https://open.spotify.com/track/7Fh3k7xOMQoy2t1d30CowT) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [no\_thing](https://open.spotify.com/album/2IOiijnNO407GV2j6tlyWn) | 3:08 | 2024-06-06 | 2024-07-19 |
 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 | 2023-06-22 | 2023-11-16 |
 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 | 2024-03-04 |  |
+| [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 |  |
 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 | 2024-02-29 | 2024-05-03 |
 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 | 2023-10-05 | 2024-01-19 |
 | [Normalize \- Slowed Down](https://open.spotify.com/track/7EjR7vAcS4cF5sxnWKxIEN) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Normalize \(Slowed Down\)](https://open.spotify.com/album/3s5LZva6p515SYCNuEch3w) | 5:08 | 2023-07-27 | 2023-08-04 |

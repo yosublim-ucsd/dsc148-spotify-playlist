@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover:Jeong Gayi\(정가이\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-520 songs - 1 day 6 hr 57 min
+521 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
-| [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 |  |
+| [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 | 2024-08-18 |
 | [Did you miss me? \(feat\. 임철\)](https://open.spotify.com/track/22rbXKRME0ASiBHcH8OBPu) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH), [임철](https://open.spotify.com/artist/3RabhGGr0SjsaDgcrrF7EW) | [Replay](https://open.spotify.com/album/4APXVX9x7dCCrzLvQYO6tP) | 3:41 | 2023-06-14 | 2023-07-02 |
 | [Diving](https://open.spotify.com/track/49QAAi1tZEROASlvApjnrn) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Forty](https://open.spotify.com/album/13JzvhyivpmgMUlmySRjvH) | 3:17 | 2024-03-15 | 2024-03-29 |
 | [dog\-ear serenade](https://open.spotify.com/track/67Ik5JjDPh8woWj712RxEk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [serenade](https://open.spotify.com/album/72pWzyWNfsulaflLOi7gby) | 4:35 | 2024-05-24 | 2024-06-20 |
@@ -510,6 +510,7 @@
 | [물감 Paint](https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [물감 Paint](https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/0zvzglIwe1ac0OdMaCLSat) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [봄인가 봐 Spring Love](https://open.spotify.com/album/1h5XqsWqZ5Ok53tB3rAHsW) | 3:18 | 2022-03-31 | 2022-05-22 |
 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 | 2022-07-08 | 2024-04-19 |
+| [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-08-12 |  |
 | [사랑의 언어 Love Language](https://open.spotify.com/track/0xqtS4SOVkz42r5Yegp75J) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural I](https://open.spotify.com/album/2G7dMVzpNZMDbhPvULZcE3) | 3:50 | 2024-02-20 | 2024-03-07 |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-03-31 | 2022-04-19 |
 | [선인장 \(Vocal By 심규선\)](https://open.spotify.com/track/15nO3s4A5Bl1838kzBT8ym) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN), [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [유실물 보관소](https://open.spotify.com/album/5n1NNhLPzFUCxy2gKLjUQc) | 3:30 | 2022-03-31 | 2022-04-21 |

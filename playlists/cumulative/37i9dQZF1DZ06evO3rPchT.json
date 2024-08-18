@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "Hide My Gun",
+        "url": "https://open.spotify.com/album/0FkN8aOrO8jpnzKEtcqetD"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220479,
+      "name": "Hide My Gun (Feat. HARDY)",
+      "url": "https://open.spotify.com/track/1UEgWCAt578XMHXBOMnxKx"
+    },
+    {
+      "album": {
         "name": "Hometown Boys (feat. Matt Stell, Dierks Bentley & HARDY)",
         "url": "https://open.spotify.com/album/1bbxGXkTZgxCwF2ApqpuwP"
       },

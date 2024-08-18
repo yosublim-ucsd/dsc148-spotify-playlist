@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39613,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk"
+    },
+    {
+      "album": {
         "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
       },

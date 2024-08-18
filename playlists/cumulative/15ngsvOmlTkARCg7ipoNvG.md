@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,788 songs - 1 day 12 hr 53 min
+1,789 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1401,6 +1401,7 @@
 | [Soft](https://open.spotify.com/track/0Ko20AikARVLDZ54Fa7SuF) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soft](https://open.spotify.com/album/1ynkHh470SKf8ZIyt8x0bs) | 1:00 | 2024-06-25 |  |
 | [Soft Breath](https://open.spotify.com/track/2bdo9Blz7EV7SFSjNpawPo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:04 | 2022-01-27 |  |
 | [Soft Landing](https://open.spotify.com/track/2FyRIqDO3AGXwSLsZlGbDh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Nightfall](https://open.spotify.com/album/2ZqMA0BErQjA4p7pjJsCYJ) | 1:20 | 2022-01-12 |  |
+| [Soft Moment \- Piano Lullaby Version](https://open.spotify.com/track/67qqAQw783pEL9cvqDniRO) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Soft Moment](https://open.spotify.com/album/7ymJUo9vSHOoPwl6kAQWcW) | 1:00 | 2024-08-17 |  |
 | [Soft Moon \- Piano Version](https://open.spotify.com/track/12YtTb9gCKuSWoEen5TKUF) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Harp and Piano Lullabies](https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7) | 1:03 | 2023-05-14 | 2024-01-30 |
 | [Soft Moon \- Strings Version](https://open.spotify.com/track/4udCwFTuKOPkcYtE0gnKka) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Soft Moon](https://open.spotify.com/album/3araH7fjh9RFmuObPQZIEg) | 1:03 | 2023-05-14 | 2024-02-13 |
 | [Soft Pink Sky](https://open.spotify.com/track/1VaRoqna62tIdHC0fh0VDa) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Soaring](https://open.spotify.com/album/0M1455WqEoRjvehxgXmICI) | 1:02 | 2022-03-03 |  |

@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Nubya Garcia
 
-623 songs - 1 day 20 hr 9 min
+624 songs - 1 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Dough](https://open.spotify.com/track/2Om3mASX63tNLOYrxeuXLh) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN) | [Dough](https://open.spotify.com/album/0K2okf5wV6GjXumiMG6yQw) | 2:31 | 2022-10-14 | 2022-11-24 |
 | [Dream Chaser](https://open.spotify.com/track/05bXcmbz6iAJ5tM9WgdOqX) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Dream Chaser](https://open.spotify.com/album/0KxzL7oJ5M4uFjLrTIa2L3) | 3:48 | 2024-06-14 |  |
 | [Dream With You](https://open.spotify.com/track/2gEkF9RXPzw3LSfnEXNBZn) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Dream With You](https://open.spotify.com/album/0hOv3G09E7fOjFe1Q8Iedu) | 4:34 | 2024-06-27 |  |
-| [Dreambend](https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV) | [Kessoncoda](https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ) | [Outerstate](https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N) | 3:22 | 2024-07-18 |  |
+| [Dreambend](https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV) | [Kessoncoda](https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ) | [Outerstate](https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N) | 3:22 | 2024-07-18 | 2024-08-18 |
 | [Dreams](https://open.spotify.com/track/0VezvV7xjZm8MUVKuJTely) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL), [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 4:10 | 2022-03-08 | 2022-03-09 |
 | [ducks ina row](https://open.spotify.com/track/3tL6edhbIjtp8C8nmbZ7k3) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [ducks ina row](https://open.spotify.com/album/2hifLHOF3K333Xps2wweDF) | 2:33 | 2023-05-18 | 2023-07-28 |
 | [Dumont](https://open.spotify.com/track/0Rs70vYqQU3CYpYlHEv0mt) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Dumont](https://open.spotify.com/album/0VYZoeYn5gGAYzqE5aeIR1) | 5:40 | 2022-03-24 | 2022-04-21 |
@@ -303,6 +303,7 @@
 | [Leader](https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Leader](https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm) | 3:35 | 2022-07-28 | 2023-12-06 |
 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 | 2023-07-13 | 2024-03-12 |
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-03-31 | 2023-07-22 |
+| [Let Go](https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Let Go](https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ) | 3:57 | 2024-08-15 |  |
 | [Life](https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Life](https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz) | 4:16 | 2024-05-23 |  |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-11-11 | 2023-09-03 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/5PT4yvb1Poy5AssADb0vwB) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux) | 3:23 | 2023-09-21 | 2023-11-18 |

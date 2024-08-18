@@ -4,7 +4,7 @@
 
 > ?! ft\. Lil Yachty
 
-1,730 songs - 3 day 11 hr 11 min
+1,732 songs - 3 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Dat Way](https://open.spotify.com/track/1xN0TrhNn6vsdcAbW0LOQo) | [Barely Legal](https://open.spotify.com/artist/3zxSRSA34s9MDljcnI9Rol), [Jay Browne](https://open.spotify.com/artist/345vrTFNzEOhTuVkrZD9aZ) | [Daytona](https://open.spotify.com/album/0vk3ZQ5tBSo0kjj6BAniWa) | 3:08 | 2022-03-02 | 2022-03-11 |
 | [Day 7.5093](https://open.spotify.com/track/3a4jtq7w9N7qOrIjCaxO8v) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Feeling Lucky?](https://open.spotify.com/album/0mWQGICfoe7XAWueJRuAgV) | 3:41 | 2022-08-08 | 2022-11-17 |
 | [Day Before \(with Mac Miller\)](https://open.spotify.com/track/2eYsZ2JEq63Q0S8LQVscBm) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Punk](https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW) | 2:15 | 2021-10-16 | 2021-12-22 |
+| [Day In The Life](https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB) | [BABYKIRA](https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX) | [Day In The Life](https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B) | 3:00 | 2024-08-17 |  |
 | [DAY N NIGHT \(feat\. Blessing\)](https://open.spotify.com/track/2qtXfKdaji8aNzFUUQm9Pk) | [Young Saab](https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5), [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [DAY N NIGHT \(feat\. Blessing\)](https://open.spotify.com/album/1xBhh3mcLZ1IfWKtIQMm7t) | 2:33 | 2022-05-27 | 2022-07-09 |
 | [Daylight](https://open.spotify.com/track/3HPMlKfHRUCfHiPHSLn2tf) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Daylight](https://open.spotify.com/album/1luRfnNDvf6dpIRDlWjk7O) | 3:49 | 2024-05-31 |  |
 | [Days With You](https://open.spotify.com/track/5N6WeW88EoI3OnpYoKvhLh) | [Mont Duamel](https://open.spotify.com/artist/2yVpWiIBNJb0U8lPhE86cB) | [Days With You](https://open.spotify.com/album/4o8nsp5Yjks4EEtZgqYS41) | 2:49 | 2022-02-04 | 2022-03-12 |
@@ -485,7 +486,7 @@
 | [FAMJAM4000](https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:38 | 2023-03-03 |  |
 | [FAMOUS.](https://open.spotify.com/track/2QlZmO14VwqeIrgg6m1qAO) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [THE SAMURAI'S MONOLOGUE.](https://open.spotify.com/album/4HAGH15IhcCaqgHotxfoKk) | 1:55 | 2024-06-12 | 2024-06-16 |
 | [FANCY](https://open.spotify.com/track/5qnG5K46AMldqlO96i5pKA) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:23 | 2021-09-11 | 2022-03-23 |
-| [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-05-29 |  |
+| [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-05-29 | 2024-08-18 |
 | [Fast Life](https://open.spotify.com/track/7jl9oI0ajx1e4rnbX4DgVZ) | [Htiekal](https://open.spotify.com/artist/7msuTfFRpVfnoKJL8YUF7Q) | [Fast Life](https://open.spotify.com/album/6o90axxmhbjfg5lLeTtrSm) | 3:12 | 2021-04-27 | 2021-10-13 |
 | [Faster Please](https://open.spotify.com/track/1E8WiCruTiJgwFUTCuhSIh) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [Faster Please](https://open.spotify.com/album/5CEefcfGyvum65f2J73YRM) | 3:03 | 2021-06-12 | 2021-10-16 |
 | [FATHER X3](https://open.spotify.com/track/5Ov0sVPbVaYDbi3BMljESf) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [FATHER X3](https://open.spotify.com/album/1eu1Mxb5DWJk588wagQd2u) | 1:27 | 2024-04-05 | 2024-04-19 |
@@ -653,7 +654,7 @@
 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 | 2021-09-22 | 2022-03-01 |
 | [HEADY](https://open.spotify.com/track/7aNW0M1R6eUnoXKpN2HncV) | [Reaper](https://open.spotify.com/artist/47qrgNNbZRRCAK0ZrKcuZV) | [heady](https://open.spotify.com/album/2v9Eny0s7E50ugTiFlCuUF) | 3:31 | 2020-10-13\* | 2021-01-23 |
 | [hearing faces](https://open.spotify.com/track/3aIOgiGUBjEBiVAoaRbEgx) | [aboynamedblu](https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj) | [THE RED BUTTON WAS TALKING AGAIN](https://open.spotify.com/album/7zieU55cGtAinDTr3OkPGw) | 3:25 | 2023-09-08 | 2023-11-11 |
-| [Heart](https://open.spotify.com/track/5G6mtgQ3cirV1SrN6mUAMj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Heart](https://open.spotify.com/album/0Ru6DolWQL9XhdfereDhpS) | 2:26 | 2024-04-05 |  |
+| [Heart](https://open.spotify.com/track/5G6mtgQ3cirV1SrN6mUAMj) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv) | [Heart](https://open.spotify.com/album/0Ru6DolWQL9XhdfereDhpS) | 2:26 | 2024-04-05 | 2024-08-18 |
 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 | 2024-01-10 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2020-10-13\* | 2021-05-29 |
 | [heaven](https://open.spotify.com/track/3gIk5AdaPLq5b5tey5tJkO) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [heaven](https://open.spotify.com/album/4eo9Noh6eN6ikAJ1bSTA8u) | 2:00 | 2023-06-06 | 2023-09-09 |
@@ -1244,6 +1245,7 @@
 | [Rivers of Another Town](https://open.spotify.com/track/1uAmnhfgtyacNRPnpvyqnX) | [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [Sugar World](https://open.spotify.com/album/6dEA8sTmywhnEKxfshZghx) | 4:47 | 2023-02-03 | 2023-04-15 |
 | [Rocket Ship](https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Rocket Ship](https://open.spotify.com/album/7xytf2QWXPKWqI0FhAAUSW) | 1:43 | 2023-04-14 | 2023-07-22 |
 | [ROLE MODEL](https://open.spotify.com/track/4v9x3cl1AIAbCLYGO6EBuS) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ROLE MODEL](https://open.spotify.com/album/1snCvzLusXJUdauMrTnzVG) | 1:58 | 2024-05-10 | 2024-06-01 |
+| [rollercoasting](https://open.spotify.com/track/0Chlm3pFxI4Lt9xV2vVy3K) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [rollercoasting](https://open.spotify.com/album/01QNFvqgizbYrDk7sGxunS) | 1:38 | 2024-08-17 |  |
 | [Rolling Stone](https://open.spotify.com/track/77pZL5Oq2PVQIPFkEkusZU) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Rolling Stone](https://open.spotify.com/album/7qkzYjhpUzGCiGzm9p3Dv8) | 2:49 | 2021-11-19 | 2022-03-01 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 | 2023-01-14 |
 | [Romanticist](https://open.spotify.com/track/5YixskhSGNwmqjUrG0DTEY) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 1:46 | 2022-05-09 | 2022-07-01 |

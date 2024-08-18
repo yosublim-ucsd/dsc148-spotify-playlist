@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,477 likes - 107 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,472 likes - 107 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 66 | [Deep Theta 6 Hz](https://open.spotify.com/track/4kFhJKUveRr2LiTvg1bQk7) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 |
 | 67 | [Wet Leaves \(5hz Theta Waves\)](https://open.spotify.com/track/0vFi131lZZ31k63oN9dKtU) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6) | 1:36 |
 | 68 | [Binaural Theta 4 Hz](https://open.spotify.com/track/00JZ8gYC7ete4eCxHN3SJG) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 |
-| 69 | [Theta Waves for Sleeping Aid](https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Binaural Beats for Deep Sleeping](https://open.spotify.com/album/6UWhxbcXZLWc8g8N1AfJod) | 3:51 |
+| 69 | [Theta Waves for Sleeping Aid](https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R) | [Binaural Beats](https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1) | [Binaural Beats for Deep Sleeping](https://open.spotify.com/album/6UWhxbcXZLWc8g8N1AfJod) | 3:51 |
 | 70 | [Deep Theta 6 Hz](https://open.spotify.com/track/21rIK7dLKp86IdSfctD8n1) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:34 |
 | 71 | [Creator \(Theta Wave 5 Hz\)](https://open.spotify.com/track/05lezliRAdzCmakJ8bHjPA) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian \(Binaural Beat Remix\)](https://open.spotify.com/album/5MDw4nbZfhpreocqNAShM1) | 4:07 |
 | 72 | [REM Sleep Theta 4 Hz](https://open.spotify.com/track/4yOWeXW9wUSSCjO58YOgvJ) | [Emiliano Bruguera](https://open.spotify.com/artist/2PhhdEZrTja5b1Mb1z573x) | [REM Sleep Theta 4 Hz](https://open.spotify.com/album/0ffHZTtAywXFy9imARV6T1) | 7:59 |

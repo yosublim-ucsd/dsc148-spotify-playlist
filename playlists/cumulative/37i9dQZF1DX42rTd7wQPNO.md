@@ -2,7 +2,7 @@
 
 ### [coastal cowgirl](https://open.spotify.com/playlist/37i9dQZF1DX42rTd7wQPNO)
 
-> It's the Year of the Cowgirl! Carter Faith is putting a little yee haw in our laid back.
+> put a little yee haw in your laid back
 
 176 songs - 10 hr 42 min
 

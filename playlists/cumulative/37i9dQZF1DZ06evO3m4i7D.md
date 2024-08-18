@@ -2,7 +2,7 @@
 
 ### [This Is Eugenio Esquivel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3m4i7D)
 
-> This is: Eugenio Esquivel\. Alle wichtigen Tracks in einer Playlist.
+> This is Eugenio Esquivel\. The essential tracks, all in one playlist.
 
 19 songs - 58 min 18 sec
 

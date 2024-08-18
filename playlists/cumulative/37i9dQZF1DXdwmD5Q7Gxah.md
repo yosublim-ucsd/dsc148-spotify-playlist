@@ -4,7 +4,7 @@
 
 > Remy Bond <3
 
-2,930 songs - 6 day 14 hr 22 min
+2,931 songs - 6 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1929,6 +1929,7 @@
 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-03-26 | 2024-01-11 |
 | [Perdus](https://open.spotify.com/track/7eMBDipvMwVnYiMe0yrS5x) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Perdus](https://open.spotify.com/album/4wFRyp4PoR2DOJ639l9NVv) | 3:03 | 2019-10-12 | 2019-11-14 |
 | [Personal Lies](https://open.spotify.com/track/3BjQX42wrf1Ie1AopSnUGV) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:59 | 2019-09-14 | 2019-11-14 |
+| [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 | 2024-08-17 |  |
 | [Petals](https://open.spotify.com/track/6VX8tKJOpM4GaAdRMf7Dl1) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Petals](https://open.spotify.com/album/2n3QaYtHqERzKesRi0lmaq) | 4:01 | 2022-05-12 | 2022-06-04 |
 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 | 2022-04-08 | 2022-04-21 |
 | [Phantom Limb](https://open.spotify.com/track/3NPiFBw3mA9qbJfo0nhk6X) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Wincing The Night Away](https://open.spotify.com/album/4Tm0dXi3s3aSAqng2DACHr) | 4:47 | 2021-07-23 | 2021-12-02 |
@@ -2669,7 +2670,7 @@
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2020-08-21 | 2020-09-04 |
 | [triflin'](https://open.spotify.com/track/1RxMN0IcPf5yauGJRUjlAS) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [wood tip](https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw) | 2:49 | 2022-12-16 | 2023-01-19 |
 | [Trigger Of Love](https://open.spotify.com/track/0CtfBQl582RRut2ccLtjBr) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Trigger Of Love](https://open.spotify.com/album/7klv1gjxbcnRZI9TVSbXEo) | 2:50 | 2020-10-16 | 2021-11-13 |
-| [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 | 2024-06-17 |  |
+| [Triple Seven](https://open.spotify.com/track/0Fo2GMUTxQXV2Zr86zW6Z6) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/7IiqMfyjfLXFS0ngnzgvV5) | 3:26 | 2024-06-17 | 2024-08-18 |
 | [TRU RELIGION](https://open.spotify.com/track/0DyDLDwnMWWBDNw3cTM37f) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [TRU RELIGION](https://open.spotify.com/album/2KVJYvcbFijqVQZCMEBQvH) | 2:57 | 2022-05-12 | 2022-06-10 |
 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 | 2023-01-13 | 2023-03-07 |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2024-02-04 | 2024-02-15 |

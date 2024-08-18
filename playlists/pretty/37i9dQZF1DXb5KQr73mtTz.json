@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17499,
+  "num_followers": 17500,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Thank you for Goodbye",
-        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 253985,
-      "name": "Thank you for Goodbye",
-      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+      "duration_ms": 195186,
+      "name": "Star (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Narcissus",
-        "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
+        "name": "Thank you for Goodbye",
+        "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
       "artists": [
         {
-          "name": "DAWN \ub358",
-          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 195186,
-      "name": "Star (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+      "duration_ms": 253985,
+      "name": "Thank you for Goodbye",
+      "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "In your heart",
-        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
-      },
-      "artists": [
-        {
-          "name": "Lim Hyunsik",
-          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "In your heart",
-      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "True Song",
         "url": "https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ"
       },
@@ -743,18 +727,34 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Don't Leave Me Alone",
-        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
+        "name": "In your heart",
+        "url": "https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P"
       },
       "artists": [
         {
-          "name": "RYU JIHYUN",
-          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Don\u2019t Leave Me Alone",
-      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
+      "duration_ms": 221720,
+      "name": "In your heart",
+      "url": "https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Be My Ocean",
+        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
+      },
+      "artists": [
+        {
+          "name": "IOHBOY",
+          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Be My Ocean",
+      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
     },
     {
       "added_at": "2024-08-10 15:54:36",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Be My Ocean",
-        "url": "https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj"
+        "name": "Don't Leave Me Alone",
+        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
       },
       "artists": [
         {
-          "name": "IOHBOY",
-          "url": "https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e"
+          "name": "RYU JIHYUN",
+          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
         }
       ],
-      "duration_ms": 167933,
-      "name": "Be My Ocean",
-      "url": "https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10"
+      "duration_ms": 207760,
+      "name": "Don\u2019t Leave Me Alone",
+      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
     },
     {
       "added_at": "2024-08-10 15:54:36",

@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 768093,
+  "num_followers": 768145,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,30 @@
     {
       "added_at": "2024-07-04 10:39:17",
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV"
+      },
+      "artists": [
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        },
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp"
+    },
+    {
+      "added_at": "2024-07-04 10:39:17",
+      "album": {
         "name": "River Flows in You",
         "url": "https://open.spotify.com/album/2Jh2pGXG4o5yVr7YxpucGT"
       },
@@ -987,30 +1011,6 @@
       "duration_ms": 152380,
       "name": "Run Free (Countdown)",
       "url": "https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8"
-    },
-    {
-      "added_at": "2024-07-04 10:39:17",
-      "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV"
-      },
-      "artists": [
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        },
-        {
-          "name": "DJ Sammy",
-          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp"
     },
     {
       "added_at": "2024-07-04 10:39:17",

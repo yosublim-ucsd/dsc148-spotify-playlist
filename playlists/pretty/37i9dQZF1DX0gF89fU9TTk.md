@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8">ELEVATION RHYTHM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,713 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,753 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 45 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
 | 46 | [Go Tell The World \- Live](https://open.spotify.com/track/0zS1ePx7XKEo9XFdIMccHN) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp), [Lauren Tyler](https://open.spotify.com/artist/74kbp0LGNxWddtDSNBXl9C) | [Go Tell The World / Overflow \(Live\)](https://open.spotify.com/album/5bRgF2e7mpKj0nM0hsf26k) | 3:20 |
 | 47 | [Keep In Step \- Live](https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2) | [Dreamers](https://open.spotify.com/artist/4LW8svP1k62JqCoU4Esw51) | [Keep In Step \(Live\)](https://open.spotify.com/album/3Nr38C2V90IH9kUG9ieK24) | 4:03 |
-| 48 | [Found in You](https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Found in You](https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S) | 3:14 |
-| 49 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
+| 48 | [Till the Earth](https://open.spotify.com/track/4w3FvBgO5lso4A7AcG8VKM) | [Southview Worship](https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK), [B\. Cooper](https://open.spotify.com/artist/68PZRIV4P3i1WDizC3PlDq) | [Till the Earth](https://open.spotify.com/album/0Ik1QIF3jLAW2s8ibXgU9Q) | 3:28 |
+| 49 | [Found in You](https://open.spotify.com/track/1lMoKrAaLYNqkk2pyrqj0K) | [Royal Company](https://open.spotify.com/artist/1mXlcFsIJEMuF5GGXZcQ8t) | [Found in You](https://open.spotify.com/album/3btcSIZAuSE60EVKR9nA0S) | 3:14 |
 | 50 | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/track/4qjDLG7d5gQoE2vkQKOrjz) | [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA), [Lauren Evans](https://open.spotify.com/artist/3C7ueB5rQVcVfh0ryluAvk), [Bala Mandala](https://open.spotify.com/artist/6wz0tpwgz2ASbD9cWqxb64) | [Edge of Time \(Bala Mandala Remix\)](https://open.spotify.com/album/3lQfdE3f9o8tcERGl6uZeH) | 4:20 |
 | 51 | [King of My Heart](https://open.spotify.com/track/221wISKB6AmZqZjrhrIrTv) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [King of My Heart](https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb) | 4:03 |
 | 52 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD), [NEON Worship](https://open.spotify.com/artist/2j8LVMBgv0dkPvGrkh2k7z), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Surrounded \(Fight My Battles\)](https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0) | 3:00 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 59 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 60 | [Dance Like It's Done \- Live](https://open.spotify.com/track/0tsl7mJ2LP74j4kE9rLyug) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Just the Cross](https://open.spotify.com/album/65KqQX0qvfrNL0kDQ9FkpQ) | 4:35 |
 | 61 | [Holding on to Me](https://open.spotify.com/track/0NBJe10Be0dfgUT09eTk7H) | [Calling Glory](https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0) | [Holding on to Me](https://open.spotify.com/album/5V02N3G7e4Lle1myANHLCI) | 3:51 |
-| 62 | [You Give Me Joy](https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [You Give Me Joy](https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP) | 4:02 |
-| 63 | [Joy](https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Joy](https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10) | 3:33 |
+| 62 | [Joy](https://open.spotify.com/track/3w6t8nc3s891MChiTM0AxS) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Joy](https://open.spotify.com/album/567xGuPekRRhgFZIvlKO10) | 3:33 |
+| 63 | [You Give Me Joy](https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX) | [You Give Me Joy](https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP) | 4:02 |
 | 64 | [So Close \- Studio](https://open.spotify.com/track/5qEDNdBR6WTI8PccUZVGZT) | [Victory Worship](https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP) | [Yahweh](https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ) | 4:40 |
 | 65 | [New Life](https://open.spotify.com/track/32Mbkn7zPmf0XXSyiTz5US) | [FRVR FREE](https://open.spotify.com/artist/5FmI4OG0dMj7m60DsceUrn) | [A Day In The Life](https://open.spotify.com/album/4m2z7CWYbO7uEHI8kFu6wy) | 5:36 |
 | 66 | [WE’RE GOING PUBLIC \(Acoustic\)](https://open.spotify.com/track/2GnCBcc2a2FGSkgvd2COd4) | [WE ARE ONE](https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd) | [Quarantine Sessions](https://open.spotify.com/album/18TzDomIRpk7RoSfSgeEnZ) | 3:54 |

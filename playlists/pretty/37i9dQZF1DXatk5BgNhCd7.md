@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Mike Bahia
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,104 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,140 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 |
-| 2 | [El Sabio \- Remastered 2024](https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio \(Remastered 2024\)](https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX) | 4:31 |
+| 2 | [El Sabio \- Remastered 2024](https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio \- Remastered 2024](https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX) | 4:31 |
 | 3 | [Mírame](https://open.spotify.com/track/1kJjTCNnD5rmKOy02dViQA) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Mírame](https://open.spotify.com/album/0IuztiLZWWbaIACNbPU5xT) | 3:06 |
 | 4 | [Medley Bobby Pulido](https://open.spotify.com/track/7cEOxE57doPnSVWArGWu76) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Medley Bobby Pulido](https://open.spotify.com/album/6ntUeB7eJe8NmIOoVRlyZq) | 3:58 |
 | 5 | [Se Me Olvidó](https://open.spotify.com/track/2GOlCZtsQUEUzacRfK585d) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Se Me Olvidó](https://open.spotify.com/album/6SsqmCwkDEWYoJ2w20lUl4) | 3:11 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [Veneno de Amor](https://open.spotify.com/track/3k3zM6IHI18z7k9lydleGk) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [Veneno de Amor](https://open.spotify.com/album/7M0hs8kPDNQS3EBWsvGNWd) | 4:54 |
 | 21 | [El dolor de tu presencia](https://open.spotify.com/track/4byhAA0TOe5OdWxXVPyh9l) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 |
 | 22 | [Anoche La Perdí](https://open.spotify.com/track/6IW4czFoRns3q8uYzh5Hq7) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp), [Simplemente El Ángel](https://open.spotify.com/artist/4crpkDgxnANIqV3V7gOq4g) | [Anoche La Perdí](https://open.spotify.com/album/3daX2Z6krmShXdXPzApMCU) | 2:39 |
-| 23 | [Cuarteto mix](https://open.spotify.com/track/6rctq6dmGh4mkntQj8Z2kR) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Cuarteto mix](https://open.spotify.com/album/0dLtvEcALluR51AZ9HcdWC) | 6:16 |
+| 23 | [Cuarteto mix](https://open.spotify.com/track/6rctq6dmGh4mkntQj8Z2kR) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Cuarteto mix](https://open.spotify.com/album/0dLtvEcALluR51AZ9HcdWC) | 6:25 |
 | 24 | [Como una Gata](https://open.spotify.com/track/29KaxZeBe0Ut346zNjr04Y) | [Agua Bella](https://open.spotify.com/artist/4HKgCyUZMpl41vzhVXdhNy) | [Como una Gata](https://open.spotify.com/album/0mKImGErnbUiYJCR43LcPG) | 4:36 |
 | 25 | [¿Cómo haré?](https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [¿Cómo haré?](https://open.spotify.com/album/39fVOE1zBxuX6JkOVEndGu) | 2:17 |
 | 26 | [Macondo](https://open.spotify.com/track/1Dyx8ohrkwVpRDgEb1v1Un) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Macondo](https://open.spotify.com/album/5BIpeatMR5CYsSzOgBXpon) | 3:49 |

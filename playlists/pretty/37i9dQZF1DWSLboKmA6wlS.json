@@ -1,6 +1,6 @@
 {
   "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e17\u0e35\u0e48\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c!. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TeyaTaye. Artwork: Isu Kim",
-  "num_followers": 8507,
+  "num_followers": 8512,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
-        "url": "https://open.spotify.com/album/7AZztPS8KL35zIPaf2E56P"
-      },
-      "artists": [
-        {
-          "name": "2000",
-          "url": "https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX"
-        }
-      ],
-      "duration_ms": 221878,
-      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
-      "url": "https://open.spotify.com/track/2WnVdholxlaHvMbBkHZkow"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/0o0qppFXlAQbE7PhAT5syJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 240644,
       "name": "1",
       "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
+        "url": "https://open.spotify.com/album/7AZztPS8KL35zIPaf2E56P"
+      },
+      "artists": [
+        {
+          "name": "2000",
+          "url": "https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX"
+        }
+      ],
+      "duration_ms": 221878,
+      "name": "\u0e41\u0e04\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d (Me&You)",
+      "url": "https://open.spotify.com/track/2WnVdholxlaHvMbBkHZkow"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -447,6 +447,38 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
+        "name": "\u0e17\u0e31\u0e19\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/2EcdEpCr1vbfLFmTrynVYS"
+      },
+      "artists": [
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "\u0e17\u0e31\u0e19\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/3cPcPDpFigcAlWVqUcfVBS"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e1e\u0e0a\u0e23",
+        "url": "https://open.spotify.com/album/4XLkOfRwvd7oQ0Y6l7YZyY"
+      },
+      "artists": [
+        {
+          "name": "Taentawan",
+          "url": "https://open.spotify.com/artist/4MAJia04mkhxzJODtKPNVT"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e1e\u0e0a\u0e23",
+      "url": "https://open.spotify.com/track/7FFPklQxNzfg54UO01Y7OY"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
         "name": "\u0e43\u0e04\u0e23\u0e2d\u0e34\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e41\u0e1e\u0e49 (KISS)",
         "url": "https://open.spotify.com/album/2mN8dKtAQlVkGFgVyRh5yg"
       },
@@ -511,18 +543,18 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e1e\u0e0a\u0e23",
-        "url": "https://open.spotify.com/album/4XLkOfRwvd7oQ0Y6l7YZyY"
+        "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT"
       },
       "artists": [
         {
-          "name": "Taentawan",
-          "url": "https://open.spotify.com/artist/4MAJia04mkhxzJODtKPNVT"
+          "name": "Planfor?",
+          "url": "https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ"
         }
       ],
-      "duration_ms": 200816,
-      "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e40\u0e1e\u0e0a\u0e23",
-      "url": "https://open.spotify.com/track/7FFPklQxNzfg54UO01Y7OY"
+      "duration_ms": 278044,
+      "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -543,22 +575,6 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-        "url": "https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT"
-      },
-      "artists": [
-        {
-          "name": "Planfor?",
-          "url": "https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ"
-        }
-      ],
-      "duration_ms": 278044,
-      "name": "\u0e1a\u0e38\u0e2b\u0e23\u0e35\u0e48\u0e0b\u0e2d\u0e07\u0e40\u0e14\u0e34\u0e21\u0e21\u0e27\u0e19\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
-      "url": "https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
         "name": "VALENTRY",
         "url": "https://open.spotify.com/album/0VCjYfdRMKV867dJ23Pt9K"
       },
@@ -575,6 +591,22 @@
       "duration_ms": 216217,
       "name": "VALENTRY",
       "url": "https://open.spotify.com/track/2ZhWMA7svLB5ngWjLSItAq"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "I hate flowers",
+        "url": "https://open.spotify.com/album/4OpcCIZJHGdxgubQOWPtq6"
+      },
+      "artists": [
+        {
+          "name": "mlsnw",
+          "url": "https://open.spotify.com/artist/2UgcmrWgUDrBdURtLvGSjc"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "I hate flowers",
+      "url": "https://open.spotify.com/track/2Rv7ThmE2HpgbY91sXjV5c"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -611,6 +643,22 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
+        "name": "= \u0e04\u0e19\u0e14\u0e35\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
+        "url": "https://open.spotify.com/album/3OmGyOF8xSpW5k7pHCkqNe"
+      },
+      "artists": [
+        {
+          "name": "Arert",
+          "url": "https://open.spotify.com/artist/551efIWO4QI4M0Ig1l6uhQ"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "= \u0e04\u0e19\u0e14\u0e35\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
+      "url": "https://open.spotify.com/track/6G0QhmK5IqWj0iNeKx2Wq1"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48",
         "url": "https://open.spotify.com/album/3iZfs6UWRw7BfhWlwP6Nop"
       },
@@ -623,22 +671,6 @@
       "duration_ms": 259635,
       "name": "\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/1Dc2fjjyz8SUlvZLCnMeYV"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e15\u0e47\u0e21\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e33\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (So thankful)",
-        "url": "https://open.spotify.com/album/0PKjKVemj4CXhiiYtenc17"
-      },
-      "artists": [
-        {
-          "name": "Rrachan",
-          "url": "https://open.spotify.com/artist/1OKL2ztheUo3kursnjvudy"
-        }
-      ],
-      "duration_ms": 275897,
-      "name": "\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e15\u0e47\u0e21\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e33\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (So thankful)",
-      "url": "https://open.spotify.com/track/4tfdIpxUPftecCPeH4z3ke"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -659,18 +691,18 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e27...\u0e1c\u0e21\u0e01\u0e25\u0e31\u0e27",
-        "url": "https://open.spotify.com/album/34b4WMzxcKpl7pIhQ4IhZ2"
+        "name": "\u0e2b\u0e32\u0e01\u0e40\u0e27\u0e25\u0e32\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22 (Disposable)",
+        "url": "https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS"
       },
       "artists": [
         {
-          "name": "Mc Kosin",
-          "url": "https://open.spotify.com/artist/3S7td5osx93x8hgXfc1K1r"
+          "name": "Dumb.Rong",
+          "url": "https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua"
         }
       ],
-      "duration_ms": 257566,
-      "name": "\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e27...\u0e1c\u0e21\u0e01\u0e25\u0e31\u0e27",
-      "url": "https://open.spotify.com/track/0HFz4qFMXzuJ2p9rOdCSFR"
+      "duration_ms": 231975,
+      "name": "\u0e2b\u0e32\u0e01\u0e40\u0e27\u0e25\u0e32\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22 (Disposable)",
+      "url": "https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -687,6 +719,78 @@
       "duration_ms": 200372,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/5lAZwBx2qH3kOuHtrI0KRl"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e15\u0e47\u0e21\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e33\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (So thankful)",
+        "url": "https://open.spotify.com/album/0PKjKVemj4CXhiiYtenc17"
+      },
+      "artists": [
+        {
+          "name": "Rrachan",
+          "url": "https://open.spotify.com/artist/1OKL2ztheUo3kursnjvudy"
+        }
+      ],
+      "duration_ms": 275897,
+      "name": "\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e15\u0e47\u0e21\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e04\u0e33\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13 (So thankful)",
+      "url": "https://open.spotify.com/track/4tfdIpxUPftecCPeH4z3ke"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19",
+        "url": "https://open.spotify.com/album/3csUEjwi2s46I8jffv1KKj"
+      },
+      "artists": [
+        {
+          "name": "SLOWVXNZ",
+          "url": "https://open.spotify.com/artist/7uClfPNlDOpxugQX1zEjGg"
+        },
+        {
+          "name": "K6Y",
+          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
+        },
+        {
+          "name": "Jao Yented",
+          "url": "https://open.spotify.com/artist/2kJXjZJJnUjt900rI8D1L4"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/2lXZ2faaWubFhsXZHLsdgF"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e27...\u0e1c\u0e21\u0e01\u0e25\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/34b4WMzxcKpl7pIhQ4IhZ2"
+      },
+      "artists": [
+        {
+          "name": "Mc Kosin",
+          "url": "https://open.spotify.com/artist/3S7td5osx93x8hgXfc1K1r"
+        }
+      ],
+      "duration_ms": 257566,
+      "name": "\u0e43\u0e04\u0e23\u0e44\u0e21\u0e48\u0e01\u0e25\u0e31\u0e27...\u0e1c\u0e21\u0e01\u0e25\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/0HFz4qFMXzuJ2p9rOdCSFR"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e22\u0e32\u0e21\u0e23\u0e32\u0e15\u0e23\u0e35",
+        "url": "https://open.spotify.com/album/1C0BNBXAhTkmxxer5fRARN"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "duration_ms": 211992,
+      "name": "\u0e22\u0e32\u0e21\u0e23\u0e32\u0e15\u0e23\u0e35",
+      "url": "https://open.spotify.com/track/4WvExjXzrmXTMxktp6F5kU"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -711,22 +815,6 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e22\u0e32\u0e21\u0e23\u0e32\u0e15\u0e23\u0e35",
-        "url": "https://open.spotify.com/album/1C0BNBXAhTkmxxer5fRARN"
-      },
-      "artists": [
-        {
-          "name": "Cheyada",
-          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
-        }
-      ],
-      "duration_ms": 211992,
-      "name": "\u0e22\u0e32\u0e21\u0e23\u0e32\u0e15\u0e23\u0e35",
-      "url": "https://open.spotify.com/track/4WvExjXzrmXTMxktp6F5kU"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
         "name": "Chromatic Canvas",
         "url": "https://open.spotify.com/album/6UN7qZQmCXVQsJQadCqH07"
       },
@@ -739,6 +827,22 @@
       "duration_ms": 213125,
       "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e14\u0e35 (Whisky Purple)",
       "url": "https://open.spotify.com/track/1gH1fa1EmlRd5LRJ7YCo19"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19\u0e19\u0e30 (Hey loser, stop crying)",
+        "url": "https://open.spotify.com/album/5VSJEMwLyb8kJhXinpUckN"
+      },
+      "artists": [
+        {
+          "name": "TeyaTaye",
+          "url": "https://open.spotify.com/artist/7xjxDKGA00Zt9f4zEHynEv"
+        }
+      ],
+      "duration_ms": 172829,
+      "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19\u0e19\u0e30 (Hey loser, stop crying)",
+      "url": "https://open.spotify.com/track/5Rk7OtvT7vueooccljNnB7"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -791,22 +895,6 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e17\u0e31\u0e19\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/2EcdEpCr1vbfLFmTrynVYS"
-      },
-      "artists": [
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "\u0e17\u0e31\u0e19\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/3cPcPDpFigcAlWVqUcfVBS"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
         "name": "Breakfast In Bed",
         "url": "https://open.spotify.com/album/7HRutxsGmxnKc5eTvER1Mf"
       },
@@ -839,18 +927,34 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "I hate flowers",
-        "url": "https://open.spotify.com/album/4OpcCIZJHGdxgubQOWPtq6"
+        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Superman)",
+        "url": "https://open.spotify.com/album/1OoWtLxRHJEJTCWIt9T5TB"
       },
       "artists": [
         {
-          "name": "mlsnw",
-          "url": "https://open.spotify.com/artist/2UgcmrWgUDrBdURtLvGSjc"
+          "name": "KRYPTONYTE",
+          "url": "https://open.spotify.com/artist/64zvyVejR7HyMDdqDPqccF"
         }
       ],
-      "duration_ms": 203400,
-      "name": "I hate flowers",
-      "url": "https://open.spotify.com/track/2Rv7ThmE2HpgbY91sXjV5c"
+      "duration_ms": 210726,
+      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Superman)",
+      "url": "https://open.spotify.com/track/33qxqEWxgO0ZXraZy0RUGm"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/5HP86WjkApRevoid0UeHq7"
+      },
+      "artists": [
+        {
+          "name": "Just Improvize",
+          "url": "https://open.spotify.com/artist/4qOMhZxe0qXS7II72JMWDU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/5uubSHaP7kcmpSE4KabQQP"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -867,46 +971,6 @@
       "duration_ms": 228482,
       "name": "\u0e01\u0e2d\u0e07\u0e44\u0e1f\u0e01\u0e31\u0e1a\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/1PfzxRggqPZGt6XrgPa4JP"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19",
-        "url": "https://open.spotify.com/album/3csUEjwi2s46I8jffv1KKj"
-      },
-      "artists": [
-        {
-          "name": "SLOWVXNZ",
-          "url": "https://open.spotify.com/artist/7uClfPNlDOpxugQX1zEjGg"
-        },
-        {
-          "name": "K6Y",
-          "url": "https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt"
-        },
-        {
-          "name": "Jao Yented",
-          "url": "https://open.spotify.com/artist/2kJXjZJJnUjt900rI8D1L4"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "\u0e2b\u0e32\u0e22\u0e44\u0e1b\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/2lXZ2faaWubFhsXZHLsdgF"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19\u0e19\u0e30 (Hey loser, stop crying)",
-        "url": "https://open.spotify.com/album/5VSJEMwLyb8kJhXinpUckN"
-      },
-      "artists": [
-        {
-          "name": "TeyaTaye",
-          "url": "https://open.spotify.com/artist/7xjxDKGA00Zt9f4zEHynEv"
-        }
-      ],
-      "duration_ms": 172829,
-      "name": "\u0e01\u0e2d\u0e14\u0e01\u0e31\u0e19\u0e19\u0e30 (Hey loser, stop crying)",
-      "url": "https://open.spotify.com/track/5Rk7OtvT7vueooccljNnB7"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -959,98 +1023,18 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "= \u0e04\u0e19\u0e14\u0e35\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
-        "url": "https://open.spotify.com/album/3OmGyOF8xSpW5k7pHCkqNe"
+        "name": "\u0e40\u0e18\u0e2d\u0e23\u0e2d\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/6W2bHhGncNvgjjQRSzEMgg"
       },
       "artists": [
         {
-          "name": "Arert",
-          "url": "https://open.spotify.com/artist/551efIWO4QI4M0Ig1l6uhQ"
+          "name": "NSL",
+          "url": "https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL"
         }
       ],
-      "duration_ms": 192029,
-      "name": "= \u0e04\u0e19\u0e14\u0e35\u0e22\u0e4c\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e43\u0e19\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
-      "url": "https://open.spotify.com/track/6G0QhmK5IqWj0iNeKx2Wq1"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e18\u0e2d",
-        "url": "https://open.spotify.com/album/5HP86WjkApRevoid0UeHq7"
-      },
-      "artists": [
-        {
-          "name": "Just Improvize",
-          "url": "https://open.spotify.com/artist/4qOMhZxe0qXS7II72JMWDU"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e40\u0e18\u0e2d",
-      "url": "https://open.spotify.com/track/5uubSHaP7kcmpSE4KabQQP"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Superman)",
-        "url": "https://open.spotify.com/album/1OoWtLxRHJEJTCWIt9T5TB"
-      },
-      "artists": [
-        {
-          "name": "KRYPTONYTE",
-          "url": "https://open.spotify.com/artist/64zvyVejR7HyMDdqDPqccF"
-        }
-      ],
-      "duration_ms": 210726,
-      "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Superman)",
-      "url": "https://open.spotify.com/track/33qxqEWxgO0ZXraZy0RUGm"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e2b\u0e32\u0e01\u0e40\u0e27\u0e25\u0e32\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22 (Disposable)",
-        "url": "https://open.spotify.com/album/0aHAfD1PG1pfU8iJKdubdS"
-      },
-      "artists": [
-        {
-          "name": "Dumb.Rong",
-          "url": "https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua"
-        }
-      ],
-      "duration_ms": 231975,
-      "name": "\u0e2b\u0e32\u0e01\u0e40\u0e27\u0e25\u0e32\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22 (Disposable)",
-      "url": "https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "Pretty Hurt",
-        "url": "https://open.spotify.com/album/7ta9Pd20nkC6jYPRyxhSwl"
-      },
-      "artists": [
-        {
-          "name": "SRYK",
-          "url": "https://open.spotify.com/artist/2YIOqVz3yiNa1544P231FW"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Pretty Hurt",
-      "url": "https://open.spotify.com/track/7nbIChDsl9mkcxsOYEufv3"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
-      },
-      "artists": [
-        {
-          "name": "Pong Pongsatorn",
-          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
-        }
-      ],
-      "duration_ms": 299076,
-      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
+      "duration_ms": 176781,
+      "name": "\u0e40\u0e18\u0e2d\u0e23\u0e2d\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/2PjWv1zAj8Sz0W2QLvMqvC"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -1087,50 +1071,34 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/5Q9pi3cPUftlxeD0XACuFq"
+        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+        "url": "https://open.spotify.com/album/7jguSC3ec5UU6vHMfn8WU5"
       },
       "artists": [
         {
-          "name": "Marisa Proud",
-          "url": "https://open.spotify.com/artist/5Ad1QUjAoDcNv4pmuHViMz"
+          "name": "SUNDAY NIGHTS",
+          "url": "https://open.spotify.com/artist/4ggK46gLB2cjdhc0XixrzC"
         }
       ],
-      "duration_ms": 224117,
-      "name": "\u0e20\u0e32\u0e1e\u0e08\u0e33..\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e08\u0e33 (Memories)",
-      "url": "https://open.spotify.com/track/7aQcEeOhUdPXnPRXxtMWFT"
+      "duration_ms": 220540,
+      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/23ngJAgRbah6JtxMGue1E9"
     },
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e02\u0e19\u0e32\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e22\u0e31\u0e07\u0e21\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e01",
-        "url": "https://open.spotify.com/album/0G02WNUQgH2lhzBcRWEj3r"
+        "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
+        "url": "https://open.spotify.com/album/6xfrisqPpsDrvWxH2AHW3G"
       },
       "artists": [
         {
-          "name": "The Juu's",
-          "url": "https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf"
+          "name": "Heartbreak Kids",
+          "url": "https://open.spotify.com/artist/7xA3ubZpjTWaoslvvtSC4i"
         }
       ],
-      "duration_ms": 191236,
-      "name": "\u0e02\u0e19\u0e32\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e22\u0e31\u0e07\u0e21\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e01",
-      "url": "https://open.spotify.com/track/5854tiVUCgub2DbyPv8qB7"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "Babe Come Back",
-        "url": "https://open.spotify.com/album/4AtsTSLmIz7dYF7U7v3M4r"
-      },
-      "artists": [
-        {
-          "name": "The RedTape",
-          "url": "https://open.spotify.com/artist/27tmYJAGI6vyBE8LaWjCCP"
-        }
-      ],
-      "duration_ms": 270296,
-      "name": "Babe Come Back",
-      "url": "https://open.spotify.com/track/537APMqAi1J1yrRH6uqYaD"
+      "duration_ms": 275875,
+      "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
+      "url": "https://open.spotify.com/track/2zJLtdXaI8Ua6HaYTU00lK"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -1151,34 +1119,66 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-        "url": "https://open.spotify.com/album/7jguSC3ec5UU6vHMfn8WU5"
+        "name": "Pretty Hurt",
+        "url": "https://open.spotify.com/album/7ta9Pd20nkC6jYPRyxhSwl"
       },
       "artists": [
         {
-          "name": "SUNDAY NIGHTS",
-          "url": "https://open.spotify.com/artist/4ggK46gLB2cjdhc0XixrzC"
+          "name": "SRYK",
+          "url": "https://open.spotify.com/artist/2YIOqVz3yiNa1544P231FW"
         }
       ],
-      "duration_ms": 220540,
-      "name": "\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
-      "url": "https://open.spotify.com/track/23ngJAgRbah6JtxMGue1E9"
+      "duration_ms": 175200,
+      "name": "Pretty Hurt",
+      "url": "https://open.spotify.com/track/7nbIChDsl9mkcxsOYEufv3"
     },
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Ready to Love)",
-        "url": "https://open.spotify.com/album/3XowzZ0j1PtHc9WC40YwtW"
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/5Q9pi3cPUftlxeD0XACuFq"
       },
       "artists": [
         {
-          "name": "Boo Mansion",
-          "url": "https://open.spotify.com/artist/25JI4aYHG6k0ZjVU7UztEx"
+          "name": "Marisa Proud",
+          "url": "https://open.spotify.com/artist/5Ad1QUjAoDcNv4pmuHViMz"
         }
       ],
-      "duration_ms": 196206,
-      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Ready to Love)",
-      "url": "https://open.spotify.com/track/7ynGKG3b2Qrc9TewtSsbkK"
+      "duration_ms": 224117,
+      "name": "\u0e20\u0e32\u0e1e\u0e08\u0e33..\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e08\u0e33 (Memories)",
+      "url": "https://open.spotify.com/track/7aQcEeOhUdPXnPRXxtMWFT"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/0GFk72czFYSBy82MWtHnnJ"
+      },
+      "artists": [
+        {
+          "name": "Pong Pongsatorn",
+          "url": "https://open.spotify.com/artist/4UurKu5leJ9UfjtAmWLXzf"
+        }
+      ],
+      "duration_ms": 299076,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e17\u0e35\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/3DYLJuV2d7DX9YAVtjIkRk"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "\u0e02\u0e19\u0e32\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e22\u0e31\u0e07\u0e21\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e01",
+        "url": "https://open.spotify.com/album/0G02WNUQgH2lhzBcRWEj3r"
+      },
+      "artists": [
+        {
+          "name": "The Juu's",
+          "url": "https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf"
+        }
+      ],
+      "duration_ms": 191236,
+      "name": "\u0e02\u0e19\u0e32\u0e14\u0e1e\u0e23\u0e30\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e22\u0e31\u0e07\u0e21\u0e2d\u0e07\u0e09\u0e31\u0e19\u0e21\u0e32\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e01",
+      "url": "https://open.spotify.com/track/5854tiVUCgub2DbyPv8qB7"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -1203,18 +1203,34 @@
     {
       "added_at": "2024-08-16 06:51:00",
       "album": {
-        "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
-        "url": "https://open.spotify.com/album/6xfrisqPpsDrvWxH2AHW3G"
+        "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Ready to Love)",
+        "url": "https://open.spotify.com/album/3XowzZ0j1PtHc9WC40YwtW"
       },
       "artists": [
         {
-          "name": "Heartbreak Kids",
-          "url": "https://open.spotify.com/artist/7xA3ubZpjTWaoslvvtSC4i"
+          "name": "Boo Mansion",
+          "url": "https://open.spotify.com/artist/25JI4aYHG6k0ZjVU7UztEx"
         }
       ],
-      "duration_ms": 275875,
-      "name": "\u0e04\u0e37\u0e19\u0e44\u0e2b\u0e19 (When?)",
-      "url": "https://open.spotify.com/track/2zJLtdXaI8Ua6HaYTU00lK"
+      "duration_ms": 196206,
+      "name": "\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32 (Ready to Love)",
+      "url": "https://open.spotify.com/track/7ynGKG3b2Qrc9TewtSsbkK"
+    },
+    {
+      "added_at": "2024-08-16 06:51:00",
+      "album": {
+        "name": "Babe Come Back",
+        "url": "https://open.spotify.com/album/4AtsTSLmIz7dYF7U7v3M4r"
+      },
+      "artists": [
+        {
+          "name": "The RedTape",
+          "url": "https://open.spotify.com/artist/27tmYJAGI6vyBE8LaWjCCP"
+        }
+      ],
+      "duration_ms": 270296,
+      "name": "Babe Come Back",
+      "url": "https://open.spotify.com/track/537APMqAi1J1yrRH6uqYaD"
     },
     {
       "added_at": "2024-08-16 06:51:00",
@@ -1235,22 +1251,6 @@
       "duration_ms": 224697,
       "name": "\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e2a\u0e19\u0e34\u0e17\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e4c\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/6e9yBrzb9ycMYJxSl9iAJz"
-    },
-    {
-      "added_at": "2024-08-16 06:51:00",
-      "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e23\u0e2d\u0e44\u0e23",
-        "url": "https://open.spotify.com/album/6W2bHhGncNvgjjQRSzEMgg"
-      },
-      "artists": [
-        {
-          "name": "NSL",
-          "url": "https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL"
-        }
-      ],
-      "duration_ms": 176781,
-      "name": "\u0e40\u0e18\u0e2d\u0e23\u0e2d\u0e44\u0e23",
-      "url": "https://open.spotify.com/track/2PjWv1zAj8Sz0W2QLvMqvC"
     }
   ],
   "unique_name": "Fresh Finds Thailand",

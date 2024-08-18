@@ -1,13 +1,29 @@
 {
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 157222,
+  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
+  "num_followers": 157291,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADy+b1bzJHZyWj403E96Q2e",
+  "snapshot_id": "Zr6WgAAAAACUKvVknD+EueeE+Hh5IOMD",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sabio - Remastered 2024",
+        "url": "https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 271289,
+      "name": "El Sabio - Remastered 2024",
+      "url": "https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi"
+    },
     {
       "added_at": null,
       "album": {

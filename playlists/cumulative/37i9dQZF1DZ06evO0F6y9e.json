@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00e1bame de Matar (En Vivo)",
+        "url": "https://open.spotify.com/album/1U6JHKNnyVkN7i7aE6zsrC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214199,
+      "name": "Ac\u00e1bame de Matar (En Vivo)",
+      "url": "https://open.spotify.com/track/2q97QNo5IKXQwdlHKtDfSV"
+    },
+    {
+      "album": {
         "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
         "url": "https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of"
       },
@@ -284,6 +306,28 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/4rX1QSvkaQE2y5LJLVjFqG"
+    },
+    {
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "album": {
@@ -1780,7 +1824,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 223566,
       "name": "Te So\u00f1\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"

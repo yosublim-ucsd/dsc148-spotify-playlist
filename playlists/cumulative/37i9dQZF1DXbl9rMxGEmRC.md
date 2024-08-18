@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-656 songs - 2 day 8 hr 4 min
+657 songs - 2 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,8 +572,9 @@
 | [The Hell I Create](https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [The Hell I Create](https://open.spotify.com/album/0K8S2JBCHkAn9xO7fY5h7y) | 5:52 | 2023-07-07 | 2023-12-15 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-11 |  |
 | [The Intertwined](https://open.spotify.com/track/1uUB0yPKZolbq3ryoLDOlY) | [Skepticism](https://open.spotify.com/artist/2mZuhQebSc9U63QjaADtzF) | [Companion](https://open.spotify.com/album/4kQyk8NpLezupFyYnK9q8n) | 8:19 | 2021-12-17 | 2022-05-14 |
+| [The Lake of Blood](https://open.spotify.com/track/4NJoXNF44uL3D6UyexhGYr) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [The Lake of Blood](https://open.spotify.com/album/1OusZ0BZhBVV2kEpwEm3O5) | 6:23 | 2024-08-16 |  |
 | [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 | 2021-12-17 | 2022-01-08 |
-| [The Lust Called Knowledge \- Re\-Recorded 2022](https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [The Lust Called Knowledge \(Re\-Recorded 2022\)](https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v) | 4:31 | 2022-04-08 |  |
+| [The Lust Called Knowledge \- Re\-Recorded 2022](https://open.spotify.com/track/4B692KoX3G3KXXIrJhxeZr) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [The Lust Called Knowledge \(Re\-Recorded 2022\)](https://open.spotify.com/album/1oltdhcpRRjJN8Elcrbn0v) | 4:31 | 2022-04-08 | 2024-08-18 |
 | [The Mask of Fate](https://open.spotify.com/track/0oJJhVgstOvOcsLeSR6gqO) | [ACOD](https://open.spotify.com/artist/6UDDF4b9a4zFj0voyjD4E1) | [Cryptic Curse](https://open.spotify.com/album/0r18y0KQKKKozZjsXQn8Bw) | 5:30 | 2023-02-15 | 2023-03-04 |
 | [The Middlemist Red](https://open.spotify.com/track/5l7ad026Ev0NpUkldLY5az) | [Dimman](https://open.spotify.com/artist/6QTX8AwQeLbU7QDEzi8zqZ) | [The Middlemist Red](https://open.spotify.com/album/6ujJzfrTiv96eAmCBQkp9o) | 3:59 | 2022-04-01 | 2022-07-17 |
 | [The Orchard of Grief](https://open.spotify.com/track/4aJ8uR5JXf1rSWk6s75gCH) | [Inherits The Void](https://open.spotify.com/artist/4CdFQqeDpciw6AZcIG1xn6) | [Scars of Yesteryears](https://open.spotify.com/album/2Gmii6i6OOielH7IiXW993) | 5:30 | 2024-07-03 |  |

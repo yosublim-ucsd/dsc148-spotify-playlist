@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-176 songs - 12 hr 0 min
+177 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Las Pascuas](https://open.spotify.com/track/2a3ZuVuGnY3izSvAb1VJrN) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:53 | 2023-08-16 |  |
 | [Lechon, Lechon, Lechon](https://open.spotify.com/track/65FCTxPblQN5fJ8ucYWRGw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Navidad a Mi Estilo](https://open.spotify.com/album/4ieRHjOfukQ0LNk7NNtzeE) | 4:14 | 2022-11-25 | 2024-04-19 |
 | [Linda Parranda](https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:23 | 2023-08-16 |  |
-| [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 | 2022-11-25 |  |
+| [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 | 2022-11-25 | 2024-08-18 |
 | [Llego Tu Marido](https://open.spotify.com/track/0vIM0TT8Cuc1cF5qi0F5Jp) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 5:10 | 2022-11-25 | 2022-12-19 |
 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 | 2022-11-25 |  |
 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 | 2022-12-18 |  |
@@ -163,6 +163,7 @@
 | [Popurrí Navideño / Estrella De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen María / La Tierra Mía](https://open.spotify.com/track/4b6c7ugOlWaVBUmCElgImW) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 3:36 | 2022-11-25 |  |
 | [Quiero Parranda](https://open.spotify.com/track/2xstbSuSPHX0VbJrznFV32) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Memorias de Navidad](https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5) | 3:58 | 2022-11-25 |  |
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2022-11-25 |  |
+| [Salsa Pa' Tu Lechon](https://open.spotify.com/track/3yOPYZEE6xvCu8U7jtiPPN) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:08 | 2023-12-19 |  |
 | [Salsa Pa'tu Lechón](https://open.spotify.com/track/1KuOA8toJAGV712kyDoqsW) | [Jhonny Ventura](https://open.spotify.com/artist/0tm86IfBQ2AiJu4tyfgSSz) | [Merengues Navideños Bailables](https://open.spotify.com/album/5CtGEgu6G27rXuXYetWkmO) | 3:30 | 2022-11-25 | 2023-08-17 |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/2MSDziLwLLzdFQVAPnoQqi) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 2:08 | 2022-12-13 | 2023-12-03 |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2022-11-25 | 2023-11-18 |

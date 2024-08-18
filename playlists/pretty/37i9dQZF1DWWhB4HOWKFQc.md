@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,318,006 likes - 98 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,318,366 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

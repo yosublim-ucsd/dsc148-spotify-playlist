@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lady Gaga, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,059 likes - 95 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,154 likes - 95 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 89 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 |
 | 90 | [Seit du da bist](https://open.spotify.com/track/5wmfysWg1eu2QHs0NsGENm) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Seit du da bist](https://open.spotify.com/album/1VLsVttSDPHQqQ5wtEeHIs) | 2:54 |
 | 91 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 |
-| 92 | [bis du das](https://open.spotify.com/track/45St53aq2HhLZ4yFItPXhL) | [Luis Schwamm](https://open.spotify.com/artist/5xJrBzIh8wDr1sCL4Lq2HK) | [bist du das](https://open.spotify.com/album/2JLPZQ8Kz22wosu8O0jmNi) | 4:01 |
+| 92 | [bist du das](https://open.spotify.com/track/45St53aq2HhLZ4yFItPXhL) | [Luis Schwamm](https://open.spotify.com/artist/5xJrBzIh8wDr1sCL4Lq2HK) | [bist du das](https://open.spotify.com/album/2JLPZQ8Kz22wosu8O0jmNi) | 4:01 |
 | 93 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
 | 94 | [Fata Morgana](https://open.spotify.com/track/5vPRqtir3jPDs1irrskmPs) | [MIA MARA](https://open.spotify.com/artist/75d98h0JLTaZa3X53W5yg2) | [Fata Morgana](https://open.spotify.com/album/4iqIU7A4W2noWMGJfohhRI) | 2:30 |
 | 95 | [Ugly](https://open.spotify.com/track/6v5t940nnWNcsGsuRyerg7) | [Naomi Jon](https://open.spotify.com/artist/7dp0IBlB3OJ5WYURSsc6Do) | [Villain Of Your Dreams](https://open.spotify.com/album/77ZWVidey5ROOKFCUAaNtl) | 2:41 |

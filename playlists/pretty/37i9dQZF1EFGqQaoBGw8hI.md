@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242 likes - 575 songs - 1 day 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,241 likes - 575 songs - 1 day 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -350,8 +350,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 340 | [One Horse Town](https://open.spotify.com/track/4LYF3uIlrEYF2aIYIa2iBO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:56 |
 | 341 | [Porch Swing In Tupelo](https://open.spotify.com/track/4p70FGbzp42lqIuLbGGbtI) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:38 |
 | 342 | [Return To Paradise](https://open.spotify.com/track/4BTqc5vVoB3Cu3F6qtFXiz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:15 |
-| 343 | [Freaks In Love](https://open.spotify.com/track/5bZbZQRl6rO5pw65cRc5nQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:31 |
-| 344 | [The Wasteland](https://open.spotify.com/track/7xhZakHIS5A1nk6e23EQy9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:21 |
+| 343 | [The Wasteland](https://open.spotify.com/track/7xhZakHIS5A1nk6e23EQy9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:21 |
+| 344 | [Freaks In Love](https://open.spotify.com/track/5bZbZQRl6rO5pw65cRc5nQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:31 |
 | 345 | [Blue Avenue](https://open.spotify.com/track/6CK7N5K49iTzBnReWF89Nj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 4:18 |
 | 346 | [Pain](https://open.spotify.com/track/2n3k300vERaQqhZfeX4SFn) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Made In England](https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH) | 3:49 |
 | 347 | [Crazy Water](https://open.spotify.com/track/3QapUPFJkO7bMjn5BF1Jlz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:42 |
@@ -385,8 +385,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 375 | [Shoot Down The Moon](https://open.spotify.com/track/2gVzJjqGAJZZpEbGzHSssf) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 5:09 |
 | 376 | [Let Me Be Your Car](https://open.spotify.com/track/634gk7hAnQPgVz5ZAUfJO7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Smiler](https://open.spotify.com/album/1RuMPrVES7OeG5Nam0N8mJ) | 4:57 |
 | 377 | [I Must Have Lost It On The Wind](https://open.spotify.com/track/3HvxAXWaHkbbAzEhJiUDz4) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 3:53 |
-| 378 | [Old 67](https://open.spotify.com/track/6oovsNtmQPIKcvEbfVpTmA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:01 |
-| 379 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 378 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 379 | [Old 67](https://open.spotify.com/track/6oovsNtmQPIKcvEbfVpTmA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Captain and The Kid](https://open.spotify.com/album/1lqdOJ9M0EnXx9cf5moz1B) | 4:01 |
 | 380 | [It Ain't Gonna Be Easy](https://open.spotify.com/track/0PuA4sglslF8Tp3mwadnaA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 8:27 |
 | 381 | [Thank You Mama \- Piano Demo](https://open.spotify.com/track/4YnVgdm9lKeXOEGuPQLW0D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 3:19 |
 | 382 | [Lady What's Tomorrow](https://open.spotify.com/track/0xh9za4LZW0FEDrMnqDy5e) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:09 |
@@ -413,13 +413,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 403 | [Big Dipper](https://open.spotify.com/track/6OVzjUYXPUzhC2CHEo1UAk) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:04 |
 | 404 | [Reverie](https://open.spotify.com/track/1FlF9b1bqP8mvmF9T1mRaD) | [Nicholas Sirart](https://open.spotify.com/artist/5yqwvmAeSBqRq4Zf7EaFZP) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 2:34 |
 | 405 | [Keep It A Mystery](https://open.spotify.com/track/1AARvQLoXfnQstTo6eHJ8a) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:15 |
-| 406 | [Love's Got A Lot To Answer For](https://open.spotify.com/track/57LGc6kMOrfEDM8EiZxQln) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:00 |
-| 407 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 406 | [Heartache All Over The World](https://open.spotify.com/track/0KQbn6gKpKdLlugDfxaF7r) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:17 |
+| 407 | [Love's Got A Lot To Answer For](https://open.spotify.com/track/57LGc6kMOrfEDM8EiZxQln) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 5:00 |
 | 408 | [Carla/Etude \- Fanfare \- Chloe \- Remastered 2003](https://open.spotify.com/track/231kvu5STQGcqzuRDX9S9C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 10:51 |
 | 409 | [Dear John \- Remastered 2003](https://open.spotify.com/track/2KkATTWT3nJalkA5588fQ9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:33 |
 | 410 | [Conquer The Sun](https://open.spotify.com/track/4y33y6VDIvE0LL50q1EgpZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:21 |
-| 411 | [Fat Boys And Ugly Girls](https://open.spotify.com/track/14sADwg78MbJw9dDL62iRR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:14 |
-| 412 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
+| 411 | [If There's A God In Heaven \(What's He Waiting For?\)](https://open.spotify.com/track/0jfP8jD5xZBWXUJ0H36UKz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 4:25 |
+| 412 | [Fat Boys And Ugly Girls](https://open.spotify.com/track/14sADwg78MbJw9dDL62iRR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 4:14 |
 | 413 | [Shoulder Holster](https://open.spotify.com/track/3zW27M7GKnolAlgTrwNIds) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 5:10 |
 | 414 | [The Fox \- Remastered 2003](https://open.spotify.com/track/6lOCElinpBuk7uwvSEdaGo) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 5:20 |
 | 415 | [Too Many Tears](https://open.spotify.com/track/6NaTklchYJQzaPdWiinSim) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:14 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbZmtAAAAADH0m6pM1Vct91O4pQI23Kw`
+Snapshot ID: `AbZsVAAAAAABrJMzqc/3qM8ekhAl3rPC`

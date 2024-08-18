@@ -1295,6 +1295,32 @@
     },
     {
       "album": {
+        "name": "Aivan sama",
+        "url": "https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm"
+      },
+      "artists": [
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        },
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        },
+        {
+          "name": "F",
+          "url": "https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "Aivan sama",
+      "url": "https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf"
+    },
+    {
+      "album": {
         "name": "Aja (feat. Dilemma, Jenni & Juho)",
         "url": "https://open.spotify.com/album/6XeWkNanVZtbcMe72u78Fg"
       },
@@ -3332,7 +3358,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 180042,
       "name": "BLONDINA",
       "url": "https://open.spotify.com/track/3Fq0id1BFWX3GoCeWdNh53"
@@ -5662,6 +5688,28 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -9192,7 +9240,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -17264,7 +17312,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 135998,
       "name": "Koukus",
       "url": "https://open.spotify.com/track/6P0Oi8lYdr7tdAQptCUuNZ"
@@ -20148,7 +20196,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 203909,
       "name": "Lupaa et s\u00e4 l\u00e4het",
       "url": "https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c"
@@ -20646,7 +20694,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 174240,
       "name": "maasta taivaaseen",
       "url": "https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW"
@@ -20906,7 +20954,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 158159,
       "name": "Maljapuhe",
       "url": "https://open.spotify.com/track/0Qlx6e4luybsQ4nDhhlC1h"
@@ -23075,6 +23123,28 @@
     },
     {
       "album": {
+        "name": "Momentti (feat. Costi)",
+        "url": "https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW"
+      },
+      "artists": [
+        {
+          "name": "T Swoop",
+          "url": "https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193908,
+      "name": "Momentti (feat. Costi)",
+      "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
+    },
+    {
+      "album": {
         "name": "Mon Ami",
         "url": "https://open.spotify.com/album/2iKWgs575U79EpqqbSs54N"
       },
@@ -23724,7 +23794,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 166187,
       "name": "Mun vuoro safkaa",
       "url": "https://open.spotify.com/track/2uc376dOBgeCLynv8CHGCz"
@@ -25282,6 +25352,28 @@
       "duration_ms": 183850,
       "name": "Nuorgam (feat. TIPPA)",
       "url": "https://open.spotify.com/track/64fagmhTnpUkqm9ngt7xWd"
+    },
+    {
+      "album": {
+        "name": "Nuori & Tyhm\u00e4",
+        "url": "https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        },
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152326,
+      "name": "Nuori & Tyhm\u00e4",
+      "url": "https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0"
     },
     {
       "album": {
@@ -27554,6 +27646,28 @@
       "duration_ms": 113588,
       "name": "Perus R\u00e4pp\u00e4ri",
       "url": "https://open.spotify.com/track/250KNG4ECaiNbnPh6c0JcP"
+    },
+    {
+      "album": {
+        "name": "Per\u00e4valot (feat. Ellinoora)",
+        "url": "https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw"
+      },
+      "artists": [
+        {
+          "name": "Gasellit",
+          "url": "https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF"
+        },
+        {
+          "name": "Ellinoora",
+          "url": "https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183749,
+      "name": "Per\u00e4valot (feat. Ellinoora)",
+      "url": "https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw"
     },
     {
       "album": {
@@ -33477,6 +33591,28 @@
     },
     {
       "album": {
+        "name": "Suomalainen Superstara",
+        "url": "https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        },
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182159,
+      "name": "Suomalainen Superstara",
+      "url": "https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC"
+    },
+    {
+      "album": {
         "name": "Olli Halonen",
         "url": "https://open.spotify.com/album/40cRTPQbLaeRKN9xFK6066"
       },
@@ -34364,6 +34500,24 @@
       "duration_ms": 268587,
       "name": "S\u00e4 tuut unohtuu",
       "url": "https://open.spotify.com/track/13nL2WCgPLlV9ciZuhnxnx"
+    },
+    {
+      "album": {
+        "name": "S\u00e4 voitit jo",
+        "url": "https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178274,
+      "name": "S\u00e4 voitit jo",
+      "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
     },
     {
       "album": {
@@ -39213,6 +39367,28 @@
     },
     {
       "album": {
+        "name": "Vitun hyvin",
+        "url": "https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180099,
+      "name": "Vitun hyvin",
+      "url": "https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp"
+    },
+    {
+      "album": {
         "name": "VITUTTAA",
         "url": "https://open.spotify.com/album/0VvLZoQiIRxYjAHxOcEibF"
       },
@@ -39554,7 +39730,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 182579,
       "name": "V\u00e4\u00e4r\u00e4\u00e4n aikaan (feat. HUGO)",
       "url": "https://open.spotify.com/track/1iZOPk4TnPpL1NOqCXSoRv"

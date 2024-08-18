@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno al mando de Aqua VS & AKRIILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,289 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,318 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 39 | [Queremo Ma](https://open.spotify.com/track/6fguZ8G9c3TvJsjM1oEgwH) | [Z Jocker](https://open.spotify.com/artist/6IaOUkLKnYH0q8Vm2AdhQ5), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Queremo Ma](https://open.spotify.com/album/1semEeAcwPUyW9ad6OU7mA) | 2:33 |
 | 40 | [No Quiero Atraso](https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Rey De Los Trenches](https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX) | 3:34 |
 | 41 | [LA KALAKA](https://open.spotify.com/track/7Fi4c0gv54nlOLISDBejev) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [LA KALAKA](https://open.spotify.com/album/1D7j53tscr0UkGnBxYGDmD) | 2:24 |
-| 42 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 |
+| 42 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 |
 | 43 | [Siciliano](https://open.spotify.com/track/6z1LXHyx2AwwQGXoMUjjbV) | [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Siciliano](https://open.spotify.com/album/3cYJzm7oqoJXyw3VX3Ohkp) | 3:13 |
 | 44 | [VIBRANDO ALTO](https://open.spotify.com/track/6gdXA0hjqp5B9VLilLmkRu) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [VIBRANDO ALTO](https://open.spotify.com/album/2mjGSrHDnZB0J34FM4IeFk) | 2:41 |
 | 45 | [MALDITA QL](https://open.spotify.com/track/0fVDSMzzqEMfvat9hiI8JD) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [MALDITA QL](https://open.spotify.com/album/14Dbf2M0BAVY3O4oNqJXbt) | 3:43 |

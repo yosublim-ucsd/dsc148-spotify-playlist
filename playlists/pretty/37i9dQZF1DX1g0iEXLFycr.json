@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1081075,
+  "num_followers": 1081036,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
-      },
-      "artists": [
-        {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        },
+        {
+          "name": "Steve Mac",
+          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Keep On Movin'",
+      "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr"
+        "name": "Stereo Typical",
+        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
       },
       "artists": [
         {
-          "name": "Alexis Jordan",
-          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
+      "duration_ms": 175081,
+      "name": "When I Was A Youngster",
+      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Stereo Typical",
-        "url": "https://open.spotify.com/album/7dn5EHt0T7jdPf4q0ljrmp"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr"
       },
       "artists": [
         {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+          "name": "Alexis Jordan",
+          "url": "https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1"
         }
       ],
-      "duration_ms": 175081,
-      "name": "When I Was A Youngster",
-      "url": "https://open.spotify.com/track/2LrTrVQc3jblY2lh61zNsu"
+      "duration_ms": 242786,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP"
     },
     {
       "added_at": "2024-03-22 16:40:22",

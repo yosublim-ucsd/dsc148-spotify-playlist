@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 145152,
+  "num_followers": 145270,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Alby Ydo2",
-        "url": "https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37"
-      },
-      "artists": [
-        {
-          "name": "Masri",
-          "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
-        },
-        {
-          "name": "Ricky Rich",
-          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
-        }
-      ],
-      "duration_ms": 141494,
-      "name": "Alby Ydo2",
-      "url": "https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 160336,
       "name": "Ahla Wahda",
       "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Alby Ydo2",
+        "url": "https://open.spotify.com/album/5otAVv8aZUG0kjV5w2yn37"
+      },
+      "artists": [
+        {
+          "name": "Masri",
+          "url": "https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA"
+        },
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 141494,
+      "name": "Alby Ydo2",
+      "url": "https://open.spotify.com/track/7hhxWoY8woyLeHifEb7a7r"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Mawahashtkesh !!?",
-        "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 327456,
-      "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
-      "url": "https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Ew3a",
         "url": "https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 193000,
       "name": "Ew3a",
       "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Mawahashtkesh !!?",
+        "url": "https://open.spotify.com/album/6lOiphAEqG5GmFhOKtWjJk"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 327456,
+      "name": "Mawahashtkesh !!? - From Hormone El Saada Album",
+      "url": "https://open.spotify.com/track/1V5nOyehl22kvbNtfR53Qd"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 316880,
-      "name": "Etamen",
-      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Hob Emtelak",
         "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 244321,
       "name": "Esmaa Kalamy",
       "url": "https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 316880,
+      "name": "Etamen",
+      "url": "https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
+        "name": "Ekhtart Sah",
+        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "Ya Waheshny",
+      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
         "name": "Awel Mara Etabelna",
         "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Hala Beek Ya Medala3",
-        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Hala Beek Ya Medala3",
-      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
-        "name": "Ekhtart Sah",
-        "url": "https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "Ya Waheshny",
-      "url": "https://open.spotify.com/track/4GJKGy6B1G1G4g7fRkKfEh"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Agmal Layaly Omry",
         "url": "https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 235866,
       "name": "Taali",
       "url": "https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Hala Beek Ya Medala3",
+        "url": "https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 167873,
+      "name": "Hala Beek Ya Medala3",
+      "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Zayyo Tani",
-        "url": "https://open.spotify.com/album/11WjHbnypl5Se90ozg0RoE"
-      },
-      "artists": [
-        {
-          "name": "Pousi",
-          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
-        }
-      ],
-      "duration_ms": 205779,
-      "name": "Zayyo Tani",
-      "url": "https://open.spotify.com/track/6QcRW2RF2qAix4a1GT11V5"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "\u0628\u0646\u0633\u0649 \u0646\u0641\u0633\u064a",
         "url": "https://open.spotify.com/album/3r8THtwXg7OuYdwR7CKOWS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 232448,
       "name": "\u0628\u0646\u0633\u0649 \u0646\u0641\u0633\u064a",
       "url": "https://open.spotify.com/track/3o3NSDCAmUbkgXQfcbDsU5"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Zayyo Tani",
+        "url": "https://open.spotify.com/album/11WjHbnypl5Se90ozg0RoE"
+      },
+      "artists": [
+        {
+          "name": "Pousi",
+          "url": "https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7"
+        }
+      ],
+      "duration_ms": 205779,
+      "name": "Zayyo Tani",
+      "url": "https://open.spotify.com/track/6QcRW2RF2qAix4a1GT11V5"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
-      },
-      "artists": [
-        {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 174912,
-      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "\u0623\u064a\u0627\u0645\u064a",
         "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 215945,
       "name": "\u0628\u0631\u062a\u0627\u062d \u0645\u0639\u0627\u0643",
       "url": "https://open.spotify.com/track/13fRYCIjPIr5fi9Z3a9lGW"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/0OOfNXZ946kd6XWzo1hFXB"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 174912,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0639\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/39iDT99pLYo7Q5F166a2UY"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
-        "url": "https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 316250,
-      "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
-      "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Adeit",
         "url": "https://open.spotify.com/album/3thPAd7quOl2gh9BhMv2nv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 124295,
       "name": "Ya Gamalak - Acoustic Version",
       "url": "https://open.spotify.com/track/6LqhmrQ1LB6SKhjESbHOel"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+        "url": "https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 316250,
+      "name": "\u0628\u064a\u0643\u0644\u0645\u0648\u0646\u064a",
+      "url": "https://open.spotify.com/track/4CJIs5dygfQCbByVKAnK2T"
     },
     {
       "added_at": "2024-08-12 12:31:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-12 12:31:50",
       "album": {
-        "name": "Ma Kefaya",
-        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
-      },
-      "artists": [
-        {
-          "name": "Mohamed El Sharnouby",
-          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
-        }
-      ],
-      "duration_ms": 200566,
-      "name": "Ma Kefaya",
-      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
-    },
-    {
-      "added_at": "2024-08-12 12:31:50",
-      "album": {
         "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
         "url": "https://open.spotify.com/album/1zwC6c3YBRtzZEPzLBjZgC"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 215040,
       "name": "Tool Mahna Maa Baad (Coke Studio Egypt 2023)",
       "url": "https://open.spotify.com/track/1voa8b59cgkIhPpEnHIk31"
+    },
+    {
+      "added_at": "2024-08-12 12:31:50",
+      "album": {
+        "name": "Ma Kefaya",
+        "url": "https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Sharnouby",
+          "url": "https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn"
+        }
+      ],
+      "duration_ms": 200566,
+      "name": "Ma Kefaya",
+      "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
     },
     {
       "added_at": "2024-08-12 12:31:50",

@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado。アーティストの代表曲をひとつのプレイリストに。
+> This is Codiciado\. The essential tracks, all in one playlist.
 
 34 songs - 1 hr 54 min
 

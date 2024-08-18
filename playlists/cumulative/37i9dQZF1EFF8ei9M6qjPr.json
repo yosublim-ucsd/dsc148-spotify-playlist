@@ -1858,6 +1858,24 @@
     {
       "album": {
         "name": "Nightstand",
+        "url": "https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5"
+      },
+      "artists": [
+        {
+          "name": "Justus Bennetts",
+          "url": "https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161746,
+      "name": "Nightstand",
+      "url": "https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP"
+    },
+    {
+      "album": {
+        "name": "Nightstand",
         "url": "https://open.spotify.com/album/2az3Kqq0uVsNoQ7R5QCTwJ"
       },
       "artists": [
@@ -1868,7 +1886,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 161746,
       "name": "Nightstand",
       "url": "https://open.spotify.com/track/5KPmp3AYVAYb3Rv2Cbzqzp"

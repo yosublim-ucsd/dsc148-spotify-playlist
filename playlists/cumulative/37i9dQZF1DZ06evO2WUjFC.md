@@ -4,13 +4,14 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 33 min
+82 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 | 2024-06-13 | 2024-08-08 |
 | [Amigos](https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:43 | 2024-01-29 |  |
 | [AMIGOS CON DERECHO](https://open.spotify.com/track/7pQtPgMjkFfOyY1TWTBIGp) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMIGOS CON DERECHO](https://open.spotify.com/album/3MVfbjBmTmSAMVgFj436Lk) | 3:36 | 2024-03-09 |  |
+| [AMORCITO CONSENTIDO](https://open.spotify.com/track/0n9VnyL7aAl8YPhIxVRIVP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-18 |  |
 | [amorlove](https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ) | 2:29 | 2024-01-29 | 2024-05-24 |
 | [Anillo Grabado \(Live\)](https://open.spotify.com/track/7B8A9CscEBKyJJ4wbhkEbT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:46 | 2024-01-29 |  |
 | [Asi Toco Mi Vida \- Live](https://open.spotify.com/track/1a9Xe3n4Ci4HKUsBIiLCLR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Finix Style](https://open.spotify.com/album/2k2o60nWRLbor5MuwY0pZC) | 4:18 | 2024-02-14 | 2024-08-11 |

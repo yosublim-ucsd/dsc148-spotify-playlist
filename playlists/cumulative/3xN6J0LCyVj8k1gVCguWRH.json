@@ -9642,7 +9642,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 179250,
       "name": "California",
       "url": "https://open.spotify.com/track/3n34ONVv5ZFcxSPZNnTteb"
@@ -15242,6 +15242,24 @@
       "duration_ms": 203000,
       "name": "daydreaming",
       "url": "https://open.spotify.com/track/5la4XzokHk20mBFEwsvoPc"
+    },
+    {
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/3c0GUayBcp5hgtVa76olTf"
+      },
+      "artists": [
+        {
+          "name": "Bella Delle",
+          "url": "https://open.spotify.com/artist/2Ss9z0SG3FQwFJVpWoyafk"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/3lBvhKsnzrhVK3jo6p03cI"
     },
     {
       "album": {
@@ -23239,6 +23257,28 @@
     },
     {
       "album": {
+        "name": "Full Of Love",
+        "url": "https://open.spotify.com/album/1jbO2krTLRXtHnQ4AuME4w"
+      },
+      "artists": [
+        {
+          "name": "Alina Love",
+          "url": "https://open.spotify.com/artist/6n3sIydc4YFxo8a9x5Xr49"
+        },
+        {
+          "name": "Svet",
+          "url": "https://open.spotify.com/artist/4tmP9ZUyjTRZgjCnooFUP6"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192418,
+      "name": "Full Of Love",
+      "url": "https://open.spotify.com/track/2oz6sahR7yrfF2zxFEjucN"
+    },
+    {
+      "album": {
         "name": "Fun In The Summer",
         "url": "https://open.spotify.com/album/1hIiQQCJ6u2nf7MtnLlCm7"
       },
@@ -26354,6 +26394,24 @@
       "duration_ms": 132625,
       "name": "Harmless Fun",
       "url": "https://open.spotify.com/track/0bQjb0IEsdstyU9lbMrpvv"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/2VUoGo7dbfNlEmYdk7QYdu"
+      },
+      "artists": [
+        {
+          "name": "SaoulMusic",
+          "url": "https://open.spotify.com/artist/3tVzOHHxDW2bpTpKB7vVcf"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/6ltIuuqQacxzBJrl9U8s8r"
     },
     {
       "album": {
@@ -37347,6 +37405,28 @@
     },
     {
       "album": {
+        "name": "Lost in my mind (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2HqgOFNSGdW0lNljHhapMd"
+      },
+      "artists": [
+        {
+          "name": "Raoul C",
+          "url": "https://open.spotify.com/artist/0FeJ3rcCRjVyFMydx9dCAz"
+        },
+        {
+          "name": "Olya Gram",
+          "url": "https://open.spotify.com/artist/4qU8yqEYSaRdyR8c9vjOgo"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107294,
+      "name": "Lost in my mind - Acoustic Version",
+      "url": "https://open.spotify.com/track/3B39eogy4MFdjECDyTGmY4"
+    },
+    {
+      "album": {
         "name": "Lost in the Sound",
         "url": "https://open.spotify.com/album/1EFNXX3rQqTdGXqaU6uPwT"
       },
@@ -45915,6 +45995,28 @@
     },
     {
       "album": {
+        "name": "On My Nerves",
+        "url": "https://open.spotify.com/album/6aRWxnG1VAd7yekCYvXQcL"
+      },
+      "artists": [
+        {
+          "name": "Keely",
+          "url": "https://open.spotify.com/artist/6O22NnZ7zH3nosk9yfKMIx"
+        },
+        {
+          "name": "PeterFeelGood",
+          "url": "https://open.spotify.com/artist/4nMh2wu3UzcEhfkp1X7VjJ"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "On My Nerves",
+      "url": "https://open.spotify.com/track/5S1SWNo8kIyT7kVchVTJJD"
+    },
+    {
+      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/514Dff3kf8Q0vwae6otX6A"
       },
@@ -45970,6 +46072,24 @@
       "duration_ms": 185142,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/2nFtpQ3QSmvkuCUWR2LSnj"
+    },
+    {
+      "album": {
+        "name": "On the Brink",
+        "url": "https://open.spotify.com/album/2Qggzmypyyw4ggHY8kFwLY"
+      },
+      "artists": [
+        {
+          "name": "My Mojo",
+          "url": "https://open.spotify.com/artist/4l0DYq1KoN3rsxcUCBT0MA"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355200,
+      "name": "On the Brink",
+      "url": "https://open.spotify.com/track/1xcY2zlwZt8JKH3rhIfU0c"
     },
     {
       "album": {
@@ -55794,6 +55914,24 @@
       "duration_ms": 183362,
       "name": "Snakes and Fakes",
       "url": "https://open.spotify.com/track/3yRR7KYDW2Rsyeicv5LcPi"
+    },
+    {
+      "album": {
+        "name": "Snatch My Soul",
+        "url": "https://open.spotify.com/album/5xgZoWu9VjSM7y5x36BOrW"
+      },
+      "artists": [
+        {
+          "name": "Alexus",
+          "url": "https://open.spotify.com/artist/7L8iuA7qcRYBr8WsPbDk5M"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233198,
+      "name": "Snatch My Soul",
+      "url": "https://open.spotify.com/track/4GoyQNCVQFV613IMxYFVML"
     },
     {
       "album": {
@@ -68772,6 +68910,36 @@
       "duration_ms": 218000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7HErxkHvSktrG09jtsbG6c"
+    },
+    {
+      "album": {
+        "name": "What Made Me Fall",
+        "url": "https://open.spotify.com/album/5XUFsx8s1nzoiRwFTJFmwl"
+      },
+      "artists": [
+        {
+          "name": "Kerrie Stelly",
+          "url": "https://open.spotify.com/artist/2rrhaK8HgceMTJkgO1ArGp"
+        },
+        {
+          "name": "Carrie Johnson",
+          "url": "https://open.spotify.com/artist/4HJk9DfGNIRLBpF0NAxhMq"
+        },
+        {
+          "name": "Dennis Cotton",
+          "url": "https://open.spotify.com/artist/21tGRb6bV1DizOAg2v3ZNr"
+        },
+        {
+          "name": "Cameron Greenlee",
+          "url": "https://open.spotify.com/artist/5aVX7EIq3VMsi3XkRgNSQz"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223231,
+      "name": "What Made Me Fall",
+      "url": "https://open.spotify.com/track/6gPWMo3UWCBL2gi6rGij6W"
     },
     {
       "album": {

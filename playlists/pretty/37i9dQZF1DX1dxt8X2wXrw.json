@@ -143,22 +143,6 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "Sittin' On Top Of The World",
-        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159372,
-      "name": "Sittin' On Top Of The World",
-      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 154285,
       "name": "For You",
       "url": "https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
     },
     {
       "added_at": "2024-07-23 04:00:00",
@@ -453,6 +453,22 @@
       "url": "https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z"
     },
     {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "Capable of love",
+        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
+    },
+    {
       "added_at": "2024-07-23 04:00:00",
       "album": {
         "name": "Where the Butterflies Go in the Rain",
@@ -471,22 +487,6 @@
       "duration_ms": 225384,
       "name": "Junebug (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/5iIHoQxObmmmsLL4lbAaCp"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
-        "name": "Capable of love",
-        "url": "https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 223680,
-      "name": "Capable of love",
-      "url": "https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/6f4QRj8KKRJ2WXmQ3x3IUG"
+      },
+      "artists": [
+        {
+          "name": "Tora",
+          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/6ji7sYr2tniw0ZeBFlZHUD"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
         "name": "NEGLIGENT",
         "url": "https://open.spotify.com/album/1PnBzRz589IzGfNYcoKAwU"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "Storm",
-        "url": "https://open.spotify.com/album/6f4QRj8KKRJ2WXmQ3x3IUG"
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW"
       },
       "artists": [
         {
-          "name": "Tora",
-          "url": "https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 219333,
-      "name": "Storm",
-      "url": "https://open.spotify.com/track/6ji7sYr2tniw0ZeBFlZHUD"
+      "duration_ms": 146791,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -831,22 +847,6 @@
       "duration_ms": 283133,
       "name": "Learning",
       "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
-        "name": "Needs",
-        "url": "https://open.spotify.com/album/1xYasQnBT0AZVgQhlEGQTW"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 146791,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/0Ic42kynfrSAJjTlOr0dWR"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
+        "name": "it was nice knowing u",
+        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "duration_ms": 176347,
+      "name": "pretty photos",
+      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 152750,
       "name": "High Notes",
       "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
-        "name": "it was nice knowing u",
-        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 176347,
-      "name": "pretty photos",
-      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
     },
     {
       "added_at": "2024-07-12 04:08:58",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-12 04:08:58",
       "album": {
-        "name": "I Don't Love You",
-        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 251009,
-      "name": "I Don't Love You",
-      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
-    },
-    {
-      "added_at": "2024-07-12 04:08:58",
-      "album": {
         "name": "Leo",
         "url": "https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 245000,
       "name": "Leo",
       "url": "https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM"
+    },
+    {
+      "added_at": "2024-07-12 04:08:58",
+      "album": {
+        "name": "I Don't Love You",
+        "url": "https://open.spotify.com/album/3YRDP6zsko8EJm9xjgVo4n"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 251009,
+      "name": "I Don't Love You",
+      "url": "https://open.spotify.com/track/2okP2LbGxMLQWqmkptMAIX"
     }
   ],
   "unique_name": "crush",

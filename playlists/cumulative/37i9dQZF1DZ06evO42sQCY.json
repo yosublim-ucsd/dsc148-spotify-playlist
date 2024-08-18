@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "This is Ivan Cornejo. The essential tracks, all in one playlist.",
+  "description": "This Is Ivan Cornejo. Los temas esenciales, todos en una lista.",
   "name": "This Is Ivan Cornejo",
   "tracks": [
     {
@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 44257,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/35bOGdUxaMc0Y9lcP3ihlF"

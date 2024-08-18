@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-22",
-  "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
+  "description": "This is Filipe Ret. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Filipe Ret",
   "tracks": [
     {
@@ -788,11 +788,15 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 217731,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/3QpkDyuXdjxhIyLyKtyC6O"
@@ -810,7 +814,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 182970,
       "name": "Ilus\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/4mCLk3UKVlqduaXrPOHFyd"

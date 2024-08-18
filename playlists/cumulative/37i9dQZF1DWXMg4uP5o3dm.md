@@ -4,7 +4,7 @@
 
 > alternative meets electronic Cover: Porter Robinson
 
-321 songs - 16 hr 50 min
+322 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/track/2ZuDGsKSJpQdJmpknJ7ypF) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Dirty Little Animals \(From the series Arcane League of Legends\)](https://open.spotify.com/album/2OGZHtCzPL6uk1kEPvFqIC) | 3:25 | 2021-12-07 | 2022-10-15 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 |  |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-06-25 |  |
+| [does your mother know?](https://open.spotify.com/track/17wDoFSbfk4JsS4zorJPAZ) | [Groupthink](https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0) | [does your mother know?](https://open.spotify.com/album/4ciGcEsNf12k6UYKvtJ95m) | 2:34 | 2024-08-15 |  |
 | [Don't Look At Me](https://open.spotify.com/track/3U7mehH6qFWzsDrAljZ7VW) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB) | 3:08 | 2023-08-18 | 2024-04-19 |
 | [Don't Look At Me](https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 3:08 | 2020-08-17 | 2023-10-24 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-27 |  |
@@ -115,7 +116,7 @@
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 | 2022-08-26 |
 | [Fighter](https://open.spotify.com/track/4gi2kndWShH9kDbb9kBfs6) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 2:36 | 2022-04-01 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2020-08-17 | 2022-10-15 |
-| [Fired Up](https://open.spotify.com/track/5PTaK4FzliDWLnNzdzLbbp) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Fired Up](https://open.spotify.com/album/65TFyfYfuwzuu4woozBK32) | 3:00 | 2021-06-11 |  |
+| [Fired Up](https://open.spotify.com/track/5PTaK4FzliDWLnNzdzLbbp) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Fired Up](https://open.spotify.com/album/65TFyfYfuwzuu4woozBK32) | 3:00 | 2021-06-11 | 2024-08-18 |
 | [Flatline](https://open.spotify.com/track/44dhel0yGmCXxjtFkl34el) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/0uAcX7kiIoqZvNHDN53qeM) | 2:54 | 2021-04-16 | 2022-10-13 |
 | [Flatline](https://open.spotify.com/track/4r05ev9hIFnjWUkzJGMu46) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Max Maco Is Dead Right?](https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K) | 2:54 | 2022-10-14 | 2024-04-19 |
 | [Float](https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Float](https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R) | 2:49 | 2020-08-17 | 2022-10-15 |

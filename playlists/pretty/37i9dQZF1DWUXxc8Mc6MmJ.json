@@ -1,6 +1,6 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks. (\uadf8 \uc2dc\uc808 \uadf8 \ub54c\uc758 \uac10\uc131\uc774 \ub2f4\uaca8 \uc788\ub294 OST \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
-  "num_followers": 849080,
+  "num_followers": 849379,
   "original_name": "Best of Korean OSTs (OST \uba85\uace1 \ubca0\uc2a4\ud2b8)",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 201905,
-      "name": "With you",
-      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 218897,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 201905,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
       },
       "artists": [
         {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
         }
       ],
-      "duration_ms": 169448,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
       },
       "artists": [
         {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu"
-      },
-      "artists": [
-        {
-          "name": "Eddy Kim",
-          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "You are so beautiful",
-      "url": "https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Nevertheless, (Original Drama Sound Track, Pt. 1)",
         "url": "https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 238266,
       "name": "We're Already",
       "url": "https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "You are so beautiful",
+      "url": "https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 12",
-        "url": "https://open.spotify.com/album/64rRqNRtmidUNpKFJcNFEz"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 186749,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/7IRZ9aTBu35je2AHT2LxvL"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193933,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2ogfEqGNv9LAzkPY6rjfsi"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 12",
+        "url": "https://open.spotify.com/album/64rRqNRtmidUNpKFJcNFEz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 186749,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/7IRZ9aTBu35je2AHT2LxvL"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
+        "name": "HOSPITAL PLAYLIST Season2, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 262482,
+      "name": "Rain and You",
+      "url": "https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack) Pt. 2",
         "url": "https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 268386,
       "name": "In Your Time",
       "url": "https://open.spotify.com/track/6yszDy9yFogkgavFOhCGDR"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 262482,
-      "name": "Rain and You",
-      "url": "https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Touch your heart OST Part.3",
-        "url": "https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 219631,
-      "name": "What If Love",
-      "url": "https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "HWARANG (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/0DbUqmdD39ndx8EUlhhSUx"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 230693,
       "name": "It's Definitely You",
       "url": "https://open.spotify.com/track/0hxiCHqAgJUMxLI5F619Mc"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Touch your heart OST Part.3",
+        "url": "https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 219631,
+      "name": "What If Love",
+      "url": "https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 231696,
-      "name": "Don't worry",
-      "url": "https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Heartstrings OST Part.1",
         "url": "https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 191007,
       "name": "Heartstrings",
       "url": "https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 231696,
+      "name": "Don't worry",
+      "url": "https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "It's Okay, That's Love, Vol.1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 225612,
-      "name": "Best Luck",
-      "url": "https://open.spotify.com/track/0FxShF2ad0XegLlZ4UPImP"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Descendants Of The Sun Pt.4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 240590,
       "name": "You Are My Everything - English Version",
       "url": "https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "It's Okay, That's Love, Vol.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 225612,
+      "name": "Best Luck",
+      "url": "https://open.spotify.com/track/0FxShF2ad0XegLlZ4UPImP"
     },
     {
       "added_at": "2024-06-25 04:53:09",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-06-25 04:53:09",
       "album": {
-        "name": "CASTAWAY DIVA OST Part.1",
-        "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j"
-    },
-    {
-      "added_at": "2024-06-25 04:53:09",
-      "album": {
         "name": "Guardian (Original Television Soundtrack), Pt. 12",
         "url": "https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 259786,
       "name": "HEAVEN",
       "url": "https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f"
+    },
+    {
+      "added_at": "2024-06-25 04:53:09",
+      "album": {
+        "name": "CASTAWAY DIVA OST Part.1",
+        "url": "https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j"
     },
     {
       "added_at": "2024-06-25 04:53:09",

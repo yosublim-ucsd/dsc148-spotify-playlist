@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Panda Black y Cris MJ plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,273 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,357 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 13 | [Hustlers](https://open.spotify.com/track/13YSzHTwd2mc2sWMxmdc27) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Hustlers](https://open.spotify.com/album/03sozFYbar8tsEPjw1l6Dh) | 2:48 |
 | 14 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 |
 | 15 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 |
-| 16 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 |
+| 16 | [ORO MACIZO](https://open.spotify.com/track/5K6eZGErNTSVKFl7VoYn8i) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [BlopaOnTheTrack](https://open.spotify.com/artist/3WCK46BZ6ThP7P7qowdZcn) | [ORO MACIZO](https://open.spotify.com/album/5fpnS5XOYQtBv0MMlTfVOr) | 2:41 |
 | 17 | [100](https://open.spotify.com/track/4ttcZcRociSeJUYcCntWH9) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Trap Island](https://open.spotify.com/album/2YiziMql3dRV3ic0gkEDgv) | 4:17 |
 | 18 | [BALOTELLI](https://open.spotify.com/track/5yKTrdDTMcQREhIwBikjGI) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 2:53 |
 | 19 | [¿Quién Eres Tú?](https://open.spotify.com/track/2ydaaI4ICSmCUkT9rk5dao) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [¿Quién Eres Tú?](https://open.spotify.com/album/0NuMq7DZRdh5n1eULN0i7u) | 3:05 |

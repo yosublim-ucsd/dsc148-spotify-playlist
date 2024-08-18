@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 9116,
+  "num_followers": 9117,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAABO9ijn67aclyU4qyz4/INm",
+  "snapshot_id": "Zr6WgAAAAADiEoM6zDi2mSv7i33dn19h",
   "tracks": [
     {
       "added_at": null,
@@ -139,18 +139,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Depths Of Dreams",
-        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/56ZGWOdDU4kFTvSPXINDOO"
       },
       "artists": [
         {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        },
+        {
+          "name": "Buddy Nielsen",
+          "url": "https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc"
         }
       ],
-      "duration_ms": 250560,
-      "name": "One Eight Seven",
-      "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
+      "duration_ms": 145454,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/6SMIjm419Gr0iWKxBCb8U8"
     },
     {
       "added_at": null,
@@ -187,26 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WASTED",
-        "url": "https://open.spotify.com/album/56ZGWOdDU4kFTvSPXINDOO"
+        "name": "From The Depths Of Dreams",
+        "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
       "artists": [
         {
-          "name": "Ekoh",
-          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
-        },
-        {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        },
-        {
-          "name": "Buddy Nielsen",
-          "url": "https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc"
         }
       ],
-      "duration_ms": 145454,
-      "name": "WASTED",
-      "url": "https://open.spotify.com/track/6SMIjm419Gr0iWKxBCb8U8"
+      "duration_ms": 250560,
+      "name": "One Eight Seven",
+      "url": "https://open.spotify.com/track/0pclT1QQ4Pu7C1pZBpei0f"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 214306,
-      "name": "Gold Jacket, Green Jacket...",
-      "url": "https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ"
+      "duration_ms": 205373,
+      "name": "Double Cross",
+      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 141200,
-      "name": "Handguns and Second Chances",
-      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
+      "duration_ms": 252800,
+      "name": "Free Fall Without A Parachute",
+      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Double Cross",
-      "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
+      "duration_ms": 214306,
+      "name": "Gold Jacket, Green Jacket...",
+      "url": "https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Free Fall Without A Parachute",
-      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
+      "duration_ms": 141200,
+      "name": "Handguns and Second Chances",
+      "url": "https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell is in Your Head",
-        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 198918,
-      "name": "The Burial of the Dead",
-      "url": "https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell is in Your Head",
+        "url": "https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 198918,
+      "name": "The Burial of the Dead",
+      "url": "https://open.spotify.com/track/0ja7fAjEUM6qNaFrBT9fzM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224133,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
+      "duration_ms": 194466,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Renacer",
-        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Depths Of Dreams",
         "url": "https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Fire",
         "url": "https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS"
       },
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 194466,
-      "name": "New Year's Eve",
-      "url": "https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V"
+      "duration_ms": 224133,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/7cHNoWm2ypCUKwUIL1w6tb"
     },
     {
       "added_at": null,

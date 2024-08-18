@@ -1,6 +1,6 @@
 {
   "description": "What's happening in r&b, right now \u2013 featuring Tinashe.",
-  "num_followers": 367357,
+  "num_followers": 367347,
   "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
@@ -77,7 +77,7 @@
         }
       ],
       "duration_ms": 162252,
-      "name": "Personal (Remix feat. Popcaan)",
+      "name": "Personal (feat. Popcaan)",
       "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
     },
     {
@@ -538,6 +538,10 @@
         {
           "name": "Dayo Bello",
           "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
         }
       ],
       "duration_ms": 206315,

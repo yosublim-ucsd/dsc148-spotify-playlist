@@ -1,28 +1,32 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 235956,
+  "num_followers": 236312,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADNZZj0Qay21Af8xm7mHGci",
+  "snapshot_id": "Zr6WgAAAAACplt30sCm0Nf1rV2HlL5Sd",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Dead End Road (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF"
+        "name": "Losers",
+        "url": "https://open.spotify.com/album/06UB6o8Spyen4l4YHoGeXU"
       },
       "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 152133,
-      "name": "Dead End Road (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
+      "duration_ms": 209038,
+      "name": "Losers (Feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/0p13WrwJyOU3SwoAlSa6O4"
     },
     {
       "added_at": null,
@@ -211,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Dead End Road (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/4FLzGf4XrpOZyGajzf9oYF"
       },
       "artists": [
         {
@@ -220,9 +224,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+      "duration_ms": 152133,
+      "name": "Dead End Road (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/39aAZlxQg4JM9g00kec16w"
     },
     {
       "added_at": null,
@@ -239,6 +243,22 @@
       "duration_ms": 178440,
       "name": "Halfway To Hell",
       "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
     },
     {
       "added_at": null,
@@ -631,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Medicated",
-        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
@@ -640,9 +660,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 167635,
-      "name": "Johnny and June",
-      "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
+      "duration_ms": 156133,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
     },
     {
       "added_at": null,
@@ -663,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+        "name": "Self Medicated",
+        "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
       },
       "artists": [
         {
@@ -672,9 +692,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 156133,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
+      "duration_ms": 167635,
+      "name": "Johnny and June",
+      "url": "https://open.spotify.com/track/5CViEqt2O688DBBlr4dBNJ"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 226511,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/7jTaydvVpuIwkKrBj6QIhN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Kalifornia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2QmovINf6cQMuNTTZYNBWi"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 205779,
-      "name": "House Of Mirrors (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7iANbpnadfUepWAYDrBqDb"
     }
   ],
   "unique_name": "This Is Jelly Roll",

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-362 songs - 19 hr 12 min
+363 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 | 2024-07-10 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 |  |
 | [I'd Love to Be Okay](https://open.spotify.com/track/6J7OHWdBeNbGmH82fqnabL) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [I'd Love to Be Okay](https://open.spotify.com/album/3gOCeUPs6Y1COmCRnDEvvJ) | 2:14 | 2022-04-15 | 2022-05-27 |
+| [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 | 2024-08-16 |  |
 | [Ibiza](https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/44O6Lmy2iJtJMNxar2nnlo) | 2:25 | 2021-10-29 | 2022-07-29 |
 | [Ibiza](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC) | 2:25 | 2022-07-08 | 2023-03-11 |
 | [Ibiza](https://open.spotify.com/track/61CG5urc3Viv08uJeBOPxs) | [Sole Sole](https://open.spotify.com/artist/4yXtr3OVVcpDlFomRRVM7Z) | [Ibiza](https://open.spotify.com/album/1S0e7Dxz8E9mBUAnOjIhxx) | 2:48 | 2021-10-29 | 2022-03-26 |
@@ -280,7 +281,7 @@
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-04-12 | 2024-05-16 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-08-16 |  |
 | [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 | 2024-06-07 | 2024-06-15 |
-| [Smooth Operator](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Smooth Operator](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 | 2023-07-13 |  |
+| [Smooth Operator](https://open.spotify.com/track/4edT8gEcZN2J5tG13UEze8) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [KHEMIS](https://open.spotify.com/artist/3bhEBhrSsz74SsgjRe1z6d), [Diana Martinez](https://open.spotify.com/artist/7mEajYyUcyqlvR4M6CpNkG) | [Smooth Operator](https://open.spotify.com/album/1KRu1EXjZxsJwx9gyzAIZm) | 3:18 | 2023-07-13 | 2024-08-18 |
 | [So Good](https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [So Good](https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL) | 3:13 | 2022-11-24 | 2023-02-17 |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-03-15 |  |
 | [Somebody Like Me](https://open.spotify.com/track/0sOsaRlnEHvmgue1Nzh3m6) | [Paris Blu](https://open.spotify.com/artist/3mYipWrjv0ksO0s9R5Zdfy), [indiigo](https://open.spotify.com/artist/7KFYyf2adbm4ElZX0ZWw4O) | [Somebody Like Me](https://open.spotify.com/album/0ywon9g2pOqEXGxKk82W1h) | 2:12 | 2021-10-29 | 2022-04-21 |

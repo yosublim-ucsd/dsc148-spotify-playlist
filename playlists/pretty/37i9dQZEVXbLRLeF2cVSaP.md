@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,465 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,483 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 2 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 3 | [Supersonic](https://open.spotify.com/track/4o9kHw0XBJfGazV6bgttU4) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:44 |
 | 4 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
-| 5 | [Turbo \(Majestic\)](https://open.spotify.com/track/1xVDfq8LfjJxneTZKTz570) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/3ejelxkQ0cOvWyBwUGmfPr) | 2:55 |
+| 5 | [Turbo \(Majestic\)](https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3) | 2:55 |
 | 6 | [SOS](https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:02 |
 | 7 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 | 8 | [ГЛАМУР](https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 |
 | 50 | [сейджуро акаши 2\)](https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [сейджуро акаши 2\)](https://open.spotify.com/album/6LGvtUcKhVHeNMiNCKaAWQ) | 1:13 |
 
-Snapshot ID: `LlK5mAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LlQNcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

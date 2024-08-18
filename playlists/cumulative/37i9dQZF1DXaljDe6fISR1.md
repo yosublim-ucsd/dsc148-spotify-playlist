@@ -9,6 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Missiva](https://open.spotify.com/track/18xHNWWJjSidNHJMUNgyPq) | [Trilha Sonora do Gueto](https://open.spotify.com/artist/5gOXpF0vOYUvYwBCd80hQv) | [A Missiva](https://open.spotify.com/album/4Ckrl8zQcpGx5dLJ7L7wkn) | 5:43 | 2022-03-11 |  |
+| [A Procura da Batida Perfeita](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 | 2024-08-16 |  |
 | [A Segunda Chance](https://open.spotify.com/track/2ACJ3FD4AYYoulkzAOJxHV) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C) | [A Segunda Chance](https://open.spotify.com/album/28kO3Vpk51BEQOCVaHglhW) | 4:47 | 2022-03-11 | 2023-05-14 |
 | [A Segunda Chance](https://open.spotify.com/track/6mlfPRn5tuqkX57PbqIuuv) | [509\-E](https://open.spotify.com/artist/1PA11Cy0SrjmwymvGS9h0C), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [A Segunda Chance](https://open.spotify.com/album/0TQY04GHOOuo1bPAXYxE97) | 4:47 | 2023-03-10 | 2023-11-18 |
 | [Abandono](https://open.spotify.com/track/1nP013EbFH0JPWLHaiHSkw) | [Realidade Cruel](https://open.spotify.com/artist/0VeXKzjTBWHX5Lf5Kr6rLF) | [Abandono](https://open.spotify.com/album/7DCwbI6AHOIO9FpmfYvK8r) | 5:34 | 2024-08-09 |  |
@@ -130,6 +131,5 @@
 | [Xeque\-Mate](https://open.spotify.com/track/0W0rmdD87ZMbEwDWbIsFge) | [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/3msqXtn7ZSfXBV3cMIm5ey) | 3:00 | 2022-03-11 |  |
 | [Xeque\-Mate](https://open.spotify.com/track/71D0QjvTIfJJ23T7P5ZwJy) | [Rato Reverso](https://open.spotify.com/artist/7wdxkvHo6Ea4PT8su25YDH), [Maurício DTS](https://open.spotify.com/artist/5BVe6zMKspyP3EP5ceYJU2), [Samuel Deco](https://open.spotify.com/artist/6103lC0Z8C5qu7yAcsB0AX) | [Xeque\-Mate](https://open.spotify.com/album/7Een9DWznzqUHEZA7Zyq9W) | 3:00 | 2022-04-22 | 2024-04-19 |
 | [Zé Brasileiro](https://open.spotify.com/track/5UBXVQfXgkDl2N423nNtgi) | [Rappin' Hood](https://open.spotify.com/artist/7cLvBjizqjjdC350aOQ2KW) | [Sujeito Homem 2](https://open.spotify.com/album/2yOFsIGhzQijRHc7qj0l4o) | 4:36 | 2022-03-11 |  |
-| [À Procura da Batida Perfeta](https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [A Procura da Batida Perfeita](https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw) | 3:04 | 2024-08-16 |  |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

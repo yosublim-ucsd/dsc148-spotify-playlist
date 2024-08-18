@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204415,
+  "num_followers": 204410,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "From the Abyss",
-        "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
-      },
-      "artists": [
-        {
-          "name": "Eshtadur",
-          "url": "https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn"
-        },
-        {
-          "name": "Richie Brown",
-          "url": "https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Lowborn Bastard",
-      "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Esp\u00edritu Combativo",
         "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
@@ -579,6 +559,26 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "From the Abyss",
+        "url": "https://open.spotify.com/album/1up9xpJ5f7Ke9lx0l3h5IE"
+      },
+      "artists": [
+        {
+          "name": "Eshtadur",
+          "url": "https://open.spotify.com/artist/0IdWx63RAlOm5W5iOKPesn"
+        },
+        {
+          "name": "Richie Brown",
+          "url": "https://open.spotify.com/artist/3MzRiq8AdUqLiw2Fa17B7X"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Lowborn Bastard",
+      "url": "https://open.spotify.com/track/1ntMUjQ5GPR8PdvPzzWKwd"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "No Money No Fiesta",
         "url": "https://open.spotify.com/album/4alBZkNLtgeGiCI4AbUBtq"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Basado en Hechos Reales",
-        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
-      },
-      "artists": [
-        {
-          "name": "Carajo",
-          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
-        }
-      ],
-      "duration_ms": 254748,
-      "name": "Cenizas\u202c",
-      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Plan Mundial Para La Destrucci\u00f3n",
         "url": "https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Basado en Hechos Reales",
+        "url": "https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS"
+      },
+      "artists": [
+        {
+          "name": "Carajo",
+          "url": "https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN"
+        }
+      ],
+      "duration_ms": 254748,
+      "name": "Cenizas\u202c",
+      "url": "https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Los Cantipuercos",
-        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
-      },
-      "artists": [
-        {
-          "name": "Cuentos de los Hermanos Grind",
-          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "La Caperuputa y el Lobo Culi\u00f3n",
-      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "No Anesthesia",
         "url": "https://open.spotify.com/album/192pvxTpcceDYvSMwgOJV6"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 275600,
       "name": "Heavy Drinker",
       "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "added_at": "2023-04-28 03:00:00",

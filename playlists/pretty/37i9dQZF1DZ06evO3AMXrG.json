@@ -1,12 +1,12 @@
 {
   "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
-  "num_followers": 232485,
+  "num_followers": 232507,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAAAqmdaq++c05wO5/lWUoAYX",
+  "snapshot_id": "Zr6WgAAAAACZVv8ZF55d/pwIkbIWTrgm",
   "tracks": [
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+        "name": "Cultura en Vivo",
+        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 71333,
-      "name": "Enyoyando",
-      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
+      "duration_ms": 385933,
+      "name": "No Me Busques - En Vivo",
+      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cultura en Vivo",
-        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 385933,
-      "name": "No Me Busques - En Vivo",
-      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
+      "duration_ms": 71333,
+      "name": "Enyoyando",
+      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
     },
     {
       "added_at": null,

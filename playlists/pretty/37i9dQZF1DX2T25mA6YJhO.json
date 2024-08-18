@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19561,
+  "num_followers": 19572,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Momento PULP",
-        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
       },
       "artists": [
         {
-          "name": "Mediapunta",
-          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
-        },
-        {
-          "name": "Sidonie",
-          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 132980,
-      "name": "Momento PULP",
-      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
+      "duration_ms": 196629,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -531,18 +527,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "El Final",
-        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
+        "name": "Momento PULP",
+        "url": "https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Mediapunta",
+          "url": "https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx"
+        },
+        {
+          "name": "Sidonie",
+          "url": "https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa"
         }
       ],
-      "duration_ms": 196629,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
+      "duration_ms": 132980,
+      "name": "Momento PULP",
+      "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 192885,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Medalla De Oro A La Mejor Canci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 207181,
       "name": "Medalla De Oro A La Mejor Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 192885,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Por si te pierdes",
+        "url": "https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE"
+      },
+      "artists": [
+        {
+          "name": "Capros",
+          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
+        }
+      ],
+      "duration_ms": 188638,
+      "name": "Por si te pierdes",
+      "url": "https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Pitbull",
         "url": "https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 184984,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Por si te pierdes",
-        "url": "https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE"
-      },
-      "artists": [
-        {
-          "name": "Capros",
-          "url": "https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM"
-        }
-      ],
-      "duration_ms": 188638,
-      "name": "Por si te pierdes",
-      "url": "https://open.spotify.com/track/3fCHni7hNDvWU66HdUp2q6"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Sin M\u00e1s",
+        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
+      },
+      "artists": [
+        {
+          "name": "Joven Dolores",
+          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+        }
+      ],
+      "duration_ms": 198958,
+      "name": "Sin M\u00e1s",
+      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Patr\u00f3n de las causas imposibles",
         "url": "https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 329408,
       "name": "Patr\u00f3n de las causas imposibles",
       "url": "https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
-      },
-      "artists": [
-        {
-          "name": "Amor L\u00edquido",
-          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
-        }
-      ],
-      "duration_ms": 137344,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sin M\u00e1s",
-        "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3"
       },
       "artists": [
         {
-          "name": "Joven Dolores",
-          "url": "https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH"
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
         }
       ],
-      "duration_ms": 198958,
-      "name": "Sin M\u00e1s",
-      "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
+      "duration_ms": 137344,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "p0pper",
-        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
-      },
-      "artists": [
-        {
-          "name": "Ru\u00efnosa y las Strippers de Rahola",
-          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
-        }
-      ],
-      "duration_ms": 213308,
-      "name": "p0pper",
-      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "O Todos o Ninguno",
         "url": "https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
+        "name": "p0pper",
+        "url": "https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl"
       },
       "artists": [
         {
-          "name": "levitants",
-          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
+          "name": "Ru\u00efnosa y las Strippers de Rahola",
+          "url": "https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT"
         }
       ],
-      "duration_ms": 240031,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
+      "duration_ms": 213308,
+      "name": "p0pper",
+      "url": "https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 144846,
       "name": "Finales Alternativos",
       "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
+      },
+      "artists": [
+        {
+          "name": "levitants",
+          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
+        }
+      ],
+      "duration_ms": 240031,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
-      },
-      "artists": [
-        {
-          "name": "Santa Engracia",
-          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Formigal",
         "url": "https://open.spotify.com/album/31ppFEmznUBBKpXRkcERws"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 114276,
       "name": "Formigal",
       "url": "https://open.spotify.com/track/24HJLq3JqAZYEgNINk7kiJ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt"
+      },
+      "artists": [
+        {
+          "name": "Santa Engracia",
+          "url": "https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Mi vecino",
-        "url": "https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi"
+        "name": "Un viento de amnesia",
+        "url": "https://open.spotify.com/album/79e0Cbkt1dWXUWEYoSKZTN"
       },
       "artists": [
         {
-          "name": "Cumplea\u00f1os Un Martes",
-          "url": "https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q"
+          "name": "Verm\u00fa",
+          "url": "https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Mi vecino",
-      "url": "https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7"
+      "duration_ms": 211623,
+      "name": "Un viento de amnesia",
+      "url": "https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd"
     }
   ],
   "unique_name": "Rock 2024",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 166 songs - 8 hr 54 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 172 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,5 +174,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 164 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/0a5JCzipgKytaoKncMKsHL) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 3:21 |
 | 165 | [Fear](https://open.spotify.com/track/6eKRCw9oMbKuDJ6gwFwgwM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Ultra 85](https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax) | 4:12 |
 | 166 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 |
+| 167 | [Up in Here](https://open.spotify.com/track/4rcDP7pcJ9TN3LDeFSfUav) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:55 |
+| 168 | [Future Swag](https://open.spotify.com/track/1ckxFDBKrcepE6pDmayXzP) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 2:45 |
+| 169 | [Tony Montana](https://open.spotify.com/track/5UhCVdA6bGNlbcSLYAzWSu) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Saks Fifth: The Clearance](https://open.spotify.com/album/2ZtCs3FtupbzjpaB97lnAR) | 4:02 |
+| 170 | [On Fire](https://open.spotify.com/track/07YlTLGFG2LsTkqGFwY5jC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:59 |
+| 171 | [Disco Shit \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/5GWQw74fr86tHask8d01Lg) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Netflix & Deal](https://open.spotify.com/album/35tPQpgvxQjbCBbOhq424T) | 2:51 |
+| 172 | [Range Rover Sports Truck \(Lil Yachty & Lil Keed\)](https://open.spotify.com/track/03Aji6nA2bOepJewgLQUUa) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:52 |
 
-Snapshot ID: `AAAc1sabjWFIKt0Ls3BsSa0Q5Alp0PmE`
+Snapshot ID: `AAAc3NukZFb4oZHTSeG2gWTkn02yXDcG`

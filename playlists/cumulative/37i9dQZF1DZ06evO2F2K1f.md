@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-143 songs - 6 hr 17 min
+144 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Do I Look Good in This?](https://open.spotify.com/track/4G4a0BzzNUoaZRMaxCXwG9) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Bill Baylis](https://open.spotify.com/artist/5YXdwE7D35qR3DybaW7BqB), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Vinyl Remixes](https://open.spotify.com/album/11ULxAltLPaLtFrDm2P2qe) | 3:34 | 2023-01-17 | 2023-01-23 |
 | [Dossier](https://open.spotify.com/track/56dgpEZPKvNet9934593ub) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Hot Wax](https://open.spotify.com/album/3PAWWGdigwDsVcfsMUu7mr) | 2:41 | 2022-05-29 |  |
 | [Explorer](https://open.spotify.com/track/4FmCFp0c86L7F93XlapSzI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Impressions](https://open.spotify.com/album/4txuWPwrvExlcoJuTX0tsK) | 3:26 | 2023-11-10 | 2023-12-14 |
+| [Farewell My Lovely](https://open.spotify.com/track/03akrR9PMvgCWzkFT8vzDs) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRF1: Comedy Situations](https://open.spotify.com/album/4fwtXYpBCCFpiwRWo9D4q4) | 2:56 | 2024-08-18 |  |
 | [First Affair](https://open.spotify.com/track/3cASj8j2a8tZTmxapSk0Ab) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:55 | 2022-06-07 | 2022-10-02 |
 | [Flying](https://open.spotify.com/track/5palyI7Y9KI4gKVMsHfHYJ) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 3:52 | 2022-05-29 | 2024-08-14 |
 | [Friends and Neighbours](https://open.spotify.com/track/1I4L9RvTHWkoOOUeceXIfW) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Sounds of the 60's & 70's \- 2](https://open.spotify.com/album/635BSaHDVn2DyjNfgomuYH) | 2:02 | 2022-06-25 |  |
@@ -61,7 +62,7 @@
 | [Girl at the Top \(A\)](https://open.spotify.com/track/4UYAoMvtpEch02JYlfXSEv) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 1:54 | 2023-07-12 | 2023-07-22 |
 | [Girl in a Sportscar](https://open.spotify.com/track/3YT4KUgun2us1WLg3f0T9z) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:42 | 2022-05-29 |  |
 | [Grange Hill](https://open.spotify.com/track/2FKrc7YAbpLeWD2G08IRvC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Seventies](https://open.spotify.com/album/6e9IDKC8TqlxvTFGJwFgHm) | 1:23 | 2022-05-29 | 2024-05-01 |
-| [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 |  |
+| [Grit Band Reggae](https://open.spotify.com/track/5nrylaTPkYn3B5b5dtHuGz) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The All American Powerhouse](https://open.spotify.com/album/5opSzualaqCe9iqHQxo6I8) | 3:48 | 2022-11-26 | 2024-08-18 |
 | [Happy Bluebeat](https://open.spotify.com/track/6HLmkI6ncUQ4s6aHUyNWxJ) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Flute for Moderns](https://open.spotify.com/album/08LDVimAJ0q1Med0i4uSUM) | 2:07 | 2023-12-29 | 2024-01-01 |
 | [Happy Rainbow](https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:32 | 2023-12-22 |  |
 | [Hastle](https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:12 | 2022-06-02 | 2022-09-11 |

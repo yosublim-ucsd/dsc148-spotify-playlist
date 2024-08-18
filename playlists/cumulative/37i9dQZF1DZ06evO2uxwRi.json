@@ -1017,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "Part of Your World - From \"A Whole New Sound\"",
+        "url": "https://open.spotify.com/album/4rArDFN5s3R7Odlp0usxSg"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "Part of Your World - From \"A Whole New Sound\"",
+      "url": "https://open.spotify.com/track/6XxEDKmaB3gukOlM5jNWCs"
+    },
+    {
+      "album": {
         "name": "Makes Me Sick",
         "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
       },

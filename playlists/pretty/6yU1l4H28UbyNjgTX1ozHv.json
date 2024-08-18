@@ -6,7 +6,7 @@
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAFA5y6d/eWhFye3+iCp9Yjz3Tsy+Z9",
+  "snapshot_id": "AAAFBf+RXBY2UFIBvqX7uY9zLJTlZIiu",
   "tracks": [
     {
       "added_at": "2024-07-26 20:16:22",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/6pP5RJbBH6eKR8BCYX3MSU"
     },
     {
+      "added_at": "2024-08-17 18:59:28",
+      "album": {
+        "name": "Say What You Want (Acoustic)",
+        "url": "https://open.spotify.com/album/1cJKl6O6qtecbzCMwQ4LCU"
+      },
+      "artists": [
+        {
+          "name": "Hannah's Yard",
+          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
+        }
+      ],
+      "duration_ms": 199657,
+      "name": "Say What You Want - Acoustic",
+      "url": "https://open.spotify.com/track/5eHuMdzFkMlid5tZcYIm7y"
+    },
+    {
       "added_at": "2024-02-09 13:07:31",
       "album": {
         "name": "Thinking of You (Acoustic)",
@@ -1459,26 +1475,6 @@
       "duration_ms": 234135,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S"
-    },
-    {
-      "added_at": "2021-08-20 06:14:49",
-      "album": {
-        "name": "I Knew You Were Waiting (For Me) [Acoustic]",
-        "url": "https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        },
-        {
-          "name": "Hannah's Yard",
-          "url": "https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "I Knew You Were Waiting (For Me) - Acoustic",
-      "url": "https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF"
     },
     {
       "added_at": "2019-10-13 06:38:53",

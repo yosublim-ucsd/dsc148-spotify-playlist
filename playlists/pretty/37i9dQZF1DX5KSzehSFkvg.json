@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs hits Pop c'est ici. Cover: Douaa Lahyaoui",
-  "num_followers": 70374,
+  "num_followers": 70438,
   "original_name": "Top Maghreb Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr946AAAAAATvdlkwm9+hX2r+D2qnTSz",
+  "snapshot_id": "ZsCSjAAAAACZbUnN6O7Z4Z6XMhri+cPv",
   "tracks": [
     {
       "added_at": "2024-08-16 16:06:00",
@@ -163,18 +163,22 @@
     {
       "added_at": "2024-08-16 16:06:00",
       "album": {
-        "name": "Msimima",
-        "url": "https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ"
+        "name": "Mali Hakda",
+        "url": "https://open.spotify.com/album/6q6COT6pv8layuZcWdOrWi"
       },
       "artists": [
         {
-          "name": "Mehdi Fadili",
-          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
+          "name": "MA3IZ",
+          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
+        },
+        {
+          "name": "Reda Soussia",
+          "url": "https://open.spotify.com/artist/0Mctr7wQzPz5IsfcYrbPSX"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Msimima",
-      "url": "https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw"
+      "duration_ms": 187500,
+      "name": "Mali Hakda",
+      "url": "https://open.spotify.com/track/5XC6SzFNy3aYjkHGkp0C9X"
     },
     {
       "added_at": "2024-08-16 16:06:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2024-08-16 16:06:00",
       "album": {
-        "name": "Mali Hakda",
-        "url": "https://open.spotify.com/album/6q6COT6pv8layuZcWdOrWi"
+        "name": "Msimima",
+        "url": "https://open.spotify.com/album/0AwQgqB4VLgJlyBReOjRlQ"
       },
       "artists": [
         {
-          "name": "MA3IZ",
-          "url": "https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l"
-        },
-        {
-          "name": "Reda Soussia",
-          "url": "https://open.spotify.com/artist/0Mctr7wQzPz5IsfcYrbPSX"
+          "name": "Mehdi Fadili",
+          "url": "https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Mali Hakda",
-      "url": "https://open.spotify.com/track/5XC6SzFNy3aYjkHGkp0C9X"
+      "duration_ms": 238000,
+      "name": "Msimima",
+      "url": "https://open.spotify.com/track/11N0goryQf8hngeyYOz8Hw"
     },
     {
       "added_at": "2024-08-16 16:06:00",

@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-504 songs - 1 day 4 hr 27 min
+505 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Chispa de Amor](https://open.spotify.com/track/3nIKXjHfT2iLbQAgudc7W5) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Chispa de Amor](https://open.spotify.com/album/5KONHVbEsrkGG6lMUxGcrz) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [Ciclo Lunar](https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ciclo Lunar](https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl) | 3:33 | 2022-01-07 |  |
 | [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 | 2022-01-28 |  |
-| [Cita Romàntica](https://open.spotify.com/track/3P8MmF6Htp3IpHqe9Rv07f) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [El principe Idiota](https://open.spotify.com/artist/6xJM5fYOujoLprfKHvsJ99) | [Cita Romàntica](https://open.spotify.com/album/0d5NBhzlP8FWENgIwFPmP0) | 3:44 | 2024-08-16 |  |
+| [Cita Romàntica](https://open.spotify.com/track/3P8MmF6Htp3IpHqe9Rv07f) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [El principe Idiota](https://open.spotify.com/artist/6xJM5fYOujoLprfKHvsJ99) | [Cita Romàntica](https://open.spotify.com/album/0d5NBhzlP8FWENgIwFPmP0) | 3:44 | 2024-08-16 | 2024-08-18 |
 | [Como Quieras](https://open.spotify.com/track/7H1zvsLV2Wt8l6x9WyTqdb) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Como Quieras](https://open.spotify.com/album/7iVDvrhP6V3JcChZCFJq7H) | 3:08 | 2022-01-28 | 2022-07-25 |
 | [Como un Pez \(feat\. Usted Señalemelo\)](https://open.spotify.com/track/0fcpgW9niaGLg6ECW2fs6f) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 | 2023-05-26 |  |
@@ -476,6 +476,7 @@
 | [Tú Detrás de Todo](https://open.spotify.com/track/6CY2g39NtKYXmwLC2eu2n2) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Tú Detrás de Todo](https://open.spotify.com/album/7oysbRTkJTr9Oee8EUmyUn) | 3:15 | 2022-01-07 | 2022-07-26 |
 | [Tú Me Llevas](https://open.spotify.com/track/10OxrfJXZjNcWlbqvmxYs5) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/1rR3l0T9K43s6FDWYyLCtG) | 4:23 | 2022-01-07 | 2023-04-13 |
 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 | 2023-04-14 | 2024-04-19 |
+| [Tú me quieres más](https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Tú me quieres más](https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW) | 3:22 | 2024-08-16 |  |
 | [Un día más](https://open.spotify.com/track/12d5nNNpWr0bx7pdMrKC5m) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 3:42 | 2022-01-07 | 2022-07-20 |
 | [Un Poco de Mí](https://open.spotify.com/track/3CvCvbpUsHVAWc1HV3NJ8H) | [Bruno Pinto](https://open.spotify.com/artist/1SsBb8WfdP41lIxnH77s7t) | [Un Poco de Mí](https://open.spotify.com/album/1lOuyxef0Pcxm6bgCXj43G) | 2:22 | 2022-04-01 | 2022-04-23 |
 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 | 2023-01-20 | 2023-03-03 |

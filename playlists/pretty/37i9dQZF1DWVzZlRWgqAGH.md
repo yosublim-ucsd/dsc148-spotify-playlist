@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Music for your soul\. Cover: Fousheé
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,786 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,810 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 15 | [Hey Girl](https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Sophcore](https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h) | 3:35 |
 | 16 | [Little Things \(feat\. Yaya Bey\)](https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [The Mind](https://open.spotify.com/album/5V0Nqn3w1C11avw7i8UhQ8) | 3:46 |
 | 17 | [Sugar](https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [A Kid From Toronto](https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku) | 3:12 |
-| 18 | [Personal \(Remix feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
+| 18 | [Personal \(feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
 | 19 | [Green Morning](https://open.spotify.com/track/42VWxciaW70cNreVvpx368) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Green Morning](https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw) | 4:10 |
 | 20 | [Soft](https://open.spotify.com/track/3IKUHOBOktlBP6kryzg1AS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Soft](https://open.spotify.com/album/2JknXBW2N9ncLyiLoUysvB) | 5:18 |
-| 21 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
+| 21 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
 | 22 | [STYLE](https://open.spotify.com/track/5IGpfCdiMkLhJEN9hU8WYo) | [RC AVENUE](https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w) | [STYLE](https://open.spotify.com/album/3s9qt4NcKngSm7VPXiePfO) | 2:25 |
 | 23 | [Paradise \- Nicky's 1 Nite Only Dub](https://open.spotify.com/track/2kRqPR6kv7X6yXrNPqcykE) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh), [Nick Wisdom](https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3) | [Paradise \(Nicky's 1 Nite Only Dub\)](https://open.spotify.com/album/4YBvxoRQqh8PLwUZGlhc9l) | 4:41 |
 | 24 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |

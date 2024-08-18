@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: thisizlondon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,146 likes - 160 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,091 likes - 160 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 27 | [After Hours \- Cater 2 U Mix](https://open.spotify.com/track/6rrYNfGHPUhFoGF2aCuO4L) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours \(Cater 2 U Mix\)](https://open.spotify.com/album/46QpFhP3TcBugzNkZjxUUz) | 3:51 |
 | 28 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 |
 | 29 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
-| 30 | [Personal \(Remix feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
+| 30 | [Personal \(feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
 | 31 | [Never Let You Go \(feat\. YG Marley\)](https://open.spotify.com/track/24XvVvkb3QY6aSKMrb83tN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 3:15 |
 | 32 | [Bum Bum](https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Bum Bum](https://open.spotify.com/album/4S8m4NHgZkQQJPywHFnLbC) | 3:16 |
 | 33 | [Slow Down \(feat\. Future, Fridayy & Mariah the Scientist\)](https://open.spotify.com/track/4LycrPCWsqESQ08I3ghkrT) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Slow Down \(feat\. Future, Fridayy, & Mariah the Scientist\)](https://open.spotify.com/album/1mtfaPzBWO5wpHVJcPDhce) | 3:57 |

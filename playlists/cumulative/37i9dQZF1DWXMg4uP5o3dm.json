@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "does your mother know?",
+        "url": "https://open.spotify.com/album/4ciGcEsNf12k6UYKvtJ95m"
+      },
+      "artists": [
+        {
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154690,
+      "name": "does your mother know?",
+      "url": "https://open.spotify.com/track/17wDoFSbfk4JsS4zorJPAZ"
+    },
+    {
+      "album": {
         "name": "The Breakfast Club (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2kKR8sRKNRqlN8axIsAvnB"
       },
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 180461,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/5PTaK4FzliDWLnNzdzLbbp"

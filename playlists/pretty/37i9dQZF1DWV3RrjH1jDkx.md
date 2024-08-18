@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,799 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,815 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 52 | [40 And Holdin](https://open.spotify.com/track/4gqRk6ie8BfZDvEDzMi0EP) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [40 And Holdin](https://open.spotify.com/album/4sOay2FqXGC9jyrR27ji9N) | 3:09 |
 | 53 | [Ain't Giving Up](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Ain’t Giving Up](https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw) | 3:11 |
 | 54 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 |
-| 55 | [Birds of Different Feathers \- Demo](https://open.spotify.com/track/2TQtPgyWEQWXq0tvTVhHIk) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Every Dream I Ever Had \(Deluxe version\)](https://open.spotify.com/album/2FdMzsq7drehPgraiLnvmT) | 2:40 |
+| 55 | [Birds of Different Feathers \- Demo](https://open.spotify.com/track/2TQtPgyWEQWXq0tvTVhHIk) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Every Dream I Ever Had \- Deluxe Version](https://open.spotify.com/album/2FdMzsq7drehPgraiLnvmT) | 2:40 |
 | 56 | [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 |
 | 57 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |
 | 58 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 |

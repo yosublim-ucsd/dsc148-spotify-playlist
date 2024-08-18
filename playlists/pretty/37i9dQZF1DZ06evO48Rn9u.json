@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 141275,
+  "num_followers": 141318,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADY61KMuRGxTdLBhyuJtJ80",
+  "snapshot_id": "Zr6WgAAAAADj1u0UzZZEl9CD26Ex2w1k",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apologize + See You Again (Acoustic)",
-        "url": "https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "Apologize (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 241466,
       "name": "Oh, What A World",
       "url": "https://open.spotify.com/track/5ToJzoVfLYyF7ohMOBNObi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apologize + See You Again (Acoustic)",
+        "url": "https://open.spotify.com/album/1JJftqO5YmyYuXXAvfIf1A"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "Apologize (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6QT53ohGZeLGoYktBPRePD"
     },
     {
       "added_at": null,

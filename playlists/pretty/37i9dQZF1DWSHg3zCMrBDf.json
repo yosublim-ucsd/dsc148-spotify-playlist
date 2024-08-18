@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks in Ghana. Cover: KiDi",
-  "num_followers": 57141,
+  "num_followers": 57179,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
@@ -692,12 +692,12 @@
           "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
           "name": "EeQue",
           "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
         }
       ],
       "duration_ms": 390000,

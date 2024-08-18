@@ -201,6 +201,24 @@
     },
     {
       "album": {
+        "name": "A Procura da Batida Perfeita",
+        "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "A Procura da Batida Perfeita",
+      "url": "https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi"
+    },
+    {
+      "album": {
         "name": "Microfonicamente Dizendo",
         "url": "https://open.spotify.com/album/1LNzmv2adAv3Jt3bscjdu0"
       },
@@ -4988,24 +5006,6 @@
       "duration_ms": 190985,
       "name": "X.T",
       "url": "https://open.spotify.com/track/5WivaHVpx0a1bPcqrRlUy7"
-    },
-    {
-      "album": {
-        "name": "A Procura da Batida Perfeita",
-        "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        }
-      ],
-      "date_added": "2024-08-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 184200,
-      "name": "\u00c0 Procura da Batida Perfeta",
-      "url": "https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi"
     },
     {
       "album": {

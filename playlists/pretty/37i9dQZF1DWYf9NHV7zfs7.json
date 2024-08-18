@@ -1,6 +1,6 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 RUGGERO",
-  "num_followers": 53256,
+  "num_followers": 53285,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 120759,
       "name": "Si Me Disculpo Ahora",
       "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "EL PROCESO",
-        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 189355,
       "name": "Mecha",
       "url": "https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "EL PROCESO",
+        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "P\u00f3stumo",
-        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 214004,
-      "name": "P\u00f3stumo",
-      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "LALI DELUXE",
         "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 154548,
       "name": "Baum Baum",
       "url": "https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "P\u00f3stumo",
+        "url": "https://open.spotify.com/album/3GyuGgiV1VhQpYmwaCtQWQ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 214004,
+      "name": "P\u00f3stumo",
+      "url": "https://open.spotify.com/track/17EDLQzOKhHbwxCZBE8W5w"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Soy d\u00e9bil Sr.",
-        "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
       },
       "artists": [
         {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         },
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 225600,
-      "name": "Soy d\u00e9bil Sr.",
-      "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
+      "duration_ms": 212044,
+      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
+      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
     }
   ],
   "unique_name": "Esto es Pop",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-408 songs - 21 hr 45 min
+409 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Lost Liberty Blues](https://open.spotify.com/track/0qA1taZ05HXvLMMw0pazYy) | [Maude Maggart](https://open.spotify.com/artist/4wTzstrh0MiJCszv5s8nov) | [Look For The Silver Lining](https://open.spotify.com/album/3bkN6mz4OANEzLhLNBjwdB) | 1:14 | 2024-07-24 |  |
 | [Lotus Bloom](https://open.spotify.com/track/1FipQSNOOFX9ozHEOhBCA0) | [Blue Stone](https://open.spotify.com/artist/5ZCcVPmY6ymLPStzhEFolI) | [Messages](https://open.spotify.com/album/5E70XG2vFTkW0Buxm39NRy) | 4:54 | 2024-07-24 |  |
 | [Love For $ale](https://open.spotify.com/track/3gS9xuTfnr15MAo4RVUbQ3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Momentum](https://open.spotify.com/album/4CAfF5JPPvnHlJ3mrvQfbe) | 5:20 | 2024-07-24 |  |
-| [Many A New Day](https://open.spotify.com/track/4iBV8yv0eSLizbsgHheqkF) | [Daryl Sherman](https://open.spotify.com/artist/2qcz1Aug3UsjpWyizGOP3Q) | [Look What I Found](https://open.spotify.com/album/0p2j4p50OqENNhQox5ea8A) | 2:55 | 2024-07-24 |  |
+| [Many A New Day](https://open.spotify.com/track/4iBV8yv0eSLizbsgHheqkF) | [Daryl Sherman](https://open.spotify.com/artist/2qcz1Aug3UsjpWyizGOP3Q) | [Look What I Found](https://open.spotify.com/album/0p2j4p50OqENNhQox5ea8A) | 2:55 | 2024-07-24 | 2024-08-18 |
 | [Maria \(I Like It Loud\) \- R.I.O\. Radio Edit](https://open.spotify.com/track/6GkvsgwXg0kk4SyouS2QdI) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years Of Hardcore \(Remastered\)](https://open.spotify.com/album/4aH3BmTBLaDZYj37AE2Doy) | 3:18 | 2024-07-24 |  |
 | [Me And Marie](https://open.spotify.com/track/0Bv2wU9vpGWixdotorxR4q) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 2:02 | 2024-07-24 |  |
 | [Medley](https://open.spotify.com/track/1HtT4RBMLz3ghQC6HCqTA2) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Sings Cole Porter](https://open.spotify.com/album/4dOIyuytkyl3fzkXmb91hf) | 3:18 | 2024-07-24 |  |
@@ -312,6 +312,7 @@
 | [Take Me Back to Manhattan](https://open.spotify.com/track/0KZZDI2qERGz2b04xoqUHr) | [Eileen Rodgers](https://open.spotify.com/artist/5U6AFHwdlMoOHEPmRQxTsN), [Anything Goes Ensemble \(1962\)](https://open.spotify.com/artist/7cTGaIRvLkJRjBTG0LbwwC) | [Anything Goes \(Off\-Broadway Cast Recording \(1962\)\)](https://open.spotify.com/album/5Q95OYMeaGOkULW2mb2LZ9) | 3:04 | 2024-07-24 |  |
 | [Tante Saar](https://open.spotify.com/track/0ceYUvpmZeUmvmsI01SLQj) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Blijven Lachen In Het Leven](https://open.spotify.com/album/4shLcC3AtPlGvEaeYvomzN) | 2:59 | 2024-07-24 |  |
 | [Te Llevo Dentro de Mi](https://open.spotify.com/track/1JobAOOEO2v6IqtcsIUDbS) | [Cuerdas y Metales](https://open.spotify.com/artist/4Nvo3WgDLeubApBx2YOWpM) | [Canciones Inolvidables](https://open.spotify.com/album/7mnsyJtNOBKWGuQVc7cN2u) | 4:02 | 2024-07-24 |  |
+| [Thank You So Much Mrs\. Lowsborough\-Goodby](https://open.spotify.com/track/6TzgQd0cfn4OaNkJYtc0it) | [Ambrose](https://open.spotify.com/artist/0iKiwo4LTF4E2EsJwcNZyF) | [Tribute To Cole Porter](https://open.spotify.com/album/3wFy6UAW8UC5rfN9Lj9dpZ) | 3:16 | 2024-08-17 |  |
 | [Thank You so Much, Mrs\. Lowsborough\-Goodbye](https://open.spotify.com/track/1UcNcfaDiPbm05TGKoSfTt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole: Let's Misbehave! \(1927\-1940\)](https://open.spotify.com/album/7DsbZB88NYHjCpOZBvrx4m) | 2:31 | 2024-07-24 |  |
 | [That Black and White Baby of Mine \- Live at Town Hall](https://open.spotify.com/track/0VayNVTOj2v6dQkWEF7IP2) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [At Town Hall \[Live\]](https://open.spotify.com/album/2dzKhZ26eFjALkUkzWAeQK) | 2:36 | 2024-07-24 |  |
 | [The Banjo \(That Man Joe Plays\)](https://open.spotify.com/track/4nQEpaZk2zcDAg2oGU0IjA) | [Jack Hylton & His Orchestra](https://open.spotify.com/artist/7unA1Br0p1C0Wjs5GlBFU6) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 2:50 | 2024-07-24 |  |

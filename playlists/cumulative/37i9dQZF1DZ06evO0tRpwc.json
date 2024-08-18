@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/0Q5JewbvRvRZfkqtapoVgM"
+      },
+      "artists": [
+        {
+          "name": "SOS International Worship",
+          "url": "https://open.spotify.com/artist/2C7XGbwUFr3Aq2FIGFG3zB"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328135,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/4XXfX1L3uqlRxbHmsgTCvE"
+    },
+    {
+      "album": {
         "name": "Cicatrizes",
         "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
       },

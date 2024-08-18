@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15260,
+  "num_followers": 15265,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADOuWvq32nm1Q/F2uQS+cOO",
+  "snapshot_id": "Zr6WgAAAAADk7vTTajYgt7aRa0gQqhXp",
   "tracks": [
     {
       "added_at": null,
@@ -75,42 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Carla Thomas",
-          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Call Me A Fool [Feat. Carla Thomas]",
-      "url": "https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -135,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": null,
@@ -171,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 233400,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E"
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -199,6 +163,42 @@
       "duration_ms": 145280,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Call Me A Fool [Feat. Carla Thomas]",
+      "url": "https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l"
     },
     {
       "added_at": null,
@@ -847,18 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way of the Weeping Willow",
-        "url": "https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o"
+        "name": "I Sit And Sew",
+        "url": "https://open.spotify.com/album/7zIrKWmGEYjI70qqStg9He"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "On Imagination",
+          "url": "https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs"
+        },
+        {
+          "name": "Ebonie Smith",
+          "url": "https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS"
         }
       ],
-      "duration_ms": 119093,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid"
+      "duration_ms": 137370,
+      "name": "I Sit And Sew",
+      "url": "https://open.spotify.com/track/16sWmqLd64CCetLwCQMMkt"
     },
     {
       "added_at": null,
@@ -879,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mountain of Rose Quartz",
-        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
+        "name": "The Way of the Weeping Willow",
+        "url": "https://open.spotify.com/album/4zKQRxjvBRMEOJ02Y7nD3o"
       },
       "artists": [
         {
@@ -888,9 +896,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 167826,
-      "name": "Rain Dance",
-      "url": "https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs"
+      "duration_ms": 119093,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6RuO4PLupkQlIVWz0S0Hid"
     }
   ],
   "unique_name": "This Is Valerie June",

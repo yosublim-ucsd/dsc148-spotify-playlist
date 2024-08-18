@@ -3365,24 +3365,6 @@
     },
     {
       "album": {
-        "name": "bist du das",
-        "url": "https://open.spotify.com/album/2JLPZQ8Kz22wosu8O0jmNi"
-      },
-      "artists": [
-        {
-          "name": "Luis Schwamm",
-          "url": "https://open.spotify.com/artist/5xJrBzIh8wDr1sCL4Lq2HK"
-        }
-      ],
-      "date_added": "2024-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 241291,
-      "name": "bis du das",
-      "url": "https://open.spotify.com/track/45St53aq2HhLZ4yFItPXhL"
-    },
-    {
-      "album": {
         "name": "Bis zum Mond und zur\u00fcck",
         "url": "https://open.spotify.com/album/2f9oYYzbAtEqf5w4IVoDa2"
       },
@@ -3468,6 +3450,24 @@
       "duration_ms": 237453,
       "name": "Bisschen mehr als Freundschaft",
       "url": "https://open.spotify.com/track/6rVoreNp6bwjd2acEAqxSf"
+    },
+    {
+      "album": {
+        "name": "bist du das",
+        "url": "https://open.spotify.com/album/2JLPZQ8Kz22wosu8O0jmNi"
+      },
+      "artists": [
+        {
+          "name": "Luis Schwamm",
+          "url": "https://open.spotify.com/artist/5xJrBzIh8wDr1sCL4Lq2HK"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241291,
+      "name": "bist du das",
+      "url": "https://open.spotify.com/track/45St53aq2HhLZ4yFItPXhL"
     },
     {
       "album": {

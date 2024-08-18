@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover:  <a href="https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD?si=\_Ta3Hn3rRe2x7jl4V7uJmA">J\-Smash</a>, <a href="https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R?si=I5ynifYKRb6kUSsVDescig">Qwellers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,149 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,208 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

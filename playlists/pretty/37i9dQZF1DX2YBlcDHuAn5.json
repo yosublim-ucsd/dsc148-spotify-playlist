@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7938,
+  "num_followers": 7947,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Desert Bride",
-        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
+        "name": "Keep It Simple",
+        "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
       },
       "artists": [
         {
-          "name": "VanWyck",
-          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
         }
       ],
-      "duration_ms": 255953,
-      "name": "Desert Bride",
-      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
+      "duration_ms": 193426,
+      "name": "Keep It Simple",
+      "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Keep It Simple",
-        "url": "https://open.spotify.com/album/7GazVXm5O9ETxTyNcvO6Yi"
+        "name": "Desert Bride",
+        "url": "https://open.spotify.com/album/36j7voqMKyHKDaKIIqVfWW"
       },
       "artists": [
         {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+          "name": "VanWyck",
+          "url": "https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb"
         }
       ],
-      "duration_ms": 193426,
-      "name": "Keep It Simple",
-      "url": "https://open.spotify.com/track/30V2xXhFd3tEnxNo3suBKa"
+      "duration_ms": 255953,
+      "name": "Desert Bride",
+      "url": "https://open.spotify.com/track/2ZEjpmYFQmKnkIcy5oChgW"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "Take A Ride",
-        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Saxton",
-          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
-        }
-      ],
-      "duration_ms": 213168,
-      "name": "Take A Ride",
-      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Alpine Gold",
         "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 196426,
       "name": "It's So Easy",
       "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Take A Ride",
+        "url": "https://open.spotify.com/album/05FmZGsA5g6HqHBPU3CW9Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Saxton",
+          "url": "https://open.spotify.com/artist/3Xbb6InMR77LO6hrWU1I04"
+        }
+      ],
+      "duration_ms": 213168,
+      "name": "Take A Ride",
+      "url": "https://open.spotify.com/track/5lv9ngCtTMuXD6FtEzTGzN"
     },
     {
       "added_at": "2024-08-01 22:00:00",

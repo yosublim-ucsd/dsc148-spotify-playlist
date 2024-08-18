@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,756 likes - 276 songs - 12 hr 30 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 97,759 likes - 277 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,5 +284,6 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 274 | [Rather Be](https://open.spotify.com/track/2MU8oxytitanfBLhZwfAFY) | [AKI](https://open.spotify.com/artist/4PZkiiOKrkpqOkhGSz2tel), [Løvento](https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Rather Be](https://open.spotify.com/album/76QAfOyylvn87hEKIcEJ43) | 2:37 |
 | 275 | [Sweet Harmony](https://open.spotify.com/track/2iFDiQOjPyYCstBOesduwN) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alexia Di Lorenzo](https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt) | [Sweet Harmony](https://open.spotify.com/album/762YlWavBCiEq2ogwVYztC) | 2:44 |
 | 276 | [\(It Goes Like\) Nanana](https://open.spotify.com/track/6jw922d39T3tRZdMoQhfcl) | [SANDICE](https://open.spotify.com/artist/4cXvmh09EHQ8bcF9KogG0M), [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [May Zoean](https://open.spotify.com/artist/23SyodQYstma0O9w4ERf4s) | [\(It Goes Like\) Nanana](https://open.spotify.com/album/16VDZwNzsnq0fH6W6HLyfZ) | 1:57 |
+| 277 | [On My Mind](https://open.spotify.com/track/24V6t32xBFJYBkPpvzjAqD) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [Aize](https://open.spotify.com/artist/250JJ1TsuQZUU2kH6rYnLx) | [On My Mind](https://open.spotify.com/album/2g6yy1WQLIqj0njo3YNTK7) | 2:25 |
 
-Snapshot ID: `AAAYapiRTOSg6i0ovkD5tQd73vdwf5k0`
+Snapshot ID: `AAAYax+pR50kmHM/s52j/GlkdmQNWYuf`

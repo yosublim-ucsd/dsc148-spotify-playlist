@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover: Fit For A King",
-  "num_followers": 931611,
+  "num_followers": 931625,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -388,7 +388,7 @@
           "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
         }
       ],
-      "duration_ms": 215057,
+      "duration_ms": 215666,
       "name": "Forgive And Forget (feat. Fit For A King)",
       "url": "https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak"
     },
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "look at me",
+        "url": "https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker"
+      },
+      "artists": [
+        {
+          "name": "thrown",
+          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
+        }
+      ],
+      "duration_ms": 90036,
+      "name": "look at me",
+      "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "look at me",
-        "url": "https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker"
-      },
-      "artists": [
-        {
-          "name": "thrown",
-          "url": "https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt"
-        }
-      ],
-      "duration_ms": 90036,
-      "name": "look at me",
-      "url": "https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 171794,
       "name": "Chaotic",
       "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 225278,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -551,22 +535,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Architect (feat. Currents)",
-        "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
       },
       "artists": [
         {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        },
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
         }
       ],
-      "duration_ms": 246773,
-      "name": "Architect (feat. Currents)",
-      "url": "https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr"
+      "duration_ms": 225278,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -583,6 +563,26 @@
       "duration_ms": 240786,
       "name": "Oscillator",
       "url": "https://open.spotify.com/track/6KXAhYI4uJ7q2jzMvA02Wl"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Architect (feat. Currents)",
+        "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Architect (feat. Currents)",
+      "url": "https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 212329,
+      "name": "In The Silence",
+      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/173Zbg8d7uScUUd4c1NJRW"
       },
@@ -747,18 +763,34 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3"
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
       },
       "artists": [
         {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
         }
       ],
-      "duration_ms": 212329,
-      "name": "In The Silence",
-      "url": "https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO"
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Drag Me Out",
+        "url": "https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -779,22 +811,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Villain Arc",
         "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 219330,
       "name": "Villain Arc",
       "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Drag Me Out",
-        "url": "https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs"
-      },
-      "artists": [
-        {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "The Cycles Of Trying To Cope",
-        "url": "https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM"
+        "name": "FiftyFive",
+        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
       },
       "artists": [
         {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
         }
       ],
-      "duration_ms": 232900,
-      "name": "Over the Garden Wall",
-      "url": "https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL"
+      "duration_ms": 204827,
+      "name": "FiftyFive",
+      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -915,34 +915,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "FiftyFive",
-        "url": "https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K"
+        "name": "The Cycles Of Trying To Cope",
+        "url": "https://open.spotify.com/album/2caVxg6PlddTgxtz8abZXM"
       },
       "artists": [
         {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
         }
       ],
-      "duration_ms": 204827,
-      "name": "FiftyFive",
-      "url": "https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+      "duration_ms": 232900,
+      "name": "Over the Garden Wall",
+      "url": "https://open.spotify.com/track/58FdBxzBdpnauS9BzW2caL"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -967,22 +951,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "CURE",
-        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 247573,
-      "name": "Slow Sour Bleed",
-      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Afterimage (feat. Ian Kenny, Karnivool)",
         "url": "https://open.spotify.com/album/5DPtedtBLcjXS2skojck70"
       },
@@ -995,6 +963,22 @@
       "duration_ms": 254173,
       "name": "Afterimage (feat. Ian Kenny, Karnivool)",
       "url": "https://open.spotify.com/track/1MHCrrThxRZaWLNDo7bEjC"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 219759,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Dreamstate",
-        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
       },
       "artists": [
         {
-          "name": "Future Palace",
-          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
         }
       ],
-      "duration_ms": 240037,
-      "name": "Dreamstate",
-      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
+      "duration_ms": 247573,
+      "name": "Slow Sour Bleed",
+      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1047,6 +1031,22 @@
       "duration_ms": 198593,
       "name": "suffer.",
       "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Dreamstate",
+        "url": "https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "duration_ms": 240037,
+      "name": "Dreamstate",
+      "url": "https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Abyss Pt I",
-        "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 234932,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Needle Eye",
         "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169518,
       "name": "Needle Eye",
       "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Abyss Pt I",
+        "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 234932,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/4WQjkKYfMU5E6UI6WYzsok"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "A Mind Short Circuiting",
         "url": "https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ"
       },
@@ -1387,6 +1367,22 @@
       "duration_ms": 267956,
       "name": "A Mind Short Circuiting",
       "url": "https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Remnant",
+        "url": "https://open.spotify.com/album/3CrsGme4artDy50pspu7W2"
+      },
+      "artists": [
+        {
+          "name": "Allt",
+          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+        }
+      ],
+      "duration_ms": 245680,
+      "name": "Remnant",
+      "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Remnant",
-        "url": "https://open.spotify.com/album/3CrsGme4artDy50pspu7W2"
+        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
       },
       "artists": [
         {
-          "name": "Allt",
-          "url": "https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM"
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
         }
       ],
-      "duration_ms": 245680,
-      "name": "Remnant",
-      "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
+      "duration_ms": 190487,
+      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "The Fear of God",
-        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "The Fear of God",
-      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "The Last Son",
         "url": "https://open.spotify.com/album/1ncaSMw4K9naUrRdiAzBjV"
       },
@@ -1483,6 +1467,38 @@
       "duration_ms": 243500,
       "name": "The Last Son",
       "url": "https://open.spotify.com/track/25HvoVQ5AylQIYlFamVwV1"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 204112,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "The Fear of God",
+        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "The Fear of God",
+      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Sleepless Deathbed",
-        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/73nvhhc1JQVZ5GyioAM6id"
       },
       "artists": [
         {
-          "name": "Invent Animate",
-          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Sleepless Deathbed",
-      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
+      "duration_ms": 175506,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/5Tpr0ZPhoKpyLZtR7exdhh"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/73nvhhc1JQVZ5GyioAM6id"
+        "name": "Sleepless Deathbed",
+        "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
       },
       "artists": [
         {
-          "name": "Many Eyes",
-          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
         }
       ],
-      "duration_ms": 175506,
-      "name": "Harbinger",
-      "url": "https://open.spotify.com/track/5Tpr0ZPhoKpyLZtR7exdhh"
+      "duration_ms": 238000,
+      "name": "Sleepless Deathbed",
+      "url": "https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1571,22 +1587,6 @@
       "duration_ms": 210156,
       "name": "Bl\u00fcdGod (feat. Taylor Barber)",
       "url": "https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 204112,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Something I'm Not",
-        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
-      },
-      "artists": [
-        {
-          "name": "Graphic Nature",
-          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
-        }
-      ],
-      "duration_ms": 205837,
-      "name": "Something I'm Not",
-      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Wants I Need",
         "url": "https://open.spotify.com/album/2pvZFLMtLJZL5HzSRWndPA"
       },
@@ -1727,18 +1711,34 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
+        "name": "Something I'm Not",
+        "url": "https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB"
       },
       "artists": [
         {
-          "name": "Awaken I Am",
-          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+          "name": "Graphic Nature",
+          "url": "https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH"
         }
       ],
-      "duration_ms": 239934,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+      "duration_ms": 205837,
+      "name": "Something I'm Not",
+      "url": "https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
+      },
+      "artists": [
+        {
+          "name": "Advents",
+          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/1MqezT0MiTKKIsysfrYT8C"
+      },
+      "artists": [
+        {
+          "name": "Awaken I Am",
+          "url": "https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY"
+        }
+      ],
+      "duration_ms": 239934,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/5hV45IS5XiCf1HPhmss5wu"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "Wither//Without",
         "url": "https://open.spotify.com/album/7pAcgBd0iXUHl9p0h7EbVl"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 234709,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/0xh3skvedILbGyoTQVtQSO"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "The Welcome Party",
-        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
-      },
-      "artists": [
-        {
-          "name": "Greyhaven",
-          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "The Welcome Party",
-      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1811,34 +1811,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
       },
       "artists": [
         {
-          "name": "Advents",
-          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
         }
       ],
-      "duration_ms": 226027,
-      "name": "Liminal",
-      "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Bask in the Blood of Our Demons - EP",
-        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
-      },
-      "artists": [
-        {
-          "name": "Unearth",
-          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "Warrior Souls",
-      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1855,6 +1839,38 @@
       "duration_ms": 207660,
       "name": "I Hope You Choke",
       "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD"
+      },
+      "artists": [
+        {
+          "name": "Rising Insane",
+          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+        }
+      ],
+      "duration_ms": 172837,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Bask in the Blood of Our Demons - EP",
+        "url": "https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO"
+      },
+      "artists": [
+        {
+          "name": "Unearth",
+          "url": "https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "Warrior Souls",
+      "url": "https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1876,33 +1892,17 @@
       "added_at": "2024-08-12 14:59:19",
       "album": {
         "name": "Monster",
-        "url": "https://open.spotify.com/album/5JaW7zptptjNILAtgA0sxD"
+        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
       },
       "artists": [
         {
-          "name": "Rising Insane",
-          "url": "https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf"
+          "name": "Take The Name",
+          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
         }
       ],
-      "duration_ms": 172837,
+      "duration_ms": 217285,
       "name": "Monster",
-      "url": "https://open.spotify.com/track/6sq2FStQI6nEw7NiSWTgTu"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
-      },
-      "artists": [
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Wilderness",
-      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
+      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1923,34 +1923,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "DEATH 2",
-        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj"
       },
       "artists": [
         {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
-      },
-      "artists": [
-        {
-          "name": "Take The Name",
-          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
-        }
-      ],
-      "duration_ms": 217285,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
+      "duration_ms": 202758,
+      "name": "Wilderness",
+      "url": "https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1967,6 +1951,22 @@
       "duration_ms": 224347,
       "name": "Farewell",
       "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "DEATH 2",
+        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
+      },
+      "artists": [
+        {
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "MANIAC IN THE MIRROR",
-        "url": "https://open.spotify.com/album/6iJo2AzITSakmnhRfm1TB4"
-      },
-      "artists": [
-        {
-          "name": "Chaosbay",
-          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
-        }
-      ],
-      "duration_ms": 220997,
-      "name": "MANIAC IN THE MIRROR",
-      "url": "https://open.spotify.com/track/22u16RvtjstLDYOJnMHSEC"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Devastator",
         "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 286941,
       "name": "welcome2paradise",
       "url": "https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "MANIAC IN THE MIRROR",
+        "url": "https://open.spotify.com/album/6iJo2AzITSakmnhRfm1TB4"
+      },
+      "artists": [
+        {
+          "name": "Chaosbay",
+          "url": "https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk"
+        }
+      ],
+      "duration_ms": 220997,
+      "name": "MANIAC IN THE MIRROR",
+      "url": "https://open.spotify.com/track/22u16RvtjstLDYOJnMHSEC"
     },
     {
       "added_at": "2024-08-12 14:59:19",

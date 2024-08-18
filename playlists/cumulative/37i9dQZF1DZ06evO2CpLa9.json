@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Santa Fe Klan. Los temas esenciales, todos en una lista.",
+  "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
   "name": "This Is Santa Fe Klan",
   "tracks": [
     {
@@ -1178,6 +1178,24 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "album": {
+        "name": "PROBLEMAS",
+        "url": "https://open.spotify.com/album/6GCmaOPBfqVLJRk6f2AHaw"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291310,
+      "name": "PROBLEMAS",
+      "url": "https://open.spotify.com/track/6mgpZ1Be8Udbx5PwCUeAUB"
     },
     {
       "album": {

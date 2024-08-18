@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 226050,
+  "num_followers": 226128,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Classic Objects",
+        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
+      },
+      "artists": [
+        {
+          "name": "Jenny Hval",
+          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
+        }
+      ],
+      "duration_ms": 362428,
+      "name": "American Coffee",
+      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 240476,
       "name": "Carmina XVII",
       "url": "https://open.spotify.com/track/1Ocx7Dulgma6cU4bwIxHmN"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Classic Objects",
-        "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
-      },
-      "artists": [
-        {
-          "name": "Jenny Hval",
-          "url": "https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7"
-        }
-      ],
-      "duration_ms": 362428,
-      "name": "American Coffee",
-      "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
-      },
-      "artists": [
-        {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
-        }
-      ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Figura",
         "url": "https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Lucha Libre",
-        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
       },
       "artists": [
         {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Drum Jump",
-      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
+      "duration_ms": 208458,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
         }
       ],
-      "duration_ms": 208458,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/2kcSEuvgfUtyy5itR0jIjB"
+      "duration_ms": 252000,
+      "name": "Drum Jump",
+      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Wee Rosebud",
-        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Wee Rosebud",
-      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Shade Under Your Hands",
         "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 60000,
       "name": "21 Reasons",
       "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
+      },
+      "artists": [
+        {
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Jinxed by Being",
         "url": "https://open.spotify.com/album/5RTzu3SdKzh3M9hAx8vLqD"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 553600,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/3zLL7RKf2gk148x05km0uB"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Lonely Times",
-        "url": "https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04"
-      },
-      "artists": [
-        {
-          "name": "Keep Shelly In Athens",
-          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Lonely Times",
-      "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 224524,
       "name": "The King",
       "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Lonely Times",
+        "url": "https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04"
+      },
+      "artists": [
+        {
+          "name": "Keep Shelly In Athens",
+          "url": "https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Lonely Times",
+      "url": "https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 196891,
-      "name": "The Fountain",
-      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Venus",
         "url": "https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "lover's spit plays in the background",
-        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
+        "name": "Cosmorama",
+        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Beautify Junkyards",
+          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
         }
       ],
-      "duration_ms": 242000,
-      "name": "lover's spit plays in the background",
-      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
+      "duration_ms": 196891,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1127,6 +1111,22 @@
       "duration_ms": 522000,
       "name": "Vajranala",
       "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "lover's spit plays in the background",
+        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "lover's spit plays in the background",
+      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Dois Litorais",
-        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1 Portugal",
-          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
-        }
-      ],
-      "duration_ms": 520719,
-      "name": "Dois Litorais",
-      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Death Is Home",
         "url": "https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 272990,
       "name": "Mind Era",
       "url": "https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Dois Litorais",
+        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1 Portugal",
+          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
+        }
+      ],
+      "duration_ms": 520719,
+      "name": "Dois Litorais",
+      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
     }
   ],
   "unique_name": "Terra Incognita",

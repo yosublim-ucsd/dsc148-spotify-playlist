@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 288720,
       "name": "Los Sabanales",
       "url": "https://open.spotify.com/track/5zZbdAE35hixcjjCjkGNAp"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-28",
+      "date_removed": null,
       "duration_ms": 300786,
       "name": "Me Ilusione",
       "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
@@ -2740,6 +2740,24 @@
       "duration_ms": 281973,
       "name": "Nunca Niegues Que Te Amo - Sinf\u00f3nica Version",
       "url": "https://open.spotify.com/track/17AkBvet5coEgtfnTYcMgF"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/1M1APzFyGm2fXLwcEizomQ"
+      },
+      "artists": [
+        {
+          "name": "Estrellas Vallenatas",
+          "url": "https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/46bQ5wH4tbCEVDbnuGHGdM"
     },
     {
       "album": {

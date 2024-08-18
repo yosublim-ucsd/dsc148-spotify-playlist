@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 33 | [Xai](https://open.spotify.com/track/5nn8n54NEKniTH8fpfKjNP) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:15 |
 | 34 | [Mind Games \(feat\. Dyo\) \- Nora En Pure Remix](https://open.spotify.com/track/4pHRsGz9MFonG9qTEOil6x) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Mind Games \(feat\. Dyo\) \[Remixes\]](https://open.spotify.com/album/2tNGz9Nq2r90oZ0yRU8NhI) | 3:49 |
 | 35 | [Just When I Thought](https://open.spotify.com/track/5NerE4vzq2j1B5a8NVP6eK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:42 |
-| 36 | [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 |
+| 36 | [OMG](https://open.spotify.com/track/29Jeg15T0emRfj4AXBbcvu) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:13 |
 | 37 | [Name On It \(feat\. Burna Boy\)](https://open.spotify.com/track/6wQugAr2CdLrjvACWNSvv5) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Name On It](https://open.spotify.com/album/71UHFVp0KFVh3T1JrpKkQV) | 3:34 |
 | 38 | [Stupid Things](https://open.spotify.com/track/5PDtPZbKiRohW3RYZG9Cls) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Stupid Things](https://open.spotify.com/album/0EEJCRze8YLJ1qPm668jQr) | 3:24 |
 | 39 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 58 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
 | 59 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AbZmuwAAAADYu66FbLT+h4h6+iW4XZJ2`
+Snapshot ID: `AbZsWwAAAAC6SXSu6XutY6Tf2bITcmHl`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is El de La Guitarra. Los temas esenciales, todos en una lista.",
-  "num_followers": 89926,
+  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
+  "num_followers": 89940,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADe5KnM3+ZQAdCuE/htsa1a",
+  "snapshot_id": "Zr6WgAAAAADG6rcV6xir+ZywA/hrbP8w",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botas Ariat",
-        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
+        "name": "De Aqu\u00ed Para All\u00e1",
+        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
+      "duration_ms": 216841,
+      "name": "De Aqu\u00ed Para All\u00e1",
+      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
     },
     {
       "added_at": null,
@@ -535,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Para All\u00e1",
-        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+        "name": "Botas Ariat",
+        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 216841,
-      "name": "De Aqu\u00ed Para All\u00e1",
-      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
     },
     {
       "added_at": null,

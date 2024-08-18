@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 746191,
+  "num_followers": 746771,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Soy Todo Tuyo",
         "url": "https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187373,
       "name": "Soy Todo Tuyo",
       "url": "https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "15 Exitos De Lorenzo De Monteclaro",
-        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo De Monteclaro",
-          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
-        }
-      ],
-      "duration_ms": 153160,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 190360,
       "name": "El Rey De Mil Coronas",
       "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Un Viejo Amor",
+      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "15 Exitos De Lorenzo De Monteclaro",
+        "url": "https://open.spotify.com/album/5SPrSrvs8BOthSQRZkE6zz"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "Lorenzo De Monteclaro",
+          "url": "https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Un Viejo Amor",
-      "url": "https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP"
+      "duration_ms": 153160,
+      "name": "Abrazado de un Poste",
+      "url": "https://open.spotify.com/track/2GiQqCOQCOkYA76QmD9Iqf"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Con Experiencia Y Juventud",
-        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
       },
       "artists": [
         {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 161671,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
+      "duration_ms": 178186,
+      "name": "Quisiera Ser Una L\u00e1grima",
+      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/0VY9UhKG9EBpuuvThP8UU7"
+        "name": "Con Experiencia Y Juventud",
+        "url": "https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe"
       },
       "artists": [
         {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 178186,
-      "name": "Quisiera Ser Una L\u00e1grima",
-      "url": "https://open.spotify.com/track/3OoTWhcb1NL1R1aop3An2H"
+      "duration_ms": 161671,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Las Nuevas Inmortales",
-        "url": "https://open.spotify.com/album/0WHkuG3EexyWKl6pB56R9N"
-      },
-      "artists": [
-        {
-          "name": "Palomo",
-          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/4IxWQz0RvilCRyUQxnInHF"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "En Vivo Desde Monterrey",
         "url": "https://open.spotify.com/album/3m5srgyz9ySxGVpnMkxldJ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 211493,
       "name": "Que Me Lleve El Diablo - En Vivo",
       "url": "https://open.spotify.com/track/6AshXTa1GeNYf9mpLfJwl0"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Las Nuevas Inmortales",
+        "url": "https://open.spotify.com/album/0WHkuG3EexyWKl6pB56R9N"
+      },
+      "artists": [
+        {
+          "name": "Palomo",
+          "url": "https://open.spotify.com/artist/27plYDXNJSOD084j39Lmlj"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/4IxWQz0RvilCRyUQxnInHF"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Exitos De Los Invasores De Nuevo Leon",
-        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Aqu\u00ed Est\u00e1n!..",
         "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 209293,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Exitos De Los Invasores De Nuevo Leon",
+        "url": "https://open.spotify.com/album/1C83ZkDnK0EL5RMM1hRU1C"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/4WLBbFY3jON97NHf7gh5OO"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Tu Delirio",
-      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "15 exitazos",
         "url": "https://open.spotify.com/album/4sMQ7QkSpj49jqNBAoiAyp"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 179466,
       "name": "Mi tesoro",
       "url": "https://open.spotify.com/track/7KHGecUR5KX9hPLnsIdo8q"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Tu Delirio",
+      "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Desprecio",
-      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 202631,
       "name": "Crei",
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Desprecio",
+      "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
+        "name": "Puras de Juan Gabriel, vol. 2",
+        "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
+      },
+      "artists": [
+        {
+          "name": "Chuy Vega Y Los Nuevos Cadetes",
+          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
+        }
+      ],
+      "duration_ms": 280398,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
         "name": "Los Canelos 17 Exitos",
         "url": "https://open.spotify.com/album/10NmPHQzeBxZf3ev0mNefY"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Puras de Juan Gabriel, vol. 2",
-        "url": "https://open.spotify.com/album/3vPgQxFr1vdoiKIdbtg911"
+        "name": "Las M\u00e1s Tocadas",
+        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
       },
       "artists": [
         {
-          "name": "Chuy Vega Y Los Nuevos Cadetes",
-          "url": "https://open.spotify.com/artist/4z0bf5L3so06FIdkqprCnz"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 280398,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/1CvmWRVOr6EUCDt1nmkWcN"
+      "duration_ms": 172788,
+      "name": "Mi Unico Camino",
+      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-07-03 17:50:29",
       "album": {
-        "name": "Las M\u00e1s Tocadas",
-        "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 172788,
-      "name": "Mi Unico Camino",
-      "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
         "name": "15 \u00c9xitos Pesados De La Cantina",
         "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
       },
@@ -1588,22 +1588,6 @@
       "added_at": "2024-07-03 17:50:29",
       "album": {
         "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
-      },
-      "artists": [
-        {
-          "name": "Los Rancheritos Del Topo Chico",
-          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Chiquilla cari\u00f1osa",
-      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
-        "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6TTawNx5UtHUUC7lClddgo"
       },
       "artists": [
@@ -1615,6 +1599,22 @@
       "duration_ms": 161040,
       "name": "La Pasadita",
       "url": "https://open.spotify.com/track/1Bbrlqr2RMNQBgcBMMWAi3"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/20Sd7w6ZX6SrPHi9XEpaNj"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheritos Del Topo Chico",
+          "url": "https://open.spotify.com/artist/4vbBfHYxD84AVcT0AXtsHv"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Chiquilla cari\u00f1osa",
+      "url": "https://open.spotify.com/track/4fxTowTk8mm3l3gfgypQ38"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1631,22 +1631,6 @@
       "duration_ms": 139626,
       "name": "Miel Amarga",
       "url": "https://open.spotify.com/track/5yRE5GSEa7cg1ApudYMXiS"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
-        "name": "Pesado: Clasicas para la Bohemia",
-        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "Y",
-      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1679,6 +1663,38 @@
       "duration_ms": 202533,
       "name": "Contigo O Sin Ti",
       "url": "https://open.spotify.com/track/0YuNdAYlbhQ4sMMHxuWE6e"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Pesado: Clasicas para la Bohemia",
+        "url": "https://open.spotify.com/album/3KszSxOjja4JfSv32Xhqwa"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "Y",
+      "url": "https://open.spotify.com/track/7xBNHVbYVfi3CqNHDOYWbm"
+    },
+    {
+      "added_at": "2024-07-03 17:50:29",
+      "album": {
+        "name": "Fue Tan Poco Tu Cari\u00f1o",
+        "url": "https://open.spotify.com/album/3M39JinGYjbvZuc6xoKdri"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables Del Norte",
+          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Fue Tan Poco Tu Carino",
+      "url": "https://open.spotify.com/track/6bmHfknjJXg2eLj7QIHav8"
     },
     {
       "added_at": "2024-07-03 17:50:29",
@@ -1763,22 +1779,6 @@
       "duration_ms": 168973,
       "name": "Flor De Capomo",
       "url": "https://open.spotify.com/track/0yJPBuuvvstUhx4gfjAFTr"
-    },
-    {
-      "added_at": "2024-07-03 17:50:29",
-      "album": {
-        "name": "Fue Tan Poco Tu Cari\u00f1o",
-        "url": "https://open.spotify.com/album/3M39JinGYjbvZuc6xoKdri"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables Del Norte",
-          "url": "https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Fue Tan Poco Tu Carino",
-      "url": "https://open.spotify.com/track/6bmHfknjJXg2eLj7QIHav8"
     },
     {
       "added_at": "2024-07-03 17:50:29",

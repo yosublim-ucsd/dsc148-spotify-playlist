@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-637 songs - 1 day 20 hr 20 min
+639 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Helms Deep \- aya, uh, Remix?](https://open.spotify.com/track/1mSR6FEWhmtk9QTKEE3LCF) | [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd), [AYA](https://open.spotify.com/artist/0NKS0oYBdYv7ggOcV75A4z) | [Helms Deep \(aya, uh, Remix?\)](https://open.spotify.com/album/6WLWcgmSU86R5GPzwUZb46) | 3:19 | 2022-02-17 | 2022-04-28 |
 | [Here I Come](https://open.spotify.com/track/0L6bhgJAsRjGspGgPBExWU) | [Rygby](https://open.spotify.com/artist/4JYWD2cPpCgnXE1T3lhKg9) | [Firmly Rooted Vol.1](https://open.spotify.com/album/5uwdon4XGke6ou1QaQs7Qs) | 4:47 | 2022-02-17 | 2022-07-24 |
 | [Hit Em Like](https://open.spotify.com/track/4EbjiFVkAWhIC7FJT1I4JO) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Go On Soundboy](https://open.spotify.com/album/68ZInwIHdm6tKP3yPLNMni) | 4:20 | 2022-02-17 | 2022-07-30 |
+| [Hitz](https://open.spotify.com/track/7mCDRMWEok4y7NHgKSfD2K) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Hitz](https://open.spotify.com/album/4HxksCl9JvGn7Ni77clzS8) | 2:48 | 2024-08-16 |  |
 | [Hollow](https://open.spotify.com/track/2opZwPMwDdSSiNuYqaaWP6) | [B\-Say](https://open.spotify.com/artist/3UrGYaLb8EIEShffaJ62N2) | [Hollow EP](https://open.spotify.com/album/4K8fXp2F4qdkgtL215uAoF) | 4:41 | 2022-02-17 | 2022-07-29 |
 | [Hollow](https://open.spotify.com/track/1cHcOhWO0XUjrtSMlc98IP) | [Phocust](https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0), [Cafe Disko](https://open.spotify.com/artist/7x6KEmSwlWNo0d628uyi7W), [AUDIA](https://open.spotify.com/artist/4qGtx1genwvagRTsEhU8oB) | [Hollow](https://open.spotify.com/album/7bSgsY369Jl1p7cGqUy9VZ) | 3:26 | 2024-04-12 |  |
 | [Honesty](https://open.spotify.com/track/6ICqVK59IF8cBDQ9NzjiQD) | [illoh](https://open.spotify.com/artist/7rpSxuzyoakoX2RJPZXAeV) | [Honesty](https://open.spotify.com/album/5D4oNVK6BjUEiB0YaAlMN0) | 3:08 | 2024-04-12 | 2024-07-13 |
@@ -369,6 +370,7 @@
 | [NEED SOME](https://open.spotify.com/track/5quo3xI25MYfu88V5Yxq0R) | [Tsimba](https://open.spotify.com/artist/2oyQAB31BN7QLPUBNpLg88) | [NEED SOME](https://open.spotify.com/album/0JzfdOpOjFcdoiP8UIoGfi) | 2:54 | 2024-05-31 |  |
 | [Neurological](https://open.spotify.com/track/6O0t3Pm3HcVbuR6SokUXby) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Vibrations](https://open.spotify.com/album/34E1kgCm1PZ6y0jdyGVXtc) | 4:34 | 2022-02-17 | 2023-01-14 |
 | [Night Flight](https://open.spotify.com/track/46lWKeYyIQN7F3OnZqjFMb) | [Biome](https://open.spotify.com/artist/5vdT5HnfZZMsPwy9XtM1ud) | [Night Flight](https://open.spotify.com/album/2BkHRyI4EYoEQUcOKCNbGT) | 4:22 | 2022-02-17 | 2023-02-11 |
+| [NO](https://open.spotify.com/track/7MWgZYpmaRYEj27TeKCc9X) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [NO](https://open.spotify.com/album/0KFFRneuQj5lVZk7rYcpDp) | 3:25 | 2024-08-16 |  |
 | [No More](https://open.spotify.com/track/7qy8iDkGHlthmVFy6CKYhp) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Everything's Temporary](https://open.spotify.com/album/2hDAvX1vRBMPvB2kZJkxBR) | 3:21 | 2024-04-12 |  |
 | [Noid](https://open.spotify.com/track/4nGups0fUicg4Khw30jXSx) | [Noer the Boy](https://open.spotify.com/artist/4PD6K1K2nNk6xIpFhtoSMT) | [Noid](https://open.spotify.com/album/6NBCoOBu1Wm9PfDGNS7mVu) | 3:41 | 2022-02-17 | 2022-09-11 |
 | [Norman](https://open.spotify.com/track/536U728aadWGV86KDvQs0m) | [p0gman](https://open.spotify.com/artist/3cw7SynPNBpGg16PRXJI2I) | [Norman](https://open.spotify.com/album/2EamMa2jk8G9CstjDqn8Aa) | 3:15 | 2022-02-17 | 2022-10-20 |
@@ -579,7 +581,7 @@
 | [The Return](https://open.spotify.com/track/7dVzSlfWsZ28bdW8LpUxLU) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Return](https://open.spotify.com/album/3NjuyI734lXBhkehCDqbbz) | 3:47 | 2022-02-17 | 2022-06-11 |
 | [The Sunken Place \- VIP](https://open.spotify.com/track/2cLUUX0SkRD5Yi6YJHA8qi) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Awakening VIPs](https://open.spotify.com/album/12JpTvIirqvj09FMeQFsfg) | 5:05 | 2022-06-17 | 2024-03-22 |
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-04-28 | 2024-03-02 |
-| [There I Go](https://open.spotify.com/track/5oNAbbhAuoz6xrEPWo3U0M) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [II](https://open.spotify.com/album/3Is4r8XBx21xiueH23N8Vj) | 4:06 | 2024-04-12 |  |
+| [There I Go](https://open.spotify.com/track/5oNAbbhAuoz6xrEPWo3U0M) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [II](https://open.spotify.com/album/3Is4r8XBx21xiueH23N8Vj) | 4:06 | 2024-04-12 | 2024-08-18 |
 | [Thrill](https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Cheap Thrills](https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll) | 4:48 | 2023-09-08 |  |
 | [Toast](https://open.spotify.com/track/0BuIHXZ4Dr7Bu02fPpHA3l) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Toast](https://open.spotify.com/album/2ZKGLudhFxiX9cpgKrDelD) | 2:41 | 2023-05-26 | 2023-09-09 |
 | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/track/1D4OWth7qppoyd9FMDBwjY) | [Cam Lasky](https://open.spotify.com/artist/2UWIVc2ZEBbdoFjOYf4yph) | [Tokyo Hyaku Synchronicity \#036 Poseidon Forest](https://open.spotify.com/album/42f49jgEcFtznfONjknPWq) | 4:39 | 2022-02-17 | 2024-03-10 |
@@ -614,7 +616,7 @@
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-22 | 2022-10-08 |
 | [Wanchai](https://open.spotify.com/track/5TOrZM4bLcvrJSRSeSGO4y) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Wanchai](https://open.spotify.com/album/0KxrYioG8RSZf2YK6ntuOb) | 3:46 | 2023-09-22 |  |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
-| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 |  |
+| [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-08-18 |
 | [wassup](https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [wassup](https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu) | 2:43 | 2024-03-22 | 2024-06-10 |
 | [Watching From A Distance](https://open.spotify.com/track/7fP6evA1EQzB1tpfbPk9ml) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Watching From A Distance](https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq) | 2:33 | 2022-02-17 | 2023-04-27 |
 | [Wayside](https://open.spotify.com/track/2Qr5YvcqnPtLyhtFuLxluD) | [Hebbe](https://open.spotify.com/artist/5ZkVhiQlO1pdKjtysy3Nrn), [Melle](https://open.spotify.com/artist/71W7FEPaF2yyFETscZpIN8), [MR.K](https://open.spotify.com/artist/75V7zNfB94p5PQ3qnQf47G) | [DUPPLATES Vol\. 1](https://open.spotify.com/album/4H1G1EejuL3DlqI1rJAC0R) | 4:51 | 2022-02-17 | 2022-07-29 |

@@ -6455,6 +6455,24 @@
     },
     {
       "album": {
+        "name": "BAMESIS",
+        "url": "https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Thank You Come Again",
+      "url": "https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7"
+    },
+    {
+      "album": {
         "name": "That Bag",
         "url": "https://open.spotify.com/album/5RyA35Dok5w92uKZnclGd7"
       },

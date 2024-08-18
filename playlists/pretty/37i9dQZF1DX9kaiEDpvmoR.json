@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92166,
+  "num_followers": 92171,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Purple Gas",
-        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noeline Hofmann",
-          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 180152,
-      "name": "Purple Gas",
-      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -203,18 +199,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "The Man He Sees in Me",
-        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 165058,
-      "name": "The Man He Sees in Me",
-      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+      "duration_ms": 204411,
+      "name": "California Sober (Feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -239,18 +239,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+        "name": "The Man He Sees in Me",
+        "url": "https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+      "duration_ms": 165058,
+      "name": "The Man He Sees in Me",
+      "url": "https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 180152,
+      "name": "Purple Gas",
+      "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -351,6 +371,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Right?",
         "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
       },
@@ -379,6 +431,26 @@
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Walked on Water (feat. Kesha)",
+      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -419,22 +491,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
         "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
       },
@@ -451,6 +507,22 @@
       "duration_ms": 160983,
       "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
       "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Sally/Hungry Eyes",
+        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
+      },
+      "artists": [
+        {
+          "name": "June Vide",
+          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Sally/Hungry Eyes",
+      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -563,42 +635,6 @@
       "duration_ms": 185286,
       "name": "Bar Thinking",
       "url": "https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "F-1 Trillion",
-        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 204411,
-      "name": "California Sober (Feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -747,22 +783,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Walk With Me - Chod\u017a ze mn\u0105",
-        "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
       },
       "artists": [
         {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
-        },
-        {
-          "name": "Ola K\u0119dra",
-          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
         }
       ],
-      "duration_ms": 168457,
-      "name": "Walk With Me - Chod\u017a ze mn\u0105",
-      "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -783,18 +815,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+        "name": "Walk With Me - Chod\u017a ze mn\u0105",
+        "url": "https://open.spotify.com/album/1NQkvIurxrCar63mMVxX4z"
       },
       "artists": [
         {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        },
+        {
+          "name": "Ola K\u0119dra",
+          "url": "https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15"
         }
       ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+      "duration_ms": 168457,
+      "name": "Walk With Me - Chod\u017a ze mn\u0105",
+      "url": "https://open.spotify.com/track/2WVD6L40UgAfoGqkLplnlr"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -811,22 +847,6 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -863,6 +883,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -975,6 +1011,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+      },
+      "artists": [
+        {
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
       },
@@ -1015,38 +1067,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
       "artists": [
         {
-          "name": "The Boppers",
-          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+          "name": "Andreas Moe",
+          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
         }
       ],
-      "duration_ms": 238406,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "John Denver",
-        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
-      },
-      "artists": [
-        {
-          "name": "A Choir of Ghosts",
-          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
-        },
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "John Denver",
-      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
+      "duration_ms": 210568,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1067,18 +1099,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
+        "name": "John Denver",
+        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
       },
       "artists": [
         {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+          "name": "A Choir of Ghosts",
+          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
+        },
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
         }
       ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+      "duration_ms": 187333,
+      "name": "John Denver",
+      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1131,6 +1167,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1163,22 +1219,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "What You\u2019re Saying To Me",
-        "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
+        "name": "Are You Ok",
+        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
       },
       "artists": [
         {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
         }
       ],
-      "duration_ms": 166500,
-      "name": "What You\u2019re Saying To Me",
-      "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
+      "duration_ms": 274250,
+      "name": "Are You Ok",
+      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1195,22 +1247,6 @@
       "duration_ms": 207467,
       "name": "Dekadens",
       "url": "https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Are You Ok",
-        "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 274250,
-      "name": "Are You Ok",
-      "url": "https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1251,6 +1287,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "What You\u2019re Saying To Me",
+        "url": "https://open.spotify.com/album/5K5czoyYx8Dk2RQQvXegDH"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "What You\u2019re Saying To Me",
+      "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1267,42 +1323,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Peaceful Easy Feeling",
-        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
-      },
-      "artists": [
-        {
-          "name": "Birds are better",
-          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
-        }
-      ],
-      "duration_ms": 171038,
-      "name": "Peaceful Easy Feeling",
-      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Siljans strand / Midsommarvisa",
         "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
       },
@@ -1315,6 +1335,22 @@
       "duration_ms": 226680,
       "name": "Siljans strand",
       "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Peaceful Easy Feeling",
+        "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
+      },
+      "artists": [
+        {
+          "name": "Birds are better",
+          "url": "https://open.spotify.com/artist/0ZYJwHf0cMQ2FTg9IMlpIZ"
+        }
+      ],
+      "duration_ms": 171038,
+      "name": "Peaceful Easy Feeling",
+      "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1351,18 +1387,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Melody Rules",
-        "url": "https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz"
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
       },
       "artists": [
         {
-          "name": "Nicolai Dunger",
-          "url": "https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18"
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Melody Rules",
-      "url": "https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd"
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1379,6 +1415,22 @@
       "duration_ms": 195414,
       "name": "Flamma",
       "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Melody Rules",
+        "url": "https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz"
+      },
+      "artists": [
+        {
+          "name": "Nicolai Dunger",
+          "url": "https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Melody Rules",
+      "url": "https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1407,6 +1459,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
+        "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
+      },
+      "artists": [
+        {
+          "name": "Henrik Dorsin",
+          "url": "https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd"
+        },
+        {
+          "name": "Per \u201cPutte\u201d Ekdahls orkester",
+          "url": "https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg"
+        }
+      ],
+      "duration_ms": 297895,
+      "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
+      "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Se mig bara f\u00f6r den jag \u00e4r",
         "url": "https://open.spotify.com/album/76ffJEYzoFrQlS9hQ4UUzh"
       },
@@ -1423,22 +1495,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Obsessed",
-        "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
+        "name": "Pl\u00e5ster",
+        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
         }
       ],
-      "duration_ms": 200649,
-      "name": "Walked on Water (feat. Kesha)",
-      "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+      "duration_ms": 299861,
+      "name": "Pl\u00e5ster",
+      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1495,38 +1563,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
       },
       "artists": [
         {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
         }
       ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
-        "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
-      },
-      "artists": [
-        {
-          "name": "Henrik Dorsin",
-          "url": "https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd"
-        },
-        {
-          "name": "Per \u201cPutte\u201d Ekdahls orkester",
-          "url": "https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg"
-        }
-      ],
-      "duration_ms": 297895,
-      "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
-      "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
+      "duration_ms": 181428,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1547,66 +1595,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Helpless",
-        "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
       },
       "artists": [
         {
-          "name": "Andreas Moe",
-          "url": "https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 210568,
-      "name": "Helpless",
-      "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 299861,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Doftade Dior",
-        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
-      },
-      "artists": [
-        {
-          "name": "Max Niclasson",
-          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Doftade Dior",
-      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 181428,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+        "name": "Doftade Dior",
+        "url": "https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA"
       },
       "artists": [
         {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+          "name": "Max Niclasson",
+          "url": "https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ"
         }
       ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
+      "duration_ms": 235000,
+      "name": "Doftade Dior",
+      "url": "https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG"
     }
   ],
   "unique_name": "Aktuellt",

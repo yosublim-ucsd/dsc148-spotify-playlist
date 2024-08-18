@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-186 songs - 8 hr 4 min
+187 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Taz Muzik](https://open.spotify.com/track/0sakZDi0XsTdFRrDtJZR0N) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:43 | 2024-07-05 | 2024-07-13 |
 | [Training Day](https://open.spotify.com/track/2GyQ041yVKspzq4jawdpNh) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:14 | 2024-07-05 | 2024-07-13 |
 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-26 | 2024-04-13 |
-| [Turbo \(Majestic\)](https://open.spotify.com/track/1xVDfq8LfjJxneTZKTz570) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/3ejelxkQ0cOvWyBwUGmfPr) | 2:55 | 2024-08-16 |  |
+| [Turbo \(Majestic\)](https://open.spotify.com/track/1xVDfq8LfjJxneTZKTz570) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/3ejelxkQ0cOvWyBwUGmfPr) | 2:55 | 2024-08-16 | 2024-08-18 |
+| [Turbo \(Majestic\)](https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3) | 2:55 | 2024-08-16 |  |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2024-01-26 | 2024-02-03 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-26 |  |
 | [Ангел](https://open.spotify.com/track/01J7Q2QyqNX2gFEqfoSNju) | [Юпи](https://open.spotify.com/artist/1ZrJxKCLNjqk4B73SoR7PN), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [Ангел](https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP) | 2:30 | 2024-03-08 | 2024-05-04 |

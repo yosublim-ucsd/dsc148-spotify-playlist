@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
-  "num_followers": 13466,
+  "num_followers": 13470,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Od\u00fa",
-        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 210005,
-      "name": "Od\u00fa",
-      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
         "url": "https://open.spotify.com/album/4G9Vuu4KqcUDSWyk6KaqBi"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 127885,
       "name": "ember NEM \u00e9lhet t\u00f6r\u00f6tt l\u00e1bbal",
       "url": "https://open.spotify.com/track/3znhW8bjZFh0y6QYFiXGPJ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Od\u00fa",
+        "url": "https://open.spotify.com/album/3nP2gGqrL3ONPfyAAHkYOu"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 210005,
+      "name": "Od\u00fa",
+      "url": "https://open.spotify.com/track/7voNdyo6uovIugVkPkkZBd"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Diszkomfort",
-        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
-      },
-      "artists": [
-        {
-          "name": "szolnoki",
-          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
-        }
-      ],
-      "duration_ms": 155278,
-      "name": "Diszkomfort",
-      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+        "name": "Diszkomfort",
+        "url": "https://open.spotify.com/album/4TfQVT90BnuML3cWv4LIz8"
       },
       "artists": [
         {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+          "name": "szolnoki",
+          "url": "https://open.spotify.com/artist/7xTpU206maLjUZtvl5xx4X"
         }
       ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+      "duration_ms": 155278,
+      "name": "Diszkomfort",
+      "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -663,6 +647,22 @@
       "duration_ms": 105000,
       "name": "Egy popzen\u00e9sz nyara",
       "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "S\u00f6t\u00e9t vill\u00e1m",
-        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Nem volt \u00fagy m\u00e9g",
-      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
         "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
       },
@@ -867,6 +867,38 @@
       "duration_ms": 181840,
       "name": "Boldogok vagyunk-e",
       "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -903,22 +935,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
-      },
-      "artists": [
-        {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "b\u00fajj hozz\u00e1m",
         "url": "https://open.spotify.com/album/66i9I2BocGO3p0yrVlRTqn"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 184285,
       "name": "b\u00fajj hozz\u00e1m",
       "url": "https://open.spotify.com/track/7ML4geSEclqZ9soTbiNIin"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Szeressetek",
-        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Szeressetek",
-      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "beleszakad",
-        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
-      },
-      "artists": [
-        {
-          "name": "Pand\u00f3ra Projekt",
-          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "beleszakad",
-      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 131986,
       "name": "Megyek ut\u00e1nad",
       "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "beleszakad",
+        "url": "https://open.spotify.com/album/6KFWkezfq4nfFqt6ccNjBU"
+      },
+      "artists": [
+        {
+          "name": "Pand\u00f3ra Projekt",
+          "url": "https://open.spotify.com/artist/2tPp6Lt1bM1nzGK5jcm7B8"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "beleszakad",
+      "url": "https://open.spotify.com/track/5Y6ouyWbwZHou41ZwauH0W"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1167,6 +1167,26 @@
       "duration_ms": 186750,
       "name": "POCSOLYA",
       "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Cloudy Skies",
+        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
+        },
+        {
+          "name": "Haquin",
+          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
+        }
+      ],
+      "duration_ms": 253171,
+      "name": "Cloudy Skies",
+      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1227,26 +1247,6 @@
       "duration_ms": 207130,
       "name": "El\u00e9g a tenger",
       "url": "https://open.spotify.com/track/7fqCWm2j1szb2PyKTNQJba"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Cloudy Skies",
-        "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
-      },
-      "artists": [
-        {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/6NNKnAZiJnFqSWP8TCmMZJ"
-        },
-        {
-          "name": "Haquin",
-          "url": "https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb"
-        }
-      ],
-      "duration_ms": 253171,
-      "name": "Cloudy Skies",
-      "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Dreamgirl",
-        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
-      },
-      "artists": [
-        {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Dreamgirl",
-      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ellensz\u00e9lben",
         "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 165120,
       "name": "Gyere Kicsi",
       "url": "https://open.spotify.com/track/6QEu7mjc6ukjLZB8KDr563"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Dreamgirl",
+        "url": "https://open.spotify.com/album/2jCYpMUl6kltjhUpxotxBO"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Dreamgirl",
+      "url": "https://open.spotify.com/track/4GaXyfHQd1grsMdL5y5N50"
     }
   ],
   "unique_name": "Nemazapop",

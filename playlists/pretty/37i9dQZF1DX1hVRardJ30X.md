@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nsqk, Grupo Firme & Demi Lovato, Kenia OS & Steve Aoki and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,622 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,675 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 20 | [MVP](https://open.spotify.com/track/3JIj2lM5BzQpDoXcLnE3z5) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 2:56 |
 | 21 | [BORRACHO](https://open.spotify.com/track/3ZMWr0qweJWTT3hrTqnJe2) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [BORRACHO](https://open.spotify.com/album/406X9ac7umALSOCKc9NKs1) | 3:01 |
 | 22 | [Parcerita \- Remix](https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC) | [Dahili](https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Parcerita \(Remix\)](https://open.spotify.com/album/4485OAXEhUA6UcjjiSOlFT) | 3:58 |
-| 23 | [El Sabio \- Remastered 2024](https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio \(Remastered 2024\)](https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX) | 4:31 |
+| 23 | [El Sabio \- Remastered 2024](https://open.spotify.com/track/00fbQF4r4xGbblVPcgxIXi) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio \- Remastered 2024](https://open.spotify.com/album/2XpZFWuScnHHlaVcTrwLTX) | 4:31 |
 | 24 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 |
 | 25 | [Mucho Drama](https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Spalla](https://open.spotify.com/album/3aN5rWhxOwIdELqK5qXA7b) | 2:22 |
 | 26 | [MUJERÓN](https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MUJERÓN](https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS) | 2:54 |

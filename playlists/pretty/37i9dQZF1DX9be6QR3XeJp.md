@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Tommy Farrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,276 likes - 200 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,271 likes - 200 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14394,
+  "num_followers": 14399,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,38 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Madison",
+        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Madison",
+      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Mrozu. MTV Unplugged",
+        "url": "https://open.spotify.com/album/3t78lM2XV7ANPuUEa8bsu4"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 272013,
+      "name": "Nie sta\u0142o si\u0119 nic - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4AnDsx6QGmPGqBGKXdEFlE"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Akademia Pana Kleksa",
         "url": "https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA"
       },
@@ -271,38 +303,6 @@
       "duration_ms": 193855,
       "name": "Ca\u0142kiem Nowa Bajka",
       "url": "https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Mrozu. MTV Unplugged",
-        "url": "https://open.spotify.com/album/3t78lM2XV7ANPuUEa8bsu4"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 272013,
-      "name": "Nie sta\u0142o si\u0119 nic - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4AnDsx6QGmPGqBGKXdEFlE"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Madison",
-        "url": "https://open.spotify.com/album/6C8CsqhWMEfNBFpXaM7ORs"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Madison",
-      "url": "https://open.spotify.com/track/0A2ZanyYkHQ9TVYQ2aON5F"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Some Old Songs",
-        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
-      },
-      "artists": [
-        {
-          "name": "Tomek Zi\u0119tek",
-          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
-        }
-      ],
-      "duration_ms": 206415,
-      "name": "Your Kiss",
-      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Kryzys",
         "url": "https://open.spotify.com/album/6n5TU7zk4348VxhcXKRnsS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 159205,
       "name": "Wiersz wigilijny",
       "url": "https://open.spotify.com/track/4SKFFjmiFB4nTDYvg7Mdld"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Some Old Songs",
+        "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
+      },
+      "artists": [
+        {
+          "name": "Tomek Zi\u0119tek",
+          "url": "https://open.spotify.com/artist/0Qe2xPp92erAxvtRGaAJzy"
+        }
+      ],
+      "duration_ms": 206415,
+      "name": "Your Kiss",
+      "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pokolenie Ko\u0144ca \u015awiata",
-        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
-      },
-      "artists": [
-        {
-          "name": "Kacperczyk",
-          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
-        }
-      ],
-      "duration_ms": 168351,
-      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
-      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Horyzont Zdarze\u0144",
         "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 288922,
       "name": "Czas Nie Leczy Ran",
       "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pokolenie Ko\u0144ca \u015awiata",
+        "url": "https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp"
+      },
+      "artists": [
+        {
+          "name": "Kacperczyk",
+          "url": "https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X"
+        }
+      ],
+      "duration_ms": 168351,
+      "name": "Jakbym zjad\u0142 mentosy i popi\u0142 je col\u0105",
+      "url": "https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "p@Ran0j3",
-        "url": "https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu"
-      },
-      "artists": [
-        {
-          "name": "KIWI",
-          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
-        },
-        {
-          "name": "Szatt",
-          "url": "https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS"
-        }
-      ],
-      "duration_ms": 210854,
-      "name": "Kruszysz (Szatt Remix)",
-      "url": "https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "IMAGO (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 172000,
       "name": "IMAGO SWAN",
       "url": "https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "p@Ran0j3",
+        "url": "https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu"
+      },
+      "artists": [
+        {
+          "name": "KIWI",
+          "url": "https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki"
+        },
+        {
+          "name": "Szatt",
+          "url": "https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS"
+        }
+      ],
+      "duration_ms": 210854,
+      "name": "Kruszysz (Szatt Remix)",
+      "url": "https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Unde Malum",
-        "url": "https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq"
-      },
-      "artists": [
-        {
-          "name": "Dragon",
-          "url": "https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Nie Zabijaj Ze Strachu",
-      "url": "https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Full Speed No Brakes",
         "url": "https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 162493,
       "name": "Full Speed No Brakes",
       "url": "https://open.spotify.com/track/69305G8R3qlddRjRZSq38d"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Unde Malum",
+        "url": "https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq"
+      },
+      "artists": [
+        {
+          "name": "Dragon",
+          "url": "https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Nie Zabijaj Ze Strachu",
+      "url": "https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Music We Like To Dance To",
+        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Chy\u0142a Quintet",
+          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+        }
+      ],
+      "duration_ms": 458733,
+      "name": "Thousand Yard Stare",
+      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Frukstrakt",
         "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Music We Like To Dance To",
-        "url": "https://open.spotify.com/album/5QMwMd6LQO5ObL7bzze6Ud"
+        "name": "TiriTaka (Polish Jazz, Vol. 62)",
+        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
       },
       "artists": [
         {
-          "name": "Tomasz Chy\u0142a Quintet",
-          "url": "https://open.spotify.com/artist/6Db18G8qBvMvBeOI4MkGB9"
+          "name": "Kazimierz Jonkisz Quintet",
+          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
         }
       ],
-      "duration_ms": 458733,
-      "name": "Thousand Yard Stare",
-      "url": "https://open.spotify.com/track/3vauEysg2vel5mIgm4ssJ2"
+      "duration_ms": 369013,
+      "name": "Tiritaka",
+      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1483,22 +1499,6 @@
       "duration_ms": 364149,
       "name": "Hi 5",
       "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "TiriTaka (Polish Jazz, Vol. 62)",
-        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
-      },
-      "artists": [
-        {
-          "name": "Kazimierz Jonkisz Quintet",
-          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
-        }
-      ],
-      "duration_ms": 369013,
-      "name": "Tiritaka",
-      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
     },
     {
       "added_at": "2024-03-25 08:52:09",

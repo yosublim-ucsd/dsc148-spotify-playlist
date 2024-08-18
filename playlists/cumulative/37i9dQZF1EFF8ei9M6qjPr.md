@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 6 hr 50 min
+145 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \- Deluxe](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2024-07-09 |  |
 | [Next Life](https://open.spotify.com/track/77gpwRWeMlZeIUI9QDoDVZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Next Life](https://open.spotify.com/album/3ADl40rpQzbx905hFyNaW6) | 3:07 | 2024-07-09 |  |
 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 | 2024-07-09 |  |
-| [Nightstand](https://open.spotify.com/track/5KPmp3AYVAYb3Rv2Cbzqzp) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/2az3Kqq0uVsNoQ7R5QCTwJ) | 2:41 | 2024-07-09 |  |
+| [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 | 2024-08-17 |  |
+| [Nightstand](https://open.spotify.com/track/5KPmp3AYVAYb3Rv2Cbzqzp) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/2az3Kqq0uVsNoQ7R5QCTwJ) | 2:41 | 2024-07-09 | 2024-08-18 |
 | [Novocaine](https://open.spotify.com/track/2DKMINA8asTPUJz8Qu2CGK) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Panther Island](https://open.spotify.com/album/0MR5byjB3yReHRW9MIojk7) | 4:04 | 2024-07-09 |  |
 | [Off Season](https://open.spotify.com/track/3VVrZApVwCvTEZNwrZgXI5) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5kqLqGGPZGTavifOSOVDcr) | 3:10 | 2024-08-02 |  |
 | [Off Season](https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [Off Season](https://open.spotify.com/album/5tuM41hpJ7kDZo5Twts4TE) | 3:10 | 2024-07-09 | 2024-08-03 |

@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-572 songs - 1 day 19 hr 43 min
+573 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Homecoming](https://open.spotify.com/track/4X41g2qYikss19onM4xH6F) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Homecoming](https://open.spotify.com/album/5BR5Q9CvBdD1zXepyCyTQs) | 7:09 | 2022-08-11 | 2024-01-26 |
 | [Honey, You Are My Everything](https://open.spotify.com/track/2dXBcXQmElv95h7Fl0P623) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:19 | 2022-11-12 |  |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-10 |  |
-| [Hush \- Nikki Iles](https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr) | [Nikki Iles](https://open.spotify.com/artist/5LGovBijogk6ID8SKqle96) | [Hush](https://open.spotify.com/album/0WWDEwk0muhlcF21F2R8A2) | 5:12 | 2022-02-10 |  |
+| [Hush \- Nikki Iles](https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr) | [Nikki Iles](https://open.spotify.com/artist/5LGovBijogk6ID8SKqle96) | [Hush](https://open.spotify.com/album/0WWDEwk0muhlcF21F2R8A2) | 5:12 | 2022-02-10 | 2024-08-18 |
 | [I Concentrate On You](https://open.spotify.com/track/2EAg1quHmyj5wGPEONM5KL) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [I Concentrate On You](https://open.spotify.com/album/5R8IVGtCRIxv5KWwpjTiFL) | 4:40 | 2022-11-24 |  |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/0Bp4wVlm9sA88tMtbDG29p) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Fall In Love Too Easily](https://open.spotify.com/album/7CVL1rAW47IhbxmNv2uM29) | 4:00 | 2023-02-16 |  |
 | [I Got It Bad](https://open.spotify.com/track/7mAaoHCzBBjj3tYb1l25OH) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Got It Bad](https://open.spotify.com/album/4fifEjoLEumLNYYMlSvaan) | 4:26 | 2022-11-12 |  |
@@ -271,6 +271,7 @@
 | [Let The Right One In](https://open.spotify.com/track/3KYTL4n5b1RPDa2GURS9HC) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Let The Right One In](https://open.spotify.com/album/3h0tWrv1ko1zSrilfunEum) | 4:33 | 2023-05-25 | 2024-06-18 |
 | [Let's go uptown](https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Let's go uptown](https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3) | 2:20 | 2023-01-26 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-11-12 |  |
+| [Liane et banian](https://open.spotify.com/track/17cUXqybsoIxbgDjAGlAhJ) | [Laurent De Wilde](https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj) | [Life is a movie](https://open.spotify.com/album/2ukTvxVOLuSRucibWcAFVB) | 5:32 | 2024-07-15 |  |
 | [Life In Paradise](https://open.spotify.com/track/7DhwU4DOhVLPI30Rj2X6e4) | [Sally's Trio](https://open.spotify.com/artist/3SFDEtIEdBh9Ala7ZyIyma) | [Life In Paradise](https://open.spotify.com/album/5TNHvnh6yY5FwDBqo3g59W) | 4:34 | 2022-11-12 |  |
 | [Life is a Beautiful Thing](https://open.spotify.com/track/5E2naT4wvGkEhYj9US26GQ) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [The Artist](https://open.spotify.com/album/4RlmJEPHL2p0QMaSsvJqVn) | 5:24 | 2022-05-13 |  |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-11-12 |  |

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-109 songs - 4 hr 57 min
+110 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Make It Even](https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:29 | 2022-10-28 | 2024-07-23 |
 | [Members Only \(feat\. 42 Dugg\)](https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:31 | 2022-10-28 |  |
 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 | 2022-10-28 |  |
+| [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Selfpaid Savage](https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo) | [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b) | 2:52 | 2024-08-18 |  |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-10-28 | 2022-12-03 |
 | [Off White Mikes \(feat\. EST Gee\)](https://open.spotify.com/track/1sJE6dY3LYW3L0BMcMH8Ym) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Rich Off The Pack](https://open.spotify.com/album/7uHyX5l5ZEqNoP62SVD4LL) | 2:07 | 2023-07-27 | 2024-07-19 |
 | [On Da Floor \(feat\. EST Gee\)](https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 2:32 | 2023-07-05 |  |

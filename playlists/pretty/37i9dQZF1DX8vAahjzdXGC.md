@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,372 likes - 123 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,424 likes - 123 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [62 mi \(outer space\)](https://open.spotify.com/track/2XhHKrXnBovVAjnujwDBCu) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [62 mi \(outer space\)](https://open.spotify.com/album/5TtpXg7P59VFo2MuO9dwYS) | 4:12 |
 | 40 | [Tumor](https://open.spotify.com/track/2p8OMCYAHam8rJl5yhEIxn) | [Satu Per Empat](https://open.spotify.com/artist/7mtLrXrj4RysnCyipjnIgp) | [Tumor](https://open.spotify.com/album/0CmWoTnrIT8F8Dup0o7ASd) | 4:23 |
 | 41 | [strangers again](https://open.spotify.com/track/38MltIuVQE5LeWoSCV7Wxz) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [strangers again](https://open.spotify.com/album/5LQsCqGtTU2k4WreRYF7vG) | 2:25 |
-| 42 | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/track/3JlyzzPhzQOfcxuVN2Jp7K) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/album/5LBuVYLoQ2EVFY0R7AkR9r) | 3:41 |
+| 42 | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/track/3JlyzzPhzQOfcxuVN2Jp7K) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh), [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [Yuni Shara](https://open.spotify.com/artist/23Oj0QXzYD7iIWYG2sfMDI) | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/album/5LBuVYLoQ2EVFY0R7AkR9r) | 3:41 |
 | 43 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 |
 | 44 | [Pretty Boy](https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Pretty Boy](https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat) | 2:03 |
 | 45 | [Homecoming](https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Homecoming](https://open.spotify.com/album/73wC0ne2a1wSaN4DHe27eR) | 2:40 |

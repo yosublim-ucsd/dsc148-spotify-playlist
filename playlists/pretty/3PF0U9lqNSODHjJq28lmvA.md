@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,384 likes - 13 songs - 46 min 1 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,385 likes - 13 songs - 46 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 |
-| 2 | [Wicked Game](https://open.spotify.com/track/0s5XxWW3DRLkmSb0d8YwEu) | [Clödie](https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15), [Mike Olow](https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt) | [Wicked Game](https://open.spotify.com/album/2IMm7bIMOkDnxMbYohzJhA) | 4:12 |
+| 2 | [Wicked Game](https://open.spotify.com/track/0s5XxWW3DRLkmSb0d8YwEu) | [Mike Olow](https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt), [Clödie](https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15) | [Wicked Game](https://open.spotify.com/album/2IMm7bIMOkDnxMbYohzJhA) | 4:12 |
 | 3 | [House Of Love](https://open.spotify.com/track/26H7Nffsit80gbewHRfWu0) | [Micke Lovberg](https://open.spotify.com/artist/5HfjZQR2FGcfUQ0oMAAxsG) | [House Of Love](https://open.spotify.com/album/5cjHZ8tzjLuhaEHkaKMyVA) | 4:00 |
 | 4 | [Mama](https://open.spotify.com/track/7HeH3Djnx5p5Uq4SWGbHpw) | [Yozif](https://open.spotify.com/artist/5Y0UtFJl6GLJFXu9UH9Xwg) | [Mama](https://open.spotify.com/album/7vhmpLYvCMPNuWjfvgRg1V) | 5:22 |
 | 5 | [Fiery Night](https://open.spotify.com/track/30wShil0OGBnolu9NqyX2p) | [Spiders On Drugs](https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm), [Patrik Tammelin](https://open.spotify.com/artist/6RE5O8YXcLufw1yqYsKsDi), [Maria Simonson](https://open.spotify.com/artist/67yhCBMk6NuA2XaCSUTF3o) | [Fiery Night](https://open.spotify.com/album/3JFJ8vEYlFhCyHUH4KJsh1) | 3:11 |

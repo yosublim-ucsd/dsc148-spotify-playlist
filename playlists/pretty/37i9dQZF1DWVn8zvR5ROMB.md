@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Josh Turner, Post Malone, Morgan Wade and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,757 likes - 63 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,895 likes - 63 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 23 | [I Pray I'll Be Seeing You Soon](https://open.spotify.com/track/3d8A6NDsozv2HySI4iNarM) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [I Pray I'll Be Seeing You Soon](https://open.spotify.com/album/1O1Qlyk8O1oUcUHmtaZCYG) | 3:04 |
 | 24 | [Sweetheart from the Trailer Park](https://open.spotify.com/track/5t4j5WGwWoh6Ykjr8rdR6E) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Sweetheart from the Trailer Park](https://open.spotify.com/album/6grCXmDPRDUe71hQ6llCBU) | 2:20 |
 | 25 | [Jesus Saves](https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Jesus Saves](https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ) | 2:56 |
-| 26 | [IT'S ALL GOOD \(feat\. Michael Franti\)](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti](https://open.spotify.com/artist/4vCYwGCNg2XUsdi9IVMzwo) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
+| 26 | [IT'S ALL GOOD \(feat\. Michael Franti & Spearhead\)](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
 | 27 | [Hope Will Glow](https://open.spotify.com/track/5YwreZuItaMu7AT4Hx05ae) | [Adassa](https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh) | [That's Where I'm At](https://open.spotify.com/album/4ksr2PipWRrQMfjFu3cFjr) | 3:05 |
 | 28 | [Mama Smoked Cigarettes](https://open.spotify.com/track/2UYGNIvBrlh6P2ozmVLZsz) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Mama Smoked Cigarettes](https://open.spotify.com/album/6yyJPBQwGHOKuE4WIR1umR) | 3:07 |
 | 29 | [Broken Sign](https://open.spotify.com/track/0bVrBMBEm1w1qFH1ZUCde1) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS) | [Broken Sign](https://open.spotify.com/album/6QFJS103dX6TJaNYlfidlZ) | 3:25 |

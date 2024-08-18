@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from Post Malone (pictured),  Hozier,  The Blessed Madonna ft. Kylie and more!",
-  "num_followers": 858049,
+  "num_followers": 858099,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
@@ -689,7 +689,7 @@
         }
       ],
       "duration_ms": 162252,
-      "name": "Personal (Remix feat. Popcaan)",
+      "name": "Personal (feat. Popcaan)",
       "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
     },
     {
@@ -1790,6 +1790,10 @@
         {
           "name": "Futurebound",
           "url": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+        },
+        {
+          "name": "Matrix & Futurebound",
+          "url": "https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7"
         }
       ],
       "duration_ms": 248275,
@@ -2024,8 +2028,8 @@
           "url": "https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe"
         },
         {
-          "name": "Da Loops",
-          "url": "https://open.spotify.com/artist/7JkUuCQsurohru4VVLalWu"
+          "name": "DaLoops",
+          "url": "https://open.spotify.com/artist/309hwGGuwU8SeipNuGNhqn"
         }
       ],
       "duration_ms": 157814,

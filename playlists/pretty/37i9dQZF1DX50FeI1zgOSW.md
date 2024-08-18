@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,519 likes - 76 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,522 likes - 76 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 6 | [Vaanavil Niraikava](https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Vaanavil Niraikava](https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI) | 4:00 |
 | 7 | [Meenu](https://open.spotify.com/track/4LPtOxsnWaSvXp4QNEELZc) | [A.R Sai Shravanya](https://open.spotify.com/artist/67hmOl78H5aT3rs6PcO6CR), [Rama Priya Yegasivanathan](https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx) | [Meenu](https://open.spotify.com/album/08i3xSuoGshAB78Qaj0ttz) | 2:20 |
 | 8 | [Kaadhal Mugil](https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed) | [Harish](https://open.spotify.com/artist/30dSn7msR5gFPrPCWumBXA), [Samathmika K](https://open.spotify.com/artist/6mknIwqnuUvjJjQznjJPHy) | [Kaadhal Mugil](https://open.spotify.com/album/55TpCaFAhnwHC3vxn3rCNT) | 5:21 |
-| 9 | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/track/06CHfSu5mGkoF1ZipodSr1) | [Giant Music India](https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb) | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5) | 3:44 |
+| 9 | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/track/06CHfSu5mGkoF1ZipodSr1) | [Jagadeesh Kumar Balraj](https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt), [Giant Music India](https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb) | [Annakkiliye \- Giant Music India \- Originals](https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5) | 3:44 |
 | 10 | [Sugasagiye](https://open.spotify.com/track/7tTujQNOJgxYFIoLGH66c0) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:53 |
 | 11 | [Ondraga Selvoma](https://open.spotify.com/track/6CXT1nFECaAO2eH4l7Nuel) | [Abu](https://open.spotify.com/artist/4FtcEHxEhiObUuhFYmkrA5), [Pokkishiya Sandra](https://open.spotify.com/artist/5rIDcip6HVD2OYSswkTYtz) | [Ondraga Selvoma](https://open.spotify.com/album/2IP8Ynr4w9PzOP7ZKayy5Y) | 6:00 |
 | 12 | [Oh Kanmaniye](https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C) | [Dhayanesh Kumar R](https://open.spotify.com/artist/3RMR9E25rkqAVcYdaheO3f), [Sam Vishal](https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd), [Padmaja Sreeenivasan](https://open.spotify.com/artist/2SVKMYeIcn3iTeKmI1cJpD) | [Oh Kanmaniye](https://open.spotify.com/album/4ChiG4kmBCXR6LWbX1ig6p) | 3:35 |

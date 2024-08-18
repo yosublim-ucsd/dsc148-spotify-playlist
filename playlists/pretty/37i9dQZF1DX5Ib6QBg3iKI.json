@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 130625,
+  "num_followers": 130616,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
+    },
+    {
       "added_at": "2023-12-20 11:32:39",
       "album": {
         "name": "The Little Drummer Boy",
@@ -1043,22 +1059,6 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "Christmastide",
+        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Christmastide",
+      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "The One (Christmas Version)",
         "url": "https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 208853,
       "name": "The One - Christmas Version",
       "url": "https://open.spotify.com/track/1yrybKSmjixau95vLljPyP"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Christmastide",
-        "url": "https://open.spotify.com/album/2QEfonwMIiD9PNWvNgoSh4"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Christmastide",
-      "url": "https://open.spotify.com/track/5IloL3Bu67F6V08aie4ib6"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
         "name": "One I've Been Missing",
         "url": "https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 192945,
       "name": "One I've Been Missing",
       "url": "https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
-        "name": "Everyday Is Christmas",
-        "url": "https://open.spotify.com/album/0DB01cPUt66gHPLL1JcdQq"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/3E6Ydoy1H8ePoigc10Mgsa"
     }
   ],
   "unique_name": "Easy Christmas",

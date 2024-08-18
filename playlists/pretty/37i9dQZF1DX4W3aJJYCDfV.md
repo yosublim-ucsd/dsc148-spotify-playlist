@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Post Malone \(pictured\),  Hozier,  The Blessed Madonna ft\. Kylie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,049 likes - 117 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,099 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 36 | [Bloom](https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Bloom](https://open.spotify.com/album/6HEq0bWaLaL9vFSEiYjqpU) | 2:28 |
 | 37 | [BT45](https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [BT45](https://open.spotify.com/album/0dGIB22t8fU4RGRewEQcyi) | 4:12 |
 | 38 | [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 |
-| 39 | [Personal \(Remix feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
+| 39 | [Personal \(feat\. Popcaan\)](https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Personal](https://open.spotify.com/album/7izPGQLyw1mfYtAh7JkjC3) | 2:42 |
 | 40 | [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 |
 | 41 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 |
 | 42 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 99 | [Borderline](https://open.spotify.com/track/0a0KflahMJP1r7ryTBdHF6) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Borderline](https://open.spotify.com/album/5TaDHs2jWD0vtpu34360yU) | 2:40 |
 | 100 | [Trouble](https://open.spotify.com/track/4Pt4Vdrd62VdIB5Ax1uHrZ) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Trouble](https://open.spotify.com/album/0uEAKarNQvGAihjnah3asA) | 3:39 |
 | 101 | [Options](https://open.spotify.com/track/3QYAOGemcRqzLU1H0eIrk6) | [Swarmz](https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ) | [Options](https://open.spotify.com/album/4ALnY7MZA3x1WMwbqMkIXb) | 2:35 |
-| 102 | [Follow The Sound](https://open.spotify.com/track/3P9HlbXJ86ZfJzz99O9lfO) | [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5) | [Follow The Sound](https://open.spotify.com/album/0EhMAeUIwCelQfreruSvKk) | 4:08 |
+| 102 | [Follow The Sound](https://open.spotify.com/track/3P9HlbXJ86ZfJzz99O9lfO) | [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7) | [Follow The Sound](https://open.spotify.com/album/0EhMAeUIwCelQfreruSvKk) | 4:08 |
 | 103 | [GOT ME LIKE](https://open.spotify.com/track/193MpbI1EiA4MEj6aDwErC) | [SamRecks](https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien) | [GOT ME LIKE](https://open.spotify.com/album/7Buwb7UcytpprR6kv8cHUI) | 2:52 |
 | 104 | [Chemicals](https://open.spotify.com/track/1ACb3Z1Fu8Jqx1ChI1tIkO) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Chemicals](https://open.spotify.com/album/1RuNSTeijdQHxPQqfKv6zM) | 3:35 |
 | 105 | [Tangerine](https://open.spotify.com/track/2dtp4K6INdf7FjZJnYUGBp) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Where You'll Find Me](https://open.spotify.com/album/5uriQhRrYZbapUWJhsI0yg) | 4:39 |
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 113 | [CEILING](https://open.spotify.com/track/35ozmwS1lHtvR63gvtB9qw) | [Brandon Nembhard](https://open.spotify.com/artist/3iz36sr0k9vScDNDRPZtLS) | [CEILING](https://open.spotify.com/album/3TJJJpLp1plX1Qcly8hJFx) | 4:08 |
 | 114 | [YOU THOUGHT I WAS DEAD](https://open.spotify.com/track/3w9HIb25uhzlui8GWEYUuE) | [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [YOU THOUGHT I WAS DEAD](https://open.spotify.com/album/5Wu6WAJxBUR0km3EVqOOnr) | 2:36 |
 | 115 | [The Painting of the Bay](https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [The Painting of the Bay](https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA) | 3:20 |
-| 116 | [What 2 Do](https://open.spotify.com/track/7qbCfhk0qcrUKMGhUbyFdJ) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe), [Da Loops](https://open.spotify.com/artist/7JkUuCQsurohru4VVLalWu) | [What 2 Do](https://open.spotify.com/album/4qktc8siKG4BCTUOrFX4Po) | 2:37 |
+| 116 | [What 2 Do](https://open.spotify.com/track/7qbCfhk0qcrUKMGhUbyFdJ) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe), [DaLoops](https://open.spotify.com/artist/309hwGGuwU8SeipNuGNhqn) | [What 2 Do](https://open.spotify.com/album/4qktc8siKG4BCTUOrFX4Po) | 2:37 |
 | 117 | [Snakes & Ladders](https://open.spotify.com/track/3W1ithMTcEj32nRh3lQrF0) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Snakes & Ladders](https://open.spotify.com/album/0JcYm2EQe5R76qn6vlHlMh) | 2:55 |
 
 Snapshot ID: `Zr6IcAAAAADNi09Yhs43lKZ/MKbgQLy9`

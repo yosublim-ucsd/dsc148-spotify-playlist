@@ -1,6 +1,6 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Kekel",
-  "num_followers": 81057,
+  "num_followers": 81109,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Lud Session: Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 353696,
-      "name": "Lud Session: Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Hat-Trick do Tubar\u00e3o",
         "url": "https://open.spotify.com/album/4tTPMZJo3j4DpD2PbaWUOu"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 205333,
       "name": "Trinta Minutos",
       "url": "https://open.spotify.com/track/09otOI8Suk88Lg1MJmZJPE"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Lud Session: Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 353696,
+      "name": "Lud Session: Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -719,6 +719,42 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Tudo No Priv\u00ea",
+        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Tudo No Priv\u00ea",
+      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Amo Te Ver de Juju",
+      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Poesia Ac\u00fastica 11: Nada Mudou",
         "url": "https://open.spotify.com/album/3716y3qiVChUSJv24nvCUB"
       },
@@ -767,42 +803,6 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica 11: Nada Mudou",
       "url": "https://open.spotify.com/track/6giaOyDFbE4J8iclhCdW7E"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Tudo No Priv\u00ea",
-        "url": "https://open.spotify.com/album/2QQXWeBTbUpJ6TxUbGL2qn"
-      },
-      "artists": [
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Tudo No Priv\u00ea",
-      "url": "https://open.spotify.com/track/53DZTymdCwUwL9yJdqSLjR"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Amo Te Ver de Juju",
-      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -979,58 +979,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
-        }
-      ],
-      "duration_ms": 242526,
-      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
-      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Deixa Eu Te Chamar de Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
-      },
-      "artists": [
-        {
-          "name": "Dj Juninho 22",
-          "url": "https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH"
-        },
-        {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        }
-      ],
-      "duration_ms": 222014,
-      "name": "Deixa Eu Te Chamar de Moz\u00e3o",
-      "url": "https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "GR6 Convoca #01 (Relacionamentos)",
         "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
       },
@@ -1083,6 +1031,26 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Deixa Eu Te Chamar de Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3YnHedfeESbbi1atWZzxHF"
+      },
+      "artists": [
+        {
+          "name": "Dj Juninho 22",
+          "url": "https://open.spotify.com/artist/4T47gOchMUCmHFoVBE28NH"
+        },
+        {
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+        }
+      ],
+      "duration_ms": 222014,
+      "name": "Deixa Eu Te Chamar de Moz\u00e3o",
+      "url": "https://open.spotify.com/track/2YNG9JeshL9zj6WzcFn63T"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Te Escolhi",
         "url": "https://open.spotify.com/album/0ELHnYigaQCw8JJhnzrAB0"
       },
@@ -1095,6 +1063,38 @@
       "duration_ms": 108460,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/1Kb5kcBZtriYUKznTchWQd"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+        "url": "https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Malak",
+          "url": "https://open.spotify.com/artist/6ujnZ179RF3lS79ZBAMObr"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
+      "url": "https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ"
     },
     {
       "added_at": "2024-08-16 03:01:00",

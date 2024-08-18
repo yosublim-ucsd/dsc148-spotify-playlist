@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 112439,
+  "num_followers": 112511,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca758 Vol. 3",
-        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 205187,
-      "name": "Your Body Working",
-      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Anthems Collection",
         "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 285160,
       "name": "Pump Me Up",
       "url": "https://open.spotify.com/track/3koPhZBQ9zWxOhgabspnmg"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca758 Vol. 3",
+        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 205187,
+      "name": "Your Body Working",
+      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -628,26 +628,6 @@
       },
       "artists": [
         {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        },
-        {
-          "name": "Shal Marshall",
-          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Gyal Farm",
-      "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
           "name": "Lil Rick",
           "url": "https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0"
         }
@@ -659,18 +639,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
       "artists": [
         {
-          "name": "General Grant",
-          "url": "https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m"
+          "name": "Kerwin Du Bois",
+          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
+        },
+        {
+          "name": "Shal Marshall",
+          "url": "https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d"
         }
       ],
-      "duration_ms": 234693,
-      "name": "Rev the Engine",
-      "url": "https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q"
+      "duration_ms": 221560,
+      "name": "Gyal Farm",
+      "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
       },
       "artists": [
         {
-          "name": "Zulu Lightening",
-          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
+          "name": "General Grant",
+          "url": "https://open.spotify.com/artist/1BS86a8GVlsJSUD4AaZ47m"
         }
       ],
-      "duration_ms": 259560,
-      "name": "Hold Ya Foot Up & Jump",
-      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
+      "duration_ms": 234693,
+      "name": "Rev the Engine",
+      "url": "https://open.spotify.com/track/1xmVJ2xcC3MRo3u5N9gk3q"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -719,6 +703,22 @@
       "duration_ms": 272400,
       "name": "De River",
       "url": "https://open.spotify.com/track/5FcWpanb1uSr5RGb0y9Pz1"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Zulu Lightening",
+          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Hold Ya Foot Up & Jump",
+      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Prince Unique",
-          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
-        }
-      ],
-      "duration_ms": 368653,
-      "name": "Ouch!",
-      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Trini Gold",
         "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191440,
       "name": "Party Start",
       "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Prince Unique",
+          "url": "https://open.spotify.com/artist/5Q15Bhx82J7gdO7W409gnp"
+        }
+      ],
+      "duration_ms": 368653,
+      "name": "Ouch!",
+      "url": "https://open.spotify.com/track/4L4eSiLG59FF7JqWypabPp"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -935,38 +935,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Wayne T & Silky Slim",
-          "url": "https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH"
-        }
-      ],
-      "duration_ms": 396453,
-      "name": "Doye, Doye",
-      "url": "https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Tribute to Sundar",
-      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -983,6 +951,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Wayne T & Silky Slim",
+          "url": "https://open.spotify.com/artist/7jT3JImjyBR1L228runIMH"
+        }
+      ],
+      "duration_ms": 396453,
+      "name": "Doye, Doye",
+      "url": "https://open.spotify.com/track/6zwbz3ETvzebg6hY0Sngke"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
         "name": "Folklore Riddim",
         "url": "https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Tribute to Sundar",
+      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Get Soca 2017",
-        "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        }
-      ],
-      "duration_ms": 231832,
-      "name": "Far from Finished",
-      "url": "https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Savannah Grass",
         "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 179520,
       "name": "Savannah Grass",
       "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Get Soca 2017",
+        "url": "https://open.spotify.com/album/6HJGSZhAvYCqtAoXIZrLEG"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "duration_ms": 231832,
+      "name": "Far from Finished",
+      "url": "https://open.spotify.com/track/7b2eOI6RKPPcqqdMnCOcQR"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Bicycle Ride (Soca Remix) - Single",
-        "url": "https://open.spotify.com/album/4rlWbFkNykBqgPDttjYqIs"
+        "name": "Just For You",
+        "url": "https://open.spotify.com/album/7saxdZjrEeo0bOGiEvm7mT"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Bunji Garlin",
-          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
         }
       ],
-      "duration_ms": 172747,
-      "name": "Bicycle Ride (Soca Remix)",
-      "url": "https://open.spotify.com/track/4jTg5rkTWI0unkNHrETb86"
+      "duration_ms": 338053,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/4cht5aaAj57nUVWpM40L4c"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1227,22 +1223,6 @@
       "duration_ms": 221776,
       "name": "X Man",
       "url": "https://open.spotify.com/track/51rEwFhf5mKphg1ztklftJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Just For You",
-        "url": "https://open.spotify.com/album/7saxdZjrEeo0bOGiEvm7mT"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/4qF2B6S4FgNqNMIVnbSWfh"
-        }
-      ],
-      "duration_ms": 338053,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/4cht5aaAj57nUVWpM40L4c"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1323,6 +1303,22 @@
       "duration_ms": 183533,
       "name": "Chutney Bachannal",
       "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca 101 Vol.1",
+        "url": "https://open.spotify.com/album/111Eu8ZNJ4IaHd9HJppqZG"
+      },
+      "artists": [
+        {
+          "name": "Speady",
+          "url": "https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Hold Ya Bam Bam",
+      "url": "https://open.spotify.com/track/5AQbcTkvpl8irCdFOjF71f"
     }
   ],
   "unique_name": "Soca Classics",

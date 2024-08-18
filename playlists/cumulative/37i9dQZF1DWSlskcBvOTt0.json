@@ -14417,6 +14417,28 @@
     },
     {
       "album": {
+        "name": "Ventilate (Monkey Safari Remix)",
+        "url": "https://open.spotify.com/album/4MsCxCQwdgyNdI7MMnMA9r"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476240,
+      "name": "Ventilate - Monkey Safari Remix",
+      "url": "https://open.spotify.com/track/0Z5tX9Zem4HOMnCJGEr4GC"
+    },
+    {
+      "album": {
         "name": "Celestial Bodies",
         "url": "https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT"
       },
@@ -14864,7 +14886,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 183774,
       "name": "What A Wonderful World - Greg Cerrone Remix",
       "url": "https://open.spotify.com/track/56ggEwgh0zcUaXAJbQz6Xo"

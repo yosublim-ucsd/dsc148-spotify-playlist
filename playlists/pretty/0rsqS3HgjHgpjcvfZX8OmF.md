@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover: Japandroids
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 9,921 likes - 80 songs - 4 hr 37 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 9,920 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This is MYA. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 40535,
+  "description": "This Is MYA. Los temas esenciales, todos en una lista.",
+  "num_followers": 40542,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADgaCslsV9pBKp7tt87Evbd",
+  "snapshot_id": "Zr6WgAAAAADK/haSm45WKGOvgmdhTpI/",
   "tracks": [
     {
       "added_at": null,
@@ -27,8 +27,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL PROCESO",
-        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+        "name": "SOY",
+        "url": "https://open.spotify.com/album/2ZzM2xidCrRpnQbpd2Fsd8"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/29SDCodVy2u3N6IAQjNZaA"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL PROCESO",
+        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
     },
     {
       "added_at": null,
@@ -1031,22 +1047,6 @@
       "duration_ms": 208026,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1qE7Qo0eM5P2yBVQ0kPlZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00eda y Noche",
-        "url": "https://open.spotify.com/album/4LNDD3N645KasfePnuqWbm"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "D\u00eda y Noche",
-      "url": "https://open.spotify.com/track/2NZ4Lg677xRbdrlFMOPTcF"
     }
   ],
   "unique_name": "This Is MYA",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。LISA & ROSALÍA, Post Malone, ONE OR EIGHT, Meghan Trainor and more! cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,143 likes - 78 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,164 likes - 78 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

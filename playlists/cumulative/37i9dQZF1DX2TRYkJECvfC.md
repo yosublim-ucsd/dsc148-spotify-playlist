@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-545 songs - 1 day 22 hr 5 min
+546 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Inclusive](https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/2XqIGqPFhojwErHEhfN9QQ) | 6:27 | 2021-12-08 |  |
 | [All Inclusive](https://open.spotify.com/track/4lT5XiuLmM8oeRsjsyuAXy) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [All Inclusive](https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ) | 6:27 | 2021-12-08 | 2022-01-15 |
 | [All Night Long](https://open.spotify.com/track/5YQQ9zU5mxgQcKDC3YSHnd) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [All Night Long](https://open.spotify.com/album/6dhfq40XcSorQ05h7RC7Ts) | 3:58 | 2023-02-03 |  |
+| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
 | [Alleghanys](https://open.spotify.com/track/3awOKjYfWhKg9MqHZoN831) | [Mitch Oliver](https://open.spotify.com/artist/1ckj2vv3RFouOkfBd8PxiJ) | [Alleghanys](https://open.spotify.com/album/40X8cf3IfXsqsARey9SPie) | 6:41 | 2021-12-08 | 2023-08-20 |
 | [Altitude](https://open.spotify.com/track/0jfawsq3wQKUtvoBfQRlPK) | [Hidden Voices](https://open.spotify.com/artist/7nm1s5jeLUOtV654BErfeu) | [Altitude](https://open.spotify.com/album/7d2R3XGaesuYEhQWEKpjE0) | 4:14 | 2024-01-26 |  |
 | [Amethyst](https://open.spotify.com/track/4MZBAmPqM7WJOVICPwFPst) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Amethyst](https://open.spotify.com/album/57V02f75ZzKZCOX3QFGmgF) | 4:27 | 2023-07-07 |  |
@@ -45,7 +46,7 @@
 | [Atlas](https://open.spotify.com/track/6YFRyll4isFUJrbHSeM1oJ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Little by Little](https://open.spotify.com/album/4nv9KsGfQvZwIOuzDnbWY8) | 5:50 | 2022-05-03 | 2024-04-19 |
 | [Attraction](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Attraction](https://open.spotify.com/album/6e2AkcWcXgmgzNNW6HZpwf) | 2:52 | 2021-12-08 | 2024-04-13 |
 | [Aurora](https://open.spotify.com/track/4KyEeZwIuoFH0n68qvl35b) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 4:07 | 2021-12-08 | 2024-04-13 |
-| [Bad Love](https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Bad Love](https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE) | 3:49 | 2023-10-28 |  |
+| [Bad Love](https://open.spotify.com/track/6W2ZjBmxbpzETmwJQ5h7jA) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Bad Love](https://open.spotify.com/album/2JQZHflIHUVBYaSfuGUmJE) | 3:49 | 2023-10-28 | 2024-08-18 |
 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-12-08 | 2023-04-25 |
 | [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 | 2023-05-05 |  |
 | [Be Brave](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [Be Brave / Undertow](https://open.spotify.com/album/5A7FLvpkxnXxHWGXTDFfcT) | 3:56 | 2021-12-08 | 2024-07-13 |

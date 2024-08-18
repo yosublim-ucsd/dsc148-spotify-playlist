@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,178 likes - 90 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,288 likes - 90 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [WASSER](https://open.spotify.com/track/3uGlGRBQ6zRYfgyzs89iZ8) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [WASSER](https://open.spotify.com/album/1lMtMvoGVXWUAu1zFlvN9q) | 5:18 |
 | 6 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
 | 7 | [Happening \- Dirty Doering Remix Edit](https://open.spotify.com/track/23ND4N8q53VYT0smVmlavS) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Happening \(Dirty Doering Remix Edit\)](https://open.spotify.com/album/1pbgfrxo29GfyvfoQjsb7F) | 4:24 |
-| 8 | [Poison](https://open.spotify.com/track/1hepeT1f1z9tTE1eHeEoL6) | [Belladonna](https://open.spotify.com/artist/0tOi96DSOq8s9Qadc6CxU6), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb), [Nico Chiara](https://open.spotify.com/artist/1JrRRW2RpKO3xTCo87e4pA) | [Atropa](https://open.spotify.com/album/4rqBSDX4YrCI52NmqTLbdh) | 4:27 |
+| 8 | [Poison](https://open.spotify.com/track/1hepeT1f1z9tTE1eHeEoL6) | [Belladonna](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ), [Bozza](https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb), [Nico Chiara](https://open.spotify.com/artist/1JrRRW2RpKO3xTCo87e4pA) | [Atropa](https://open.spotify.com/album/4rqBSDX4YrCI52NmqTLbdh) | 4:27 |
 | 9 | [Sun In Your Eyes](https://open.spotify.com/track/1RVciWi78EFkx4QTijnEm3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Mixed Signals EP](https://open.spotify.com/album/5cFGM02y32DmEGcPbneJIi) | 3:20 |
 | 10 | [nap.](https://open.spotify.com/track/22NjCdTYAQ569rUhIkJpfQ) | [KANTEREIT](https://open.spotify.com/artist/1esFaOBWejURSnt8DV8jms) | [ep \#1](https://open.spotify.com/album/3pieuHp0IzLYyhirANcN06) | 3:15 |
 | 11 | [IMYG \- Michael Lane Remix](https://open.spotify.com/track/7fC16hAnEOBCSwOboOxKoA) | [Elodie Gervaise](https://open.spotify.com/artist/6unop8bfA1nenk8F2DpWZB), [Michael Lane](https://open.spotify.com/artist/2VKcFvU02wlbFGhY2Lg0W3) | [IMYG \- Michael Lane Remix](https://open.spotify.com/album/1yWjw5qFVLuDSLcN585kQ7) | 5:22 |

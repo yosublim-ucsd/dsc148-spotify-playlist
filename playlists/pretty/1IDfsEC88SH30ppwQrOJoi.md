@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,465 likes - 54 songs - 2 hr 35 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,463 likes - 54 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 7 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 |
 | 8 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 |
 | 9 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 |
-| 10 | [What 2 Do](https://open.spotify.com/track/7qbCfhk0qcrUKMGhUbyFdJ) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe), [Da Loops](https://open.spotify.com/artist/7JkUuCQsurohru4VVLalWu) | [What 2 Do](https://open.spotify.com/album/4qktc8siKG4BCTUOrFX4Po) | 2:37 |
+| 10 | [What 2 Do](https://open.spotify.com/track/7qbCfhk0qcrUKMGhUbyFdJ) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe), [DaLoops](https://open.spotify.com/artist/309hwGGuwU8SeipNuGNhqn) | [What 2 Do](https://open.spotify.com/album/4qktc8siKG4BCTUOrFX4Po) | 2:37 |
 | 11 | [WHERE HAVE YOU BEEN \(feat\. Angel City\)](https://open.spotify.com/track/4Mxa09STXShl7E2hkFtm25) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW), [Angel City](https://open.spotify.com/artist/7cwm843vv3YM0XvGAf5zgL) | [WHERE HAVE YOU BEEN \(feat\. Angel City\)](https://open.spotify.com/album/7jqNoIxRjeCukIr7JVzdsP) | 3:18 |
 | 12 | [Sell Your Soul](https://open.spotify.com/track/57UOGQIxDfQLaYoNm3JSzg) | [Sam Red](https://open.spotify.com/artist/7HjYkiUnk6BYqB3UZrzVRg) | [Sell Your Soul](https://open.spotify.com/album/0eLmMMjrNq1Boup6Lr6alT) | 3:42 |
 | 13 | [Sleep When I'm Dead](https://open.spotify.com/track/7jfDt0UHiWpD5TJA8yiA7Q) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Sleep When I'm Dead](https://open.spotify.com/album/7I577n54Z2sUrjsXousEIY) | 2:40 |

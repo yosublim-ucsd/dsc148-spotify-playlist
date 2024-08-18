@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: CoCo Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,770 likes - 200 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,894 likes - 200 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 17 | [cum again?](https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [cum again?](https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN) | 3:05 |
 | 18 | [Fields](https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Fields](https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9) | 3:20 |
 | 19 | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/track/7cXgHdkX97ix7NuIavCw0L) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Whatcha Done Now \(feat\. Kenyon Dixon\)](https://open.spotify.com/album/1IWE4RBWTV3bV9WKgVPrWn) | 3:48 |
-| 20 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
+| 20 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
 | 21 | [DELIME](https://open.spotify.com/track/0P9rj5E29Bwq6nOckoqbQm) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [I'll Finish The Lyrics Later](https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW) | 4:48 |
 | 22 | [Only For Your Eyes](https://open.spotify.com/track/2ArFMotB4CV9uFQAkffZmY) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Only For Your Eyes](https://open.spotify.com/album/5p3AZP0vPLFAwOv8NuiFCT) | 2:20 |
 | 23 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 |

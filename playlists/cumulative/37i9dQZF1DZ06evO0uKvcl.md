@@ -2,7 +2,7 @@
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf\. The essential tracks, all in one playlist.
+> This Is Howlin' Wolf\. Los temas esenciales, todos en una lista.
 
 131 songs - 7 hr 1 min
 
@@ -14,9 +14,9 @@
 | [Baby How Long](https://open.spotify.com/track/7qAUeIKdz6LEdP6K8y2GLo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:55 | 2022-08-05 | 2024-07-17 |
 | [Baby Workout \- Live](https://open.spotify.com/track/3KzatBx1q40B6HMP3TLyMO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Shape I'm In \(Live Boston '73\)](https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3) | 3:03 | 2022-12-09 | 2024-07-02 |
 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 | 2022-08-07 |  |
-| [Bluebird](https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:48 | 2022-08-05 | 2024-08-17 |
+| [Bluebird](https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:48 | 2022-08-05 |  |
 | [Built For Comfort](https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:39 | 2022-08-05 |  |
-| [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 | 2024-05-24 |  |
+| [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 | 2024-05-24 | 2024-08-18 |
 | [Can't Stay Here](https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:34 | 2024-04-20 |  |
 | [Cause of It All](https://open.spotify.com/track/6kmrgoMMBUpTiqlkTcVkX8) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [From New Orleans](https://open.spotify.com/album/7ssfX6zrPwogKVu611m935) | 2:46 | 2022-08-06 | 2023-03-27 |
 | [Cause of It All](https://open.spotify.com/track/55bXtn99JxmrvFQYtbfjAA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Blues Got Soul \- Vol\. 1](https://open.spotify.com/album/42e14AeB2vzmydRXzzGaQD) | 2:46 | 2023-04-01 | 2024-04-20 |

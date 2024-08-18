@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 102872,
+  "num_followers": 102890,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Un D\u00eda En Suburbia",
+        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 276120,
+      "name": "Efectos Vocales",
+      "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "This is Not America (feat. Ibeyi)",
         "url": "https://open.spotify.com/album/5J11N6p7TBOMPE5bg9mbax"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 231332,
       "name": "This is Not America (feat. Ibeyi)",
       "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Un D\u00eda En Suburbia",
-        "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 276120,
-      "name": "Efectos Vocales",
-      "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Poes\u00eda Difusa",
+        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 316784,
+      "name": "Chico Problem\u00e1tico",
+      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Patrullando",
         "url": "https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH"
       },
@@ -331,22 +347,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Residente",
-        "url": "https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 334666,
-      "name": "Guerra",
-      "url": "https://open.spotify.com/track/04zodNGYYLI7Q7DsFgQAql"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Striptease",
         "url": "https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi"
       },
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Poes\u00eda Difusa",
-        "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
+        "name": "Residente",
+        "url": "https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
         }
       ],
-      "duration_ms": 316784,
-      "name": "Chico Problem\u00e1tico",
-      "url": "https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95"
+      "duration_ms": 334666,
+      "name": "Guerra",
+      "url": "https://open.spotify.com/track/04zodNGYYLI7Q7DsFgQAql"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Almanauta",
+        "url": "https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 456266,
+      "name": "Los Zurdos Mueren Antes",
+      "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Kase.O Jazz Magnetism",
         "url": "https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 289649,
       "name": "Rap da Rap quita",
       "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Almanauta",
-        "url": "https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV"
-      },
-      "artists": [
-        {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
-        }
-      ],
-      "duration_ms": 456266,
-      "name": "Los Zurdos Mueren Antes",
-      "url": "https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "De Pie",
+        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        }
+      ],
+      "duration_ms": 268260,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -567,30 +583,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Amor Puro (feat. La Banda Baston)",
-        "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
-      },
-      "artists": [
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        },
-        {
-          "name": "Serko Fu",
-          "url": "https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw"
-        },
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Amor Puro (feat. La Banda Baston)",
-      "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Parlante",
         "url": "https://open.spotify.com/album/3alCeWkJMPizFI5bO70mw3"
       },
@@ -615,26 +607,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Umami",
-        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
+        "name": "Amor Puro (feat. La Banda Baston)",
+        "url": "https://open.spotify.com/album/1o4F0i1k4nyoOOqQwLR4qQ"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
         },
         {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+          "name": "Serko Fu",
+          "url": "https://open.spotify.com/artist/3V0tt9H5XH3KAGobLFhoGw"
         },
         {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Afirmativo",
-      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
+      "duration_ms": 215373,
+      "name": "Amor Puro (feat. La Banda Baston)",
+      "url": "https://open.spotify.com/track/6XKTQUnpryvy723TkfEhHd"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -675,18 +667,26 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "De Pie",
-        "url": "https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY"
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
       "artists": [
         {
-          "name": "Nach",
-          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        },
+        {
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
         }
       ],
-      "duration_ms": 268260,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny"
+      "duration_ms": 190344,
+      "name": "Afirmativo",
+      "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "La teor\u00eda de la evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        },
-        {
-          "name": "Trafikante de Almas",
-          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
-        }
-      ],
-      "duration_ms": 173062,
-      "name": "La teor\u00eda de la evoluci\u00f3n",
-      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5vWUoxOP6KnDTYVENv4Kqy"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "duration_ms": 173062,
+      "name": "La teor\u00eda de la evoluci\u00f3n",
+      "url": "https://open.spotify.com/track/23fBYz4RKFRmzvo2jnedTl"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "El eslab\u00f3n perdido",
         "url": "https://open.spotify.com/album/0cnmNoOmJCsRYTruZmE8oq"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 213334,
       "name": "El eslab\u00f3n perdido",
       "url": "https://open.spotify.com/track/5oPhZx0Ap6kcJKBIfzzy6D"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Nosotras Tenemos Otros Datos",
-        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "Nosotras Tenemos Otros Datos",
-      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Vive Libre",
         "url": "https://open.spotify.com/album/0SnSjPBRaLFhrxXJbpfd3h"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 228000,
       "name": "Vive Libre",
       "url": "https://open.spotify.com/track/2upEDhmJRBtGgcFCXhQ7nV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Nosotras Tenemos Otros Datos",
+        "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "Nosotras Tenemos Otros Datos",
+      "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Chismecito",
-        "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        },
-        {
-          "name": "Audry Funk",
-          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
-        },
-        {
-          "name": "Leyton Eme",
-          "url": "https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y"
-        },
-        {
-          "name": "La Negra MeXa",
-          "url": "https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Chismecito",
-      "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Tiempos Felices",
         "url": "https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L"
       },
@@ -1479,6 +1447,38 @@
       "duration_ms": 199833,
       "name": "Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/5vfgyg1w34KJMQT2Q3ClyV"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Chismecito",
+        "url": "https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        },
+        {
+          "name": "Audry Funk",
+          "url": "https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2"
+        },
+        {
+          "name": "Leyton Eme",
+          "url": "https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y"
+        },
+        {
+          "name": "La Negra MeXa",
+          "url": "https://open.spotify.com/artist/0lPND0f84cLVxwPGRp8fhd"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Chismecito",
+      "url": "https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1535,34 +1535,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Rimas Femeninas",
-        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
-      },
-      "artists": [
-        {
-          "name": "Ximbo",
-          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
-        },
-        {
-          "name": "Joaka",
-          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
-        },
-        {
-          "name": "Moyenei",
-          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
-        },
-        {
-          "name": "Yoez",
-          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
-        }
-      ],
-      "duration_ms": 193952,
-      "name": "Rimas Femeninas",
-      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "Tierra Madre",
         "url": "https://open.spotify.com/album/1LHcXv0D9fUXR0ggFOAktv"
       },
@@ -1607,6 +1579,34 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Rimas Femeninas",
+        "url": "https://open.spotify.com/album/7E9X8WXowkHl9y5aBLf1Cq"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        },
+        {
+          "name": "Joaka",
+          "url": "https://open.spotify.com/artist/47mkr9lbZgbWsXJuK5hUUB"
+        },
+        {
+          "name": "Moyenei",
+          "url": "https://open.spotify.com/artist/0MTbabWEr8ezuynxLbc2LB"
+        },
+        {
+          "name": "Yoez",
+          "url": "https://open.spotify.com/artist/5DGKY1WXYOULLTFxhCGxFE"
+        }
+      ],
+      "duration_ms": 193952,
+      "name": "Rimas Femeninas",
+      "url": "https://open.spotify.com/track/5Sj6xJcaHGBmstqYjQAlo5"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Ser\u00e1 posible?",
         "url": "https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB"
       },
@@ -1623,6 +1623,26 @@
       "duration_ms": 158500,
       "name": "Ser\u00e1 posible?",
       "url": "https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Voy a Regresar (Escape Al Purgatorio)",
+        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
+      },
+      "artists": [
+        {
+          "name": "Zaque",
+          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
+        },
+        {
+          "name": "Doctor Destino",
+          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
+        }
+      ],
+      "duration_ms": 189910,
+      "name": "Voy a Regresar",
+      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1655,26 +1675,6 @@
       "duration_ms": 250732,
       "name": "Jamming Sin Fronteras",
       "url": "https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Voy a Regresar (Escape Al Purgatorio)",
-        "url": "https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58"
-      },
-      "artists": [
-        {
-          "name": "Zaque",
-          "url": "https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN"
-        },
-        {
-          "name": "Doctor Destino",
-          "url": "https://open.spotify.com/artist/5urer15JPbCELf17LVia7w"
-        }
-      ],
-      "duration_ms": 189910,
-      "name": "Voy a Regresar",
-      "url": "https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Siempreviva",
+        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 190528,
+      "name": "Bienvenidx",
+      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Can + Zoo \u00cdndigo",
         "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 220321,
       "name": "Magia",
       "url": "https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Siempreviva",
-        "url": "https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 190528,
-      "name": "Bienvenidx",
-      "url": "https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "Can + Zoo \u00cdndigo",
-        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
       },
       "artists": [
         {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
         }
       ],
-      "duration_ms": 259578,
-      "name": "Cuando Vayas Conmigo",
-      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
+        "name": "Can + Zoo \u00cdndigo",
+        "url": "https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
         "name": "Inedito",
         "url": "https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2024-06-21 06:01:00",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
         "name": "En el Aire",
         "url": "https://open.spotify.com/album/6DbjJ9rsVYlzrwe3fQKrea"
       },
@@ -1931,6 +1931,22 @@
       "duration_ms": 181110,
       "name": "En el Aire",
       "url": "https://open.spotify.com/track/4xG6U1KukXdSuHqDjlPsvk"
+    },
+    {
+      "added_at": "2024-06-21 06:01:00",
+      "album": {
+        "name": "Luci\u00e9rnagas",
+        "url": "https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 256062,
+      "name": "Luci\u00e9rnagas",
+      "url": "https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p"
     },
     {
       "added_at": "2024-06-21 06:01:00",
@@ -1983,22 +1999,6 @@
       "duration_ms": 158353,
       "name": "Educando Esclavos",
       "url": "https://open.spotify.com/track/0uTZJUQ9khl0BIEqEDzDbX"
-    },
-    {
-      "added_at": "2024-06-21 06:01:00",
-      "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/5ZCrYk6H6yJRjPQm0ZK2J4"
-      },
-      "artists": [
-        {
-          "name": "Rap Mexicano",
-          "url": "https://open.spotify.com/artist/5E9kASoi5uJLs9viQAqZtq"
-        }
-      ],
-      "duration_ms": 150604,
-      "name": "Rap Conciencia",
-      "url": "https://open.spotify.com/track/3Yy12Xxqugjxvs4dWKvGMD"
     }
   ],
   "unique_name": "Rap Conciencia",

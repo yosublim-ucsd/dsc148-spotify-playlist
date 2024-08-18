@@ -7643,6 +7643,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2g6yy1WQLIqj0njo3YNTK7"
+      },
+      "artists": [
+        {
+          "name": "SAKKO",
+          "url": "https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o"
+        },
+        {
+          "name": "Aize",
+          "url": "https://open.spotify.com/artist/250JJ1TsuQZUU2kH6rYnLx"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145327,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/24V6t32xBFJYBkPpvzjAqD"
+    },
+    {
+      "album": {
         "name": "On Our Way",
         "url": "https://open.spotify.com/album/6Gu1d1BgXCoHfLK9fWZQOa"
       },

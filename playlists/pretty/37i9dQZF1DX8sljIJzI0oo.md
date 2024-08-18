@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday 🔥 DJ GallixC is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,008 likes - 24 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,936,001 likes - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

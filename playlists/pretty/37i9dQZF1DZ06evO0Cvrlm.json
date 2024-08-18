@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 571956,
+  "num_followers": 571999,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAACDk9AgXiHfnPPYyZDY8voa",
+  "snapshot_id": "Zr6WgAAAAACW3uddeyffDBDUz7F23/74",
   "tracks": [
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Five",
-        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 278573,
-      "name": "An Easier Affair - Remastered 2006",
-      "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
+      "duration_ms": 306551,
+      "name": "They Won't Go When I Go - Remastered",
+      "url": "https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv"
     }
   ],
   "unique_name": "This Is George Michael",

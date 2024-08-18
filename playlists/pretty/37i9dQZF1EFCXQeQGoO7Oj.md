@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,816 likes - 455 songs - 1 day 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,835 likes - 455 songs - 1 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,9 +270,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 260 | [\(Hey Why\) Miss You Sometime](https://open.spotify.com/track/0l6lfl4PcrbPmBE08I6zp2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC) | 3:23 |
 | 261 | [Cloud Number Nine](https://open.spotify.com/track/1sdz3nsrkX4Yo42KLPrmYV) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:45 |
 | 262 | [✨](https://open.spotify.com/track/1danObd53GynoY83wRz3Ua) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 0:53 |
-| 263 | [Sleeping In](https://open.spotify.com/track/1R7siqhHn4yYe3g6FGkt8s) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/4SvSiE8d8TGEq38vsjCPyS) | 3:00 |
-| 264 | [Warrior](https://open.spotify.com/track/5FDjzNkpT7volw6by5SvXg) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:00 |
-| 265 | [the boy is mine \(with Brandy, Monica\)](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
+| 263 | [the boy is mine \(with Brandy, Monica\)](https://open.spotify.com/track/52anJ914oylWdT3CytSMYF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine \(Remix\)](https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt) | 3:33 |
+| 264 | [Sleeping In](https://open.spotify.com/track/1R7siqhHn4yYe3g6FGkt8s) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/4SvSiE8d8TGEq38vsjCPyS) | 3:00 |
+| 265 | [Warrior](https://open.spotify.com/track/5FDjzNkpT7volw6by5SvXg) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 4:00 |
 | 266 | [Codes](https://open.spotify.com/track/4s7HDBfWKvfTsG9IE8cw83) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:16 |
 | 267 | [It's All Your Fault](https://open.spotify.com/track/5ciiAMuyWB4r17mnYsev31) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR) | 3:52 |
 | 268 | [I Will Be](https://open.spotify.com/track/2rVnxIk0QkCpHNWXElXtVk) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:58 |
@@ -332,8 +332,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 322 | [Dirty Love](https://open.spotify.com/track/4I5JjW4KpDiC7kJBpCmxhH) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sorry I'm Late](https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7) | 3:18 |
 | 323 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 |
 | 324 | [Tonight I’m Getting Over You \- Remix](https://open.spotify.com/track/1AHdaLNaXi9QW3GLNHVzgF) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tonight I’m Getting Over You \(Remix\)](https://open.spotify.com/album/31rkcQeVloUtn3xJJh0vvk) | 4:03 |
-| 325 | [Show Me What You Got](https://open.spotify.com/track/6xIkmrDfxXnaj0oU5o88zk) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Show Me What You Got](https://open.spotify.com/album/4Zaf2ICdCvi6genCqkoCOY) | 3:26 |
-| 326 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
+| 325 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 |
+| 326 | [Show Me What You Got](https://open.spotify.com/track/6xIkmrDfxXnaj0oU5o88zk) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Show Me What You Got](https://open.spotify.com/album/4Zaf2ICdCvi6genCqkoCOY) | 3:26 |
 | 327 | [If That's OK With You](https://open.spotify.com/track/1LbiredDBb0gbTS5lHwN6F) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Breathless \(Expanded Edition\)](https://open.spotify.com/album/6PrJNLgXlHedN48xbaKqEG) | 3:41 |
 | 328 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 |
 | 329 | [I Don't Care \(with Justin Bieber\) \- Chronixx & Koffee Remix](https://open.spotify.com/track/2Xqm0jHnkvjzrkkVRInzUB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [I Don't Care \(with Justin Bieber\) \[Chronixx & Koffee Remix\]](https://open.spotify.com/album/1alDPx3BdkU4YBHRZ8gGLu) | 3:38 |
@@ -464,4 +464,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 454 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 | 455 | [Lucky](https://open.spotify.com/track/6gRBVftnnegpPjVtwt8zzf) | [Halseys](https://open.spotify.com/artist/7Ka4VCO8iJt1SLC12RfgF6) | [Lucky](https://open.spotify.com/album/6ZiAK398VZrX0IzPpgou32) | 3:33 |
 
-Snapshot ID: `AbZmuAAAAABJ1dOhf1u65Jv9Rqi/PTEc`
+Snapshot ID: `AbZsWQAAAAD99KMEJbM14GZecTbpUNsJ`

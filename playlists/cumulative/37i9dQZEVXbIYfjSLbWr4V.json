@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 202519,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/0Sd0nryRYUahg1YtzfIMdZ"
@@ -1575,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "WE LIVE ONLY ONCE",
         "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
       },
@@ -2310,10 +2332,28 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 175610,
       "name": "Turbo (Majestic)",
       "url": "https://open.spotify.com/track/1xVDfq8LfjJxneTZKTz570"
+    },
+    {
+      "album": {
+        "name": "Turbo (Majestic)",
+        "url": "https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175610,
+      "name": "Turbo (Majestic)",
+      "url": "https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq"
     },
     {
       "album": {
@@ -3960,6 +4000,28 @@
       "duration_ms": 143640,
       "name": "\u041e\u0432\u0435\u0440\u0441\u0430\u0439\u0437",
       "url": "https://open.spotify.com/track/4hQG4gbq8SpThcvALkeYLi"
+    },
+    {
+      "album": {
+        "name": "\u041e\u043a\u0440\u0430\u0438\u043d\u0430",
+        "url": "https://open.spotify.com/album/1ZBBU3IExZhUzvJPlNFNSe"
+      },
+      "artists": [
+        {
+          "name": "Whole Lotta Swag",
+          "url": "https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C"
+        },
+        {
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180645,
+      "name": "\u041e\u043a\u0440\u0430\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/4enCMfd6Ubyn2m9Tkb8lUV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: NIKI
 
-1,929 songs - 4 day 5 hr 51 min
+1,931 songs - 4 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-17 |  |
 | [CHIPS \(feat\. American Teeth\)](https://open.spotify.com/track/1Sw6ZQVNo79SKZNah62003) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [CHIPS \(feat\. American Teeth\)](https://open.spotify.com/album/7mnXucSsqFrJKSPPE5oL4K) | 2:47 | 2021-09-24 | 2022-04-15 |
 | [Cigarette](https://open.spotify.com/track/1WUc5gHP8wu1aRek4pjQTt) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette](https://open.spotify.com/album/0PtOidDgC3aRpGvdtAT7nZ) | 3:20 | 2021-02-17 | 2021-02-28 |
-| [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 |  |
+| [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cigarettes & Wine \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo) | 3:01 | 2024-02-02 | 2024-08-18 |
 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 | 2024-03-22 |  |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 |  |
 | [Classic](https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0) | [Tori Templet](https://open.spotify.com/artist/7ulINFYFROOmdGxDhsjMqG) | [Classic](https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh) | 2:47 | 2020-11-17 | 2021-01-28 |
@@ -1455,7 +1455,7 @@
 | [Save Me From Myself](https://open.spotify.com/track/29fw7pUEE0AOsv2EmfY0Bm) | [MAX RAD](https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z) | [Save Me From Myself, Pt\. 2](https://open.spotify.com/album/2Rtmp7ULUAN96u1RyP8W5D) | 4:56 | 2020-10-13\* | 2021-05-28 |
 | [Save Myself](https://open.spotify.com/track/6QDZlGAY1njNqAdOM6PryZ) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Save Myself](https://open.spotify.com/album/1xqgvYXcHZvCr9VthrD4mn) | 3:44 | 2020-11-20 | 2022-06-01 |
 | [Savior](https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Savior](https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs) | 2:21 | 2023-05-12 | 2023-07-13 |
-| [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2024-04-19 |  |
+| [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2024-04-19 | 2024-08-18 |
 | [say goodbye](https://open.spotify.com/track/6JdU7eaEl9fPAq0sEVNzGc) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [say goodbye](https://open.spotify.com/album/1EmJAmRdDyfQAqhXOvKzSB) | 1:26 | 2021-06-02 | 2022-04-15 |
 | [Say It Again](https://open.spotify.com/track/3DF9XSRvf0dFT3Om0Rj4KJ) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Say It Again](https://open.spotify.com/album/1mgTS0tdQowCQkrOPxMVOG) | 3:36 | 2020-10-16 | 2021-05-20 |
 | [Say It's Over](https://open.spotify.com/track/3mmOZNLF9RwO85BD37j4A1) | [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Say It's Over](https://open.spotify.com/album/38qdPjDavVVwc4x21z2jEh) | 3:35 | 2022-10-21 | 2022-11-12 |
@@ -1594,7 +1594,9 @@
 | [Static](https://open.spotify.com/track/59pc8X6CM8HnzX55xV8xzd) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Stock Child Wonder](https://open.spotify.com/album/3P6u0YQUVULgVFGFH07tgt) | 4:04 | 2020-11-03 | 2021-01-15 |
 | [Stay](https://open.spotify.com/track/67py7gDTwqKs5geMfyFsMc) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Stay](https://open.spotify.com/album/4Cj8plZvZdsiKpOfntOpVD) | 3:32 | 2020-10-13\* | 2021-05-25 |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-07-28 | 2024-04-26 |
+| [stay late](https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [stay late](https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC) | 2:53 | 2024-08-17 |  |
 | [Stayaway \- Now, Now Remix](https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Stayaway \(Now, Now Remix\)](https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV) | 3:19 | 2020-10-16 | 2021-10-12 |
+| [Stayed at the Party](https://open.spotify.com/track/4oBGba0gIMq5AKc6tTywwX) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Stayed at the Party](https://open.spotify.com/album/3fNOwnasCq1Aw0Y4M3Pstq) | 3:33 | 2024-08-17 |  |
 | [Steep](https://open.spotify.com/track/4KwCVDiQdrcpQs0SPn5Maa) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Steep](https://open.spotify.com/album/6a9oFkzTey2Hri3qnq1FVw) | 2:16 | 2024-02-09 | 2024-02-29 |
 | [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 | 2024-05-13 |
 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 | 2024-05-24 | 2024-08-10 |

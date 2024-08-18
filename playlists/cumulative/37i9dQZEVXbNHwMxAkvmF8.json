@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 157636,
       "name": "bangkok",
       "url": "https://open.spotify.com/track/22BKxxJomFWgMsYn1Y7Fxn"
@@ -6519,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "EZ AZ \u00c1RA",
+        "url": "https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "EZ AZ \u00c1RA",
+      "url": "https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ"
+    },
+    {
+      "album": {
         "name": "EZER NAP",
         "url": "https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel"
       },
@@ -7756,7 +7774,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -16482,7 +16500,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"

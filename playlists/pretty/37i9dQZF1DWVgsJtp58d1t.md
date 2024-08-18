@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY">Travis Scott</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,173 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,255 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 43 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 |
 | 44 | [Prized Possession \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4dxenGUpWzBiFPwHq7dx10) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:41 |
 | 45 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
-| 46 | [Amanda Seals](https://open.spotify.com/track/6m5VWJFQHZ400g13uo49xN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [B.A Badd](https://open.spotify.com/artist/6NwGigx2sW0Dh33j3br7LO), [Reallyhiiim](https://open.spotify.com/artist/5Tc7AliIqdZjfJYwniCIr6) | [Amanda Seals](https://open.spotify.com/album/4E0qndYRE622nA06VSz2eg) | 2:20 |
+| 46 | [Amanda Seals](https://open.spotify.com/track/6m5VWJFQHZ400g13uo49xN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [B.a Badd](https://open.spotify.com/artist/0TNhrj7WL0fpEIYe8CmzNM), [Reallyhiiim](https://open.spotify.com/artist/5Tc7AliIqdZjfJYwniCIr6) | [Amanda Seals](https://open.spotify.com/album/4E0qndYRE622nA06VSz2eg) | 2:20 |
 | 47 | [FIJI \(feat\. Cruza\)](https://open.spotify.com/track/6HubPIhCjRxkwR2zJa2ZLB) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT), [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [FIJI \(feat\. Cruza\)](https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi) | 2:54 |
 | 48 | [YOU DON’T KNOW \(feat\. Alex Isley\)](https://open.spotify.com/track/4WVarJWtCuMLNPsOgLMBOC) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [i do this sh\*t in my sleep](https://open.spotify.com/album/41WKxZBjXPuqwPVbSWEhIg) | 2:03 |
 | 49 | [FOREVER](https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOREVER](https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI) | 4:29 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 52 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 |
 | 53 | [Polynesian](https://open.spotify.com/track/27ATssFYewh8Vcg6wd6Udq) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Polynesian](https://open.spotify.com/album/1h5dJ992NoupgWlLlsubjI) | 3:00 |
 | 54 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
-| 55 | [Everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
+| 55 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
 | 56 | [Stubborn \(with Asake\)](https://open.spotify.com/track/4cpxSBb2TRx8WJhQM1Jdpk) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn \(with Asake\)](https://open.spotify.com/album/6VgHyE8Qnldqdf6Ab8JR0b) | 2:56 |
 | 57 | [Cry](https://open.spotify.com/track/3zNOCF3Bd8oNjARH2EwQWY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Cry](https://open.spotify.com/album/5ZenmsQ9Xq8p370jcHaGhl) | 3:10 |
 | 58 | [High Life](https://open.spotify.com/track/1N3w24NO5PLKygjGmzljki) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [High Life](https://open.spotify.com/album/6jxrPcypdXLK8CLftooswt) | 2:55 |

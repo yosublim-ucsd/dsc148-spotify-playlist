@@ -1,12 +1,12 @@
 {
   "description": "This is At the Drive-In. The essential tracks, all in one playlist.",
-  "num_followers": 4074,
+  "num_followers": 4078,
   "original_name": "This Is At the Drive-In",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAAAhGw/QpC9Rp/qgP6K/TRTS",
+  "snapshot_id": "Zr6WgAAAAAA6dLCU9z/vId2y5jKhftWL",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in\u2022ter a\u2022li\u2022a",
-        "url": "https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X"
+        "name": "Acrobatic Tenement",
+        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 206680,
-      "name": "Tilting At The Univendor",
-      "url": "https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu"
+      "duration_ms": 206639,
+      "name": "Initiation",
+      "url": "https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acrobatic Tenement",
-        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
+        "name": "in\u2022ter a\u2022li\u2022a",
+        "url": "https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 206639,
-      "name": "Initiation",
-      "url": "https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg"
+      "duration_ms": 206680,
+      "name": "Tilting At The Univendor",
+      "url": "https://open.spotify.com/track/31tEi0FX1c4bABw8yDNiRu"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 182440,
-      "name": "For Now..We Toast",
-      "url": "https://open.spotify.com/track/3pVSEkKGSa17i20MQ1sody"
+      "duration_ms": 205493,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/4oSyqbzyC7g8x0dAMFANLn"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 167959,
-      "name": "Ebroglio",
-      "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
+      "duration_ms": 275159,
+      "name": "Ticklish",
+      "url": "https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 275159,
-      "name": "Ticklish",
-      "url": "https://open.spotify.com/track/52u5f5h1sARj7zEmHi2o6G"
+      "duration_ms": 167959,
+      "name": "Ebroglio",
+      "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
     }
   ],
   "unique_name": "This Is At the Drive-In",

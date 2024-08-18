@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 136208,
+  "num_followers": 136235,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAAAnVwFei8FEjYaZ+fUOBWSi",
+  "snapshot_id": "Zr6WgAAAAAChSKnhQdNL7ti0cKMDouMU",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Batabid",
-      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bastards",
         "url": "https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Batabid",
+      "url": "https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Med\u00falla",
         "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
       },
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Triumph Of A Heart",
-      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
+      "duration_ms": 83826,
+      "name": "Show Me Forgiveness",
+      "url": "https://open.spotify.com/track/09b3awFKYpX8AHUYaF04ty"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 83826,
-      "name": "Show Me Forgiveness",
-      "url": "https://open.spotify.com/track/09b3awFKYpX8AHUYaF04ty"
+      "duration_ms": 244213,
+      "name": "Triumph Of A Heart",
+      "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
     },
     {
       "added_at": null,

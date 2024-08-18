@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-10",
-  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Aline Barros",
   "tracks": [
     {
@@ -1146,6 +1146,32 @@
       "duration_ms": 343051,
       "name": "Ressuscita-me",
       "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
+    },
+    {
+      "album": {
+        "name": "Reverencia - En Vivo",
+        "url": "https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394541,
+      "name": "Reverencia - En Vivo",
+      "url": "https://open.spotify.com/track/3nYbR4yt07haMUeEMFq5hE"
     },
     {
       "album": {

@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 176424,
       "name": "Brought The Heat Back",
       "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
@@ -2306,7 +2306,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -9280,7 +9280,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 117120,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/0SU6AGO9uKLQwCOfFugx7s"
@@ -9298,7 +9298,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 117211,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/1xeVF7CVNZ3i4FwRaolkmp"
@@ -9432,7 +9432,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 188265,
       "name": "Real Bandido",
       "url": "https://open.spotify.com/track/4OXTtJdQSklCMFyU0D0yoB"
@@ -11500,6 +11500,32 @@
       "duration_ms": 181237,
       "name": "Tu gata pide cast1go",
       "url": "https://open.spotify.com/track/6fBJ4CA0qs2S0lSAqqjDMk"
+    },
+    {
+      "album": {
+        "name": "URIEL LOZANO / Zapada EN VIVO en UN POCO DE RUIDO!",
+        "url": "https://open.spotify.com/album/5UecDIxoca5aq0Xko7VcuE"
+      },
+      "artists": [
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128218,
+      "name": "Tu La M\u00e1s Bella",
+      "url": "https://open.spotify.com/track/2fMiCHqLXMKC54sbfYugJK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-986 songs - 2 day 1 hr 0 min
+988 songs - 2 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,8 @@
 | [Hotbox](https://open.spotify.com/track/5dXvWrwLhWdEeDdpYD4E08) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Hotbox](https://open.spotify.com/album/5HEe9U91C9uUsL9DwUxdmh) | 2:20 | 2022-03-12 | 2022-03-14 |
 | [How Do I Make You Love Me?](https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-01-08 | 2022-01-10 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-10-28 | 2023-11-25 |
-| [Hüznü Hecem](https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/148veG8wJsbaT3RrrQljiG) | 2:38 | 2024-04-15 |  |
+| [Hüznü Hecem](https://open.spotify.com/track/3OKCljxHDet7MaQ83o6l6s) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/5bumMSoADtx3ifkdPiGhAe) | 2:38 | 2024-08-17 |  |
+| [Hüznü Hecem](https://open.spotify.com/track/6pZ31N4gd3Yk9277ptUHjb) | [Yener Çevik](https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9) | [Sokak Dili ve Edebiyatı](https://open.spotify.com/album/148veG8wJsbaT3RrrQljiG) | 2:38 | 2024-04-15 | 2024-08-18 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-01 | 2024-05-19 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-06-03 | 2021-09-24 |
 | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/track/0zSRhN1sX2F9DbE9KxNcIS) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [ICARDI / PREGA TILL I DIE](https://open.spotify.com/album/0EYPzmfR0dtePkP6q3HE8O) | 1:59 | 2023-09-16 | 2023-09-18 |
@@ -682,6 +683,7 @@
 | [OKYANUS](https://open.spotify.com/track/3MVFApkSoJ2v3q86f0FYlQ) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [OKYANUS](https://open.spotify.com/album/42dc5NUDn98uL08HK6ig9E) | 2:58 | 2022-02-19 | 2022-02-25 |
 | [Olamam İflah](https://open.spotify.com/track/2PW6hfd7Dhz5Eo3voCCdXr) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:18 | 2021-05-30 | 2021-06-28 |
 | [Olmazlara İnat](https://open.spotify.com/track/11AkXmBdjwu4upt22GjJrG) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Olmazlara İnat](https://open.spotify.com/album/5IBpgY79AaRGIgAHFVr0fg) | 2:49 | 2022-05-25 | 2023-03-04 |
+| [Olmazlara Vuruluyorum](https://open.spotify.com/track/72Zc1OvPqpZUqxArlAS0QW) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm), [Duygu Edis](https://open.spotify.com/artist/7KOQluNA9CHVas8jMOYzWS) | [Olmazlara Vuruluyorum](https://open.spotify.com/album/7s59Zs0B1Xsi801oREenpo) | 3:37 | 2024-08-17 |  |
 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 | 2023-08-24 | 2023-12-01 |
 | [Olsun](https://open.spotify.com/track/5hOHq0l62utc2aP7YSso2Y) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Aşka Kapandım](https://open.spotify.com/album/5tPIe2OATNfHB4Bk6Vl7iN) | 4:27 | 2021-03-27\* | 2021-04-19 |
 | [olsun](https://open.spotify.com/track/1QtI9v2S1Bm4iwo3w4401A) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [olsun](https://open.spotify.com/album/2PdUDMWWFF966ZEykNa4Ej) | 2:04 | 2022-08-06 | 2022-09-04 |
@@ -790,7 +792,7 @@
 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 | 2024-03-16 |  |
 | [Sen Dönene Kadar](https://open.spotify.com/track/40oOgUUwhtKbewdsyzozaN) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/2VFP4NAAG4bwuxrMzKwTLh) | 3:09 | 2023-05-20 | 2023-08-27 |
 | [Sen Evlisin](https://open.spotify.com/track/6Q0LyWaNDsLi6KefnEKAMd) | [Gülden Karaböcek](https://open.spotify.com/artist/2wioAsnSZ6JmA6I7Y7PDkc) | [Ağlıyorsam Yaşıyorum \- Gülden Karaböcek Klasikleri, Vol\. 2](https://open.spotify.com/album/4JlswY1NUkXOU6mDd8tKfW) | 3:40 | 2024-02-12 | 2024-08-17 |
-| [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 | 2024-08-10 |  |
+| [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 | 2024-08-10 | 2024-08-18 |
 | [Sen Varsın Diye](https://open.spotify.com/track/3b8UW227uLkRDvd0w9e1Sw) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Sen Varsın Diye](https://open.spotify.com/album/06TJC0aOwTlxakxEv8UQNc) | 3:46 | 2021-07-04 | 2022-03-07 |
 | [Sen ve Yıldız](https://open.spotify.com/track/3tIoAdD3rSPCYdtR55TXyj) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sen ve Yıldız](https://open.spotify.com/album/1nQRXlzrnkEN8qJAoj4pra) | 3:18 | 2023-11-04 | 2023-11-06 |
 | [Senden Güzeli Mi Var](https://open.spotify.com/track/4ehQRRPPelxT1hIYAy1pgy) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [VEDA TÜRKÜSÜ](https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2) | 3:23 | 2024-02-03 | 2024-05-17 |

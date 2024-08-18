@@ -1,12 +1,12 @@
 {
-  "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 489000,
+  "description": "This is Lizzo. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "num_followers": 488981,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADpbX+0qVrzuEN7gzOdOgpz",
+  "snapshot_id": "Zr6WgAAAAACoK9VhJ1mWVJF22AVsUXKa",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Eyes",
-        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 226442,
-      "name": "New Eyes (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill, dummy",
         "url": "https://open.spotify.com/album/1Jlt2mp0aew89zqL1S6l86"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 528480,
       "name": "Sleepdrone/Superposition",
       "url": "https://open.spotify.com/track/3F2KI6FI5w8WadLKkJvyLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Eyes",
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 226442,
+      "name": "New Eyes (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/3lHLjAIId4Vl27OY49pkJE"
     },
     {
       "added_at": null,

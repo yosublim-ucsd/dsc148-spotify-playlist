@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 208417,
+  "description": "This Is Los Cadetes De Linares. Los temas esenciales, todos en una lista.",
+  "num_followers": 208510,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAAB0OnEOCksvlJBlCgoBV2xo",
+  "snapshot_id": "Zr6WgAAAAABOayKDiLQhHZhTfqVzUzdS",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6"
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 165586,
-      "name": "Menos Que Nada",
-      "url": "https://open.spotify.com/track/46mK5SstpnGYBhwSrWf0re"
+      "duration_ms": 190466,
+      "name": "Eleazar del Fierro",
+      "url": "https://open.spotify.com/track/1sil71b3xI44UP2wHkmWjV"
     }
   ],
   "unique_name": "This Is Los Cadetes De Linares",

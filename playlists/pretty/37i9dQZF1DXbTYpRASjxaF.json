@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131192,
+  "num_followers": 131185,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,34 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Bem Vinda a SP",
+        "url": "https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Bem Vinda a SP",
+      "url": "https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -1363,34 +1391,6 @@
       "duration_ms": 164571,
       "name": "Belo Horizonte 30 Graus A Noite",
       "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Bem Vinda a SP",
-        "url": "https://open.spotify.com/album/5F57Uld3RPSV1X7KzRrYO9"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Bem Vinda a SP",
-      "url": "https://open.spotify.com/track/0EdDsbTrDZOaaxctEZiYEl"
     },
     {
       "added_at": "2024-08-16 03:01:00",

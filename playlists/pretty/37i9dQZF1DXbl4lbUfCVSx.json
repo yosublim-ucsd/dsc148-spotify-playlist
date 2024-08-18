@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32341,
+  "num_followers": 32338,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "The Very Best Of Jackito (Pou ti moun yo)",
-        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
-      },
-      "artists": [
-        {
-          "name": "Jackito",
-          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
-        }
-      ],
-      "duration_ms": 292362,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Malade (feat. Richard Cave)",
         "url": "https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 309107,
       "name": "Malade (feat. Richard Cave)",
       "url": "https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "The Very Best Of Jackito (Pou ti moun yo)",
+        "url": "https://open.spotify.com/album/0LSK0lr70DojaaTTY05B6g"
+      },
+      "artists": [
+        {
+          "name": "Jackito",
+          "url": "https://open.spotify.com/artist/3YOoyesZpGJlXnWyk4PaUK"
+        }
+      ],
+      "duration_ms": 292362,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/5tLLnxk53HxTkZXo23jzxD"
     },
     {
       "added_at": "2024-08-16 06:26:05",
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-08-16 06:26:05",
       "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2024-08-16 06:26:05",
-      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 402933,
       "name": "Is It Real?",
       "url": "https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst"
+    },
+    {
+      "added_at": "2024-08-16 06:26:05",
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2024-08-16 06:26:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Maudy Ayunda
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,336 likes - 104 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,359 likes - 104 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 17 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 |
 | 18 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 |
 | 19 | [Cerminanku](https://open.spotify.com/track/1ZCTR4Jb7LOmeBmqrRzGfg) | [Benny Ciko](https://open.spotify.com/artist/1HhDSDNcf9DDfZIlE8hH3L) | [Cerminanku](https://open.spotify.com/album/03zEklUEWhOvfGAQ0x7KUX) | 4:29 |
-| 20 | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/track/3JlyzzPhzQOfcxuVN2Jp7K) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh) | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/album/5LBuVYLoQ2EVFY0R7AkR9r) | 3:41 |
+| 20 | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/track/3JlyzzPhzQOfcxuVN2Jp7K) | [Kris Dayanti](https://open.spotify.com/artist/1kxeDtvOP5c28ynNEtp3Qh), [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [Yuni Shara](https://open.spotify.com/artist/23Oj0QXzYD7iIWYG2sfMDI) | [POCO\-POCO MENYALA INDONESIA](https://open.spotify.com/album/5LBuVYLoQ2EVFY0R7AkR9r) | 3:41 |
 | 21 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 |
 | 22 | [Will I Ever Love Again?](https://open.spotify.com/track/64bczVWu6Y5ZHiNPxJaXaO) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Jordan](https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu) | 3:33 |
 | 23 | [Berjalan Adanya](https://open.spotify.com/track/6ZLlgoRysbx0XWWRuMWR1N) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Berjalan Adanya](https://open.spotify.com/album/3IEDfeJRAQam1cMQInbqmN) | 4:06 |

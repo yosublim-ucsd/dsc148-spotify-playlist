@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59199,
+  "num_followers": 59198,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Motorcycle",
-        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 166741,
-      "name": "Motorcycle",
-      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Varf\u00f6r slutar allt i t\u00e5rar",
         "url": "https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 244600,
       "name": "Varf\u00f6r slutar allt i t\u00e5rar",
       "url": "https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Motorcycle",
+        "url": "https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 166741,
+      "name": "Motorcycle",
+      "url": "https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Jeansjacka",
         "url": "https://open.spotify.com/album/4F5rh6QUQNOudxl8ph3lgu"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 231000,
       "name": "Jeansjacka",
       "url": "https://open.spotify.com/track/5VQLwMSUdFIHOj7ao6Rg4R"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Idioti",
-        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
-      },
-      "artists": [
-        {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
-        }
-      ],
-      "duration_ms": 193327,
-      "name": "Idioti",
-      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Hils Din Mor (feat. Anne Linnet)",
         "url": "https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 172998,
       "name": "Hils Din Mor (feat. Anne Linnet)",
       "url": "https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Idioti",
+        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "duration_ms": 193327,
+      "name": "Idioti",
+      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -583,6 +583,22 @@
       "duration_ms": 155300,
       "name": "Innerst Inne",
       "url": "https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -775,6 +791,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sandy Karlo",
         "url": "https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ"
       },
@@ -803,22 +835,6 @@
       "duration_ms": 188176,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Above Love",
-        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Above Love",
-      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Vilken del av oss gick fel?",
         "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 178560,
       "name": "Katterna",
       "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Above Love",
+        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Above Love",
+      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Crying Dove",
-        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
-      },
-      "artists": [
-        {
-          "name": "Edgar Homeros",
-          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
-        }
-      ],
-      "duration_ms": 158552,
-      "name": "Upset",
-      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Days Like These",
         "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 140031,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Crying Dove",
+        "url": "https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7"
+      },
+      "artists": [
+        {
+          "name": "Edgar Homeros",
+          "url": "https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg"
+        }
+      ],
+      "duration_ms": 158552,
+      "name": "Upset",
+      "url": "https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 199683,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "STILL",
         "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "You\u2019re Breaking My Heart",
-        "url": "https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59"
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
       },
       "artists": [
         {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
         }
       ],
-      "duration_ms": 209091,
-      "name": "You\u2019re Breaking My Heart",
-      "url": "https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9"
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1163,6 +1163,22 @@
       "duration_ms": 149333,
       "name": "Free",
       "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "You\u2019re Breaking My Heart",
+        "url": "https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "duration_ms": 209091,
+      "name": "You\u2019re Breaking My Heart",
+      "url": "https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Right Here",
-        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
-      },
-      "artists": [
-        {
-          "name": "Fee van Deelen",
-          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
-        }
-      ],
-      "duration_ms": 223676,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Alltid f\u00f6r alltid",
         "url": "https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 200857,
       "name": "Alltid f\u00f6r alltid",
       "url": "https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4VLIa6SNzRP3NZeA0ZhtlV"
+      },
+      "artists": [
+        {
+          "name": "Fee van Deelen",
+          "url": "https://open.spotify.com/artist/0YWNM5Kfhj7w5MBOgq8W1B"
+        }
+      ],
+      "duration_ms": 223676,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0a0A8jVA0TfQkv9zCGbsP6"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1335,18 +1351,34 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Babymoma",
-        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
       },
       "artists": [
         {
-          "name": "Felix Sandman",
-          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Babymoma",
-      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
+      "duration_ms": 150170,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Se p\u00e5 oss",
+        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
+      },
+      "artists": [
+        {
+          "name": "Far\u00e5ker",
+          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
+        }
+      ],
+      "duration_ms": 209327,
+      "name": "Se p\u00e5 oss",
+      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1367,18 +1399,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Se p\u00e5 oss",
-        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
+        "name": "Babymoma",
+        "url": "https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv"
       },
       "artists": [
         {
-          "name": "Far\u00e5ker",
-          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
+          "name": "Felix Sandman",
+          "url": "https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy"
         }
       ],
-      "duration_ms": 209327,
-      "name": "Se p\u00e5 oss",
-      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
+      "duration_ms": 172000,
+      "name": "Babymoma",
+      "url": "https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1415,22 +1447,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Diabla",
-        "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
-      },
-      "artists": [
-        {
-          "name": "Zoe Lobos",
-          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1451,6 +1467,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
+      },
+      "artists": [
+        {
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Ord som l\u00e4mnats kvar",
         "url": "https://open.spotify.com/album/5dMkrrRuILXMuoQ0C43Gji"
       },
@@ -1463,22 +1495,6 @@
       "duration_ms": 395240,
       "name": "Ord som l\u00e4mnats kvar",
       "url": "https://open.spotify.com/track/7GSxiR9jtTGz7DLrXxRoUI"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
-      },
-      "artists": [
-        {
-          "name": "Julia Logan",
-          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
-        }
-      ],
-      "duration_ms": 218666,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1499,6 +1515,22 @@
       "duration_ms": 130000,
       "name": "I Miss My Adidas",
       "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5lgVfF0JPiYDnL6espVfgv"
+      },
+      "artists": [
+        {
+          "name": "Julia Logan",
+          "url": "https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0"
+        }
+      ],
+      "duration_ms": 218666,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/2EKz3OWAJPZOufOpgBmeYe"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1535,6 +1567,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Havet",
+        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
+      },
+      "artists": [
+        {
+          "name": "Marcus Berggren",
+          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Havet",
+      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Jackrabbit",
         "url": "https://open.spotify.com/album/6hyRcNW7sC85JHhDE0krBe"
       },
@@ -1563,6 +1611,26 @@
       "duration_ms": 191740,
       "name": "Jag dr\u00f6mmer mig fri",
       "url": "https://open.spotify.com/track/1eH7fE5AZvPC8CxQrUAim3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Pussycat.",
+        "url": "https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs"
+      },
+      "artists": [
+        {
+          "name": "\u00c4ngie",
+          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
+        },
+        {
+          "name": "Skoj",
+          "url": "https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Pussycat.",
+      "url": "https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1615,6 +1683,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5"
+      },
+      "artists": [
+        {
+          "name": "Shenie Fogo",
+          "url": "https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy"
+        }
+      ],
+      "duration_ms": 184196,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "ALL OVER",
         "url": "https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB"
       },
@@ -1627,22 +1711,6 @@
       "duration_ms": 223000,
       "name": "ALL OVER",
       "url": "https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1731,90 +1799,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Leave Me Alone",
-        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Leave Me Alone",
-      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Rollercoaster",
-        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 150170,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Pussycat.",
-        "url": "https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs"
-      },
-      "artists": [
-        {
-          "name": "\u00c4ngie",
-          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
-        },
-        {
-          "name": "Skoj",
-          "url": "https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E"
-        }
-      ],
-      "duration_ms": 236842,
-      "name": "Pussycat.",
-      "url": "https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Havet",
-        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
-      },
-      "artists": [
-        {
-          "name": "Marcus Berggren",
-          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Havet",
-      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5"
-      },
-      "artists": [
-        {
-          "name": "Shenie Fogo",
-          "url": "https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy"
-        }
-      ],
-      "duration_ms": 184196,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "MATTER",
         "url": "https://open.spotify.com/album/0BkB3Hwmw0aQ7VgVC3mI9V"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 165176,
       "name": "MATTER",
       "url": "https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy"
     }
   ],
   "unique_name": "p\u00e5 repeat",

@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover: AL SHAMI.",
-  "num_followers": 178936,
+  "num_followers": 179029,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Wassellik Khabar",
-        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 236697,
-      "name": "Wassellik Khabar",
-      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "Weinak",
         "url": "https://open.spotify.com/album/4MLPuCdNMwTZ2S1sDp6xg3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 213591,
       "name": "Weinak",
       "url": "https://open.spotify.com/track/4OsDW6scGeKCLjhjr7pFQI"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "Wassellik Khabar",
+        "url": "https://open.spotify.com/album/54i4ODUCUZVVu93T81NAWT"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "duration_ms": 236697,
+      "name": "Wassellik Khabar",
+      "url": "https://open.spotify.com/track/1BPrELTps0QElWvT6guZZb"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Ma Bzon",
-        "url": "https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 251769,
-      "name": "Ma Bzon",
-      "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "Baddi Hada Hebbou",
         "url": "https://open.spotify.com/album/7lBwCNhfMEM9jvjNJKdgsJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 254441,
       "name": "Baddi Hada Hebbou",
       "url": "https://open.spotify.com/track/2RWrtK1GhcCquT83dYyCTs"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+        "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 339591,
+      "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
+      "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
-        "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
+        "name": "Ma Bzon",
+        "url": "https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM"
       },
       "artists": [
         {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 339591,
-      "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
-      "url": "https://open.spotify.com/track/7HOuUa0bFPdJ4nFoIdK3PH"
+      "duration_ms": 251769,
+      "name": "Ma Bzon",
+      "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
     }
   ],
   "unique_name": "Arabic Love Songs",

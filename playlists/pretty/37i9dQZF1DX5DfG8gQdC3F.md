@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Post Malone, Drake, Lady Gaga & Bruno Mars, Tinashe and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,487 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,598 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 82 | [Cool\-Doug, at Night](https://open.spotify.com/track/6vqfGsLHkr6I741MUKl8v7) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Jacob Jeffries](https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB) | [Cool\-Doug, at Night](https://open.spotify.com/album/4F8znk4P0tcwrbGXUBYycS) | 3:32 |
 | 83 | [Ragdoll](https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Ragdoll](https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw) | 3:03 |
 | 84 | [Crocs](https://open.spotify.com/track/7oDCF3GNh1kRBRnFVFLjaz) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Crocs](https://open.spotify.com/album/4qgXrawwpuwXOPX45M8TkF) | 2:14 |
-| 85 | [Do You Want the Truth](https://open.spotify.com/track/6smGhMMIrbIvKb7aS6ERXA) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [Do You Want the Truth](https://open.spotify.com/album/3gQOBTtKGGIrwExb0xKwxi) | 2:06 |
+| 85 | [Do You Want the Truth](https://open.spotify.com/track/6smGhMMIrbIvKb7aS6ERXA) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn), [Emily Gordon](https://open.spotify.com/artist/3vvWc36PUYywtMYEGQIvaz) | [Do You Want the Truth](https://open.spotify.com/album/3gQOBTtKGGIrwExb0xKwxi) | 2:06 |
 | 86 | [Scarecrow Freestyle](https://open.spotify.com/track/5Ns3rTjNalml1sEZ1D6fhe) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Scarecrow](https://open.spotify.com/album/3xSv6tDxsKG7r5XKy9f9JK) | 1:39 |
 | 87 | [D&T](https://open.spotify.com/track/1GcWy9khekaRVprPAJHpcx) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [D&T](https://open.spotify.com/album/4GpYBGSbYk4gEvywwpBQFY) | 3:05 |
 | 88 | [Borrowed Light](https://open.spotify.com/track/7sAAHG1B9z8Ah0NHnvLo5X) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Borrowed Light](https://open.spotify.com/album/7HmXb5IJFZG2VCbqWWf7Z1) | 4:08 |

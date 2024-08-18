@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Sex Week
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,742 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,762 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 21 | [Can't Be Replaced](https://open.spotify.com/track/5CNIP9G7LJX4JeaVF1XxBd) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Can't Be Replaced](https://open.spotify.com/album/7xJIMVxZethRdgC4RR2XLV) | 3:39 |
 | 22 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 |
 | 23 | [Want U Gone](https://open.spotify.com/track/2Un8twj5MmECWhicSkJN4u) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Want U Gone + Look the Other Way](https://open.spotify.com/album/4ssozu9mV1froB5Qp3ZEHj) | 3:13 |
-| 24 | [She Never Took a Chance On Me](https://open.spotify.com/track/775Yt2WcD168sArd0kpGJ8) | [MacGregor Burns](https://open.spotify.com/artist/4xGQxgAsQQ1HhujizkQUcE), [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [She Never Took a Chance On Me](https://open.spotify.com/album/0G31sTetVG5R3wgE1dkqPY) | 2:51 |
+| 24 | [She Never Took a Chance On Me](https://open.spotify.com/track/775Yt2WcD168sArd0kpGJ8) | [MacGregor Burns](https://open.spotify.com/artist/4xGQxgAsQQ1HhujizkQUcE) | [She Never Took a Chance On Me](https://open.spotify.com/album/0G31sTetVG5R3wgE1dkqPY) | 2:51 |
 | 25 | [Lonnie Frisbee](https://open.spotify.com/track/1yFRrquTPANa3sCmYo9TGI) | [Rex Laurent](https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2) | [Lonnie Frisbee](https://open.spotify.com/album/3yJ7imqee3RVWmV6CdGz0u) | 3:56 |
 | 26 | [The Answer](https://open.spotify.com/track/2tOAaP3Z4mmoNJnnw5bCaj) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [I've Seen The Lizard People](https://open.spotify.com/album/3T1lBPGKa3vEt2hIqrfzAf) | 2:11 |
 | 27 | [Special Occasions](https://open.spotify.com/track/24rVmtoVMIf77BoNTuEsQb) | [Raymondouu](https://open.spotify.com/artist/1vMUEoUwuJXajAddcGuwvN) | [Special Occasions](https://open.spotify.com/album/0VUA5eTWnPbgs5oYdbStob) | 4:03 |

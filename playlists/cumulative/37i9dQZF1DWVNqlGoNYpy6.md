@@ -4,7 +4,7 @@
 
 > Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-57 songs - 2 hr 26 min
+58 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,11 +12,12 @@
 | [A Sunrise Worth Seeing](https://open.spotify.com/track/7MvJLVHlE3SOjyh2ECJv5Z) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:34 | 2024-04-16 |  |
 | [A Well\-Earned Celebration](https://open.spotify.com/track/2J5kjWpOvoojHcghpErQOf) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:15 | 2023-12-21 |  |
 | [A Well\-Earned Celebration](https://open.spotify.com/track/5ZUYdCtNlCbR5QNWzWh2Wo) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:15 | 2023-12-21 | 2024-04-19 |
-| [Across the Northern Lands](https://open.spotify.com/track/1566pnoyacEqSOfQCcWTWg) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:25 | 2024-04-16 |  |
+| [Across the Northern Lands](https://open.spotify.com/track/1566pnoyacEqSOfQCcWTWg) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:25 | 2024-04-16 | 2024-08-18 |
 | [Ancient Magic](https://open.spotify.com/track/6a4bSEuSSJS1qk6FOOpIJG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:18 | 2024-04-16 |  |
 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 | 2023-12-21 |  |
 | [Before the Light Fades](https://open.spotify.com/track/5336SqUUjOBZr5xZs9yrgh) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 2:06 | 2024-04-16 |  |
 | [Beyond the Journey's End](https://open.spotify.com/track/0BIBe7a741zmbUduRUJngu) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 5:40 | 2024-04-16 |  |
+| [bliss](https://open.spotify.com/track/3UMRhdJ5UDK68YiW0AqDtH) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/0yiK7Xlg6Fbhn7UtxrWzxa) | 4:19 | 2024-08-17 |  |
 | [Demon's Bane](https://open.spotify.com/track/1Bu2Kdo2b25Szu4v0smu3U) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack](https://open.spotify.com/album/7l8T1J3dHH9jdgLq0cIB5O) | 3:52 | 2024-04-16 |  |
 | [Departures](https://open.spotify.com/track/0685eTA9oi3n3serdzggVo) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:02 | 2023-12-21 |  |
 | [Departures](https://open.spotify.com/track/0ELm5TYoEC3CIBkkO7zvUk) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:02 | 2023-12-21 | 2024-04-19 |

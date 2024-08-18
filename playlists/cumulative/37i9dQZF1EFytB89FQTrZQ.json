@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181949,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/7vFsyoyjH4sxmRFwYBi6cr"
       },

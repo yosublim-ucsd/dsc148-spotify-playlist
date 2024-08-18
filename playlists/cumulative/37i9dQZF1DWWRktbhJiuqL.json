@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0OGPbEiLcVPG0Ie47FVjSE"
+      },
+      "artists": [
+        {
+          "name": "SWEET SPINE",
+          "url": "https://open.spotify.com/artist/1ugmCkxd2MSyvkVA9puoff"
+        }
+      ],
+      "date_added": "2024-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168204,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5HOSm48F0JwaxYaiEuX9j0"
+    },
+    {
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
       },
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 284426,
       "name": "Man in the Box",
       "url": "https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC"

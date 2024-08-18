@@ -25151,6 +25151,24 @@
     },
     {
       "album": {
+        "name": "Soft Moment",
+        "url": "https://open.spotify.com/album/7ymJUo9vSHOoPwl6kAQWcW"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60256,
+      "name": "Soft Moment - Piano Lullaby Version",
+      "url": "https://open.spotify.com/track/67qqAQw783pEL9cvqDniRO"
+    },
+    {
+      "album": {
         "name": "Harp and Piano Lullabies",
         "url": "https://open.spotify.com/album/67Snvekmj1dkwpIU4CJUi7"
       },

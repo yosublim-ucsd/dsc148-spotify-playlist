@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 19140,
+  "num_followers": 19189,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAAAwk3GA+YTix3pa8MDhKFY+",
+  "snapshot_id": "Zr6WgAAAAAAaY82PbzZPkavxMiizT2eK",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bow Bow Bow (F My Baby Dad)",
+        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
+      },
+      "artists": [
+        {
+          "name": "chriseanrock",
+          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 84768,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bow Bow Bow (F My Baby Dad)",
-        "url": "https://open.spotify.com/album/6CvkZfqD5LphlU26bOwisX"
-      },
-      "artists": [
-        {
-          "name": "chriseanrock",
-          "url": "https://open.spotify.com/artist/3Idu5nTg2S3wrYwVkPqiwa"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 84768,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/2RRzWlyQXOAmzgluA2oif5"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Trust Em",
+        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 210102,
+      "name": "Don't Trust Em",
+      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess (Deluxe)",
         "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 218234,
       "name": "Ghetto Princess (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/7yqOIcohmWYSGosoIKHc3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Trust Em",
-        "url": "https://open.spotify.com/album/5XcP3WvR8fGJKIVi1QzWwV"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 210102,
-      "name": "Don't Trust Em",
-      "url": "https://open.spotify.com/track/1eMTwnuRrFNYlVbIjCCkSq"
     },
     {
       "added_at": null,

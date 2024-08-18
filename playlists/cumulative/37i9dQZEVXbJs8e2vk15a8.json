@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -10289,6 +10289,24 @@
     },
     {
       "album": {
+        "name": "Dejame Pensar (Remix Intro)",
+        "url": "https://open.spotify.com/album/5kusUKNfZ4g012FyDGQNxZ"
+      },
+      "artists": [
+        {
+          "name": "BRUNO MATEUS",
+          "url": "https://open.spotify.com/artist/2zmNIPoyK9m7yOAcZkzN7r"
+        }
+      ],
+      "date_added": "2024-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171193,
+      "name": "Dejame Pensar - Remix Intro",
+      "url": "https://open.spotify.com/track/4BovCcDdsln8G7yCUczeOn"
+    },
+    {
+      "album": {
         "name": "Dejame Saber",
         "url": "https://open.spotify.com/album/3kY5sANzBWpIgY11kiR2bG"
       },
@@ -13140,7 +13158,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 138466,
       "name": "Enfoc\u00e1 en Lo M\u00edo",
       "url": "https://open.spotify.com/track/0pRC262JW8sbIiYQ8AlimA"
@@ -39928,7 +39946,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 152133,
       "name": "TNT",
       "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"

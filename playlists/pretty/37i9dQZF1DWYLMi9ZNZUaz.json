@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: Andree Right Hand",
-  "num_followers": 95722,
+  "num_followers": 95740,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-08-15 10:57:33",
       "album": {
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
+    },
+    {
+      "added_at": "2024-08-15 10:57:33",
+      "album": {
         "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
         "url": "https://open.spotify.com/album/5G6By1MBIwE0P4ixJ06x1M"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 291750,
       "name": "Bu\u1ed3n Hay Vui (feat. RPT MCK, Obito, Ronboogz & Boyzed)",
       "url": "https://open.spotify.com/track/1khMN4Adfi3LrZvxOq4YM5"
-    },
-    {
-      "added_at": "2024-08-15 10:57:33",
-      "album": {
-        "name": "nh\u1eafn nh\u1ee7",
-        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 241190,
-      "name": "nh\u1eafn nh\u1ee7",
-      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
       "added_at": "2024-08-15 10:57:33",
@@ -275,8 +275,8 @@
     {
       "added_at": "2024-08-16 12:00:00",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
-        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
+        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
       },
       "artists": [
         {
@@ -284,25 +284,29 @@
           "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "Quang H\u00f9ng MasterD",
-          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         },
         {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
         },
         {
-          "name": "C\u00f4ng D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
+          "name": "Anh T\u00fa Atus",
+          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
         },
         {
-          "name": "NICKY",
-          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
+          "name": "JSOL",
+          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+        },
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
         }
       ],
-      "duration_ms": 256000,
-      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
-      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
+      "duration_ms": 252428,
+      "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
+      "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
     },
     {
       "added_at": "2024-08-15 10:57:33",
@@ -428,29 +432,29 @@
           "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+          "name": "Qu\u00e2n A.P",
+          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
         },
         {
-          "name": "ERIK",
-          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+          "name": "Ph\u00e1p Ki\u1ec1u",
+          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
         },
         {
-          "name": "Anh T\u00fa Atus",
-          "url": "https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo"
+          "name": "Quang Trung",
+          "url": "https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph"
         },
         {
-          "name": "JSOL",
-          "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
+          "name": "Ali Ho\u00e0ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh"
         },
         {
-          "name": "Orange",
-          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
         }
       ],
-      "duration_ms": 252428,
-      "name": "NG\u00c1O NG\u01a0 (feat. HIEUTHUHAI, ERIK, Anh T\u00fa Atus, JSOL & Orange)",
-      "url": "https://open.spotify.com/track/64PCybDxes3edHijrcsPV4"
+      "duration_ms": 252307,
+      "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
+      "url": "https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea"
     },
     {
       "added_at": "2024-08-15 10:57:33",
@@ -651,8 +655,8 @@
     {
       "added_at": "2024-08-16 12:00:00",
       "album": {
-        "name": "ANH TRAI \"SAY HI\", T\u1eadp 7",
-        "url": "https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ"
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 4",
+        "url": "https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk"
       },
       "artists": [
         {
@@ -660,29 +664,25 @@
           "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
         },
         {
-          "name": "Qu\u00e2n A.P",
-          "url": "https://open.spotify.com/artist/2NRcG7E1j2sSi8vnUzCcpi"
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
         },
         {
-          "name": "Ph\u00e1p Ki\u1ec1u",
-          "url": "https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su"
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
         },
         {
-          "name": "Quang Trung",
-          "url": "https://open.spotify.com/artist/4cLYlDISnWaErAitB8kRph"
+          "name": "C\u00f4ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
         },
         {
-          "name": "Ali Ho\u00e0ng D\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/4RPhZ2g5GYff0hKNBlZKXh"
-        },
-        {
-          "name": "L\u00e2m B\u1ea3o Ng\u1ecdc",
-          "url": "https://open.spotify.com/artist/3E0b68wCGYihuHBtlasfm9"
+          "name": "NICKY",
+          "url": "https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw"
         }
       ],
-      "duration_ms": 252307,
-      "name": "REGRET (feat. Qu\u00e2n A.P, Ph\u00e1p Ki\u1ec1u, Quang Trung, Ali Ho\u00e0ng D\u01b0\u01a1ng & L\u00e2m B\u1ea3o Ng\u1ecdc)",
-      "url": "https://open.spotify.com/track/5bDYi5F6QeZvjxzF6WUfea"
+      "duration_ms": 256000,
+      "name": "CATCH ME IF YOU CAN (feat. Quang H\u00f9ng MasterD, Negav, C\u00f4ng D\u01b0\u01a1ng & Nicky)",
+      "url": "https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj"
     },
     {
       "added_at": "2024-08-15 10:57:33",

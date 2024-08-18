@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-59 songs - 3 hr 3 min
+60 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Name On It \(feat\. Burna Boy\)](https://open.spotify.com/track/6wQugAr2CdLrjvACWNSvv5) | [Four of Diamonds](https://open.spotify.com/artist/42qq1SQuTH1AT2daN3fLMt), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Name On It](https://open.spotify.com/album/71UHFVp0KFVh3T1JrpKkQV) | 3:34 | 2024-08-07 |  |
 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Good Morning Kevin](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 | 2024-08-07 |  |
 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 | 2024-08-07 |  |
-| [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-08-07 |  |
+| [OMG](https://open.spotify.com/track/29Jeg15T0emRfj4AXBbcvu) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:13 | 2024-08-17 |  |
+| [OMG](https://open.spotify.com/track/5EfJsHmAPhnzQB4L6wz5FT) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 2:13 | 2024-08-07 | 2024-08-18 |
 | [On You \- Radio Edit](https://open.spotify.com/track/3XyrVgRNgHzCjvr4lPUlza) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [On You](https://open.spotify.com/album/0SregtuDjXDnCdsQ8xj1Bt) | 2:50 | 2024-08-07 |  |
 | [Overthinking \(feat\. Dyo\)](https://open.spotify.com/track/40g9cVf1iv08ZPDfMneVh6) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:23 | 2024-08-07 |  |
 | [Papaya \(feat\. Lord Afrixana\)](https://open.spotify.com/track/3CFzETSNTZKAyC2jHQ8Ero) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Lord Afrixana](https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 3:18 | 2024-08-07 |  |

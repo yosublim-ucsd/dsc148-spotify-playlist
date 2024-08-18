@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-248 songs - 12 hr 49 min
+249 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [I Forgot That You Existed \- Acoustic](https://open.spotify.com/track/2YlBd0cQ9kRGRf46JfUj3c) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [I Forgot That You Existed \(Acoustic\)](https://open.spotify.com/album/4p4LEqksvppC7zZcsxE276) | 2:51 | 2023-02-26 |  |
 | [I Get The Sweetest Feeling \- Acoustic](https://open.spotify.com/track/6MYxowxw5LT2LzE5pwCdHt) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [I Get The Sweetest Feeling \(Acoustic\)](https://open.spotify.com/album/4w1g8oUimwJzYhmCK4O67j) | 3:35 | 2019-10-13 | 2022-06-18 |
 | [I Got You Babe \- Acoustic](https://open.spotify.com/track/1upeWsF2tpALKVtHrbWNXt) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [I Got You Babe \(Acoustic\)](https://open.spotify.com/album/351g52REOmegsGgbgTGBM5) | 2:46 | 2024-07-01 |  |
-| [I Knew You Were Waiting \(For Me\) \- Acoustic](https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Knew You Were Waiting \(For Me\) \[Acoustic\]](https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn) | 3:17 | 2021-08-20 |  |
+| [I Knew You Were Waiting \(For Me\) \- Acoustic](https://open.spotify.com/track/5o15hfwF7dpgzKSjtmIlnF) | [Kaiak](https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso), [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [I Knew You Were Waiting \(For Me\) \[Acoustic\]](https://open.spotify.com/album/3dpXGbIHbU9UWPagO5zXQn) | 3:17 | 2021-08-20 | 2024-08-18 |
 | [I Only Want to Be With You \- Acoustic](https://open.spotify.com/track/7FwXCHczHaCuLoneBque7B) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [I Only Want to Be With You \(Acoustic\)](https://open.spotify.com/album/0oSKcdd3xTEP3H0qR0oQbf) | 2:10 | 2022-07-15 | 2023-01-07 |
 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 | 2022-09-09 | 2023-01-07 |
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
@@ -181,6 +181,7 @@
 | [Save the Best for Last \- Acoustic](https://open.spotify.com/track/2ZWFn3j8hz50G6bigMOLqj) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Save the Best for Last \(Acoustic\)](https://open.spotify.com/album/2ZLa6AUy1jNRGSdipoYdl3) | 2:45 | 2023-09-01 | 2024-02-10 |
 | [Say My Name \- Acoustic](https://open.spotify.com/track/39vsqGcS9eHZYwfuvjLcKY) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Say My Name \(Acoustic\)](https://open.spotify.com/album/1jNMfAU9v8HNIfI0mDjbie) | 2:05 | 2024-07-05 |  |
 | [Say Something \- Live from Spotify NYC](https://open.spotify.com/track/43cKoF3PLrsJSqGKgeqagV) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Spotify Sessions](https://open.spotify.com/album/4ipsAUmKH4ieH5Yh9tln9t) | 4:03 | 2019-10-13 |  |
+| [Say What You Want \- Acoustic](https://open.spotify.com/track/5eHuMdzFkMlid5tZcYIm7y) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Say What You Want \(Acoustic\)](https://open.spotify.com/album/1cJKl6O6qtecbzCMwQ4LCU) | 3:19 | 2024-08-17 |  |
 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 | 2019-10-13 |  |
 | [She's Electric \- Acoustic](https://open.spotify.com/track/7Fqmr5xwLksBUgku1bfBFO) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [She's Electric \(Acoustic\)](https://open.spotify.com/album/1vdMBDG6eCCsInfSiIqc0E) | 3:36 | 2021-04-08 |  |
 | [Show Me Love \- Acoustic](https://open.spotify.com/track/3K6XGKHABwuTGex94DRZuy) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Show Me Love \(Acoustic\)](https://open.spotify.com/album/1pKNXryic0E9p65bLM25MP) | 3:11 | 2019-10-13 | 2022-08-07 |

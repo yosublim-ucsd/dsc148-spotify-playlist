@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84333,
+  "num_followers": 84357,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -347,7 +347,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
+        "name": "Jagged Little Pill - 2015 Remaster",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -607,7 +607,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
+        "name": "Jagged Little Pill - 2015 Remaster",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Schubert Dip",
-        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
-      },
-      "artists": [
-        {
-          "name": "EMF",
-          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Unbelievable",
-      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 256333,
       "name": "Machinehead - Remastered",
       "url": "https://open.spotify.com/track/1wrhhPzd2ncJPNgUcGgBGg"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Schubert Dip",
+        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
+      },
+      "artists": [
+        {
+          "name": "EMF",
+          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -831,7 +831,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
+        "name": "Jagged Little Pill - 2015 Remaster",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Feeling Strangely Fine (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6KaEKR4KsmFWVrb0ktQo2T"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 279813,
       "name": "Secret Smile",
       "url": "https://open.spotify.com/track/1OhctVvuAU8kVCtzDWsCTj"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2024-07-12 14:58:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=\_Gk8lPnkRVSCHyLGM3\_UBA">STATE OFFF</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,607 likes - 67 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,657 likes - 67 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

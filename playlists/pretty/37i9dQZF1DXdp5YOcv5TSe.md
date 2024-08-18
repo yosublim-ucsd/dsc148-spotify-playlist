@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,607 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,744 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 42 | [Problema](https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 1](https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo) | 2:53 |
 | 43 | [West Coast Shit \(feat\. Tyga & Quavo\)](https://open.spotify.com/track/1JDhNQ0oOT7XpclZn3aQ8F) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:12 |
 | 44 | [Alo Alo](https://open.spotify.com/track/5fOv8CRT37aPGkKBr7ljXT) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Alo Alo](https://open.spotify.com/album/3HiU30ETAplbvdzFCibMJy) | 3:28 |
-| 45 | [Marvelous Day \(feat\. Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/4kfEy7h6bWBS5OaDpccTap) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Mood](https://open.spotify.com/album/4X4eIXh8tgQPiwxkxsp5lz) | 3:43 |
-| 46 | [Napapiri](https://open.spotify.com/track/5oJtgSpYNcB13VJewlNVFn) | [Rasta](https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP), [PAVILLION](https://open.spotify.com/artist/30HssesKIHEbgYfPM7EaDg), [Jahve](https://open.spotify.com/artist/47mtdyaAChiDUTvyBu1Ocf) | [Napapiri](https://open.spotify.com/album/4ufzGdUJcrZea0Guy4KZtI) | 2:48 |
+| 45 | [Napapiri](https://open.spotify.com/track/5oJtgSpYNcB13VJewlNVFn) | [Rasta](https://open.spotify.com/artist/6eiVM12aC3SP5n0fMg9fqP), [PAVILLION](https://open.spotify.com/artist/30HssesKIHEbgYfPM7EaDg), [Jahve](https://open.spotify.com/artist/47mtdyaAChiDUTvyBu1Ocf) | [Napapiri](https://open.spotify.com/album/4ufzGdUJcrZea0Guy4KZtI) | 2:48 |
+| 46 | [Marvelous Day \(feat\. Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/4kfEy7h6bWBS5OaDpccTap) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Mood](https://open.spotify.com/album/4X4eIXh8tgQPiwxkxsp5lz) | 3:43 |
 | 47 | [Shakespeare](https://open.spotify.com/track/5Ms6phtE3zdTYgNo5hlqzQ) | [Sushi.b](https://open.spotify.com/artist/0LL65Vn5QZSZZ5fYSvdUKF) | [Shakespeare](https://open.spotify.com/album/0hiTGVtG65OvVaHiMYroBc) | 8:54 |
 | 48 | [Again](https://open.spotify.com/track/01TV5z8ij5Lipu7dB6BaQq) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ) | [Come With Me](https://open.spotify.com/album/2IPrSr4rOtsy6c4AaRjfbl) | 6:03 |
 | 49 | [Somebody That I Used To Know](https://open.spotify.com/track/5fmqHkDeezD3eFxU52kVyF) | [HYPER BOYZ](https://open.spotify.com/artist/6ZEqI6H3n5xzdKJdJEUw5o), [Deepierro](https://open.spotify.com/artist/6RjLqpWiji9AdDMVNm6QrX) | [Somebody That I Used To Know](https://open.spotify.com/album/0LhH26IhizANNyTbJCu1rl) | 2:36 |

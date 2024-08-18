@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI?si=PHyghI\-TTzms7L3xkPFnKw">Qendresa</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,928 likes - 250 songs - 12 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,967 likes - 250 songs - 12 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 3 | [Playing With Fire](https://open.spotify.com/track/04RTHjA20H65nhX9REmVQu) | [Ballad](https://open.spotify.com/artist/5rzpNZtFsVj1CxuF9qzeRx), [Jaye Locke](https://open.spotify.com/artist/6etTs24y7PrNhUggFGCGf9) | [Playing With Fire](https://open.spotify.com/album/73yJ7Lj6yuNLE6tRUcAosl) | 2:17 |
 | 4 | [Unconditional.](https://open.spotify.com/track/3GErocZrwEKDKygFuCt8xm) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Fold the Light.](https://open.spotify.com/album/4RSlbX1iPrIKRPSdYUVpUJ) | 3:56 |
 | 5 | [Little Things](https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 3:53 |
-| 6 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
+| 6 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 |
 | 7 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 |
 | 8 | [RATED](https://open.spotify.com/track/2akUWr1L50cbBAj3TgNZDv) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [RATED](https://open.spotify.com/album/1xs9Asz6cu91Qd7qLQpQIL) | 4:00 |
 | 9 | [BLUE](https://open.spotify.com/track/3e2HOdU7Aay3555IbGXYgz) | [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [BLUE](https://open.spotify.com/album/5QTJaMrH4rFWspgOXuOG1r) | 2:15 |

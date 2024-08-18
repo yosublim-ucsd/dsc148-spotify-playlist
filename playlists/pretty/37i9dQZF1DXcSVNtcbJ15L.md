@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 
 > vamo saí qqer dia?
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,123 likes - 65 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,113 likes - 65 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSVNtcbJ15L.md) - [plain]
 | 40 | [ping pong](https://open.spotify.com/track/44hMfAKIEFgSCBdgjVVjHr) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [ping pong](https://open.spotify.com/album/6UuwUOUJpp0vwpQgFdviTN) | 3:05 |
 | 41 | [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 |
 | 42 | [Coquinha de Café](https://open.spotify.com/track/2wKsVwVQzc9tp9zdNRmwB1) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY), [Guilherme Galeno](https://open.spotify.com/artist/31aLhhJNZBcilYlPCXxdGv) | [Coquinha de Café](https://open.spotify.com/album/3HQ8wBouWUkLeljTZLKmtO) | 3:22 |
-| 43 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/59KSYb5cU9MXCMzZTAPXcc) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 |
+| 43 | [Só Eu](https://open.spotify.com/track/6MOKtdcZrMOjTFcAOqKyQQ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Só Eu](https://open.spotify.com/album/5BP4n60jKYxbs3HSo2944E) | 2:52 |
 | 44 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 |
 | 45 | [Rádio\-Relógio](https://open.spotify.com/track/6hrq44XyDxvIkhemm70sbd) | [meot](https://open.spotify.com/artist/20xtrfwLue7Sslipsez0NI), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Rádio\-Relógio](https://open.spotify.com/album/1Y2Nb9q1h3WK2NjSdVGX6u) | 2:40 |
 | 46 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 |

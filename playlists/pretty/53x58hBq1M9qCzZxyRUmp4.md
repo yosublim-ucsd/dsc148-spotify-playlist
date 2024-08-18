@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > All the essentials of Pop\-Punk
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,403 likes - 125 songs - 6 hr 47 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 10,404 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 86 | [I'm Just a Kid](https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:18 |
 | 87 | [Punk Rawk Show](https://open.spotify.com/track/4cbXRMGdKMjeWei1rOZz8M) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Teenage Politics](https://open.spotify.com/album/5VyGtU4ME2PvVyryEEquB8) | 2:32 |
 | 88 | [The Getaway](https://open.spotify.com/track/4AtL1TzYZwlc1weVBjcHpC) | [Ten Foot Pole](https://open.spotify.com/artist/27HBzx6Ox43GPbWLECgbFW) | [Insider](https://open.spotify.com/album/2F6wPYSTM5lK6KaC0t6cNw) | 3:40 |
-| 89 | [Jesus of Suburbia](https://open.spotify.com/track/10lT3pp9QERGOWiIzLx4We) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(Deluxe\)](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 9:08 |
+| 89 | [Jesus of Suburbia](https://open.spotify.com/track/10lT3pp9QERGOWiIzLx4We) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- Deluxe](https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g) | 9:08 |
 | 90 | [Is This The Part?](https://open.spotify.com/track/5nCQKkbo3HTzHP4vSMiZlX) | [One Dollar Short](https://open.spotify.com/artist/2HYmOuO5G5xogPTVyAotJu) | [Eight Days Away](https://open.spotify.com/album/5zXCOw5qfuiuK2FwqXRdLO) | 2:57 |
 | 91 | [Still](https://open.spotify.com/track/4gd1XbH3adOCB078KP7Dbd) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose](https://open.spotify.com/album/0mKXj9hXclmhvassTP0LCw) | 3:04 |
 | 92 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |

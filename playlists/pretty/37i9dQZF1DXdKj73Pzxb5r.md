@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Refo dan Fauna
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Ikkubaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,621 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,628 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2) | 6:34 |
-| 2 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 |
+| 1 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 |
+| 2 | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2) | 6:34 |
 | 3 | [Lionel](https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Lionel](https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS) | 3:31 |
 | 4 | [62 mi \(outer space\)](https://open.spotify.com/track/2XhHKrXnBovVAjnujwDBCu) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [62 mi \(outer space\)](https://open.spotify.com/album/5TtpXg7P59VFo2MuO9dwYS) | 4:12 |
 | 5 | [Till We're Together Again](https://open.spotify.com/track/2Dzg1wL6lYAXcJrXIQLvAA) | [Javier Parisi](https://open.spotify.com/artist/79zGNMGG2AU1xjzdaVfZKW), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De), [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe), [Vega Antares](https://open.spotify.com/artist/3V2FnFodLNcHCTMDs2r7Y6) | [Till We're Together Again](https://open.spotify.com/album/50EUXjsdPEaVH2Rci4DeKc) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 |
 | 100 | [Segalanya Bermula](https://open.spotify.com/track/3pJYW5zdKh6PZWQ7OOWhi6) | [Kabar Burung](https://open.spotify.com/artist/6Uo4ELuiXfJZVy7QKPjf8m) | [Gita Masa Lalu](https://open.spotify.com/album/7aHKjuQbnWXZagPo9TNIUE) | 3:06 |
 
-Snapshot ID: `Zr8o8QAAAACArZwSlRNG8Z+YZfk4KWRU`
+Snapshot ID: `ZsBJiwAAAAClFWhLhan4ACHhFfHBtqRA`

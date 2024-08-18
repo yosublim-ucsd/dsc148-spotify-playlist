@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> Musica per non smettere mai di crederci 🏆 💪🏋️  Italvolley in cover, storico oro olimpico! 🥇
+> Musica per non smettere mai di crederci 🏆 💪🏋️
 
 302 songs - 15 hr 59 min
 

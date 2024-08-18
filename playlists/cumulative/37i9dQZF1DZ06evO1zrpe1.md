@@ -2,7 +2,7 @@
 
 ### [This Is Adriana Ríos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
 
-> This is: Adriana Ríos\. Alle wichtigen Tracks in einer Playlist.
+> This is Adriana Ríos\. The essential tracks, all in one playlist.
 
 45 songs - 2 hr 24 min
 

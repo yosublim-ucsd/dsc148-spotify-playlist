@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 6220,
+  "num_followers": 6223,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAADIesi4MhswDSL1SfWS5O3T",
+  "snapshot_id": "Zr6WgAAAAACluGA7fVobw4Ge1coD276R",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sucessagem",
         "url": "https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 135521,
       "name": "O PAPO",
       "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
     },
     {
       "added_at": null,

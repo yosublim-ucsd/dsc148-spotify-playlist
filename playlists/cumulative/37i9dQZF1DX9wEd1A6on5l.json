@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk"
+      },
+      "artists": [
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "date_added": "2024-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg"
+    },
+    {
+      "album": {
         "name": "Wara Wara Szn",
         "url": "https://open.spotify.com/album/6ToVRccANedcEkdMa1eQQs"
       },
@@ -3227,7 +3245,7 @@
     },
     {
       "album": {
-        "name": "Everyday",
+        "name": "everyday",
         "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
@@ -3240,7 +3258,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166350,
-      "name": "Everyday",
+      "name": "everyday",
       "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-18",
       "duration_ms": 151868,
       "name": "Gara (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
@@ -6847,7 +6865,7 @@
     },
     {
       "album": {
-        "name": "Ogechi (feat. Davido) [Remix]",
+        "name": "Ogechi (feat. Davido) - Remix",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
       },
       "artists": [
@@ -9650,12 +9668,12 @@
           "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
           "name": "EeQue",
           "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "S.N.E",
+          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
         }
       ],
       "date_added": "2024-03-20",

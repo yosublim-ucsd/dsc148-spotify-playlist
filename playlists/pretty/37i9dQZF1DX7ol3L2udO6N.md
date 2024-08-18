@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,380 likes - 98 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,383 likes - 98 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 27 | [FREEDOM](https://open.spotify.com/track/5a3hNyBur14edCYew4xl6X) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [globe \(DELUXE EDITION\)](https://open.spotify.com/album/5qAQDv4TfSMriZPiP76NHX) | 5:12 |
 | 28 | [Hey Dude](https://open.spotify.com/track/66Vp0lK0dCcNOaG6zV6dzO) | [Kula Shaker](https://open.spotify.com/artist/6bGcpvHbRHg8s0wiNyIZK1) | [K](https://open.spotify.com/album/36jftdZTGKwWquJeTmE3vE) | 4:10 |
 | 29 | [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 |
-| 30 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
+| 30 | [Ironic \- 2015 Remaster](https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \- 2015 Remaster](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:50 |
 | 31 | [YELLOW YELLOW HAPPY](https://open.spotify.com/track/5GMJ1RUSMrk09nztjNjVC0) | [Pocket Biscuits](https://open.spotify.com/artist/440bRdM7PVWhSoOtDiIWPL) | [THANKS 20th Edition ～Pocket Biscuits Single Collection+](https://open.spotify.com/album/0AvFt9BUkEOs5Bz4yqVPJc) | 4:58 |
 | 32 | [Feel My Heart](https://open.spotify.com/track/1DU9j9q7u68ZJS25Em1voZ) | [Every Little Thing](https://open.spotify.com/artist/7dZHl3ZmH21XpCwvcMlnml) | [Feel My Heart](https://open.spotify.com/album/5H27PskX9xdlK4MNGzwdDV) | 4:24 |
 | 33 | [マイ フレンド](https://open.spotify.com/track/4mt3qRk1HWnk4kyvjbp8Jk) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [マイ フレンド](https://open.spotify.com/album/0pZXSUADHSImR5emCEln8R) | 4:19 |

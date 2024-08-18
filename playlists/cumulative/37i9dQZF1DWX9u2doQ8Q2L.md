@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,487 songs - 3 day 18 hr 19 min
+1,488 songs - 3 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/track/3CbnAD1zSEGhmrYpvJoEdd) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [関口シンゴ](https://open.spotify.com/artist/3fKuiwNIx4A4ljcpAUKHIz) | [on our journey feat.Shingo Sekiguchi](https://open.spotify.com/album/7mCwxg24thEUZm7UWF60VM) | 3:19 | 2022-08-30 | 2022-10-12 |
 | [On&On](https://open.spotify.com/track/47YQIiLsGbMYH25PTQrZuE) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [On&On](https://open.spotify.com/album/228RotYYsP1zB9KNgrky21) | 3:31 | 2023-08-15 | 2023-08-23 |
 | [On&On](https://open.spotify.com/track/5mpxJR7pqqDJxuBQXl1htb) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [On&On](https://open.spotify.com/album/46kx1c8pey8xocBGREIdj5) | 3:31 | 2023-08-15 | 2023-08-17 |
+| [Once Upon a Night](https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Once Upon a Night](https://open.spotify.com/album/3PDXFarV1SrfDwaWQBArbe) | 3:45 | 2024-08-14 |  |
 | [one call](https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [one call](https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1) | 1:54 | 2023-08-31 | 2023-10-13 |
 | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/track/2gL2T5zAaOwGnOMNUruFvu) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [One More Kiss \(feat\. ひかり\)](https://open.spotify.com/album/0qOjr2ynr5oVcJEmnCIJyE) | 4:18 | 2022-09-06 | 2022-10-05 |
 | [one summer love](https://open.spotify.com/track/3fvXXLcvtFfeVVYaAXJhAg) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [one summer love](https://open.spotify.com/album/6BUYn2vAxX2Uw3ojEe264N) | 2:56 | 2023-08-01 | 2023-08-23 |
@@ -812,7 +813,7 @@
 | [Road](https://open.spotify.com/track/6f5OzmQxiXh6viB0WQP1C2) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Thirst](https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1) | 5:18 | 2022-12-08 | 2022-12-28 |
 | [Roll](https://open.spotify.com/track/0HJLF7MON8XtyVMxZTySfP) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/0TDwqGmj6AX3qYmxA2oK95) | 3:35 | 2022-12-20 | 2022-12-22 |
 | [Roll](https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Roll](https://open.spotify.com/album/6iIVpIxJXZy6ZQixh46N3F) | 3:35 | 2022-12-20 | 2023-04-07 |
-| [Roller Coaster](https://open.spotify.com/track/1S8IvwFCo2f8mWIXHwsXGz) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Roller Coaster](https://open.spotify.com/album/30Igugtlr2EieiG5Ug24PP) | 3:42 | 2024-04-16 |  |
+| [Roller Coaster](https://open.spotify.com/track/1S8IvwFCo2f8mWIXHwsXGz) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Roller Coaster](https://open.spotify.com/album/30Igugtlr2EieiG5Ug24PP) | 3:42 | 2024-04-16 | 2024-08-18 |
 | [rollin'](https://open.spotify.com/track/07K14kPnyJW9Gxj1F4Wzbn) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [rollin'](https://open.spotify.com/album/39CklsCqIBVvnsy7KU9wos) | 3:21 | 2022-05-26 | 2022-06-22 |
 | [ROLLS ROYCE](https://open.spotify.com/track/0u1Eao2c5cn0YgEPfHiEm3) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [ROLLS ROYCE](https://open.spotify.com/album/7JrJAUsSw1Rz7xVdvuYjv9) | 2:51 | 2023-11-28 | 2023-12-06 |
 | [Romanticが止まらない](https://open.spotify.com/track/5qIVoPU6dcjWtdO9eiowE3) | [中塚武とThe SKAMOTTS](https://open.spotify.com/artist/31vd1VpoP0Ff4vvWsIqbmg) | [Romanticが止まらない](https://open.spotify.com/album/6mV1WRGG0zQ6dxn4qpdWN7) | 3:53 | 2023-06-27 | 2023-07-26 |

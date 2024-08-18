@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Yoss Bones en portada. ",
-  "num_followers": 14682,
+  "num_followers": 14679,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Dulcinea",
-        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La mejor noche d mi vida <3",
-      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "PAC-MAN",
         "url": "https://open.spotify.com/album/48EaiFxq0j5dywhlAQNYd3"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 209759,
       "name": "PAC-MAN",
       "url": "https://open.spotify.com/track/10mihya6eHDgKZwbTowXiQ"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Dulcinea",
+        "url": "https://open.spotify.com/album/5qldzuecHg69MKkQjCEesb"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La mejor noche d mi vida <3",
+      "url": "https://open.spotify.com/track/5vvaJgErSongYCqKuYLH3C"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "KEEP IT STUPID",
-        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
-      },
-      "artists": [
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 147158,
-      "name": "KEEP IT STUPID",
-      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Tiempo y Espacio",
         "url": "https://open.spotify.com/album/26wbg3gjneYtT9Efmichn7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 177756,
       "name": "Tiempo y Espacio",
       "url": "https://open.spotify.com/track/0nKGAf7pfSNmgI0d7gtNI1"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "KEEP IT STUPID",
+        "url": "https://open.spotify.com/album/7qbZ5AczohhC6vaOmTa044"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 147158,
+      "name": "KEEP IT STUPID",
+      "url": "https://open.spotify.com/track/5FsUKOjDDeQ0vEc5dn77AY"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -895,6 +895,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Disparo",
+        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
+      },
+      "artists": [
+        {
+          "name": "Flowker Slick",
+          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Eslok Diaz",
+          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
+        }
+      ],
+      "duration_ms": 222053,
+      "name": "Disparo",
+      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/3g278nbiWZi8eHx5iRAxlD"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 285333,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/5JVkOvgb7pvRyIn6bwMxfH"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Disparo",
-        "url": "https://open.spotify.com/album/2oZiqCM9HqOVYLEKHTdEqg"
-      },
-      "artists": [
-        {
-          "name": "Flowker Slick",
-          "url": "https://open.spotify.com/artist/08Jl77YAzZDOfkM3OY4OrN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Eslok Diaz",
-          "url": "https://open.spotify.com/artist/4aw8yIxecib0iVGD4WHb7a"
-        }
-      ],
-      "duration_ms": 222053,
-      "name": "Disparo",
-      "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
+      },
+      "artists": [
+        {
+          "name": "Anyone/Cualkiera",
+          "url": "https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1"
+        },
+        {
+          "name": "Vic Deal",
+          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
+        },
+        {
+          "name": "Ignorancia Sofisticada",
+          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
+        }
+      ],
+      "duration_ms": 167127,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "DIME",
         "url": "https://open.spotify.com/album/2GTFVJSYMyQKK5NfzsBCdE"
       },
@@ -1227,30 +1251,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/2zXIcPrU2UF0McYhgInyaK"
-      },
-      "artists": [
-        {
-          "name": "Anyone/Cualkiera",
-          "url": "https://open.spotify.com/artist/1mVVNTPZrLkxfnB7Wc1Xh1"
-        },
-        {
-          "name": "Vic Deal",
-          "url": "https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ"
-        },
-        {
-          "name": "Ignorancia Sofisticada",
-          "url": "https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX"
-        }
-      ],
-      "duration_ms": 167127,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/3ysOIJAqg29lkdRAKAelAZ"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/5aign2FhwyRkicO7SO0Xrq"
       },
@@ -1267,30 +1267,6 @@
       "duration_ms": 180906,
       "name": "You Know",
       "url": "https://open.spotify.com/track/5XH4xq8TTe9yRoldMjyDlh"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "\"REC a LIL\"",
-        "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
-      },
-      "artists": [
-        {
-          "name": "Lil Supa",
-          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
-        },
-        {
-          "name": "Recognize Ali",
-          "url": "https://open.spotify.com/artist/3qPiRvFbjdFucVGGXFGbVh"
-        },
-        {
-          "name": "Rod Roche",
-          "url": "https://open.spotify.com/artist/4Xq41CAjEKseEpGBAVjG6C"
-        }
-      ],
-      "duration_ms": 167236,
-      "name": "KABRA",
-      "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1323,26 +1299,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Bushido: Kenjutsu",
-        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
+        "name": "\"REC a LIL\"",
+        "url": "https://open.spotify.com/album/3lA4UmbKGYcMHxXPUFQLNx"
       },
       "artists": [
         {
-          "name": "Nfx",
-          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+          "name": "Lil Supa",
+          "url": "https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K"
         },
         {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+          "name": "Recognize Ali",
+          "url": "https://open.spotify.com/artist/3qPiRvFbjdFucVGGXFGbVh"
         },
         {
-          "name": "Cool Maze",
-          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
+          "name": "Rod Roche",
+          "url": "https://open.spotify.com/artist/4Xq41CAjEKseEpGBAVjG6C"
         }
       ],
-      "duration_ms": 228837,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
+      "duration_ms": 167236,
+      "name": "KABRA",
+      "url": "https://open.spotify.com/track/4cLVvAYy7QaavV93G4pjf0"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1367,18 +1343,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Mientras Dorm\u00edas",
-        "url": "https://open.spotify.com/album/42sYXoqlNujD5ohc53zBbw"
+        "name": "Bushido: Kenjutsu",
+        "url": "https://open.spotify.com/album/0Y24SAEIJFvWxttuT7QOhd"
       },
       "artists": [
         {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        },
+        {
+          "name": "Cool Maze",
+          "url": "https://open.spotify.com/artist/1wVjrhD36VFYYShNji7ivx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Mientras Dorm\u00edas",
-      "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
+      "duration_ms": 228837,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6k20aZy1k6SXYGA94R0Nj9"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 194558,
       "name": "Manantial",
       "url": "https://open.spotify.com/track/5Tv8NKokEXGMfgAGNGdVgu"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Mientras Dorm\u00edas",
+        "url": "https://open.spotify.com/album/42sYXoqlNujD5ohc53zBbw"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mientras Dorm\u00edas",
+      "url": "https://open.spotify.com/track/13uMnjrM1uVDuHgAbEkgMc"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Se Juega",
         "url": "https://open.spotify.com/album/71aJR2rDTofWbm2CX0qkI7"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 304500,
       "name": "El Principio",
       "url": "https://open.spotify.com/track/1sSEPjwkbwoW5NUjI4Faw5"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "Flow Leyenda",
-        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
-      },
-      "artists": [
-        {
-          "name": "Flaco Flow y Melanina",
-          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Flow Leyenda",
-      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Que Viaje",
-        "url": "https://open.spotify.com/album/2XBeukTZsLWD3Z6xyyxuES"
-      },
-      "artists": [
-        {
-          "name": "Tes",
-          "url": "https://open.spotify.com/artist/20dfkG8rga7N6cZDKWIWhD"
-        },
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        },
-        {
-          "name": "Donnie Denso",
-          "url": "https://open.spotify.com/artist/6vE6yzTWbGYBnVd16jTwpW"
-        }
-      ],
-      "duration_ms": 158256,
-      "name": "Que Viaje",
-      "url": "https://open.spotify.com/track/1yvnZx7APnGuSnX6INm1Km"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "Caribe",
         "url": "https://open.spotify.com/album/79mAXDMjYWMG4KlZuhGpnF"
       },
@@ -1915,6 +1891,30 @@
       "duration_ms": 148636,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/3k3QNoajDYdFKrqyYY0Lkt"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Que Viaje",
+        "url": "https://open.spotify.com/album/2XBeukTZsLWD3Z6xyyxuES"
+      },
+      "artists": [
+        {
+          "name": "Tes",
+          "url": "https://open.spotify.com/artist/20dfkG8rga7N6cZDKWIWhD"
+        },
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        },
+        {
+          "name": "Donnie Denso",
+          "url": "https://open.spotify.com/artist/6vE6yzTWbGYBnVd16jTwpW"
+        }
+      ],
+      "duration_ms": 158256,
+      "name": "Que Viaje",
+      "url": "https://open.spotify.com/track/1yvnZx7APnGuSnX6INm1Km"
     },
     {
       "added_at": "2024-08-02 06:00:00",

@@ -1,29 +1,13 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 49445,
+  "num_followers": 49455,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr1FAAAAAACOO1IwJfh7pwmK7J53NKJm",
+  "snapshot_id": "Zr6WgAAAAACgm2kA2Qtw7HbRW9avqLDK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00edganle",
-        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 175842,
-      "name": "Diganle",
-      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
-    },
     {
       "added_at": null,
       "album": {
@@ -295,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "Tres Botes",
-      "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Cari\u00f1ito",
         "url": "https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP"
       },
@@ -323,6 +291,22 @@
       "duration_ms": 140190,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "Tres Botes",
+      "url": "https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 192086,
       "name": "Siempre A Tu Lado (En Vivo)",
       "url": "https://open.spotify.com/track/4NXCEypmOHuVu5F0r9eUZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00edganle",
+        "url": "https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 175842,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dar\u00eda Todo Por Ti",
-        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
-      },
-      "artists": [
-        {
-          "name": "La Adixi\u00f3n",
-          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 174911,
-      "name": "Dar\u00eda Todo Por Ti",
-      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito",
         "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 174863,
       "name": "Mi Ranchito - En Vivo",
       "url": "https://open.spotify.com/track/46rZ3cUjOuzxpJqI9lCaHP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dar\u00eda Todo Por Ti",
+        "url": "https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw"
+      },
+      "artists": [
+        {
+          "name": "La Adixi\u00f3n",
+          "url": "https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Dar\u00eda Todo Por Ti",
+      "url": "https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Necesito",
-        "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 138658,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ayer Ped\u00ed",
         "url": "https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182158,
       "name": "Ayer Ped\u00ed",
       "url": "https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 138658,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ex de Verdad (En Vivo)",
+        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 218202,
+      "name": "Ex de Verdad (En Vivo)",
+      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callando Bocas",
         "url": "https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z"
       },
@@ -931,38 +947,6 @@
       "duration_ms": 160307,
       "name": "Callando Bocas",
       "url": "https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ex de Verdad (En Vivo)",
-        "url": "https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 218202,
-      "name": "Ex de Verdad (En Vivo)",
-      "url": "https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdidos en el Alcohol (En Vivo)",
-        "url": "https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 199815,
-      "name": "Por Tu Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/2aC8d54n2KG7S7lYaSO3qj"
     },
     {
       "added_at": null,

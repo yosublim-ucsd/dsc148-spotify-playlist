@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JAEHYUN\(재현\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,607 likes - 323 songs - 17 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,669 likes - 323 songs - 17 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 |
 | 2 | [Villain](https://open.spotify.com/track/5k5npy7HGpTbzKHhu958ZJ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [FROM.](https://open.spotify.com/album/1lKM9Jx2NchU15TTLqTbMt) | 3:51 |
 | 3 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 |
-| 4 | [The flowers swayed](https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv) | [MIMIIROSE](https://open.spotify.com/artist/4fTQZw9Dht6adOq00NL9DZ) | [REEBON](https://open.spotify.com/album/5TYHjz6BY0ZVW8PODCdrhn) | 3:05 |
+| 4 | [The flowers swayed](https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv) | [mimiirose](https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o) | [REEBON](https://open.spotify.com/album/5TYHjz6BY0ZVW8PODCdrhn) | 3:05 |
 | 5 | [Lonely Night](https://open.spotify.com/track/57n1vSsM55Is7Z007RnPuM) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Lonely Night](https://open.spotify.com/album/1jdfeH9b7fZ1YJSbSnHik8) | 3:59 |
 | 6 | [UNCONDITIONAL \(feat\. DON FVBIO\)](https://open.spotify.com/track/3kZDCT9qiss3HGnHGtgGnQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [DON FVBIO](https://open.spotify.com/artist/0Rd4Jl082gZZ9k74Jr8flD) | [UNCONDITIONAL \(feat\. DON FVBIO\)](https://open.spotify.com/album/4GO7AG1edsZ7lO6KYzg9Oq) | 2:59 |
 | 7 | [WHEN SHE SMOKES](https://open.spotify.com/track/3NClcZjun0q87sBxPjU0Sn) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [WHEN SHE SMOKES](https://open.spotify.com/album/0yMz2B7wb4gnLZE8R9VrOo) | 3:48 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 12 | [COMPLEX](https://open.spotify.com/track/3r4rUQn5I8v0jEiwCs2umI) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.05](https://open.spotify.com/album/3MKL72Imp4w8UuTasKigl9) | 5:11 |
 | 13 | [victim](https://open.spotify.com/track/2JKcEbBNly1KEGVZyoqg0H) | [Taru](https://open.spotify.com/artist/6C8kySkN800oifij6gpGjh) | [victim](https://open.spotify.com/album/7H0ZArIEzF1TuKCCS0HmaQ) | 2:52 |
 | 14 | [You only have happiness](https://open.spotify.com/track/3LPqD3wMBWW9idFU9c2CFb) | [The Lime](https://open.spotify.com/artist/6h6EOVgNFYGIQ29hg4ZcjY) | [You only have happiness](https://open.spotify.com/album/4tQmrWy5VqDx7mvwPzQNqj) | 3:22 |
-| 15 | [Can't breathe](https://open.spotify.com/track/7qQZPnCp2sh3tQ4Qm8SWC3) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Gayeon](https://open.spotify.com/artist/6qdUnuRtbIXtZFr5bDQLNz) | [Can't breathe](https://open.spotify.com/album/5V8oLCFWclzgBmxdqsnwmd) | 2:57 |
+| 15 | [Can't breathe](https://open.spotify.com/track/7qQZPnCp2sh3tQ4Qm8SWC3) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [가연](https://open.spotify.com/artist/5SsiehnnhpDqXanQ1gMRWU) | [Can't breathe](https://open.spotify.com/album/5V8oLCFWclzgBmxdqsnwmd) | 2:57 |
 | 16 | [DASIN](https://open.spotify.com/track/0wkmpYPifP90RkFTPYHCmI) | [fourfive](https://open.spotify.com/artist/4OeZj1CdmhyUHRaOUrU3cg), [Autumn](https://open.spotify.com/artist/7k8keyUPegIT2nFbHKaiin) | [DASIN](https://open.spotify.com/album/61Q6cns3DVCqY8U0ONjLrr) | 3:09 |
 | 17 | [Skip \(Feat\. Skinny Brown\)](https://open.spotify.com/track/4jXbmPyNIVOpgcYYSfjT6P) | [Urban Fisher](https://open.spotify.com/artist/2kGf1F2GuQecSJRhzRLyPQ), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [GRACE](https://open.spotify.com/album/6meoTaeKThnqm4fPZ8YaI6) | 2:59 |
 | 18 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 |
@@ -222,7 +222,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 212 | [Restart](https://open.spotify.com/track/6BiIJjRjfwTsZjKVK1rGHk) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Restart](https://open.spotify.com/album/1X28nSRJIChV60WiBpoPZL) | 3:04 |
 | 213 | [Whatever She Wants \(Feat\. Eric Minz, Ted Park\)](https://open.spotify.com/track/1K8yxW8JUJF3O93K5Y8z9w) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [love ll](https://open.spotify.com/album/2J77Vi9sThWmB0kqR57jrP) | 3:34 |
 | 214 | [Old Me](https://open.spotify.com/track/1gOzMZTnKRTA860E3FaRir) | [marine](https://open.spotify.com/artist/3jdg21y5MPwERt8YLMehGp) | [Old Me](https://open.spotify.com/album/2aVp4egqbcgJGj3vLaW5YZ) | 2:43 |
-| 215 | [MIRACLE](https://open.spotify.com/track/6h0GOZnGb8fvv8aN0NaFNY) | [ZAZA](https://open.spotify.com/artist/1uHniPDZypHsVRH42NCeJU) | [MIRACLE](https://open.spotify.com/album/0JpyYY7OErF6vgdlbfJi2C) | 2:58 |
+| 215 | [MIRACLE](https://open.spotify.com/track/6h0GOZnGb8fvv8aN0NaFNY) | [ZAZA](https://open.spotify.com/artist/1uHniPDZypHsVRH42NCeJU) | [MIRACLE](https://open.spotify.com/album/0JpyYY7OErF6vgdlbfJi2C) | 2:57 |
 | 216 | [The one person who made me laugh](https://open.spotify.com/track/15OalEnnbILCk6xGJBh1Tz) | [Woo Eun Mi](https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9) | [Beauty and Romantic OST Part.20 \(Soundtrack\)](https://open.spotify.com/album/3FPK08MTJimkaXNJWAF93E) | 3:39 |
 | 217 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 |
 | 218 | [Sweet Dreams](https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK) | 3:09 |

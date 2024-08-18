@@ -2,7 +2,7 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Refo dan Fauna
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Ikkubaru
 
 162 songs - 10 hr 29 min
 
