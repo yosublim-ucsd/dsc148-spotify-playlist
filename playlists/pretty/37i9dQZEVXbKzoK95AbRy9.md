@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,743 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,843 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Vamo de Pagodin](https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Vamo de Pagodin](https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q) | 2:40 |
 | 50 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/4VZNgofGpFZ8FrQM3VYosB) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Intenso, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ) | 2:02 |
 
-Snapshot ID: `LlQNcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LlVe8AAAAAAAAAAAAAAAAAAAAAAAAGVu`

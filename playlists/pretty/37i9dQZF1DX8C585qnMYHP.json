@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 169301,
+  "num_followers": 169389,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
+      "added_at": "2024-05-24 06:00:00",
+      "album": {
+        "name": "Bearded Fireworm",
+        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bearded Fireworm",
+      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
+    },
+    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "I\u2019ll Do Whatever You Want",
@@ -657,22 +673,6 @@
       "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
-      "added_at": "2024-05-24 06:00:00",
-      "album": {
-        "name": "Bearded Fireworm",
-        "url": "https://open.spotify.com/album/3oJHNvLKrp708XlgVTjFbG"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Bearded Fireworm",
-      "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Meridians",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Cockpit",
-        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cockpit",
-      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
         "name": "All good?",
         "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 466420,
       "name": "that love",
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/0rOkbQTwFnCsPqMeTWrLnB"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Inaudible",
-        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
-      },
-      "artists": [
-        {
-          "name": "Thom LaFond",
-          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
-        }
-      ],
-      "duration_ms": 314142,
-      "name": "Inaudible",
-      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -855,6 +839,22 @@
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Inaudible",
+        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
+      },
+      "artists": [
+        {
+          "name": "Thom LaFond",
+          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
+        }
+      ],
+      "duration_ms": 314142,
+      "name": "Inaudible",
+      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/0pwv361AU9vBQ85GlFBaXY"
     },
     {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Snake EP",
+        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "duration_ms": 260500,
+      "name": "333333",
+      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
+    },
+    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "r e u n i t e d",
@@ -1271,22 +1287,6 @@
       "duration_ms": 151731,
       "name": "aaaaaaa",
       "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Snake EP",
-        "url": "https://open.spotify.com/album/4vIVSXatC6xk6XHyxVFbEM"
-      },
-      "artists": [
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        }
-      ],
-      "duration_ms": 260500,
-      "name": "333333",
-      "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
       "added_at": "2024-03-20 13:59:17",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "Psiche Liberata",
@@ -1463,6 +1447,22 @@
       "duration_ms": 357213,
       "name": "Milk Tears In The Hug Chamber",
       "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/39coyagUm7jIP67222iSkn"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
@@ -1629,20 +1645,20 @@
       "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
+      "added_at": "2024-05-29 02:04:24",
       "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+        "name": "Un Sasso Nero",
+        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
       },
       "artists": [
         {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+          "name": "Porta D'Oro",
+          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
         }
       ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+      "duration_ms": 341875,
+      "name": "Un Sasso Nero",
+      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 218145,
       "name": "Simulacrima",
       "url": "https://open.spotify.com/track/560pUCDhzM0srmGeg6JLbF"
-    },
-    {
-      "added_at": "2024-05-29 02:04:24",
-      "album": {
-        "name": "Un Sasso Nero",
-        "url": "https://open.spotify.com/album/4RW5BnNQX2IYBpi3wCkGSX"
-      },
-      "artists": [
-        {
-          "name": "Porta D'Oro",
-          "url": "https://open.spotify.com/artist/7xTxKE5BwKPwnjLU9E1mXg"
-        }
-      ],
-      "duration_ms": 341875,
-      "name": "Un Sasso Nero",
-      "url": "https://open.spotify.com/track/4vZariTNFQw9LxnvkaBzkw"
     },
     {
       "added_at": "2024-05-08 03:43:46",

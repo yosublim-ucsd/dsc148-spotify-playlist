@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Jeriq
 
-455 songs - 21 hr 35 min
+456 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,8 +297,9 @@
 | [Olu Maintain](https://open.spotify.com/track/6Hc5qCdQekUa3ALn2KwsPc) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Powpeezy](https://open.spotify.com/artist/6x91G9xyfu0x9rFyUzk9Fv) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 2:35 | 2023-10-27 | 2024-02-03 |
 | [Omo Ologo](https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj) | 3:09 | 2023-03-10 | 2023-10-13 |
 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 | 2022-06-09 | 2023-08-13 |
-| [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 | 2024-05-24 |  |
+| [On Boiz](https://open.spotify.com/track/6dwr5OEMoUDrXcEjVegpHp) | [Ajé \(The Realest\)](https://open.spotify.com/artist/64238OzArmly4GYxwSbRdy) | [On Boiz](https://open.spotify.com/album/7vW0pMgrEcQhzUMvPMrEJm) | 2:23 | 2024-05-24 | 2024-08-19 |
 | [On My Grind](https://open.spotify.com/track/6MTOvHuqJcw0HN6xDHiVNQ) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [On My Grind](https://open.spotify.com/album/2agfSDraZLcjFYoaTmf7tB) | 2:14 | 2023-03-18 | 2023-03-25 |
+| [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 | 2024-08-16 |  |
 | [One Percent](https://open.spotify.com/track/2mKjAQIldbFrUlVyb704vu) | [H.E.C](https://open.spotify.com/artist/1YLynmLJiAmfdgGeuSmudq), [Hotyce](https://open.spotify.com/artist/1X9C7PsO7fveD0clZCexU3), [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ) | [One Percent](https://open.spotify.com/album/4Yykl9GtAiONTgfFQQGuVd) | 3:05 | 2024-08-02 |  |
 | [Open The Front Door](https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP) | [Omotee](https://open.spotify.com/artist/3a4SFbgqSV3PtCDSPL6FLt), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Open The Front Door](https://open.spotify.com/album/3s6R1QUm992adma0tFufO6) | 2:49 | 2023-04-14 | 2023-04-28 |
 | [Operation Sweep](https://open.spotify.com/track/2exuZNzNYl96pncjTYokOd) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Operation Sweep](https://open.spotify.com/album/5Z27393Vx6iqkl1dG6mXyq) | 2:35 | 2023-08-10 | 2023-09-29 |

@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 245357,
       "name": "Other Days",
       "url": "https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL"
@@ -5258,6 +5258,28 @@
       "duration_ms": 258857,
       "name": "Target",
       "url": "https://open.spotify.com/track/5ED8Ooo89oclrqDPK1NNkx"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp"
+      },
+      "artists": [
+        {
+          "name": "Raz",
+          "url": "https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3"
+        },
+        {
+          "name": "Yahel",
+          "url": "https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286916,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/70av8bgExOvrGBWflEToQw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 221663,
+  "num_followers": 221801,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
         "name": "Run It",
         "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
       },
@@ -627,22 +607,6 @@
       "duration_ms": 211714,
       "name": "Run It",
       "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
-      },
-      "artists": [
-        {
-          "name": "Samstone",
-          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
-        }
-      ],
-      "duration_ms": 223725,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -667,6 +631,42 @@
       "duration_ms": 218823,
       "name": "Wicked Sound",
       "url": "https://open.spotify.com/track/4oNUYCpainiqadXpji3Vsh"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT"
+      },
+      "artists": [
+        {
+          "name": "Samstone",
+          "url": "https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY"
+        }
+      ],
+      "duration_ms": 223725,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -807,26 +807,6 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
-        "name": "Surgery",
-        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
-      },
-      "artists": [
-        {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
-        },
-        {
-          "name": "Ragga Twins",
-          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
-        }
-      ],
-      "duration_ms": 129625,
-      "name": "Surgery",
-      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
         "name": "Wild (bullet tooth Remix)",
         "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 178000,
       "name": "Wild - bullet tooth Remix",
       "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
+        "name": "Surgery",
+        "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
+      },
+      "artists": [
+        {
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+        },
+        {
+          "name": "Ragga Twins",
+          "url": "https://open.spotify.com/artist/41vebFiEyxaRwT7rNmRLpq"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Surgery",
+      "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
+        "name": "Stop Dawdling / The Streets",
+        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 265454,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
         "name": "Gimme More",
         "url": "https://open.spotify.com/album/24EFMVdTNui57FEIvcQ8DN"
       },
@@ -903,38 +919,6 @@
       "duration_ms": 234418,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/3XOOjp4OcQV7ChnJkZpMkN"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "Pyrophobia",
-      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -959,22 +943,18 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5"
       },
       "artists": [
         {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
         }
       ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+      "duration_ms": 188444,
+      "name": "Pyrophobia",
+      "url": "https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -995,6 +975,26 @@
       "duration_ms": 181714,
       "name": "Party Starter (feat. Slick Don)",
       "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
+      },
+      "artists": [
+        {
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
+        },
+        {
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -1043,8 +1043,28 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
-        "name": "Stop Dawdling / The Streets",
-        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
+        "name": "Give Me Your Love (Baby) (Zero Remix)",
+        "url": "https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy"
+      },
+      "artists": [
+        {
+          "name": "Christian Rogers",
+          "url": "https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Give Me Your Love (Baby) (Zero Remix)",
+      "url": "https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n"
+    },
+    {
+      "added_at": "2024-08-09 14:22:28",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
       },
       "artists": [
         {
@@ -1052,9 +1072,9 @@
           "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 265454,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -1099,26 +1119,6 @@
       "duration_ms": 118500,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/2lTfJSGrDFbjmztKXVhUDp"
-    },
-    {
-      "added_at": "2024-08-09 14:22:28",
-      "album": {
-        "name": "Give Me Your Love (Baby) (Zero Remix)",
-        "url": "https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy"
-      },
-      "artists": [
-        {
-          "name": "Christian Rogers",
-          "url": "https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Give Me Your Love (Baby) (Zero Remix)",
-      "url": "https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n"
     },
     {
       "added_at": "2024-08-09 14:22:28",
@@ -1355,22 +1355,18 @@
     {
       "added_at": "2024-08-09 14:22:28",
       "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+        "name": "Bite Your Lip pt. 2",
+        "url": "https://open.spotify.com/album/4TMaXttEPyK93NHPPoLzcL"
       },
       "artists": [
         {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
         }
       ],
-      "duration_ms": 182192,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
+      "duration_ms": 185142,
+      "name": "Bite Your Lip pt. 2",
+      "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
     }
   ],
   "unique_name": "Bassline Bangers",

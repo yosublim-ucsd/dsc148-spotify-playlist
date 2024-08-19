@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-535 songs - 1 day 8 hr 4 min
+536 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [If I Had You](https://open.spotify.com/track/1bq6XxdA59f5qJS5mw67Sc) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/2OkC5JujOSTWWSx4F5IbLO) | 3:48 | 2024-01-29 |  |
 | [If Jesus Was A Rockstar](https://open.spotify.com/track/2FVxHTXY9Ns9RasjDXOYVq) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [If Jesus Was A Rockstar](https://open.spotify.com/album/7MFI6PLBQLdYZpHHokD6vL) | 2:50 | 2024-01-29 |  |
 | [IF NOT FOR YOU](https://open.spotify.com/track/5UdJ8CYTtVk5zzqhbPMA18) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 3:14 | 2024-01-29 |  |
-| [If That's OK With You](https://open.spotify.com/track/1LbiredDBb0gbTS5lHwN6F) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Breathless \(Expanded Edition\)](https://open.spotify.com/album/6PrJNLgXlHedN48xbaKqEG) | 3:41 | 2024-01-29 |  |
+| [If That's OK With You](https://open.spotify.com/track/1LbiredDBb0gbTS5lHwN6F) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Breathless \- Expanded Edition](https://open.spotify.com/album/6PrJNLgXlHedN48xbaKqEG) | 3:41 | 2024-01-29 |  |
 | [If U Seek Amy](https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:36 | 2024-01-31 |  |
 | [If U Seek Amy](https://open.spotify.com/track/6SvhMhdgVyETKO3wgeE17d) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [If U Seek Amy \(Official HD Video\)](https://open.spotify.com/album/1mDDXa4rmUXhVogpOK0lk2) | 3:45 | 2024-01-29 | 2024-02-01 |
 | [imperfect for you](https://open.spotify.com/track/6XXKB32Om6WuXg3uEWwTob) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:02 | 2024-03-15 |  |
@@ -335,6 +335,7 @@
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/5E6bTiJ2rB18M1DNqkm1V4) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:45 | 2024-01-31 |  |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/0X4mRIsX4nDIkX4KAHucNH) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again \(Official Video\)](https://open.spotify.com/album/3ZnFbBlgSmQ15vyyKLHL4D) | 4:01 | 2024-01-29 | 2024-02-01 |
 | [New Romantics](https://open.spotify.com/track/0qAIiGFKLdV1xpNlEhjpq8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:50 | 2024-01-29 |  |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-18 |  |
 | [No More \(feat\. French Montana\)](https://open.spotify.com/track/37vqpVS6sQFhLdNZhHo1zu) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [No More \(feat\. French Montana\)](https://open.spotify.com/album/6NxbPkIDGFf9inHWkiYwnZ) | 3:23 | 2024-01-29 |  |
 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 | 2024-01-29 |  |
 | [no tears left to cry](https://open.spotify.com/track/2aqS2lHNDXwgZ1XGiSstHk) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/25rVGc81auStukRAwkayej) | 3:58 | 2024-01-31 | 2024-02-02 |

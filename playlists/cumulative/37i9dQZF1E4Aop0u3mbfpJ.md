@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Aop0u3mbfpJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ)
 
-### [رادیوی Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
+### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> با Britney Spears, Katy Perry, Kesha و دیگران
+> With Britney Spears, Katy Perry, Kesha and more
 
 1,896 songs - 4 day 17 hr 48 min
 
@@ -722,7 +722,7 @@
 | [Holding Out for a Hero](https://open.spotify.com/track/5HgkCHuvZlWT6EiYBmmBDo) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Holding Out For A Hero](https://open.spotify.com/album/05ukIJeiOBpEvkbOgd9jnj) | 3:50 | 2023-01-23 | 2023-02-27 |
 | [Holiday](https://open.spotify.com/track/5428XgSLRJfpMRN3r6YXob) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 | 2022-04-16 | 2022-04-17 |
 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 | 2020-10-25 | 2024-04-11 |
-| [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 | 2024-04-19 |  |
+| [Hollaback Girl](https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love Angel Music Baby](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:19 | 2024-04-19 | 2024-08-19 |
 | [Hologram](https://open.spotify.com/track/7CY0EAQvdQogBeJnzR8vaG) | [Andrew Barret Cox](https://open.spotify.com/artist/4nhTegqVKeJefayKd3K13N), [Jan](https://open.spotify.com/artist/3kjA2xAd5YnNXi5ayMxBFq) | [Hologram](https://open.spotify.com/album/7L4E0lZgzUATSMczSgFIRs) | 4:21 | 2022-10-02 | 2022-10-03 |
 | [Holy \(Til You Let Me Go\)](https://open.spotify.com/track/4CDpNmlS3cE9LQprMOkTVJ) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:19 | 2022-09-28 | 2022-11-11 |
 | [Home By Now](https://open.spotify.com/track/5nnPrQFYUQijEz4lwMX4dC) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Home By Now](https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt) | 4:28 | 2022-06-17 | 2022-06-18 |
@@ -1850,7 +1850,7 @@
 | [Wig \- Sagi Kariv Remix](https://open.spotify.com/track/2EP2n9U4EvlpdA51BXqo1J) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5flGecLa0gsN4RSOA2YIyn) | 6:13 | 2022-04-17 | 2023-01-24 |
 | [Wig \- Sagi Kariv Remix](https://open.spotify.com/track/2GiUNWsJPhmd2Z1cdV8B7w) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Sagi Kariv](https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a) | [Haus Party, Pt\. 2](https://open.spotify.com/album/5W5ECnqLf2p45cIojnvVmC) | 6:13 | 2023-03-30 | 2023-08-26 |
 | [Wild \- No Rap Edit](https://open.spotify.com/track/4Y8mtpKol0DNGjKpyqNKDz) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [The Wild EP](https://open.spotify.com/album/0zTpDUD80nUPX47tZB3WTm) | 3:28 | 2022-03-19 | 2022-05-25 |
-| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2022-03-17 | 2024-08-17 |
+| [Wild Ones \(feat\. Sia\)](https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:52 | 2022-03-17 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2022-06-26 | 2022-07-07 |
 | [Wind Beneath My Wings](https://open.spotify.com/track/5r9YDkHwNyxM93AhGa4W2x) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Every Woman in Me](https://open.spotify.com/album/6u5R7tgkdit1hkpsHDq1MS) | 4:25 | 2023-07-31 | 2023-08-01 |
 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 | 2022-04-20 | 2022-07-24 |

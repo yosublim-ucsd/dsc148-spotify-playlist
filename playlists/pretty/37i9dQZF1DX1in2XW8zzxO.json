@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 73510,
+  "num_followers": 73554,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,34 @@
     {
       "added_at": "2024-08-12 11:31:20",
       "album": {
+        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        }
+      ],
+      "duration_ms": 381768,
+      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
+      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
+    },
+    {
+      "added_at": "2024-08-12 11:31:20",
+      "album": {
         "name": "Selema (Po Po)",
         "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
       },
@@ -651,34 +679,6 @@
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
-    },
-    {
-      "added_at": "2024-08-12 11:31:20",
-      "album": {
-        "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-        "url": "https://open.spotify.com/album/0d6dUG7eTcnKoGzX8VKbn1"
-      },
-      "artists": [
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Tumelo_za",
-          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
-        },
-        {
-          "name": "Tyrone Dee",
-          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
-        }
-      ],
-      "duration_ms": 381768,
-      "name": "NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",
-      "url": "https://open.spotify.com/track/51fIDcNGiIp7pxHCCN5QaL"
     },
     {
       "added_at": "2024-08-12 11:31:20",
@@ -915,30 +915,6 @@
     {
       "added_at": "2024-08-12 11:31:20",
       "album": {
-        "name": "Woza La!",
-        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Benny Maverick",
-          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
-        },
-        {
-          "name": "Triple X Da Ghost",
-          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Woza La!",
-      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
-    },
-    {
-      "added_at": "2024-08-12 11:31:20",
-      "album": {
         "name": "Party Mode",
         "url": "https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 408694,
       "name": "iGardo",
       "url": "https://open.spotify.com/track/0MJf2ukyYRjKlVpS3vtHhw"
+    },
+    {
+      "added_at": "2024-08-12 11:31:20",
+      "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     },
     {
       "added_at": "2024-08-12 11:31:20",
@@ -1039,30 +1039,30 @@
     {
       "added_at": "2024-08-12 11:31:20",
       "album": {
-        "name": "Groove",
-        "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
+        "name": "Ngeke",
+        "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
       },
       "artists": [
         {
-          "name": "Ordio O2",
-          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
+          "name": "Calvin Shaw",
+          "url": "https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x"
         },
         {
-          "name": "M00tion",
-          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
+          "name": "Khanyisa",
+          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
         },
         {
-          "name": "Ross",
-          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
+          "name": "Deep Sen",
+          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
         },
         {
-          "name": "Kukzer wadi piano_012",
-          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
+          "name": "KingTalkzin",
+          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
         }
       ],
-      "duration_ms": 351450,
-      "name": "Groove",
-      "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
+      "duration_ms": 234466,
+      "name": "Ngeke - Radio Edit",
+      "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
     },
     {
       "added_at": "2024-08-12 11:31:20",
@@ -1099,34 +1099,6 @@
     {
       "added_at": "2024-08-12 11:31:20",
       "album": {
-        "name": "Ngeke",
-        "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
-      },
-      "artists": [
-        {
-          "name": "Calvin Shaw",
-          "url": "https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x"
-        },
-        {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
-        },
-        {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
-        },
-        {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
-        }
-      ],
-      "duration_ms": 234466,
-      "name": "Ngeke - Radio Edit",
-      "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
-    },
-    {
-      "added_at": "2024-08-12 11:31:20",
-      "album": {
         "name": "OMALICHA",
         "url": "https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8"
       },
@@ -1139,6 +1111,34 @@
       "duration_ms": 240000,
       "name": "OMALICHA",
       "url": "https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8"
+    },
+    {
+      "added_at": "2024-08-12 11:31:20",
+      "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU"
+      },
+      "artists": [
+        {
+          "name": "Ordio O2",
+          "url": "https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok"
+        },
+        {
+          "name": "M00tion",
+          "url": "https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j"
+        },
+        {
+          "name": "Ross",
+          "url": "https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y"
+        },
+        {
+          "name": "Kukzer wadi piano_012",
+          "url": "https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh"
+        }
+      ],
+      "duration_ms": 351450,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk"
     },
     {
       "added_at": "2024-08-12 11:31:20",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-08-12 11:31:20",
       "album": {
+        "name": "Mina Nawe",
+        "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
+      },
+      "artists": [
+        {
+          "name": "Donel",
+          "url": "https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT"
+        },
+        {
+          "name": "Dankie Sounds",
+          "url": "https://open.spotify.com/artist/2a5DGG7t8k1ewZPhXV546C"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Mina Nawe - Radio Edit",
+      "url": "https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5"
+    },
+    {
+      "added_at": "2024-08-12 11:31:20",
+      "album": {
         "name": "Shuffle",
         "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 375530,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
-    },
-    {
-      "added_at": "2024-08-12 11:31:20",
-      "album": {
-        "name": "Mina Nawe",
-        "url": "https://open.spotify.com/album/3Wmq33GKBysdwDSq9ds6rq"
-      },
-      "artists": [
-        {
-          "name": "Donel",
-          "url": "https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT"
-        },
-        {
-          "name": "Dankie Sounds",
-          "url": "https://open.spotify.com/artist/2a5DGG7t8k1ewZPhXV546C"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Mina Nawe - Radio Edit",
-      "url": "https://open.spotify.com/track/7nAXecq3zqlOb64OjYCFD5"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

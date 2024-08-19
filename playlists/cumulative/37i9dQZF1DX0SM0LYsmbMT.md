@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,206 songs - 6 day 16 hr 33 min
+4,207 songs - 6 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,6 +1035,7 @@
 | [Ease](https://open.spotify.com/track/06pFUizccmNiPuB8ESkbDg) | [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Ease](https://open.spotify.com/album/1NAxOPiikSD680J3EOsOJu) | 2:19 | 2023-09-14 | 2023-10-20 |
 | [Easy Moment](https://open.spotify.com/track/7Etx5TaPzbG0xGRc0aBlLD) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Easy Moment](https://open.spotify.com/album/2VQujS29AAw3FafFj0NTZc) | 2:24 | 2021-05-29 | 2021-09-17 |
 | [Easy n Dizzy](https://open.spotify.com/track/7xAgwh4EEpebPn75bca378) | [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Sunny Dreams](https://open.spotify.com/album/3YVZuyfJR72CYj5l6OqQVg) | 2:23 | 2020-10-03 | 2021-05-14 |
+| [Eat The World](https://open.spotify.com/track/1Q7E8rAyL43GGI2z6iszqB) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Eat The World](https://open.spotify.com/album/4VGvh7AfLear0QW3f2Oeld) | 2:10 | 2024-08-12 |  |
 | [Ebony](https://open.spotify.com/track/197x2einuu4SBFlykVQAXS) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [Ebony](https://open.spotify.com/album/6bbGjDvLvrCQNPnTg66fjb) | 1:52 | 2021-12-17 | 2022-10-01 |
 | [Ebony](https://open.spotify.com/track/2T6WXP8JYho3407VP4jcZk) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU), [Rzuma](https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8) | [All in blues](https://open.spotify.com/album/59r4dhSdO2IZdKDfwkCwim) | 1:52 | 2022-11-17 | 2022-11-26 |
 | [Echoes](https://open.spotify.com/track/40UK1Zl6X8GmezVlI6AZWg) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Echoes](https://open.spotify.com/album/11CYpa0oCkneUiM0uvsVcd) | 1:58 | 2023-09-14 |  |
@@ -1178,7 +1179,7 @@
 | [Finally Found U](https://open.spotify.com/track/1UQLNJ9Ex3L6X8xu3fAtjM) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/4uelHunUFz6K88hoByIBmR) | 2:03 | 2022-11-17 | 2024-04-19 |
 | [Finally Found U](https://open.spotify.com/track/7pcYD5IINF1iaIR02Tc8Lf) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Finally Found U](https://open.spotify.com/album/6n4oS9aPtBxTACflyQGjsj) | 2:03 | 2022-11-03 | 2022-11-20 |
 | [Finally Spring](https://open.spotify.com/track/4XT9EDO2LVFzV6as0lGeRd) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Finally Spring](https://open.spotify.com/album/51QWE0RyBs31hEdlqHtK7W) | 1:58 | 2023-04-06 | 2023-05-12 |
-| [Fint](https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Fint](https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP) | 1:54 | 2024-06-27 |  |
+| [Fint](https://open.spotify.com/track/6RcS2D1J87SPKZcbfNUKgG) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Fint](https://open.spotify.com/album/4pYr5jUlcKsChopvZaTMjP) | 1:54 | 2024-06-27 | 2024-08-19 |
 | [Fiore](https://open.spotify.com/track/4RfjquNfcN0DeCQ802h76N) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [a boy with a balloon](https://open.spotify.com/artist/2RU6buhw0TjkxXj5oIyDX8) | [Fiore](https://open.spotify.com/album/5js8xUKFDM0d1MugbsOIdb) | 2:21 | 2021-05-07 | 2021-07-09 |
 | [Fips Loves Peaches](https://open.spotify.com/track/0PdqDic11pv7Wrl1fXsAXY) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc) | [Fips Loves Peaches](https://open.spotify.com/album/2UWIUlmBWJvBQouIPWLRQF) | 2:04 | 2020-05-25 | 2020-07-31 |
 | [Fire Barrel](https://open.spotify.com/track/2mxp3XhXa2sowJs1NOJcLk) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [Symbiosis](https://open.spotify.com/album/6vYWvxo5rtRKxazHn5QAS6) | 1:56 | 2023-12-08 |  |

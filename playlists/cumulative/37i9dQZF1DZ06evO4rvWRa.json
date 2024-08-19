@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-19",
-  "description": "This Is Alan Walker. Los temas esenciales, todos en una lista.",
+  "description": "This is Alan Walker. The essential tracks, all in one playlist.",
   "name": "This Is Alan Walker",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 151101,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/1NLATwwXcg0ff8PDY7xkYM"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 161828,
       "name": "World We Used To Know",
       "url": "https://open.spotify.com/track/5I9Qa1LfGcQGCIC32lh9Ka"

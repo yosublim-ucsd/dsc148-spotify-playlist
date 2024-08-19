@@ -1,12 +1,12 @@
 {
   "description": "This is The Clash. The essential tracks, all in one playlist.",
-  "num_followers": 173481,
+  "num_followers": 173499,
   "original_name": "This Is The Clash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAAA/GVBUGCVCX3LF/+7QiQdi",
+  "snapshot_id": "Zr/oAAAAAADETkmcFn4WT7kk/mmhWSt8",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 220906,
-      "name": "Know Your Rights - Remastered",
-      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
+      "duration_ms": 162000,
+      "name": "Inoculated City - Remastered",
+      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Inoculated City - Remastered",
-      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
+      "duration_ms": 220906,
+      "name": "Know Your Rights - Remastered",
+      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,475 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,469 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 |
 | 45 | [Plastic People](https://open.spotify.com/track/0Y3rJvEOjqON6l68XrKK7D) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Plastic People](https://open.spotify.com/album/4ptM6VWQoOBIaoC4SvlLBy) | 3:13 |
 | 46 | [Kill The Lonely](https://open.spotify.com/track/09umJrRF0nvpGuar0OIRoc) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Kill The Lonely](https://open.spotify.com/album/52crtY5BcHSeO2Oq8mFiIs) | 3:18 |
-| 47 | [Trümmer dieser Stadt](https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Trümmer](https://open.spotify.com/album/13Z4YuBFzsEONFHAzRxUWh) | 2:54 |
+| 47 | [some pretty day](https://open.spotify.com/track/0dQgcNskbjbydmE0Ok316t) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [smalltown stories](https://open.spotify.com/album/4ooFSeSl3zU1c7N6fdGWmJ) | 3:08 |
 | 48 | [Coming of Age](https://open.spotify.com/track/1dJuz7IPnfKslcywhJ1rDb) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:46 |
-| 49 | [some pretty day](https://open.spotify.com/track/0dQgcNskbjbydmE0Ok316t) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [smalltown stories](https://open.spotify.com/album/4ooFSeSl3zU1c7N6fdGWmJ) | 3:08 |
+| 49 | [Trümmer dieser Stadt](https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Trümmer](https://open.spotify.com/album/13Z4YuBFzsEONFHAzRxUWh) | 2:54 |
 | 50 | [SCHLARAFFENLAND](https://open.spotify.com/track/1Itjz5DMnjTxnEpBCA19Cy) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF) | [SCHLARAFFENLAND](https://open.spotify.com/album/6kHsPKNbD6Zej32f3DoJZd) | 2:12 |
 
 Snapshot ID: `ZrMksgAAAADyEE9Qci4RPY4vTo/70JYz`

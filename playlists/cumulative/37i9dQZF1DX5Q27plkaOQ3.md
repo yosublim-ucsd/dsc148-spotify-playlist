@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-731 songs - 1 day 16 hr 56 min
+732 songs - 1 day 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [DIVERGENCE](https://open.spotify.com/track/6TgsMclmIDmEZyMNfKlTTR) | [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Phiso](https://open.spotify.com/artist/7csjnVvI7V4mm9e7fvqRdC) | [DIVERGENCE](https://open.spotify.com/album/7qdcACEkZbweWyARLBYtE5) | 3:20 | 2023-03-31 | 2023-07-07 |
 | [DIY \- Dubstep Mix](https://open.spotify.com/track/0t8dxQHa6hl2k2vPVaftmF) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [DIY](https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F) | 2:38 | 2023-11-24 |  |
 | [Do It To It \- Subtronics Remix](https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Subtronics Remix\)](https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw) | 2:27 | 2022-04-15 | 2023-04-01 |
-| [Dome Shot](https://open.spotify.com/track/2Rdk6glwnhBuuB8sphS2EL) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Dome Shot](https://open.spotify.com/album/71USWHRJ4AefVMUzWUxiXs) | 3:16 | 2024-04-26 |  |
+| [Dome Shot](https://open.spotify.com/track/2Rdk6glwnhBuuB8sphS2EL) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Dome Shot](https://open.spotify.com/album/71USWHRJ4AefVMUzWUxiXs) | 3:16 | 2024-04-26 | 2024-08-19 |
 | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/track/6ZQHhBaGgwX2zourh1J5Ie) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Don't Let Me Let Go \(with ILLENIUM & EVAN GIIA\) – Zomboy Remix](https://open.spotify.com/album/5zLvgObeFVjQZ8Q7Ifqotq) | 4:18 | 2023-02-10 |  |
 | [Don't Look Down \- Slippy Remix](https://open.spotify.com/track/0rg4wm7N51dWAFZ6gPbtjy) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU), [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 3:40 | 2022-07-01 | 2022-09-03 |
 | [Don't Speak](https://open.spotify.com/track/5lJOKxpA7Lbms3sJmrlYYg) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Don't Speak](https://open.spotify.com/album/5oKMHgS24Ikp9APo5xi1lr) | 4:00 | 2024-03-29 |  |
@@ -666,6 +666,7 @@
 | [The Pit](https://open.spotify.com/track/03h5bKCEQszowW4jo7fxfN) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [The Pit](https://open.spotify.com/album/0H5c8x30XclLLXZTVvRf0Y) | 3:48 | 2021-12-17 | 2022-05-07 |
 | [The Pluck Song](https://open.spotify.com/track/7gTGDYmGSfSTLmrFw05ePe) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [The Pluck Song](https://open.spotify.com/album/3A86pcryv8EzIfFxVEIT1f) | 3:45 | 2021-12-17 | 2022-07-29 |
 | [The Power of Everything](https://open.spotify.com/track/0QCTSPch7uVA344JWcNlIu) | [Zingara](https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1), [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [The Code of Dreamz](https://open.spotify.com/album/7CY0Rkh9lUuJRmwMdQ4NNj) | 3:44 | 2024-06-07 |  |
+| [THE PULSE](https://open.spotify.com/track/2x4PSFyeifQRMalQWMfzkb) | [DOIL](https://open.spotify.com/artist/1avxJxeDVDFiIs54JSk1aD) | [THE PULSE](https://open.spotify.com/album/6foOdaHDFscYTaVqnvGXWx) | 2:32 | 2024-07-26 |  |
 | [The Rat](https://open.spotify.com/track/6YMq1v6wu5iLezbCFDcUWw) | [Sam Lamar](https://open.spotify.com/artist/2ihPQnVz8d2ePjGcXLbNf8) | [The Rat](https://open.spotify.com/album/5DHdM2FHkSZgWvxnZLN9u7) | 3:13 | 2021-12-17 | 2022-09-22 |
 | [THE SHOOTV](https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [THE SHOOTV](https://open.spotify.com/album/1DfkvG8j619HUAmeTAa0fQ) | 3:05 | 2021-12-17 | 2022-03-12 |
 | [The Takeover](https://open.spotify.com/track/7K8fmTPRda4YWsBTnin2nr) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [The Living Proof](https://open.spotify.com/artist/0ugBL1a1T65aLKkctOHh2d) | [The Takeover](https://open.spotify.com/album/4iaLkyelNjYfqcQlan0zVl) | 3:40 | 2022-07-29 | 2023-06-24 |

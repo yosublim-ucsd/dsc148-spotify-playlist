@@ -4867,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "There Go Shawty",
+        "url": "https://open.spotify.com/album/1uAd7mB64dZicb5I4tUHA2"
+      },
+      "artists": [
+        {
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161419,
+      "name": "There Go Shawty",
+      "url": "https://open.spotify.com/track/5o76HTMtavTjPU8HJQ3qQY"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=34plTCgTR6avOxEQS0Swuw">Mthandazo Gatya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,255 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,316 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

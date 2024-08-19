@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,443 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,531 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 61 | [Spiritual Energy](https://open.spotify.com/track/5wd1xIFVrAJ6wvZhebqfaT) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Mastapeace Beats](https://open.spotify.com/artist/6jfcSjE052jzhggOXwN0Px) | [Spiritual Energy](https://open.spotify.com/album/721CIYJgTdFZs9DuWzJDRd) | 3:20 |
 | 62 | [Your Love](https://open.spotify.com/track/0FeuYLP73IxU5X1MC7ORdn) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Your Love](https://open.spotify.com/album/6oG0CCcWvonRss50LZdccs) | 1:53 |
 | 63 | [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 |
-| 64 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 |
+| 64 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \- Remix](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 |
 | 65 | [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 |
 | 66 | [Mayo](https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Mayo](https://open.spotify.com/album/186Ly8U3fdCHSAxSRI4gt2) | 2:10 |
 | 67 | [Darling Jesus](https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN) | [Dr\. Ossom](https://open.spotify.com/artist/0TV9CRHK0mIwaqUNLDDg2W), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Darling Jesus](https://open.spotify.com/album/5Xeh4clJo0rM9WHRb7CGXy) | 2:53 |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover:Chali xcx, Billie Eilish
+> The hottest tracks with the freshest hits! Cover: Charli xcx, Billie Eilish
 
 232 songs - 12 hr 22 min
 

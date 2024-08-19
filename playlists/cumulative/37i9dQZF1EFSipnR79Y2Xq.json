@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Del 1 al 10",
+        "url": "https://open.spotify.com/album/47nBTDVl17CvrgXDXGwGxM"
+      },
+      "artists": [
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196184,
+      "name": "Del 1 al 10",
+      "url": "https://open.spotify.com/track/3gOPcLnxngh69U84BjzOrK"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Baj\u00f3n",
         "url": "https://open.spotify.com/album/3u6jVCx2tYFPRQtzKpUyaM"
       },

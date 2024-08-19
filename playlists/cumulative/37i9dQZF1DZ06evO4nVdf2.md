@@ -2,7 +2,7 @@
 
 ### [This Is Ximena Sariñana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nVdf2)
 
-> This is Ximena Sariñana\. The essential tracks, all in one playlist.
+> This Is Ximena Sariñana\. Los temas esenciales, todos en una lista.
 
 65 songs - 4 hr 2 min
 

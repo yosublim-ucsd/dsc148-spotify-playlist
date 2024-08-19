@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,026 songs - 3 day 5 hr 11 min
+2,027 songs - 3 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Bisous](https://open.spotify.com/track/1wUOHakggAQ1fg4BCAbaq7) | [yamamay](https://open.spotify.com/artist/0tl8KGqIQCHIhEHhIwideF), [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Bisous](https://open.spotify.com/album/3gaAdTukRzzLUVUYCRP7SA) | 1:50 | 2022-11-11 | 2023-09-16 |
 | [Bittersweet Sophie](https://open.spotify.com/track/5eijXLbnLgl3vGJ4Uu0yhW) | [enix lee](https://open.spotify.com/artist/54weCXa5FPCsxbst0HJ2fF) | [Bittersweet Sophie](https://open.spotify.com/album/1t7COiXg1B3QXkPwAveZ5q) | 3:15 | 2022-10-28 |  |
 | [Blanket](https://open.spotify.com/track/5T6TpKmumMp34okwas1cS7) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Blanket](https://open.spotify.com/album/4snPSNeeozoqCrpFSedKD1) | 2:00 | 2022-10-14 | 2023-01-13 |
-| [blinded by lighthouses](https://open.spotify.com/track/7Fmtd1AaGQ6RHwETNAoDYT) | [loefd50](https://open.spotify.com/artist/0iyxxtYSvJfZPulZqy8qt1) | [blinded by lighthouses](https://open.spotify.com/album/3VPBILa7cPT8Vciie3KvRK) | 1:40 | 2023-03-20 |  |
+| [blinded by lighthouses](https://open.spotify.com/track/7Fmtd1AaGQ6RHwETNAoDYT) | [loefd50](https://open.spotify.com/artist/0iyxxtYSvJfZPulZqy8qt1) | [blinded by lighthouses](https://open.spotify.com/album/3VPBILa7cPT8Vciie3KvRK) | 1:40 | 2023-03-20 | 2024-08-19 |
 | [Bliss](https://open.spotify.com/track/6IpHohsQdyLeujYXbyqhk9) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Bliss](https://open.spotify.com/album/6PowpprpOOEx7TPQKXEgF7) | 2:02 | 2022-04-15 | 2022-10-14 |
 | [Bloom](https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Bloom](https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM) | 1:50 | 2022-08-12 | 2022-12-03 |
 | [Bloom](https://open.spotify.com/track/4rGs4GdBN8gs7OOTV7qMHc) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Bloom](https://open.spotify.com/album/7nV8JqhjlGGnmOOgI2Z31l) | 2:30 | 2022-07-01 | 2022-11-26 |
@@ -1479,7 +1479,7 @@
 | [Riff Raff](https://open.spotify.com/track/7tNVTkmMvif265BP6D5vs3) | [8track mind](https://open.spotify.com/artist/5Qak9B91vMGtkgP8y11sPA) | [Riff Raff](https://open.spotify.com/album/0sqzj74wNIb11uICs47JOE) | 2:38 | 2022-04-15 | 2022-05-27 |
 | [RIP Skippy](https://open.spotify.com/track/4MfCG6VMu4JSF4O9PI7qXr) | [1930](https://open.spotify.com/artist/04qLskUo3x0vMixvZxCK78) | [RIP Skippy](https://open.spotify.com/album/6AYiDIfdBvxhyGRPuUYh69) | 1:54 | 2023-03-20 | 2024-07-27 |
 | [Ripples](https://open.spotify.com/track/3WeZQ5yOSPwWrZKONN0DCG) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Ripples](https://open.spotify.com/album/2XBRBjmpfhSIvFBP0PpKqo) | 2:38 | 2022-08-12 | 2022-12-17 |
-| [Road to Skate](https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Road to Skate](https://open.spotify.com/album/3LNYRr29mc54LL2EaVocNC) | 2:02 | 2023-07-13 |  |
+| [Road to Skate](https://open.spotify.com/track/5YDcsnM1lqxikbeNJKyYKR) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Road to Skate](https://open.spotify.com/album/3LNYRr29mc54LL2EaVocNC) | 2:02 | 2023-07-13 | 2024-08-19 |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
 | [Roadwalk](https://open.spotify.com/track/1y4JxFcwfHaBnx91s4tdfs) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Roadwalk](https://open.spotify.com/album/6qJaJS8sB5obL0Dd58uQ0K) | 2:30 | 2022-07-15 | 2022-07-22 |
 | [Rocking Chair](https://open.spotify.com/track/2xbQ4xdV9FuN9VdCshaOcr) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Rocking Chair](https://open.spotify.com/album/0xLjnKdDGk054OL9CZsCKU) | 1:36 | 2023-06-06 | 2023-10-06 |
@@ -1524,7 +1524,7 @@
 | [Scilla](https://open.spotify.com/track/2Rl8YG9SFOrLXz4Jsr5TYV) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Scilla](https://open.spotify.com/album/6sUwRgas8r3CSikO2W4CCr) | 2:35 | 2022-12-16 | 2023-09-16 |
 | [Scoop Up](https://open.spotify.com/track/4ZS9Md0rSWfDB2dLPkZyRL) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Scoop Up](https://open.spotify.com/album/2CEE6ue2zB4J1jJ9kSv7Kc) | 2:38 | 2022-12-23 | 2023-03-09 |
 | [Scratch and Sniff](https://open.spotify.com/track/0fnBFV0cLqTXwueVyNxCfV) | [Jorge and the Homies](https://open.spotify.com/artist/4G7T4kiobBHfAdTZ1YBQLI) | [The Historic](https://open.spotify.com/album/1Zw1lBWIR5YPqktU1TzzYr) | 2:50 | 2022-06-03 | 2022-11-19 |
-| [Sea Breeze](https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Sea Breeze](https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW) | 2:36 | 2024-04-26 | 2024-07-19 |
+| [Sea Breeze](https://open.spotify.com/track/0hGuU4p9M9mUNjWmoD83CP) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Sea Breeze](https://open.spotify.com/album/3FZwrMcRz470p60fFiG6sW) | 2:36 | 2024-04-26 |  |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-29 |  |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Seattle](https://open.spotify.com/track/6OXNET31Fn6HyFBwVz8f1Y) | [Calmster](https://open.spotify.com/artist/4mlXfx2yLZtLMkZfbNbjAv) | [Seattle](https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB) | 2:21 | 2023-03-08 |  |
@@ -1682,6 +1682,7 @@
 | [Struggling With Potential](https://open.spotify.com/track/4UmxUGBDyV2l4XK0cnuAga) | [Vrouzli](https://open.spotify.com/artist/5UdyPviMkdOWjnawTiCFch) | [Struggling With Potential](https://open.spotify.com/album/09PAe79tahB3JQvLP3JHKx) | 2:02 | 2024-01-05 | 2024-08-09 |
 | [Study Buddy](https://open.spotify.com/track/0MU3ceLzNHemxgS5HiOPNY) | [UniqeCorn](https://open.spotify.com/artist/6TTcb6j1m5qnVjdSvpEHcC) | [Study Buddy](https://open.spotify.com/album/3sOCnVfTISO2Z0vI3HzrdT) | 2:25 | 2022-04-15 | 2022-09-02 |
 | [Substance](https://open.spotify.com/track/341POrHqTpGFPGywCKy9Tk) | [brokebwoy](https://open.spotify.com/artist/6W5OElrV4G52kaVSV0CLXv) | [Psyche](https://open.spotify.com/album/3S6cmiz60kdbon1Bj8BMRI) | 1:45 | 2022-07-08 | 2022-11-26 |
+| [suede life](https://open.spotify.com/track/06SMLmQLGOBTNhgJQ29akJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [suede life](https://open.spotify.com/album/5tmpy42Tvi02Csz9RhZWot) | 3:10 | 2024-08-16 |  |
 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-28 |  |
 | [Sugah Kick](https://open.spotify.com/track/0jvBTSg9Rm8EDuhLg16f6N) | [Anima](https://open.spotify.com/artist/53aEqZJgTm47vAYN2bJW3u) | [Plectrum](https://open.spotify.com/album/1zRI27Dk6Su1M9lvnrPYTo) | 2:08 | 2022-04-15 | 2022-10-14 |
 | [Sugar Kane](https://open.spotify.com/track/5eaN2h2Fzziw7l6XlnHcGb) | [Mount Dreamer](https://open.spotify.com/artist/2pPuDXt6uSj2gGllSLRjnO) | [Sugar Kane](https://open.spotify.com/album/4Hhs2fheLvSYR9Ci4cRuOl) | 2:25 | 2023-06-06 |  |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,789 songs - 1 day 12 hr 54 min
+1,793 songs - 1 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Dark Sunset Arr\. For Cello And Piano](https://open.spotify.com/track/4d126bJ6EjgBB0WYzFHjv0) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Dark Sunset Arr\. For Cello And Piano](https://open.spotify.com/album/6DNieqoaWKj4XcNLKsvMxq) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Darkness Fell](https://open.spotify.com/track/6V2s9YraHChx7sZKhQ5ano) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Darkness Fell](https://open.spotify.com/album/2m3Sj2dTXuLp5LitCFySGd) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Darkness Fell Arr\. For Cello And Felt Piano](https://open.spotify.com/track/38ZVHDuaNUZKNHeNL7sJVR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Darkness Fell Arr\. For Cello And Felt Piano](https://open.spotify.com/album/4zZbSNjwl3POiHmEtvnlIO) | 1:01 | 2023-04-19 | 2024-02-13 |
+| [Dawn](https://open.spotify.com/track/0LShF4AH2Zesro1MDHWmy3) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Dawn](https://open.spotify.com/album/4Ql2uzbyE8fUadqpoPKgdO) | 1:00 | 2024-08-19 |  |
 | [Dawn](https://open.spotify.com/track/2HrjMZtzxnVMYjW6MUJnyJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:09 | 2022-01-12 | 2024-01-30 |
 | [Dawn Glow](https://open.spotify.com/track/4rlat72mFEQ2XMLWLyM6X8) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Unending](https://open.spotify.com/album/0kM59KRjGYra61RlIexAjK) | 1:00 | 2024-02-02 |  |
 | [Day Of Rest Arr\. For Cello](https://open.spotify.com/track/1twSqWIZbQtpjo63k0X4kB) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Day Of Rest \(Strings Versions\)](https://open.spotify.com/album/0t8Ct4bvZSmLQIn7sV03eQ) | 1:00 | 2024-02-09 | 2024-02-13 |
@@ -883,6 +884,7 @@
 | [Life Flows](https://open.spotify.com/track/6DxxEAQK3cO77ZuBUyKW76) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:31 | 2022-01-20 | 2024-01-30 |
 | [Life Flows \- Piano Version](https://open.spotify.com/track/2hhhwdXajvBPF42MFgOJSH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Connection](https://open.spotify.com/album/0Q6C4bH216tRRiee56rBWa) | 1:30 | 2022-01-12 | 2024-01-30 |
 | [Lifted](https://open.spotify.com/track/2nP73lh03qPlzvzRAadaFH) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Silent Serenity](https://open.spotify.com/album/38rdMbpYKjaOlNAhjI3JTQ) | 1:01 | 2022-05-13 |  |
+| [Light Again](https://open.spotify.com/track/5hy3n7aXrviovbzRI9Q1aV) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Light Again](https://open.spotify.com/album/2rTCoMfmqEzqG5uULSrvBw) | 1:00 | 2024-08-19 |  |
 | [Light In The Darkness](https://open.spotify.com/track/43COSvhvh29nyuFHVZuDPW) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Light In The Darkness](https://open.spotify.com/album/33dPNQcH51hRH642aLr2s7) | 2:03 | 2022-01-12 | 2024-01-30 |
 | [Light In The Garden](https://open.spotify.com/track/4vJfwRp4ziWJbNJw9kZxQc) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:04 | 2022-01-20 | 2024-01-30 |
 | [Light Moon](https://open.spotify.com/track/6Q7LlPrMR0CMaDWVej48Bt) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:03 | 2022-03-18 |  |
@@ -1228,9 +1230,11 @@
 | [Rain Clouds](https://open.spotify.com/track/09Ev1C0EBvRnyEtRqenWWz) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Rain Clouds](https://open.spotify.com/album/2p9DBKyAFT5rod7faT5rYd) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Rainbows Glowing Again](https://open.spotify.com/track/5tMmR1Y23YBCgrRntU5ERN) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Rainbows Glowing Again](https://open.spotify.com/album/2Iec9JN2xTyRNRhlwSB3uG) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Raining In The Evening](https://open.spotify.com/track/2GXAXmLmpMEJnLbbOtGPge) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Raining In The Evening](https://open.spotify.com/album/54sBbLjB3MG9lKsYPCnazP) | 1:00 | 2023-07-31 | 2024-02-13 |
+| [Reach](https://open.spotify.com/track/63bJkhTpAeRR7ffTs78rbV) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Reach](https://open.spotify.com/album/5jYHvcEfaPmGLOxNRdA9Gs) | 1:00 | 2024-08-19 |  |
 | [Reaching Arr\. For Piano](https://open.spotify.com/track/0dljigG0BgCnG1jXyT4MMi) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Soft Piano Lullabies](https://open.spotify.com/album/1L1EO9QolDutpzDKVRK3t8) | 1:01 | 2023-09-06 | 2024-01-30 |
 | [Reaching Reimagined](https://open.spotify.com/track/7LU14DQyXruYc1YqmzBkVl) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Reimagination](https://open.spotify.com/album/508wIPed3LB2Kx3jhx8cJX) | 1:01 | 2023-07-06 | 2024-01-30 |
 | [Reading The Clouds](https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Reading The Clouds](https://open.spotify.com/album/6gymokvnt7nE0apSh1KyKN) | 2:47 | 2022-01-12 | 2023-04-09 |
+| [Realize](https://open.spotify.com/track/1bLq132ygVL8pqjnJQVJqJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Realize](https://open.spotify.com/album/3gA5WnT1Ix1O0umqGST1Mp) | 1:00 | 2024-08-19 |  |
 | [Recreating](https://open.spotify.com/track/0k2eVvdDcy385P0RHRPtSS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:26 | 2022-01-20 |  |
 | [Reflecting \- Strings Version](https://open.spotify.com/track/2jnbetbmRNniC4dlBjnvVJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Reflecting Light](https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Reflecting Light](https://open.spotify.com/album/4YfeXu0eclOImmjlD5aZpX) | 1:00 | 2023-01-19 |  |

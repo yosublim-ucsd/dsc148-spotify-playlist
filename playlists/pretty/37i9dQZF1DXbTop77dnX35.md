@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Bnxn, ThisIzlondon, Kizz Daniel, Joeboy, D'Banj and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,393 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,480 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 6 | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/track/2vR4pJKdFMt2Mqk3j9ZPOI) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [One Heart \(Can Change The World\) \[From the Motion Picture "Ozi: Voice of the Forest"\]](https://open.spotify.com/album/5cXDAJMKRcHtGdoVAHxIfc) | 3:21 |
 | 7 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 |
 | 8 | [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 |
-| 9 | [Attention](https://open.spotify.com/track/10XA5zX3K8n0lyV5LpK9ji) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Attention](https://open.spotify.com/album/2AdY4UcwvrLoje59GKAjLL) | 2:47 |
+| 9 | [Attention 2.0](https://open.spotify.com/track/10XA5zX3K8n0lyV5LpK9ji) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Attention 2.0](https://open.spotify.com/album/2AdY4UcwvrLoje59GKAjLL) | 2:47 |
 | 10 | [Perspective](https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Perspective](https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT) | 2:39 |
 | 11 | [FREE](https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:46 |
 | 12 | [Daily Bread](https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [King](https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi) | 2:55 |

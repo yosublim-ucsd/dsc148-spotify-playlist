@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 165695,
       "name": "Discount Hearts",
       "url": "https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ"
@@ -9040,6 +9040,28 @@
       "duration_ms": 231000,
       "name": "Wild Mustang",
       "url": "https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC"
+    },
+    {
+      "album": {
+        "name": "Wild Shit",
+        "url": "https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR"
+      },
+      "artists": [
+        {
+          "name": "Kalden Berg",
+          "url": "https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j"
+        },
+        {
+          "name": "Elsie Binx",
+          "url": "https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192339,
+      "name": "Wild Shit",
+      "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
     },
     {
       "album": {

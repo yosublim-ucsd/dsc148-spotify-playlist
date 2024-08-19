@@ -805,6 +805,32 @@
     },
     {
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "ROTTENGRAFFTY",
+          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF"
+    },
+    {
+      "album": {
         "name": "LOVE & JUSTICE/\u8d85\u4eba",
         "url": "https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX"
       },
@@ -1290,7 +1316,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 222693,
       "name": "United Sparrows",
       "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"

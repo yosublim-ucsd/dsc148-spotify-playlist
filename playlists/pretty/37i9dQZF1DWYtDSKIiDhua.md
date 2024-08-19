@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover: OJ Reambillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,596 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,603 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 8 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 |
 | 9 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 |
 | 10 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 |
-| 11 | [into u](https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ) | [savvy](https://open.spotify.com/artist/4m9eUa7s8GbFgEzVAFDuTb) | [into u](https://open.spotify.com/album/39mya9cvYpyUSp3IOL4wg4) | 3:28 |
+| 11 | [into u](https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ) | [savvy](https://open.spotify.com/artist/4uJ9bwslwvedeCO7vo352D) | [into u](https://open.spotify.com/album/39mya9cvYpyUSp3IOL4wg4) | 3:28 |
 | 12 | [I Think I'm In Love](https://open.spotify.com/track/1Hn7Z7MZF2tOWKwddQlUbi) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [I Think I'm In Love](https://open.spotify.com/album/6tQEX5zjS5qXd509rULrrC) | 3:21 |
 | 13 | [Infatuated](https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Infatuated](https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd) | 3:46 |
 | 14 | [No One Else](https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 1:56 |

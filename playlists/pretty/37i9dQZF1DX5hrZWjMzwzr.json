@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10290,
+  "num_followers": 10287,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -775,30 +775,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Mam Ci\u0119",
-        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
-      },
-      "artists": [
-        {
-          "name": "Paluch",
-          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
-        },
-        {
-          "name": "Miroff",
-          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
-        },
-        {
-          "name": "Poly",
-          "url": "https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Mam Ci\u0119",
-      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "nigdy wi\u0119cej 2022",
         "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
       },
@@ -823,6 +799,30 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Mam Ci\u0119",
+        "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
+      },
+      "artists": [
+        {
+          "name": "Paluch",
+          "url": "https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        },
+        {
+          "name": "Poly",
+          "url": "https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Mam Ci\u0119",
+      "url": "https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Stary Pezet (klasyczny)",
         "url": "https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO"
       },
@@ -843,6 +843,26 @@
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Sidehoe",
+        "url": "https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        }
+      ],
+      "duration_ms": 149169,
+      "name": "Sidehoe",
+      "url": "https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -879,26 +899,6 @@
       "duration_ms": 161142,
       "name": "K\u0142amczuch",
       "url": "https://open.spotify.com/track/2Wh79KhDg8f2e6tTmvShQ7"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Sidehoe",
-        "url": "https://open.spotify.com/album/2wvD4lW5ufIAlQcuy2Jbof"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        },
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 149169,
-      "name": "Sidehoe",
-      "url": "https://open.spotify.com/track/5qgsgQgtzY6WG6VTBpe8Oq"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Start",
-        "url": "https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr"
-      },
-      "artists": [
-        {
-          "name": "K\u0119K\u0119",
-          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
-        },
-        {
-          "name": "PSR",
-          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Start",
-      "url": "https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Kr\u00f3l jest nagi",
         "url": "https://open.spotify.com/album/6b9NF0T18WzviHeExbcGeT"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 184733,
       "name": "Kr\u00f3l jest nagi",
       "url": "https://open.spotify.com/track/0G7iH8Fs6PHELkLK0lQUlp"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "Start",
+        "url": "https://open.spotify.com/album/76Qeh82FyrDRuFfqXMIflr"
+      },
+      "artists": [
+        {
+          "name": "K\u0119K\u0119",
+          "url": "https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Start",
+      "url": "https://open.spotify.com/track/6KDupfSJDH75bwFnkVYn6O"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
+      },
+      "artists": [
+        {
+          "name": "Sok\u00f3\u0142",
+          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 184260,
+      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
+      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Mamy ci\u0119\u017cko",
         "url": "https://open.spotify.com/album/0wYBM3GIqYhMZNUFXsLS5F"
       },
@@ -1371,22 +1391,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-        "url": "https://open.spotify.com/album/2KzELKFk8kCzBu8aP10iNi"
+        "name": "Miasto Boga",
+        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
       },
       "artists": [
         {
-          "name": "Sok\u00f3\u0142",
-          "url": "https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot"
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
         },
         {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+          "name": "Sir Mich",
+          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
         }
       ],
-      "duration_ms": 184260,
-      "name": "Mi\u0142o\u015b\u0107 zawsze jest",
-      "url": "https://open.spotify.com/track/1xDgtJWs37XRF2PWFBcCz0"
+      "duration_ms": 228500,
+      "name": "Miasto Boga",
+      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
     },
     {
       "added_at": "2024-02-27 08:21:33",
@@ -1407,26 +1427,6 @@
       "duration_ms": 165212,
       "name": "Na jedna karte",
       "url": "https://open.spotify.com/track/0OBd3ANXiC25fwfAUgELva"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "Miasto Boga",
-        "url": "https://open.spotify.com/album/2SioxbV84BRLxrFgBxExrn"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/3txlfIcKCNrKk5bJw1er3R"
-        },
-        {
-          "name": "Sir Mich",
-          "url": "https://open.spotify.com/artist/77QIEno3j2L5WkrHkh2OnP"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Miasto Boga",
-      "url": "https://open.spotify.com/track/6sQuZ3E6SUUZmRTJ8DNgLH"
     },
     {
       "added_at": "2024-02-27 08:21:33",

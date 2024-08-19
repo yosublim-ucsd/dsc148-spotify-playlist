@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ">Run Into Waves</a>
 
-498 songs - 1 day 5 hr 42 min
+499 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Die Man](https://open.spotify.com/track/0UOflpM3Q5WGmigPr4W2We) | [André Visagie](https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK) | [Bo Dorp](https://open.spotify.com/album/0ob0rVAs13K2PSZeJ8P49w) | 2:42 | 2023-08-31 | 2023-10-27 |
 | [Die Son](https://open.spotify.com/track/5XN4CaqKylyeSvGRm3qKKz) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Die Son](https://open.spotify.com/album/5ttZoEZPKLeJqC1fr2okSJ) | 3:34 | 2022-11-24 | 2023-05-06 |
 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 | 2024-01-04 |  |
-| [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 | 2024-07-28 |  |
+| [Discount Hearts](https://open.spotify.com/track/4ZLoGWBOmRs5vTog21JEwJ) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Discount Hearts](https://open.spotify.com/album/4fDL2iiY0IXiCgyq6MdVPu) | 2:45 | 2024-07-28 | 2024-08-19 |
 | [Doesn't Mean You](https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ) | [Gary Collocott](https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO) | [Doesn't Mean You](https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY) | 3:15 | 2021-06-24 | 2022-02-18 |
 | [Don't Save Me](https://open.spotify.com/track/1T6Go1t6M8rsxj4Qt5VALU) | [HOKUM](https://open.spotify.com/artist/06zsO0gfNuux6sp6vSYRBV) | [The Money Eaters](https://open.spotify.com/album/4ZHztlLyE58FWzreQx1tmU) | 3:10 | 2024-01-04 | 2024-01-27 |
 | [Don't Say Goodbye](https://open.spotify.com/track/7GTj7UNfrqE3glRpZxza7I) | [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Don't Say Goodbye](https://open.spotify.com/album/6B86LoRK5Ddip3RoMUHijd) | 4:24 | 2022-11-24 | 2022-12-09 |
@@ -497,6 +497,7 @@
 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 | 2024-03-22 | 2024-05-04 |
 | [Wild Mustang](https://open.spotify.com/track/1KeN5WSXeeoNER25AtcPIJ) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/0Smguaef5yox1jDwclt0Ev) | 3:51 | 2024-02-29 | 2024-03-02 |
 | [Wild Mustang](https://open.spotify.com/track/1QeiZfDoJX2lJWekBn7vBC) | [MUSTANG](https://open.spotify.com/artist/0hjSbjmm1Tj4P26gF0wLgv) | [Wild Mustang](https://open.spotify.com/album/5qP7C6lrc7Ojt70NEWTBSg) | 3:51 | 2024-02-29 | 2024-03-23 |
+| [Wild Shit](https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty) | [Kalden Berg](https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j), [Elsie Binx](https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl) | [Wild Shit](https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR) | 3:12 | 2024-08-15 |  |
 | [Window](https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4) | [Moskitos](https://open.spotify.com/artist/1643brtMFWJOJSX9E3kEzY) | [Adieu Or Die](https://open.spotify.com/album/3T85yUoMOP2izbfZjpIBZt) | 3:12 | 2022-03-24 | 2022-08-05 |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 | 2022-11-25 |
 | [Woman of My Own Damn Mind](https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl) | [Cindy\-Louise](https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD) | [Woman of My Own Damn Mind](https://open.spotify.com/album/6SMEvTVAfvoQNTnRdJA2Bp) | 3:13 | 2022-08-04 | 2023-01-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39406,
+  "num_followers": 39404,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAACUKNuZFrfWXR7yrJenc1Ng",
+  "snapshot_id": "Zr/oAAAAAACp5sJdN4nBTlacUqKhbpN9",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Tu Presencia Es El Cielo",
+      "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo En Jes\u00fas",
         "url": "https://open.spotify.com/album/6S5o4PNr7RobifM9GVpIjE"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 271426,
       "name": "Solo En Jes\u00fas",
       "url": "https://open.spotify.com/track/68CAAYvALCFbVlO0aPr52F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Tu Presencia Es El Cielo",
-      "url": "https://open.spotify.com/track/1vEsPuI13xrlJQlbdytUFT"
     },
     {
       "added_at": null,

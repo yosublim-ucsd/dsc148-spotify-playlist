@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,463 likes - 112 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,476 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 9 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
 | 10 | [rescue me](https://open.spotify.com/track/0mocGoVNwb7fmFfrbNSYdM) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [between the lines](https://open.spotify.com/album/2iQKePX0rLL9T8DPqbEfye) | 3:41 |
 | 11 | [Hamba Cinta](https://open.spotify.com/track/3OKwXs0gGY9yZuvUBiXyXX) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Hamba Cinta](https://open.spotify.com/album/4hNdDz9enF7GHZ9U8ZnMlJ) | 3:01 |
-| 12 | [Jika Takdir \- OST Mentua](https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Jika Takdir \- OST Mentua](https://open.spotify.com/album/2qXnwAxai2l7vTW924Gntd) | 3:38 |
+| 12 | [Jika Takdir \- From "Mentua"](https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Jika Takdir \- From "Mentua"](https://open.spotify.com/album/2qXnwAxai2l7vTW924Gntd) | 3:38 |
 | 13 | [Complete](https://open.spotify.com/track/5z3bbBHOXeW0WFROMwhSQd) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Night Swim](https://open.spotify.com/album/2Y8w43FyMn47xF4PNubJNg) | 3:24 |
 | 14 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
 | 15 | [Roses](https://open.spotify.com/track/4mcTAI2cZUWC0bmdOHiuYF) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/4frUEjTX05dL5d2OG5a28J) | 2:48 |

@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: YongYong\(용용\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-718 songs - 1 day 14 hr 46 min
+719 songs - 1 day 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [PSYCHO LOVE](https://open.spotify.com/track/3aDkTioPpFkgMChtHv7GV9) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [PSYCHO LOVE](https://open.spotify.com/album/2T6pGoAsWBnYipB4L42RMc) | 3:10 | 2023-05-05 | 2023-06-01 |
 | [pure heart](https://open.spotify.com/track/1zelOJt9rCaWtpOB5zjSHd) | [furyfromguxxi](https://open.spotify.com/artist/1YdXlK5f1tOeFoNAqiyKbV) | [furyfromplugg](https://open.spotify.com/album/5JrPh8knagkoePn2YkDAAI) | 1:37 | 2022-11-10 | 2022-11-23 |
 | [PYE LIFE](https://open.spotify.com/track/575UVLiKt2Cpv4Nx5sLs9Q) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [PYE LIFE](https://open.spotify.com/album/7jivrcL7kJWstKJBanAjQh) | 3:07 | 2022-04-01 | 2022-04-21 |
+| [Q&A \(Feat\. g0nny\)](https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Q&A \(Feat\. g0nny\)](https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n) | 2:32 | 2024-08-14 |  |
 | [RACHA!](https://open.spotify.com/track/56esqTuj8kbbyuo2nRtAnW) | [LuVan](https://open.spotify.com/artist/2A26TcRO2eBgrHILiiUH70) | [BOY FROM THE OCEAN](https://open.spotify.com/album/0D28NFlUxxvt3Yxn3akVTm) | 3:00 | 2022-06-18 | 2022-06-21 |
 | [Rain \(feat\. Uyeon\)](https://open.spotify.com/track/6M7vWVw4i2oErNMtcikTE0) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g), [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Rain \(feat\. Uyeon\)](https://open.spotify.com/album/244oDj3xy4uMgU66lFd1yo) | 2:48 | 2022-07-24 | 2022-07-29 |
 | [Rain Drop](https://open.spotify.com/track/6aoJWBJoFfg7ZeLANcvsNV) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Gwangil Jo](https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW) | [Rain Drop](https://open.spotify.com/album/00oktkhIRIzEuKJs8hySTt) | 3:47 | 2022-09-28 | 2022-10-08 |
@@ -699,7 +700,7 @@
 | [WON \(feat\. O'Domar\)](https://open.spotify.com/track/1qj9VXRLsP9MTgWRln6WkK) | [Untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [O'domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw) | [WILL](https://open.spotify.com/album/43SnPWobYnohvw3K5OFwZg) | 3:17 | 2022-04-01 | 2022-04-24 |
 | [Work](https://open.spotify.com/track/6vJ2VHoaUKWO21DjfBSliI) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [B.O.Y\. \(Because Of You\)](https://open.spotify.com/album/78qKsZIDGxJ21WM306NoIt) | 3:08 | 2022-04-01 | 2022-07-16 |
 | [Work Work \(Feat\. The Quiett\)](https://open.spotify.com/track/7uMk5EMgwtYjiGoshyhBsh) | [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [HOODSTAR 2](https://open.spotify.com/album/072f1DCwul9rf1nFyjLhoa) | 3:25 | 2023-03-22 | 2023-04-07 |
-| [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-27 |  |
+| [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-27 | 2024-08-19 |
 | [Wouldn't have \(Feat\. pH\-1, Hash Swan\)](https://open.spotify.com/track/0oWzOtLAE3REU8A12VVJbq) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [Wouldn't have](https://open.spotify.com/album/4ZAbnybXbVUIapuv01pCpj) | 4:00 | 2023-03-06 | 2023-03-23 |
 | [XIBAL](https://open.spotify.com/track/5YUkZNOcWRGtH1f9vBqbEi) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [XIBAL](https://open.spotify.com/album/1wjHydWigXzaWvKh3cQSpp) | 2:52 | 2022-05-05 | 2022-07-27 |
 | [Xlove \(Feat\. JAEHA, Loco\)](https://open.spotify.com/track/4afukAXqO0LcIaSo8ykC4X) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 2:58 | 2022-05-02 | 2022-07-25 |

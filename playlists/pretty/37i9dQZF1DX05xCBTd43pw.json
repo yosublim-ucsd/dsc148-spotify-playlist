@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36420,
+  "num_followers": 36421,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 210582,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
         "name": "Rollen in den Norden",
         "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/47lM2GIRs74NcP4lTAECvk"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 210582,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7pIhoo6Uhq6V4PEaovfL8R"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
         "name": "Don't Stop The Car",
         "url": "https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 194013,
       "name": "Don't Stop The Car",
       "url": "https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -303,18 +319,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+        "name": "Kompliment",
+        "url": "https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
         }
       ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
+      "duration_ms": 165572,
+      "name": "Kompliment",
+      "url": "https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -371,6 +387,38 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
+        "name": "Bored Of The Circus",
+        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 182817,
+      "name": "Ashes By The Morning",
+      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
+        "name": "Alles was ich will",
+        "url": "https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 176383,
+      "name": "Alles was ich will",
+      "url": "https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
         "name": "No Time to Cry",
         "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
       },
@@ -403,34 +451,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Bored Of The Circus",
-        "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
       },
       "artists": [
         {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
         }
       ],
-      "duration_ms": 182817,
-      "name": "Ashes By The Morning",
-      "url": "https://open.spotify.com/track/1idK6bIrrGRcIPV7UdH3fL"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
-        "name": "Kompliment",
-        "url": "https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 165572,
-      "name": "Kompliment",
-      "url": "https://open.spotify.com/track/38okoOwbE4iBF7fK9lbz1O"
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -483,22 +515,6 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -567,38 +583,6 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Electus",
-        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 152946,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
-        "name": "Alles was ich will",
-        "url": "https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 176383,
-      "name": "Alles was ich will",
-      "url": "https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Colorblind",
-        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
+        "name": "Electus",
+        "url": "https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
         }
       ],
-      "duration_ms": 182033,
-      "name": "Colorblind",
-      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+      "duration_ms": 152946,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1rEmNxRPedLH6KwGEunAnZ"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "rabbit holes",
-        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
       "artists": [
         {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 216307,
-      "name": "rabbit holes",
-      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
+      "duration_ms": 182033,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -699,6 +683,22 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
+        "name": "Home (The Voice Of Switzerland)",
+        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 201255,
+      "name": "Home - The Voice Of Switzerland",
+      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
         "name": "SucieriaZH",
         "url": "https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Home (The Voice Of Switzerland)",
-        "url": "https://open.spotify.com/album/1nNkmovkHuMpCbdsELoYR8"
+        "name": "rabbit holes",
+        "url": "https://open.spotify.com/album/3phEbmy3JlzoSijThN3gzE"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
         }
       ],
-      "duration_ms": 201255,
-      "name": "Home - The Voice Of Switzerland",
-      "url": "https://open.spotify.com/track/1VZXG6QgMBOgyxtkTflRM7"
+      "duration_ms": 216307,
+      "name": "rabbit holes",
+      "url": "https://open.spotify.com/track/1DIwckc1SPLX99Z0WdNGGi"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Flight Mode",
-        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 150794,
-      "name": "Flight Mode",
-      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
         "name": "Maggie",
         "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 164501,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/1b3uUquOhMNhm95lPI48Fo"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 150794,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/2jWdBRug5Q4jtYEA4xGHP5"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
-      },
-      "artists": [
-        {
-          "name": "Marc Sway",
-          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
         "name": "silver lining",
         "url": "https://open.spotify.com/album/6LOE2JZwyGJwYm7rWsI3A5"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 222986,
       "name": "silver lining",
       "url": "https://open.spotify.com/track/157bHCMNAFksytHKaXNgZC"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
+      },
+      "artists": [
+        {
+          "name": "Marc Sway",
+          "url": "https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2"
     },
     {
       "added_at": "2024-08-09 09:03:56",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-09 09:03:56",
       "album": {
-        "name": "Botanical Garden",
-        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
-      },
-      "artists": [
-        {
-          "name": "Anna Erhard",
-          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
-        }
-      ],
-      "duration_ms": 188740,
-      "name": "Botanical Garden",
-      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
-    },
-    {
-      "added_at": "2024-08-09 09:03:56",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 194379,
       "name": "Julia",
       "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+    },
+    {
+      "added_at": "2024-08-09 09:03:56",
+      "album": {
+        "name": "Botanical Garden",
+        "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
+      },
+      "artists": [
+        {
+          "name": "Anna Erhard",
+          "url": "https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e"
+        }
+      ],
+      "duration_ms": 188740,
+      "name": "Botanical Garden",
+      "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
     },
     {
       "added_at": "2024-08-09 09:03:56",

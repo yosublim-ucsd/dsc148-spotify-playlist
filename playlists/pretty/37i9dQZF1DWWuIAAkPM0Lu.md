@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 💎 <a href="spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT">LISA</a> 🔗 <a href="spotify:artist:7ltDVBr6mKbRvohxheJ9h1">ROSALÍA</a> 💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,000 likes - 97 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,007 likes - 97 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

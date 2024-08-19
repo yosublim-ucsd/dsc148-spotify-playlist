@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "Jaane Kya Baat Hai",
+        "url": "https://open.spotify.com/album/3acWR5o4Ugsy7P7dQluxVS"
+      },
+      "artists": [
+        {
+          "name": "Aditya Kambhampati",
+          "url": "https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237473,
+      "name": "Jaane Kya Baat Hai",
+      "url": "https://open.spotify.com/track/5tiV8nUAsGczrg3LNMohpQ"
+    },
+    {
+      "album": {
         "name": "Sutradhaar",
         "url": "https://open.spotify.com/album/5oMbGSVotj2qtZjGxnAvkc"
       },

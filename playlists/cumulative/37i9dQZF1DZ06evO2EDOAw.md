@@ -2,14 +2,14 @@
 
 ### [This Is Kierra Sheard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EDOAw)
 
-> This Is Kierra Sheard\. Los temas esenciales, todos en una lista.
+> This is Kierra Sheard\. The essential tracks, all in one playlist.
 
 83 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2nd Win](https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [GRACELAND](https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S) | 2:55 | 2023-03-04 |  |
-| [All Glory](https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:07 | 2023-03-04 | 2024-08-11 |
+| [All Glory](https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:07 | 2023-03-04 |  |
 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 | 2023-03-04 |  |
 | [All On You](https://open.spotify.com/track/5BhcivDGndVYdFi0YeN4jq) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 3:52 | 2023-09-05 | 2023-09-10 |
 | [All Yours \(feat\. Anthony Brown\)](https://open.spotify.com/track/1vr4tE9ZjVYMpwiwp7n4vE) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Anthony Brown](https://open.spotify.com/artist/1HSMaq47ru6j0R2IFAgHDb) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 7:05 | 2023-03-05 | 2024-05-05 |
@@ -41,7 +41,7 @@
 | [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 | 2023-05-09 | 2023-08-31 |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2023-03-04 |  |
 | [Interlude \- Live](https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 0:55 | 2024-01-20 |  |
-| [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 | 2024-01-24 |  |
+| [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 | 2024-01-24 | 2024-08-19 |
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
 | [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 | 2023-11-11 |
 | [Jump, Jump \(feat\. Kierra Sheard & 21:03\)](https://open.spotify.com/track/0iJFAYWcbX2pbDVIbfxT97) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [21:03](https://open.spotify.com/artist/0N6Fi2VLCxTWZAjcSQzIB4) | [V2...](https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY) | 4:13 | 2024-02-10 | 2024-04-03 |

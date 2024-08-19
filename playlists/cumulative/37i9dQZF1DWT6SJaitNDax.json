@@ -774,28 +774,6 @@
     {
       "album": {
         "name": "Attention",
-        "url": "https://open.spotify.com/album/2AdY4UcwvrLoje59GKAjLL"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "date_added": "2024-08-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 167615,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/10XA5zX3K8n0lyV5LpK9ji"
-    },
-    {
-      "album": {
-        "name": "Attention",
         "url": "https://open.spotify.com/album/2pNZIXtAV4ppfe6VCS9zfq"
       },
       "artists": [
@@ -832,6 +810,28 @@
       "duration_ms": 180563,
       "name": "attention (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+    },
+    {
+      "album": {
+        "name": "Attention 2.0",
+        "url": "https://open.spotify.com/album/2AdY4UcwvrLoje59GKAjLL"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167615,
+      "name": "Attention 2.0",
+      "url": "https://open.spotify.com/track/10XA5zX3K8n0lyV5LpK9ji"
     },
     {
       "album": {

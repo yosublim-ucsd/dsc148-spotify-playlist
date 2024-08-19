@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,885 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,884 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 86 | [Juguetes a Belén](https://open.spotify.com/track/6iinumjLtJo7IxxsoS3Q5s) | [Rondalla Navideña Tradicional Madre de Jesus](https://open.spotify.com/artist/4kcFc6YuW5uylK8qf6lzBO) | [Celebrando la Navidad Vol\. 4\. Villancicos Cantados por Niños](https://open.spotify.com/album/0MFJjprpd8ItrD5zG7421m) | 2:21 |
 | 87 | [Ande Ande Ande](https://open.spotify.com/track/36pZ1pgAcIyG3yTId1rzza) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:26 |
 | 88 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2hIMJLScHF7WdqnZNrzlQS) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 1:33 |
-| 89 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:30 |
+| 89 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6BhqbJluxEaIk6ILy03YFS) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Top Latino Navidad \- Remix \- Audio](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:30 |
 | 90 | [Los Peces En El Rio](https://open.spotify.com/track/2cVXRo4Mp3j3HsyRyk0YtC) | [Rodolfo el Reno Y Musica Navideña](https://open.spotify.com/artist/7dalawerQXU02a0ncSjX7A) | [Rodolfo El Reno Y Canciones De Navidad](https://open.spotify.com/album/1RbeixDQXwUpBtNSmeAS93) | 2:18 |
 | 91 | [Jingle Bell Rock \- Spanish Mix](https://open.spotify.com/track/2jZ3EjE3zVqiWwRxJUPGer) | [Marco Pastor Estelles](https://open.spotify.com/artist/3MND8QdAIFyJJvvN8VPu4s) | [Jingle Bell Rock](https://open.spotify.com/album/6JoALfcujUh3AhqtFBOJ31) | 2:35 |
 | 92 | [Luces en las Calles](https://open.spotify.com/track/1zXXAguB5n7TM0desyFWVh) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek) | [Novena de Aguinaldos](https://open.spotify.com/album/60xbC3jDOQgGVnHX10CRGP) | 2:44 |

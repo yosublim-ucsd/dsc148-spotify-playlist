@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 128464,
       "name": "Audible Situation",
       "url": "https://open.spotify.com/track/2izkzLlWX3vzXmdE3v7agT"
@@ -9172,6 +9172,24 @@
       "duration_ms": 107589,
       "name": "Etude De Concert, Op. 2, No. 6, Si Oiseau J'etais, \"Were I a Bird\" - Welte-Mignon 1654",
       "url": "https://open.spotify.com/track/2xmFyAEU7U5Mr6Kjb9fJGa"
+    },
+    {
+      "album": {
+        "name": "Gentle Echoing Zen",
+        "url": "https://open.spotify.com/album/1sY16shG28HBBPcZSMlWYW"
+      },
+      "artists": [
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102629,
+      "name": "Euphoria Snug",
+      "url": "https://open.spotify.com/track/5Gi0JB4wS74VntmN8HCMlB"
     },
     {
       "album": {
@@ -23263,6 +23281,32 @@
     },
     {
       "album": {
+        "name": "50 Best Songs for Relaxing & Sleep",
+        "url": "https://open.spotify.com/album/2WagqlYLkJR3UJ4dQOUiXo"
+      },
+      "artists": [
+        {
+          "name": "Natural Sounds",
+          "url": "https://open.spotify.com/artist/1arpeXjzf6nmroE8PsxlxN"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Mantra para Dormir",
+          "url": "https://open.spotify.com/artist/4iCMqFAM6rCO1YnJlkGFg4"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "Pulsing Resonance of Life",
+      "url": "https://open.spotify.com/track/0zbtLSixKBlfYgEBIn0ipE"
+    },
+    {
+      "album": {
         "name": "Purgatory",
         "url": "https://open.spotify.com/album/4jWbZGm0Sa0F2joWL2aDKJ"
       },
@@ -27230,7 +27274,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 139636,
       "name": "Soul's Euphoric Awakening",
       "url": "https://open.spotify.com/track/0iPkjz6Of1KimZ3LXCtYxi"

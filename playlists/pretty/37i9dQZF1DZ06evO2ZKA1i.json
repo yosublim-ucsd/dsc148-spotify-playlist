@@ -1,12 +1,12 @@
 {
-  "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 289730,
+  "description": "This Is Deep Purple. Los temas esenciales, todos en una lista.",
+  "num_followers": 289751,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAACV3IMYnOrnb7XR4rMFY8Yc",
+  "snapshot_id": "Zr/oAAAAAAAbKiJoIWbqWRuX3fj+ibub",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Old-Fangled Thing",
-      "url": "https://open.spotify.com/track/1pHuvoiuocOh1y0tC3d6Il"
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 220506,
-      "name": "Lazy Sod",
-      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
+      "duration_ms": 248400,
+      "name": "Old-Fangled Thing",
+      "url": "https://open.spotify.com/track/1pHuvoiuocOh1y0tC3d6Il"
     },
     {
       "added_at": null,

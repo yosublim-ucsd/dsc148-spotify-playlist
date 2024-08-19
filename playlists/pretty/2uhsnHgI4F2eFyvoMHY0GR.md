@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 
 > Rock your workday lyric free with classic rock favorites, meditative heavy metal, and art rock wonders.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,744 likes - 42 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,745 likes - 42 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/2uhsnHgI4F2eFyvoMHY0GR.md) - [plain]
 | 7 | [Moby Dick](https://open.spotify.com/track/0h2gzJQBt6duqZD6kWiz4s) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:20 |
 | 8 | [Interstellar Overdrive \- 2011 Remastered Version](https://open.spotify.com/track/0FOHxaEjmFeuCgMUEGxiok) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Piper At The Gates Of Dawn \[2011 \- Remaster\] \(2011 Remastered Version\)](https://open.spotify.com/album/4Qgz29mI2wJFD1tbnXqj7V) | 9:40 |
 | 9 | [Crazy Otto \- Live at The Fillmore](https://open.spotify.com/track/0mCGFM0qgdx1wDEjFxCVyz) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Bayou Country \(40th Anniversary Edition\)](https://open.spotify.com/album/04CGA9H5xjYGnGMB8cLYRv) | 8:48 |
-| 10 | [The Ox \- Mono Version](https://open.spotify.com/track/439wlIgqoJOsnGxNob1X4m) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:50 |
+| 10 | [The Ox \- Mono Version](https://open.spotify.com/track/439wlIgqoJOsnGxNob1X4m) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \- U.S\. Version](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:50 |
 | 11 | [Rebel Rouser](https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN) | [Duane Eddy](https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91) | [The Best Of Duane Eddy](https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf) | 2:33 |
 | 12 | [Green Onions](https://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions / Behave Yourself](https://open.spotify.com/album/2kXlr7GzUOQxl3NLDF0DNe) | 2:47 |
 | 13 | [Apache](https://open.spotify.com/track/5ALDucFjn5MUCmui2qgTQc) | [The Shadows](https://open.spotify.com/artist/7n2bs5q3whSUnindQssIGC) | [The Shadows' Greatest Hits](https://open.spotify.com/album/489JHMGFMHtqfV8HURfx8U) | 2:54 |

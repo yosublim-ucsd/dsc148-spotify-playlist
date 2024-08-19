@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ISHA\(이샤\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,751 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,771 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 2 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 |
 | 3 | [Still LOVE](https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Time Machine](https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf) | 2:54 |
 | 4 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 |
-| 5 | [into u](https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ) | [savvy](https://open.spotify.com/artist/4m9eUa7s8GbFgEzVAFDuTb) | [into u](https://open.spotify.com/album/39mya9cvYpyUSp3IOL4wg4) | 3:28 |
+| 5 | [into u](https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ) | [savvy](https://open.spotify.com/artist/4uJ9bwslwvedeCO7vo352D) | [into u](https://open.spotify.com/album/39mya9cvYpyUSp3IOL4wg4) | 3:28 |
 | 6 | [The Night Of You & Me](https://open.spotify.com/track/3nPqJUSXNjvdsqaQuWsc6d) | [Rosoulful](https://open.spotify.com/artist/6FeHW0Ct6VvBPOoHrXjRcH) | [The Night Of You & Me](https://open.spotify.com/album/3wVzpdrpWDDac6g2Jgkenz) | 2:32 |
 | 7 | [Night & Day](https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [We Will Meet Again](https://open.spotify.com/album/0PfezZ9IzgTP74n8tPDZcv) | 4:05 |
 | 8 | [Fxxk U](https://open.spotify.com/track/4r1hWaa99K7i69M5eEEy8V) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [Fxxk U](https://open.spotify.com/album/1R7rVkQjokKtivCt8dc6wD) | 3:51 |

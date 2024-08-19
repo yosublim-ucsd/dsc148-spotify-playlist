@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 164224,
+  "num_followers": 164266,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -231,6 +211,26 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Amarcord (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OeChQ1Mo9fFrcIu2pMmGy"
       },
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Whiplash (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
-      },
-      "artists": [
-        {
-          "name": "Justin Hurwitz",
-          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "Overture - From \"Whiplash\"",
-      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 124986,
       "name": "They Can\u2019t Take That Away From Me",
       "url": "https://open.spotify.com/track/0dSPznKUTcxm3WZUURVjiI"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Whiplash (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "Overture - From \"Whiplash\"",
+      "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "When Harry Met Sally... Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
@@ -763,38 +779,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Music From Peter Gunn",
-        "url": "https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Dreamsville",
-      "url": "https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Knives Out (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5SjrBY5Dguvw7UYDIC9Fut"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+        "name": "Music From Peter Gunn",
+        "url": "https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2"
       },
       "artists": [
         {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 36653,
-      "name": "Joe's Lowdown Blues",
-      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
+      "duration_ms": 237306,
+      "name": "Dreamsville",
+      "url": "https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -871,6 +855,22 @@
       "duration_ms": 180677,
       "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 36653,
+      "name": "Joe's Lowdown Blues",
+      "url": "https://open.spotify.com/track/71QuFppTDk7XL9q6yuJa8V"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "The Thomas Crown Affair",
-        "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
-      },
-      "artists": [
-        {
-          "name": "Michel Legrand",
-          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
-        }
-      ],
-      "duration_ms": 141240,
-      "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
-      "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Staccato (Original Johnny Staccato Score)",
         "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 179893,
       "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
       "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "The Thomas Crown Affair",
+        "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
+      },
+      "artists": [
+        {
+          "name": "Michel Legrand",
+          "url": "https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy"
+        }
+      ],
+      "duration_ms": 141240,
+      "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
+      "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "'Round Midnight - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 354666,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Rounders (Music From The Miramax Motion Picture)",
         "url": "https://open.spotify.com/album/4m5HdYzqg4BMsdijJ8azjt"
       },
@@ -1415,22 +1399,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Sweet Smell Of Success (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X"
-      },
-      "artists": [
-        {
-          "name": "Chico Hamilton Quintet",
-          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
-        }
-      ],
-      "duration_ms": 299720,
-      "name": "Goodbye Baby - From The Motion Picture \"Sweet Smell Of Success\"",
-      "url": "https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Les Liasions Dangereuses",
         "url": "https://open.spotify.com/album/3Li2B3hyujN2O04sfeReJO"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Sweet Smell Of Success (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7vdGhIdDZsLHmJfdxnZL8X"
+      },
+      "artists": [
+        {
+          "name": "Chico Hamilton Quintet",
+          "url": "https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6"
+        }
+      ],
+      "duration_ms": 299720,
+      "name": "Goodbye Baby - From The Motion Picture \"Sweet Smell Of Success\"",
+      "url": "https://open.spotify.com/track/2ZPz9ZUr4U8ReQG5vRzuIH"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Like Wild",
         "url": "https://open.spotify.com/album/1C7wyM8L7dul0oSq3SDTZt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 196026,
       "name": "The Hokey Pokey - Bonus Tracks",
       "url": "https://open.spotify.com/track/1d3cIZJD7JJKBgXn7fuUH6"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "'Round Midnight - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3Q2orNwiRxvZlvxqSttl4i"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 354666,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/07rtOUm7B438woNQ9wbvlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",

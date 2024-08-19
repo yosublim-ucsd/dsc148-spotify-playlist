@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Aulia
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,316 likes - 92 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,335 likes - 92 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: דודו טסה
 
-96 songs - 5 hr 47 min
+97 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [האזרח האחד / ריבונו של עולם \- Live](https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [האזרח האחד / ריבונו של עולם \(Live\)](https://open.spotify.com/album/0xfGRfVRvrt4zh0iBTg8Eu) | 5:43 | 2024-06-27 |  |
 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 | 2024-06-27 |  |
 | [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 | 2024-08-09 |
+| [החיים שלי פיגוע יפיפה](https://open.spotify.com/track/6mJzamOGdc5LmVNpCRuQ5X) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [החיים שלי פיגוע יפיפה](https://open.spotify.com/album/0QXun3wB20gm0vOZ0KfGWZ) | 4:49 | 2024-08-15 |  |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/0GRj6FvKdaMTNqxStUGHHM) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [מתקרבים הכוכבים](https://open.spotify.com/album/0yYCbp4oZSPFWsqPA3dYZ9) | 3:03 | 2024-07-25 |  |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [היא תמשיך גם בלעדיך](https://open.spotify.com/album/4Cwr2wOmmGgmcqI74ZBe0g) | 3:03 | 2024-07-11 | 2024-07-27 |
-| [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 | 2024-07-25 |  |
+| [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 | 2024-07-25 | 2024-08-19 |
 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 | 2024-06-27 |  |
 | [הכלים השבורים](https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [הכלים השבורים](https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk) | 3:27 | 2024-07-25 |  |
 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 | 2024-06-27 |  |

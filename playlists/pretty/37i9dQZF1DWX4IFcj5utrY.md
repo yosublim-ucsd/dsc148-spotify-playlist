@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi\-iSCCQb\-Sq1fLRRA">Jayda G</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,108 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,117 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

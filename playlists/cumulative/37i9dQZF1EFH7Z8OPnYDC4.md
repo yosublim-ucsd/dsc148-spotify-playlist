@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-329 songs - 19 hr 23 min
+330 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Light On Their Feet](https://open.spotify.com/track/7A3OubU9DLaR0chrVBQBi4) | [Scott Irby\-Ranniar](https://open.spotify.com/artist/1W90Na0WyqYkbQkKiBvrPV), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Lorenz Hart](https://open.spotify.com/artist/0cbeImgBvjk8dtBiGln2UC) | [Babes In Arms \(1999 New York Cast Recording\)](https://open.spotify.com/album/0DxFBhHAYsBw7COR11gBG1) | 2:21 | 2024-07-26 |  |
 | [Little Girl Blue](https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:48 | 2024-07-26 |  |
 | [Loads Of Love](https://open.spotify.com/track/7igEzF38RmuLt4O36b8e1P) | [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [A Little Moonlight](https://open.spotify.com/album/2kI3zicMFYrMlRDHOLXJ7s) | 4:24 | 2024-07-26 |  |
-| [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 | 2024-07-26 |  |
+| [Loads Of Love](https://open.spotify.com/track/2nccD8njSGtdsZtmqZEYl7) | [Joe Harnell](https://open.spotify.com/artist/2VSItkPmLJg1zckWeMdT01) | [Fly Me To The Moon And The Bossa Nova Pops](https://open.spotify.com/album/2250KBTlhtnbb4kDApa2IH) | 2:44 | 2024-08-18 |  |
+| [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 | 2024-07-26 | 2024-08-19 |
 | [Lonely Room](https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9) | [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 2:56 | 2024-07-26 |  |
 | [Look No Further](https://open.spotify.com/track/0YWalniHwyyri3YjdEbD8H) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:58 | 2024-07-26 |  |
 | [Love Makes the World Go](https://open.spotify.com/track/1V8i6a57Zr5cvFRXAkXZSJ) | [Billy May & His Orchestra](https://open.spotify.com/artist/2BFsBQuaspauXaT95x12Zw) | [Remastered Classics, Vol\. 6, Billy May](https://open.spotify.com/album/5l2PIiKh9lsM0znc9mCNjw) | 1:48 | 2024-07-26 |  |

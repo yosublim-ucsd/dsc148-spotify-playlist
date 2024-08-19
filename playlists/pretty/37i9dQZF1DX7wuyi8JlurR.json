@@ -1,13 +1,97 @@
 {
   "description": "Risk. Reward. Repeat. Listen to the music from Industry, new season coming soon to Max.",
-  "num_followers": 11933,
+  "num_followers": 12043,
   "original_name": "Industry Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr+JewAAAAAZr9iPpFDayInbU2cdTMua",
+  "snapshot_id": "ZsKnIAAAAAAYIS3NhuDB7QXRmSNXgTOf",
   "tracks": [
+    {
+      "added_at": "2024-08-19 02:00:00",
+      "album": {
+        "name": "You Could Be",
+        "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
+      },
+      "artists": [
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 218024,
+      "name": "You Could Be",
+      "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-08-19 02:00:00",
+      "album": {
+        "name": "Il cielo in una stanza",
+        "url": "https://open.spotify.com/album/0J9ccyu3SMPZsNmxiGsdQN"
+      },
+      "artists": [
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "Il cielo in una stanza",
+      "url": "https://open.spotify.com/track/1xpOTLhRnbo5PiP0tp8dlr"
+    },
+    {
+      "added_at": "2024-08-19 02:00:00",
+      "album": {
+        "name": "Gotta Let You Go",
+        "url": "https://open.spotify.com/album/5zbe6ZuCE1gfa1PgClzqFR"
+      },
+      "artists": [
+        {
+          "name": "Dominica",
+          "url": "https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh"
+        }
+      ],
+      "duration_ms": 410623,
+      "name": "Gotta Let You Go - Club Mix",
+      "url": "https://open.spotify.com/track/77eJSMNYSqeZdhiOHDPaK6"
+    },
+    {
+      "added_at": "2024-08-19 02:00:00",
+      "album": {
+        "name": "The future none can see",
+        "url": "https://open.spotify.com/album/6aqNCeRAjmRDZhl3VIZll5"
+      },
+      "artists": [
+        {
+          "name": "Renee",
+          "url": "https://open.spotify.com/artist/340HmOr2JbZmH0a385jG52"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "High time he went",
+      "url": "https://open.spotify.com/track/43ZhFn0GsNWpfAKfk0Ft3E"
+    },
+    {
+      "added_at": "2024-08-19 02:00:00",
+      "album": {
+        "name": "Duran Duran (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Girls on Film - 2010 Remaster",
+      "url": "https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5"
+    },
     {
       "added_at": "2024-08-12 02:00:00",
       "album": {
@@ -747,7 +831,7 @@
     {
       "added_at": "2024-08-12 02:00:00",
       "album": {
-        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "name": "Home Alone (Original Motion Picture Soundtrack) - Anniversary Edition",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
       "artists": [

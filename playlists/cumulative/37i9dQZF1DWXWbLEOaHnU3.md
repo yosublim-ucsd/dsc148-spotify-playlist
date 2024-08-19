@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-291 songs - 1 day 1 hr 37 min
+292 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Opera Haus](https://open.spotify.com/track/2iHwXdybvL8uEcN2nVM9HW) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Opera Haus](https://open.spotify.com/album/49r6EIJbCwPlYabzvdU2Ts) | 3:47 | 2023-10-06 |  |
 | [Opulence \- Ilai Extended Remix](https://open.spotify.com/track/45l0y9dwxfvWgZzvjvnvWu) | [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M), [Ilai](https://open.spotify.com/artist/11wZf9Pps7qYf5xYlLu2Ku) | [Rave Ready](https://open.spotify.com/album/6hjWdzIR83zajbykdXZqoH) | 7:54 | 2022-06-03 | 2022-07-28 |
 | [Orb \- Original](https://open.spotify.com/track/0f6m4aY3YhGXMvRm8LxGqn) | [Middle Mode](https://open.spotify.com/artist/0QNiWFxX9OrK8ly7eH8o0X), [Spinal Fusion](https://open.spotify.com/artist/6MBkvPidn6kQj6ZD8dlAD1) | [Orb](https://open.spotify.com/album/3qDvok6JFIkPtbYbdxpWZ4) | 7:00 | 2022-04-22 | 2022-04-27 |
-| [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-05-26 |  |
+| [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 | 2022-05-26 | 2024-08-19 |
 | [Otherside](https://open.spotify.com/track/5Vx0adNfQ9acNFltwiXd2Z) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Otherside](https://open.spotify.com/album/66mIQU9Et5l2adfdWAQQLD) | 2:25 | 2022-11-17 |  |
 | [Out of the Blue \- One Function Remix](https://open.spotify.com/track/7Iw7iKzQPu2sJoiWFwa2mu) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [One Function](https://open.spotify.com/artist/2VdxcRZenJ5qgyMjZv5wOI) | [Out of the Blue](https://open.spotify.com/album/4zSo7sKtXB6ptXa9Z6c8U6) | 8:41 | 2022-06-30 | 2022-07-29 |
 | [Overture](https://open.spotify.com/track/5dP9ZhH0NIMLyjpjFnAVcr) | [Ilai](https://open.spotify.com/artist/11wZf9Pps7qYf5xYlLu2Ku), [Simon Patterson](https://open.spotify.com/artist/3QxbGzjZc3kgHNJOBOZM2M) | [Overture](https://open.spotify.com/album/3hX1rnC4oFEEBEJ5pp0VW9) | 7:32 | 2022-04-28 | 2022-07-22 |
@@ -248,6 +248,7 @@
 | [Tachyon](https://open.spotify.com/track/3agwWPbLIypx5Lmbzbo1GG) | [Alienatic](https://open.spotify.com/artist/1b9VVdPXdgNcd86oEvi00L) | [Tachyon](https://open.spotify.com/album/2IJRRE778hj9XS4mEiUmBn) | 6:39 | 2022-05-12 | 2022-05-20 |
 | [Tarana](https://open.spotify.com/track/1nAL2tNR71SJ7b7292chgQ) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [Frank Deka](https://open.spotify.com/artist/5x8kUiebqSVggbcIzui9Bg), [HEMANT](https://open.spotify.com/artist/0iWkV1G9VweYDTxbWk3IXc) | [Tarana](https://open.spotify.com/album/4ouAOgbFPL5pRy82jyOxk4) | 6:08 | 2023-11-10 | 2023-11-26 |
 | [Target](https://open.spotify.com/track/5ED8Ooo89oclrqDPK1NNkx) | [NyTiGen](https://open.spotify.com/artist/1w3ND5b7dKN8aNYGRi1yDH) | [Target](https://open.spotify.com/album/7eipZe6Qo52Fy4YotaZt8C) | 4:18 | 2022-06-16 | 2022-06-18 |
+| [Tears](https://open.spotify.com/track/70av8bgExOvrGBWflEToQw) | [Raz](https://open.spotify.com/artist/6AaKVN1QdU3HMRWH7tDva3), [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF) | [Tears](https://open.spotify.com/album/5BQh3H3V2a2ROhVUhbRXBp) | 4:46 | 2023-11-25 |  |
 | [Tell Me](https://open.spotify.com/track/2F1KOMuxeYb9C26Na6LXrn) | [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg), [CR3WFX](https://open.spotify.com/artist/6twYjkIFnzVKNJgEEpfnvI) | [Tell Me](https://open.spotify.com/album/3iDw2thf6VNGuxkQzl9sGr) | 4:11 | 2022-06-16 | 2022-07-23 |
 | [The Blood \- Abraxis Remix](https://open.spotify.com/track/4loaayWo7pIYpXLhbWwqe2) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Abraxis](https://open.spotify.com/artist/0VVfeAF66rSXe5NcSLuTs7) | [10 Years of Seven Lions](https://open.spotify.com/album/4GeCvjfDFBbGscwqQ3fA9S) | 6:02 | 2022-06-16 | 2023-04-12 |
 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 | 2023-03-15 |  |

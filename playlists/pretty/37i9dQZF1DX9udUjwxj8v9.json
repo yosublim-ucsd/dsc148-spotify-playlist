@@ -1,6 +1,6 @@
 {
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
-  "num_followers": 145919,
+  "num_followers": 145938,
   "original_name": "carnavalizar",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,30 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        }
+      ],
+      "duration_ms": 306853,
+      "name": "Frevo Mulher - Ao Vivo",
+      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Hora H",
         "url": "https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852"
       },
@@ -227,22 +251,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "\u00c9 Demais Meu Rei!!!",
-        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
-      },
-      "artists": [
-        {
-          "name": "Cheiro de Amor",
-          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Vai Sacudir, Vai Abalar",
-      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Nada Sem Ela",
         "url": "https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44"
       },
@@ -259,26 +267,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "\u00c9 Demais Meu Rei!!!",
+        "url": "https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+          "name": "Cheiro de Amor",
+          "url": "https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs"
         }
       ],
-      "duration_ms": 306853,
-      "name": "Frevo Mulher - Ao Vivo",
-      "url": "https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y"
+      "duration_ms": 246466,
+      "name": "Vai Sacudir, Vai Abalar",
+      "url": "https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -467,6 +467,38 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Balanc\u00ea",
+      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Nem Ouro Nem Prata",
+        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
+      },
+      "artists": [
+        {
+          "name": "Ruy Maurity",
+          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Nem Ouro Nem Prata",
+      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -483,18 +515,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Balanc\u00ea",
-      "url": "https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP"
+      "duration_ms": 215600,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -519,38 +551,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Nem Ouro Nem Prata",
-        "url": "https://open.spotify.com/album/19qW0cuIXxOcyrrNaTROrQ"
-      },
-      "artists": [
-        {
-          "name": "Ruy Maurity",
-          "url": "https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Nem Ouro Nem Prata",
-      "url": "https://open.spotify.com/track/0fNUUevlqx2mplpNppk90K"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "A M\u00fasica Do Olodum - 20 Anos",
-        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
-      },
-      "artists": [
-        {
-          "name": "Olodum",
-          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Nossa Gente (Avisa L\u00e1)",
-      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
         "name": "Sambas De Enredo Das Escolas De Samba 2019",
         "url": "https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr"
       },
@@ -603,6 +587,38 @@
       "duration_ms": 271453,
       "name": "Hist\u00f3ria Para Ninar Gente Grande",
       "url": "https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "A M\u00fasica Do Olodum - 20 Anos",
+        "url": "https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd"
+      },
+      "artists": [
+        {
+          "name": "Olodum",
+          "url": "https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Nossa Gente (Avisa L\u00e1)",
+      "url": "https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav"
+    },
+    {
+      "added_at": "2023-03-06 22:48:04",
+      "album": {
+        "name": "Feij\u00e3o Com Arroz",
+        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -651,22 +667,6 @@
       "duration_ms": 232773,
       "name": "A Vida \u00c9 Festa",
       "url": "https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4"
-    },
-    {
-      "added_at": "2023-03-06 22:48:04",
-      "album": {
-        "name": "Feij\u00e3o Com Arroz",
-        "url": "https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Rapunzel",
-      "url": "https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2"
     },
     {
       "added_at": "2023-03-06 22:48:04",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-03-06 22:48:04",
       "album": {
-        "name": "Muitos Carnavais",
-        "url": "https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv"
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
         }
       ],
-      "duration_ms": 162973,
-      "name": "Atr\u00e1s Do Trio El\u00e9trico",
-      "url": "https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX"
+      "duration_ms": 233466,
+      "name": "Nobre Vagabundo",
+      "url": "https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF"
     }
   ],
   "unique_name": "carnavalizar",

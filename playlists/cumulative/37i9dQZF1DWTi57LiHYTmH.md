@@ -4,7 +4,7 @@
 
 > A calm and cosy classical soundtrack to all activities.
 
-231 songs - 12 hr 40 min
+232 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Gnossienne: No\. 1](https://open.spotify.com/track/4820SC1xnUaabzzYQTDkP2) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Satie: Avant\-dernières pensées \(Bonus Track Version\)](https://open.spotify.com/album/1W96dST1KFsd1tZTO3eEGS) | 3:34 | 2023-08-16 | 2024-06-08 |
 | [Gnossiennes: No\. 1, Lent \- Upright Version](https://open.spotify.com/track/4TSGOrfNBKP95TqUHHjOSh) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Satie: Gnossiennes: No\. 1, Lent \(Upright Version\)](https://open.spotify.com/album/7exnm3qzSWDMqTWHUp3zB8) | 3:47 | 2024-06-07 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2023-08-16 | 2024-04-19 |
-| [Gounod: Ave Maria \(Meditation After Bach's Prelude and Fugue in C Major, BWV 846\)](https://open.spotify.com/track/0FzJAAJF3eXhobmluu4OyQ) | [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Gounod / Bach: Ave Maria](https://open.spotify.com/album/0iLKNlP1lrIoG3Rz0wlZvm) | 4:32 | 2024-07-26 |  |
+| [Gounod: Ave Maria \(Meditation After Bach's Prelude and Fugue in C Major, BWV 846\)](https://open.spotify.com/track/0FzJAAJF3eXhobmluu4OyQ) | [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Gounod / Bach: Ave Maria](https://open.spotify.com/album/0iLKNlP1lrIoG3Rz0wlZvm) | 4:32 | 2024-07-26 | 2024-08-19 |
 | [Handel: Suite No\. 11 in D Minor, HWV 437: III\. Sarabande \- Remastered 2022](https://open.spotify.com/track/4fHnQHcXdcCrVYMpP04uTR) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Mario Sollazzo](https://open.spotify.com/artist/44QKSpMVTzPZGcOegCwtIf) | [Piano Chillout: 22 Relaxing Classical Themes \(Remastered 2022\)](https://open.spotify.com/album/17ViKKpLueT54sAZuAUyPg) | 2:57 | 2023-08-16 |  |
 | [Henry V: Henry V: Touch her soft lips and part](https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [This is the Day: Music on Royal Occasions](https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y) | 1:33 | 2023-08-16 |  |
 | [improvisation](https://open.spotify.com/track/1BmSnDPeEgtI9lYp4resjj) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [improvisation](https://open.spotify.com/album/6YN6hrmHvrLewiHT4h7tRD) | 2:17 | 2024-04-05 |  |
@@ -239,5 +239,6 @@
 | [Winter](https://open.spotify.com/track/6k5iJy3uIEhaqZu9MCGCiq) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Seasons](https://open.spotify.com/album/5wXv0fuobRh6ZzrJvuHveh) | 3:08 | 2023-08-16 |  |
 | [Zdes' khorosho \('How Fair This Spot'\), Op\. 21, No\. 7](https://open.spotify.com/track/0wZMPhztIsuwSjCo6OalWe) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Denis Kozhukhin](https://open.spotify.com/artist/5iRBqpTEOgggnri1awdnNZ) | [Reflections](https://open.spotify.com/album/2y9DN1TNj4qMf1H5epuupR) | 1:59 | 2023-08-16 |  |
 | [Étude No\. 3: Ballade](https://open.spotify.com/track/7FxpoOW5H6wqbhoNUA2sKg) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Awadis: Étude No\. 3: Ballade](https://open.spotify.com/album/1gAJutFabj8D0Rf8aSHotb) | 3:23 | 2024-03-08 |  |
+| [Étude No\. 8: Through the Window](https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo) | [Marie Awadis](https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN) | [Awadis: Étude No\. 8: Through the Window](https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx) | 5:40 | 2024-07-26 |  |
 
 \*This playlist was first scraped on 2023-08-17. Prior content cannot be recovered.

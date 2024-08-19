@@ -1,12 +1,12 @@
 {
-  "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 133879,
+  "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
+  "num_followers": 133918,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAAAJgZGIzhxM8qW9EHsvGhEP",
+  "snapshot_id": "Zr/oAAAAAAB98y/lmQgSBn4uMHQiXRpd",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fin de siglo",
+        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rayito Colombiano y los Grandes Compositores",
         "url": "https://open.spotify.com/album/5EMKs9y5YoQjNRv0TuEbAm"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 206426,
       "name": "Triste Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fin de siglo",
-        "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/560VWBRAFAYoY7uieHdKVt"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Nocivo para la salud",
+      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 246786,
       "name": "Perro negro - Live",
       "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Nocivo para la salud",
-      "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 209578,
       "name": "Chavo De Onda",
       "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecho en M\u00e9xico",
         "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158533,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No te olvides de la banda",
-        "url": "https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 306773,
-      "name": "Solamente Dios",
-      "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medio Siglo Rocanroleando",
         "url": "https://open.spotify.com/album/4Oo1kMWKvF45R3JwB3RqeI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 185786,
       "name": "Que Hueva",
       "url": "https://open.spotify.com/track/3v9EK2VcxwXfjW9knCEmOW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No te olvides de la banda",
+        "url": "https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 306773,
+      "name": "Solamente Dios",
+      "url": "https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg"
     },
     {
       "added_at": null,

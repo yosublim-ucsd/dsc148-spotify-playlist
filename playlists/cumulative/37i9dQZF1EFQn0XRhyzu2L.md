@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-507 songs - 1 day 3 hr 48 min
+508 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Timeless](https://open.spotify.com/track/3ZVUKgO2Zq6wEfPqM7sjE9) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:26 | 2024-02-27 |  |
 | [TIMEZONE](https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:59 | 2024-02-27 |  |
 | [Tongue Tied \(with YUNGBLUD & blackbear\)](https://open.spotify.com/track/7jzldCBnJjpJM3epzJ85KE) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Tongue Tied \(with YUNGBLUD & blackbear\)](https://open.spotify.com/album/3NTBbNcEuBN3XKkUfk4pil) | 3:06 | 2024-02-27 |  |
+| [Tonight I Might](https://open.spotify.com/track/2Ih0CPdyK7SwbTUUkpun16) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:36 | 2024-08-18 |  |
 | [Too Soon](https://open.spotify.com/track/0r4adfzRMYrYXMQWB6rPFf) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG), [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY) | [Too Soon](https://open.spotify.com/album/2xjm5JmtEVOk12HzYWXnWE) | 3:26 | 2024-02-27 |  |
 | [Too Young](https://open.spotify.com/track/5cGT72BbXfi5Kd21lzzymT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:29 | 2024-02-27 |  |
 | [Touch](https://open.spotify.com/track/5vvTArvy925m36VaABJvdB) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Touch](https://open.spotify.com/album/5Vhwmy8P4MljjsgZe4sgmG) | 3:18 | 2024-02-27 |  |

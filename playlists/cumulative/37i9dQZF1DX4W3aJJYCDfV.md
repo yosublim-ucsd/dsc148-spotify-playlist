@@ -4,7 +4,7 @@
 
 > Brand new music from Post Malone \(pictured\),  Hozier,  The Blessed Madonna ft\. Kylie and more!
 
-11,912 songs - 26 day 18 hr 41 min
+11,913 songs - 26 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1413,6 +1413,7 @@
 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 | 2024-05-09 | 2024-05-17 |
 | [Boys?](https://open.spotify.com/track/0Jqf3LtwQ5Aj0kxmogJ927) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Boys?](https://open.spotify.com/album/5sX8tF07Xs6rnWfRf0XyzN) | 3:10 | 2023-05-25 | 2023-06-02 |
 | [Brain Freeze](https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [Brain Freeze](https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau) | 4:16 | 2024-05-02 | 2024-05-10 |
+| [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-15 |  |
 | [Brain Pills](https://open.spotify.com/track/51BmnvazYmY5Tu3fJdFeSY) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Brain Pills](https://open.spotify.com/album/1CM1RQpEYTQjr5LGkGvgq4) | 3:10 | 2024-01-12 | 2024-01-19 |
 | [BRAINWASHED](https://open.spotify.com/track/4ImWu6A4KgQbTfNkkvaZQ3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [BRAINWASHED](https://open.spotify.com/album/0LfDJpBcEmuU7DVbz1cI61) | 2:44 | 2023-03-10 | 2023-03-18 |
 | [Brambles](https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Brambles](https://open.spotify.com/album/1LqHcvT0n9mb3DSp6oL8NB) | 3:32 | 2023-11-17 | 2023-11-24 |

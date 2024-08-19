@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 172 songs - 9 hr 13 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 174 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 170 | [On Fire](https://open.spotify.com/track/07YlTLGFG2LsTkqGFwY5jC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:59 |
 | 171 | [Disco Shit \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/5GWQw74fr86tHask8d01Lg) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Netflix & Deal](https://open.spotify.com/album/35tPQpgvxQjbCBbOhq424T) | 2:51 |
 | 172 | [Range Rover Sports Truck \(Lil Yachty & Lil Keed\)](https://open.spotify.com/track/03Aji6nA2bOepJewgLQUUa) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 2:52 |
+| 173 | [Confused](https://open.spotify.com/track/1cK5zOWpPCYdoGQczIltf6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lean](https://open.spotify.com/album/1pxbLI1IX7RKkbMjaSrm9j) | 3:58 |
+| 174 | [Good Dope](https://open.spotify.com/track/2YXEUNdnNLtFuf5gi3LnWm) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 2:52 |
 
-Snapshot ID: `AAAc3NukZFb4oZHTSeG2gWTkn02yXDcG`
+Snapshot ID: `AAAc3oyWNdK9RFmTCw9XCAWcA/JKhfVR`

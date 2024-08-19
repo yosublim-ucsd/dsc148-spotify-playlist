@@ -1,6 +1,6 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 110568,
+  "num_followers": 110589,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+        "name": "Disco Cumbia M\u00e9xico (2)",
+        "url": "https://open.spotify.com/album/2aDLfd5FysnODAzaOKZSTY"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         },
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+      "duration_ms": 227000,
+      "name": "La Ladrona",
+      "url": "https://open.spotify.com/track/5jNMs2N5L3T4zRdlImX1nz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -231,42 +231,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Disco Cumbia M\u00e9xico (2)",
-        "url": "https://open.spotify.com/album/2aDLfd5FysnODAzaOKZSTY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "La Ladrona",
-      "url": "https://open.spotify.com/track/5jNMs2N5L3T4zRdlImX1nz"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Otra Como Tu",
         "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
       },
@@ -279,6 +243,42 @@
       "duration_ms": 220618,
       "name": "Otra Como Tu",
       "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
     },
     {
       "added_at": "2023-01-25 00:22:47",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Un Poco Locos (Edici\u00f3n De Lujo)",
         "url": "https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v"
       },
@@ -479,46 +495,6 @@
       "duration_ms": 209973,
       "name": "Yo Te Pido Amor",
       "url": "https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Coraz\u00f3n Part\u00edo",
-        "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
-      },
-      "artists": [
-        {
-          "name": "Margarita la diosa de la cumbia",
-          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Coraz\u00f3n Part\u00edo",
-      "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        }
-      ],
-      "duration_ms": 221823,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -543,6 +519,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Coraz\u00f3n Part\u00edo",
+        "url": "https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi"
+      },
+      "artists": [
+        {
+          "name": "Margarita la diosa de la cumbia",
+          "url": "https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Coraz\u00f3n Part\u00edo",
+      "url": "https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Lo Siento",
         "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
       },
@@ -563,18 +559,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/4AOwRkeJSIowptYmRnE3RT"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
         }
       ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+      "duration_ms": 221823,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/7HfBfu8aVH5mz03JPMPpHF"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6A9vvGqlmgw8UZMnrzfxpb"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4SAdpJMNj4JQanV3hD7JTn"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Corazon, Perro Fiel, Echame La Culpa,",
         "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 193736,
       "name": "Corazon, Perro Fiel, Echame La Culpa,",
       "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 227943,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -719,22 +735,6 @@
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Mil Horas",
-        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        }
-      ],
-      "duration_ms": 227943,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -783,22 +783,6 @@
       "duration_ms": 186697,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Version Cumbia la Plata 2017",
-        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
-      },
-      "artists": [
-        {
-          "name": "Version Cumbia La Plata",
-          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
-        }
-      ],
-      "duration_ms": 180401,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -867,6 +851,22 @@
       "duration_ms": 212413,
       "name": "Dulce (A La La La La Long)",
       "url": "https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Version Cumbia la Plata 2017",
+        "url": "https://open.spotify.com/album/4uBqzE4puJZbntAjY3EWR2"
+      },
+      "artists": [
+        {
+          "name": "Version Cumbia La Plata",
+          "url": "https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv"
+        }
+      ],
+      "duration_ms": 180401,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RXpYeI6ZhERfW4yWtYwno"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1011,38 +1011,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Simplemente Amigos",
-        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
-      },
-      "artists": [
-        {
-          "name": "BXS",
-          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
-        }
-      ],
-      "duration_ms": 224298,
-      "name": "Simplemente Amigos - Electrocumbia Remix",
-      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Org\u00e1nico",
-        "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/7xyMJM00ssoz6JTx21Ugre"
       },
@@ -1059,18 +1027,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+        "name": "Simplemente Amigos",
+        "url": "https://open.spotify.com/album/70XaPL4zDedzkblk8I2iEM"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "BXS",
+          "url": "https://open.spotify.com/artist/1YP7wQtwByB9lM5a5zoARO"
         }
       ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
+      "duration_ms": 224298,
+      "name": "Simplemente Amigos - Electrocumbia Remix",
+      "url": "https://open.spotify.com/track/2R7fljjzrK1HERQinrgYyU"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1091,6 +1059,38 @@
       "duration_ms": 166000,
       "name": "I Feel It Coming - Version Cumbia",
       "url": "https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/4vqCBJeSIvfoW353NudnX7"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1BkA16BeinW9nl5tY1QJnv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1215,6 +1215,30 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
+      },
+      "artists": [
+        {
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
+        },
+        {
+          "name": "Agu Cartier",
+          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
+        },
+        {
+          "name": "Cande Grau",
+          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Escapate Conmigo",
         "url": "https://open.spotify.com/album/0NkYH6Y00QR1Cds5nRZIHZ"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 249910,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/2QebKAsE19YlK3AIMw0wHQ"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/5pGUyvkN6cw85W0rE8n3kp"
-      },
-      "artists": [
-        {
-          "name": "Otto Bunge",
-          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
-        },
-        {
-          "name": "Agu Cartier",
-          "url": "https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW"
-        },
-        {
-          "name": "Cande Grau",
-          "url": "https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/0SiWVtwTPUoano0e5jvwn8"
     },
     {
       "added_at": "2023-01-25 00:22:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Los Miticos del Ritmo (Soundway Records)",
-        "url": "https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I"
-      },
-      "artists": [
-        {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "No Pares Hasta Tener lo Suficiente - Don't Stop 'til You Get Enough",
-      "url": "https://open.spotify.com/track/7D1AsxEUv12CXEzTmyZXWX"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2C4CoZHH6lJfkS347Rhnov"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 196556,
       "name": "Y como es el",
       "url": "https://open.spotify.com/track/1yBWVlFXC1AJ24UwuL147W"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Porque Te Vas",
+        "url": "https://open.spotify.com/album/7MPPPm0riN8hPwPJkesxjg"
+      },
+      "artists": [
+        {
+          "name": "Elidian",
+          "url": "https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Porque Te Vas",
+      "url": "https://open.spotify.com/track/3a2Md1VXg4LpNePLaN1a0H"
     }
   ],
   "unique_name": "Cumbia Covers",

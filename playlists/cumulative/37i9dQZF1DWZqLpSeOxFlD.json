@@ -237,24 +237,6 @@
     },
     {
       "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "date_added": "2024-03-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237400,
-      "name": "F*ck Up Some Commas",
-      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
-    },
-    {
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
       },
@@ -318,6 +300,24 @@
       "duration_ms": 144866,
       "name": "Fuck That",
       "url": "https://open.spotify.com/track/3VlCIYEdNORYA3OF5K0nQm"
+    },
+    {
+      "album": {
+        "name": "DS2 - Deluxe",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "Fuck Up Some Commas",
+      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
     },
     {
       "album": {

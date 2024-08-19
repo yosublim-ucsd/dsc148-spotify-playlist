@@ -7863,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/6a3NVQfwG2LJ1JUbslBn54"
+      },
+      "artists": [
+        {
+          "name": "Shy Smith",
+          "url": "https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159642,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/6UoUGrNJg8xJOVEjlYM7OB"
+    },
+    {
+      "album": {
         "name": "don\u2019t quote me",
         "url": "https://open.spotify.com/album/0SSY3o387GNrqwLPxrbOgR"
       },
@@ -9401,6 +9419,24 @@
     },
     {
       "album": {
+        "name": "GOT ME LIKE",
+        "url": "https://open.spotify.com/album/7Buwb7UcytpprR6kv8cHUI"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "GOT ME LIKE",
+      "url": "https://open.spotify.com/track/193MpbI1EiA4MEj6aDwErC"
+    },
+    {
+      "album": {
         "name": "GPS",
         "url": "https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN"
       },
@@ -9836,6 +9872,24 @@
       "duration_ms": 263160,
       "name": "Haram (Pablo II)",
       "url": "https://open.spotify.com/track/1v7FirpqhKxOjyvf8hD7U2"
+    },
+    {
+      "album": {
+        "name": "Haven",
+        "url": "https://open.spotify.com/album/2kgkjzGau4O5UHvwvKRMSp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Farrow",
+          "url": "https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224629,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6PBWbcTVS9K0IwbM8RzrxO"
     },
     {
       "album": {
@@ -14246,7 +14300,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 220192,
       "name": "Love Me Like You Say You Do",
       "url": "https://open.spotify.com/track/4NO0f4NB6jmsmUT2hNtNE8"
@@ -16518,6 +16572,24 @@
       "duration_ms": 187653,
       "name": "Never Far From Paradise",
       "url": "https://open.spotify.com/track/5yJDj9ppmBA3FANgQMA24D"
+    },
+    {
+      "album": {
+        "name": "Never Know",
+        "url": "https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1"
     },
     {
       "album": {
@@ -22174,7 +22246,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 177310,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0gjg8NLYcdx5iSFE8HOgcR"
@@ -22560,7 +22632,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 120078,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr"
@@ -23278,7 +23350,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 141376,
       "name": "the devil",
       "url": "https://open.spotify.com/track/2Lg0U1Sgy9RjYnGyTIdEow"

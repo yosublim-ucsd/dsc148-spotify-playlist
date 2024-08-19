@@ -2,7 +2,7 @@
 
 ### [This Is Alaina Castillo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03E4VO)
 
-> This Is Alaina Castillo\. Los temas esenciales, todos en una lista.
+> This is Alaina Castillo\. The essential tracks, all in one playlist.
 
 41 songs - 2 hr 7 min
 

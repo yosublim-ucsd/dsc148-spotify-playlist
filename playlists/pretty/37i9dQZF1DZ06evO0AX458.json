@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3500,
+  "num_followers": 3501,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAAAR0/IO8sNMv3CZx5TFmfZv",
+  "snapshot_id": "Zr/oAAAAAAAYhEQUHQWeoDlRfOjk+BgB",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Anyone / Anything - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/3dwwMlK4bFGjWmX36vZqqN"
+      "duration_ms": 61346,
+      "name": "Praise / Love - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/2Zy9QUlZ3i0biDhQXtM9pg"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 61346,
-      "name": "Praise / Love - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/2Zy9QUlZ3i0biDhQXtM9pg"
+      "duration_ms": 159360,
+      "name": "Anyone / Anything - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/3dwwMlK4bFGjWmX36vZqqN"
     },
     {
       "added_at": null,

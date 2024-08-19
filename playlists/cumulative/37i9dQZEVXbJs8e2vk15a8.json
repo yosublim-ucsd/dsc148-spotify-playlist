@@ -11021,6 +11021,24 @@
     },
     {
       "album": {
+        "name": "HABLANDO DE TI",
+        "url": "https://open.spotify.com/album/6rnqGuJHKPtXBDDuT9zTIf"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187073,
+      "name": "DEYANDEL",
+      "url": "https://open.spotify.com/track/7hxilbHrjpPQPtLZ8GsScn"
+    },
+    {
+      "album": {
         "name": "Los Rompecorazones, Vol. 2",
         "url": "https://open.spotify.com/album/12vHml9HiOBynzmSzcg4i1"
       },
@@ -24552,7 +24570,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 154961,
       "name": "MENTE EN BLANCO",
       "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
@@ -39946,7 +39964,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 152133,
       "name": "TNT",
       "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"
@@ -41720,7 +41738,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 154800,
       "name": "UN SIGLO SIN TI",
       "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"

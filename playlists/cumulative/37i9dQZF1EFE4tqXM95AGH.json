@@ -2593,6 +2593,24 @@
     },
     {
       "album": {
+        "name": "Kpop Piano #75",
+        "url": "https://open.spotify.com/album/6eajkqJn9Tva9SvTVmYfr2"
+      },
+      "artists": [
+        {
+          "name": "Shin Giwon Piano",
+          "url": "https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142355,
+      "name": "Open Always Wins",
+      "url": "https://open.spotify.com/track/4vuudfaZC8lxouxxC9tLOz"
+    },
+    {
+      "album": {
         "name": "Why?",
         "url": "https://open.spotify.com/album/48I2gzctst5EmUaVNUsnwL"
       },

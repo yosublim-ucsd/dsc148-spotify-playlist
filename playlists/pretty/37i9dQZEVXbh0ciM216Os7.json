@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABBE90V9/CswLsw5eqZwQfw",
+  "snapshot_id": "AAAAAAAAAAD8QTOqOcGz0VynUtIBNpP0",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -79,26 +79,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Finer Things",
-        "url": "https://open.spotify.com/album/04Eyy8rccvW3LaS8Q2QIUi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Finer Things (Feat. Hank Williams Jr.)",
-      "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "All You Children",
         "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
       },
@@ -119,74 +99,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
-        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+        "name": "Finer Things",
+        "url": "https://open.spotify.com/album/04Eyy8rccvW3LaS8Q2QIUi"
       },
       "artists": [
         {
-          "name": "Jon Benjamin - Jazz Daredevil",
-          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         },
         {
-          "name": "H. Jon Benjamin",
-          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
-        },
-        {
-          "name": "Alexis Kesselman",
-          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 126932,
-      "name": "I Shoplift Even Though I\u2019m Rich",
-      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Wrong Thing (with Kash'd Out)",
-        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Wrong Thing (with Kash'd Out)",
-      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Chamber Cypher",
-        "url": "https://open.spotify.com/album/52bNbKa1hmgdtM3wt21G0k"
-      },
-      "artists": [
-        {
-          "name": "Big Dave",
-          "url": "https://open.spotify.com/artist/79KeK5F3mbOg6HpGm4xsZC"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        },
-        {
-          "name": "Killah Preist",
-          "url": "https://open.spotify.com/artist/4bosAShTZvFUW9dy5zVJ87"
-        }
-      ],
-      "duration_ms": 388000,
-      "name": "Chamber Cypher",
-      "url": "https://open.spotify.com/track/76AqiN1jcTfMBMWcmEltsy"
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -231,22 +159,46 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Bad Boys 2",
-        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+        "name": "Wrong Thing (with Kash'd Out)",
+        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         },
         {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
         }
       ],
-      "duration_ms": 133670,
-      "name": "Bad Boys 2",
-      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+      "duration_ms": 222840,
+      "name": "Wrong Thing (with Kash'd Out)",
+      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Avon Barksdale",
+        "url": "https://open.spotify.com/album/4SILFZQqkTeZjJ5sdw5a1r"
+      },
+      "artists": [
+        {
+          "name": "DreamMusicEntertainment",
+          "url": "https://open.spotify.com/artist/2HF25zzdJmx4qOnFaxnS6k"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Ruste Juxx",
+          "url": "https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP"
+        }
+      ],
+      "duration_ms": 170370,
+      "name": "Avon Barksdale",
+      "url": "https://open.spotify.com/track/0yKHprnaS33HwVbqtypi9u"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -279,6 +231,46 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Our Broken Hearts Mend",
+        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
+      },
+      "artists": [
+        {
+          "name": "Manana",
+          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "See What I See",
+      "url": "https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "sweet moon",
         "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
       },
@@ -295,6 +287,50 @@
       "duration_ms": 255054,
       "name": "sweet moon (jung remix)",
       "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "duration_ms": 126932,
+      "name": "I Shoplift Even Though I\u2019m Rich",
+      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bob Marley (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 108335,
+      "name": "Bob Marley (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -351,48 +387,8 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Our Broken Hearts Mend",
-        "url": "https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B"
-      },
-      "artists": [
-        {
-          "name": "Manana",
-          "url": "https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "See What I See",
-      "url": "https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Bob Marley (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
-      },
-      "artists": [
-        {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 108335,
-      "name": "Bob Marley (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
       "artists": [
         {
@@ -408,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 167213,
+      "duration_ms": 163155,
       "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
+      "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -611,6 +607,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Sincere",
         "url": "https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq"
       },
@@ -627,22 +639,6 @@
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Mid Spiral",
-        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Best Left Unsolved - Bonus Track",
-      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
       "added_at": "2024-08-16 04:00:00",

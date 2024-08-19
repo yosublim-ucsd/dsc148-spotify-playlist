@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,424 likes - 123 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,454 likes - 123 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,7 +124,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 114 | [Aku Rindu](https://open.spotify.com/track/1YeDuXbeMJbi8ZYGFBm61N) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Kembali](https://open.spotify.com/album/1MqSmDmurubwCpebiTNasY) | 3:13 |
 | 115 | [Gila Kuasa](https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw) | [Pop Shuvit](https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [GILA KUASA](https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI) | 3:40 |
 | 116 | [Hamba Cinta](https://open.spotify.com/track/3OKwXs0gGY9yZuvUBiXyXX) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Hamba Cinta](https://open.spotify.com/album/4hNdDz9enF7GHZ9U8ZnMlJ) | 3:01 |
-| 117 | [Jika Takdir \- OST Mentua](https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Jika Takdir \- OST Mentua](https://open.spotify.com/album/2qXnwAxai2l7vTW924Gntd) | 3:38 |
+| 117 | [Jika Takdir \- From "Mentua"](https://open.spotify.com/track/1x6LpGrpKateVMT1MNT1YE) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Jika Takdir \- From "Mentua"](https://open.spotify.com/album/2qXnwAxai2l7vTW924Gntd) | 3:38 |
 | 118 | [Kimi no Maedato Tokechauno](https://open.spotify.com/track/5jpPlJ85nCoFbfyBYBiMLL) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Kimi no Maedato Tokechauno](https://open.spotify.com/album/2sDTTD0BizHNfsLb9P19Q4) | 3:33 |
 | 119 | [ドッペルゲンガー](https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ドッペルゲンガー / Re:Re:](https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H) | 3:39 |
 | 120 | [WHATAWON](https://open.spotify.com/track/5Im4xMRlfulxIESigZTPsz) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [WHATAWON](https://open.spotify.com/album/1fEIuk9hJKweqWHlkyfYlj) | 3:08 |

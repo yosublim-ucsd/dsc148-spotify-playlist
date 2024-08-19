@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain](/playlists/plain/37i9dQZF1E4kTD46HZNyiq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4kTD46HZNyiq)
 
-### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
+### [NIGHT TRAVELER 电台](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With By The Coast, LAVE, VICTORS and more
+> 包含 By The Coast, LAVE, VICTORS 等艺人的作品
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,860 likes - 50 songs - 3 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Deep Burn Blue](https://open.spotify.com/track/7vh8aA3VMof7m2JR8hX8Nm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:39 |
 | 50 | [Sunlight](https://open.spotify.com/track/5QTDDCZytU2evkFhaMSYus) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:45 |
 
-Snapshot ID: `ZsFUjAAAAAD9cz7WgcghQA5jyeGvxAJB`
+Snapshot ID: `ZsKwwwAAAAD8Z9CKvkPYnGsyGpBu4Oef`

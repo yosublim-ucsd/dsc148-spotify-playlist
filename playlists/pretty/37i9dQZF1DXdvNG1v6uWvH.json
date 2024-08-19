@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9086,
+  "num_followers": 9088,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -289,6 +289,42 @@
       "url": "https://open.spotify.com/track/6lYTLerBitQ355HTZUX4nq"
     },
     {
+      "added_at": "2024-08-16 08:15:03",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 136708,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Quantum Baby",
+        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
+    },
+    {
       "added_at": "2024-08-16 00:00:00",
       "album": {
         "name": "PINACOLADA",
@@ -315,22 +351,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Quantum Baby",
-        "url": "https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Light It Up (feat. MC Ambush)",
         "url": "https://open.spotify.com/album/6IDFsFFsCXzGp77ELU6zbP"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 156146,
       "name": "Light It Up (feat. MC Ambush)",
       "url": "https://open.spotify.com/track/2nwmp06W0pxsQltnsW4ElE"
-    },
-    {
-      "added_at": "2024-08-16 08:15:03",
-      "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 136708,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Rust",
-        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        }
-      ],
-      "duration_ms": 275010,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Complicated (with Fridayy)",
         "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
       },
@@ -461,6 +445,22 @@
       "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
     },
     {
+      "added_at": "2024-08-16 08:15:03",
+      "album": {
+        "name": "SIS (Soft Is Strong)",
+        "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 154987,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
+    },
+    {
       "added_at": "2024-08-16 00:00:00",
       "album": {
         "name": "F-1 Trillion",
@@ -477,20 +477,20 @@
       "url": "https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt"
     },
     {
-      "added_at": "2024-08-16 08:15:03",
+      "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "SIS (Soft Is Strong)",
-        "url": "https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr"
+        "name": "Rust",
+        "url": "https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
         }
       ],
-      "duration_ms": 154987,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b"
+      "duration_ms": 275010,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
     },
     {
-      "added_at": "2024-08-16 00:00:00",
+      "added_at": "2024-08-16 08:15:03",
       "album": {
-        "name": "Purple Teeth, The Bravery",
-        "url": "https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV"
+        "name": "right person, wrong time",
+        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Purple Teeth, The Bravery",
-      "url": "https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM"
+      "duration_ms": 220666,
+      "name": "right person, wrong time",
+      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -571,22 +571,6 @@
       "duration_ms": 206955,
       "name": "Die For Me (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
-    },
-    {
-      "added_at": "2024-08-16 08:15:03",
-      "album": {
-        "name": "right person, wrong time",
-        "url": "https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "right person, wrong time",
-      "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -611,22 +595,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Rush Of Blood",
-        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Rush Of Blood",
-      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Satellites",
         "url": "https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5"
       },
@@ -639,22 +607,6 @@
       "duration_ms": 160710,
       "name": "Home Is Where the Hurt Is",
       "url": "https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Forget It",
-        "url": "https://open.spotify.com/album/1KVD8DBaK6XZSzMnV2CjsF"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/2KGbe11xuFTb1L7VSb6QDR"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -679,6 +631,38 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
+        "name": "Purple Teeth, The Bravery",
+        "url": "https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Purple Teeth, The Bravery",
+      "url": "https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Rush Of Blood",
+        "url": "https://open.spotify.com/album/77uBN5BPyZA5z5K09MKRcQ"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Rush Of Blood",
+      "url": "https://open.spotify.com/track/7qKmGhUhmsqwHnYNAm2mwp"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
         "name": "Not In The Store",
         "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
       },
@@ -699,6 +683,38 @@
       "duration_ms": 189870,
       "name": "Not In The Store",
       "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/1KVD8DBaK6XZSzMnV2CjsF"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/2KGbe11xuFTb1L7VSb6QDR"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "break up with me",
+        "url": "https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 152640,
+      "name": "break up with me",
+      "url": "https://open.spotify.com/track/0b23sw8Yo8I44tmsh8B19K"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -751,18 +767,26 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "break up with me",
-        "url": "https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE"
+        "name": "Weyu",
+        "url": "https://open.spotify.com/album/12xO5IhrP0lHtjue6If8S4"
       },
       "artists": [
         {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        },
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
         }
       ],
-      "duration_ms": 152640,
-      "name": "break up with me",
-      "url": "https://open.spotify.com/track/0b23sw8Yo8I44tmsh8B19K"
+      "duration_ms": 133365,
+      "name": "Weyu",
+      "url": "https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -787,30 +811,6 @@
       "duration_ms": 140147,
       "name": "I Wanna Feel",
       "url": "https://open.spotify.com/track/4o1crfN4dAD452fykT9dmh"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Weyu",
-        "url": "https://open.spotify.com/album/12xO5IhrP0lHtjue6If8S4"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
-        },
-        {
-          "name": "Amadi Blue",
-          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
-        }
-      ],
-      "duration_ms": 133365,
-      "name": "Weyu",
-      "url": "https://open.spotify.com/track/66tTks0fdZ1t8Ux7SF0yrZ"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "They Shoot Horses",
-        "url": "https://open.spotify.com/album/3c4Ymrulj2hXTFBPYJQFPT"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 348378,
-      "name": "They Shoot Horses",
-      "url": "https://open.spotify.com/track/6BI1PLj1wG3ANf4BnGdRLG"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Stars In My Eyes",
         "url": "https://open.spotify.com/album/2nFtI51DMpkyBSZEiKsKUp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 165531,
       "name": "Stars In My Eyes",
       "url": "https://open.spotify.com/track/0Q7bOcpFas8koz5fqLDaUZ"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "They Shoot Horses",
+        "url": "https://open.spotify.com/album/3c4Ymrulj2hXTFBPYJQFPT"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 348378,
+      "name": "They Shoot Horses",
+      "url": "https://open.spotify.com/track/6BI1PLj1wG3ANf4BnGdRLG"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/53LIEoBVRqQrFUS2kC2wHT"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 144646,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/6TJW1HmoAU2OPNcL8M0PUM"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/73wC0ne2a1wSaN4DHe27eR"
       },
@@ -1007,6 +991,54 @@
       "duration_ms": 160957,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 154013,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Don't Tell Nobody",
+        "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "duration_ms": 173925,
+      "name": "Don't Tell Nobody",
+      "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1039,54 +1071,18 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Can\u2019t Dance",
-        "url": "https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio"
+        "name": "All In",
+        "url": "https://open.spotify.com/album/53LIEoBVRqQrFUS2kC2wHT"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         }
       ],
-      "duration_ms": 184205,
-      "name": "Can\u2019t Dance",
-      "url": "https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/2simPoFMlXOgstLyQQYomC"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 154013,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3MZSuu8bD15Ha7LtRWyMQg"
+      "duration_ms": 144646,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/6TJW1HmoAU2OPNcL8M0PUM"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1111,6 +1107,26 @@
       "duration_ms": 193333,
       "name": "Realise",
       "url": "https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Can\u2019t Dance",
+        "url": "https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 184205,
+      "name": "Can\u2019t Dance",
+      "url": "https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1163,42 +1179,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Cool [2020]",
-        "url": "https://open.spotify.com/album/4AhpPq144bl2U9Ba0Zb3kF"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/6Vi0l0FKmydrOVzdU1l423"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Don't Tell Nobody",
-        "url": "https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN"
-      },
-      "artists": [
-        {
-          "name": "ONE OR EIGHT",
-          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
-        }
-      ],
-      "duration_ms": 173925,
-      "name": "Don't Tell Nobody",
-      "url": "https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "The Bed, The Room, The Rain and You",
         "url": "https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5"
       },
@@ -1211,6 +1191,22 @@
       "duration_ms": 148422,
       "name": "The Bed, The Room, The Rain and You",
       "url": "https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Big Heart",
+        "url": "https://open.spotify.com/album/5ZVNpEHPupS6O4QRR8zZP1"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 179576,
+      "name": "Big Heart",
+      "url": "https://open.spotify.com/track/2WAY8PYqxhE4p46cefar0w"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1255,22 +1251,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Lost In The Dark",
-        "url": "https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Lost In The Dark",
-      "url": "https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2o8FB5In49LJ1J715UONBO"
       },
@@ -1287,54 +1267,6 @@
       "duration_ms": 117160,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/7dah4zdHQX4VVPAl7HGOEX"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Big Heart",
-        "url": "https://open.spotify.com/album/5ZVNpEHPupS6O4QRR8zZP1"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 179576,
-      "name": "Big Heart",
-      "url": "https://open.spotify.com/track/2WAY8PYqxhE4p46cefar0w"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/5SdjFd7vXcbvQAjOy2kLwb"
-      },
-      "artists": [
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/7GJAITul5ZTnYLRBJTricW"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 164363,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1359,6 +1291,26 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
+        "name": "Cool [2020]",
+        "url": "https://open.spotify.com/album/4AhpPq144bl2U9Ba0Zb3kF"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6Vi0l0FKmydrOVzdU1l423"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk"
       },
@@ -1379,18 +1331,50 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2tKcHyeDAbtdoOJ6EpoCXR"
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2Ge3gHjvufJ7LVsINXgY5l"
       },
       "artists": [
         {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 171249,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/2gCZpfBPmMQ26t6yVPYMA1"
+      "duration_ms": 164363,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6gaM0L6EltW1U11WvAJFV1"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Lost In The Dark",
+        "url": "https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Lost In The Dark",
+      "url": "https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5SdjFd7vXcbvQAjOy2kLwb"
+      },
+      "artists": [
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/7GJAITul5ZTnYLRBJTricW"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1411,6 +1395,38 @@
       "duration_ms": 153230,
       "name": "On Track",
       "url": "https://open.spotify.com/track/1020vNgoaBqElQy60vJQzR"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2tKcHyeDAbtdoOJ6EpoCXR"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 171249,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/2gCZpfBPmMQ26t6yVPYMA1"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/5dACeSQRrbBOeDo0gijmMr"
+      },
+      "artists": [
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 172575,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/5RowCPFtnH874UBD6KGqwt"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Hangover",
-        "url": "https://open.spotify.com/album/5dACeSQRrbBOeDo0gijmMr"
-      },
-      "artists": [
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
-        }
-      ],
-      "duration_ms": 172575,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/5RowCPFtnH874UBD6KGqwt"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Final Form (feat. Colouring)",
         "url": "https://open.spotify.com/album/4WQUxUk5X5juYuMfVTAQV6"
       },
@@ -1503,18 +1503,38 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "No One Else",
-        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
       },
       "artists": [
         {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Adlin",
+          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
         }
       ],
-      "duration_ms": 231072,
-      "name": "No One Else",
-      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
+      "duration_ms": 172622,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Make You Cry",
+        "url": "https://open.spotify.com/album/0T4YsoIcOhjheoo2dn3uX7"
+      },
+      "artists": [
+        {
+          "name": "NALYRO",
+          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+        }
+      ],
+      "duration_ms": 152092,
+      "name": "Make You Cry",
+      "url": "https://open.spotify.com/track/3NtFbKpQGzCvSZzTab2Kji"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1559,18 +1579,18 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Make You Cry",
-        "url": "https://open.spotify.com/album/0T4YsoIcOhjheoo2dn3uX7"
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
       },
       "artists": [
         {
-          "name": "NALYRO",
-          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
         }
       ],
-      "duration_ms": 152092,
-      "name": "Make You Cry",
-      "url": "https://open.spotify.com/track/3NtFbKpQGzCvSZzTab2Kji"
+      "duration_ms": 231072,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1611,26 +1631,6 @@
       "duration_ms": 190584,
       "name": "Pile Of Wood",
       "url": "https://open.spotify.com/track/5VvrluL9oo4Sq4gvCyimcS"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
-      },
-      "artists": [
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Adlin",
-          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
-        }
-      ],
-      "duration_ms": 172622,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Crash & Smile in Dada Land - August",
-        "url": "https://open.spotify.com/album/459B1j7H2RAlKTwOYqp1FN"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        }
-      ],
-      "duration_ms": 212109,
-      "name": "5 Notes From Paradise",
-      "url": "https://open.spotify.com/track/4X7hxJwXTXjwevXymNuLih"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Raise Your Glass (feat. DINER)",
         "url": "https://open.spotify.com/album/2wzAMQg6TnW1GH64P9YWkn"
       },
@@ -1751,6 +1735,54 @@
       "duration_ms": 120483,
       "name": "Raise Your Glass (feat. DINER)",
       "url": "https://open.spotify.com/track/131K9WHjrZSqKIJh4kO1A7"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Crash & Smile in Dada Land - August",
+        "url": "https://open.spotify.com/album/459B1j7H2RAlKTwOYqp1FN"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "duration_ms": 212109,
+      "name": "5 Notes From Paradise",
+      "url": "https://open.spotify.com/track/4X7hxJwXTXjwevXymNuLih"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Black Lake",
+        "url": "https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 175555,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
+    },
+    {
+      "added_at": "2024-08-16 00:00:00",
+      "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
     },
     {
       "added_at": "2024-08-16 00:00:00",
@@ -1799,22 +1831,6 @@
     {
       "added_at": "2024-08-16 00:00:00",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 202933,
       "name": "River",
       "url": "https://open.spotify.com/track/6qdNWFedbcEaaSs5ru5T8Q"
-    },
-    {
-      "added_at": "2024-08-16 00:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3mXean8ztYQUIcU037nFH4"
-      },
-      "artists": [
-        {
-          "name": "Yune",
-          "url": "https://open.spotify.com/artist/5rdAHVb3yMOC25XkaiAjhU"
-        }
-      ],
-      "duration_ms": 279130,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/03PKhW6sqJlM0nkp9Jnsrx"
     }
   ],
   "unique_name": "New Music Friday Iceland",

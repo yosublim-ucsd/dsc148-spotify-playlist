@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 38583,
+  "num_followers": 38609,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+      },
+      "artists": [
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        },
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Playing With Foc...",
-        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
-      },
-      "artists": [
-        {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
-        },
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Playing With Foc...",
-      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
+        "name": "I Am Somebody",
+        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
       },
       "artists": [
         {
-          "name": "Silvie Loto",
-          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
+          "name": "Technasia",
+          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
         }
       ],
-      "duration_ms": 308636,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
+      "duration_ms": 417145,
+      "name": "I Am Somebody",
+      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "I Am Somebody",
-        "url": "https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/4WvVSOcxkJLk56Rkn2sKyN"
       },
       "artists": [
         {
-          "name": "Technasia",
-          "url": "https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5"
+          "name": "Silvie Loto",
+          "url": "https://open.spotify.com/artist/79pt77aQRjnLUoKOGUi7Um"
         }
       ],
-      "duration_ms": 417145,
-      "name": "I Am Somebody",
-      "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
+      "duration_ms": 308636,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/5FLeEuEPsnTadO4jbKb34E"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "duration_ms": 162914,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Origins EP",
         "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 236279,
       "name": "Origins - 3AM Tusi Mix",
       "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "So Far So Good",
-        "url": "https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11"
-      },
-      "artists": [
-        {
-          "name": "Viot",
-          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
-        }
-      ],
-      "duration_ms": 162914,
-      "name": "So Far So Good",
-      "url": "https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1511,26 +1511,6 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Mandarino",
-        "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Puff (ITA)",
-          "url": "https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf"
-        }
-      ],
-      "duration_ms": 308085,
-      "name": "Mandarino",
-      "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1563,6 +1543,26 @@
       "duration_ms": 333913,
       "name": "Tempelhof",
       "url": "https://open.spotify.com/track/1OXu6yphRorUKpTttBMMhl"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Mandarino",
+        "url": "https://open.spotify.com/album/6Q4691rahwBsUh6SonmYlW"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Puff (ITA)",
+          "url": "https://open.spotify.com/artist/5Qg4A2TQVh8Cr9Jx19FpRf"
+        }
+      ],
+      "duration_ms": 308085,
+      "name": "Mandarino",
+      "url": "https://open.spotify.com/track/2RvjRFKZEl5h5S8QftppUR"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Come Right Back EP",
-        "url": "https://open.spotify.com/album/5RokEMqMKMwoN7F4mFA4IF"
-      },
-      "artists": [
-        {
-          "name": "Nick Curly",
-          "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
-        }
-      ],
-      "duration_ms": 400187,
-      "name": "Come Right Back",
-      "url": "https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "DR-EP-2068",
         "url": "https://open.spotify.com/album/1PB5Z6p5whpyCiQoHXId4y"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Come Right Back EP",
+        "url": "https://open.spotify.com/album/5RokEMqMKMwoN7F4mFA4IF"
+      },
+      "artists": [
+        {
+          "name": "Nick Curly",
+          "url": "https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2"
+        }
+      ],
+      "duration_ms": 400187,
+      "name": "Come Right Back",
+      "url": "https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj"
     }
   ],
   "unique_name": "Minimal Tech",

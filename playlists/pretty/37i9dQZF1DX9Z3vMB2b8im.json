@@ -1,28 +1,28 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2292077,
+  "num_followers": 2292187,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrTfrAAAAADv48iiJmrUddK23m0w1fcS",
+  "snapshot_id": "ZsJSSgAAAACfS9zOfXe/m7CGrL8GSa9v",
   "tracks": [
     {
-      "added_at": "2024-08-07 10:32:23",
+      "added_at": "2024-08-18 19:58:02",
       "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+      "duration_ms": 211187,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3"
     },
     {
       "added_at": "2024-08-08 10:59:55",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -107,22 +123,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "House Song",
         "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
       },
@@ -135,6 +135,22 @@
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -171,6 +187,22 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 215341,
+      "name": "The View Between Villages",
+      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY"
       },
@@ -199,22 +231,6 @@
       "duration_ms": 104260,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 215341,
-      "name": "The View Between Villages",
-      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -283,6 +299,22 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -331,22 +363,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 92040,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "What A Devastating Turn of Events",
         "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
-        "name": "Bright Future",
-        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 158065,
-      "name": "Cell Phone Says",
-      "url": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "Bright Future",
+        "url": "https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 158065,
+      "name": "Cell Phone Says",
+      "url": "https://open.spotify.com/track/2qUoLYCGQGJPlEM99tKd3t"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "The Old Parade",
         "url": "https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "Canada",
-        "url": "https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV"
+        "name": "One Last Song",
+        "url": "https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
         }
       ],
-      "duration_ms": 190253,
-      "name": "Canada",
-      "url": "https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX"
+      "duration_ms": 209000,
+      "name": "One Last Song",
+      "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -603,22 +619,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "One Last Song",
-        "url": "https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl"
-      },
-      "artists": [
-        {
-          "name": "Laura Alden",
-          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "One Last Song",
-      "url": "https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "The Death Of Summer & Other Promises",
         "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
       },
@@ -651,6 +651,42 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
+        "name": "afraid",
+        "url": "https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD"
+      },
+      "artists": [
+        {
+          "name": "kid apollo",
+          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
+        },
+        {
+          "name": "Kilu",
+          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
+        }
+      ],
+      "duration_ms": 180068,
+      "name": "afraid",
+      "url": "https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
         "name": "all in good Time,",
         "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
       },
@@ -679,26 +715,6 @@
       "duration_ms": 151960,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
-        "name": "afraid",
-        "url": "https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD"
-      },
-      "artists": [
-        {
-          "name": "kid apollo",
-          "url": "https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u"
-        },
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 180068,
-      "name": "afraid",
-      "url": "https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2024-08-07 10:32:23",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
-      },
-      "artists": [
-        {
-          "name": "Qazi & Qazi",
-          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
         "name": "Someone Like You 2",
         "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 185000,
       "name": "Someone Like You 2",
       "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
+    },
+    {
+      "added_at": "2024-08-07 10:32:23",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG"
+      },
+      "artists": [
+        {
+          "name": "Qazi & Qazi",
+          "url": "https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
     },
     {
       "added_at": "2024-08-07 10:32:23",
@@ -1279,22 +1295,6 @@
       "duration_ms": 221225,
       "name": "Sometimes (I Can Be An Island)",
       "url": "https://open.spotify.com/track/2wZqjKaqUmiWcledmQKT31"
-    },
-    {
-      "added_at": "2024-08-07 10:32:23",
-      "album": {
-        "name": "wholeness",
-        "url": "https://open.spotify.com/album/0YAcw5LtpuU5ukwC5eMsP1"
-      },
-      "artists": [
-        {
-          "name": "bathhat",
-          "url": "https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wholeness",
-      "url": "https://open.spotify.com/track/2sZGejZUMzGuZMUgx27iQE"
     },
     {
       "added_at": "2024-08-07 10:32:23",

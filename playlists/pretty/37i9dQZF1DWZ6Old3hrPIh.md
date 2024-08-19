@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Old3hrPIh.md) - [plain]
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Haniya Aslam
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,019 likes - 59 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,030 likes - 59 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

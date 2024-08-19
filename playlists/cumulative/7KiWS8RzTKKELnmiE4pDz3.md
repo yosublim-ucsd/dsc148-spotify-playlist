@@ -4,7 +4,7 @@
 
 > 
 
-752 songs - 1 day 12 hr 6 min
+754 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Colombian Necktie](https://open.spotify.com/track/4wYu5bgBXctjSov4QUJxzZ) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [DR\. EV4L](https://open.spotify.com/album/4emCVXg7Sd9tFn0DEf8B1L) | 4:06 | 2022-09-08 |  |
 | [Come Catch Me](https://open.spotify.com/track/6CVRKPKIQawSt3Uh1eOoBi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:03 | 2023-01-03 | 2023-12-14 |
 | [Confessions](https://open.spotify.com/track/6Tm2931jP5r0yN3EZ0xbfQ) | [Maitchhh](https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh) | [Confessions](https://open.spotify.com/album/5GDRXm5vahoRbkSiqXrGi3) | 3:25 | 2022-06-26 | 2023-12-14 |
+| [Confused](https://open.spotify.com/track/1cK5zOWpPCYdoGQczIltf6) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lean](https://open.spotify.com/album/1pxbLI1IX7RKkbMjaSrm9j) | 3:58 | 2024-08-18 |  |
 | [Converse](https://open.spotify.com/track/114QcT33m0rvR6vCtn4xly) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Converse](https://open.spotify.com/album/1shTATlG905ZkBRLov2eCO) | 2:08 | 2022-11-04 | 2023-12-14 |
 | [Cooties](https://open.spotify.com/track/6B7FWe7D3c4LKO5cSz19iD) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 2:52 | 2024-03-04 |  |
 | [Copy My Flow](https://open.spotify.com/track/63l7bSuyNl1rRDNR4RrpbY) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [BABY WHOA](https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV) | 1:18 | 2023-01-03 | 2023-05-09 |
@@ -252,6 +253,7 @@
 | [Goin Back 2 Ella](https://open.spotify.com/track/3VQhU8rnOgfSmtBDW7K9Dg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 2:51 | 2023-01-25 | 2023-05-09 |
 | [Goin' To Hell](https://open.spotify.com/track/3opC4kS9RpbNJw7aORFmGF) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Oxy & Codeine](https://open.spotify.com/album/35UOSWUudVMViGWMUXiNQC) | 1:08 | 2022-05-24 | 2023-05-09 |
 | [Golden Child!](https://open.spotify.com/track/6SB97vEyrYAd6sjnwoeLqj) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:03 | 2022-08-27 | 2023-08-20 |
+| [Good Dope](https://open.spotify.com/track/2YXEUNdnNLtFuf5gi3LnWm) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 2:52 | 2024-08-18 |  |
 | [Got rich](https://open.spotify.com/track/37WtW8yj9PfLuM4YMnMIj1) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:01 | 2023-01-06 | 2023-05-09 |
 | [Gotta Blast \(feat\. Diego Money & Bandman Fari\)](https://open.spotify.com/track/7de1qGSxUfnKLNqncRksuk) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [Diego Money](https://open.spotify.com/artist/0SVbeXuRTG8bc7NJ33JYB6), [Bandmanfari](https://open.spotify.com/artist/6h5EZQ3OJCVadk8yOKSUPx) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 2:11 | 2022-05-16 | 2024-03-05 |
 | [Goyard](https://open.spotify.com/track/5nBBdfEP8RYglPxTClmvW7) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Im Still Serious](https://open.spotify.com/album/6vAdaRFZy95JxZqmt9q0wk) | 2:18 | 2022-12-25 | 2023-12-14 |

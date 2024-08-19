@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 175333,
+  "num_followers": 175416,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Shitlist",
+      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Spend The Night (U.S. Version)",
         "url": "https://open.spotify.com/album/15wLLULZwFUQ2aDp4PB3nv"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 85476,
       "name": "Beg For The Torture",
       "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Shitlist",
-      "url": "https://open.spotify.com/track/7fxpqs4G8vj3rFYbJnsG7w"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "FREE I.H: This Is Not the One You've Been Waiting For",
         "url": "https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 94360,
       "name": "superiority complex (big noise)",
       "url": "https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Bricks Are Heavy",
+        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Wargasm",
+      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -411,38 +443,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 93493,
-      "name": "New Radio",
-      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Bricks Are Heavy",
-        "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
-      },
-      "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Wargasm",
-      "url": "https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Pottymouth",
         "url": "https://open.spotify.com/album/0er043d9DCecxrz0XVsPos"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 565453,
-      "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
-      "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "White Flag",
         "url": "https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 146090,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Rid Of Me",
+        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "50ft Queenie",
+      "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Rid Of Me",
-        "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 143666,
-      "name": "50ft Queenie",
-      "url": "https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu"
+      "duration_ms": 565453,
+      "name": "Land: Horses / Land of a Thousand Dances / La Mer(de)",
+      "url": "https://open.spotify.com/track/0KkXMzaRaXL8AyChkWbYCx"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
+        "name": "Fontanelle",
+        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+      },
+      "artists": [
+        {
+          "name": "Babes In Toyland\u00a0",
+          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Handsome & Gretel",
+      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
         "name": "Feel Your Feelings Fool!",
         "url": "https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Fontanelle",
-        "url": "https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09"
+        "name": "Silence Yourself",
+        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
       },
       "artists": [
         {
-          "name": "Babes In Toyland\u00a0",
-          "url": "https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z"
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
         }
       ],
-      "duration_ms": 110693,
-      "name": "Handsome & Gretel",
-      "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
+      "duration_ms": 170133,
+      "name": "Husbands",
+      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -791,22 +807,6 @@
       "duration_ms": 198200,
       "name": "Dress",
       "url": "https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
-        "name": "Silence Yourself",
-        "url": "https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60"
-        }
-      ],
-      "duration_ms": 170133,
-      "name": "Husbands",
-      "url": "https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Racist, Sexist Boy (Live at LA Public Library)",
-        "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 125695,
-      "name": "Racist, Sexist Boy - Live at LA Public Library",
-      "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Luxury Problem",
         "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 248893,
       "name": "Bad Ass Bitch",
       "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Racist, Sexist Boy (Live at LA Public Library)",
+        "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 125695,
+      "name": "Racist, Sexist Boy - Live at LA Public Library",
+      "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Run Fast",
-        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
-      },
-      "artists": [
-        {
-          "name": "The Julie Ruin",
-          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Girls Like Us",
-      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Pleasure",
         "url": "https://open.spotify.com/album/3X3iZ9MRMFk75oqiSpeKuV"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 120573,
       "name": "Getting Nowhere Fast",
       "url": "https://open.spotify.com/track/0xF9xdi5cI0fi7ZgC7MrzZ"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Run Fast",
+        "url": "https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f"
+      },
+      "artists": [
+        {
+          "name": "The Julie Ruin",
+          "url": "https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 279787,
-      "name": "Organs",
-      "url": "https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "babyface",
         "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 152297,
       "name": "Seafood",
       "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 279787,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Happier Still",
-      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Look Blue Go Purple Compilation",
         "url": "https://open.spotify.com/album/0l1n4dDAwKOpp5ZyOoTK00"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 177333,
       "name": "I Don't Want You Anyway",
       "url": "https://open.spotify.com/track/5JdY3aB0msrkLZya4fEerb"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Happier Still",
+      "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Riot Grrrls and Kinder Whores",
-        "url": "https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp"
-      },
-      "artists": [
-        {
-          "name": "Chloe Le Fay",
-          "url": "https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16"
-        }
-      ],
-      "duration_ms": 147160,
-      "name": "Half Girl Half Rant",
-      "url": "https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Cold Cold Hearts",
         "url": "https://open.spotify.com/album/2zdFqVcD1PJnz14X3k8Aod"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 197226,
       "name": "Cute Boy Discount",
       "url": "https://open.spotify.com/track/1iJHW1X7Kke2OQ9fK7Fou1"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Riot Grrrls and Kinder Whores",
+        "url": "https://open.spotify.com/album/7EHVHN11h03RcqnDUQ1Twp"
+      },
+      "artists": [
+        {
+          "name": "Chloe Le Fay",
+          "url": "https://open.spotify.com/artist/2t2MJihJl9u08jj4N6dV16"
+        }
+      ],
+      "duration_ms": 147160,
+      "name": "Half Girl Half Rant",
+      "url": "https://open.spotify.com/track/7f1yOiKyYUasPVR4LvsCVT"
     },
     {
       "added_at": "2024-07-22 20:24:37",

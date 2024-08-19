@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Michigander
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,111 likes - 128 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,141 likes - 128 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

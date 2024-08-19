@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Bodysnatcher
 
-560 songs - 1 day 12 hr 32 min
+561 songs - 1 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Absolved of The Strings And Stone](https://open.spotify.com/track/7KgjltpLZz7YXOM0LoYBZz) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Absolved of The Strings And Stone](https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox) | 3:41 | 2021-12-17 | 2022-07-28 |
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2021-12-17 | 2023-04-15 |
 | [Adamaster](https://open.spotify.com/track/114hhdSWl6iOCStbinlQ4b) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Adamaster](https://open.spotify.com/album/7fkm6iQaQ6A54jQRglHVkm) | 4:25 | 2024-06-25 |  |
-| [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-06-24 |  |
+| [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-06-24 | 2024-08-19 |
 | [Advent](https://open.spotify.com/track/33kAXkQiwseu6RVSXRiF0Y) | [Shotgun Surgeon](https://open.spotify.com/artist/3dCtvudpUBqvlCvlfYMJp3) | [Advent](https://open.spotify.com/album/4ATV4dfkAQf26vDefZmyR4) | 4:54 | 2022-01-14 | 2022-02-09 |
 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 | 2021-12-17 | 2023-04-15 |
 | [Aeon](https://open.spotify.com/track/0s2lGfL4e7xOkKh9EFZvEB) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Aeon](https://open.spotify.com/album/1YtI0fTdiK9IriSOl80XhE) | 4:10 | 2021-12-17 | 2024-06-26 |
@@ -375,6 +375,7 @@
 | [Of the Abyss](https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [...And I Return To Nothingness \- EP](https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk) | 5:43 | 2021-12-17 |  |
 | [Omega](https://open.spotify.com/track/3YxSM482jeTSrlnSjdFFeW) | [Abyss Above](https://open.spotify.com/artist/0scPLkLLKJ1iEr4cnCVQ9m) | [Doombound](https://open.spotify.com/album/5YugQGshaYkmmqFpSF7IdL) | 3:53 | 2021-12-31 | 2022-07-27 |
 | [On Wings of Carnage](https://open.spotify.com/track/7EqQT7pzLZ7SPfZpLcb1Wr) | [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [On Wings of Carnage](https://open.spotify.com/album/5niBQpquiMHRxrrjrNtgNB) | 3:45 | 2022-01-21 |  |
+| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2024-06-25 |  |
 | [Order of the Black Worm](https://open.spotify.com/track/3i31Z6cHzFGew8GcQ0TNMi) | [Let It Rot](https://open.spotify.com/artist/5p9HWdsMLHKU8PCj5UWeiU) | [Order of the Black Worm](https://open.spotify.com/album/0PGkBzdVl5w2fFvmLZXaZn) | 3:16 | 2021-12-17 | 2022-05-26 |
 | [Oren: The Ogre](https://open.spotify.com/track/1QWooGuXqmQvhrOLcoEret) | [And Hell Followed With](https://open.spotify.com/artist/7MnEOC6vXcGp5P8RiFrlCm), [A Wake in Providence](https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa), [Adam Mercer](https://open.spotify.com/artist/754SibCWLnBzQ7Nd1uFRDi) | [Oren: The Ogre](https://open.spotify.com/album/0GjOkn1vLvK0zPfipytMD9) | 4:32 | 2024-02-27 | 2024-05-16 |
 | [Orphan of Blight](https://open.spotify.com/track/0FqUTC2WXiBhSd6N2vXaWn) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Orphan of Blight](https://open.spotify.com/album/4nQfKw0MqqObJRh1qtljqg) | 4:40 | 2022-12-02 |  |

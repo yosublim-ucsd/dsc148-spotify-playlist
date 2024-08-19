@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 272640,
       "name": "Gounod: Ave Maria (Meditation After Bach's Prelude and Fugue in C Major, BWV 846)",
       "url": "https://open.spotify.com/track/0FzJAAJF3eXhobmluu4OyQ"
@@ -5364,6 +5364,24 @@
       "duration_ms": 203773,
       "name": "\u00c9tude No. 3: Ballade",
       "url": "https://open.spotify.com/track/7FxpoOW5H6wqbhoNUA2sKg"
+    },
+    {
+      "album": {
+        "name": "Awadis: \u00c9tude No. 8: Through the Window",
+        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
+      },
+      "artists": [
+        {
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340040,
+      "name": "\u00c9tude No. 8: Through the Window",
+      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTi57LiHYTmH"

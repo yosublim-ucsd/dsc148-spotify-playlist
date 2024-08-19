@@ -4,7 +4,7 @@
 
 > Your weekly dose of new dance\. Cover: The Blessed Madonna & Kylie Minogue
 
-2,523 songs - 5 day 19 hr 27 min
+2,524 songs - 5 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [Brain](https://open.spotify.com/track/2oXY9Dw45tIBh9ln2mdPQj) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Brake Fluid](https://open.spotify.com/album/6y5cvZO6OK8UCRXPU5Cmmj) | 4:45 | 2023-10-26 | 2023-11-25 |
 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 | 2023-03-16 | 2023-04-14 |
 | [Brain Freeze \- Mell Hall Remix](https://open.spotify.com/track/1d4tzmcT4MuKaSbVJ1MUoz) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Brain Freeze \(Remixes\)](https://open.spotify.com/album/0ZMMK5HNacOBXFr42jMQyY) | 3:04 | 2023-06-16 | 2023-07-07 |
+| [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-15 |  |
 | [Break](https://open.spotify.com/track/21qh7wOW9qljk3A7tMAyLM) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Break / Saw U](https://open.spotify.com/album/3B9VRmFZ4TK6jgRsgextA5) | 4:06 | 2024-03-14 | 2024-04-12 |
 | [Break You Off](https://open.spotify.com/track/3QS8vnf6Xy8UOfsagGpQAz) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [Break You Off](https://open.spotify.com/album/2ry8ryGJrwoIKiCUPjU87O) | 3:19 | 2023-08-17 | 2023-09-15 |
 | [Break Your Composure](https://open.spotify.com/track/6Xp5WQZCUMGXNnmRmoeLrR) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Break Your Composure](https://open.spotify.com/album/0wBYaOuAvUWJhi81UjZlYz) | 2:54 | 2023-11-23 | 2023-12-19 |

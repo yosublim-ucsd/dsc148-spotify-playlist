@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 14563,
+  "num_followers": 14575,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 243785,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "On Rainy Days (2021)",
-        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "On Rainy Days (2021)",
-      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "Syndrome",
+        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Syndrome",
+      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK"
-      },
-      "artists": [
-        {
-          "name": "JAEMAN",
-          "url": "https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "I\u2019ll Hold You Tight",
-      "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
         "name": "\ubd88\uaf43, \ub180\uc774",
         "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
       },
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "Syndrome",
-        "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
+        "name": "Destined with You (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/0XwdstY4SjObzQiSsQzwSK"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "JAEMAN",
+          "url": "https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Syndrome",
-      "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
+      "duration_ms": 215533,
+      "name": "I\u2019ll Hold You Tight",
+      "url": "https://open.spotify.com/track/3R7cGnlTJErw4tpPbNdGsf"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -555,6 +555,22 @@
       "duration_ms": 218000,
       "name": "Talk About Love",
       "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Kiss The Rain",
+      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -611,22 +627,6 @@
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Kiss The Rain",
-      "url": "https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "From the Rain (Feat. Ahn Ye Eun)",
-      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
         "name": "Rainy Season",
         "url": "https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf"
       },
@@ -775,18 +755,38 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
-        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
       "artists": [
         {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
         }
       ],
-      "duration_ms": 235346,
-      "name": "Shadow Love",
-      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
+      "duration_ms": 164893,
+      "name": "From the Rain (Feat. Ahn Ye Eun)",
+      "url": "https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "The Interest of Love (Original Television Soundtrack, Pt. 9)",
+        "url": "https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
         }
       ],
-      "duration_ms": 216373,
-      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
-      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+      "duration_ms": 235346,
+      "name": "Shadow Love",
+      "url": "https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB"
     },
     {
       "added_at": "2024-08-09 09:24:09",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/0PZ63QeOhEi3NUk6rNoglc"
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
       },
       "artists": [
         {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Ending (Prod. LAZY)",
-      "url": "https://open.spotify.com/track/5fGGdRkZSosJZSLXL0Mppd"
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

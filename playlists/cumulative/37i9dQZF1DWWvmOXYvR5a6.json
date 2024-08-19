@@ -10561,6 +10561,28 @@
     },
     {
       "album": {
+        "name": "Q&A (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        }
+      ],
+      "date_added": "2024-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152773,
+      "name": "Q&A (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
+    },
+    {
+      "album": {
         "name": "BOY FROM THE OCEAN",
         "url": "https://open.spotify.com/album/0D28NFlUxxvt3Yxn3akVTm"
       },
@@ -14802,7 +14824,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 193986,
       "name": "Workaholic (feat. ASH ISLAND)",
       "url": "https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq"

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,659 songs - 4 day 17 hr 49 min
+1,660 songs - 4 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Believe](https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX) | [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Who You Are EP](https://open.spotify.com/album/4ebgeJzWzstciDwvXNgS4G) | 4:00 | 2021-04-30 | 2022-07-29 |
 | [Believer \- Marsh's Guatape Remix](https://open.spotify.com/track/1GHOLip5jcgRIBqd8QUx7N) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Believer \(Marsh's Guatape Remix\)](https://open.spotify.com/album/7GGVUzqEZQFwbHsBO3Fzam) | 4:15 | 2022-01-07 | 2024-03-02 |
 | [Bellariva](https://open.spotify.com/track/5tGboJa7ztLFH3d1gFOGFn) | [Hear & Now](https://open.spotify.com/artist/3YQwxKTjtAELAeGeqY4HgJ) | [Alba Sol](https://open.spotify.com/album/1ZDWGVjdLTUgVbZ2uGG5kW) | 5:39 | 2020-05-26 | 2020-10-09 |
-| [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 |  |
+| [Benidorm](https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp) | [Benidorm](https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj) | 2:14 | 2024-08-02 | 2024-08-19 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-07 |  |
 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 | 2021-08-13 | 2022-08-20 |
 | [Better Than You Think](https://open.spotify.com/track/4JLdjEPwa80Kfn1tOl0Rdb) | [Mr\. Tape](https://open.spotify.com/artist/7ladzyDVpwhv848vat5v9P), [Sego](https://open.spotify.com/artist/0GtuGhnsCPahfLCAFg27gj) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 6:43 | 2020-03-17 | 2021-01-23 |
@@ -580,6 +580,7 @@
 | [Go! \(feat\. Mai Lan\) \- Animal Collective/Deakin Remix](https://open.spotify.com/track/7uW2fJJ7M1IMqrNXNNTBts) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Mai Lan](https://open.spotify.com/artist/2mDibyYe7k76MBMSZDTGo1), [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj), [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Go \(feat\. Mai Lan\) \[Animal Collective/Deakin Remix\]](https://open.spotify.com/album/6IRGWSIXs6P3ZmYtRgZveZ) | 5:05 | 2020-05-22 | 2020-07-03 |
 | [Godson of House](https://open.spotify.com/track/2zMGp9sLqwuWowUcm53WAX) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Byron the Aquarius](https://open.spotify.com/artist/46Fi6aCaPrBr5ojzhsUkK5) | [Godson of House](https://open.spotify.com/album/0IegYzp9b6XbcSzvd9z4Lm) | 8:36 | 2021-01-15 | 2021-03-10 |
 | [Gold](https://open.spotify.com/track/2penjl6afQ4JYqmTeNUxyL) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Gold](https://open.spotify.com/album/6a89n0OqocPjjN3hCrKUhL) | 2:35 | 2020-05-18 | 2020-07-03 |
+| [golden](https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [golden](https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm) | 5:02 | 2024-08-16 |  |
 | [Golden Ones](https://open.spotify.com/track/0o1wb3PpQkbY3wHEgBxMyL) | [NØRTH DRIVE](https://open.spotify.com/artist/42C9MwcFw6E8cgYTMmd4jD), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [Golden Ones](https://open.spotify.com/album/06kO9fqd7EDIKPfAlQZBH1) | 3:10 | 2022-12-28 | 2023-01-06 |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-12 | 2023-06-10 |
 | [Goodbye Earth](https://open.spotify.com/track/1RLDJqcEJaeWTkiu3EyqRc) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Goodbye Earth](https://open.spotify.com/album/1cJHB1ed0mwUMTbthrNsih) | 3:46 | 2023-10-27 | 2023-11-04 |

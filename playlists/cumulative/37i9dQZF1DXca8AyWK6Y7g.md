@@ -4,7 +4,7 @@
 
 > Didn't I make it obvious???? 📸 Fordo
 
-2,151 songs - 4 day 12 hr 10 min
+2,152 songs - 4 day 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Breakthrough](https://open.spotify.com/track/3CbTqAhSMl1p41PEx9Tc4E) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Breakthrough](https://open.spotify.com/album/0ZQ9F867lpLrMArteZet0J) | 2:36 | 2024-02-23 | 2024-07-22 |
 | [breakup song](https://open.spotify.com/track/0UzEXxCeUvdARQhCpbR3EI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [breakup song](https://open.spotify.com/album/4RoEOdEz9SvEmKTpJHmGoM) | 3:04 | 2022-05-20 | 2022-06-06 |
 | [Breathe Deeper \- Lil Yachty Remix](https://open.spotify.com/track/6GtOsEzNUhJghrIf6UTbRV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Breathe Deeper \(Lil Yachty Remix\)](https://open.spotify.com/album/3Gl28UI0f8xU2DAhaXWz04) | 4:48 | 2021-10-08 | 2022-03-26 |
-| [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 |  |
+| [Bring Back The Beat](https://open.spotify.com/track/10HGnM2Bo6BGYAlcrC6N5O) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Bring Back The Beat](https://open.spotify.com/album/71qCLGh8kLzsm8PrRok8gx) | 3:13 | 2024-06-21 | 2024-08-19 |
 | [bring u down](https://open.spotify.com/track/6ZavW4JaYViGktEQhCiiyQ) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [bring u down](https://open.spotify.com/album/1m7H5WH3i9ovJFpxrX5uif) | 2:45 | 2023-06-02 | 2023-09-02 |
 | [Broke Boy](https://open.spotify.com/track/4oudlkkeXeJfeimYgfIOZJ) | [Teddi Gold](https://open.spotify.com/artist/7IIPt2aOjyLjpwsRGXsj7h) | [Broke Boy](https://open.spotify.com/album/1js1J5LKYRbS5QoAbdwbJ2) | 2:55 | 2023-01-27 | 2023-04-27 |
 | [Broke Mine Too](https://open.spotify.com/track/5uQTrhuOuaefkHmtwT5M3h) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [PEE](https://open.spotify.com/album/5hLHgAMmZbA316eFWJbfiS) | 3:48 | 2022-11-11 | 2022-12-03 |
@@ -818,7 +818,7 @@
 | [HEAD OVER HEELS](https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY) | [LoveLeo](https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6) | [LOOK AT THIS MESS IVE MADE EP](https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk) | 2:36 | 2021-02-26 | 2022-01-08 |
 | [HEADCASE](https://open.spotify.com/track/2QMnichNFAhM0f4gi01Az1) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [HEADCASE](https://open.spotify.com/album/5t4tKq5VpoVRF9KKZU3TwA) | 2:54 | 2021-08-28 | 2021-10-14 |
 | [Headphones](https://open.spotify.com/track/4KrwobI2xa03a24kPDQIvh) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Headphones](https://open.spotify.com/album/70qfnrWg4gpw3Wkm6mdIKj) | 2:47 | 2022-02-18 | 2022-08-22 |
-| [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-04-12 |  |
+| [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-04-12 | 2024-08-19 |
 | [HEART ATTACK \(feat\. lau.ra\)](https://open.spotify.com/track/4esIFtCJ2RUFbJpDGluVG4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [HEART ATTACK / VAULTS](https://open.spotify.com/album/5EtdTK9kh4wIDFc6eLmFV3) | 3:29 | 2020-05-04 | 2021-10-13 |
 | [Heartbeat](https://open.spotify.com/track/7JKf9DEKBAdyILvDh4jzHy) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [Heartbeat](https://open.spotify.com/album/3GchcqeNKAlCtvYOOQ4JbV) | 3:36 | 2019-05-26\* | 2019-08-13 |
 | [Heartbreak Back](https://open.spotify.com/track/6kyhJvTKWQzlcYywNZRDsy) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [Heartbreak Back](https://open.spotify.com/album/3kguA2LG2117EOLM3bQxVm) | 3:36 | 2019-05-26\* | 2019-09-14 |
@@ -851,6 +851,7 @@
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-06-24 | 2022-01-07 |
 | [Hey! I Don't Want That Anyway](https://open.spotify.com/track/2Orge4IMIiIgvOQfNg33WA) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Hey! I Don't Want That Anyway](https://open.spotify.com/album/4b5MDKHsb9cAn3lqYymxnp) | 2:45 | 2019-05-26\* | 2020-01-16 |
 | [hi neighbor](https://open.spotify.com/track/0FC8odRnrItl5YIfM0JELY) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [all\-star](https://open.spotify.com/album/3ONpDbEZkBVMGl8B5dRmVk) | 2:21 | 2021-02-23 | 2021-05-26 |
+| [Hide](https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Hide](https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P) | 3:38 | 2024-08-09 |  |
 | [Hide Away](https://open.spotify.com/track/0wCMJ0s4wTZhLREbqz8i5N) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Hide Away](https://open.spotify.com/album/0SRANkHALQf6UsEnhetYnQ) | 3:24 | 2022-05-20 | 2022-05-28 |
 | [high & dry](https://open.spotify.com/track/7o96u1spqcNwctcM43jrUx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade \(high & dry / prom dress\)](https://open.spotify.com/album/14Ml9A5HvmrdpTSu0tIEz7) | 3:39 | 2019-06-29 | 2020-02-19 |
 | [High For This](https://open.spotify.com/track/5Lv2XtP4R1Nw8IstAhm8dS) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE) | [High For This](https://open.spotify.com/album/1LIvgfJdxRRyNqHKyqxWpt) | 2:52 | 2019-09-27 | 2021-03-19 |
@@ -908,7 +909,7 @@
 | [Hydra](https://open.spotify.com/track/09o11md5fskmIRdfFA7l4T) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hydra](https://open.spotify.com/album/35Q1l3VWkjiFnxXfxJrxNk) | 2:45 | 2021-03-27 | 2021-11-20 |
 | [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-07-25 |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2021-11-19 | 2022-09-03 |
-| [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 | 2024-08-17 |
+| [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 |  |
 | [I Can Only Be Me](https://open.spotify.com/track/4red2zI5Q2enciAX3pRk2p) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [I Can Only Be Me](https://open.spotify.com/album/65hbWKpAyKMvKnnxsupTjW) | 3:05 | 2024-06-28 | 2024-08-17 |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2022-12-24 |
 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2023-11-10 | 2024-07-13 |

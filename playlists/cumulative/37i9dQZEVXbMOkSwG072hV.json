@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 288000,
       "name": "530",
       "url": "https://open.spotify.com/track/2tPNj9sUt3FbjEUqBzZazv"
@@ -6504,6 +6504,24 @@
       "duration_ms": 171007,
       "name": "Beijo de Glicose - Ao Vivo",
       "url": "https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP"
+    },
+    {
+      "album": {
+        "name": "Beijos, Blues e Poesia",
+        "url": "https://open.spotify.com/album/5oYPBtIQHpgmPwch1td14v"
+      },
+      "artists": [
+        {
+          "name": "Seu Desejo",
+          "url": "https://open.spotify.com/artist/71qmoLfGw4fDPJPJ2MBNax"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73423,
+      "name": "Beijos, Blues e Poesia",
+      "url": "https://open.spotify.com/track/2LA2EvpxdC33cignxvKkNt"
     },
     {
       "album": {
@@ -25365,6 +25383,24 @@
     },
     {
       "album": {
+        "name": "In The Lonely Hour - Deluxe",
+        "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253208,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/73DvZMLdbgWglxm6nZg1b5"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -25376,7 +25412,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
@@ -34716,7 +34752,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -35288,7 +35324,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-19",
       "duration_ms": 169848,
       "name": "N\u00e3o Faz Sentido",
       "url": "https://open.spotify.com/track/5EVpkmI3CbRkG7bQ6faUJR"
@@ -52225,12 +52261,12 @@
       "artists": [
         {
           "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/2BCeYv7FUovXOhHnlcUIdY"
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
         }
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 164466,
       "name": "Uma e Quinze da Manh\u00e3",
       "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"
@@ -55546,6 +55582,28 @@
       "duration_ms": 182769,
       "name": "Xerecation",
       "url": "https://open.spotify.com/track/69B1LNCFR2kjrJczNeQdRf"
+    },
+    {
+      "album": {
+        "name": "Xonei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VkaUVWwlkyXeuX1wuIVWV"
+      },
+      "artists": [
+        {
+          "name": "Leo e Matheus",
+          "url": "https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma"
+        },
+        {
+          "name": "Workshow",
+          "url": "https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ"
+        }
+      ],
+      "date_added": "2024-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153485,
+      "name": "Xonei - Ao Vivo",
+      "url": "https://open.spotify.com/track/1DcOyAXIULvDeLBBY9BMnU"
     },
     {
       "album": {

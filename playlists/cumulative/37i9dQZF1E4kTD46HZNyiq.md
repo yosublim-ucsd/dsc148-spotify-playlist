@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4kTD46HZNyiq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4kTD46HZNyiq)
 
-### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
+### [NIGHT TRAVELER 电台](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With By The Coast, LAVE, VICTORS and more
+> 包含 By The Coast, LAVE, VICTORS 等艺人的作品
 
 1,366 songs - 3 day 15 hr 34 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Bnxn
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,392 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,459 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Secrets](https://open.spotify.com/track/3GcJMp3qA4F8S2vGZ4yZ0N) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Secrets](https://open.spotify.com/album/2wkkmWlkPwBaMVE3Cs6VIl) | 3:21 |
 | 49 | [Most Wanted](https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Most Wanted](https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge) | 2:43 |
 
-Snapshot ID: `Zr6IcAAAAACrESO/+ksW3JTayTTCWyhR`
+Snapshot ID: `ZsGlFgAAAACPZ68FNYLKlmjUlfdaQytM`

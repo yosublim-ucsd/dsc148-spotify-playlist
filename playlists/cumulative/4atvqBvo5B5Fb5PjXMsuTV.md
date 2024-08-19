@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 17 Aug 16:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Aug 22:03 UTC.
 
-1,767 songs - 4 day 2 hr 23 min
+1,768 songs - 4 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1239,6 +1239,7 @@
 | [Ride Or Die](https://open.spotify.com/track/2CHiOfJrtsplSVptt4g77G) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Tommy Raps](https://open.spotify.com/artist/2jDVhHiltj9mEWoIGdBg3z) | [Ride Or Die](https://open.spotify.com/album/2jeYPhmaTPRAuUBWxVMBj9) | 3:22 | 2024-08-07 | 2024-08-10 |
 | [Ride the Vibe](https://open.spotify.com/track/2bmo0oEVhlbAgMQetHgLYC) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/0sntdgg5hCdn84P5ULZGoA) | 2:52 | 2024-05-20 | 2024-05-23 |
 | [Ride With You](https://open.spotify.com/track/0DLRcWD1pXuIW73qJ6jIQp) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Ride With You](https://open.spotify.com/album/1FWNVxWin3t5KlGgDRMUKo) | 3:00 | 2024-07-04 | 2024-07-06 |
+| [RIDING CLEAN](https://open.spotify.com/track/0ubaGGLbHEbZFClVNwzfgD) | [7oh2](https://open.spotify.com/artist/4YlEogA5055pLDnRxXUXSm) | [RIDING CLEAN](https://open.spotify.com/album/7JJ8Eu8I3swgHOWBvdhHq0) | 2:23 | 2024-08-18 |  |
 | [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-03 | 2024-05-05 |
 | [Right To The Head \(Intro\)](https://open.spotify.com/track/1TbX28gQ5jB2Lydz5zomDS) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Right To The Head \(Intro\)](https://open.spotify.com/album/1ES7MASb3Dor0kgGB4LQlL) | 1:50 | 2024-06-27 | 2024-06-29 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-05 | 2024-06-07 |
@@ -1424,7 +1425,7 @@
 | [Strawberry Rush](https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Strawberry Rush](https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2) | 2:56 | 2024-06-25 | 2024-06-27 |
 | [Street Talk](https://open.spotify.com/track/4l9hQWK345xfGixJQ3xvez) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19), [beastboi.](https://open.spotify.com/artist/0e87rlA12iAl7kIonLl2e4) | [Street Talk](https://open.spotify.com/album/3aYg85BYxXNANnn6KLMNeF) | 2:40 | 2024-07-24 | 2024-07-27 |
 | [Streetwise](https://open.spotify.com/track/5SDW0aLSetWzFS1676VgXQ) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e), [xmal](https://open.spotify.com/artist/20DDNwdmrT61u9Wat7cv7H) | [Streetwise](https://open.spotify.com/album/62gfDniQmmdW6ttPGDukYv) | 2:06 | 2024-05-02 | 2024-05-04 |
-| [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-16 |  |
+| [Strong](https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Strong](https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7) | 2:59 | 2024-08-16 | 2024-08-19 |
 | [Stylistics](https://open.spotify.com/track/1tXa9ZcrUvLG9H0CRsp9xB) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Stylistics](https://open.spotify.com/album/1SnEai2UYwIdJABP40rApy) | 7:04 | 2024-08-06 | 2024-08-08 |
 | [Suckin Up](https://open.spotify.com/track/2tgWfeFgrEbFrtAF6ymROm) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Suckin Up](https://open.spotify.com/album/3Qx8acQMNWDsXY6noSMuXZ) | 2:17 | 2024-08-16 |  |
 | [Sugabby](https://open.spotify.com/track/58IuYAWUpmXJh9YGPFQhCt) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sugabby](https://open.spotify.com/album/2JY5Q0RP6c2mlUrML3k4ec) | 2:27 | 2024-06-12 | 2024-06-14 |

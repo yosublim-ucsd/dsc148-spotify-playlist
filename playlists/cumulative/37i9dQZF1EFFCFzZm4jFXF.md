@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 42 min
+103 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Funeral](https://open.spotify.com/track/7tkzxMzgewgVqGahS69F1X) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:37 | 2024-06-13 |  |
 | [Get Up](https://open.spotify.com/track/0hfEbuqdlZFAABHTsWTpKz) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Get Up](https://open.spotify.com/album/2BjmJnuWuSxXQQUbQuwDl9) | 3:26 | 2024-06-13 |  |
 | [Harmless Heart](https://open.spotify.com/track/07xH1WaaxQzAZkO1GNYk8u) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Harmless Heart](https://open.spotify.com/album/5tHq9K9LPFVltgNnQuL554) | 3:03 | 2024-06-13 |  |
+| [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 | 2024-08-18 |  |
 | [Hindsight](https://open.spotify.com/track/1LY3wORUYTg8t2lZ1v6wHq) | [Tom Martin](https://open.spotify.com/artist/4P0KP5wunIHTElWsbeCow2), [SHOR](https://open.spotify.com/artist/7FJqyPALMKAfnwfVAaia1P) | [Hindsight](https://open.spotify.com/album/0g7v1hN2NKpX2act4kuEqv) | 3:42 | 2024-06-13 |  |
 | [Hurricane \(feat\. HON & SMBDY\) \- 4AM Drive Mix](https://open.spotify.com/track/0h4nTNCdT2ne5A5LjLpe6N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Hurricane \(feat\. HON & SMBDY\) \[4AM Drive Mix\]](https://open.spotify.com/album/6CX3qldctZmNlmXzDTeBHa) | 3:59 | 2024-06-13 | 2024-07-05 |
 | [I Can't Lose You](https://open.spotify.com/track/5CZeEkIFyOQcb19yfFmpJP) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 2:42 | 2024-06-13 |  |

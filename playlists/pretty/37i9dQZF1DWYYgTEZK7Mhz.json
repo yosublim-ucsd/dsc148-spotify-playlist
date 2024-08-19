@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 35395,
+  "num_followers": 35542,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Edoardo Vianello",
-        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Guarda Come Dondolo",
-      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Balla (Remastered)",
         "url": "https://open.spotify.com/album/4A6errXJxy9750cknTxu1p"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 195333,
       "name": "Balla",
       "url": "https://open.spotify.com/track/2xoVgHZKhYCmCNxqidJ4en"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Edoardo Vianello",
+        "url": "https://open.spotify.com/album/1atB7tFNLKhXOE9xMnHWER"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Guarda Come Dondolo",
+      "url": "https://open.spotify.com/track/5cnBqPh3jlnKCsYi3BeBsQ"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Nico Fidenco",
+        "url": "https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA"
+      },
+      "artists": [
+        {
+          "name": "Nico Fidenco",
+          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Con Te Sulla Spiaggia",
+      "url": "https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Donna Felicita'",
         "url": "https://open.spotify.com/album/3Dpo8mHt0NgsXPbADMNzE5"
       },
@@ -459,18 +475,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Nico Fidenco",
-        "url": "https://open.spotify.com/album/3BodpekIovNHAQdlArIVjA"
+        "name": "Ritratto di Mina: I singoli, Vol. 1",
+        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
       },
       "artists": [
         {
-          "name": "Nico Fidenco",
-          "url": "https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 160346,
-      "name": "Con Te Sulla Spiaggia",
-      "url": "https://open.spotify.com/track/5qL9G387FzVFVgV92WU34K"
+      "duration_ms": 179060,
+      "name": "Tintarella di luna",
+      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -487,22 +503,6 @@
       "duration_ms": 152000,
       "name": "Andavo A Cento All'Ora",
       "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Ritratto di Mina: I singoli, Vol. 1",
-        "url": "https://open.spotify.com/album/50cuyRjtimjIb4R4RcnevN"
-      },
-      "artists": [
-        {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
-        }
-      ],
-      "duration_ms": 179060,
-      "name": "Tintarella di luna",
-      "url": "https://open.spotify.com/track/11UYx9rpvK8RCEYhuvLHuH"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Profumo di sole...",
-        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
-      },
-      "artists": [
-        {
-          "name": "Jo Fedeli",
-          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Sei come una lucertola",
-      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "24 mila baci - Aul\u00ec-Ul\u00e9 - Furore - Movimento di Rock",
         "url": "https://open.spotify.com/album/61YBg8B6No6F6STEmfoplF"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 138920,
       "name": "24 mila baci",
       "url": "https://open.spotify.com/track/3hJ27hXmaDY4PdNjTVvMzn"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Profumo di sole...",
+        "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
+      },
+      "artists": [
+        {
+          "name": "Jo Fedeli",
+          "url": "https://open.spotify.com/artist/6tJWHAxJ6p9ZOTX6o7tPHm"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Sei come una lucertola",
+      "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
     },
     {
       "added_at": "2024-08-02 00:01:00",

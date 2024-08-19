@@ -2,7 +2,7 @@
 
 ### [This Is Morgan Wallen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zJOi2)
 
-> This is Morgan Wallen\. The essential tracks, all in one playlist.
+> This is Morgan Wallen。一個播放清單，必聽金曲一網打盡。
 
 80 songs - 4 hr 25 min
 

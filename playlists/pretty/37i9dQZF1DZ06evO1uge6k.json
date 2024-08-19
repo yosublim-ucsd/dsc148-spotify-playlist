@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 245723,
+  "num_followers": 245764,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAADW96tVV3omnOJC+seUYrkE",
+  "snapshot_id": "Zr/oAAAAAACFibOR6cG4swtKMyDiTvBK",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Futura",
-        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 243160,
-      "name": "I Gotsta Get Paid",
-      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+        "name": "La Futura",
+        "url": "https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
+      "duration_ms": 243160,
+      "name": "I Gotsta Get Paid",
+      "url": "https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y"
     },
     {
       "added_at": null,

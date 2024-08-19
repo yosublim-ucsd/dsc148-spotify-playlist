@@ -1,6 +1,6 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12320,
+  "num_followers": 12322,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
@@ -253,22 +253,6 @@
       "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
     },
     {
-      "added_at": "2024-05-23 23:19:14",
-      "album": {
-        "name": "Mid Spiral: Order",
-        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 415372,
-      "name": "Playgroup",
-      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "TNT",
@@ -317,6 +301,22 @@
       "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
       "added_at": "2024-06-19 16:43:41",
       "album": {
         "name": "three",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2024-05-23 23:19:14",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
       },
       "artists": [
         {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
     },
     {
       "added_at": "2022-05-18 00:18:47",
@@ -389,6 +389,22 @@
       "url": "https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
       "added_at": "2024-04-15 14:39:19",
       "album": {
         "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
@@ -421,22 +437,6 @@
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
-    },
-    {
       "added_at": "2024-06-19 16:43:41",
       "album": {
         "name": "three",
@@ -461,20 +461,20 @@
       "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
         }
       ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2024-07-02 21:27:22",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 458693,
+      "name": "Maximum Black",
+      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Big Sun",
@@ -507,22 +523,6 @@
       "duration_ms": 239200,
       "name": "Birds, Pt. I",
       "url": "https://open.spotify.com/track/5GDteA9nob1rnxgE1KFx5l"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
-      },
-      "artists": [
-        {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
-        }
-      ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2024-07-05 03:19:52",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/2rgf48jupb8QsIBLC50J4Z"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
         }
       ],
-      "duration_ms": 458693,
-      "name": "Maximum Black",
-      "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "A Living Room Hush",
+        "url": "https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS"
+      },
+      "artists": [
+        {
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+        }
+      ],
+      "duration_ms": 518120,
+      "name": "Lithuania",
+      "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Ker Yegu",
         "url": "https://open.spotify.com/album/7g7ytUsfYU1Ak5ElqOvOFt"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "A Living Room Hush",
-        "url": "https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS"
-      },
-      "artists": [
-        {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
-        }
-      ],
-      "duration_ms": 518120,
-      "name": "Lithuania",
-      "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
     },
     {
       "added_at": "2022-02-18 04:38:12",
@@ -1029,26 +1029,6 @@
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -1067,6 +1047,26 @@
       "duration_ms": 199305,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Wandering II (Ed Carlsen Rework)",
+        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Wandering II - Ed Carlsen Rework",
+      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
       "added_at": "2022-09-15 12:57:17",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
-      "added_at": "2022-02-15 01:09:46",
-      "album": {
-        "name": "1981",
-        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
-      },
-      "artists": [
-        {
-          "name": "Hautefort",
-          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
-        }
-      ],
-      "duration_ms": 254954,
-      "name": "1981",
-      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
-    },
-    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Pyramid",
@@ -1203,6 +1187,22 @@
       "duration_ms": 488904,
       "name": "Spiral Era",
       "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+    },
+    {
+      "added_at": "2022-02-15 01:09:46",
+      "album": {
+        "name": "1981",
+        "url": "https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin"
+      },
+      "artists": [
+        {
+          "name": "Hautefort",
+          "url": "https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "1981",
+      "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
       "added_at": "2024-03-21 23:52:34",

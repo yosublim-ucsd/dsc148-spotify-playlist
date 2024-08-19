@@ -2,7 +2,7 @@
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
+> This is Tassia Reis\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 21 min
 

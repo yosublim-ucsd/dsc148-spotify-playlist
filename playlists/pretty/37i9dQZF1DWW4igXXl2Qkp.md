@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:5D70nuec9omH4CXmCGXGTu">Lexa Gates</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,507 likes - 80 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,542 likes - 80 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

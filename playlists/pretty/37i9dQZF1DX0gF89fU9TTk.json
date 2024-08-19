@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 134753,
+  "num_followers": 134785,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Breathe Again",
+        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Introspection",
         "url": "https://open.spotify.com/album/04kCPiYgaj7QN3wdaZbXMV"
       },
@@ -659,18 +675,22 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Breathe Again",
-        "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
+        "name": "Break Out",
+        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
       },
       "artists": [
         {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+          "name": "Rolling Hills Worship",
+          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+        },
+        {
+          "name": "Jennifer Akers",
+          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Breathe Again",
-      "url": "https://open.spotify.com/track/5GNdJOo73mL3T4OpqWDKja"
+      "duration_ms": 235580,
+      "name": "Break Out - Studio Single",
+      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -691,26 +711,6 @@
       "duration_ms": 238666,
       "name": "Kingdom Come",
       "url": "https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
-      },
-      "artists": [
-        {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
-        },
-        {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
-        }
-      ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "Highest Praise",
-        "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
-      },
-      "artists": [
-        {
-          "name": "C3LA Music",
-          "url": "https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA"
-        }
-      ],
-      "duration_ms": 243817,
-      "name": "Highest Praise",
-      "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Go Tell The World / Overflow (Live)",
         "url": "https://open.spotify.com/album/5bRgF2e7mpKj0nM0hsf26k"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 200133,
       "name": "Go Tell The World - Live",
       "url": "https://open.spotify.com/track/0zS1ePx7XKEo9XFdIMccHN"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "Highest Praise",
+        "url": "https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z"
+      },
+      "artists": [
+        {
+          "name": "C3LA Music",
+          "url": "https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA"
+        }
+      ],
+      "duration_ms": 243817,
+      "name": "Highest Praise",
+      "url": "https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
-        "name": "You Give Me Joy",
-        "url": "https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP"
-      },
-      "artists": [
-        {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "You Give Me Joy",
-      "url": "https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
         "name": "Yahweh",
         "url": "https://open.spotify.com/album/0C8IetiUJZpIa1mArhWgpQ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 280733,
       "name": "So Close - Studio",
       "url": "https://open.spotify.com/track/5qEDNdBR6WTI8PccUZVGZT"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
+        "name": "You Give Me Joy",
+        "url": "https://open.spotify.com/album/5q0hrCcluIsG9cqMcMNOdP"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "You Give Me Joy",
+      "url": "https://open.spotify.com/track/6RtesjeHlOQ07LYGcXK6EQ"
     },
     {
       "added_at": "2024-06-25 03:27:03",

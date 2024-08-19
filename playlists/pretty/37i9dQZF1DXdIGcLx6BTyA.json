@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32283,
+  "num_followers": 32288,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Tell Me When It\u2019s Over",
-        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 296933,
-      "name": "Tell Me When It\u2019s Over",
-      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -191,34 +187,38 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The SteelDrivers",
-        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 174906,
-      "name": "Drinkin' Dark Whiskey",
-      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
     },
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Tell Me When It\u2019s Over",
+        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+      "duration_ms": 296933,
+      "name": "Tell Me When It\u2019s Over",
+      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "The SteelDrivers",
+        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+      "duration_ms": 174906,
+      "name": "Drinkin' Dark Whiskey",
+      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "A Sailor's Guide to Earth",
         "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 212586,
       "name": "Breakers Roar",
       "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Port Saint Joe",
-        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 192680,
-      "name": "I Don't Remember Me (Before You)",
-      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Port Saint Joe",
+        "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "I Don't Remember Me (Before You)",
+      "url": "https://open.spotify.com/track/6xrREPyyC5KESDhWfwqHiN"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Here We Rest",
         "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 231883,
       "name": "Alabama Pines",
       "url": "https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Something More Than Free",
-        "url": "https://open.spotify.com/album/1foB2t5YmfC6PxIC31g5Cp"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "24 Frames",
-      "url": "https://open.spotify.com/track/3TWffuE2fuzzl1qC2W2V6j"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
         "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 269663,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Something More Than Free",
+        "url": "https://open.spotify.com/album/1foB2t5YmfC6PxIC31g5Cp"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "24 Frames",
+      "url": "https://open.spotify.com/track/3TWffuE2fuzzl1qC2W2V6j"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Desperate Man",
-        "url": "https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Hippie Radio",
-      "url": "https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Find a Light",
         "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
       },
@@ -443,6 +427,54 @@
       "duration_ms": 225165,
       "name": "Till the Wheels Fall Off",
       "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Desperate Man",
+        "url": "https://open.spotify.com/album/5TjDN2hfsgNWVtP8Ew56Xx"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Hippie Radio",
+      "url": "https://open.spotify.com/track/5cspm8JbU1gr3URl9EOzBM"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -479,38 +511,6 @@
       "duration_ms": 214570,
       "name": "Losing Side of Twenty Five",
       "url": "https://open.spotify.com/track/2PXumYrwMjU2lF5yxFVYhs"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Hey Cowgirl",
-        "url": "https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 200925,
-      "name": "Hey Cowgirl",
-      "url": "https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "The Nashville Sound",
         "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183164,
       "name": "Hope the High Road",
       "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Hey Cowgirl",
+        "url": "https://open.spotify.com/album/79hKJQh5ggKdLlGBIV43bD"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 200925,
+      "name": "Hey Cowgirl",
+      "url": "https://open.spotify.com/track/2P7FJqlrDyV1lSd1MwL26c"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Asunder",
+        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
+      },
+      "artists": [
+        {
+          "name": "Ward Davis",
+          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Time to Move On",
+      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Tales Of America (The Second Coming)",
         "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 174586,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Asunder",
-        "url": "https://open.spotify.com/album/0ld0jOVy5wuXqUqCU7Xpf8"
-      },
-      "artists": [
-        {
-          "name": "Ward Davis",
-          "url": "https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Time to Move On",
-      "url": "https://open.spotify.com/track/3RKbdvirSHpLVwbwQRqtZE"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "You Look Good in Neon",
         "url": "https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 240386,
       "name": "You Look Good in Neon",
       "url": "https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Unwed Fathers (feat. Margo Price)",
         "url": "https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 282786,
       "name": "Wrangled",
       "url": "https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Adobe Sessions",
-        "url": "https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 229927,
-      "name": "Loud and Heavy",
-      "url": "https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "What It Is",
         "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Adobe Sessions",
+        "url": "https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 229927,
+      "name": "Loud and Heavy",
+      "url": "https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Heading South",
         "url": "https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp"
       },
@@ -1251,6 +1251,22 @@
       "duration_ms": 171692,
       "name": "Heading South",
       "url": "https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Luckier You Get",
+        "url": "https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP"
+      },
+      "artists": [
+        {
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+        }
+      ],
+      "duration_ms": 181848,
+      "name": "The Luckier You Get",
+      "url": "https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The Luckier You Get",
-        "url": "https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 181848,
-      "name": "The Luckier You Get",
-      "url": "https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Somebody's Daughter",
         "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Watch the World Die",
-        "url": "https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 234984,
-      "name": "Watch the World Die",
-      "url": "https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Colder Than You",
         "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 201618,
       "name": "Colder Than You",
       "url": "https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0sqerD9BSgS3tuD7tEPD3M"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/24rXTPooQ6LoF0o3djEdYj"
     }
   ],
   "unique_name": "The Road Less Traveled",

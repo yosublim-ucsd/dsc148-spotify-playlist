@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 56017,
+  "num_followers": 56066,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6WgAAAAADQcwr/lWEk15nfmHa7cXOT",
+  "snapshot_id": "Zr/oAAAAAADS3qHQuxSxSxEEgyLSliKq",
   "tracks": [
     {
       "added_at": null,
@@ -1223,30 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favela Vive 2",
-        "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
+        "name": "CONFIA",
+        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
       },
       "artists": [
         {
-          "name": "ADL",
-          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "MV Bill",
-          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 422857,
-      "name": "Favela Vive 2",
-      "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
     },
     {
       "added_at": null,
@@ -1279,26 +1275,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFIA",
-        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
+        "name": "Favela Vive 2",
+        "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
       },
       "artists": [
         {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "ADL",
+          "url": "https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "MV Bill",
+          "url": "https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
+      "duration_ms": 422857,
+      "name": "Favela Vive 2",
+      "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
     },
     {
       "added_at": null,

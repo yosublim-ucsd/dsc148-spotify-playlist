@@ -2,7 +2,7 @@
 
 ### [This Is The Delfonics](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47XPI3)
 
-> This is The Delfonics\. The essential tracks, all in one playlist.
+> This Is The Delfonics\. Los temas esenciales, todos en una lista.
 
 107 songs - 5 hr 43 min
 

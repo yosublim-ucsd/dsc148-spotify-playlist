@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137383,
+      "name": "Kami no Miwaza",
+      "url": "https://open.spotify.com/track/5rAWqDJbLw0nVegKA8WFxI"
+    },
+    {
+      "album": {
         "name": "Shingeki no Kiseki",
         "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
       },
