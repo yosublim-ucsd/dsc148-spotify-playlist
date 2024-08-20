@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,950 songs - 4 day 14 hr 20 min
+1,952 songs - 4 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,6 +599,7 @@
 | [Freak In The Weekend](https://open.spotify.com/track/6DePSYDCW0ujpW5cUEVqoM) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Freak In The Weekend](https://open.spotify.com/album/5nLLM6BAWl88JPwlGcVMjo) | 2:52 | 2024-02-24 | 2024-03-16 |
 | [Freak Mode](https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Freak Mode](https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi) | 3:06 | 2024-06-28 | 2024-07-20 |
 | [Freak Out](https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Freak Out](https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro) | 2:18 | 2023-10-27 |  |
+| [Freakk](https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4) | [Juan Valencia](https://open.spotify.com/artist/5Afyw95iiiAg0cpCU0EwoJ), [Alexander Zabbi](https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI) | [Freakk](https://open.spotify.com/album/23KzxbEO0NmaCR08VZdWW6) | 4:05 | 2024-08-19 |  |
 | [Free](https://open.spotify.com/track/17Dy4XO1nEqL15OoO0303B) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free](https://open.spotify.com/album/42J8joitu0uE2c5WgEpqmZ) | 3:16 | 2022-09-30 | 2022-10-08 |
 | [Free](https://open.spotify.com/track/6vpwCDfTjqbhg11YrDG7w3) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Free](https://open.spotify.com/album/2zSOS3aYUI3nmmSuZdXGV9) | 3:22 | 2023-06-09 | 2023-06-25 |
 | [Free](https://open.spotify.com/track/1jiAafnL118uGGgm4Jt0fn) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa) | [Free](https://open.spotify.com/album/46PjMoXKkYjAl1MQDw46pn) | 2:48 | 2024-02-17 | 2024-03-13 |
@@ -807,6 +808,7 @@
 | [I'll Love U \- Gaba Remix](https://open.spotify.com/track/1jO5CPiZk7LOCh8PrruPJu) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Gaba](https://open.spotify.com/artist/6uPDwlTytGAzI42bG23K5I) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 4:18 | 2022-12-16 | 2023-01-07 |
 | [I'm On This](https://open.spotify.com/track/2vQIdzX1W2bxelFp9EH1PG) | [Garruk](https://open.spotify.com/artist/0BOIQrF0wbLfBl1NIB5BCm) | [I'm On This](https://open.spotify.com/album/2JqEB25AFtsyWfD0BCVYjX) | 3:18 | 2023-01-13 | 2023-01-22 |
 | [I'm Still Here](https://open.spotify.com/track/5Z8olKSshc3et0sRzyBdrG) | [DiVine \(NL\)](https://open.spotify.com/artist/4yYG21KuQjH8LbzVeJNlwv), [Amy Lauren](https://open.spotify.com/artist/0nOcx2Q9TleKLfgje3H9Zz) | [I'm Still Here](https://open.spotify.com/album/0CpWAfmHCAGl7EhUatuHrW) | 2:54 | 2024-01-27 | 2024-02-25 |
+| [I've Arrived \(with Tomike\)](https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx), [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [I've Arrived \(with Tomike\)](https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM) | 2:30 | 2024-08-19 |  |
 | [I9000](https://open.spotify.com/track/4xrbn4AUf3nMn7eWK5eDcK) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [I9000](https://open.spotify.com/album/7xUbkKHpcpXXbzp6zNgLM2) | 3:48 | 2023-09-08 | 2023-09-16 |
 | [Ibiza 93 \(XTC\)](https://open.spotify.com/track/2RKAne1s7THCWyy9Cs5KPa) | [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [Ibiza 93 \(XTC\)](https://open.spotify.com/album/2in7ln7Ljvi2a7xNuU8mah) | 2:52 | 2023-08-25 | 2023-09-02 |
 | [Ice Cold](https://open.spotify.com/track/30ah7rJfpT8U0DrEPcv0pe) | [EchoStorms](https://open.spotify.com/artist/6buVxxQZC5V3NzSUjFOM8A), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Ice Cold](https://open.spotify.com/album/6Hw5iLYiIG5YfM9B3dMTR5) | 2:51 | 2023-12-16 | 2024-01-28 |

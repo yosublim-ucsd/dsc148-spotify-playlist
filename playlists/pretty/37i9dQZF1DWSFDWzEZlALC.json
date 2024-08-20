@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Berq",
-  "num_followers": 431903,
+  "num_followers": 432052,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr56YAAAAADp/Hi0gbvjCq7lLf/H0NT+",
+  "snapshot_id": "ZsMUlgAAAADaTNXeVZjxaffLqMcNqqrK",
   "tracks": [
     {
       "added_at": "2024-08-15 22:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Ich liebe dich f\u00fcr immer",
+        "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Ich liebe dich f\u00fcr immer",
+      "url": "https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "hausnummer_16_v7",
         "url": "https://open.spotify.com/album/4ng50O2sOGLOaxNPJexXGo"
       },
@@ -119,18 +135,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ich liebe dich f\u00fcr immer",
-        "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
+        "name": "Sommerregen",
+        "url": "https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg"
       },
       "artists": [
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
         }
       ],
-      "duration_ms": 163626,
-      "name": "Ich liebe dich f\u00fcr immer",
-      "url": "https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR"
+      "duration_ms": 154400,
+      "name": "Sommerregen",
+      "url": "https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -151,18 +167,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sommerregen",
-        "url": "https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg"
+        "name": "wie du da liegst",
+        "url": "https://open.spotify.com/album/3ihmHOSp2dQ2ehpF0JHecB"
       },
       "artists": [
         {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
         }
       ],
-      "duration_ms": 154400,
-      "name": "Sommerregen",
-      "url": "https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ"
+      "duration_ms": 169613,
+      "name": "wie du da liegst",
+      "url": "https://open.spotify.com/track/4GIN80SV7QGrb34fSxt6XO"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -195,22 +211,6 @@
       "duration_ms": 170000,
       "name": "9 To 5",
       "url": "https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "wie du da liegst",
-        "url": "https://open.spotify.com/album/3ihmHOSp2dQ2ehpF0JHecB"
-      },
-      "artists": [
-        {
-          "name": "rosmarin",
-          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "wie du da liegst",
-      "url": "https://open.spotify.com/track/4GIN80SV7QGrb34fSxt6XO"
     },
     {
       "added_at": "2024-08-15 22:00:00",

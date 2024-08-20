@@ -4,7 +4,7 @@
 
 > Didn't I make it obvious???? 📸 Fordo
 
-2,152 songs - 4 day 12 hr 14 min
+2,153 songs - 4 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 | 2023-06-03 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-06-29 |
 | [Dracula](https://open.spotify.com/track/5JTO8WoZfswTfgiCmmwFg5) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Dracula](https://open.spotify.com/album/4TBYF9lw88IP8fIjehrVxG) | 2:33 | 2022-10-28 | 2022-11-12 |
-| [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2024-04-14 |  |
+| [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 | 2024-04-14 | 2024-08-20 |
 | [Dream Dream Dream](https://open.spotify.com/track/1oUbYmF4SYYHorKY1wKo0K) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Dream Dream Dream](https://open.spotify.com/album/5pvCGCeutZQhMsLOiGvZSK) | 3:54 | 2019-07-27 | 2021-03-20 |
 | [Dream Girl](https://open.spotify.com/track/1hipJKqXoS55snXxLq1CzL) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dream Girl](https://open.spotify.com/album/2S2wwr8RvwW4mK4LlIT7Fv) | 3:42 | 2023-06-09 | 2023-08-19 |
 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 | 2024-06-28 |  |
@@ -1802,6 +1802,7 @@
 | [Summer](https://open.spotify.com/track/7tsHqxfepei1AdLjy93XIv) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [Summer](https://open.spotify.com/album/6Qdb2YYRKzhKooyDC6lBLC) | 2:58 | 2019-05-26\* | 2020-04-18 |
 | [Summer](https://open.spotify.com/track/51xpZKrnRMlcmwWCv7jcfd) | [Simpson](https://open.spotify.com/artist/0uaV2JpwdbHof3chjM8sow) | [Summer](https://open.spotify.com/album/2LbNDL18GTe9x3YDJNzHY9) | 4:02 | 2021-03-09 | 2021-11-20 |
 | [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 | 2024-07-04 |
+| [summer crush](https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [summer crush](https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM) | 2:56 | 2024-08-19 |  |
 | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/track/3UIGE2FXaUUcYWA31Og0XO) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Summer Fade \(feat\. Anna of the North\)](https://open.spotify.com/album/5bB44dDIsNlLs2vRUMsrWd) | 3:24 | 2019-09-06 | 2021-11-02 |
 | [Summer Is Over](https://open.spotify.com/track/3YceHgB0Uubgn5xVlfdkuC) | [Alec Wigdahl](https://open.spotify.com/artist/0Ml3qjFuEC9fZ7ix8BvfWt) | [Summer Is Over](https://open.spotify.com/album/6Ue6TROiKDlRgLREOiArPg) | 2:40 | 2020-08-11 | 2021-11-10 |
 | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/track/5YPfFN0EsuvOgisgC4tzBq) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Summer Luv \(feat\. Crystal Fighters\)](https://open.spotify.com/album/3b35FYaef5SDlDjPWliK0z) | 2:59 | 2019-08-17 | 2021-05-28 |

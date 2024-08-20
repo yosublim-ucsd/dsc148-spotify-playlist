@@ -4,13 +4,14 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-203 songs - 9 hr 8 min
+204 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11Pm\. Brilla](https://open.spotify.com/track/04040bSQ8gNzSmxuY8fU11) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [11Pm\. Brilla \(Dreaming of Chopin\)](https://open.spotify.com/album/4WA7u4WEccPGhEIpg34KGq) | 4:10 | 2022-08-03 |  |
 | [A Faint Qualm for the Future](https://open.spotify.com/track/6Rp5W8wwFK4pKpmT06yNsq) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [All of Us](https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK) | 2:41 | 2022-08-03 |  |
 | [A Glimpse Of Light](https://open.spotify.com/track/7GwZI1U1TqFlj9d6klLS8t) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [A Glimpse Of Light](https://open.spotify.com/album/2uVNjDbNCQKp2QADv3YN8b) | 2:45 | 2024-04-03 |  |
+| [A New Start](https://open.spotify.com/track/3inyKRu1a4IJDE9RUEcfKd) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [A New Start](https://open.spotify.com/album/4qWtSHyc3thJSYU7nUHpOb) | 2:35 | 2024-08-19 |  |
 | [Above Dreams](https://open.spotify.com/track/68tLru9UCCitsnlSKcfh9f) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Above Dreams](https://open.spotify.com/album/2DW3dtqIUwaFRcmknepyzU) | 2:53 | 2024-07-26 |  |
 | [Adagio](https://open.spotify.com/track/0WlUpjW0LMvVPQs0rOqz5d) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Adagio](https://open.spotify.com/album/1LRAhzP8t4glbwQWgljKpY) | 2:34 | 2023-09-26 |  |
 | [Adagio Cantabile](https://open.spotify.com/track/0XXUvKMV5pFX1bycy9PUX6) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Adagio Cantabile](https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF) | 3:14 | 2022-12-06 |  |
@@ -68,7 +69,7 @@
 | [F Sharp For You](https://open.spotify.com/track/2J6iktYw8vLp2QzxffSNxV) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [F Sharp For You](https://open.spotify.com/album/5X3DST59ra3NlevOvLCyyz) | 2:14 | 2022-08-26 | 2022-09-17 |
 | [F Sharp For You](https://open.spotify.com/track/5W0szJ8oYW28sGOtfUvYij) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Pieces For Claudia](https://open.spotify.com/album/50FfwgvW88CLcZUsRluNYD) | 2:14 | 2022-09-12 |  |
 | [Falling Rain](https://open.spotify.com/track/2ccbSytqRFWAl5WSFZbZmC) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Falling Rain](https://open.spotify.com/album/7pd29NkHnAS6cOJDlNOSTc) | 2:38 | 2024-08-12 |  |
-| [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 | 2023-09-11 |  |
+| [Felt Improv No\. 4](https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Felt Improv No\. 4](https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4) | 2:05 | 2023-09-11 | 2024-08-20 |
 | [Fidèle](https://open.spotify.com/track/49DsHmqQ3x4rz7BZTaHoks) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Veluwe Suite](https://open.spotify.com/album/6tI8scAMHf4Gicv6LWliBB) | 3:23 | 2023-01-26 | 2024-04-19 |
 | [Fidèle](https://open.spotify.com/track/6yxunWDpHjHw33lhfMCdha) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Fidèle](https://open.spotify.com/album/6mMQd8GdvPdq6QDScKV3PP) | 3:23 | 2022-08-03 |  |
 | [Final Hour](https://open.spotify.com/track/6FrEmXntHD6IZeM8f0FIJM) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Final Hour](https://open.spotify.com/album/2nVKTxx2WuV0ZDlHFm2lDU) | 1:52 | 2022-12-06 |  |
@@ -86,7 +87,7 @@
 | [hope](https://open.spotify.com/track/6MI1zRSrHQVCXPQ9QkrHue) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [hope](https://open.spotify.com/album/3OvVqq5lE0CpAxbQm9P1k8) | 3:10 | 2022-08-03 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-26 |  |
 | [Hues](https://open.spotify.com/track/69liE6Bhwv1vDcUyYuLlTn) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Dave Lewis](https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3) | [Hues](https://open.spotify.com/album/1TEVz8WnwhUyBB2KaJCoEH) | 2:45 | 2022-08-03 |  |
-| [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 |  |
+| [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 | 2024-08-20 |
 | [I Don't Belong Here](https://open.spotify.com/track/7ybM9pHxEFFnqUo9WPpgV1) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [I Don't Belong Here](https://open.spotify.com/album/3dBWDCzAoabtTyNdqXn6Qg) | 2:30 | 2022-08-26 |  |
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-26 | 2023-04-20 |
 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-01 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Lua de Santana",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat funk de Brasil para el mundo. Baile bonitoooo Foto: Tiago PZK, Anitta, Emilia",
   "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
   "tracks": [
     {
@@ -76,6 +76,32 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165054,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
     },
     {
       "album": {
@@ -638,7 +664,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 180234,
       "name": "Con los M\u00edos",
       "url": "https://open.spotify.com/track/2jy455xFvoi2G2uM6I2Gkw"
@@ -1077,6 +1103,36 @@
     },
     {
       "album": {
+        "name": "Funk Love",
+        "url": "https://open.spotify.com/album/2XYmcGVsBqEl0J6npqmJjD"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Valentina Olguin",
+          "url": "https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR"
+        },
+        {
+          "name": "Piku",
+          "url": "https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213461,
+      "name": "Funk Love",
+      "url": "https://open.spotify.com/track/5PbsZYCLrlp44JgWTYr5Yq"
+    },
+    {
+      "album": {
         "name": "Funk Generation: A Favela Love Story",
         "url": "https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL"
       },
@@ -1216,7 +1272,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 157297,
       "name": "iLUS\u00c3O II",
       "url": "https://open.spotify.com/track/2ltTdQRvLbRaD5KxVWwEVe"
@@ -2027,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "PA\u00b4 LAS JOYAS",
+        "url": "https://open.spotify.com/album/0KPjWpHOVBosGrfVU3IUPO"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164401,
+      "name": "PA\u00b4 LAS JOYAS",
+      "url": "https://open.spotify.com/track/1t9HZeHhSVsxJwkOEG3Y9L"
+    },
+    {
+      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/4Lez3G3O0bt3rnKJm7Sfl5"
       },
@@ -2200,7 +2278,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 153636,
       "name": "SENTAKIKI",
       "url": "https://open.spotify.com/track/1ALPr1f6IDJRvvA5ToVe69"

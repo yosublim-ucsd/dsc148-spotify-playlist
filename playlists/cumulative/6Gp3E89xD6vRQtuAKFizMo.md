@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-336 songs - 16 hr 11 min
+337 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [RXDIO ACTXVE](https://open.spotify.com/track/6K0VFqzZ53URyjfAjLDsqK) | [TRXGGX](https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A) | [RXDIO ACTXVE](https://open.spotify.com/album/44AORFKg2rxNyDfppWfFwt) | 2:34 | 2023-11-22 |  |
 | [SAFE](https://open.spotify.com/track/1An0fvGIjjMDFGoebz2GI9) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [God Bless The Trap House](https://open.spotify.com/album/3gGdE5OzZ8qUPGSXf0OzZ7) | 2:11 | 2023-08-09 | 2023-12-14 |
 | [Sangre Poderosa](https://open.spotify.com/track/6XlTWSJ9MiCsE9zV05TeLM) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Sangre Poderosa](https://open.spotify.com/album/70Pw8yVlZQkoEu8ttNiIDf) | 2:26 | 2022-05-06 | 2022-06-25 |
+| [Save Me From Myself](https://open.spotify.com/track/4NwppL4nlPoBsuMNatp1pC) | [JAYEM](https://open.spotify.com/artist/4tWO1xn8RaWclA2yINpRcE), [Alix Robson](https://open.spotify.com/artist/79GdQ9zaVZKtAIe5XSItbT), [Iona](https://open.spotify.com/artist/17Y2csL81MRhA4lwSy5IAN) | [Save Me From Myself](https://open.spotify.com/album/4iYVCLCLA6ThnFkR8AjqkQ) | 2:45 | 2024-08-19 |  |
 | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/track/52IUYgumUJN31TVeyfjv9t) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 3:28 | 2024-05-17 |  |
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 |  |

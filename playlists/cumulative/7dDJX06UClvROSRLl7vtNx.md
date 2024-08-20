@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-522 songs - 22 hr 50 min
+524 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Hold On](https://open.spotify.com/track/5C3oYCLmX1ftTCDv5ePQAE) | [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Yiqi](https://open.spotify.com/artist/6VKFK8E6qs6ETzKWP13jOG) | [Hold On](https://open.spotify.com/album/5N43rVFdgAhIX1N6zZ0xSH) | 2:37 | 2023-09-22 | 2024-04-15 |
 | [Hold On Tight](https://open.spotify.com/track/03bihVrDQlgzYYOgKUib7t) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg) | [Hold On Tight](https://open.spotify.com/album/6mVprQiGuGqWiuijlfH7WF) | 2:26 | 2024-06-09 | 2024-07-09 |
 | [Hold This Memory](https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Hold This Memory](https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG) | 2:40 | 2023-09-22 | 2024-07-05 |
+| [Hold You Right](https://open.spotify.com/track/3NJ2hMhKD1nZf2VGp3tD55) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [veranda life](https://open.spotify.com/artist/4TuhUuVGlN2W79M1OKJnfr) | [Hold You Right](https://open.spotify.com/album/0lqn6UK68KsD6p1DRqrY5w) | 2:28 | 2024-08-19 |  |
 | [Holding Back](https://open.spotify.com/track/0UCqGPGQsfXL0zCXyIeHuN) | [Planet Wave House](https://open.spotify.com/artist/0TtBVSCNHItUJOT8PEgsNd), [Kelo](https://open.spotify.com/artist/5USLHyCuiBT2He3fZvRGwg), [Namic](https://open.spotify.com/artist/0Ig4BYYedgQoFjeSvUKDEy) | [Holding Back](https://open.spotify.com/album/6RZpFmG0qlEEBtw56JR56I) | 3:08 | 2024-05-20 | 2024-05-28 |
 | [Holding On](https://open.spotify.com/track/5sWEv6IqfiieSumtT3x9sa) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Holding On](https://open.spotify.com/album/0z5dbKBLmLJX6SOXYGEhVQ) | 2:22 | 2024-05-04 |  |
 | [Holiday](https://open.spotify.com/track/3XIzACaLBacvVPZx5APc4r) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Daniel McMillan](https://open.spotify.com/artist/0QmjDGwdHEo5er9pQnYuO8) | [Holiday](https://open.spotify.com/album/1SQnxBv8ypaQVhhU5zAvdd) | 2:30 | 2023-10-27 |  |
@@ -476,6 +477,7 @@
 | [Those Eyes](https://open.spotify.com/track/4BnNu11SXAJKu4TaMoipUA) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Those Eyes](https://open.spotify.com/album/1K81avVRkJg8oy29gwN6LE) | 2:43 | 2023-10-19 |  |
 | [Through Glass](https://open.spotify.com/track/3v60ytSWrozCqpiAZbkI1O) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [Through Glass](https://open.spotify.com/album/3Anq47xQ6ubEdxmP6g4Agb) | 3:06 | 2024-01-14 |  |
 | [Time After Time](https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq) | [Paratone](https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi) | [Time After Time](https://open.spotify.com/album/5UIrl1EOp7KzqxtfAiwxmZ) | 2:41 | 2024-07-30 |  |
+| [Too Sweet](https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Too Sweet](https://open.spotify.com/album/5RapO0NBTef1Od1UnEIOlH) | 3:10 | 2024-08-19 |  |
 | [Tried To Forget You](https://open.spotify.com/track/5VY6tNKCh3Xws16GXFMQMn) | [Dizaro](https://open.spotify.com/artist/2atwG2TdLJ99UpJVxXi3E4), [colormeblue.](https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev) | [Tried To Forget You](https://open.spotify.com/album/0gLOn1qRKayW4wBTU9baxc) | 2:22 | 2024-03-01 | 2024-05-13 |
 | [Two Souls](https://open.spotify.com/track/675JuODU5OxqTl1k4NaN4q) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [LeXxìv](https://open.spotify.com/artist/20JtkFH7pG8FJxd0hL63LS) | [Two Souls](https://open.spotify.com/album/4JjhoZajszdZySSVukCA5N) | 2:30 | 2024-05-12 | 2024-06-24 |
 | [Unbreak It](https://open.spotify.com/track/6l9watGB0N9k9sFOKKNb1T) | [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [May Li](https://open.spotify.com/artist/4jQnjcUdngKVUr8GKjgRTJ) | [Unbreak It](https://open.spotify.com/album/2PqT3kxM0TvZ4iTTZjKvVk) | 2:41 | 2024-05-05 | 2024-05-13 |

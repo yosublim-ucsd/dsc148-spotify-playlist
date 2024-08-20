@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: blacktoothed",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: All That Remains",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 208052,
       "name": "\"good guy\"",
       "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
+    {
+      "album": {
+        "name": "6 Inch LED Screen",
+        "url": "https://open.spotify.com/album/0lzOXZ0ywI0G4NowpURSrf"
+      },
+      "artists": [
+        {
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "6 Inch LED Screen",
+      "url": "https://open.spotify.com/track/0PRxZfA5bUIRiHCEWPVXpM"
     },
     {
       "album": {
@@ -645,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Cave Paintings",
+        "url": "https://open.spotify.com/album/0hWOeINsQC8GHkqguguiE8"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240512,
+      "name": "Cave Paintings",
+      "url": "https://open.spotify.com/track/3pkVuZ4EX04NWRMpAd99rj"
+    },
+    {
+      "album": {
         "name": "Chaotic",
         "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
       },
@@ -772,7 +808,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 162773,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/6Q0qpTozfkIToAetarFsHg"
@@ -1306,7 +1342,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 221472,
       "name": "H3ART",
       "url": "https://open.spotify.com/track/2HwyEx4K2GQgd6qeHHwW2G"
@@ -1452,7 +1488,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 184464,
       "name": "Horses In A Dream",
       "url": "https://open.spotify.com/track/0QTnrvAOdpW98lSdowjwHM"
@@ -1470,7 +1506,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 175786,
       "name": "House \u2260 Home",
       "url": "https://open.spotify.com/track/4CQA3WAuyb3prHO2f9pSen"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 199067,
       "name": "I GOT THAT",
       "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
@@ -2051,6 +2087,42 @@
     },
     {
       "album": {
+        "name": "NO HOSTAGES",
+        "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "NO HOSTAGES",
+      "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
+    },
+    {
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280251,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
+    },
+    {
+      "album": {
         "name": "Nobody\u2019s",
         "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
       },
@@ -2301,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233793,
+      "name": "Prequel",
+      "url": "https://open.spotify.com/track/3ZdwCZtXWJjMqHlSFgYfIg"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/024pztg1UNFjSuXdwfIQTx"
       },
@@ -2499,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Silence & The Sound",
+        "url": "https://open.spotify.com/album/5haKJv5UOlurln2y8D4lHO"
+      },
+      "artists": [
+        {
+          "name": "Defences",
+          "url": "https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191188,
+      "name": "Silence & The Sound",
+      "url": "https://open.spotify.com/track/46DNOidW3taZozJggUr1Sd"
+    },
+    {
+      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -2568,7 +2676,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 168491,
       "name": "Sober/Inertia",
       "url": "https://open.spotify.com/track/0bMSEu5EwW9wSQzX4uKT5Q"
@@ -2738,6 +2846,24 @@
       "duration_ms": 179786,
       "name": "THE RECKONING",
       "url": "https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y"
+    },
+    {
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "album": {
@@ -3034,7 +3160,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 181781,
       "name": "Wrong Again",
       "url": "https://open.spotify.com/track/1uG4FQGPB7mULPcwJ4riTV"

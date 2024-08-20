@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: YongYong(\uc6a9\uc6a9)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 216032,
+  "num_followers": 216051,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,22 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "BLEND",
-        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+        "name": "365&7",
+        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
       "artists": [
         {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
           "name": "pH-1",
           "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
         }
       ],
-      "duration_ms": 137546,
-      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
-      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+      "duration_ms": 169133,
+      "name": "365&7 (Feat. JAMIE)",
+      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -647,22 +643,26 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "365&7",
-        "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
         },
         {
-          "name": "JAMIE",
-          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 169133,
-      "name": "365&7 (Feat. JAMIE)",
-      "url": "https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ"
+      "duration_ms": 137546,
+      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
+      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "Criminal (Feat. MC MONG)",
-        "url": "https://open.spotify.com/album/5k2dXby8yLoMHBFoBlQEf4"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Criminal (Feat. MC MONG)",
-      "url": "https://open.spotify.com/track/2Pa2nJbeFRgzL8twqs06S8"
-    },
-    {
-      "added_at": "2024-08-14 09:19:32",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 207523,
       "name": "Error (Feat. Loopy)",
       "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
+    },
+    {
+      "added_at": "2024-08-14 09:19:32",
+      "album": {
+        "name": "Criminal (Feat. MC MONG)",
+        "url": "https://open.spotify.com/album/5k2dXby8yLoMHBFoBlQEf4"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Criminal (Feat. MC MONG)",
+      "url": "https://open.spotify.com/track/2Pa2nJbeFRgzL8twqs06S8"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
-    },
-    {
-      "added_at": "2024-08-14 09:19:32",
-      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2024-08-14 09:19:32",
+      "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
+        "name": "3 STEPS FORWARD, 2 STEPS BACK",
+        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        }
+      ],
+      "duration_ms": 116722,
+      "name": "00:01",
+      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
+    },
+    {
+      "added_at": "2024-08-14 09:19:32",
+      "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 2",
         "url": "https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 261120,
       "name": "BYE BYE BYE (feat. Sion)",
       "url": "https://open.spotify.com/track/0NlGSYMfgwTLbMzViHYPO6"
-    },
-    {
-      "added_at": "2024-08-14 09:19:32",
-      "album": {
-        "name": "3 STEPS FORWARD, 2 STEPS BACK",
-        "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
-      },
-      "artists": [
-        {
-          "name": "YANGHONGWON",
-          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
-        }
-      ],
-      "duration_ms": 116722,
-      "name": "00:01",
-      "url": "https://open.spotify.com/track/3IaiBSg6SjPOS5XRo0ekOs"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1687,30 +1687,6 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "TOTO",
-        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
-      },
-      "artists": [
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 173386,
-      "name": "I Wish (Feat. Leellamarz, B.I)",
-      "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
-    },
-    {
-      "added_at": "2024-08-14 09:19:32",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -1751,18 +1727,26 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+        "name": "TOTO",
+        "url": "https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
+      "duration_ms": 173386,
+      "name": "I Wish (Feat. Leellamarz, B.I)",
+      "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1783,6 +1767,22 @@
       "duration_ms": 189480,
       "name": "Daisy (feat. pH-1)",
       "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
+    },
+    {
+      "added_at": "2024-08-14 09:19:32",
+      "album": {
+        "name": "\"TO INFINITY.\"",
+        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "TANG!\u2661",
+      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1823,26 +1823,22 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "Berry Loves My Mood",
-        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
+        "name": "Q&A (Feat. g0nny)",
+        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
       },
       "artists": [
         {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
         },
         {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
         }
       ],
-      "duration_ms": 210641,
-      "name": "Misfits (Feat. MELOH, Kid Wine)",
-      "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
+      "duration_ms": 152773,
+      "name": "Q&A (Feat. g0nny)",
+      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1871,26 +1867,26 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "RIDE OR DIE",
-        "url": "https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW"
+        "name": "Berry Loves My Mood",
+        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
       },
       "artists": [
         {
-          "name": "KOALA",
-          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         },
         {
-          "name": "Eric Minz",
-          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
         },
         {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "duration_ms": 195093,
-      "name": "RIDE OR DIE",
-      "url": "https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J"
+      "duration_ms": 210641,
+      "name": "Misfits (Feat. MELOH, Kid Wine)",
+      "url": "https://open.spotify.com/track/6W8HwARrdbtCNU8lupQD3J"
     },
     {
       "added_at": "2024-08-14 09:19:32",
@@ -1919,22 +1915,26 @@
     {
       "added_at": "2024-08-14 09:19:32",
       "album": {
-        "name": "Q&A (Feat. g0nny)",
-        "url": "https://open.spotify.com/album/4GO1ilSEyFguMadQTkSz9n"
+        "name": "RIDE OR DIE",
+        "url": "https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+          "name": "KOALA",
+          "url": "https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ"
         },
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+          "name": "Eric Minz",
+          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+        },
+        {
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         }
       ],
-      "duration_ms": 152773,
-      "name": "Q&A (Feat. g0nny)",
-      "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
+      "duration_ms": 195093,
+      "name": "RIDE OR DIE",
+      "url": "https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J"
     },
     {
       "added_at": "2024-08-14 09:19:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "EFTERFEST P\u00c5 MIN BALKONG!!",
+  "description": "VI DRICKER CAVA APER\u00c5\u00c5\u00c5L!!",
   "name": "30 km/h",
   "tracks": [
     {
@@ -20632,6 +20632,28 @@
       "duration_ms": 225179,
       "name": "Sun on the Ocean",
       "url": "https://open.spotify.com/track/0H38nMwD98B5d72ndJQkls"
+    },
+    {
+      "album": {
+        "name": "Sunnanvind \u2013 Spotify Singles",
+        "url": "https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE"
+      },
+      "artists": [
+        {
+          "name": "LBSB",
+          "url": "https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0"
+        },
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169061,
+      "name": "Sunnanvind \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD"
     },
     {
       "album": {

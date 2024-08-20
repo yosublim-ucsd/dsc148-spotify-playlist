@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "WE LIVE ONLY ONCE",
+        "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "DRAIN SEASON",
+      "url": "https://open.spotify.com/track/6zdWpryWrbSG6PIdnfin32"
+    },
+    {
+      "album": {
         "name": "Drama Queen",
         "url": "https://open.spotify.com/album/2tpNNKIxNZFAmaj1hzhL4C"
       },
@@ -1550,7 +1572,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 108068,
       "name": "Never Broke Again",
       "url": "https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX"
@@ -2914,7 +2936,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 173693,
       "name": "\u0413\u0434\u0435 \u0442\u0432\u043e\u044f \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/7bQHty20BhXNYgvFfp2jgW"
@@ -4446,7 +4468,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 93257,
       "name": "\u0421\u0430\u043c\u044b\u0439 \u043b\u0443\u0447\u0448\u0438\u0439 \u0434\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/6aZw4hMz6ZZqjALf0GAbKy"

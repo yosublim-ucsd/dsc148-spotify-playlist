@@ -2,7 +2,7 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Charli xcx, Billie Eilish
+> 50 nejžhavějších hitů v České republice\. Cover: Hard Rico
 
 58 songs - 2 hr 42 min
 

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-383 songs - 1 day 7 hr 56 min
+384 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [ax Mr\. L](https://open.spotify.com/track/5gBjsMXIFVmfRq5HMxI0HN) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Revep \(Remaster\)](https://open.spotify.com/album/4bnxhUpD6NDaltuGjsv4qN) | 4:21 | 2022-12-20 |  |
 | [Baby Steps](https://open.spotify.com/track/4854p5c2onuInjU13Kwj4o) | [Lightbath](https://open.spotify.com/artist/4AIr46FQ8PXGH880gA3g9I) | [Selected Public Works, Vol\. 5](https://open.spotify.com/album/5ub6Z4l5a4qIOkLPrDlrMn) | 1:26 | 2023-05-19 | 2023-06-06 |
 | [Back](https://open.spotify.com/track/1LRe3pBXMXGmrGCPhRiqUW) | [Between](https://open.spotify.com/artist/7Jda0huWtcry35ZsK8u8K8) | [Low Flying Owls](https://open.spotify.com/album/2kUc7dFPOqPOYaicmP8Qzv) | 5:41 | 2023-08-18 | 2023-09-01 |
+| [Back Again](https://open.spotify.com/track/7d0KT1OR0DTuqyiTe89fW9) | [Inhmost](https://open.spotify.com/artist/1uWXjDzaMktZ4GukbKxX9O) | [The Feeling Of.....](https://open.spotify.com/album/0zom3jIgn7f33CxDCOfyr0) | 4:40 | 2024-05-28 |  |
 | [Baden\-Baden](https://open.spotify.com/track/10oTpr8DSlyDbPqD29kLmD) | [Andrew Pekler](https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J), [Giuseppe Ielasi](https://open.spotify.com/artist/7JqFxlbv8o0djCv6o1LWLL) | [Palimpsests](https://open.spotify.com/album/3zh7gaR5TzIP4qE4QcI4uv) | 3:24 | 2023-08-18 | 2023-09-01 |
 | [Baker's Dolphin](https://open.spotify.com/track/0pvSZn0ubo1g1j1f4bihI6) | [Jim Wallis](https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL), [Nick Goss](https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB) | [Baker's Dolphin](https://open.spotify.com/album/7DZeLHcd48XCwRUFGjKjGj) | 5:41 | 2022-03-17 | 2022-07-28 |
 | [Be Forgotten](https://open.spotify.com/track/0fDflCdnV8tMYMDmGqr28V) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2023-03-18 |
@@ -79,7 +80,7 @@
 | [Cloudline](https://open.spotify.com/track/6p4yw4aRRg2SJuQm898pla) | [Hatsü](https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd) | [Cloudline](https://open.spotify.com/album/1bLq05o6DZoBw85k6ITEsa) | 3:19 | 2022-12-20 |  |
 | [Clouds](https://open.spotify.com/track/05dqjOZbjR2coSczMXDqa6) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH) | [Clouds](https://open.spotify.com/album/7rOuHgosEnuBdQSk8kyvyh) | 3:46 | 2022-10-14 |  |
 | [Compositions 1960: No\. 2, Build a Fire \- Arr\. for Guitar](https://open.spotify.com/track/1BLCpzbzjfBmamOS7lDHDK) | [La Monte Young](https://open.spotify.com/artist/5h2yl4fuAyztOOBgMRyQhE), [Noël Akchoté](https://open.spotify.com/artist/18zFsOC20KUzWDnvGdITar) | [La Monte Young: Compositions 1960 \(Arr\. for Guitar\)](https://open.spotify.com/album/7gqNwFODbA2GbvEJ7CCeos) | 0:39 | 2023-09-22 | 2023-10-07 |
-| [Consciousness, Pt\. 1](https://open.spotify.com/track/57AGd80DRCOzwMy7WbCq3y) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Enter the Cosmos: Ambient Cello Meditation](https://open.spotify.com/album/3VtiBbKf131tPgqFuFXvAN) | 7:15 | 2022-11-27 |  |
+| [Consciousness, Pt\. 1](https://open.spotify.com/track/57AGd80DRCOzwMy7WbCq3y) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [Enter the Cosmos: Ambient Cello Meditation](https://open.spotify.com/album/3VtiBbKf131tPgqFuFXvAN) | 7:15 | 2022-11-27 | 2024-08-20 |
 | [Crescent](https://open.spotify.com/track/17syFBLndFVCpHYJan6R0T) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Gravity](https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n) | 5:51 | 2023-01-27 | 2024-04-19 |
 | [Crescent](https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo) | [Christopher Willits](https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA) | [Crescent](https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc) | 5:51 | 2022-08-17 | 2023-02-18 |
 | [Dear](https://open.spotify.com/track/00ur1WE5DXC4ycnnBnyfvg) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Satori](https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY) | 1:56 | 2022-03-30 | 2023-01-21 |

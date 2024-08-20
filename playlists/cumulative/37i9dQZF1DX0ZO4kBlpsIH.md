@@ -4,11 +4,11 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-214 songs - 10 hr 27 min
+217 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 | 2022-11-25 |  |
+| [Accordeon Sur Seine](https://open.spotify.com/track/6maobgJ1IUx7o0mHZgnIH2) | [Daniel Janin](https://open.spotify.com/artist/6Y3tbVSmwrunXf2PLea5wH) | [Authentic France](https://open.spotify.com/album/2vWdztr1r7yVlFamyCNbGG) | 2:50 | 2022-11-25 | 2024-08-20 |
 | [Alone](https://open.spotify.com/track/0u1Z6QGnebrQTI00Ep05rZ) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Alone](https://open.spotify.com/album/1OTHiYWUd2C9xeCXyTQlMN) | 3:30 | 2022-02-18 | 2024-07-23 |
 | [Alone](https://open.spotify.com/track/1LLvGyC6OfyrE06zrdkZg2) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/3B9vXnaS3md9FibgkwyczM) | 3:30 | 2022-02-18 | 2023-05-04 |
 | [Alone](https://open.spotify.com/track/4Q0HA7QYunPrVYTuLyDj1J) | [Claudio Constantini](https://open.spotify.com/artist/4qXRvJuWOfBFJWqCGmIuJQ) | [Incandessence](https://open.spotify.com/album/35Gdl9xS5pYQcxbz4V1Dgn) | 3:30 | 2023-05-03 | 2024-04-19 |
@@ -56,7 +56,7 @@
 | [Cris](https://open.spotify.com/track/4Ndlor6i2ikO2tOzB8LVZH) | [Roberto Lucanero](https://open.spotify.com/artist/5OVJFCX7ri0EaYLqz58NQp) | [Cris](https://open.spotify.com/album/5x3cqAMsUcM9YvAG1Xeo6N) | 3:44 | 2022-02-18 | 2022-11-26 |
 | [Cumbia Cantina](https://open.spotify.com/track/78R2ykINPnIYzQqCg5Kbys) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:52 | 2022-02-18 | 2023-04-28 |
 | [c’est pas une valse](https://open.spotify.com/track/2M7pnVEq94WK8GY4VVVHnL) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [c’est pas une valse](https://open.spotify.com/album/502Abcnvy3uNgBV9H34IZq) | 3:14 | 2023-12-08 |  |
-| [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 | 2024-01-19 |  |
+| [c’est quoi ton p’tit nom](https://open.spotify.com/track/0e72GovSMMBz6tPEHpsLJC) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [c’est quoi ton p’tit nom](https://open.spotify.com/album/0fIKxC0O1BzdLfaVYrmHHc) | 3:30 | 2024-01-19 | 2024-08-20 |
 | [des mers ensoleillées](https://open.spotify.com/track/0JwjaAxjBVSDNr5dOqgAwl) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [des mers ensoleillées](https://open.spotify.com/album/23ks6PKKQkUuUCZeN9zRZw) | 2:45 | 2024-08-07 |  |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7bkF2XCl41sxITMEVfamKq) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 2:58 | 2022-02-18 | 2024-04-19 |
 | [Die Prinzessin des Akkordeons](https://open.spotify.com/track/7fQBdAmIIcaK0xYfn8vjRl) | [Roger Dufas](https://open.spotify.com/artist/5ZA9UYzX5J1uxXspRhJJDg), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 2:58 | 2022-02-18 |  |
@@ -72,6 +72,7 @@
 | [Folie à amphion](https://open.spotify.com/track/4X5fkuK8fbrlUARtdxbD2h) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:10 | 2023-03-07 | 2023-08-19 |
 | [Forêt de Hêtres](https://open.spotify.com/track/3WG0yb0OLB99N3NAIlCWKo) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Forêt de Hêtres](https://open.spotify.com/album/2p7ku7TRCskCv3qdHJDPSL) | 2:54 | 2023-04-13 |  |
 | [Fragile](https://open.spotify.com/track/0GtinxtEBaIfjQ3MeZmBSD) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Fragile](https://open.spotify.com/album/633ITRU98vaPptgSFYcmG6) | 2:21 | 2023-05-18 |  |
+| [French Press](https://open.spotify.com/track/7bl9M1KZTZglIYfygVb0Pb) | [Martín Lima](https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51) | [French Press](https://open.spotify.com/album/0YVgQG1VzjBgkd1Oigv5lr) | 3:09 | 2024-08-19 |  |
 | [French Printer](https://open.spotify.com/track/4hDqA6Otb0viBsGazT7iDs) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:57 | 2023-06-15 | 2023-08-19 |
 | [Germaine](https://open.spotify.com/track/3D7XKxSW2giVfFMEm7Sym9) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:17 | 2022-11-25 |  |
 | [Germaine](https://open.spotify.com/track/6M3dKusOA9jKFTyYtZroWj) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Valse musette de Paris](https://open.spotify.com/album/6DhvEyNar7K1i3gVcS0rGH) | 3:25 | 2022-08-05 | 2022-11-13 |
@@ -146,9 +147,11 @@
 | [Nature Boy](https://open.spotify.com/track/76krowblKCB2QKvFlF72rS) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nature Boy](https://open.spotify.com/album/0nppysWv4pEJU73jrO7HFS) | 2:59 | 2023-05-11 |  |
 | [Nivram](https://open.spotify.com/track/3oBd5LyXu64UGeZd5jOh5m) | [Alma Sinti](https://open.spotify.com/artist/359HPjn8qfvjUb2mn9LpYK) | [Nuits de Paris](https://open.spotify.com/album/2VO3QpjtZCbOKQO6Pqebnq) | 3:13 | 2023-03-07 |  |
 | [November Moon](https://open.spotify.com/track/712ZGHyBdeTUh3iEu6ctci) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [CAO 10](https://open.spotify.com/album/2M5SSx4fWARPw8lLnKD9oS) | 4:12 | 2022-11-25 |  |
+| [Nuit d'Ivresse](https://open.spotify.com/track/6A23SUSRCmF5neznwHqDgp) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Nuit d'Ivresse](https://open.spotify.com/album/4qFs40D6TrUX2ptMXfFEyv) | 3:02 | 2024-08-19 |  |
 | [Nuits Françaises](https://open.spotify.com/track/62UxKGAaoPpbWxopsCpUar) | [Chansons d´Accordeon](https://open.spotify.com/artist/7yyIR9coVU196KLJT9Mj6T) | [Nuits Françaises](https://open.spotify.com/album/5w4k9Vz93h1ZJKRdp2zFn6) | 2:27 | 2023-10-13 |  |
 | [Ombrages](https://open.spotify.com/track/54B05cOuy6NpnZPx9KVfdh) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F) | [Passion Gitane](https://open.spotify.com/album/3dQ85ldFwfDtl2WNdaED1l) | 2:57 | 2022-02-18 |  |
 | [On the run](https://open.spotify.com/track/2mTuZaoYyehU31Zb3aPCcz) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [On the run](https://open.spotify.com/album/45eIA6TzPo98wk9cyf9K2J) | 2:16 | 2024-08-07 |  |
+| [Open Umbrellas](https://open.spotify.com/track/0rYYBsF6lYiW1pEOTe3bNv) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Open Umbrellas](https://open.spotify.com/album/72NWhryFV5uvZyOudt1mHJ) | 2:12 | 2024-08-19 |  |
 | [Padam...Padam...](https://open.spotify.com/track/2xQmDo3CrD1s5npI3bWYqu) | [Jacques Ferchit](https://open.spotify.com/artist/2IJGeegMtg1oHYYXT6frrO) | [Paris\-accordeon](https://open.spotify.com/album/2xRxJSYzFSSpFYLHw6QVbD) | 2:38 | 2022-02-18 |  |
 | [Parfum de Paris](https://open.spotify.com/track/65jUf1yJUfFDP521qYCSWz) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 1:37 | 2023-06-15 | 2023-08-19 |
 | [Paris Pigalle](https://open.spotify.com/track/0fzbz0jWZQJHSAqxHo74CM) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:00 | 2023-03-07 |  |

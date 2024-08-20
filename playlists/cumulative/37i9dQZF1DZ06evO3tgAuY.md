@@ -2,7 +2,7 @@
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This is Alex Favela\. The essential tracks, all in one playlist.
+> This is Alex Favela\. أغاني روعة في قايمة أغاني واحدة.
 
 55 songs - 2 hr 32 min
 

@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Blue Notes",
+          "url": "https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135373,
+      "name": "Hazme Una Sen\u0303al",
+      "url": "https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z"
+    },
+    {
+      "album": {
         "name": "Hey, Hey Girl 7\"",
         "url": "https://open.spotify.com/album/4MCpw6grgnk4HK0QPkKk67"
       },

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-134 songs - 7 hr 46 min
+136 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Hudson Square](https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Hudson Square](https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC) | 3:35 | 2023-05-04 |  |
 | [I Can't Get Started](https://open.spotify.com/track/6CJ14vzBSBk0C3FsfdkOtj) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [I Can't Get Started](https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e) | 2:25 | 2023-04-27 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:20 | 2023-04-27 | 2023-05-12 |
+| [I Have Never Been Here Before](https://open.spotify.com/track/5JLNI2JSEkEGFA3PVhocdf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [I Have Never Been Here Before](https://open.spotify.com/album/0lmxGh73XUO0RWmSJ4CnWE) | 3:47 | 2024-08-19 |  |
 | [I'm Here with You \(Rain\)](https://open.spotify.com/track/0yd29PdljMYYz4yNL9ZhzF) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [I'm Here With You \(Rain\)](https://open.spotify.com/album/2Lud8g78ZBSbutIxU3J4c4) | 3:36 | 2023-08-03 |  |
 | [I've Never Been in Love Before](https://open.spotify.com/track/4k7mJbTrcpwGlcwBMYlgmW) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:07 | 2023-04-27 | 2023-05-19 |
 | [If I Were You](https://open.spotify.com/track/0wlTJUbii03xcQIbf6fHSa) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:39 | 2023-04-27 |  |
@@ -79,7 +80,7 @@
 | [Leaky Roofs](https://open.spotify.com/track/6NynfWuoyXIfUtivo6rIxu) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Leaky Roofs](https://open.spotify.com/album/2NkWcy7M5v9TR0kmAAryEA) | 4:29 | 2023-06-22 |  |
 | [Lies And Illusions](https://open.spotify.com/track/6EGRzh9ore7oILIWBmUl2K) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Lies And Illusions](https://open.spotify.com/album/4nzv5Jf3VjNfEw06qvNPzS) | 3:49 | 2023-09-22 |  |
 | [Lilys Dream \- With Rain](https://open.spotify.com/track/3mmqVXFbshhfqNMyqY1xYi) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [Lilys Dream \- With Rain](https://open.spotify.com/album/7gWz9hPVKS6JT1x1o4Q8tn) | 3:32 | 2023-04-27 |  |
-| [Litania](https://open.spotify.com/track/4wOhcTEZTZulzergbLOx5M) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:57 | 2023-04-27 |  |
+| [Litania](https://open.spotify.com/track/4wOhcTEZTZulzergbLOx5M) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:57 | 2023-04-27 | 2024-08-20 |
 | [Longing](https://open.spotify.com/track/5juD6KBBmEyvSPFXwBvh9O) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 3:16 | 2023-04-27 |  |
 | [Lost in Orbit](https://open.spotify.com/track/14CVtIGrRL3bV8BlQSJigf) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Orbital Rain](https://open.spotify.com/album/4hYZF5wyDxOe4Lht2SYzBv) | 2:35 | 2023-04-27 |  |
 | [Lovely Weekends](https://open.spotify.com/track/5ujDFhQC9Xvp1vCaITdin9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Lovely Weekends](https://open.spotify.com/album/0jJAmJ2ihxm7iKHcsEQ6Jp) | 3:08 | 2024-07-09 |  |
@@ -100,6 +101,7 @@
 | [Open Skies](https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Open Skies](https://open.spotify.com/album/6xg99zXG10jU43BfP2JaKQ) | 3:46 | 2023-08-03 | 2024-07-10 |
 | [Quietude \(Rain\)](https://open.spotify.com/track/0kWsC6cDFuducuSGBUAWA6) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Quietude \(Rain\)](https://open.spotify.com/album/30H4NMj6s73FG3LylSrr8r) | 4:05 | 2023-09-22 |  |
 | [Rain in Stockholm](https://open.spotify.com/track/6B6hK76pQdlT90cUAKPOZv) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Rain in Stockholm](https://open.spotify.com/album/24F7niakJErEVnQ8EeFRGZ) | 3:16 | 2024-02-09 |  |
+| [Rainfall Serenade](https://open.spotify.com/track/138EdSRNQahnwfLwKlGecV) | [Benjamin Davies](https://open.spotify.com/artist/1FQTVgIX9eb3eS8qK3vSiQ) | [Rainfall Serenade](https://open.spotify.com/album/4GpvonLyL8kXK4s36HWMn0) | 3:32 | 2024-08-19 |  |
 | [Rainless](https://open.spotify.com/track/4LlVfy4JGDwzxFRE66SIkB) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Rainless](https://open.spotify.com/album/6QSeMLR0Mg9t0c44pite0q) | 4:07 | 2023-11-24 |  |
 | [Rainy Days Ahead](https://open.spotify.com/track/4p0t3HDaFqA40Kkj7YZq8o) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Rainy Days Ahead](https://open.spotify.com/album/2tFuZPqd1oofSheumCpUTN) | 3:27 | 2024-02-09 |  |
 | [Rainy Mix](https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 4:39 | 2023-04-27 |  |

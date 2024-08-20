@@ -1,6 +1,6 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  <a href=\"spotify:artist:2d8NsBa8O4C6bgQatFP5V4\">nobigdyl.</a>",
-  "num_followers": 47972,
+  "num_followers": 48039,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Real Talk",
+        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        },
+        {
+          "name": "Shawndy",
+          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "HI-C",
         "url": "https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 183201,
       "name": "HI-C",
       "url": "https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Real Talk",
-        "url": "https://open.spotify.com/album/2HdQI8ne0nJsuHZKfyiWh9"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        },
-        {
-          "name": "Shawndy",
-          "url": "https://open.spotify.com/artist/78ZSK6zK7PhCnupbcNaTht"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "Real Talk",
-      "url": "https://open.spotify.com/track/7kGpEg4HAFNDOwXBslAxzL"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Tale of a Free Man",
+        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 222157,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Tale of a Free Man",
-        "url": "https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 222157,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 168000,
       "name": "Gotta Be God",
       "url": "https://open.spotify.com/track/66dKe5hsyrNInqBpnxPTPL"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1567,30 +1567,6 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
-        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
-        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
-      },
-      "artists": [
-        {
-          "name": "Kham",
-          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
-        },
-        {
-          "name": "Battz",
-          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
-        },
-        {
-          "name": "Travis Hobson",
-          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
-        }
-      ],
-      "duration_ms": 143512,
-      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
-      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0ZWFhYDoBJVeEAhVbuz6lV"
       },
@@ -1627,6 +1603,30 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "PROBLEMATIC (Remix) [feat. Travis Hobson]",
+        "url": "https://open.spotify.com/album/5b9tiP4w6snbFuC8RD1Y86"
+      },
+      "artists": [
+        {
+          "name": "Kham",
+          "url": "https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De"
+        },
+        {
+          "name": "Battz",
+          "url": "https://open.spotify.com/artist/1l528yNr0Jpv2dqg4r06kI"
+        },
+        {
+          "name": "Travis Hobson",
+          "url": "https://open.spotify.com/artist/5shBzJB6QpkKp6imLBqnMR"
+        }
+      ],
+      "duration_ms": 143512,
+      "name": "PROBLEMATIC (feat. Travis Hobson) - Remix",
+      "url": "https://open.spotify.com/track/7vHeVhBP5XS9bX4INHAVHw"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "Already Won",
         "url": "https://open.spotify.com/album/3uw5iuuxRVPD7N3uokEYoZ"
       },
@@ -1639,6 +1639,22 @@
       "duration_ms": 245643,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 255798,
+      "name": "Heart Of Stone",
+      "url": "https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1659,22 +1675,6 @@
       "duration_ms": 153567,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6sOoBOMGIyYXvz7Xk4kxkn"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 255798,
-      "name": "Heart Of Stone",
-      "url": "https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz"
     },
     {
       "added_at": "2024-06-28 07:29:32",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-06-28 07:29:32",
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB"
+      },
+      "artists": [
+        {
+          "name": "Jubril",
+          "url": "https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX"
+        }
+      ],
+      "duration_ms": 145262,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF"
+    },
+    {
+      "added_at": "2024-06-28 07:29:32",
+      "album": {
         "name": "No Popstar",
         "url": "https://open.spotify.com/album/6Mj4lFRr13kDnwKVz9AEW9"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 194285,
       "name": "No Popstar",
       "url": "https://open.spotify.com/track/4NOasKvxJd9CSSyDJ9C1DQ"
-    },
-    {
-      "added_at": "2024-06-28 07:29:32",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB"
-      },
-      "artists": [
-        {
-          "name": "Jubril",
-          "url": "https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX"
-        }
-      ],
-      "duration_ms": 145262,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF"
     },
     {
       "added_at": "2024-06-28 07:29:32",

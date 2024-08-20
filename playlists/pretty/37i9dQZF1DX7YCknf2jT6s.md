@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,146 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,308 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 2 | [Obi Do Woa \(If Someone Loves You\)](https://open.spotify.com/track/6CAftbOe4g66XHh4HNsW1Q) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Obi Do Woa \(If Someone Loves You\)](https://open.spotify.com/album/4V2vd2jBsyxQuhCJuBAKlN) | 3:52 |
 | 3 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |
 | 4 | [Zodiac](https://open.spotify.com/track/15iMGU3HQnMnVQ53YsNhnv) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Zodiac](https://open.spotify.com/album/3kqbr0ChebfBBhuDkfm048) | 4:47 |
-| 5 | [Double Entendre](https://open.spotify.com/track/4FWosPafFYxKL54oZB62tW) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [Dominique Xavier](https://open.spotify.com/artist/08pNXT13jLN3ri7eT6pRuv) | [Double Entendre](https://open.spotify.com/album/38ObGgBOt3XWjoXIobokkl) | 6:19 |
+| 5 | [Double Entendre](https://open.spotify.com/track/4FWosPafFYxKL54oZB62tW) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Joe Cleveland](https://open.spotify.com/artist/1OREq1cp67WA7bvs7v1Ogg), [Stixx Taylor](https://open.spotify.com/artist/2eMTWZLa7eqnNsp71eM6Tg), [DominiqueXavier](https://open.spotify.com/artist/5YqM4qQoLdJcGeN6rXQxkz) | [Double Entendre](https://open.spotify.com/album/38ObGgBOt3XWjoXIobokkl) | 6:19 |
 | 6 | [Mica Moon](https://open.spotify.com/track/1aS55TheI2I8uKwn85Lnd0) | [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje), [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [Who I Am](https://open.spotify.com/album/5UDBGR5wr2Bf5xVDFDGFVA) | 4:42 |
 | 7 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 |
 | 8 | [Stuff Happens](https://open.spotify.com/track/7yOvhfKshKkcVKoXl7uyYk) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Stuff Happens](https://open.spotify.com/album/3qhrFMIHrZC6wPP5hxmPn4) | 6:56 |

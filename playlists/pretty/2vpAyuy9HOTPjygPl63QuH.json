@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11149,
+  "num_followers": 11156,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAjSgVjV/nKJ+7Fjbjy2g4gNOUILsHh",
+  "snapshot_id": "AAAjTggA/JJqSWxWTChZZW8WpiDsI5Sl",
   "tracks": [
     {
       "added_at": "2024-08-09 12:12:19",
@@ -27,6 +27,26 @@
       "duration_ms": 211899,
       "name": "Boost Up",
       "url": "https://open.spotify.com/track/4xKLgLnQm2wQFUqAYb6UUM"
+    },
+    {
+      "added_at": "2024-08-19 15:36:03",
+      "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
     },
     {
       "added_at": "2024-07-18 23:01:54",
@@ -1027,6 +1047,26 @@
       "duration_ms": 218169,
       "name": "The Way You Act",
       "url": "https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz"
+    },
+    {
+      "added_at": "2024-08-19 10:37:58",
+      "album": {
+        "name": "Freakk",
+        "url": "https://open.spotify.com/album/23KzxbEO0NmaCR08VZdWW6"
+      },
+      "artists": [
+        {
+          "name": "Juan Valencia",
+          "url": "https://open.spotify.com/artist/5Afyw95iiiAg0cpCU0EwoJ"
+        },
+        {
+          "name": "Alexander Zabbi",
+          "url": "https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI"
+        }
+      ],
+      "duration_ms": 245639,
+      "name": "Freakk",
+      "url": "https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4"
     }
   ],
   "unique_name": "SUBSHIFT SELECTS ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,903 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,052 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 3 | [Kind](https://open.spotify.com/track/2ijN6TEWfzlyHK8fbRvbcx) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Kind](https://open.spotify.com/album/5trcQO9w0S8auaknT2zFTI) | 2:29 |
 | 4 | [Die Jungs](https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Die Jungs](https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD) | 2:41 |
 | 5 | [Ich trage Samt](https://open.spotify.com/track/5PXzqB5i6nroTtLJLy9dTr) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich trage Samt](https://open.spotify.com/album/5wHD5ao5biGk9MuBuSVl8p) | 2:42 |
-| 6 | [hausnummer\_16\_v7](https://open.spotify.com/track/4ZYojNQGIOdIzhuiKH2jCq) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [hausnummer\_16\_v7](https://open.spotify.com/album/4ng50O2sOGLOaxNPJexXGo) | 2:21 |
-| 7 | [Ich liebe dich für immer](https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Ich liebe dich für immer](https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R) | 2:43 |
-| 8 | [rohbeton](https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [rohbeton](https://open.spotify.com/album/609CS2jCvMY64FiiqiAGgd) | 2:18 |
-| 9 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
-| 10 | [fallenfürimmer](https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [fallenfürimmer](https://open.spotify.com/album/4vYKB3ayz4XtODI5OftzmG) | 2:51 |
-| 11 | [9 To 5](https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [9 To 5](https://open.spotify.com/album/52CcrM08IJ53pgktQMagvQ) | 2:50 |
-| 12 | [wie du da liegst](https://open.spotify.com/track/4GIN80SV7QGrb34fSxt6XO) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [wie du da liegst](https://open.spotify.com/album/3ihmHOSp2dQ2ehpF0JHecB) | 2:49 |
+| 6 | [Ich liebe dich für immer](https://open.spotify.com/track/3IWtxinpzdLpRxtqIEtffR) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Ich liebe dich für immer](https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R) | 2:43 |
+| 7 | [hausnummer\_16\_v7](https://open.spotify.com/track/4ZYojNQGIOdIzhuiKH2jCq) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi), [Ericson](https://open.spotify.com/artist/2mkCm5VNJTplOKJxcDYMpa) | [hausnummer\_16\_v7](https://open.spotify.com/album/4ng50O2sOGLOaxNPJexXGo) | 2:21 |
+| 8 | [Sommerregen](https://open.spotify.com/track/1o4ENECnv5rZILIq8piPdJ) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/0GuyFmQ0A7LCwvQXfryIGg) | 2:34 |
+| 9 | [rohbeton](https://open.spotify.com/track/0U7dAKXYI6RMd4D1RuXdyw) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [rohbeton](https://open.spotify.com/album/609CS2jCvMY64FiiqiAGgd) | 2:18 |
+| 10 | [wie du da liegst](https://open.spotify.com/track/4GIN80SV7QGrb34fSxt6XO) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [wie du da liegst](https://open.spotify.com/album/3ihmHOSp2dQ2ehpF0JHecB) | 2:49 |
+| 11 | [fallenfürimmer](https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [fallenfürimmer](https://open.spotify.com/album/4vYKB3ayz4XtODI5OftzmG) | 2:51 |
+| 12 | [9 To 5](https://open.spotify.com/track/7HRHKWjJ2JOfygbeUtogCs) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [9 To 5](https://open.spotify.com/album/52CcrM08IJ53pgktQMagvQ) | 2:50 |
 | 13 | [Verlieren in der Nacht](https://open.spotify.com/track/0yXDlX0HomKLejRtKlW1wQ) | [YRRRE](https://open.spotify.com/artist/1wwT1eZWyAjVXbb1qpzEVC), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Verlieren in der Nacht](https://open.spotify.com/album/5LI3dKMm96a28Kw4mrVuaN) | 2:40 |
 | 14 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 |
 | 15 | [SOMMER MEINES LEBENS](https://open.spotify.com/track/3cX6tTqVJhjb5UR8TK5LTQ) | [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [SOMMER MEINES LEBENS](https://open.spotify.com/album/3w6SwmSkS2TApsASIKk3ls) | 1:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [PLANLOS](https://open.spotify.com/track/0F6IxFTC51t82jREszsQtb) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [PLANLOS](https://open.spotify.com/album/07cnvUEajLMKQLEv0qMWTr) | 2:40 |
 | 75 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 
-Snapshot ID: `Zr56YAAAAADp/Hi0gbvjCq7lLf/H0NT+`
+Snapshot ID: `ZsMUlgAAAADaTNXeVZjxaffLqMcNqqrK`

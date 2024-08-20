@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 14575,
+  "num_followers": 14588,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "\ubd88\uaf43, \ub180\uc774",
+        "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "\ubd88\uaf43, \ub180\uc774",
+      "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 195040,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "\ubd88\uaf43, \ub180\uc774",
-        "url": "https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "\ubd88\uaf43, \ub180\uc774",
-      "url": "https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4"
     },
     {
       "added_at": "2024-08-09 09:24:09",

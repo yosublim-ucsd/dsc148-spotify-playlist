@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 220000,
       "name": "Cero",
       "url": "https://open.spotify.com/track/3bhXXovZkABx9Lcr3FrtoD"
@@ -4711,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "Lobo hombre en Par\u00eds",
+        "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
+      },
+      "artists": [
+        {
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
+      "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
+    },
+    {
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -4846,7 +4864,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 281065,
       "name": "Luc\u00eda (Bonus Track)",
       "url": "https://open.spotify.com/track/18dbkA5rz0bM6AS3A9QCj3"
@@ -5572,7 +5590,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 205181,
       "name": "Music Free",
       "url": "https://open.spotify.com/track/6R2xf7kifqcJQTOc7QUSqh"
@@ -6512,6 +6530,24 @@
       "duration_ms": 215831,
       "name": "P\u00e1jaros de Desv\u00e1n",
       "url": "https://open.spotify.com/track/3zCKtvltc5c52y7ARFSJ2N"
+    },
+    {
+      "album": {
+        "name": "P\u00e1jaros y Aut\u00f3matas",
+        "url": "https://open.spotify.com/album/6P7gZktCVngE4sEmUFTcnJ"
+      },
+      "artists": [
+        {
+          "name": "La Broma Negra",
+          "url": "https://open.spotify.com/artist/0LnbHWQdiXZy0aoOtNEWgL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "P\u00e1jaros y Aut\u00f3matas",
+      "url": "https://open.spotify.com/track/44GKVDfMxdoc4Mgo3iiOen"
     },
     {
       "album": {
@@ -8532,6 +8568,24 @@
       "duration_ms": 249057,
       "name": "\u00bfVolver\u00e1?",
       "url": "https://open.spotify.com/track/42d7EvPwcbd5vCd9RC3Dae"
+    },
+    {
+      "album": {
+        "name": "\u00c1guila Imperial",
+        "url": "https://open.spotify.com/album/5hWR3O28AGY6d2xDaH6smc"
+      },
+      "artists": [
+        {
+          "name": "Los Premodernos",
+          "url": "https://open.spotify.com/artist/6PjN4tz1EIf2KXK2ejhnBY"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245689,
+      "name": "\u00c1guila Imperial",
+      "url": "https://open.spotify.com/track/49LpWr25QJHDnJTMaWKDuR"
     },
     {
       "album": {

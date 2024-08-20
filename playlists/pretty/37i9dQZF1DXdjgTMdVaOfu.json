@@ -1,15 +1,15 @@
 {
   "description": "Music from \"The Apothecary Diaries\" /\u300c\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9\u65e5\u5411\u590f\u30fb\u30a4\u30de\u30b8\u30ab\u30a4\u30f3\u30d5\u30a9\u30b9\uff0f\u300c\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
-  "num_followers": 2540,
+  "num_followers": 2580,
   "original_name": "The Apothecary Diaries \u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZgJTbwAAAADFyA8BNgoWns7rfKhUUrdu",
+  "snapshot_id": "ZsNB0AAAAABoQlsZZeORXf4Uwbu0XENm",
   "tracks": [
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u30a2\u30a4\u30b3\u30c8\u30d0",
         "url": "https://open.spotify.com/album/6HlF6mu7x9hT21LdjIhgG4"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/3OtR0cI6ngSveZ3sxOARa9"
     },
     {
-      "added_at": "2024-03-26 04:47:43",
-      "album": {
-        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u541b\u306b\u5c4a\u3051 3RD SEASON\u3011",
-        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
-      },
-      "artists": [
-        {
-          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u541b\u306b\u5c4a\u3051 3RD SEASON\u3011",
-          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
-        }
-      ],
-      "duration_ms": 1878282,
-      "name": "#4\u3010\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u3011  \u60a0\u6728\u78a7\u00d7\u9577\u6cbc\u7bc4\u88d5\u76e3\u7763\u300c\u53f0\u672c\u306e\u30c8\u66f8\u304d\u306f\u30ad\u30e3\u30b9\u30c8\u3055\u3093\u3078\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u300d",
-      "url": "https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz"
-    },
-    {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
@@ -73,7 +57,7 @@
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u611b\u306f\u85ac",
         "url": "https://open.spotify.com/album/2wfdLp7pe92E16ZwBHdFpP"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/1rf80hAVw6y8rVc1HsOpuv"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
+      "album": {
+        "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u541b\u306b\u5c4a\u3051 3RD SEASON\u3011",
+        "url": "https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9"
+      },
+      "artists": [
+        {
+          "name": "Spotify ANIZONE - \u30a2\u30cb\u30be\u30fc\u30f3 \u3010\u541b\u306b\u5c4a\u3051 3RD SEASON\u3011",
+          "url": "https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9"
+        }
+      ],
+      "duration_ms": 1878282,
+      "name": "#4\u3010\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u3011  \u60a0\u6728\u78a7\u00d7\u9577\u6cbc\u7bc4\u88d5\u76e3\u7763\u300c\u53f0\u672c\u306e\u30c8\u66f8\u304d\u306f\u30ad\u30e3\u30b9\u30c8\u3055\u3093\u3078\u306e\u30e1\u30c3\u30bb\u30fc\u30b8\u300d",
+      "url": "https://open.spotify.com/episode/5acv0jF7d9y2J3cD7FMydz"
+    },
+    {
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u60f3\u98a8\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
         "url": "https://open.spotify.com/album/1O12uQUwJC6XOw2szvYKp4"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4rvIcSHZXDxbUmS8TWAUKc"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u660e\u65e5\u3092\u8a2a\u306d\u3066\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
         "url": "https://open.spotify.com/album/2pU1RfDQkn8hchuvEUH03N"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6YCUh8Q8ZF6cjiYbKnJtST"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u96ea\u4e2d\u82b1\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
         "url": "https://open.spotify.com/album/34zfpmqy0jl18dxfTQcjHN"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2mhBLE7VdxgkMery54dNIk"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u84bc\u7a7a\u306e\u708e\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
         "url": "https://open.spotify.com/album/461TSdZQgLLbJDoH4upOjm"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7bTM7TaAIsk39uvNLj3ceU"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "\u60f3\u3044\u54b2\u304f\u6642\uff08TV\u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u633f\u5165\u6b4c\uff09",
         "url": "https://open.spotify.com/album/3GIVcGt262nsUZMkm02Ecb"
@@ -201,27 +201,7 @@
       "url": "https://open.spotify.com/track/612TOuGBMHSUhmFzqtasqM"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
-      "album": {
-        "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
-      },
-      "artists": [
-        {
-          "name": "XAI",
-          "url": "https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N"
-        },
-        {
-          "name": "\u795e\u524d \u6681",
-          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "\u660e\u65e5\u3092\u8a2a\u306d\u3066",
-      "url": "https://open.spotify.com/track/1vwrWBNja2bO3EYb79NOju"
-    },
-    {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -241,7 +221,7 @@
       "url": "https://open.spotify.com/track/3Ez0YT4hBH7l6pMrGJ2WGv"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -257,7 +237,7 @@
       "url": "https://open.spotify.com/track/63ppnnxSbSz7Uhg0JuZRLA"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -273,7 +253,7 @@
       "url": "https://open.spotify.com/track/4arlrl6pL2C1lfYN9E4rKd"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -289,7 +269,7 @@
       "url": "https://open.spotify.com/track/1CVcvXiWw1hpwfMVgwSpQu"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -305,7 +285,7 @@
       "url": "https://open.spotify.com/track/77hkAzSzcrPMTeum8S10Qj"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -321,7 +301,7 @@
       "url": "https://open.spotify.com/track/28Tinhg7aQNGt53C4m1aqy"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -337,7 +317,7 @@
       "url": "https://open.spotify.com/track/78PoU8M1hg54sFKXV1Jz7s"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -353,7 +333,7 @@
       "url": "https://open.spotify.com/track/6qixvVd6LaNB1HpE420Si9"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -369,7 +349,7 @@
       "url": "https://open.spotify.com/track/0DrKC2QQvK8x7EjSZWCKLQ"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -385,7 +365,7 @@
       "url": "https://open.spotify.com/track/3OAc9CISqXIREn8NnAx4Q0"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -401,7 +381,7 @@
       "url": "https://open.spotify.com/track/59MKG9dFZoHc3fdmnyfezj"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -417,7 +397,7 @@
       "url": "https://open.spotify.com/track/3YZ9JzzThDjJkaQoBWJjUv"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -433,7 +413,7 @@
       "url": "https://open.spotify.com/track/5PLZfe3dSP6dIUl4WHH5lV"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -449,7 +429,7 @@
       "url": "https://open.spotify.com/track/6J0NIfWha91ZidkTSe2g8I"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -465,7 +445,7 @@
       "url": "https://open.spotify.com/track/6YgWQbRBnjBqkTFEa3fHwv"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -481,7 +461,7 @@
       "url": "https://open.spotify.com/track/5jYIzHUV1OD3pVqq8h6Bqq"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -497,7 +477,7 @@
       "url": "https://open.spotify.com/track/0iKC4aP0IDyykc992q7ZxE"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -513,7 +493,7 @@
       "url": "https://open.spotify.com/track/1bw1sBp2Ae06Mi4D1HDJI5"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -529,7 +509,7 @@
       "url": "https://open.spotify.com/track/4Cn1OqfHsW9cAlsDQ3dqFR"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -545,7 +525,7 @@
       "url": "https://open.spotify.com/track/1cUfsUS1dM0Sp93fnlDg7U"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -561,7 +541,7 @@
       "url": "https://open.spotify.com/track/6S8lf9BDJOI1kNANzaCbW3"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -577,7 +557,7 @@
       "url": "https://open.spotify.com/track/2a685IIBGoqUS93WfY6Ltn"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -593,7 +573,7 @@
       "url": "https://open.spotify.com/track/5Z2kMA6ZPFGkTQZRgUyTOL"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -609,7 +589,7 @@
       "url": "https://open.spotify.com/track/0oB7SobL2HP0dhhlfsWZtD"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -625,7 +605,7 @@
       "url": "https://open.spotify.com/track/4TcOzGDvQAPWHo5LI3t87j"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -641,7 +621,7 @@
       "url": "https://open.spotify.com/track/67plKHndOw7OLCPpDxtD2f"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -657,7 +637,7 @@
       "url": "https://open.spotify.com/track/5dAo04Vn6mX90pTyGEUKhC"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -673,7 +653,7 @@
       "url": "https://open.spotify.com/track/4z2SXyMbWh45EH2PPrU52i"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -689,7 +669,7 @@
       "url": "https://open.spotify.com/track/3rciPgdPVZ8LBdaDIAtH0G"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -705,7 +685,7 @@
       "url": "https://open.spotify.com/track/4aCgi5OaUy8N5P07gCffoE"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -721,7 +701,7 @@
       "url": "https://open.spotify.com/track/7FTHuJX3S1EXO9LDTGDe3i"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -737,7 +717,7 @@
       "url": "https://open.spotify.com/track/3SqE4rQecL4raZfeymWb6Q"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -753,7 +733,7 @@
       "url": "https://open.spotify.com/track/7ytrCstQ7Urb895x5VGBaf"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -769,7 +749,7 @@
       "url": "https://open.spotify.com/track/7DkZdssPs0MQ9g3v5UDLWg"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -785,7 +765,7 @@
       "url": "https://open.spotify.com/track/26LpIVioVfSYKxqV7CKPG2"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -801,7 +781,7 @@
       "url": "https://open.spotify.com/track/3boXsKsMJ6T2iREprCmHzf"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -817,7 +797,7 @@
       "url": "https://open.spotify.com/track/4NnjevHwgeiZvYzCmqeWSm"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -833,7 +813,7 @@
       "url": "https://open.spotify.com/track/2fLmBUKN5m0SuNyrvDol5M"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"
@@ -849,7 +829,7 @@
       "url": "https://open.spotify.com/track/2fqHg2p64AtsrYDVnJDUHN"
     },
     {
-      "added_at": "2024-03-26 04:34:31",
+      "added_at": "2024-08-19 13:00:00",
       "album": {
         "name": "TV \u30a2\u30cb\u30e1\u300e\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6utElTF1j52LIcoXCeISWZ"

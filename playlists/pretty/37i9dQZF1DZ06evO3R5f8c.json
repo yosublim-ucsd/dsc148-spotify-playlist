@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 143820,
+  "description": "This Is Black Coffee. Los temas esenciales, todos en una lista.",
+  "num_followers": 144030,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr/oAAAAAACwtvah3QMxrbFydfDR0ThO",
+  "snapshot_id": "ZsE5gAAAAABOLNnzkxjSTzWjQId4wUB1",
   "tracks": [
     {
       "added_at": null,
@@ -1015,22 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Rising",
-        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+        "name": "Tranquillity (The 8D Chillout Experience)",
+        "url": "https://open.spotify.com/album/4dxoyllx5mkMiDwMuf8gvY"
       },
       "artists": [
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        },
-        {
-          "name": "Vuyo",
-          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
         }
       ],
-      "duration_ms": 464453,
-      "name": "Don't You (Give Up) - Live",
-      "url": "https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n"
+      "duration_ms": 189593,
+      "name": "In Tunes Wave",
+      "url": "https://open.spotify.com/track/5oEW94ircuKgml24tLtBXj"
     }
   ],
   "unique_name": "This Is Black Coffee",

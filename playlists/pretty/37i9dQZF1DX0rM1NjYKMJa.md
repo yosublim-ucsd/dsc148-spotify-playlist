@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 ### [Carnival Sounds 2024](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> The sound of 2024's Carnival Season\. Cover: Lil Rick for Crop Over 2024
+> The sound of 2024's Carnival Season
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,180 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,290 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 58 | [Sexy Lady](https://open.spotify.com/track/5VKLvoBIU8nJJwqWo2mQyG) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Sexy Lady](https://open.spotify.com/album/5pfuWbu38Rnbfbdzv4ZB0G) | 3:10 |
 | 59 | [DREAM](https://open.spotify.com/track/6Yb7jQk2hbILD9kHQnpoaH) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Mela Caribe](https://open.spotify.com/artist/2LFBTJOnPZ8rQDGEgthh7r) | [DREAM](https://open.spotify.com/album/6mn9DaFLP61AJWjRohApNA) | 3:36 |
 
-Snapshot ID: `ZqfSIgAAAABbF/KbaWZHm/4OHDxa/nE2`
+Snapshot ID: `ZsM/PwAAAADujry4QX/FBXljhREJ7Ia9`

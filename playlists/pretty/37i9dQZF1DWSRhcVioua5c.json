@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 77472,
+  "num_followers": 77497,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Para Los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 320085,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Para Los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
+        "name": "El Sue\u00f1o de Mi Guitarra",
+        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Fal\u00fa",
+          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 241586,
+      "name": "Tonada del Viejo Amor",
+      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
         "name": "D\u00e9jame Intentar",
         "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 233561,
       "name": "Nunca Olvides",
       "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
-        "name": "El Sue\u00f1o de Mi Guitarra",
-        "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Fal\u00fa",
-          "url": "https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 241586,
-      "name": "Tonada del Viejo Amor",
-      "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Canciones Con Sentido",
-        "url": "https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sosa Trotti",
-          "url": "https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ"
-        }
-      ],
-      "duration_ms": 184659,
-      "name": "Quiero Saber Si Me Extra\u00f1as",
-      "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
         "name": "Un Adi\u00f3s",
         "url": "https://open.spotify.com/album/3SSX9ExfyXKEK5MzFWX0AF"
       },
@@ -1371,22 +1355,34 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Tonada De Tus Labios",
-        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
       },
       "artists": [
         {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        },
-        {
-          "name": "Goy Karamelo",
-          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 177937,
-      "name": "Tonada De Tus Labios",
-      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
+        "name": "Canciones Con Sentido",
+        "url": "https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sosa Trotti",
+          "url": "https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ"
+        }
+      ],
+      "duration_ms": 184659,
+      "name": "Quiero Saber Si Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1407,18 +1403,22 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+        "name": "Tonada De Tus Labios",
+        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
       },
       "artists": [
         {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        },
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
         }
       ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+      "duration_ms": 177937,
+      "name": "Tonada De Tus Labios",
+      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1451,6 +1451,22 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
+    },
+    {
+      "added_at": "2024-08-15 20:25:36",
+      "album": {
+        "name": "Quiz\u00e1s Me Perd\u00ed",
+        "url": "https://open.spotify.com/album/38Gakce6kB8reFWqvdhD6g"
+      },
+      "artists": [
+        {
+          "name": "Efrain Colombo",
+          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
+        }
+      ],
+      "duration_ms": 208410,
+      "name": "Quiz\u00e1s Me Perd\u00ed",
+      "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
     },
     {
       "added_at": "2024-08-15 20:25:36",
@@ -1503,34 +1519,18 @@
     {
       "added_at": "2024-08-15 20:25:36",
       "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/4WeG5OjOKEeerTLPiZLvUB"
+        "name": "Amarte Sin Piedad",
+        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
       },
       "artists": [
         {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/0sCOt9VKLDozDUudjMV9a5"
-    },
-    {
-      "added_at": "2024-08-15 20:25:36",
-      "album": {
-        "name": "Quiz\u00e1s Me Perd\u00ed",
-        "url": "https://open.spotify.com/album/38Gakce6kB8reFWqvdhD6g"
-      },
-      "artists": [
-        {
-          "name": "Efrain Colombo",
-          "url": "https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY"
-        }
-      ],
-      "duration_ms": 208410,
-      "name": "Quiz\u00e1s Me Perd\u00ed",
-      "url": "https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i"
+      "duration_ms": 211410,
+      "name": "Amarte Sin Piedad",
+      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

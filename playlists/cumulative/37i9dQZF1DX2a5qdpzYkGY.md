@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-278 songs - 22 hr 36 min
+279 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Confessions Pt\. II](https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 6:24 | 2021-10-06 | 2024-04-19 |
 | [Confessions, Pt\. 2](https://open.spotify.com/track/7bQDCibQjdTof2JZIhabIF) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 6:24 | 2021-10-06 | 2022-07-27 |
 | [Constant Fear](https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 6:27 | 2022-09-03 |  |
+| [Continuum 1](https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Continuum 1](https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4) | 7:13 | 2024-08-19 |  |
 | [Crusoe Takes a Trip](https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 6:39 | 2021-10-06 | 2024-04-19 |
 | [Crusoe Takes a Trip](https://open.spotify.com/track/4G2ghZczj9HjGvUTEpn62d) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey](https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha) | 6:39 | 2021-10-06 | 2023-02-02 |
 | [Después de un Dia](https://open.spotify.com/track/01ps6dUKJ3r3VbZBuj6qmk) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Sebastian Mondragon](https://open.spotify.com/artist/4cr4e93QLD5J9pWXAoDKFe), [Erik Deutsch](https://open.spotify.com/artist/4K6X9Dc8oVPZ3hPEH4IRYG) | [Después de un Día](https://open.spotify.com/album/7dhGvxvETBIoWeLEOb61FT) | 4:04 | 2021-10-26 | 2022-10-25 |
@@ -159,7 +160,7 @@
 | [Manuale Illusione](https://open.spotify.com/track/6tWdTaIH49W7Zmy2kyyHkQ) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/05ALsLSyP3uHJP8e9MxAJ5) | 3:58 | 2023-03-03 | 2023-05-13 |
 | [Marginalia \#48](https://open.spotify.com/track/1lsshCSpBo3z9DfjaGWxeb) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/5bxEIUrZQe4luI0JNDpd2r) | 3:53 | 2022-02-23 | 2024-04-19 |
 | [Marginalia \#48](https://open.spotify.com/track/6wVZmYHeNd4TJioyfMFdiV) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Marginalia III](https://open.spotify.com/album/6biHewklP04G9dU2nu5jhM) | 3:53 | 2022-02-23 | 2023-05-27 |
-| [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 | 2022-09-30 |  |
+| [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 | 2022-09-30 | 2024-08-20 |
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 |  |
 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 | 2024-04-12 |  |
 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 | 2022-09-03 |  |

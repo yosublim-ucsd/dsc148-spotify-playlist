@@ -268,10 +268,28 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 195378,
       "name": "A Restless Night",
       "url": "https://open.spotify.com/track/2AnXloxO4HUVSZDtJvWqWg"
+    },
+    {
+      "album": {
+        "name": "A Short Walk",
+        "url": "https://open.spotify.com/album/1UkiEHXmYkQFlsIt30p9Op"
+      },
+      "artists": [
+        {
+          "name": "Lucas Collins",
+          "url": "https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172271,
+      "name": "A Short Walk",
+      "url": "https://open.spotify.com/track/2bunB7RoLa0CXkh774Rhwf"
     },
     {
       "album": {
@@ -628,7 +646,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 145326,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/67CMXgNv85npgVBdnnAmCp"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 140874,
       "name": "Goodbye Pork Pie Hat",
       "url": "https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2"
@@ -4469,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/7jANDkizXW9Ir7zNpZjAba"
+      },
+      "artists": [
+        {
+          "name": "Noah Henderson",
+          "url": "https://open.spotify.com/artist/4MEyaNwWOgwNnjTAgyttao"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113500,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/2VgzITxiBNDy3515oJkLgy"
+    },
+    {
+      "album": {
         "name": "Infant Eyes",
         "url": "https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc"
       },
@@ -4592,6 +4628,24 @@
       "duration_ms": 155207,
       "name": "It Could Happen to You",
       "url": "https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/7ewzFuH8OcHj4ucfB8U4G5"
+      },
+      "artists": [
+        {
+          "name": "Elliot Baxter",
+          "url": "https://open.spotify.com/artist/2CnBxoyNO0oKHoNntxMgkq"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164783,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/2nvhWC8BlJPaCtOWxw6jUg"
     },
     {
       "album": {
@@ -6550,7 +6604,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 207124,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/6HK5l5TOiSUfkOt57hiOwf"
@@ -6946,7 +7000,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 168379,
       "name": "Piece Peace",
       "url": "https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE"
@@ -8768,7 +8822,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 160409,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s"

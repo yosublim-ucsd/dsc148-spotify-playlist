@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring YG, Gucci Mane, Lil Yachty and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,656 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,768 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [Best Friend \(feat\. Skilla Baby & BabyTron\)](https://open.spotify.com/track/29vktbCaF0sv4QZKLBJH7y) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Best Friend \(feat\. Skilla Baby & BabyTron\)](https://open.spotify.com/album/43C9kblEKwnNnyOwmDmvC5) | 3:31 |
 | 17 | [Greece Or Sweden \(feat\. Rylo Rodriguez\)](https://open.spotify.com/track/24qmTgidEcBZbTfoW2HNwN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Before I Disappear Again](https://open.spotify.com/album/6agdmpAaTKDYHrG2R7dl0U) | 3:02 |
 | 18 | [Priceless Smile](https://open.spotify.com/track/47qVdg2AD0XwKMKc8KmAP1) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Priceless Smile](https://open.spotify.com/album/7GaT6HKUYNbtfyoE6jJb6S) | 3:01 |
-| 19 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
+| 19 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
 | 20 | [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:14 |
 | 21 | [Fall Back feat\. NAV](https://open.spotify.com/track/6j2zmsqdQgWO6SSwpephqY) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back feat\. NAV](https://open.spotify.com/album/5p1MgdarytYpfTDfC1NxMy) | 2:40 |
 | 22 | [FORGET ABOUT EVERYTHING](https://open.spotify.com/track/5xhZybXyWgk2Aw1PtKaT4Z) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [FORGET ABOUT EVERYTHING](https://open.spotify.com/album/6cefnvTwcNkx2JCnsHar9F) | 2:44 |

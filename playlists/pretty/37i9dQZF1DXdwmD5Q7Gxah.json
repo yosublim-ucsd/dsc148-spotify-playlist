@@ -1,12 +1,12 @@
 {
   "description": "Remy Bond <3",
-  "num_followers": 1151441,
+  "num_followers": 1151460,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsETdgAAAACJcPsZnfqDEM4RioSQM+ZR",
+  "snapshot_id": "ZsNrNAAAAADvtJN8D5gTNtvjv+qUOJBN",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1"
     },
     {
+      "added_at": "2024-08-19 15:56:36",
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
+    },
+    {
       "added_at": "2024-08-16 15:32:14",
       "album": {
         "name": "war",
@@ -155,22 +171,6 @@
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
-    },
-    {
-      "added_at": "2024-08-17 21:17:42",
-      "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
-      },
-      "artists": [
-        {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Persuasion",
-      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
     },
     {
       "added_at": "2024-08-06 15:03:38",
@@ -235,6 +235,22 @@
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1Lsfs8NeHVboIMgl7C7T16"
+    },
+    {
+      "added_at": "2024-08-17 21:17:42",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Persuasion",
+      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
     },
     {
       "added_at": "2024-07-31 21:18:49",
@@ -481,22 +497,6 @@
       "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1"
     },
     {
-      "added_at": "2024-08-07 17:26:36",
-      "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 152348,
-      "name": "You're Invited",
-      "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "cherry cola / sunburn",
@@ -581,6 +581,22 @@
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Kansas Anymore",
@@ -627,6 +643,22 @@
       "duration_ms": 235865,
       "name": "Beach Chair",
       "url": "https://open.spotify.com/track/6iyNRQsrrbqQ9IEJsq5t0U"
+    },
+    {
+      "added_at": "2024-08-07 17:26:36",
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 152348,
+      "name": "You're Invited",
+      "url": "https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o"
     },
     {
       "added_at": "2024-07-25 01:40:31",
@@ -707,22 +739,6 @@
       "duration_ms": 147969,
       "name": "I liked it",
       "url": "https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2024-07-12 20:46:09",
@@ -1553,22 +1569,6 @@
       "url": "https://open.spotify.com/track/1JbI6oy4mq3ANNNoAbpkwS"
     },
     {
-      "added_at": "2024-06-17 15:20:02",
-      "album": {
-        "name": "Big For You",
-        "url": "https://open.spotify.com/album/2VAmLEwcaTz1KeOw0RSKjz"
-      },
-      "artists": [
-        {
-          "name": "Zsela",
-          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
-        }
-      ],
-      "duration_ms": 179617,
-      "name": "Not Your Angel",
-      "url": "https://open.spotify.com/track/3gjd5zvhEMUMhN7uffKLNB"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "Colors",
@@ -1689,20 +1689,20 @@
       "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
-      "added_at": "2024-05-31 04:06:42",
+      "added_at": "2024-06-17 15:20:02",
       "album": {
-        "name": "Who Did You Touch?",
-        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+        "name": "Big For You",
+        "url": "https://open.spotify.com/album/2VAmLEwcaTz1KeOw0RSKjz"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "Zsela",
+          "url": "https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6"
         }
       ],
-      "duration_ms": 208732,
-      "name": "Who Did You Touch?",
-      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+      "duration_ms": 179617,
+      "name": "Not Your Angel",
+      "url": "https://open.spotify.com/track/3gjd5zvhEMUMhN7uffKLNB"
     },
     {
       "added_at": "2024-06-07 04:00:00",

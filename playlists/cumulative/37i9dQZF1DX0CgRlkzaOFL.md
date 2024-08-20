@@ -2,9 +2,9 @@
 
 ### [Anime Classical](https://open.spotify.com/playlist/37i9dQZF1DX0CgRlkzaOFL)
 
-> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
+> Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-90 songs - 5 hr 10 min
+91 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [piece by ten](https://open.spotify.com/track/50R5pS4Ptd7tioFFaqo9F6) | [Yoko Kanno](https://open.spotify.com/artist/0lbYsAt8JNKNjttbncKg8i) | [「攻殻機動隊 STAND ALONE COMPLEX　be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 2:45 | 2022-03-25 |  |
 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/3qPdfEagq3UMnBlI8fyj6Z) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/5U6LNjErYVpSQSVQk5mhjf) | 3:25 | 2022-03-25 |  |
 | [Prelude \(From "Angel's Egg"\)](https://open.spotify.com/track/4DV8T3Ec2VtvsHpkYJ61Um) | [Yoshihiro Kanno](https://open.spotify.com/artist/1heTq679gdTz4dVxujnP2m), [Noriko Ogawa](https://open.spotify.com/artist/60Ygpctc1ZdaRuvvrkiqAU) | [Yoshihiro Kanno: Light, Water, Rainbow...](https://open.spotify.com/album/4eF5SAGEWD9UGxOBJZAmio) | 3:25 | 2023-12-01 | 2024-04-19 |
+| [Princess Mononoke Theme Song \- Violin & Piano Version](https://open.spotify.com/track/0Fdmut3s2SDJouVpoogi8w) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Princess Mononoke Theme Song \(Violin & Piano Version\)](https://open.spotify.com/album/0M8trM41spsn8nWLRnTzJc) | 1:34 | 2024-08-19 |  |
 | [Ravel: Daphnis et Chloé, M\. 57, Pt\. 3: Lever du jour](https://open.spotify.com/track/0bHetlK2xHzhOEGPEdp1SI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Philippe Jordan](https://open.spotify.com/artist/7oRn2Jv3j0f23EjcSSCR9W), [Choeur du Théatre National de l'Opéra de Paris](https://open.spotify.com/artist/2YZN9zFVhkAQFOggweug3X), [Orchestre de l'Opéra National de Paris](https://open.spotify.com/artist/1hro5WQTcOb7fRCEUQEZtK) | [Ravel : Daphnis & Chloé, La Valse](https://open.spotify.com/album/2HU1cvBMOFZNqofsWY9bQC) | 5:01 | 2022-03-25 |  |
 | [Rei\-Opus V](https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:59 | 2022-04-19 | 2024-04-19 |
 | [Rei\-Opus Ⅴ \(EMA01\)](https://open.spotify.com/track/69bGff6rYUHT6Fzodw6wpV) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 1.0" YOU ARE\(NOT\)ALONE.](https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k) | 2:59 | 2022-03-25 |  |

@@ -2,7 +2,7 @@
 
 ### [AMAPIANO GROOVES](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
 
-> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=pXYksIaJS6K\_tB8DZIlinw">Nkosazana Daughter</a>
+> The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=qjmcqNPeQh\-7FP8\-ASs5pQ">Cyfred</a>
 
 1,286 songs - 5 day 13 hr 34 min
 

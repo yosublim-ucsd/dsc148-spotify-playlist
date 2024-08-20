@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-498 songs - 22 hr 15 min
+499 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Business Class](https://open.spotify.com/track/3BrM1JRNFZaxay6YsaSPv3) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Business Class](https://open.spotify.com/album/39RDYR5qrgDJoYlfX3qIrc) | 2:14 | 2022-10-14 |  |
 | [By The Sea](https://open.spotify.com/track/6PfALOgG7eu5n7HVbvyoII) | [Epulu](https://open.spotify.com/artist/3M97hQ3VhITiVzwCFDJZAE) | [By The Sea](https://open.spotify.com/album/7wSlUWcVqr6be4gcQUQnep) | 2:41 | 2024-02-13 |  |
 | [Bye Felicia!](https://open.spotify.com/track/3DJj5RlFWUokYJ1qjvTZof) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Bye Felicia!](https://open.spotify.com/album/6F9IaDzXYEFQNn3bJFQrKf) | 2:27 | 2021-11-10 |  |
-| [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 |  |
+| [CA\-SHING](https://open.spotify.com/track/5foluJkCnagRboHQrchBPW) | [Kold\-Cutz](https://open.spotify.com/artist/6IiYA4Fg73eZAFg7J0uMwf) | [CA\-SHING](https://open.spotify.com/album/6tzNfjnStTmVs07XAZ1SwE) | 2:30 | 2022-06-17 | 2024-08-20 |
 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 | 2022-01-21 | 2023-07-29 |
 | [Canadian Moose](https://open.spotify.com/track/0OFxpWxBFRWdG3UfDiM4Go) | [MONTSEL](https://open.spotify.com/artist/6x70eCwCDpyBeVGCnLhBuS) | [Abstract Camping](https://open.spotify.com/album/2dMZ9pvNZB17EVXGkvxcei) | 2:16 | 2021-11-10 | 2022-09-02 |
 | [Cancelling Plans](https://open.spotify.com/track/54djx2u1kdBBi8agW4FffU) | [My Companion](https://open.spotify.com/artist/4A9LJwmKMwv6PfGKU2CN1E) | [Cancelling Plans](https://open.spotify.com/album/33AWjc88zIczN31UGQh3Pa) | 2:16 | 2022-10-07 |  |
@@ -119,7 +119,7 @@
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-09-02 |
 | [Drive So Well](https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Drive So Well](https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX) | 2:38 | 2022-05-10 |  |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-07-08 |
-| [Early Morning Hours](https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Early Morning Hours](https://open.spotify.com/album/759K8y3BqHdAAgDJWx0Hf9) | 3:30 | 2024-03-26 |  |
+| [Early Morning Hours](https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Early Morning Hours](https://open.spotify.com/album/759K8y3BqHdAAgDJWx0Hf9) | 3:30 | 2024-03-26 | 2024-08-20 |
 | [Earlybird](https://open.spotify.com/track/2BdKiwPRV6UbxAwdqS8iDA) | [HATAMITSUNAMI](https://open.spotify.com/artist/6FgjnW0Q1Kx3WEyWfApXmv) | [Glad U Made It](https://open.spotify.com/album/2mXDLDMuVrcnD2OyAvoLL3) | 2:12 | 2022-12-16 |  |
 | [Earth Echos](https://open.spotify.com/track/5jymR5eXOTcIieZenxJwCX) | [John Andre](https://open.spotify.com/artist/3D56Nhiz0aTRqx4z0qs9jb) | [The Afternoon Breeze](https://open.spotify.com/album/06FNY9stCHsUBU5ZGcN5YU) | 2:52 | 2021-11-10 | 2022-05-20 |
 | [Easter 21](https://open.spotify.com/track/7JXtkW4LnNqPkTCULCm1bk) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [Easter 21](https://open.spotify.com/album/3agydje4ZdZuBpYu8WBYQb) | 3:50 | 2021-11-10 | 2022-06-03 |
@@ -243,6 +243,7 @@
 | [Last Night](https://open.spotify.com/track/74Zfyh1mqDaKVxRe4YcIeM) | [Maison Prad](https://open.spotify.com/artist/2GFncvilyYhy81rRadV34d) | [Last Night](https://open.spotify.com/album/1sZy1LC3qv4oJplUFNGPxN) | 3:34 | 2024-04-09 |  |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 |  |
 | [Late Night Drive](https://open.spotify.com/track/1sHlhVfyPyVlyBpp1x5Xgz) | [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Late Night Drive](https://open.spotify.com/album/45135XbCrnFc6aRXGmDzO4) | 2:20 | 2022-11-25 |  |
+| [Laughing in the Morning](https://open.spotify.com/track/2UJGxWlkGMH2yEeBpGGz7x) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Laughing in the Morning](https://open.spotify.com/album/58dQ9ZeirWNCCdhAC4yHNq) | 3:01 | 2024-08-19 |  |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [let it be](https://open.spotify.com/track/0KNi97NfOrRQdeM05jVSCv) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [let it be](https://open.spotify.com/album/4XizbKgg1yjquakMaQmUFF) | 2:05 | 2022-01-21 |  |
 | [Let It Out](https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r) | [\[felt&key\]](https://open.spotify.com/artist/5B6ReZ8oYtiTDVWkEjkx3z) | [Let It Out](https://open.spotify.com/album/2YQ8x9l7eZM7EfhL6oZgKF) | 2:44 | 2021-11-10 | 2022-02-11 |
@@ -439,7 +440,7 @@
 | [The Only One](https://open.spotify.com/track/2OD0VuNOcLQ2yljgCVyncD) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [The Only One](https://open.spotify.com/album/2Hvq8yU7GZ5Kuq8pHsGKOl) | 2:39 | 2023-01-20 |  |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 | 2022-09-09 |
 | [The Root](https://open.spotify.com/track/1xc98BOXjA79dOsq66RXKf) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/1xjYGSVeaviVdvexe74eww) | 3:28 | 2024-03-03 | 2024-04-19 |
-| [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 |  |
+| [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 | 2024-08-20 |
 | [The Simplest Things](https://open.spotify.com/track/3Ze6UW8ab1IpF7W7BieBgC) | [Ambient Solle](https://open.spotify.com/artist/34ScNK2ccDxZim8TVcqWXT) | [The Simplest Things](https://open.spotify.com/album/4aSBkBh9c126FxY1EHvgT9) | 3:06 | 2022-09-16 |  |
 | [The Yellow Taxi](https://open.spotify.com/track/2t7CtXjvm9a4tVl8rj6O05) | [Tethered Ghosts](https://open.spotify.com/artist/4tMeBDw2jUzYYCxx4MqlVM) | [Left on Read](https://open.spotify.com/album/0p3KQ3yiMRA82ueeUAdcIq) | 2:44 | 2022-01-21 |  |
 | [Think 'Bout It](https://open.spotify.com/track/5PuRbn05FsrvzbfkeXJs2P) | [Josue Kornblit](https://open.spotify.com/artist/0ZSyq1kamkeM9902EnkzBd) | [Think 'Bout It](https://open.spotify.com/album/0oXrr6xo6MGvtqW04RVASi) | 4:11 | 2023-01-20 |  |

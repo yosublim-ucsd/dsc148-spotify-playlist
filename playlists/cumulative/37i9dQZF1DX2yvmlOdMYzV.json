@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 151800,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf"
@@ -3462,7 +3462,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 236711,
       "name": "Dripping",
       "url": "https://open.spotify.com/track/3Gjx7TOIYZkO9X8HoikLgy"
@@ -8502,7 +8502,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 132049,
       "name": "Mango",
       "url": "https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq"
@@ -12674,6 +12674,24 @@
       "duration_ms": 179310,
       "name": "Sugar (feat. Larry June & SHOW N PROVE)",
       "url": "https://open.spotify.com/track/0X6AAWEtz8SDZxClmxNhe3"
+    },
+    {
+      "album": {
+        "name": "Something Burning",
+        "url": "https://open.spotify.com/album/5SicShvCbTp0ZJqjmhjjLA"
+      },
+      "artists": [
+        {
+          "name": "Lee Lewis",
+          "url": "https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D"
+        }
+      ],
+      "date_added": "2024-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182907,
+      "name": "Sugar Baby",
+      "url": "https://open.spotify.com/track/1ftIR5m7n0JRqVR81tjJiR"
     },
     {
       "album": {

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXanOaZVFiwtB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXanOaZVFiwtB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXanOaZVFiwtB)
 
-### [Anime Rewind '90s](https://open.spotify.com/playlist/37i9dQZF1DXanOaZVFiwtB)
+### [Anime Hits 90's](https://open.spotify.com/playlist/37i9dQZF1DXanOaZVFiwtB)
 
-> The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
+> The hottest Anime hits of the 90s\. 1990年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 88 songs - 6 hr 14 min
 

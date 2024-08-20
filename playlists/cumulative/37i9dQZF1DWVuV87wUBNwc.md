@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Billie Eilish au sommet de la première playlist de France.
+> KAROL G au sommet de la première playlist de France.
 
 216 songs - 11 hr 1 min
 

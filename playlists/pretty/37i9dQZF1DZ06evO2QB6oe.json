@@ -1,12 +1,12 @@
 {
   "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
-  "num_followers": 65272,
+  "num_followers": 65287,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr/oAAAAAABR1LXazJ23Jt7Zo2/ODEK4",
+  "snapshot_id": "ZsE5gAAAAADOSK8naQhc195f1KL/byTX",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 198454,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/5ydWZFeCPA8GTrqlVJZ9h2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aquila",
         "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 254253,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 198454,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/5ydWZFeCPA8GTrqlVJZ9h2"
     },
     {
       "added_at": null,

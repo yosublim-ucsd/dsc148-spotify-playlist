@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos que son el curita perfecto para tu coraz\u00f3n \ud83d\udc94\ud83c\udfb5",
-  "num_followers": 79067,
+  "num_followers": 79083,
   "original_name": "El Club de los Corazones Rotos",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "Words",
-        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
-      },
-      "artists": [
-        {
-          "name": "F.R. David",
-          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Words - Original Version 1983",
-      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 286920,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "Words",
+        "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
+      },
+      "artists": [
+        {
+          "name": "F.R. David",
+          "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Words - Original Version 1983",
+      "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
       "added_at": "2021-02-10 18:43:17",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-02-10 18:43:17",
       "album": {
-        "name": "A Day At The Races",
-        "url": "https://open.spotify.com/album/7hvCZFEWheDmHJMHOWdkLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296426,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/2pxCxQs9vgE74PA2k2kVBJ"
-    },
-    {
-      "added_at": "2021-02-10 18:43:17",
-      "album": {
         "name": "Saturday Night Fever (The Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/6kFmH2VMMFaUrK4QhY4hLi"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 178066,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/7hIo2An8IJ0gBtzogU7Lud"
+    },
+    {
+      "added_at": "2021-02-10 18:43:17",
+      "album": {
+        "name": "A Day At The Races",
+        "url": "https://open.spotify.com/album/7hvCZFEWheDmHJMHOWdkLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296426,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/2pxCxQs9vgE74PA2k2kVBJ"
     },
     {
       "added_at": "2021-02-10 18:43:17",

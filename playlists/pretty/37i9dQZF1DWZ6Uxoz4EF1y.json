@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 191800,
+  "num_followers": 191915,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Porque \u00c9l Vive",
-        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
-      },
-      "artists": [
-        {
-          "name": "Rudy P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
-        }
-      ],
-      "duration_ms": 259700,
-      "name": "Porque \u00c9l Vive",
-      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Con el Mundo de Cabeza",
         "url": "https://open.spotify.com/album/2Re9RMM7QJWkCkwzP8Qs96"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 199973,
       "name": "Vamos Pa' Arriba",
       "url": "https://open.spotify.com/track/3DoSTizW3tVtAxDrOc65nD"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Porque \u00c9l Vive",
+        "url": "https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn"
+      },
+      "artists": [
+        {
+          "name": "Rudy P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv"
+        }
+      ],
+      "duration_ms": 259700,
+      "name": "Porque \u00c9l Vive",
+      "url": "https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1615,6 +1615,30 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Amanece (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
+      },
+      "artists": [
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
+        },
+        {
+          "name": "Yvonne Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
+        }
+      ],
+      "duration_ms": 444330,
+      "name": "Digno",
+      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "Glorioso Rey",
         "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
@@ -1659,30 +1683,6 @@
       "duration_ms": 305626,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Amanece (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
-      },
-      "artists": [
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/3XAsLrjUgQ9V2D8MjTfv8C"
-        },
-        {
-          "name": "Yvonne Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi"
-        }
-      ],
-      "duration_ms": 444330,
-      "name": "Digno",
-      "url": "https://open.spotify.com/track/25tGKAPQyxt3XWoZaKh4YE"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/5yxTDKXmyaxuBusT71eLlM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/5CtOZQKdmac8TukpuQmS1B"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "Un Milagro",
+        "url": "https://open.spotify.com/album/2BbCsGOZGl2xwowWwvNg5H"
+      },
+      "artists": [
+        {
+          "name": "Isra y Vale",
+          "url": "https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl"
+        }
+      ],
+      "duration_ms": 247925,
+      "name": "Nueva Creaci\u00f3n",
+      "url": "https://open.spotify.com/track/0wxSE3gFtULZX27dhHcTVp"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-342 songs - 23 hr 54 min
+343 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Moving Up](https://open.spotify.com/track/4fVc3sWHB984OYDaPQotTa) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:05 | 2021-11-24 | 2022-07-29 |
 | [Music To Heal To](https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/0xk9jsZcE6LAl9jNEqBQz7) | 6:23 | 2021-11-24 | 2022-07-29 |
 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 | 2024-06-07 |  |
-| [My Trust My Love \(Catching Flies Remix\)](https://open.spotify.com/track/7826FKI52shndAO4fGv433) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [My Trust My Love \(Catching Flies Remix\)](https://open.spotify.com/album/4ud7gyBtLhnf36JP5l0c1w) | 3:46 | 2024-08-08 |  |
+| [My Trust My Love \(Catching Flies Remix\)](https://open.spotify.com/track/7826FKI52shndAO4fGv433) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [My Trust My Love \(Catching Flies Remix\)](https://open.spotify.com/album/4ud7gyBtLhnf36JP5l0c1w) | 3:46 | 2024-08-08 | 2024-08-20 |
 | [My Trust, My Love](https://open.spotify.com/track/5vSwVmL7UD0LthckRNA4WL) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Get Back To Me](https://open.spotify.com/album/4uCDB3qXsx19vTqsULijVW) | 3:50 | 2024-06-07 |  |
 | [Mystery Lady \- Scorpion Kings Remix](https://open.spotify.com/track/0nx8uE4jpVqMF2kIRWW98W) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(Scorpion Kings Remix\)](https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi) | 7:30 | 2022-06-20 | 2022-08-24 |
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2023-01-09 | 2024-04-05 |
@@ -275,6 +275,7 @@
 | [Selfish](https://open.spotify.com/track/1b6fmULpHj08RMmHfARJ4e) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/3Z8Df4ghTJ7afEWkurB2I1) | 3:46 | 2022-10-28 | 2024-04-05 |
 | [Selfish](https://open.spotify.com/track/2G2k2ZFsQkIEkAWDTvqHXM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 3:46 | 2022-06-20 | 2022-11-02 |
 | [Settle Down \- Mixed](https://open.spotify.com/track/3Eeh7y2avP7wwLtyhljcU2) | [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [fabric presents Maribou State \(DJ Mix\)](https://open.spotify.com/album/132x7s5otIdXjWqQqA0S4O) | 2:24 | 2021-11-24 | 2024-05-06 |
+| [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 | 2024-08-16 |  |
 | [She Loves Me](https://open.spotify.com/track/2eiXRfxpCBSr4zz2qArd1z) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:08 | 2021-11-24 | 2022-07-29 |
 | [Sheltered](https://open.spotify.com/track/2CL8PXyzCpDV07SozN67Ay) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq) | [Year Of The Living Dead](https://open.spotify.com/album/0jwjHNhMdj3V6fOvx36ozD) | 4:58 | 2021-11-24 | 2022-05-18 |
 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 | 2024-07-12 |

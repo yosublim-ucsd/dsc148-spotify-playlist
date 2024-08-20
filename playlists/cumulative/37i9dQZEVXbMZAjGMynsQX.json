@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
@@ -12637,6 +12637,32 @@
     },
     {
       "album": {
+        "name": "Me Matas",
+        "url": "https://open.spotify.com/album/2OWItG4S3mapo6BHGq75uE"
+      },
+      "artists": [
+        {
+          "name": "The Melodico",
+          "url": "https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ"
+        },
+        {
+          "name": "Jotadejuan",
+          "url": "https://open.spotify.com/artist/0uyFV0LxFMMOTQGUa3TQiO"
+        },
+        {
+          "name": "Dave Lonely",
+          "url": "https://open.spotify.com/artist/4zzodhoskI1ThjLbPwPD3p"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Me Matas",
+      "url": "https://open.spotify.com/track/1DHFy5q6Ixo3S8JicDjEcO"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -17934,7 +17960,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
@@ -17952,7 +17978,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"

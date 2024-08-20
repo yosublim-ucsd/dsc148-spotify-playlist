@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con ALMAS en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79579,
+  "num_followers": 79572,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -515,18 +515,22 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
+        "name": "ENNI",
+        "url": "https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "Cray Dalton",
+          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
+        },
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
         }
       ],
-      "duration_ms": 193600,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+      "duration_ms": 195240,
+      "name": "ENNI",
+      "url": "https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh"
     },
     {
       "added_at": "2024-08-16 15:48:59",
@@ -547,22 +551,18 @@
     {
       "added_at": "2024-08-16 15:48:59",
       "album": {
-        "name": "ENNI",
-        "url": "https://open.spotify.com/album/0BXBqwBYsHsoi2locHuJuc"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
       "artists": [
         {
-          "name": "Cray Dalton",
-          "url": "https://open.spotify.com/artist/1ZDDsezzUM9Ra1w15Ox90C"
-        },
-        {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 195240,
-      "name": "ENNI",
-      "url": "https://open.spotify.com/track/1pQMCRRfUWhPlDCtZrMvsh"
+      "duration_ms": 193600,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
     },
     {
       "added_at": "2024-08-16 15:48:59",

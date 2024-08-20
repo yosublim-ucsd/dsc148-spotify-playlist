@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "A New Start",
+        "url": "https://open.spotify.com/album/4qWtSHyc3thJSYU7nUHpOb"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155039,
+      "name": "A New Start",
+      "url": "https://open.spotify.com/track/3inyKRu1a4IJDE9RUEcfKd"
+    },
+    {
+      "album": {
         "name": "A New Year's Walk",
         "url": "https://open.spotify.com/album/05LH1t6nNUNWsb8sNhOVBa"
       },
@@ -712,7 +730,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 147124,
       "name": "A Simpler Time",
       "url": "https://open.spotify.com/track/5Xg2TWsPN5JK4k0FcgOwYJ"
@@ -11001,6 +11019,24 @@
     },
     {
       "album": {
+        "name": "Humanity",
+        "url": "https://open.spotify.com/album/2VN90aP103rpfa4k5604hH"
+      },
+      "artists": [
+        {
+          "name": "Melani\u00e9 Poret",
+          "url": "https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135470,
+      "name": "Humanity",
+      "url": "https://open.spotify.com/track/53XdJTeVZtu0nePZdbjNGp"
+    },
+    {
+      "album": {
         "name": "Humble",
         "url": "https://open.spotify.com/album/1ghQt2Oct3J7y0slly5esX"
       },
@@ -15352,7 +15388,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 165293,
       "name": "L\u00e9opoldine",
       "url": "https://open.spotify.com/track/5DWI8rBs9a5fyeR35poYYm"
@@ -20986,6 +21022,24 @@
       "duration_ms": 163804,
       "name": "Quieta",
       "url": "https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY"
+    },
+    {
+      "album": {
+        "name": "Quietly Into The Night",
+        "url": "https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136427,
+      "name": "Quietly Into The Night",
+      "url": "https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B"
     },
     {
       "album": {
@@ -30430,7 +30484,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 154305,
       "name": "White Butterfly",
       "url": "https://open.spotify.com/track/08YpIbdhqosOuZl9cddBHF"

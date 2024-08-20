@@ -4,7 +4,7 @@
 
 > Respira profundamente y relaja tu mente.
 
-303 songs - 15 hr 16 min
+305 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,15 +129,15 @@
 | [Handwritten](https://open.spotify.com/track/1Yf6Ai3nlvtlvELD2IguA8) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:23 | 2022-10-15 |  |
 | [Harmony of dreams](https://open.spotify.com/track/16Tgaap5vNPAGpT3j5dwtl) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Harmony of dreams](https://open.spotify.com/album/1Vz4Z26MK76PRfkg9onN7j) | 3:43 | 2024-02-14 |  |
 | [Heart](https://open.spotify.com/track/6Ju1cRnaWq0PU3NDFuUths) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:32 | 2022-09-30 |  |
-| [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 |  |
+| [Heaven Sent](https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Dunes](https://open.spotify.com/album/1czCKnLfwCHydAAyqHwfOh) | 2:24 | 2022-07-15 | 2024-08-20 |
 | [Hiatus](https://open.spotify.com/track/7ykoFQqjGcAOutbeVmg7O6) | [Lost Wings](https://open.spotify.com/artist/5GneKGEamDH29m9tE0zzwo) | [Hiatus](https://open.spotify.com/album/3s7MgBDyYwcGV1dJqhgnQT) | 3:23 | 2022-07-15 | 2023-11-11 |
 | [Hidden Dimensions](https://open.spotify.com/track/5cpdr2e7fz37TvSzweGl6r) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Hidden Dimensions](https://open.spotify.com/album/2agTXsrHfeE6tVvctrGBoB) | 2:38 | 2024-07-12 |  |
-| [Hidden Lotus](https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Hidden Lotus](https://open.spotify.com/album/5TMotCnHIeHXI5gz2Tfugq) | 2:55 | 2022-07-15 |  |
+| [Hidden Lotus](https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Hidden Lotus](https://open.spotify.com/album/5TMotCnHIeHXI5gz2Tfugq) | 2:55 | 2022-07-15 | 2024-08-20 |
 | [Hir](https://open.spotify.com/track/1j5jXzbjr34PbSmXEPFEnL) | [Lee Azalea](https://open.spotify.com/artist/5nQNc4ExpTTrS00gqk1J2y) | [Hir](https://open.spotify.com/album/4NfnyvYhG8epCPJw7eY4s2) | 2:49 | 2023-09-08 |  |
 | [Hohenbol](https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy) | [Feldgeister](https://open.spotify.com/artist/6ZqY3JYu0C4FTgyDhXCVEQ) | [Between Camerae](https://open.spotify.com/album/64c0jCqYkzq1jhxFTve3Bq) | 3:20 | 2022-07-15 | 2023-03-10 |
 | [Huzurlu](https://open.spotify.com/track/5AE2Q5ecdUUPxjNbIknTNW) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Huzurlu](https://open.spotify.com/album/4vsCehW0aBcrsCeTWodFYa) | 3:03 | 2022-07-15 |  |
 | [Imagine Nuvem](https://open.spotify.com/track/0BjyXBAXWTvEOgX1KPhadD) | [Clémence Alheoux](https://open.spotify.com/artist/3ciGAvpM5PtG4bvpTF6wdK) | [Imagine Nuvem](https://open.spotify.com/album/0GlOjrFZe7mT9XC2TRPvcu) | 3:09 | 2022-07-15 |  |
-| [In a Sentence](https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [In a Sentence](https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o) | 2:45 | 2023-10-13 |  |
+| [In a Sentence](https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH) | [Alec Wynter](https://open.spotify.com/artist/6PKn0AB4MUWk51WWdZLPMd) | [In a Sentence](https://open.spotify.com/album/6d3NoUO1WR1r6DOylTnB5o) | 2:45 | 2023-10-13 | 2024-08-20 |
 | [In jouw armen](https://open.spotify.com/track/27U2vAXaXKEFo3oaqYFqq3) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [In jouw armen](https://open.spotify.com/album/0R7SDTTsNQOpxGKM5PVKKm) | 3:10 | 2022-07-15 |  |
 | [In your eyes](https://open.spotify.com/track/2yyIEk4WgWuHhLSKiiKYEX) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [In your eyes](https://open.spotify.com/album/2PTMMJRNuooQEPWjId9wu4) | 2:42 | 2024-06-10 |  |
 | [Inbound Travel](https://open.spotify.com/track/66ValTJ35fb3OkUopJYhJB) | [Lakes of Titan](https://open.spotify.com/artist/0qH1t3zQOIv9UlxTxG6kio) | [Inbound Travel](https://open.spotify.com/album/2dYSzPn3FSMtfH16N73jeA) | 2:38 | 2024-04-29 |  |
@@ -178,6 +178,7 @@
 | [Midnight Bloom](https://open.spotify.com/track/1qmSnLbQX7kifJXOi1rN3u) | [Soothing Leaf](https://open.spotify.com/artist/1JlIsTlK1wj6QgGbjJZYOc) | [Midnight Bloom](https://open.spotify.com/album/1lUlOKwqb1uhyT8rIk74rx) | 3:11 | 2024-04-04 | 2024-07-27 |
 | [Mind State](https://open.spotify.com/track/6cE8PA0ZWHSGSuRNgWYfIB) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Mind State](https://open.spotify.com/album/7MNCHKnMDPHO3xcq4zGhF0) | 3:05 | 2024-06-10 |  |
 | [Mistletoe](https://open.spotify.com/track/3sdesEyISVCRUqj0c12Jxp) | [Blossom Inn](https://open.spotify.com/artist/1oOLgA7Gl8VzwsIadutGo8) | [Mistletoe](https://open.spotify.com/album/6iC1rAAQha2cLCEWE3TBRm) | 2:32 | 2024-03-07 |  |
+| [Mono](https://open.spotify.com/track/4PoV6h7nScqlYcK1TBcSuA) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Mono](https://open.spotify.com/album/4c9L231rrilGDLFsqqRrnK) | 2:44 | 2024-08-19 |  |
 | [Moon](https://open.spotify.com/track/3jNHsKSukaoq436a8YO6ly) | [Aaron Lovell](https://open.spotify.com/artist/4TvS5KUXgzPFQK2Lhq0GEN) | [Moon](https://open.spotify.com/album/1mm5iLOYjDAqSWa50BzUOF) | 2:45 | 2024-04-29 |  |
 | [More Than Words](https://open.spotify.com/track/4E22XbJSOj8T2Ua6ye19Cx) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [More Than Words](https://open.spotify.com/album/7r1WSkRvU9PFPbV7iyK7HT) | 2:42 | 2023-03-16 |  |
 | [Morning Breeze](https://open.spotify.com/track/3n0oenkKLS8SyJtd4fUkak) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [Best Relaxing SPA Music](https://open.spotify.com/album/00edVDn3XgBLSkCxx6aJN9) | 1:59 | 2022-07-15 | 2022-12-21 |
@@ -203,6 +204,7 @@
 | [Our Sky](https://open.spotify.com/track/1yncwCa1tcGKxaHAZuNdRL) | [De Janos](https://open.spotify.com/artist/6MnCLU3GNlSU6WcgJOAjwl) | [Our Sky](https://open.spotify.com/album/4SuAcGPdMEidSJCZq6qFz2) | 3:13 | 2023-08-11 |  |
 | [Out Of This World](https://open.spotify.com/track/7fmkOm5DYbZvuTH5QKNvZd) | [Freefall Forest](https://open.spotify.com/artist/2dgVXyeO9BQGDDa16XVfcR) | [Out Of This World](https://open.spotify.com/album/3ZD5e8xNEBWmY6ORXr7y1A) | 3:06 | 2023-06-23 |  |
 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 | 2022-07-15 |  |
+| [Pages](https://open.spotify.com/track/7cVByaVSKD5ep8EJFrJozi) | [Sheila's Disciples](https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO) | [Pages](https://open.spotify.com/album/2s63P5nSgrg8xpo3Ms7KZR) | 2:54 | 2024-08-19 |  |
 | [Pampus](https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh) | [Dardan Leistra](https://open.spotify.com/artist/1iChBE5eMVIiJBpsUZ0rSH) | [Pampus](https://open.spotify.com/album/66EibKvWjwkOn8LPibdMcF) | 3:26 | 2022-07-15 |  |
 | [Paradiso](https://open.spotify.com/track/0E90iMgBCVaX7euZDNIsmE) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradiso](https://open.spotify.com/album/4HRUgpgh8njMktYmTahkQh) | 2:42 | 2024-06-10 |  |
 | [Path of Light](https://open.spotify.com/track/0AXQFmU88hVhan5teKTPl5) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Path of Light](https://open.spotify.com/album/64r1FJ9RdY7J9qbWHpJEe2) | 3:40 | 2022-07-15 | 2023-05-06 |

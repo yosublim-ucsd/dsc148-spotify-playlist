@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Sebastian Esquivel, Eugenio Esquivel & Deorro
 
-336 songs - 17 hr 24 min
+337 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 | 2023-07-07 | 2023-11-30 |
 | [TU MIRADA](https://open.spotify.com/track/5eo0RRedwSBqOqZjZxZNZy) | [Rey Chango](https://open.spotify.com/artist/0u5bPsSeDIbLpTKr9hJCqc), [LYON808](https://open.spotify.com/artist/4HVhyLcMfhyOoJqfCpiEJc), [Noah Kickback](https://open.spotify.com/artist/67pMmFgxUhP6W7ro3mX15c) | [CNTRL](https://open.spotify.com/album/6StSmIVCCvWMiV4EHkTcdD) | 2:45 | 2023-04-14 | 2023-07-15 |
 | [Tu Sabor](https://open.spotify.com/track/1xycDqyN6UQGEpE4Bw95kT) | [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK), [Pablo Alhach](https://open.spotify.com/artist/0SgZNnvUOqwzkt9erB2LFz) | [Tu Sabor](https://open.spotify.com/album/30ymhDZL3jYy66NhYEGZku) | 2:55 | 2024-04-05 | 2024-08-03 |
+| [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 | 2024-08-19 |  |
 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Annual 2021](https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI) | 2:21 | 2022-03-22 | 2023-01-14 |
 | [Tóxica \- VIZE Remix](https://open.spotify.com/track/4uDb59PNKsTYOVSp0784W3) | [Sofía Martín](https://open.spotify.com/artist/7oWRB45H5Usj3JVKeCwsus), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Tóxica \(VIZE Remix\)](https://open.spotify.com/album/4EHW9tZLrALLs3UaAGFUpT) | 2:21 | 2022-03-22 | 2022-04-29 |
 | [un x100to \- Remix](https://open.spotify.com/track/2Lb5QgVeyA2VGcwhtw16D9) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [un x100to \(Remix\)](https://open.spotify.com/album/1bEntR9HSAWqKSNtVF8EVg) | 3:25 | 2023-05-08 | 2023-05-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Aug 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Aug 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -488,6 +488,24 @@
       "duration_ms": 135172,
       "name": "99%",
       "url": "https://open.spotify.com/track/7xWwRENhlc0Q6T5sFMIYBY"
+    },
+    {
+      "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
     },
     {
       "album": {
@@ -3755,6 +3773,28 @@
     },
     {
       "album": {
+        "name": "Bogota",
+        "url": "https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Ouzzi",
+          "url": "https://open.spotify.com/artist/6msEnJb2ceDZw4GF1Z2D5o"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83335,
+      "name": "Bogota",
+      "url": "https://open.spotify.com/track/7myrIkRqw4LCMsr673ckNb"
+    },
+    {
+      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/2rvNgaRCFs4iMNGTVtAYB5"
       },
@@ -4024,6 +4064,32 @@
       "duration_ms": 231160,
       "name": "BO\u017bE",
       "url": "https://open.spotify.com/track/4ybFdtL0pGWiWA0Wk46de5"
+    },
+    {
+      "album": {
+        "name": "Brain On Drugs",
+        "url": "https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214326,
+      "name": "Brain On Drugs",
+      "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
     },
     {
       "album": {
@@ -6199,6 +6265,24 @@
     },
     {
       "album": {
+        "name": "CREAM",
+        "url": "https://open.spotify.com/album/7FJ8IvxbTlGfn10QfJpCkJ"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180400,
+      "name": "CREAM",
+      "url": "https://open.spotify.com/track/0i3CCk4aOoEE8AVD3sXDKq"
+    },
+    {
+      "album": {
         "name": "Criminals",
         "url": "https://open.spotify.com/album/3BmwWzziWO2nNg2y8mptj2"
       },
@@ -6526,7 +6610,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 126408,
       "name": "dance with me",
       "url": "https://open.spotify.com/track/0XxXIiZP0rJBS8S841UVdu"
@@ -16670,7 +16754,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 227250,
       "name": "Life Out There",
       "url": "https://open.spotify.com/track/0QMMF6BX8zMy5eY9HEODfL"
@@ -17416,7 +17500,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 258674,
       "name": "Love Is Blu",
       "url": "https://open.spotify.com/track/4cpd7sqW4Q7yypR7XWu004"
@@ -24089,6 +24173,24 @@
     },
     {
       "album": {
+        "name": "Run It Up (Solo Version)",
+        "url": "https://open.spotify.com/album/3f7bprhEOFoZCRrjwhrEJO"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154522,
+      "name": "Run It Up (Solo Version)",
+      "url": "https://open.spotify.com/track/4fSzrnVVTN8Ym1os7DvGJQ"
+    },
+    {
+      "album": {
         "name": "RUNNIN THROUGH THE FIRE",
         "url": "https://open.spotify.com/album/5WrB1lYVAbPYHJ4xDdskZX"
       },
@@ -24828,7 +24930,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 232993,
       "name": "Sex Concept",
       "url": "https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X"
@@ -27246,7 +27348,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 137097,
       "name": "Suckin Up",
       "url": "https://open.spotify.com/track/2tgWfeFgrEbFrtAF6ymROm"
@@ -28432,7 +28534,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 200061,
       "name": "Thank Goodness",
       "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
@@ -31796,6 +31898,24 @@
       "duration_ms": 219023,
       "name": "Wednesday Afternoon",
       "url": "https://open.spotify.com/track/71QuZsn6oeJz1hV8TOQQLJ"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3lQ8UdMwq61T7VqevZsxoF"
+      },
+      "artists": [
+        {
+          "name": "DRIPPIN",
+          "url": "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/4V5dstlpmgVoDRahjKdcfM"
     },
     {
       "album": {

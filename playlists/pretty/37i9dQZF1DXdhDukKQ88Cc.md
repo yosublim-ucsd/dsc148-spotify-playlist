@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største danske rap lige nu..\.  <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> sørger for hyggen på <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,658 likes - 82 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,694 likes - 82 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

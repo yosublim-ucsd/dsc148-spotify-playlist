@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is Felicity Urquhart。アーティストの代表曲をひとつのプレイリストに。
+> This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
 97 songs - 5 hr 57 min
 
@@ -56,7 +56,7 @@
 | [Live a Little](https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:34 | 2023-06-26 | 2024-07-25 |
 | [Lonely Girl](https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:42 | 2024-05-17 | 2024-08-14 |
 | [Mr Catfish](https://open.spotify.com/track/4eYIiaQ8i5veUbYa1LVZuq) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-08-19 | 2024-07-22 |
-| [My Life](https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-07-22 |  |
+| [My Life](https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-07-22 | 2024-08-20 |
 | [Never Too Late](https://open.spotify.com/track/4OpC3368bjLs30zFWmzfKl) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:52 | 2023-12-26 |  |
 | [New Harmony](https://open.spotify.com/track/22duJOJn8Bc3o2K8x6pfv3) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:13 | 2023-06-17 |  |
 | [New Shadow](https://open.spotify.com/track/2izhZBC5r1yn0HhNE5gAYn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 3:24 | 2023-07-10 | 2023-12-21 |
@@ -81,7 +81,7 @@
 | [Strawberry Footprints](https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:36 | 2023-06-17 |  |
 | [Sugar Town](https://open.spotify.com/track/6kqwN65FEBCatSX3z38670) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:02 | 2023-06-26 |  |
 | [Sugarloaf Hill](https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:21 | 2023-06-22 |  |
-| [Summerfly](https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:12 | 2023-06-20 | 2024-05-21 |
+| [Summerfly](https://open.spotify.com/track/734yjL9rQgaKw9J8Zr2NVn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:12 | 2023-06-20 |  |
 | [Sweet Music Man](https://open.spotify.com/track/5rMwZbObDXMfJPQsbCmbQ8) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Call of the Bellbird, Vol\. 2](https://open.spotify.com/album/1nKJZBHfyfBbCD7uUjxhu4) | 3:39 | 2023-06-17 | 2024-08-10 |
 | [Swingtown](https://open.spotify.com/track/1kt9OqfXbusOxeAwTEA1nJ) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:25 | 2023-07-12 |  |
 | [Take Me Back](https://open.spotify.com/track/1Uaddq5yoeTw1EGaUXeVqe) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:56 | 2023-07-06 | 2024-07-31 |

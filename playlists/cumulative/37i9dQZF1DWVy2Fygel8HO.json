@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Quietly Into The Night",
+        "url": "https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136427,
+      "name": "Quietly Into The Night",
+      "url": "https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B"
+    },
+    {
+      "album": {
         "name": "Recognition",
         "url": "https://open.spotify.com/album/4vKS3tCofv0jYyNUPsyKxE"
       },

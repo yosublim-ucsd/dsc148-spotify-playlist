@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This is Nicki Minaj\. The essential tracks, all in one playlist.
+> This is Nicki Minaj\. أغاني روعة في قايمة أغاني واحدة.
 
 69 songs - 4 hr 6 min
 

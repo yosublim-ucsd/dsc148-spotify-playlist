@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 516 songs - 1 day 10 hr 0 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 519 songs - 1 day 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -523,6 +523,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 513 | [Landlines](https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp) | 2:58 |
 | 514 | [Growing Story](https://open.spotify.com/track/7b3QdP0oPZyUaQrtRjsqDj) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Champion](https://open.spotify.com/album/38MIFMz92VM00t31cYSBjn) | 3:32 |
 | 515 | [Get Back](https://open.spotify.com/track/5HvB1BWxjT7Mc5VVmJXyhU) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:12 |
-| 516 | [Pluto](https://open.spotify.com/track/4IorOYjiwLW9BLj5P0KELy) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:33 |
+| 516 | [Albatross](https://open.spotify.com/track/60sDbx6WosEmzOy2EwdzkI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:14 |
+| 517 | [Departed](https://open.spotify.com/track/1piZEjk3QiqY7wekdSz3tb) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 2:14 |
+| 518 | [Kemp's Jig](https://open.spotify.com/track/3o0XLKK0sKaoAeGCWYKB7q) | [Gryphon](https://open.spotify.com/artist/4Dghr6IbymdYuMDUEybhUR) | [Gryphon](https://open.spotify.com/album/1JPuxlcUBfWvw7guYHmzr8) | 3:09 |
+| 519 | [Jibber And Twitch](https://open.spotify.com/track/36rNTXbEDBATXRRkgqzT4K) | [Cardiacs](https://open.spotify.com/artist/0lopEzYZq2mwBPDlpP4Bcw) | [The Seaside](https://open.spotify.com/album/47dboD7BdAbAhyjssyNYdh) | 4:47 |
 
-Snapshot ID: `AAAGYJu1jP0zCMgsS6ubJNSJS6rcp8Q9`
+Snapshot ID: `AAAGZ5vC2yP91JyGPjr12KN67KEc+81Q`

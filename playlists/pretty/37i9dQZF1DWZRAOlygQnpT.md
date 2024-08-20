@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,109 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,151 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 75 | [Cartas de amor en la arena \- Love Letters in the Sand](https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:16 |
 | 76 | [La Mantequilla](https://open.spotify.com/track/7fhZsTB9ip8h9H6vMcP8ux) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy), [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 3:50 |
 | 77 | [Popotitos](https://open.spotify.com/track/4ppAuelKoG9GU7DfLirTLB) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 3:03 |
-| 78 | [Mi Pueblo](https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:32 |
-| 79 | [Siluetas](https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:58 |
+| 78 | [La Hiedra Venenosa](https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:39 |
+| 79 | [Mi Pueblo](https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:32 |
 | 80 | [Corina, Corina](https://open.spotify.com/track/2pXeJhrylYrsCXyZVNp7oy) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:51 |
 | 81 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/5JBfzQjelvHSc2ScM59g8M) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [Tesoros De Coleccion \- Roberto Jordan](https://open.spotify.com/album/2R2djjfHOfTv5RMbUpwMg5) | 2:23 |
 | 82 | [Eddy Eddy](https://open.spotify.com/track/1gQ3NYyKULxCt7Eo2Acblo) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN) | 2:31 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 84 | [Melodía de Amor](https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:28 |
 | 85 | [Vuelve primavera](https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:36 |
 | 86 | [La Plaga](https://open.spotify.com/track/0bnx1Uil9gj7G1J6DIN0pN) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos \- Teen Tops](https://open.spotify.com/album/3BzjUZegAStBZPVTZVrUT5) | 2:22 |
-| 87 | [La Historia de Tommy](https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n) | 2:40 |
-| 88 | [La Hiedra Venenosa](https://open.spotify.com/track/45l1qKmKi7ZJT3llqnNRnP) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:39 |
+| 87 | [Siluetas](https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:58 |
+| 88 | [La Historia de Tommy](https://open.spotify.com/track/29Div3U4mvlXuVD24b70H7) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/7FvfEhgjh8EFawGTIbjQ7n) | 2:40 |
 | 89 | [Speedy Gonzalez](https://open.spotify.com/track/7ePdV6t9L6VfK6K4CI95TD) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 2](https://open.spotify.com/album/6K7es5CWrCWxzZz9A84XfK) | 2:20 |
 | 90 | [Dile Adios](https://open.spotify.com/track/5q5xDeMlD85BtzdSFC2ih9) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN) | 2:17 |
 | 91 | [Nos Pertenecemos](https://open.spotify.com/track/2fZoRApJfOKxPq1WgRris4) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 1:50 |

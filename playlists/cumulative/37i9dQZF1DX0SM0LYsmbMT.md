@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,207 songs - 6 day 16 hr 36 min
+4,208 songs - 6 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Afterglow](https://open.spotify.com/track/7FRFNRXJ5j1szV2J6CCNGT) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Afterglow](https://open.spotify.com/album/0DtBbtQQWgk1Kd6eTwmHtA) | 3:26 | 2021-12-17 | 2021-12-24 |
 | [Afternoon Rain](https://open.spotify.com/track/60OX2OW13na7kWGZf6siqt) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Toranpetto](https://open.spotify.com/artist/2v5PisngtMQhGwRq6k9Bbn), [Tyrone Hendrix](https://open.spotify.com/artist/6uBaKLoAcF7BV7gPHFa6Ev), [BrandonLee Cierley](https://open.spotify.com/artist/12YcQzIva0Bw4PVZVYuFjW) | [Afternoon Rain EP](https://open.spotify.com/album/4WfXDz116s4uENlz08y1wN) | 2:53 | 2020-03-21 | 2020-06-13 |
 | [Afternoondriftaway](https://open.spotify.com/track/1pZbr9MATtsf8HZq1Z0qAz) | [Yles](https://open.spotify.com/artist/6xuhrq8QZxXqXRz5XKxwaG), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Afternoondriftaway](https://open.spotify.com/album/2nimlAPPV8KeS7HOcS51TA) | 1:24 | 2024-02-08 |  |
+| [Afterparty](https://open.spotify.com/track/6x6efTUomsRkwEqjht1alz) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Afterparty](https://open.spotify.com/album/01GKm8pafgnEmSiQYsBibM) | 2:05 | 2024-08-12 |  |
 | [Again](https://open.spotify.com/track/5bPpUX2l6fAwH8bs7X3llG) | [OJ Son](https://open.spotify.com/artist/756lNmGcvFAJqQAKEey6md), [Halin](https://open.spotify.com/artist/106IfNp5gQLJ7cn096t9Fv) | [Again / Browski](https://open.spotify.com/album/0hwz97CFwXgBFrRJetwNod) | 2:08 | 2019-08-02 | 2019-12-20 |
 | [Again](https://open.spotify.com/track/4EPkS6nsEwWTiA1wQk4eMY) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Again](https://open.spotify.com/album/4hLqaWKvIzToxq1bXk4uGA) | 2:36 | 2022-11-03 | 2022-12-16 |
 | [Agua de Coco](https://open.spotify.com/track/4lgsYg7OxR2vwtlZQ55CMK) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Agua de Coco](https://open.spotify.com/album/30QZOYyCdPZIlthnT29gla) | 2:37 | 2021-06-05 | 2021-10-22 |
@@ -798,7 +799,7 @@
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-10-01 | 2022-07-08 |
 | [Crimea](https://open.spotify.com/track/5VwXSBEgJMp4cd5TeWGeK9) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Crimea](https://open.spotify.com/album/5o4CyEZXkntl65XCR6PimT) | 2:46 | 2020-07-11 | 2020-09-11 |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
-| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 |  |
+| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 | 2024-08-20 |
 | [Crossing](https://open.spotify.com/track/7u9kOrf7JEHe2wwUPhPabi) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Crossing](https://open.spotify.com/album/3HhTOt70nt48DzGChnJZuY) | 1:50 | 2019-05-28 | 2019-09-17 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2021-05-21 | 2021-09-22 |
 | [Cruisin'](https://open.spotify.com/track/6bJdh8j8HbZV0WPu5FGAgb) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cruisin'](https://open.spotify.com/album/2tFq1aPNX5mo7zSKBfYs2p) | 2:06 | 2021-10-08 | 2023-02-24 |

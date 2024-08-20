@@ -2,7 +2,7 @@
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. The essential tracks, all in one playlist.
+> This is: Bob Dylan\. Alle wichtigen Tracks in einer Playlist.
 
 112 songs - 8 hr 7 min
 

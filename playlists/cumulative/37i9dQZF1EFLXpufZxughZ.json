@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "drill 7mn",
+        "url": "https://open.spotify.com/album/1VRnlNK9I1gjr0mzvgLN5A"
+      },
+      "artists": [
+        {
+          "name": "bacin92",
+          "url": "https://open.spotify.com/artist/6RJ2uR2RPe8PgF87uR8idY"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212427,
+      "name": "drill 7mn",
+      "url": "https://open.spotify.com/track/1PExDH4IeYrhUBhA6DlOrJ"
+    },
+    {
+      "album": {
         "name": "The World Is Yours",
         "url": "https://open.spotify.com/album/1Hno6CtKbaFNAEPjRHDrc6"
       },

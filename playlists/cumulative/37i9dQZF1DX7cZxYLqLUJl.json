@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2021-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 147936,
       "name": "Mid Air",
       "url": "https://open.spotify.com/track/5O3UGMP9XJLbshKKZHsrGN"
@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Quietly Into The Night",
+        "url": "https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze"
+      },
+      "artists": [
+        {
+          "name": "M. Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3nIz58tWz0XTKXEhG6GOBL"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136427,
+      "name": "Quietly Into The Night",
+      "url": "https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B"
+    },
+    {
+      "album": {
         "name": "Reading Life",
         "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
       },
@@ -1590,6 +1608,24 @@
       "duration_ms": 140000,
       "name": "Respite",
       "url": "https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC"
+    },
+    {
+      "album": {
+        "name": "Returning To You",
+        "url": "https://open.spotify.com/album/4JSTPsSSU61ldiJ8Q0N9Wb"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/15E1rumgbEdmKG8I0ofU2g"
     },
     {
       "album": {

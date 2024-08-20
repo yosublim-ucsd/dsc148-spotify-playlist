@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now to all the superstar artists performing at Glastonbury Festival 2024!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 110,092 likes - 92 songs - 5 hr 56 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 110,083 likes - 92 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

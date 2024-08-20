@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. El Fantasma y Los Farmers en portada.",
-  "num_followers": 225861,
+  "num_followers": 225954,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Don Ismael",
-        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
-      },
-      "artists": [
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 158938,
-      "name": "Don Ismael",
-      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 199769,
       "name": "El Dos de los Antrax",
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Don Ismael",
+        "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
+      },
+      "artists": [
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 158938,
+      "name": "Don Ismael",
+      "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "EXOTIC\u00d3N",
-        "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Selectivo",
-          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "EXOTIC\u00d3N",
-      "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 153106,
       "name": "La Belikada",
       "url": "https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "EXOTIC\u00d3N",
+        "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "EXOTIC\u00d3N",
+      "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Don Cheyo Imperial",
-        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
-      },
-      "artists": [
-        {
-          "name": "Grupo H-100",
-          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
-        }
-      ],
-      "duration_ms": 177485,
-      "name": "Don Cheyo Imperial",
-      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
         "name": "La Camisa No Me La Quite",
         "url": "https://open.spotify.com/album/4YPDzE5DcoMYW32Cp3zZFr"
       },
@@ -1679,22 +1663,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Valente Quintero (En Vivo)",
-        "url": "https://open.spotify.com/album/7hyA4JFSywUYSUQmo6F3c8"
+        "name": "Don Cheyo Imperial",
+        "url": "https://open.spotify.com/album/6FMWZ9K8YlljAxvWdLBYOn"
       },
       "artists": [
         {
-          "name": "La Bertiniza De Culiacan",
-          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
-        },
-        {
-          "name": "Novillos de la Sierra",
-          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+          "name": "Grupo H-100",
+          "url": "https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9"
         }
       ],
-      "duration_ms": 338470,
-      "name": "Valente Quintero - En Vivo",
-      "url": "https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ"
+      "duration_ms": 177485,
+      "name": "Don Cheyo Imperial",
+      "url": "https://open.spotify.com/track/6bUi10rGDo5g2FKSPUUBmY"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1711,6 +1691,26 @@
       "duration_ms": 188393,
       "name": "Bienvenidos a Guasave",
       "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
+        "name": "Valente Quintero (En Vivo)",
+        "url": "https://open.spotify.com/album/7hyA4JFSywUYSUQmo6F3c8"
+      },
+      "artists": [
+        {
+          "name": "La Bertiniza De Culiacan",
+          "url": "https://open.spotify.com/artist/7ky1WrqzDILf6obnwFMc8J"
+        },
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "duration_ms": 338470,
+      "name": "Valente Quintero - En Vivo",
+      "url": "https://open.spotify.com/track/2CSzHGJcQwibhTZpRbJnkQ"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1827,6 +1827,26 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
+        "name": "Seraf\u00edn Zambada",
+        "url": "https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 128532,
+      "name": "Seraf\u00edn Zambada",
+      "url": "https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW"
+    },
+    {
+      "added_at": "2024-08-02 06:00:00",
+      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -1839,22 +1859,6 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
-    },
-    {
-      "added_at": "2024-08-02 06:00:00",
-      "album": {
-        "name": "El Jessy",
-        "url": "https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "El Jessy",
-      "url": "https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2"
     },
     {
       "added_at": "2024-08-02 06:00:00",
@@ -1875,22 +1879,18 @@
     {
       "added_at": "2024-08-02 06:00:00",
       "album": {
-        "name": "Seraf\u00edn Zambada",
-        "url": "https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf"
+        "name": "El Jessy",
+        "url": "https://open.spotify.com/album/1frZG7cwuuu7fgRe4EBPls"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 128532,
-      "name": "Seraf\u00edn Zambada",
-      "url": "https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW"
+      "duration_ms": 191146,
+      "name": "El Jessy",
+      "url": "https://open.spotify.com/track/1ShS4CeMAsuTKuAbE6dMA2"
     }
   ],
   "unique_name": "Corridos Chakalosos",

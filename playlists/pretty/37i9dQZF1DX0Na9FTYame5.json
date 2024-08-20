@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
-  "num_followers": 583672,
+  "num_followers": 583695,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "verstecken",
-        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 162975,
-      "name": "verstecken",
-      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "verstecken",
+        "url": "https://open.spotify.com/album/2PoecB4132E7hBtLC0uBgy"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 162975,
+      "name": "verstecken",
+      "url": "https://open.spotify.com/track/6LliQsJvqpEBrP1Bhf6HEw"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "3 Sekunden (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 166942,
       "name": "3 Sekunden (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -603,26 +603,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "kleine Feuer",
-        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
-      },
-      "artists": [
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "Trettmann",
-          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
-        }
-      ],
-      "duration_ms": 154679,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "kleine Feuer",
+        "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
+      },
+      "artists": [
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "duration_ms": 154679,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
-        }
-      ],
-      "duration_ms": 127799,
-      "name": "Beverly Hills",
-      "url": "https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/7gT0Xn9actXgHjVBweCzxL"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 127799,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/3euFYtusViGwzX1R6wiUEx"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Normal ist",
-        "url": "https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 101714,
-      "name": "Normal ist",
-      "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "Herzfeind (Titelsong zum Film \u201eTrauzeugen\u201c)",
         "url": "https://open.spotify.com/album/7ck5XxkoEY7Y7K7QcHzrbZ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 236533,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "Normal ist",
+        "url": "https://open.spotify.com/album/0ZnYvx89atqe2pCS02CkO1"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 101714,
+      "name": "Normal ist",
+      "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
         "name": "winterlove2.0",
         "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 188750,
       "name": "winterlove2.0",
       "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
-      },
-      "artists": [
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
-        },
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129136,
-      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
+      },
+      "artists": [
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
+        },
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129136,
+      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "M\u00dcNCHEN GIRLS",
-        "url": "https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV"
+        "name": "Bei Nacht",
+        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
       },
       "artists": [
         {
-          "name": "FOURTY",
-          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
         }
       ],
-      "duration_ms": 171454,
-      "name": "M\u00dcNCHEN GIRLS",
-      "url": "https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t"
+      "duration_ms": 174000,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Bei Nacht",
-        "url": "https://open.spotify.com/album/2HCVxU3SoAeBBrHO81Du6B"
+        "name": "M\u00dcNCHEN GIRLS",
+        "url": "https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV"
       },
       "artists": [
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Bei Nacht",
-      "url": "https://open.spotify.com/track/53vyWY4myvD6qPh1z54Itx"
+      "duration_ms": 171454,
+      "name": "M\u00dcNCHEN GIRLS",
+      "url": "https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "SUPERHERO Pt. II",
-        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "SUPERHERO Pt. II",
-      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "REGEN AUF DER FAHRBAHN",
         "url": "https://open.spotify.com/album/0NWG5I7mEejIf0qHDq3Okv"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 228736,
       "name": "Monoton",
       "url": "https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "SUPERHERO Pt. II",
+        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "SUPERHERO Pt. II",
+      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
+        "name": "Ein Auge blau",
+        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 182396,
+      "name": "Ein Auge blau",
+      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
         "name": "Panikwei\u00df",
         "url": "https://open.spotify.com/album/759SIsxU0p4v2TJ2yrplV5"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
-        "name": "Ein Auge blau",
-        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 182396,
-      "name": "Ein Auge blau",
-      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 182602,
+      "name": "Tinnitus",
+      "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
         "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
         "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 144874,
       "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
       "url": "https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 182602,
-      "name": "Tinnitus",
-      "url": "https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0"
     },
     {
       "added_at": "2024-08-12 13:55:39",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Lamborghini Pink",
-        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
-      },
-      "artists": [
-        {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Lamborghini Pink",
-      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
-    },
-    {
-      "added_at": "2024-08-12 13:55:39",
-      "album": {
         "name": "DLIT (die Liebe ist tot)",
         "url": "https://open.spotify.com/album/3ZwrJdU2gxr7pZTYgm00Ce"
       },
@@ -1875,22 +1859,38 @@
     {
       "added_at": "2024-08-12 13:55:39",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580"
+        "name": "Lamborghini Pink",
+        "url": "https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr"
       },
       "artists": [
         {
-          "name": "SANNA",
-          "url": "https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd"
-        },
-        {
-          "name": "KC Rebell",
-          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 216421,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k"
+      "duration_ms": 168461,
+      "name": "Lamborghini Pink",
+      "url": "https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U"
+    },
+    {
+      "added_at": "2024-08-12 13:55:39",
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "duration_ms": 219887,
+      "name": "Mondlicht",
+      "url": "https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO"
     },
     {
       "added_at": "2024-08-12 13:55:39",

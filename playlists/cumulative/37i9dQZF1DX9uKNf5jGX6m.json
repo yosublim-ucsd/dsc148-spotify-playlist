@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 161750,
       "name": "Duo Balance",
       "url": "https://open.spotify.com/track/5tOGY0zHGJUO59azKA1cCm"
@@ -4034,7 +4034,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 162666,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/11ZWAdHTLpYBe67e8kgjSm"
@@ -5132,7 +5132,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 159428,
       "name": "Gentle Mind",
       "url": "https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H"
@@ -8743,6 +8743,24 @@
     },
     {
       "album": {
+        "name": "Oniria",
+        "url": "https://open.spotify.com/album/4MAMfvGlOx5tJXldqQQfLL"
+      },
+      "artists": [
+        {
+          "name": "Dopamine clouds",
+          "url": "https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197044,
+      "name": "Oniria",
+      "url": "https://open.spotify.com/track/5Cwt22rLEsrCjIXvcZ4Gz2"
+    },
+    {
+      "album": {
         "name": "Onye Amuma",
         "url": "https://open.spotify.com/album/2NXjIdg0VNEsXuudS2K8pP"
       },
@@ -9712,6 +9730,24 @@
       "duration_ms": 179561,
       "name": "Quiescent State",
       "url": "https://open.spotify.com/track/6QQ5FWFNaFutL0fvJTL5DB"
+    },
+    {
+      "album": {
+        "name": "Quiet Dreams",
+        "url": "https://open.spotify.com/album/17zaNWBZFT5Gz3qzU6LXdd"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178803,
+      "name": "Quiet Dreams",
+      "url": "https://open.spotify.com/track/1hLocT1ZOLgTPDVtsfLLwU"
     },
     {
       "album": {

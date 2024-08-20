@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 ### [EQUAL España](https://open.spotify.com/playlist/37i9dQZF1DX6dANf8jNW4z)
 
-> Escucha mujeres a todo volumen\. Foto: Edurne.
+> Escucha a mujeres a todo volumen\. Foto: Edurne.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,111 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,122 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 59 | [Capri\-Sun](https://open.spotify.com/track/02YFtXMpEezxqmvfX1Mzpg) | [Mariana També](https://open.spotify.com/artist/0ug4Nxh6JXe7BQEL6eVvSR) | [Capri\-Sun](https://open.spotify.com/album/0OQhHe0gzFcIZLIwRuFTKa) | 2:38 |
 | 60 | [AWITA](https://open.spotify.com/track/4lwphqCrdxuTQJVuQEgUid) | [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ) | [AWITA](https://open.spotify.com/album/6XRH5u4XZ9qNj1PYosxCmP) | 2:06 |
 
-Snapshot ID: `ZrKc4AAAAABDAo8DGjVEHu0khXesw1Tv`
+Snapshot ID: `ZsMryAAAAAChpeGiy+kVqHWwj0HIjN8A`

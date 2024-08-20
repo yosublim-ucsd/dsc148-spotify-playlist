@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,546 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,595 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 99 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 |
 | 100 | [Que Viva Tierra Caliente](https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k) | [Los Centinelas de Michoacan](https://open.spotify.com/artist/6zdHx6bFbxumSBTlyDvXzP) | [Viva Tierra Caliente](https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx) | 3:15 |
 | 101 | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/track/49QRiQXYwX2x9cwcdcx5rM) | [Arturo Leyva](https://open.spotify.com/artist/44z5ITF27h6kgj3pv6me2j), [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [El Nudo \(Parangaricutirimicuaro\)](https://open.spotify.com/album/5QoHmNxGNcMupzGDqm1lKR) | 2:25 |
-| 102 | [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 |
-| 103 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |
+| 102 | [Carga Fina \- En Vivo](https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Exitos en Vivo \(En Vivo\)](https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO) | 1:42 |
+| 103 | [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 |
 | 104 | [Para El Amor de Mi Vida](https://open.spotify.com/track/75q5N3S2tQX4A2hzQwIst2) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Para el Amor de Mi Vida](https://open.spotify.com/album/7nH83Kx8uM3trA7hALSMOa) | 4:00 |
 | 105 | [Un Día de Rey Otro de Wey](https://open.spotify.com/track/1XgvlEvmIfyenmpYdlZ0J4) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Monarcas 2018](https://open.spotify.com/album/6T7bhldD2jlBePRIaHh8n2) | 3:16 |
 | 106 | [Con Cartitas y Palabras](https://open.spotify.com/track/0U9cI8FSNxElZoc2b0Bn54) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Extendiendo Territorio](https://open.spotify.com/album/5cw2jkYrpKjGZYNRt7d0Zc) | 3:11 |

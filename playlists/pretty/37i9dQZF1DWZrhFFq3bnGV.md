@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jordy Waelauruw
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,544 likes - 98 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,558 likes - 98 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: Kalki 2898 Ad
+> Trending songs from Tollywood! <br/>Cover: Devara
 
 176 songs - 11 hr 22 min
 

@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Georgia Gets By
+> Underground indie rock gems\. Cover: Horse Jumper of Love
 
-1,325 songs - 3 day 3 hr 50 min
+1,327 songs - 3 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,7 +1187,7 @@
 | [To Repel Ghosts](https://open.spotify.com/track/2mkZJYJmjrLYFEWn7q5kLx) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [To Repel Ghosts](https://open.spotify.com/album/06B3ihAJGFAeMbpAOJWtQn) | 3:26 | 2022-10-28 | 2022-12-15 |
 | [Toad Mode](https://open.spotify.com/track/1ZBfs19b8WrSC7aoiu9yw7) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Toad Mode](https://open.spotify.com/album/3m9dAxszPyURxWxZHvpkEK) | 3:17 | 2024-03-01 | 2024-04-19 |
 | [Toad Mode](https://open.spotify.com/track/1sJVvwGphoJXPLbjK8Mfk1) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Toad Mode](https://open.spotify.com/album/4iQqn0QFI7IK77RL4hfljo) | 3:17 | 2023-11-10 | 2024-06-15 |
-| [Today’s Iconoclast](https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Today's Iconoclast](https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec) | 3:03 | 2024-07-19 |  |
+| [Today’s Iconoclast](https://open.spotify.com/track/2kqQgHDm2Vz21n982K7KQq) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Today's Iconoclast](https://open.spotify.com/album/5AKlzzw0Nqoq0ZB4gfzsec) | 3:03 | 2024-07-19 | 2024-08-20 |
 | [Toe](https://open.spotify.com/track/1Z7LSyAta9hXgcPs14yLLt) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Toe](https://open.spotify.com/album/1JJFNlAqSGHhfLJtN435dI) | 2:22 | 2023-03-17 | 2023-06-16 |
 | [Too Cold to Hold](https://open.spotify.com/track/5BUHjtdwcBBeIVKViknLfV) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Say I Won't](https://open.spotify.com/album/5sImBI3vR27SaInKMVtT6m) | 3:10 | 2023-06-15 | 2023-11-11 |
 | [Too Drunk to Drive](https://open.spotify.com/track/1oRzgvHnrtm74xt3qIdi6U) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Too Drunk to Drive](https://open.spotify.com/album/6ZrG0duOsGgU8FZydLFMgC) | 3:32 | 2022-12-02 | 2023-05-27 |
@@ -1258,6 +1258,7 @@
 | [Warm Storm](https://open.spotify.com/track/0va5q7JGNX9nIR1gvm3wwX) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Warm Storm](https://open.spotify.com/album/4PvvuATtNefKM5qbTTOCPI) | 5:18 | 2024-04-12 | 2024-07-13 |
 | [Wasted Affairs](https://open.spotify.com/track/3CczWPmaz03mSTr6qnqXnc) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Wasted Affairs](https://open.spotify.com/album/57sbdNZpBOb1g2NrqcJ1CT) | 2:48 | 2022-04-29 | 2022-09-03 |
 | [WASTELAND](https://open.spotify.com/track/7BhxJU5NdAnzkSxZEsMucp) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [WASTELAND](https://open.spotify.com/album/4XMzbNjifjbUTci7QxtP14) | 3:59 | 2022-09-23 | 2023-02-18 |
+| [Watch Me Drive Them Dogs Wild](https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs) | 4:50 | 2024-08-19 |  |
 | [Watching Cartoons](https://open.spotify.com/track/3Gb1M4i5UlDauEnaLJF2HT) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [La Luz](https://open.spotify.com/album/17WOu1wHd6KdSO2Z0HRz6w) | 3:28 | 2022-04-29 | 2022-05-20 |
 | [Water](https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [Water / Connecticut](https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD) | 3:02 | 2024-02-09 | 2024-03-16 |
 | [Way Out](https://open.spotify.com/track/08Gw7Yl7peYu7zbXrMKohF) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [Way Out](https://open.spotify.com/album/1vNIYW0sdDd29V8AZcUtNH) | 3:38 | 2023-06-15 | 2023-12-16 |
@@ -1305,6 +1306,7 @@
 | [Without Me](https://open.spotify.com/track/59CvrXg1dTTVlPDpdur9wK) | [Smoothboi Ezra](https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj) | [Stuck](https://open.spotify.com/album/2FhHAKCrIdmILg8GDAmSUM) | 4:48 | 2021-06-11 | 2022-03-22 |
 | [woah](https://open.spotify.com/track/79ZeN4pLdlB3XfGnJXwMFR) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [woah](https://open.spotify.com/album/4VK3EEaN4S9UhPF2Xr86XA) | 2:16 | 2021-05-14 | 2022-04-27 |
 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 | 2023-03-31 | 2023-06-16 |
+| [Word](https://open.spotify.com/track/2tEngkFRAH5dyYAe8iWCS7) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Disaster Trick](https://open.spotify.com/album/2iweheHvFdlAjMagBAc2ki) | 3:26 | 2024-08-19 |  |
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-07 |  |
 | [Work Out](https://open.spotify.com/track/2lNG3d7ap9IpLyWrfXtKJQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Work Out](https://open.spotify.com/album/6cyMnhRwSuq7io3XmwxhXt) | 3:43 | 2024-01-19 | 2024-04-13 |
 | [World of Pots and Pans](https://open.spotify.com/track/7CYgSigpdaFuFUQNqNLHDq) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [World of Pots and Pans](https://open.spotify.com/album/33AirxEIgtOOiCQmUOeQns) | 2:52 | 2022-04-15 | 2022-05-16 |

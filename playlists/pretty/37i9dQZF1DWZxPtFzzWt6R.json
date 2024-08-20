@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 85968,
+  "num_followers": 86001,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
+        "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
+        "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
       },
       "artists": [
         {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "DD Junior",
+          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
         }
       ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+      "duration_ms": 187937,
+      "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
+      "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -427,22 +431,18 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
-        "url": "https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS"
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
       },
       "artists": [
         {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
-        },
-        {
-          "name": "DD Junior",
-          "url": "https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 187937,
-      "name": "Jesus \u00c9 o Amor (Piseiro Gospel)",
-      "url": "https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf"
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Medley: Jo\u00e3o Viu / Sou um Milagre / Vou Seguir - Ao Vivo",
+        "url": "https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd"
+      },
+      "artists": [
+        {
+          "name": "Banda Som e Louvor",
+          "url": "https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc"
+        }
+      ],
+      "duration_ms": 354909,
+      "name": "Medley: Jo\u00e3o Viu / Sou um Milagre / Vou Seguir - Ao Vivo",
+      "url": "https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Quem Foi Que Me Tocou",
         "url": "https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 281002,
       "name": "Quem Foi Que Me Tocou",
       "url": "https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -839,38 +855,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Medley: Jo\u00e3o Viu / Sou um Milagre / Vou Seguir - Ao Vivo",
-        "url": "https://open.spotify.com/album/4fQTfXxHoGjpOXXTkvMISd"
-      },
-      "artists": [
-        {
-          "name": "Banda Som e Louvor",
-          "url": "https://open.spotify.com/artist/2MXmyzaX94wBeNmIjsx6Dc"
-        }
-      ],
-      "duration_ms": 354909,
-      "name": "Medley: Jo\u00e3o Viu / Sou um Milagre / Vou Seguir - Ao Vivo",
-      "url": "https://open.spotify.com/track/5dsWXguf4QMnRt1JxakWZi"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 271166,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Quem Procura Acha",
         "url": "https://open.spotify.com/album/30VFooHGuhOWOFMJkSKJZn"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Caminh\u00e3o 11 13 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1zaro e Eduardo",
+          "url": "https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Caminh\u00e3o 11 13 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
         "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Caminh\u00e3o 11 13 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gFgVmyBu9n3E0ulLTFHO7"
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/4Euna4VyMQhDuL63IDP4fK"
       },
       "artists": [
         {
-          "name": "L\u00e1zaro e Eduardo",
-          "url": "https://open.spotify.com/artist/6Hsz3V67jWpX7tqCNH0NQF"
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Caminh\u00e3o 11 13 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3NubUCC2PTleNfZs2h9YDL"
+      "duration_ms": 271166,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "O Meu Clamor, Vol. 2",
-        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Ovelha Rebelde",
-      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Al\u00e9m da Medicina",
         "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 286133,
       "name": "Al\u00e9m da Medicina",
       "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "O Meu Clamor, Vol. 2",
+        "url": "https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Ovelha Rebelde",
+      "url": "https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W"
     },
     {
       "added_at": "2024-08-16 03:01:00",

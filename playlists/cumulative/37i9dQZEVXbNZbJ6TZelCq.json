@@ -9512,7 +9512,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 129000,
       "name": "Emirate",
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
@@ -10710,7 +10710,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
@@ -13562,7 +13562,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 182959,
       "name": "Hitana",
       "url": "https://open.spotify.com/track/5ad1dak323elhUk1w99Bui"
@@ -18520,7 +18520,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 179393,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp"
@@ -18644,6 +18644,24 @@
       "duration_ms": 183233,
       "name": "Manzi in Romania - Remix",
       "url": "https://open.spotify.com/track/1GVpkpqN76teoVizTPBDEb"
+    },
+    {
+      "album": {
+        "name": "Maracas De Ayer",
+        "url": "https://open.spotify.com/album/4UU0z8r3IAaXUKZsXBYlnB"
+      },
+      "artists": [
+        {
+          "name": "Sunrise Deep",
+          "url": "https://open.spotify.com/artist/4j4GOqWeg637YGWAczZCIy"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248494,
+      "name": "Maracas De Ayer",
+      "url": "https://open.spotify.com/track/7IMRjYR2zJnP1dj2tzfT5l"
     },
     {
       "album": {
@@ -22828,7 +22846,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"

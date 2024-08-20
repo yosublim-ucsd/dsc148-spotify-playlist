@@ -2,7 +2,7 @@
 
 ### [pov: la tua estate è un film](https://open.spotify.com/playlist/37i9dQZF1DX5gGGog0N2Tu)
 
-> 365 party girl 🍏💚🌴🥥🛳️
+> 365 party girl, i'm a brat 🍏💚🌴🥥🛳️
 
 207 songs - 10 hr 50 min
 

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Indira Paganotto
 
-163 songs - 13 hr 21 min
+164 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 |  |
 | [Bomb Drop Rhythm](https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE) | [JVRM](https://open.spotify.com/artist/5jtReR2dGUE1x3kxkTyfu7) | [Bomb Drop Rhythm](https://open.spotify.com/album/1y8NI4TIhiI2vYGrzf20nT) | 6:19 | 2024-07-14 | 2024-07-22 |
 | [Bounce Back](https://open.spotify.com/track/3H470QOFLgh6CuUj7CuhAL) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back](https://open.spotify.com/album/4XAscsjKLpfUBzzTWXAe9o) | 5:24 | 2024-04-09 |  |
-| [Boundless Space](https://open.spotify.com/track/0DGpsSqGVJO3VIx3dLg4d0) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Boundless Space](https://open.spotify.com/album/0IdE18mByur7VWWwrNB3Jz) | 6:19 | 2024-07-14 |  |
+| [Boundless Space](https://open.spotify.com/track/0DGpsSqGVJO3VIx3dLg4d0) | [ELI YAZ](https://open.spotify.com/artist/3pqccXDPIA6Iy07Le4p75R) | [Boundless Space](https://open.spotify.com/album/0IdE18mByur7VWWwrNB3Jz) | 6:19 | 2024-07-14 | 2024-08-20 |
 | [Break 42 \- Original Mix](https://open.spotify.com/track/4J0937OJLtaj7atAcOEMZy) | [URI](https://open.spotify.com/artist/7gGrcuMxnavGamcBRvhEXM) | [COLOR VA02](https://open.spotify.com/album/5hprpC8cms818kVtMFFZJv) | 5:58 | 2024-04-09 | 2024-05-26 |
 | [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 | 2024-04-09 | 2024-06-07 |
 | [Bring That Beat \- Alex Farell Remix](https://open.spotify.com/track/4oTZOE3rVPsRYQJqSva4e9) | [VENTUR](https://open.spotify.com/artist/0Qo40DtODOjvhsRwwsbtHt), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Set in Motion](https://open.spotify.com/album/2lzahzr7uYUFGP54JAFvP8) | 5:27 | 2024-04-09 | 2024-07-13 |
@@ -162,6 +162,7 @@
 | [Underneath The Strobelights](https://open.spotify.com/track/5fA9xb5xWLwNizZCZRjQUO) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Underneath The Strobelights \(Exhale VA005\)](https://open.spotify.com/album/5N6EQkLrN8qryijUD1SF90) | 4:40 | 2024-07-26 |  |
 | [Venezia](https://open.spotify.com/track/1TjZTPkdqO3OCo7DX10a0l) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Venezia](https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy) | 3:52 | 2024-04-09 |  |
 | [Venom](https://open.spotify.com/track/5y48EWrjHhxOTbkifwNVwj) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [INNERGATE RECORDS](https://open.spotify.com/artist/4WSZCYGxqXDMYPizVPfSP9) | [Venom](https://open.spotify.com/album/50m7mrtNRjSiinGaldzPDt) | 6:51 | 2024-08-13 |  |
+| [We Damage](https://open.spotify.com/track/5xRkLCmybOWxdjvUMBtCnu) | [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [We Damage](https://open.spotify.com/album/6MAfjyvFODiQkfgZmDomo4) | 5:43 | 2024-08-19 |  |
 | [Welcome Back Devil](https://open.spotify.com/track/51xCJIB6whswDNw6tdbF97) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Welcome Back Devil](https://open.spotify.com/album/41Knrnm88QyuE9h8ATY8Dz) | 5:20 | 2024-04-09 |  |
 | [Welcome To London](https://open.spotify.com/track/3rcabUHPdv5Ulw8B6Khkxc) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Welcome To London](https://open.spotify.com/album/5QYvLSIqem9dAQKy1ubrR9) | 6:55 | 2024-04-09 |  |
 | [Weltschmerz](https://open.spotify.com/track/5dV8v9sGqh0qt4eGdoJzKg) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk) | [Weltschmerz](https://open.spotify.com/album/3YCwoebRDXZBEf5ZfnoNb3) | 6:24 | 2024-08-05 |  |

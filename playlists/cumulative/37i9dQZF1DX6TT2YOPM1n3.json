@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 257045,
       "name": "Ayi Re",
       "url": "https://open.spotify.com/track/22ooMzKVXhRR1ou7h3ALDo"
@@ -1997,6 +1997,28 @@
     },
     {
       "album": {
+        "name": "ghosts, and goodbyes",
+        "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "love lost",
+      "url": "https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0"
+    },
+    {
+      "album": {
         "name": "Phata Poster Nikhla Hero (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ADyLRU2KWshFA02symTDr"
       },
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 286122,
       "name": "Piya Piya Calling (feat. The Quick Style)",
       "url": "https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu"

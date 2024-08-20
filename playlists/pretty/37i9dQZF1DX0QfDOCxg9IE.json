@@ -1,15 +1,15 @@
 {
   "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b1 \u03c0\u03b9\u03bf \u03c7\u03bf\u03c4 trends \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae!",
-  "num_followers": 45991,
+  "num_followers": 46024,
   "original_name": "Internet Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrnPlQAAAACrffRGLXH66JLFFhl830zP",
+  "snapshot_id": "ZsNuUQAAAAC0QF8cgBYelAGyGU0eTWbc",
   "tracks": [
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Si Ai",
         "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Rous II",
-        "url": "https://open.spotify.com/album/5pj0kkvgv1DQuzcnRjpSkD"
-      },
-      "artists": [
-        {
-          "name": "Yorgos Rous",
-          "url": "https://open.spotify.com/artist/28BigpvpUQr0WHhR7QzIep"
-        }
-      ],
-      "duration_ms": 234582,
-      "name": "Louloudi Tou Dromou",
-      "url": "https://open.spotify.com/track/6XeFd9KCGi7zz5U9KHqCyx"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Asta Afta",
         "url": "https://open.spotify.com/album/4Mpf4vn1RaLfjxS2B1SU5T"
@@ -61,7 +45,27 @@
       "url": "https://open.spotify.com/track/60ngnfbG5v3LEqOK0lzGwq"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Takounia Gia Karfia",
+        "url": "https://open.spotify.com/album/21itgD37WJCHarCdcjlJM4"
+      },
+      "artists": [
+        {
+          "name": "Martha Frintzila",
+          "url": "https://open.spotify.com/artist/4fPLi7lkdcE6i3C2jIGaPv"
+        },
+        {
+          "name": "Orestis Ntantos",
+          "url": "https://open.spotify.com/artist/0ywXBvMabVdbaY3UtsnBN8"
+        }
+      ],
+      "duration_ms": 187931,
+      "name": "Nero Sti Varka",
+      "url": "https://open.spotify.com/track/6mFycTUAIVXhPottIqiTbu"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Shik Shak Shock",
         "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
@@ -85,119 +89,27 @@
       "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
-        "name": "Dame Fuego",
-        "url": "https://open.spotify.com/album/2kiAmoZTGNPOWW57lR7ovY"
+        "name": "Aristourgima",
+        "url": "https://open.spotify.com/album/0TO9uhMi63ToVh6tU330LF"
       },
       "artists": [
         {
-          "name": "Marseaux",
-          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
-        }
-      ],
-      "duration_ms": 180273,
-      "name": "Dame Fuego",
-      "url": "https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Takounia Gia Karfia",
-        "url": "https://open.spotify.com/album/21itgD37WJCHarCdcjlJM4"
-      },
-      "artists": [
-        {
-          "name": "Martha Frintzila",
-          "url": "https://open.spotify.com/artist/4fPLi7lkdcE6i3C2jIGaPv"
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
         },
         {
-          "name": "Orestis Ntantos",
-          "url": "https://open.spotify.com/artist/0ywXBvMabVdbaY3UtsnBN8"
+          "name": "ARCADE",
+          "url": "https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr"
         }
       ],
-      "duration_ms": 187931,
-      "name": "Nero Sti Varka",
-      "url": "https://open.spotify.com/track/6mFycTUAIVXhPottIqiTbu"
+      "duration_ms": 132000,
+      "name": "Aristourgima",
+      "url": "https://open.spotify.com/track/4lwRh4qMQvANHm1OcgB4Tg"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 289504,
-      "name": "530",
-      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "I Sotiria Tis Psihis",
-        "url": "https://open.spotify.com/album/2roDh8JJKomOG4CvpSJszP"
-      },
-      "artists": [
-        {
-          "name": "Mariza Rizou",
-          "url": "https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V"
-        }
-      ],
-      "duration_ms": 253272,
-      "name": "I Sotiria Tis Psihis",
-      "url": "https://open.spotify.com/track/0Ch6EvvnZYYPdSm9y4QJcX"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Apo To Xthes Sto Simera",
-        "url": "https://open.spotify.com/album/6vUV5GCjJGLG37xCdL8StH"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 172028,
-      "name": "Pali Pali",
-      "url": "https://open.spotify.com/track/79jo2634sZNinlhUOZuqW6"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/5i5YJBI6FxJTVXQKFBZDgq"
@@ -213,7 +125,55 @@
       "url": "https://open.spotify.com/track/65tr5yh5tG513bf4xlezBh"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "I Sotiria Tis Psihis",
+        "url": "https://open.spotify.com/album/2roDh8JJKomOG4CvpSJszP"
+      },
+      "artists": [
+        {
+          "name": "Mariza Rizou",
+          "url": "https://open.spotify.com/artist/0YOHWBsXDveoGIFVKHkZ4V"
+        }
+      ],
+      "duration_ms": 253272,
+      "name": "I Sotiria Tis Psihis",
+      "url": "https://open.spotify.com/track/0Ch6EvvnZYYPdSm9y4QJcX"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Apo To Xthes Sto Simera",
+        "url": "https://open.spotify.com/album/6vUV5GCjJGLG37xCdL8StH"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "duration_ms": 172028,
+      "name": "Pali Pali",
+      "url": "https://open.spotify.com/track/79jo2634sZNinlhUOZuqW6"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Rous II",
+        "url": "https://open.spotify.com/album/5pj0kkvgv1DQuzcnRjpSkD"
+      },
+      "artists": [
+        {
+          "name": "Yorgos Rous",
+          "url": "https://open.spotify.com/artist/28BigpvpUQr0WHhR7QzIep"
+        }
+      ],
+      "duration_ms": 234582,
+      "name": "Louloudi Tou Dromou",
+      "url": "https://open.spotify.com/track/6XeFd9KCGi7zz5U9KHqCyx"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Metamorfoseis",
         "url": "https://open.spotify.com/album/0j8l23x8FRBnrp9nLGujPM"
@@ -229,95 +189,27 @@
       "url": "https://open.spotify.com/track/19FzwWMX2JsAzn4uk7aXHc"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+        "name": "Tyxero Asteri",
+        "url": "https://open.spotify.com/album/4bhg5GI8NJ13q5iYlHyb9T"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "K. BHTA",
+          "url": "https://open.spotify.com/artist/4PePsLhfeGjPogzjcRcP9l"
         },
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Giannis Palamidas",
+          "url": "https://open.spotify.com/artist/3DbdBCLYKMNrNrGTe5tlOn"
         }
       ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+      "duration_ms": 232000,
+      "name": "Tyxero Asteri",
+      "url": "https://open.spotify.com/track/5AvyefDkaRgDajjqbfN8vv"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "MEGAN",
-        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        }
-      ],
-      "duration_ms": 156988,
-      "name": "Mamushi (feat. Yuki Chiba)",
-      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Beckham",
-        "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
-      },
-      "artists": [
-        {
-          "name": "Dee Billz",
-          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        },
-        {
-          "name": "Kai Swervo",
-          "url": "https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2"
-        },
-        {
-          "name": "KJ Swervo",
-          "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
-        },
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        }
-      ],
-      "duration_ms": 124931,
-      "name": "Beckham",
-      "url": "https://open.spotify.com/track/60lAoxcyDvRbcNY82VEoEA"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "To Tango Tis Nefelis",
         "url": "https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9"
@@ -341,39 +233,159 @@
       "url": "https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Pes",
+        "url": "https://open.spotify.com/album/6pbmcMoQkOtO9si2gD4bOj"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        },
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 182400,
+      "name": "Pes",
+      "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
-        "name": "She Never Come Back",
-        "url": "https://open.spotify.com/album/02IEUweako2LXVzvmpHivA"
+        "name": "Les Kai Me Xeris",
+        "url": "https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s"
       },
       "artists": [
         {
-          "name": "DaStreet",
-          "url": "https://open.spotify.com/artist/6Djogp3aEGP3WY8Y6WFryR"
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
         }
       ],
-      "duration_ms": 127246,
-      "name": "She Never Come Back",
-      "url": "https://open.spotify.com/track/12csAiwEqXX1h3wCuwmg86"
+      "duration_ms": 232652,
+      "name": "Les Kai Me Xeris",
+      "url": "https://open.spotify.com/track/6shb3xd9CTfRd6VcJXrgvq"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Oulala",
+        "url": "https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 169419,
+      "name": "Oulala",
+      "url": "https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Project YVL",
+        "url": "https://open.spotify.com/album/0sHNiGqhNIN96cYg3BX7my"
+      },
+      "artists": [
+        {
+          "name": "TWXN",
+          "url": "https://open.spotify.com/artist/0lZ2oIRdMsQfFEPmOa3YyL"
+        },
+        {
+          "name": "LL Clawz",
+          "url": "https://open.spotify.com/artist/0o7iCloKX9GUlm2mdPFNQm"
+        },
+        {
+          "name": "507KAZ",
+          "url": "https://open.spotify.com/artist/5QnWJJjxPlTSN59B8yJoOk"
+        }
+      ],
+      "duration_ms": 143046,
+      "name": "TELESCOPE",
+      "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Mia Kaseta Gia Ton Dromo",
+        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
+      },
+      "artists": [
+        {
+          "name": "Marina Spanou",
+          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
+        }
+      ],
+      "duration_ms": 304674,
+      "name": "Ikaria",
+      "url": "https://open.spotify.com/track/0Od1JTAg6xoTl5cQZozNLG"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Nikiastike",
+      "url": "https://open.spotify.com/track/6rMlvuQVyfMYFjjfILi3Jb"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Nosos Tou Realismou",
         "url": "https://open.spotify.com/album/5G91ijM2CCIjnRrcDFziB7"
@@ -397,7 +409,331 @@
       "url": "https://open.spotify.com/track/7tiAlo4OwOePj3X0Z3EK0y"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Lekes",
+        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 255430,
+      "name": "Lekes",
+      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "OK!",
+        "url": "https://open.spotify.com/album/6cgXKK8QXHrU0LSubNtyC7"
+      },
+      "artists": [
+        {
+          "name": "RB\u00d8R",
+          "url": "https://open.spotify.com/artist/1FWrDSWQin78IrPIvPEaJr"
+        },
+        {
+          "name": "Andor Gabriel",
+          "url": "https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc"
+        },
+        {
+          "name": "Paakman",
+          "url": "https://open.spotify.com/artist/0EVDssBuNOUkNmFwOxjVxY"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "OK!",
+      "url": "https://open.spotify.com/track/3t6Ntsvnt9jx4LZ6mUX4w6"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Vorias",
+        "url": "https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        }
+      ],
+      "duration_ms": 189622,
+      "name": "Vorias",
+      "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "1000 Vanilia",
+        "url": "https://open.spotify.com/album/6zsf9IAaxHHE7oZpPvdebU"
+      },
+      "artists": [
+        {
+          "name": "Lefteris Pantazis",
+          "url": "https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q"
+        },
+        {
+          "name": "Master Tempo",
+          "url": "https://open.spotify.com/artist/30zQQlVo7DhPWgFKhrDkcA"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Tzoutzouka",
+      "url": "https://open.spotify.com/track/4dC4jq7dZqcT6BkdRgbwdo"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "She Never Come Back",
+        "url": "https://open.spotify.com/album/02IEUweako2LXVzvmpHivA"
+      },
+      "artists": [
+        {
+          "name": "DaStreet",
+          "url": "https://open.spotify.com/artist/6Djogp3aEGP3WY8Y6WFryR"
+        }
+      ],
+      "duration_ms": 127246,
+      "name": "She Never Come Back",
+      "url": "https://open.spotify.com/track/12csAiwEqXX1h3wCuwmg86"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+      },
+      "artists": [
+        {
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+        }
+      ],
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Monaxiki Kardia",
+        "url": "https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC"
+      },
+      "artists": [
+        {
+          "name": "Melisses",
+          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Monaxiki Kardia",
+      "url": "https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Cum n Cocaine",
+        "url": "https://open.spotify.com/album/2blliGGUSb0eMWp9iFHI6h"
+      },
+      "artists": [
+        {
+          "name": "BJ Lips",
+          "url": "https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9"
+        },
+        {
+          "name": "princess paparazzi",
+          "url": "https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV"
+        }
+      ],
+      "duration_ms": 173168,
+      "name": "Love Potions",
+      "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "la noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "la noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "\u03a4\u03bf \u03b2\u03af\u03b2\u03bb\u03b9\u03bf \u03c4\u03c9\u03bd \u03c4\u03b5\u03c3\u03c3\u03ac\u03c1\u03c9\u03bd \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03b9\u03ce\u03bd",
+        "url": "https://open.spotify.com/album/0AaBCzVkGFykeMfs0oqjgj"
+      },
+      "artists": [
+        {
+          "name": "\u0392\u03ad\u03b2\u03b7\u03bb\u03bf\u03c2",
+          "url": "https://open.spotify.com/artist/2paECBjEu5OjvT6tr5KQiL"
+        }
+      ],
+      "duration_ms": 194963,
+      "name": "\u0397 \u03bd\u03cd\u03c7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c0\u03b1\u03c8\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03b6\u03c9 \u03c4\u03b9\u03c2 \u03c3\u03b9\u03c9\u03c0\u03ad\u03c2",
+      "url": "https://open.spotify.com/track/13UWL6uZNoJpGYsoRCiPOE"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/5JIC3AqDuyFtva4oExpNcx"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
+        "url": "https://open.spotify.com/album/2wryX8eV2bx0ZckCoz2lSU"
+      },
+      "artists": [
+        {
+          "name": "Billie Kark",
+          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
+      "url": "https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Me Lene Mani",
+        "url": "https://open.spotify.com/album/1EGb6YdddYRERk0zZrn3ft"
+      },
+      "artists": [
+        {
+          "name": "Mani",
+          "url": "https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS"
+        },
+        {
+          "name": "Fi Vita Sigma",
+          "url": "https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I"
+        },
+        {
+          "name": "Ixodotis",
+          "url": "https://open.spotify.com/artist/2lxAO4k1GdoEMQRbdpboME"
+        }
+      ],
+      "duration_ms": 409407,
+      "name": "Kai Irthe Pali",
+      "url": "https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Dame Fuego",
+        "url": "https://open.spotify.com/album/2kiAmoZTGNPOWW57lR7ovY"
+      },
+      "artists": [
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 180273,
+      "name": "Dame Fuego",
+      "url": "https://open.spotify.com/track/0dvNH2vkKm6hPzgy9Puz89"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 289504,
+      "name": "530",
+      "url": "https://open.spotify.com/track/4hm8BZ7nLceFNZUexWTxx4"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "MEGAN",
+        "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "duration_ms": 156988,
+      "name": "Mamushi (feat. Yuki Chiba)",
+      "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "ROMANCE : UNTOLD",
+        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 176424,
+      "name": "Brought The Heat Back",
+      "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -429,119 +765,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
-        "url": "https://open.spotify.com/album/2wryX8eV2bx0ZckCoz2lSU"
-      },
-      "artists": [
-        {
-          "name": "Billie Kark",
-          "url": "https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "\u03a0\u03ac\u03c1\u03c4\u03c5",
-      "url": "https://open.spotify.com/track/3WkZ44nflkY1Fb5wrkJuMM"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "ROMANCE : UNTOLD",
-        "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 176424,
-      "name": "Brought The Heat Back",
-      "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Project YVL",
-        "url": "https://open.spotify.com/album/0sHNiGqhNIN96cYg3BX7my"
-      },
-      "artists": [
-        {
-          "name": "TWXN",
-          "url": "https://open.spotify.com/artist/0lZ2oIRdMsQfFEPmOa3YyL"
-        },
-        {
-          "name": "LL Clawz",
-          "url": "https://open.spotify.com/artist/0o7iCloKX9GUlm2mdPFNQm"
-        },
-        {
-          "name": "507KAZ",
-          "url": "https://open.spotify.com/artist/5QnWJJjxPlTSN59B8yJoOk"
-        }
-      ],
-      "duration_ms": 143046,
-      "name": "TELESCOPE",
-      "url": "https://open.spotify.com/track/2vhyG6wMN64nlNakXJeKZ1"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "7/7",
-        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
-      },
-      "artists": [
-        {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
-        }
-      ],
-      "duration_ms": 171704,
-      "name": "7/7",
-      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Pes",
-        "url": "https://open.spotify.com/album/6pbmcMoQkOtO9si2gD4bOj"
-      },
-      "artists": [
-        {
-          "name": "ZAF",
-          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
-        },
-        {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Pes",
-      "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Tangled Up (Deluxe)",
-        "url": "https://open.spotify.com/album/4rhhRErBI0ORLNJLTQIBXw"
-      },
-      "artists": [
-        {
-          "name": "Girls Aloud",
-          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
-        }
-      ],
-      "duration_ms": 224546,
-      "name": "Call The Shots",
-      "url": "https://open.spotify.com/track/5uCVGDHnoBBlsVkTlXIWZ9"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
@@ -569,7 +793,83 @@
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "P.O.P.",
+        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 201397,
+      "name": "Ah THALASSA",
+      "url": "https://open.spotify.com/track/26y4aj2ggWCXEKNqDU3MZQ"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Romanzo Criminale",
+        "url": "https://open.spotify.com/album/1RMU0yKJRr0VG1jUdXx9PN"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "duration_ms": 233009,
+      "name": "Romanzo Criminale",
+      "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Fthina Tricks 2",
+        "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Mia Kali Mera",
+      "url": "https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "\u00c7a Je",
         "url": "https://open.spotify.com/album/4QGt0WuxrUHToQqaAR1tz5"
@@ -585,83 +885,7 @@
       "url": "https://open.spotify.com/track/4K3mX6c0UTrE2IRmlqYGoN"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Tyxero Asteri",
-        "url": "https://open.spotify.com/album/4bhg5GI8NJ13q5iYlHyb9T"
-      },
-      "artists": [
-        {
-          "name": "K. BHTA",
-          "url": "https://open.spotify.com/artist/4PePsLhfeGjPogzjcRcP9l"
-        },
-        {
-          "name": "Giannis Palamidas",
-          "url": "https://open.spotify.com/artist/3DbdBCLYKMNrNrGTe5tlOn"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Tyxero Asteri",
-      "url": "https://open.spotify.com/track/5AvyefDkaRgDajjqbfN8vv"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Nikiastike",
-      "url": "https://open.spotify.com/track/6rMlvuQVyfMYFjjfILi3Jb"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Me Lene Mani",
-        "url": "https://open.spotify.com/album/1EGb6YdddYRERk0zZrn3ft"
-      },
-      "artists": [
-        {
-          "name": "Mani",
-          "url": "https://open.spotify.com/artist/2t6NEGChLyMUnGnW1LupcS"
-        },
-        {
-          "name": "Fi Vita Sigma",
-          "url": "https://open.spotify.com/artist/1tHNXjqv2f4qfAldD1hF5I"
-        },
-        {
-          "name": "Ixodotis",
-          "url": "https://open.spotify.com/artist/2lxAO4k1GdoEMQRbdpboME"
-        }
-      ],
-      "duration_ms": 409407,
-      "name": "Kai Irthe Pali",
-      "url": "https://open.spotify.com/track/1R5MdJm6JiHXjJPxUJ9w4F"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Vorias",
-        "url": "https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        }
-      ],
-      "duration_ms": 189622,
-      "name": "Vorias",
-      "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -693,27 +917,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "1000 Vanilia",
-        "url": "https://open.spotify.com/album/6zsf9IAaxHHE7oZpPvdebU"
-      },
-      "artists": [
-        {
-          "name": "Lefteris Pantazis",
-          "url": "https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q"
-        },
-        {
-          "name": "Master Tempo",
-          "url": "https://open.spotify.com/artist/30zQQlVo7DhPWgFKhrDkcA"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Tzoutzouka",
-      "url": "https://open.spotify.com/track/4dC4jq7dZqcT6BkdRgbwdo"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "TRUE LOVE STORY: Part 1",
         "url": "https://open.spotify.com/album/3EKby9F8OQyOKPZihUiFO5"
@@ -729,227 +933,7 @@
       "url": "https://open.spotify.com/track/0pj5UEo8SZSHlKkmKxURWo"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Mia Kaseta Gia Ton Dromo",
-        "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
-      },
-      "artists": [
-        {
-          "name": "Marina Spanou",
-          "url": "https://open.spotify.com/artist/3CHVx21sE8rj1BnqRHukdz"
-        }
-      ],
-      "duration_ms": 304674,
-      "name": "Ikaria",
-      "url": "https://open.spotify.com/track/0Od1JTAg6xoTl5cQZozNLG"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "\u03a4\u03bf \u03b2\u03af\u03b2\u03bb\u03b9\u03bf \u03c4\u03c9\u03bd \u03c4\u03b5\u03c3\u03c3\u03ac\u03c1\u03c9\u03bd \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03b9\u03ce\u03bd",
-        "url": "https://open.spotify.com/album/0AaBCzVkGFykeMfs0oqjgj"
-      },
-      "artists": [
-        {
-          "name": "\u0392\u03ad\u03b2\u03b7\u03bb\u03bf\u03c2",
-          "url": "https://open.spotify.com/artist/2paECBjEu5OjvT6tr5KQiL"
-        }
-      ],
-      "duration_ms": 194963,
-      "name": "\u0397 \u03bd\u03cd\u03c7\u03c4\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03c0\u03b1\u03c8\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03b6\u03c9 \u03c4\u03b9\u03c2 \u03c3\u03b9\u03c9\u03c0\u03ad\u03c2",
-      "url": "https://open.spotify.com/track/13UWL6uZNoJpGYsoRCiPOE"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Les Kai Me Xeris",
-        "url": "https://open.spotify.com/album/4CkKRnleXl0IWkdH3Q4U2s"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
-        }
-      ],
-      "duration_ms": 232652,
-      "name": "Les Kai Me Xeris",
-      "url": "https://open.spotify.com/track/6shb3xd9CTfRd6VcJXrgvq"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Lekes",
-        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 255430,
-      "name": "Lekes",
-      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Oulala",
-        "url": "https://open.spotify.com/album/72rduWyncTlj80qOdaXEqU"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 169419,
-      "name": "Oulala",
-      "url": "https://open.spotify.com/track/1bPzfHjRXPvoyWaL5ZOmZE"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 201397,
-      "name": "Ah THALASSA",
-      "url": "https://open.spotify.com/track/26y4aj2ggWCXEKNqDU3MZQ"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Thalasses",
-        "url": "https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 252428,
-      "name": "Thalasses",
-      "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "OK!",
-        "url": "https://open.spotify.com/album/6cgXKK8QXHrU0LSubNtyC7"
-      },
-      "artists": [
-        {
-          "name": "RB\u00d8R",
-          "url": "https://open.spotify.com/artist/1FWrDSWQin78IrPIvPEaJr"
-        },
-        {
-          "name": "Andor Gabriel",
-          "url": "https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc"
-        },
-        {
-          "name": "Paakman",
-          "url": "https://open.spotify.com/artist/0EVDssBuNOUkNmFwOxjVxY"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "OK!",
-      "url": "https://open.spotify.com/track/3t6Ntsvnt9jx4LZ6mUX4w6"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Romanzo Criminale",
-        "url": "https://open.spotify.com/album/1RMU0yKJRr0VG1jUdXx9PN"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        }
-      ],
-      "duration_ms": 233009,
-      "name": "Romanzo Criminale",
-      "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Fthina Tricks 2",
-        "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Mia Kali Mera",
-      "url": "https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "Monaxiki Kardia",
-        "url": "https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC"
-      },
-      "artists": [
-        {
-          "name": "Melisses",
-          "url": "https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Monaxiki Kardia",
-      "url": "https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Mexri Telous",
         "url": "https://open.spotify.com/album/0TgTWLCCFaAIjJjUBXsTBK"
@@ -965,39 +949,27 @@
       "url": "https://open.spotify.com/track/5t4ea9v5BSCWNw0aMzUoLd"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
-        "name": "la noia",
-        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
       },
       "artists": [
         {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "la noia",
-      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako"
-      },
-      "artists": [
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o"
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6e2lLFF8WN5gjiRJUku0Kf"
@@ -1017,7 +989,7 @@
       "url": "https://open.spotify.com/track/3E5i4Ys2tHx1WxjvCaVu4K"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "\u0395\u03af\u03bd\u03b1\u03b9",
         "url": "https://open.spotify.com/album/54GZyFUCVJjc3lmSV189XF"
@@ -1033,7 +1005,7 @@
       "url": "https://open.spotify.com/track/53FdOlf66EhgHFJOKyThNz"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Aeroplano",
         "url": "https://open.spotify.com/album/7D5yV6xRLsCGOtPj5Qh6NU"
@@ -1053,23 +1025,7 @@
       "url": "https://open.spotify.com/track/0tEuv2qKpi14UbBWuubUBg"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 172153,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
-    },
-    {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "MEMBERS' CLUB",
         "url": "https://open.spotify.com/album/5afr5sXXBWnxJILVP46zeZ"
@@ -1093,7 +1049,7 @@
       "url": "https://open.spotify.com/track/32mjlY9k5lq3UISyFUGWyb"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "S' Agapao Giati",
         "url": "https://open.spotify.com/album/6DdRDf4kUgTC1D9kKFVTRa"
@@ -1109,7 +1065,23 @@
       "url": "https://open.spotify.com/track/7Geun1wRSkuwyYF4mknenV"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "P.O.P.",
+        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -1129,7 +1101,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/2FRgTjahtyzUQG8A3ZaaDT"
@@ -1153,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
     },
     {
-      "added_at": "2024-08-12 09:02:13",
+      "added_at": "2024-08-19 16:09:53",
       "album": {
         "name": "Mia Kaseta Gia Ton Dromo",
         "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
@@ -1167,6 +1139,22 @@
       "duration_ms": 292478,
       "name": "Taxidi",
       "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
+    },
+    {
+      "added_at": "2024-08-19 16:09:53",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     }
   ],
   "unique_name": "Internet Hits Greece",

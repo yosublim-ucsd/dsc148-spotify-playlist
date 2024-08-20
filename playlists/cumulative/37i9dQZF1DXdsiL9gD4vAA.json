@@ -3039,6 +3039,28 @@
     },
     {
       "album": {
+        "name": "Vo Haseen Raat",
+        "url": "https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v"
+      },
+      "artists": [
+        {
+          "name": "Daboo Malik",
+          "url": "https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1"
+        },
+        {
+          "name": "Sarrika Singh",
+          "url": "https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246836,
+      "name": "Vo Haseen Raat",
+      "url": "https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw"
+    },
+    {
+      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9"
       },

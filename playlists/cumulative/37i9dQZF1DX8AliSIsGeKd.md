@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Oliver Koletzki
 
-4,059 songs - 14 day 16 hr 21 min
+4,060 songs - 14 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [All That Was](https://open.spotify.com/track/1GvYf3m6YvrznSYxUrEI3A) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl), [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp) | [All That Was](https://open.spotify.com/album/1wFgYe7812n3qCUVVn5Qcb) | 3:37 | 2024-05-30 | 2024-06-14 |
 | [All the Music](https://open.spotify.com/track/4UGsSWGkwLR5zH0bQIjuvT) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [All the Music](https://open.spotify.com/album/3UKVqElOfakcctYGhGHQbB) | 4:03 | 2022-07-07 | 2022-07-29 |
 | [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-15 |  |
+| [All You Got To Do](https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn) | 3:06 | 2024-08-19 |  |
 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 | 2023-03-16 | 2023-04-07 |
 | [Allein Allein](https://open.spotify.com/track/2bpHc7nCduKQWJVNqJ4mDj) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Allein Allein](https://open.spotify.com/album/2oLn47kWsw7iYC3NOtNEx2) | 3:41 | 2023-05-11 | 2023-06-02 |
 | [Alles](https://open.spotify.com/track/0jRC8IjHvzRw9zUvgPN71D) | [Sascha Kloeber](https://open.spotify.com/artist/1Rle6CpNbJy2S3nJVTjpNU) | [Alles](https://open.spotify.com/album/6yQ5N7ZUtQlFhf0JAM6Vsg) | 6:53 | 2022-06-23 | 2022-07-08 |
@@ -3866,7 +3867,7 @@
 | [Want You Here](https://open.spotify.com/track/39s1ahnhwEHdUvdzspZRLH) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Want You Here](https://open.spotify.com/album/6OypRioMbiel1MW2kbdTO3) | 6:46 | 2022-09-01 | 2022-09-17 |
 | [War Cry](https://open.spotify.com/track/7KzVtGNDHw5DOh0tPGydfc) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Sasson \(FR\)](https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa) | [War Cry](https://open.spotify.com/album/14h0PZqriAajEyphYPn01a) | 7:08 | 2024-02-22 | 2024-03-15 |
 | [Warehouse](https://open.spotify.com/track/7ceFHXpoGzlXyiyYYvolvm) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [In Memory of Verdansk](https://open.spotify.com/album/6w9xhYxUdzLclZ0jyqevCb) | 4:56 | 2022-08-12 | 2022-09-02 |
-| [Warehouse](https://open.spotify.com/track/3r5mSQcR9nllOy8r5jeH9i) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Warehouse](https://open.spotify.com/album/4r15z12zx9Up4fTK7qJkcS) | 3:47 | 2024-08-08 |  |
+| [Warehouse](https://open.spotify.com/track/3r5mSQcR9nllOy8r5jeH9i) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Warehouse](https://open.spotify.com/album/4r15z12zx9Up4fTK7qJkcS) | 3:47 | 2024-08-08 | 2024-08-20 |
 | [Warmbass](https://open.spotify.com/track/1cLFbw67GA75uVfjjEmQ5l) | [Maksim Dark](https://open.spotify.com/artist/2dbxPQ9Ri4dvE6tuLp1jOu) | [Warmbass](https://open.spotify.com/album/6R6Ptbv5PDg7a2WRmJ9SEv) | 6:48 | 2023-09-15 | 2023-10-06 |
 | [Warp](https://open.spotify.com/track/6NXF6YSHCVmhEgvEUQAchL) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Lighthouse](https://open.spotify.com/album/383b21bv16Pn9XzTadwTEO) | 5:30 | 2024-02-01 | 2024-02-23 |
 | [Warp Drive](https://open.spotify.com/track/7dhqdiP0JFceF1xmBt2zQN) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 5:22 | 2023-04-27 | 2023-05-12 |

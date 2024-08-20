@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "\u304c\u3089\u304f\u305f - JUNK",
+        "url": "https://open.spotify.com/album/3wIUPMiiPL8foXfJjddZvP"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "\u304c\u3089\u304f\u305f - JUNK",
+      "url": "https://open.spotify.com/track/3KBlutfYq0kxQWl2P9t4Ht"
+    },
+    {
+      "album": {
         "name": "Flamingo / TEENAGE RIOT",
         "url": "https://open.spotify.com/album/7gYvomT3GW4RiyPXowqzI1"
       },

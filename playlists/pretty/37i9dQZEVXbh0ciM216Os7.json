@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD8QTOqOcGz0VynUtIBNpP0",
+  "snapshot_id": "AAAAAAAAAAC5+GEahRFVP6LA5Vdvf3fb",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -119,6 +119,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Mother & Gun",
         "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
       },
@@ -159,26 +179,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Wrong Thing (with Kash'd Out)",
-        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        },
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Wrong Thing (with Kash'd Out)",
-      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Avon Barksdale",
         "url": "https://open.spotify.com/album/4SILFZQqkTeZjJ5sdw5a1r"
       },
@@ -199,6 +199,26 @@
       "duration_ms": 170370,
       "name": "Avon Barksdale",
       "url": "https://open.spotify.com/track/0yKHprnaS33HwVbqtypi9u"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Wrong Thing (with Kash'd Out)",
+        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        },
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Wrong Thing (with Kash'd Out)",
+      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -251,22 +271,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Bad Boys 2",
-        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+        "name": "Bob Marley (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
         },
         {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 133670,
-      "name": "Bad Boys 2",
-      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+      "duration_ms": 108335,
+      "name": "Bob Marley (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -315,22 +335,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Bob Marley (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
+        "name": "A Ballet Through Mud",
+        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
       },
       "artists": [
         {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Christopher Dragon",
+          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
         }
       ],
-      "duration_ms": 108335,
-      "name": "Bob Marley (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/3C7d01iaveVr4HmVygcWRR"
+      "duration_ms": 269964,
+      "name": "A Ballet Through Mud",
+      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -367,28 +387,8 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "A Ballet Through Mud",
-        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
-      },
-      "artists": [
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Christopher Dragon",
-          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
-        }
-      ],
-      "duration_ms": 269964,
-      "name": "A Ballet Through Mud",
-      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+        "url": "https://open.spotify.com/album/5JNF1AS6WH5J7yUXmU4Syi"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 163155,
+      "duration_ms": 167213,
       "name": "FIELD TRIP",
-      "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
+      "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "The Punishment (Lockdown)",
+        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 195220,
+      "name": "The Punishment (Lockdown)",
+      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 185103,
       "name": "NOBODY KNOWS",
       "url": "https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 195220,
-      "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
     },
     {
       "added_at": "2024-08-16 04:00:00",

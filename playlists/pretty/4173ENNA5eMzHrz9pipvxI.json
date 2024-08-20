@@ -1,15 +1,87 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: David Guetta x Afrojack",
-  "num_followers": 120176,
+  "num_followers": 120173,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAdt/5S8yb8XFyp7lJVz6TOrQT83WFc",
+  "snapshot_id": "AAAdxc6rJ4WT03dhYMLlmKH1YfzFT9Pv",
   "tracks": [
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Light It Up (feat. MC Ambush)",
+        "url": "https://open.spotify.com/album/6IDFsFFsCXzGp77ELU6zbP"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "MC Ambush",
+          "url": "https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "Light It Up (feat. MC Ambush)",
+      "url": "https://open.spotify.com/track/2nwmp06W0pxsQltnsW4ElE"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Every Time I Touch You",
+        "url": "https://open.spotify.com/album/6rvFCkF8mibsbv9LlVv7DF"
+      },
+      "artists": [
+        {
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+        },
+        {
+          "name": "Distrion",
+          "url": "https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Every Time I Touch You",
+      "url": "https://open.spotify.com/track/2aSXJlYd1FPCFNAM4h3v9k"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Hey Now (feat. CLO)",
+        "url": "https://open.spotify.com/album/3rGpJArNUELjz9QoozyokD"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        },
+        {
+          "name": "CLO",
+          "url": "https://open.spotify.com/artist/5RRbbXTuyvhE4oqhWbATGK"
+        }
+      ],
+      "duration_ms": 173225,
+      "name": "Hey Now (feat. CLO)",
+      "url": "https://open.spotify.com/track/2EKTFaBv4bBFWWa4MnZ6zP"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "From Down Under",
         "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
@@ -33,7 +105,51 @@
       "url": "https://open.spotify.com/track/1NOZKVCCAHa61neGa8pPUX"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/09WB6ev1KyKXszq0kCvK9q"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/78GFKnGSRPUIKG1huKpIyh"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 148551,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "Crush Me Down (You Spin Me Around) [Hard Edit]",
         "url": "https://open.spotify.com/album/5vPkT7NvfFm1N7p3KrAb31"
@@ -57,7 +173,31 @@
       "url": "https://open.spotify.com/track/23g2dvuaCjx1HhnjbjhEan"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "What You've Done To Me (feat. Bemend\u00e9) [Drumsheds Version]",
+        "url": "https://open.spotify.com/album/1brcjYqkow1MuVI1WTe6P8"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Bemend\u00e9",
+          "url": "https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq"
+        }
+      ],
+      "duration_ms": 224072,
+      "name": "What You've Done To Me (feat. Bemend\u00e9) [Drumsheds Version]",
+      "url": "https://open.spotify.com/track/6y3SZ1tLnVo5DgeAfhlFGn"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "Kikuyu",
         "url": "https://open.spotify.com/album/6AUWyJYHCBr5Z5T3N0aA4a"
@@ -73,7 +213,31 @@
       "url": "https://open.spotify.com/track/3IQuYD2lrVj8NjAXCfU1TL"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
+      "album": {
+        "name": "Hey Now (feat. CLO)",
+        "url": "https://open.spotify.com/album/1mdO7UeEj5WuZRX4kATBCq"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        },
+        {
+          "name": "CLO",
+          "url": "https://open.spotify.com/artist/5RRbbXTuyvhE4oqhWbATGK"
+        }
+      ],
+      "duration_ms": 173225,
+      "name": "Hey Now (feat. CLO)",
+      "url": "https://open.spotify.com/track/1QxnZGGh4Wx7laKkfVW6vF"
+    },
+    {
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "From Down Under",
         "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
@@ -93,7 +257,7 @@
       "url": "https://open.spotify.com/track/46stBt1QstaHewaL50xfDt"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "Calinda (2024)",
         "url": "https://open.spotify.com/album/6YdgsoXAVcLDH0a52kAAp4"
@@ -113,7 +277,7 @@
       "url": "https://open.spotify.com/track/4Mm2qNujMVgcfOEceVnPTN"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "From Down Under",
         "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
@@ -129,7 +293,7 @@
       "url": "https://open.spotify.com/track/4aPR4z0d832jAv1233pLzZ"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "Favorite Mistakes",
         "url": "https://open.spotify.com/album/7Mghoh9CfuqNWifDzfWmF7"
@@ -153,7 +317,7 @@
       "url": "https://open.spotify.com/track/4nTa22B8sDDzurR1Dm5yz7"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "From Down Under",
         "url": "https://open.spotify.com/album/41PDJjCH26FBJ4a1HEDzyW"
@@ -173,7 +337,7 @@
       "url": "https://open.spotify.com/track/573QarJrvT8LynoeCzAg7R"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "What's A Girl To Do",
         "url": "https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC"
@@ -189,7 +353,7 @@
       "url": "https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa"
     },
     {
-      "added_at": "2024-08-08 23:00:56",
+      "added_at": "2024-08-19 10:38:09",
       "album": {
         "name": "Mosika",
         "url": "https://open.spotify.com/album/6XJO3ByrRT51pfXEPJ6jvR"

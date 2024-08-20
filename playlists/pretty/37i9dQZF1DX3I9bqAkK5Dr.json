@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33247,
+  "num_followers": 33250,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrtGagAAAAC1ZUWdOao8eXt6jDWyaufU",
+  "snapshot_id": "ZsLPJQAAAAAxkAPukeaZKDo6eymxbsGi",
   "tracks": [
     {
       "added_at": "2024-07-19 14:43:57",
@@ -295,6 +295,42 @@
       "duration_ms": 220092,
       "name": "Ennenni Chitralu Chesave",
       "url": "https://open.spotify.com/track/5W4Wm1O3ShKn6uBzskh4TE"
+    },
+    {
+      "added_at": "2024-08-19 04:50:45",
+      "album": {
+        "name": "Theera - Telugu",
+        "url": "https://open.spotify.com/album/2W721omTLoCaOwQgx1g7Zj"
+      },
+      "artists": [
+        {
+          "name": "Sathya Narayanan",
+          "url": "https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt"
+        },
+        {
+          "name": "Sathyajit Ravi",
+          "url": "https://open.spotify.com/artist/7bm8XHSxyyBCuYgLUr8AvW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Theera - Telugu",
+      "url": "https://open.spotify.com/track/4I4Xy1cYW1pzQwaFkrPEnO"
+    },
+    {
+      "added_at": "2024-08-19 04:50:45",
+      "album": {
+        "name": "Soul Saga",
+        "url": "https://open.spotify.com/album/18b6W0d45fexeM3G2ilGy1"
+      },
+      "artists": [
+        {
+          "name": "Hymath Mohammed",
+          "url": "https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV"
+        }
+      ],
+      "duration_ms": 223202,
+      "name": "Soul Saga",
+      "url": "https://open.spotify.com/track/6K1q7Q70tHMSREEDd76DUR"
     },
     {
       "added_at": "2024-07-19 14:43:57",
@@ -649,30 +685,6 @@
       "url": "https://open.spotify.com/track/615Prn1ffC6mqJOLPrzWpg"
     },
     {
-      "added_at": "2024-03-17 10:15:51",
-      "album": {
-        "name": "Raagala Kougili",
-        "url": "https://open.spotify.com/album/5ToMhSEybdY3EoYy3YMdZC"
-      },
-      "artists": [
-        {
-          "name": "Pavan Cherukumilli",
-          "url": "https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo"
-        },
-        {
-          "name": "Saicharan Bhaskaruni",
-          "url": "https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU"
-        },
-        {
-          "name": "Harini Ivaturi",
-          "url": "https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Raagala Kougili",
-      "url": "https://open.spotify.com/track/0FEVJKn7Vvw1f822QN1ZSw"
-    },
-    {
       "added_at": "2024-03-05 09:13:45",
       "album": {
         "name": "Telusa Nuvvevaro",
@@ -935,22 +947,6 @@
       "duration_ms": 393333,
       "name": "Kashmir",
       "url": "https://open.spotify.com/track/2oXo8C2elci0xz1eDRGeIM"
-    },
-    {
-      "added_at": "2024-01-18 12:44:48",
-      "album": {
-        "name": "Sandela Kusuni",
-        "url": "https://open.spotify.com/album/3FtLruzrqugjfqV4xX6VTr"
-      },
-      "artists": [
-        {
-          "name": "Sunitha Upadrasta",
-          "url": "https://open.spotify.com/artist/3kAWPYJkfMsEY15eG83QrE"
-        }
-      ],
-      "duration_ms": 283595,
-      "name": "Sandela Kusuni",
-      "url": "https://open.spotify.com/track/5yg0VylKGCJhL2jIu3D0Oq"
     },
     {
       "added_at": "2023-10-13 11:05:11",

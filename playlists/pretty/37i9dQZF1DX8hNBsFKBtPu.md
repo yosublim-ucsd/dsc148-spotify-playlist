@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Mina Okabe på coveret
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,880 likes - 107 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,874 likes - 107 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

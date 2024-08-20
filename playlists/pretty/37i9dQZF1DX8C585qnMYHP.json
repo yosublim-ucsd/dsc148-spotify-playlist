@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Malcriada on cover. Artwork by Thami Nabil",
-  "num_followers": 169389,
+  "num_followers": 169467,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "The Big Man Upstairs",
-        "url": "https://open.spotify.com/album/1EYvutIwZCqk42XM9dCDt7"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 284747,
-      "name": "The Big Man Upstairs",
-      "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
         "name": "Bakteria",
         "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 224258,
       "name": "Bakteria",
       "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
+    },
+    {
+      "added_at": "2024-07-03 04:00:00",
+      "album": {
+        "name": "The Big Man Upstairs",
+        "url": "https://open.spotify.com/album/1EYvutIwZCqk42XM9dCDt7"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 284747,
+      "name": "The Big Man Upstairs",
+      "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Lambda",
-        "url": "https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn"
-      },
-      "artists": [
-        {
-          "name": "ZULI",
-          "url": "https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Release +\u03d5",
-      "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
-    },
-    {
       "added_at": "2024-07-03 04:00:00",
       "album": {
         "name": "maybe",
@@ -991,6 +975,22 @@
       "duration_ms": 239786,
       "name": "Al\u00e9m do tempo",
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Lambda",
+        "url": "https://open.spotify.com/album/7uzOcKlkHCj0b1hn72UGUn"
+      },
+      "artists": [
+        {
+          "name": "ZULI",
+          "url": "https://open.spotify.com/artist/5Kur13kkU4pOoNFAE8K0YF"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Release +\u03d5",
+      "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "As You Sleep By My Feet",
+        "url": "https://open.spotify.com/album/3UkGxj2Q3zAK4DkZMX9f2N"
+      },
+      "artists": [
+        {
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
+        }
+      ],
+      "duration_ms": 225528,
+      "name": "As You Sleep By My Feet",
+      "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Mediterranea",
@@ -1075,22 +1091,6 @@
       "duration_ms": 425454,
       "name": "Mercurio",
       "url": "https://open.spotify.com/track/0pTUnJy3AqAKHtYXc2fMWv"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "As You Sleep By My Feet",
-        "url": "https://open.spotify.com/album/3UkGxj2Q3zAK4DkZMX9f2N"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 225528,
-      "name": "As You Sleep By My Feet",
-      "url": "https://open.spotify.com/track/4zbHGbSafBOqXBlgjxnIz2"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -1157,22 +1157,6 @@
       "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Voulez Vous",
-      "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
-    },
-    {
       "added_at": "2024-04-24 04:00:00",
       "album": {
         "name": "Bizou",
@@ -1189,20 +1173,20 @@
       "url": "https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
         }
       ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+      "duration_ms": 235853,
+      "name": "Voulez Vous",
+      "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1219,6 +1203,22 @@
       "duration_ms": 256359,
       "name": "Spiral in Houston",
       "url": "https://open.spotify.com/track/7tzDwhlzkamwtbHFXLzmOV"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/7FgCK2VgY5G2axORySMNx7"
     },
     {
-      "added_at": "2024-03-20 13:59:17",
-      "album": {
-        "name": "L4TA",
-        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
-      },
-      "artists": [
-        {
-          "name": "Stemlines",
-          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
-        }
-      ],
-      "duration_ms": 68110,
-      "name": "wearywatergod",
-      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
-    },
-    {
       "added_at": "2024-05-08 03:43:46",
       "album": {
         "name": "Derrwut",
@@ -1319,6 +1303,22 @@
       "duration_ms": 161052,
       "name": "Derrwut",
       "url": "https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB"
+    },
+    {
+      "added_at": "2024-03-20 13:59:17",
+      "album": {
+        "name": "L4TA",
+        "url": "https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc"
+      },
+      "artists": [
+        {
+          "name": "Stemlines",
+          "url": "https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX"
+        }
+      ],
+      "duration_ms": 68110,
+      "name": "wearywatergod",
+      "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1353,20 +1353,20 @@
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
       },
       "artists": [
         {
-          "name": "\u6b66\u7530\u7406\u6c99",
-          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
         }
       ],
-      "duration_ms": 257609,
-      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
-      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
+      "duration_ms": 281374,
+      "name": "And There Is Us",
+      "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
       "added_at": "2024-05-29 02:04:24",
@@ -1385,20 +1385,20 @@
       "url": "https://open.spotify.com/track/6y73duDBzv8EjPnXotDTAK"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Lucha Libre",
-        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+        "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+        "url": "https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z"
       },
       "artists": [
         {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+          "name": "\u6b66\u7530\u7406\u6c99",
+          "url": "https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697"
         }
       ],
-      "duration_ms": 281374,
-      "name": "And There Is Us",
-      "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
+      "duration_ms": 257609,
+      "name": "\u30e6\u30e1\u30df\u30eb\u30d2\u30c4\u30b8",
+      "url": "https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
       "added_at": "2024-05-29 02:04:24",
       "album": {
         "name": "\u305d\u306e\u524d\u591c",
@@ -1479,6 +1463,22 @@
       "duration_ms": 136905,
       "name": "clarinette de nuit",
       "url": "https://open.spotify.com/track/22wysfy62hRd2cH3DYvkSa"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -1589,6 +1589,22 @@
       "url": "https://open.spotify.com/track/5m9aliUs9oOoUlII8rbv6U"
     },
     {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Unknown Fate",
+        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
+      },
+      "artists": [
+        {
+          "name": "UF",
+          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Unknown Fate",
+      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "PISO (Originals)",
@@ -1607,22 +1623,6 @@
       "duration_ms": 231959,
       "name": "Arrasa Goza",
       "url": "https://open.spotify.com/track/39coyagUm7jIP67222iSkn"
-    },
-    {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Unknown Fate",
-        "url": "https://open.spotify.com/album/2RL6cLU8jlrqJbuRlxlLao"
-      },
-      "artists": [
-        {
-          "name": "UF",
-          "url": "https://open.spotify.com/artist/4ZJC9cQW6rrinYxtHkyajd"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Unknown Fate",
-      "url": "https://open.spotify.com/track/3RREDnjMKyXtH5dVwhlwHm"
     },
     {
       "added_at": "2024-07-17 04:00:00",

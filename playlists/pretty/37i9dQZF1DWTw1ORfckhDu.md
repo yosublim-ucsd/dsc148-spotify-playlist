@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jami Faltin ja KERZA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,246 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,270 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 8 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 |
 | 9 | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5) | 2:25 |
 | 10 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 |
-| 11 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 |
-| 12 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 |
+| 11 | [Sirkus](https://open.spotify.com/track/0Ekrxw3lGOi3upnMTH90VY) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Sirkus](https://open.spotify.com/album/3ncKZQQaLP3Ikw1vpIX24F) | 2:52 |
+| 12 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 |
 | 13 | [Stunttaa](https://open.spotify.com/track/3pHedpfRhjtt6Adzmu2kpO) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Stunttaa](https://open.spotify.com/album/4VnQeKI8vqpPcdxTedJFgJ) | 2:58 |
 | 14 | [Italia](https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944) | [Italia](https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT) | 3:13 |
 | 15 | [Showtime \(feat\. Turisti\)](https://open.spotify.com/track/3cjYY03q876FzLDCDi8IKf) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Showtime \(feat\. Turisti\)](https://open.spotify.com/album/4ZITEFlZ7rQvdAA3jYLMkQ) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 |
 | 50 | [Kui sul on mun swag?](https://open.spotify.com/track/0MgPdA0sQa4QkbOBjY6zbJ) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE), [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Laatikko EP](https://open.spotify.com/album/4Sfu4sUyIaJhvrToINwZkH) | 2:41 |
 
-Snapshot ID: `ZsHHxQAAAACs9UYIkGLNzPojFC7T4vDv`
+Snapshot ID: `ZsMtKAAAAADCWkDX0udlXT6vVZgbe8PM`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Shenseea",
+  "description": "Pop music driving the current, every week.  Cover: d4vd",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -56,6 +56,28 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
+    },
+    {
+      "album": {
+        "name": "A Summer Song",
+        "url": "https://open.spotify.com/album/4qWMuGqkW2q80sLZhrk4Uv"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        },
+        {
+          "name": "BigGucci Dame",
+          "url": "https://open.spotify.com/artist/32kq0Nrr8X0KyuKxzzBDmG"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100096,
+      "name": "A Summer Song",
+      "url": "https://open.spotify.com/track/2cGW0E4CKgoskIL6ydoaol"
     },
     {
       "album": {

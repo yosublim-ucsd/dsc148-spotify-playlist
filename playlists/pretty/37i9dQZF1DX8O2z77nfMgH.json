@@ -1,13 +1,65 @@
 {
   "description": "Lanzamientos de la semana. Lo nuevo de toda Iberoam\u00e9rica. Belinda en portada.",
-  "num_followers": 883631,
+  "num_followers": 883610,
   "original_name": "Novedades Viernes Latinoam\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7q4AAAAACBtBzZFXzj+fPWWhnz3xjQ",
+  "snapshot_id": "ZsOeogAAAABBfx1LJzL33F53oaRLczLO",
   "tracks": [
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "OTRA NOCHE",
+        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "OTRA NOCHE",
+      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Anto-Nio",
+        "url": "https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/3UPBQKbMkHhXTKHFwvvCAx"
+    },
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
@@ -47,22 +99,38 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/014sL3c9p52nmazlOZYInd"
+        "name": "PARARA",
+        "url": "https://open.spotify.com/album/2O3i39NoIV17aSXLJk3eSt"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/5cAKmfCaqnYUnXqvTK8RxU"
+      "duration_ms": 196285,
+      "name": "PARARA",
+      "url": "https://open.spotify.com/track/3jlm4PFYTr8ct4HcZU0O5M"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -83,6 +151,94 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Morena - Bundle",
+        "url": "https://open.spotify.com/album/2j3vz3fufZdmnygXvRMNlk"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 236162,
+      "name": "Morena - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2pgvLK5eEKJwcVmWObF4LE"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/014sL3c9p52nmazlOZYInd"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 170434,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/5cAKmfCaqnYUnXqvTK8RxU"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "MUJER\u00d3N",
+        "url": "https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "MUJER\u00d3N",
+      "url": "https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
+        "name": "Celda 4",
+        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "duration_ms": 176415,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/3JIj2lM5BzQpDoXcLnE3z5"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -119,34 +275,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+        "name": "Tusi Pop",
+        "url": "https://open.spotify.com/album/5mYKSg9AJwlqhHuyUPRhL4"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+      "duration_ms": 152874,
+      "name": "Tusi Pop",
+      "url": "https://open.spotify.com/track/6CHPOaW2sAoe9pJym3CRyw"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -183,58 +327,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "OTRA NOCHE",
-        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "OTRA NOCHE",
-      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "Anto-Nio",
-        "url": "https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/3UPBQKbMkHhXTKHFwvvCAx"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Morro Dolido",
         "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
       },
@@ -251,66 +343,6 @@
       "duration_ms": 194560,
       "name": "Morro Dolido",
       "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "Celda 4",
-        "url": "https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW"
-      },
-      "artists": [
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        }
-      ],
-      "duration_ms": 176415,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/3JIj2lM5BzQpDoXcLnE3z5"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "DINAMITA",
-        "url": "https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS"
-      },
-      "artists": [
-        {
-          "name": "Alexia Mariel",
-          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 163635,
-      "name": "DINAMITA",
-      "url": "https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "PARARA",
-        "url": "https://open.spotify.com/album/2O3i39NoIV17aSXLJk3eSt"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        }
-      ],
-      "duration_ms": 196285,
-      "name": "PARARA",
-      "url": "https://open.spotify.com/track/3jlm4PFYTr8ct4HcZU0O5M"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -379,6 +411,26 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "Amor De Tu Vida",
+        "url": "https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "FineSound Music",
+          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
+        }
+      ],
+      "duration_ms": 171032,
+      "name": "Amor De Tu Vida",
+      "url": "https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "Fresitas",
         "url": "https://open.spotify.com/album/5BtmWRGZrosLed8mEmxCLW"
       },
@@ -395,22 +447,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Tusi Pop",
-        "url": "https://open.spotify.com/album/5mYKSg9AJwlqhHuyUPRhL4"
+        "name": "DINAMITA",
+        "url": "https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS"
       },
       "artists": [
         {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
         },
         {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
         }
       ],
-      "duration_ms": 152874,
-      "name": "Tusi Pop",
-      "url": "https://open.spotify.com/track/6CHPOaW2sAoe9pJym3CRyw"
+      "duration_ms": 163635,
+      "name": "DINAMITA",
+      "url": "https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -659,22 +711,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "MUJER\u00d3N",
-        "url": "https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "MUJER\u00d3N",
-      "url": "https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "The Bed, The Room, The Rain and You",
         "url": "https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5"
       },
@@ -751,22 +787,6 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
-        "name": "Morena - Bundle",
-        "url": "https://open.spotify.com/album/2j3vz3fufZdmnygXvRMNlk"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 236162,
-      "name": "Morena - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/2pgvLK5eEKJwcVmWObF4LE"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
         "name": "Rock and Roll",
         "url": "https://open.spotify.com/album/7gS9DOjM9O0KUggDqksgG2"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 175000,
       "name": "La Llamada",
       "url": "https://open.spotify.com/track/4vwSnkU49dha68do07dNXp"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "Amor De Tu Vida",
-        "url": "https://open.spotify.com/album/6B8mzpVckUHYhhDREGH83e"
-      },
-      "artists": [
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        },
-        {
-          "name": "FineSound Music",
-          "url": "https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh"
-        }
-      ],
-      "duration_ms": 171032,
-      "name": "Amor De Tu Vida",
-      "url": "https://open.spotify.com/track/03QLTFZF6eOocO2k5Hr46b"
     },
     {
       "added_at": "2024-08-16 06:00:00",

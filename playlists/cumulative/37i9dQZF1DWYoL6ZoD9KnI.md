@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-104 songs - 7 hr 1 min
+105 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [TEENAGE RIOT](https://open.spotify.com/track/6cD2e63vpaykcU1aFS0z8e) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 3:45 | 2024-04-08 |  |
 | [vivi](https://open.spotify.com/track/3izOZelMZaCC0MMabvssCw) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 4:30 | 2022-11-22 |  |
 | [あめふり婦人](https://open.spotify.com/track/4ih8ybOwn5Mfmu0EY6THjr) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 2:59 | 2022-11-22 |  |
+| [がらくた \- JUNK](https://open.spotify.com/track/3KBlutfYq0kxQWl2P9t4Ht) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [がらくた \- JUNK](https://open.spotify.com/album/3wIUPMiiPL8foXfJjddZvP) | 3:57 | 2024-08-19 |  |
 | [ごめんね](https://open.spotify.com/track/01bXNWuPK6WGJBMEm5gGL0) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Flamingo / TEENAGE RIOT](https://open.spotify.com/album/7gYvomT3GW4RiyPXowqzI1) | 3:31 | 2024-04-08 |  |
 | [ごめんね](https://open.spotify.com/track/4dvRQjQCOdtEaYH86BEs36) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Flamingo / TEENAGE RIOT](https://open.spotify.com/album/4OaItizwUJOXbPgr7bBSSO) | 3:31 | 2022-11-22 | 2024-04-19 |
 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-04-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,300 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,377 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 48 | [Say](https://open.spotify.com/track/41O2JZyFZlRq5yko5nzjBD) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Say](https://open.spotify.com/album/0vIwbOMkRUnDXg9hXD693d) | 3:01 |
 | 49 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 50 | [Freedom 2024](https://open.spotify.com/track/3g3wivIMksmnO0k4Hy2aSn) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Freedom 2024](https://open.spotify.com/album/2xCpkjYMEJQ2dFHxl3zOsI) | 2:41 |
-| 51 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 |
-| 52 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 |
+| 51 | [Highest Love](https://open.spotify.com/track/0NLasZQOlKBThbVA5XPbmI) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [LANKS](https://open.spotify.com/artist/6f5yObGSpFj9eJL55GBzrb) | [Highest Love](https://open.spotify.com/album/4JM3f6tYI7acJRy0bwFv5u) | 4:57 |
+| 52 | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/track/4EnqqwxwKavuv0mQMMgFE5) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Stolen Glances \(feat\. Låpsley\)](https://open.spotify.com/album/5DObus73yw027Z2SM972b3) | 3:08 |
 | 53 | [You're Not Alone](https://open.spotify.com/track/7Ebf6mGvStX8TRTJCaC2vB) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [You're Not Alone](https://open.spotify.com/album/7sUT01qCXPckucWAUpJdR2) | 4:10 |
 | 54 | [Ice Moon](https://open.spotify.com/track/1Vv4jqn3EZZw0BThJqjhJD) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Ice Moon](https://open.spotify.com/album/4ZFwY8augL822xcvrf0LL2) | 2:34 |
 | 55 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 |

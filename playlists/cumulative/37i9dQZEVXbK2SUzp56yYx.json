@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 165600,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -1682,6 +1682,28 @@
       "duration_ms": 237093,
       "name": "Est-ce que tu m'aimes ? - Pilule bleue",
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
+    },
+    {
+      "album": {
+        "name": "EU SOU U FUNKY BEAR",
+        "url": "https://open.spotify.com/album/6iy47QIszRRoTXUxHV0gjZ"
+      },
+      "artists": [
+        {
+          "name": "DJ JBK",
+          "url": "https://open.spotify.com/artist/6ZFmw7nvQsYSlI3aVanS00"
+        },
+        {
+          "name": "DJ Ritmo55",
+          "url": "https://open.spotify.com/artist/1IiGoWBzlPAtb1tuN1ux1E"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51857,
+      "name": "EU SOU U FUNKY BEAR",
+      "url": "https://open.spotify.com/track/1WIRB0fRRWJwO4vKqLyvp6"
     },
     {
       "album": {
@@ -4234,7 +4256,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 80754,
       "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
       "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
@@ -5888,7 +5910,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 191626,
       "name": "SLASH (From Deadpool & Wolverine )",
       "url": "https://open.spotify.com/track/4vzgKCxeHecT98TgQQN0qM"
@@ -5906,7 +5928,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 191626,
       "name": "SLASH (From \u201cDeadpool & Wolverine\u201d)",
       "url": "https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT"
@@ -7134,7 +7156,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
@@ -10586,7 +10608,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 175863,
       "name": "\u041d\u0435 \u043d\u0430\u0431\u0435\u0440\u0443",
       "url": "https://open.spotify.com/track/7uaRbZplFGvy6NhSJAaUBY"
@@ -10832,7 +10854,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 95625,
       "name": "\u041e\u0431\u043e\u0436\u0430\u044e \u043a\u0430\u0439\u0444\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0gOXDu9DXKUErfkBTaRcNb"

@@ -1,6 +1,6 @@
 {
   "description": "metalcore at its best. Cover: Fit For A King",
-  "num_followers": 931677,
+  "num_followers": 931708,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 245947,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Nightmare (The Devil)",
         "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 201110,
       "name": "Nightmare (The Devil)",
       "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 245947,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Creature",
-        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
-      },
-      "artists": [
-        {
-          "name": "LANDMVRKS",
-          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
-        }
-      ],
-      "duration_ms": 225278,
-      "name": "Creature",
-      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Architect (feat. Currents)",
         "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 246773,
       "name": "Architect (feat. Currents)",
       "url": "https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Creature",
+        "url": "https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi"
+      },
+      "artists": [
+        {
+          "name": "LANDMVRKS",
+          "url": "https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6"
+        }
+      ],
+      "duration_ms": 225278,
+      "name": "Creature",
+      "url": "https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Meat & Greet",
-        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
       },
       "artists": [
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
         }
       ],
-      "duration_ms": 210559,
-      "name": "Meat & Greet",
-      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+        "name": "Meat & Greet",
+        "url": "https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp"
       },
       "artists": [
         {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+      "duration_ms": 210559,
+      "name": "Meat & Greet",
+      "url": "https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Villain Arc",
-        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 219330,
-      "name": "Villain Arc",
-      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Villain Arc",
+        "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 219330,
+      "name": "Villain Arc",
+      "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 219759,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Darker Colors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
       },
@@ -1019,18 +1003,34 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "CURE",
-        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5gjdJGvhsqHk1kI9rTTnhV"
       },
       "artists": [
         {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
         }
       ],
-      "duration_ms": 247573,
-      "name": "Slow Sour Bleed",
-      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
+      "duration_ms": 219759,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/6v9xDRtGAWrGO4ceRPadoo"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Needle Eye",
+        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
+      },
+      "artists": [
+        {
+          "name": "Colorblind",
+          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+        }
+      ],
+      "duration_ms": 169518,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Needle Eye",
-        "url": "https://open.spotify.com/album/0KLkR2sswQ1WaUzkTXmFvJ"
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
       },
       "artists": [
         {
-          "name": "Colorblind",
-          "url": "https://open.spotify.com/artist/3kSDOw6bEMSStOjqLR2kVX"
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
         }
       ],
-      "duration_ms": 169518,
-      "name": "Needle Eye",
-      "url": "https://open.spotify.com/track/1OitN2wVDX65Ypmylq6cmp"
+      "duration_ms": 247573,
+      "name": "Slow Sour Bleed",
+      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "XOXO (feat. From Ashes to New)",
-        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        },
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 173180,
-      "name": "XOXO (feat. From Ashes to New)",
-      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Endless Hollow",
         "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
       },
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "XOXO (feat. From Ashes to New)",
+        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 173180,
+      "name": "XOXO (feat. From Ashes to New)",
+      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "Abyss Pt I",
         "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Blood For Blood",
-        "url": "https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb"
-      },
-      "artists": [
-        {
-          "name": "Void Of Vision",
-          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Blood For Blood",
-      "url": "https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Invisible Rain",
         "url": "https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 159285,
       "name": "Invisible Rain",
       "url": "https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Blood For Blood",
+        "url": "https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb"
+      },
+      "artists": [
+        {
+          "name": "Void Of Vision",
+          "url": "https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Blood For Blood",
+      "url": "https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 204112,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "Finger",
         "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
       },
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+        "name": "Nefarious",
+        "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
       },
       "artists": [
         {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+          "name": "Monuments",
+          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
         }
       ],
-      "duration_ms": 204112,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
+      "duration_ms": 251722,
+      "name": "Nefarious",
+      "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1399,22 +1415,6 @@
       "duration_ms": 245680,
       "name": "Remnant",
       "url": "https://open.spotify.com/track/0OHz95lQ56KTgqAME5GblU"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Nefarious",
-        "url": "https://open.spotify.com/album/68g2t1UpqqHUPzYJzeGhZt"
-      },
-      "artists": [
-        {
-          "name": "Monuments",
-          "url": "https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77"
-        }
-      ],
-      "duration_ms": 251722,
-      "name": "Nefarious",
-      "url": "https://open.spotify.com/track/36sawGMYzK5ZMcW0mNtuFr"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
-      },
-      "artists": [
-        {
-          "name": "In Hearts Wake",
-          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
-        },
-        {
-          "name": "Winston McCall",
-          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
-      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "The Fear of God",
         "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 243500,
       "name": "The Last Son",
       "url": "https://open.spotify.com/track/25HvoVQ5AylQIYlFamVwV1"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+        "url": "https://open.spotify.com/album/1IbJHLXEZFflfhFkGlgRAD"
+      },
+      "artists": [
+        {
+          "name": "In Hearts Wake",
+          "url": "https://open.spotify.com/artist/30BDCIM0IdglDaLzvCYd0N"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "The Flood (\u01dd\u0254\u1d09\u0287sn\u027e)",
+      "url": "https://open.spotify.com/track/5CxohnOVnE9zJPDgkHaD7C"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
+      },
+      "artists": [
+        {
+          "name": "Advents",
+          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
+        }
+      ],
+      "duration_ms": 226027,
+      "name": "Liminal",
+      "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "H.A.T.E.",
         "url": "https://open.spotify.com/album/7muikhRwDcQo193StbnBVr"
       },
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/3GNcQlnhJl4TDH5E8QMj7N"
-      },
-      "artists": [
-        {
-          "name": "Advents",
-          "url": "https://open.spotify.com/artist/4uRiS36Rkfo2N0QMoBaYes"
-        }
-      ],
-      "duration_ms": 226027,
-      "name": "Liminal",
-      "url": "https://open.spotify.com/track/6DOLZruEqao3kuRQJrh6DU"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Castle In The Sky",
-        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
-      },
-      "artists": [
-        {
-          "name": "Within The Ruins",
-          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
-        }
-      ],
-      "duration_ms": 304500,
-      "name": "Castle In The Sky",
-      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Castle In The Sky",
+        "url": "https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 304500,
+      "name": "Castle In The Sky",
+      "url": "https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1811,6 +1811,38 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
+      },
+      "artists": [
+        {
+          "name": "Take The Name",
+          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
+        }
+      ],
+      "duration_ms": 217285,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
+      },
+      "artists": [
+        {
+          "name": "Set for Tomorrow",
+          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
         "name": "I Hope You Choke",
         "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
       },
@@ -1855,38 +1887,6 @@
       "duration_ms": 210880,
       "name": "The Welcome Party",
       "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4Lg1DKWKRSRKe4y4ooIqjX"
-      },
-      "artists": [
-        {
-          "name": "Take The Name",
-          "url": "https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf"
-        }
-      ],
-      "duration_ms": 217285,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/02Lea2WjPTjuL4TGw6t1QY"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3"
-      },
-      "artists": [
-        {
-          "name": "Set for Tomorrow",
-          "url": "https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
-      },
-      "artists": [
-        {
-          "name": "Our Mirage",
-          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
-        }
-      ],
-      "duration_ms": 224347,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "False Divinity",
         "url": "https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0"
       },
@@ -1971,18 +1955,34 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "DEATH 2",
-        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/3rjMJ2WhDsDeZtGRDVf5gl"
       },
       "artists": [
         {
-          "name": "Banks Arcade",
-          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
+      "duration_ms": 224347,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/2edDAzLyy0m1Yt7LWRad2e"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Devastator",
+        "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Devastator",
+      "url": "https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -2007,18 +2007,18 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Devastator",
-        "url": "https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn"
+        "name": "DEATH 2",
+        "url": "https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ"
       },
       "artists": [
         {
-          "name": "The Narrator",
-          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+          "name": "Banks Arcade",
+          "url": "https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Devastator",
-      "url": "https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS"
+      "duration_ms": 212413,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"
     },
     {
       "added_at": "2024-08-12 14:59:19",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2024-08-12 14:59:19",
       "album": {
-        "name": "Death Is Little More",
-        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 199127,
-      "name": "Cursed To Remember",
-      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
-    },
-    {
-      "added_at": "2024-08-12 14:59:19",
-      "album": {
         "name": "Trying to Survive",
         "url": "https://open.spotify.com/album/6Qzmtxrs3z6qrNBP6pBwZ2"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 193424,
       "name": "Trying to Survive",
       "url": "https://open.spotify.com/track/0h5uhIvjec46Ggg8WOJCYQ"
+    },
+    {
+      "added_at": "2024-08-12 14:59:19",
+      "album": {
+        "name": "Death Is Little More",
+        "url": "https://open.spotify.com/album/0CmKu8SgKIY2nhDF3BrwRr"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 199127,
+      "name": "Cursed To Remember",
+      "url": "https://open.spotify.com/track/4ZyQ4t7KqjhakHGFG96GHE"
     },
     {
       "added_at": "2024-08-12 14:59:19",

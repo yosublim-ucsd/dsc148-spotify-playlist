@@ -675,6 +675,36 @@
     },
     {
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
+      },
+      "artists": [
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Wrex",
+          "url": "https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd"
+        },
+        {
+          "name": "Franklin Dam",
+          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
+        },
+        {
+          "name": "Javier Moreno",
+          "url": "https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172815,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
+    },
+    {
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/1G1Belfj7e8SYLbF9YSWHu"
       },
@@ -4844,7 +4874,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 159599,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/2BLx1lqekcmFijvHDy8Fd4"

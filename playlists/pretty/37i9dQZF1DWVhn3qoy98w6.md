@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: Caro Raro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,473 likes - 39 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,475 likes - 39 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 38 | [nunca voy a decirte lo que quiero decirte](https://open.spotify.com/track/4p0Cbn2Hq30afyP6AyPfef) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc), [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [13m² con trastos de por medio](https://open.spotify.com/album/3NTJpNjsxmvblquqWCfrRF) | 3:31 |
 | 39 | [Trist3](https://open.spotify.com/track/5ys0ECcrT3yd13P3yaC0kC) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8) | [Trist3](https://open.spotify.com/album/21fs7a1ijHiGkZR3jxklt2) | 2:43 |
 
-Snapshot ID: `ZrvXYAAAAACl374O47PcMLkDYjRDMgoN`
+Snapshot ID: `ZsMS1QAAAABrSQbQVTKz+gOx/fYqJk37`

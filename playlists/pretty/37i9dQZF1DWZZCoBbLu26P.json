@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 89312,
+  "num_followers": 89338,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 237987,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Hurt My Feelings",
-        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 237987,
-      "name": "Hurt My Feelings",
-      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -763,26 +763,18 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "American Apparel Ad Girls",
-        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
+        "name": "My Pussy Is Like a Peach",
+        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
       "artists": [
         {
-          "name": "Courtney",
-          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
-        },
-        {
-          "name": "Willam",
-          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
+          "name": "Choriza May",
+          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
         }
       ],
-      "duration_ms": 228271,
-      "name": "American Apparel Ad Girls",
-      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
+      "duration_ms": 232636,
+      "name": "My Pussy Is Like a Peach",
+      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -803,22 +795,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "My Pussy Is Like a Peach",
-        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
-      },
-      "artists": [
-        {
-          "name": "Choriza May",
-          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
-        }
-      ],
-      "duration_ms": 232636,
-      "name": "My Pussy Is Like a Peach",
-      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "The Shady Bunch / Bring Back My Girls",
         "url": "https://open.spotify.com/album/39gClsR9cdIbOFcQx0NhN6"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 163893,
       "name": "Bring Back My Girls",
       "url": "https://open.spotify.com/track/654VREoXsBfEUXM0XUdluX"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "American Apparel Ad Girls",
+        "url": "https://open.spotify.com/album/0ciRK4GWURQN6gk01cj8GM"
+      },
+      "artists": [
+        {
+          "name": "Courtney",
+          "url": "https://open.spotify.com/artist/0xlpxDLCxi4DMMkYbHsXTn"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/0utf0bYDKplJhkJET6lYaA"
+        },
+        {
+          "name": "Willam",
+          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
+        }
+      ],
+      "duration_ms": 228271,
+      "name": "American Apparel Ad Girls",
+      "url": "https://open.spotify.com/track/3n25p8hrz8Sx9OzhaDh3yS"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+        }
+      ],
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 275175,
       "name": "Ohh Lala Lala",
       "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2024-05-31 17:55:47",

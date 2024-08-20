@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,717 likes - 195 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,688 likes - 195 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,22 +15,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 5 | [Sedang Tidur](https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze) | [La\-Mu](https://open.spotify.com/artist/4O675OCBvAxnP1vSxShYAc) | [Sedang Tidur](https://open.spotify.com/album/2wTEY1E7AiUq8lRfkSOI0t) | 2:04 |
 | 6 | [The Day is Done](https://open.spotify.com/track/5cVKlN0vdJiXiwc3F4HcYX) | [Ellia Dunn](https://open.spotify.com/artist/4TxtbbN9ln1SgIcf9NAjBw) | [The Day is Done](https://open.spotify.com/album/5cC2JD0wxNRmC5fdRnCn0U) | 3:31 |
 | 7 | [Expanse](https://open.spotify.com/track/5mK7VJDTa9KufmkYNB2g6a) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Expanse](https://open.spotify.com/album/6SiIxdtLqVtYxo9rZtAarK) | 2:36 |
-| 8 | [Vast World](https://open.spotify.com/track/0SO4cpirBGXlBZfDjMCnYk) | [Grand Sky](https://open.spotify.com/artist/2lAZKFXxCkgGJU9UwxMXvL) | [Vast World](https://open.spotify.com/album/0igRMEdBjY130eWpxIEW8q) | 2:38 |
-| 9 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 |
-| 10 | [Water St\. Cafe](https://open.spotify.com/track/1Eo5LlMiUsrfwbydVLcvPk) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Water St\. Cafe](https://open.spotify.com/album/7ttaKDo71onRqB0Kk7tJOx) | 3:16 |
-| 11 | [Tidal](https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Tidal](https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5) | 2:40 |
-| 12 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 |
-| 13 | [Relief](https://open.spotify.com/track/0oWPj0l614RgAId5vgJonC) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Relief](https://open.spotify.com/album/6wKjyo8Zb5DFucdyQW8KXB) | 2:50 |
-| 14 | [Moonlit Reflections](https://open.spotify.com/track/4evWXG9sdhBuCjXdNiY3tw) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Moonlit Reflections](https://open.spotify.com/album/3XywnX7rmAZz0uW8kqQ2D0) | 2:49 |
-| 15 | [Roseate](https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Roseate](https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD) | 2:56 |
-| 16 | [Wafted](https://open.spotify.com/track/73ODQSLCB4Mqmdax2fSjfU) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Wafted](https://open.spotify.com/album/6CRAVxIDnY18GMXLrrAgpe) | 2:12 |
-| 17 | [Velvet Rapsody](https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Velvet Rapsody](https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO) | 2:26 |
-| 18 | [Claridade](https://open.spotify.com/track/6g3NWbDLuieMlyaiBaOIwE) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Claridade](https://open.spotify.com/album/0MgNA8u768eZPlDk1fCN4f) | 3:17 |
-| 19 | [Appena](https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Appena](https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay) | 3:35 |
-| 20 | [Gentle Fortuity](https://open.spotify.com/track/5a7lZ77QyaHg3x57VHoN0A) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Gentle Fortuity](https://open.spotify.com/album/6EiJcf7Bgo21tRxfiJ2ikY) | 2:39 |
-| 21 | [Come Closer](https://open.spotify.com/track/7c6v8ww6DkbOuB02o2x7OP) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Come Closer](https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n) | 2:15 |
-| 22 | [Peace in Waves](https://open.spotify.com/track/7wpSb31qDjRsCI105s01a3) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7), [Softly Drift](https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or) | [Peace in Waves](https://open.spotify.com/album/3wTLeuvoIThzfOAInZfIaq) | 2:22 |
-| 23 | [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 |
+| 8 | [Blackout](https://open.spotify.com/track/4y4ne3kG3X2BAyWTem6xC1) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Blackout](https://open.spotify.com/album/0QFZRAuhQSJG11e0xFLaqd) | 3:02 |
+| 9 | [Water St\. Cafe](https://open.spotify.com/track/1Eo5LlMiUsrfwbydVLcvPk) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Water St\. Cafe](https://open.spotify.com/album/7ttaKDo71onRqB0Kk7tJOx) | 3:16 |
+| 10 | [Tidal](https://open.spotify.com/track/4N12i8jSdFc2jbgezp7T21) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Tidal](https://open.spotify.com/album/339FnwyYAHDPqhybZx60M5) | 2:40 |
+| 11 | [Patientia](https://open.spotify.com/track/7xliwWjoey2VUe450gdZ5Y) | [John Caelo](https://open.spotify.com/artist/5l5WPtiUdbPCJy66rG17Sd) | [Patientia](https://open.spotify.com/album/2wHSo6N02pO8aExcDzjiP4) | 2:20 |
+| 12 | [Relief](https://open.spotify.com/track/0oWPj0l614RgAId5vgJonC) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [Relief](https://open.spotify.com/album/6wKjyo8Zb5DFucdyQW8KXB) | 2:50 |
+| 13 | [Moonlit Reflections](https://open.spotify.com/track/4evWXG9sdhBuCjXdNiY3tw) | [Slumberland Dreams](https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k) | [Moonlit Reflections](https://open.spotify.com/album/3XywnX7rmAZz0uW8kqQ2D0) | 2:49 |
+| 14 | [Roseate](https://open.spotify.com/track/1j3Hp5CmwqH5uKTi6fVJ6t) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Roseate](https://open.spotify.com/album/7oizxw0sAy3QqDUYaJPmKD) | 2:56 |
+| 15 | [Wafted](https://open.spotify.com/track/73ODQSLCB4Mqmdax2fSjfU) | [Filippa Greer](https://open.spotify.com/artist/2nbErRms1OxHurL1yna5ov) | [Wafted](https://open.spotify.com/album/6CRAVxIDnY18GMXLrrAgpe) | 2:12 |
+| 16 | [Velvet Rapsody](https://open.spotify.com/track/56SRF43k9hKZAMADNTSmIX) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Velvet Rapsody](https://open.spotify.com/album/3QEq7rcaIFVAvRhukeQLKO) | 2:26 |
+| 17 | [Claridade](https://open.spotify.com/track/6g3NWbDLuieMlyaiBaOIwE) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Claridade](https://open.spotify.com/album/0MgNA8u768eZPlDk1fCN4f) | 3:17 |
+| 18 | [Appena](https://open.spotify.com/track/7y6iolO0PqYMvSXhNpb1Jx) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Appena](https://open.spotify.com/album/37i1uyBqlEUzw9AGe7Xbay) | 3:35 |
+| 19 | [Gentle Fortuity](https://open.spotify.com/track/5a7lZ77QyaHg3x57VHoN0A) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Gentle Fortuity](https://open.spotify.com/album/6EiJcf7Bgo21tRxfiJ2ikY) | 2:39 |
+| 20 | [Come Closer](https://open.spotify.com/track/7c6v8ww6DkbOuB02o2x7OP) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Come Closer](https://open.spotify.com/album/6kWzecmlppwsVpGy30AJ1n) | 2:15 |
+| 21 | [Peace in Waves](https://open.spotify.com/track/7wpSb31qDjRsCI105s01a3) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7), [Softly Drift](https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or) | [Peace in Waves](https://open.spotify.com/album/3wTLeuvoIThzfOAInZfIaq) | 2:22 |
+| 22 | [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 |
+| 23 | [Quiet Dreams](https://open.spotify.com/track/1hLocT1ZOLgTPDVtsfLLwU) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Quiet Dreams](https://open.spotify.com/album/17zaNWBZFT5Gz3qzU6LXdd) | 2:58 |
 | 24 | [Blissful](https://open.spotify.com/track/3LuRATATl6IEUsDUHxgLYW) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Blissful](https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG) | 2:30 |
 | 25 | [Verdensrommet](https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Verdensrommet](https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0) | 3:02 |
 | 26 | [Astral Distance](https://open.spotify.com/track/0pJqL2QSmybnABaFFTJtCs) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Astral Distance](https://open.spotify.com/album/6u40IEYn1dKNXC7rGBqM5N) | 2:05 |
@@ -204,4 +204,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 194 | [The Edge of Love](https://open.spotify.com/track/5awyHvXpb5txqlRuqUiHAl) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [The Edge of Love](https://open.spotify.com/album/3pKPQzSHTrCBpUVsd00g5Y) | 2:02 |
 | 195 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 |
 
-Snapshot ID: `ZqMfQAAAAAAn7ZLTJBfxj0Q6WDiRK2K6`
+Snapshot ID: `ZsMNsgAAAAD0lJX+h4kIQeWXL0HZHEsE`

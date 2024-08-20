@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74720,
+  "num_followers": 74723,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr+yhgAAAAC0+XmxXF/lC71N63wfAYER",
+  "snapshot_id": "ZsOzcgAAAADno7v4wxEPi3kbn2w9Kl0d",
   "tracks": [
     {
       "added_at": "2024-08-12 17:57:17",
@@ -103,6 +103,22 @@
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
+    },
+    {
+      "added_at": "2024-08-19 21:04:50",
+      "album": {
+        "name": "Rocky Top Ballads",
+        "url": "https://open.spotify.com/album/55FiMoQX3KBZo5hawtpofc"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 219811,
+      "name": "Days Incomplete",
+      "url": "https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9"
     },
     {
       "added_at": "2024-08-16 19:15:20",

@@ -11923,6 +11923,28 @@
     },
     {
       "album": {
+        "name": "Freakk",
+        "url": "https://open.spotify.com/album/23KzxbEO0NmaCR08VZdWW6"
+      },
+      "artists": [
+        {
+          "name": "Juan Valencia",
+          "url": "https://open.spotify.com/artist/5Afyw95iiiAg0cpCU0EwoJ"
+        },
+        {
+          "name": "Alexander Zabbi",
+          "url": "https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245639,
+      "name": "Freakk",
+      "url": "https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/42J8joitu0uE2c5WgEpqmZ"
       },
@@ -16120,6 +16142,28 @@
       "duration_ms": 174623,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/5Z8olKSshc3et0sRzyBdrG"
+    },
+    {
+      "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
     },
     {
       "album": {

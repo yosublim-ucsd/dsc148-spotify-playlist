@@ -2,7 +2,7 @@
 
 ### [Les Dieux du Stade](https://open.spotify.com/playlist/37i9dQZF1DXbJR1DWfHjWw)
 
-> Les plus grands hymnes de stade du rock\. Photo : AC/DC
+> Les plus grands hymnes de stade du rock\. Photo : Red Hot Chili Peppers
 
 67 songs - 4 hr 36 min
 

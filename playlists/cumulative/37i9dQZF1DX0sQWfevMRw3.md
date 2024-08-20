@@ -2,9 +2,9 @@
 
 ### [30 km/h](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
 
-> EFTERFEST PÅ MIN BALKONG!!
+> VI DRICKER CAVA APERÅÅÅL!!
 
-1,167 songs - 2 day 0 hr 55 min
+1,168 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [STÖRTLOPP](https://open.spotify.com/track/4uoYs01HjSL6uAVAKwKXGZ) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [STÖRTLOPP](https://open.spotify.com/album/0zQC4zzbGFIaSHDG5n6ugh) | 2:45 | 2024-02-08 | 2024-03-08 |
 | [Sucker](https://open.spotify.com/track/4QqeGR3jNcS4cdPlPLbfbP) | [Theis EZ](https://open.spotify.com/artist/0B6IiyD6eUa5YfYzGz0L5V), [Derrick Ryan](https://open.spotify.com/artist/56tkyXBBqbr9F9VXzqxYFm) | [Sucker](https://open.spotify.com/album/0ZbVoYXVduD8rNdRLNOX2G) | 2:14 | 2021-12-16 | 2022-06-06 |
 | [Sun on the Ocean](https://open.spotify.com/track/0H38nMwD98B5d72ndJQkls) | [GVBBZ](https://open.spotify.com/artist/4VaGNn14WfmwpsVvJ9mN7i) | [Sun on the Ocean](https://open.spotify.com/album/7JN7EhSjwNfC00EpoUpIgj) | 3:45 | 2022-01-06 | 2022-04-21 |
+| [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 | 2024-08-19 |  |
 | [SUPA](https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u), [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [SUPA](https://open.spotify.com/album/74R5y9CwBBcBNGTmm1vkww) | 2:58 | 2022-05-26 | 2023-03-25 |
 | [Supa](https://open.spotify.com/track/6vFSpgqf12oqpvn2ABcbQZ) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Supa](https://open.spotify.com/album/1hnfrSuHVB6jcnBroozK9D) | 3:12 | 2021-12-16 | 2022-04-22 |
 | [SUPA \(Du och jag\)](https://open.spotify.com/track/1mWjSD5IseZzUYp6mrkvBP) | [ShotLine](https://open.spotify.com/artist/7El3MpnDRD7JMdhvhrW3pn), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [SUPA \(Du och jag\)](https://open.spotify.com/album/5oBfvGuHLr62s6jUyZ2Isx) | 2:24 | 2023-07-13 | 2023-08-25 |

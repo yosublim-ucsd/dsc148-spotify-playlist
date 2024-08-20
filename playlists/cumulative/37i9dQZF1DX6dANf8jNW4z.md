@@ -2,7 +2,7 @@
 
 ### [EQUAL España](https://open.spotify.com/playlist/37i9dQZF1DX6dANf8jNW4z)
 
-> Escucha mujeres a todo volumen\. Foto: Edurne.
+> Escucha a mujeres a todo volumen\. Foto: Edurne.
 
 1,480 songs - 3 day 2 hr 30 min
 

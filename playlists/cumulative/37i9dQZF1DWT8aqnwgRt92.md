@@ -2,7 +2,7 @@
 
 ### [Anime Now](https://open.spotify.com/playlist/37i9dQZF1DWT8aqnwgRt92)
 
-> Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
+> Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 1,505 songs - 3 day 22 hr 5 min
 

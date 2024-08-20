@@ -4099,6 +4099,28 @@
     },
     {
       "album": {
+        "name": "Hold You Right",
+        "url": "https://open.spotify.com/album/0lqn6UK68KsD6p1DRqrY5w"
+      },
+      "artists": [
+        {
+          "name": "SAINT.",
+          "url": "https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK"
+        },
+        {
+          "name": "veranda life",
+          "url": "https://open.spotify.com/artist/4TuhUuVGlN2W79M1OKJnfr"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "Hold You Right",
+      "url": "https://open.spotify.com/track/3NJ2hMhKD1nZf2VGp3tD55"
+    },
+    {
+      "album": {
         "name": "Holding Back",
         "url": "https://open.spotify.com/album/6RZpFmG0qlEEBtw56JR56I"
       },
@@ -10494,6 +10516,24 @@
       "duration_ms": 161053,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
+    },
+    {
+      "album": {
+        "name": "Too Sweet",
+        "url": "https://open.spotify.com/album/5RapO0NBTef1Od1UnEIOlH"
+      },
+      "artists": [
+        {
+          "name": "Lone Tusker",
+          "url": "https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190526,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/35ngVMxxzirCHtnhB9XfPg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-64 songs - 2 hr 59 min
+65 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Au!](https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Au!](https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8) | 3:26 | 2024-07-08 |  |
 | [Baba](https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d) | [Gheboasă](https://open.spotify.com/artist/2hFnOlH9Dg8zJFWwaODCWJ), [Alberto Guta](https://open.spotify.com/artist/5GvO1pU9enFaGlqtEbqV2P) | [Baba](https://open.spotify.com/album/6Kmrcahv6aAPYTlkADWt7p) | 2:18 | 2024-07-01 |  |
 | [Baklava](https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Baklava](https://open.spotify.com/album/7FCxU7klbvof984RWinLZh) | 2:24 | 2024-07-01 |  |
-| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-01 |  |
+| [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-01 | 2024-08-20 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 |  |
 | [BIG BEN \- From "Buzz House" The Movie](https://open.spotify.com/track/6tKtgq2kwf8Oci8laaQxY7) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Beach, Please!](https://open.spotify.com/artist/0AljsDnrnSvZELOH1OE9CB) | [BIG BEN \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4GN02fQ2mdHgMaojU1lPN6) | 2:07 | 2024-07-01 |  |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 |  |
@@ -46,6 +46,7 @@
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-07 |  |
 | [Mamma Mia](https://open.spotify.com/track/0XJY2xCiLTCNPrVzUEWZhp) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Andro](https://open.spotify.com/artist/4J6A7DGmVEA4CXhTnCxxEd), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/7mieCeCorKPB2ooQHatpfb) | 2:59 | 2024-07-01 |  |
 | [MAZDA](https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 2:30 | 2024-07-01 |  |
+| [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 | 2024-08-19 |  |
 | [METGALA](https://open.spotify.com/track/30TWeDBTgFKgIvnZ3MDnBA) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [METGALA](https://open.spotify.com/album/5Vm3is8Nsj5P3yELAkN3Tf) | 3:27 | 2024-07-01 | 2024-07-09 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-01 | 2024-08-06 |
 | [Money](https://open.spotify.com/track/52McDqrh8bsx7g1tZbIuFV) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Money](https://open.spotify.com/album/6YmsVES9FAqLyH2PZ4c9hD) | 2:34 | 2024-07-01 | 2024-07-09 |

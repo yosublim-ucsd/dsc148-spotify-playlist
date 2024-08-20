@@ -1,12 +1,12 @@
 {
-  "description": "This Is Cardenales De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 158512,
+  "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 158586,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr/oAAAAAAAVJvTAOTRCU+k3yM7WDHx7",
+  "snapshot_id": "ZsE5gAAAAABHFeTirpn9SfKW+CoPYmgK",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Sur Hasta el Norte",
-        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 174920,
       "name": "El Cari\u00f1o Que Perd\u00ed",
       "url": "https://open.spotify.com/track/7qNOL12F5wmau4XjobGn9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Sur Hasta el Norte",
+        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Sur Hasta el Norte",
-        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "De Norte a Sur",
-      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias a Todos",
         "url": "https://open.spotify.com/album/2zqDqsckx3JTKNNsI4bZVE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 210500,
       "name": "Gracias a Todos",
       "url": "https://open.spotify.com/track/4ejpbLzr0c0m3a6ZhIXZZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde el Sur Hasta el Norte",
+        "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172640,
+      "name": "De Norte a Sur",
+      "url": "https://open.spotify.com/track/2YIRf9gfTlPUBxQ2yoS4aZ"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

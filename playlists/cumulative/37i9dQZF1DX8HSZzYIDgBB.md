@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Buscabulla en portada.
 
-332 songs - 19 hr 59 min
+333 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [La Loba \(Form Remix\)](https://open.spotify.com/track/6jtmeWIJr0i2rxrDIgBq7q) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [FORM](https://open.spotify.com/artist/5vIivtYjEPjPJm6328wI2A) | [La Loba \(Form Remix\)](https://open.spotify.com/album/38SHj0DIbo9hNxJaydKeuP) | 3:20 | 2022-01-21 | 2022-08-13 |
 | [La Loba \(Trooko Remix\)](https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa) | 4:16 | 2022-03-18 | 2022-09-17 |
 | [La Loba \- Trooko Remix](https://open.spotify.com/track/5eFI4a7q8Ln0HDZ0lbIPhr) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/6DV5ObthuIgftL8GaJqwKx) | 4:16 | 2022-03-18 | 2022-07-29 |
+| [La Luz](https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb) | [Tia Rosa](https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS) | [Misterio Lounge 3000](https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww) | 3:43 | 2024-08-19 |  |
 | [la luz\(Fín\) \- Buscabulla Remix](https://open.spotify.com/track/1QJxM8vOkfCyZP1YNzGjw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [la luz\(Fín\) \[Buscabulla Remix\]](https://open.spotify.com/album/02KAzGHL7vMOdxZXKZVzxa) | 3:22 | 2022-05-27 | 2022-07-12 |
 | [La Marea](https://open.spotify.com/track/7pI7M7SsSAV8TgKNdwVPKV) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [La Marea](https://open.spotify.com/album/4ZQxt3J0oCsxXasH7z79Sk) | 3:16 | 2023-08-15 | 2024-01-21 |
 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 | 2022-09-02 |  |
@@ -255,7 +256,7 @@
 | [Portales](https://open.spotify.com/track/0eYmU0Cda7T28C8i2ricFy) | [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Útera](https://open.spotify.com/album/337yrNFbtT0KSaHBNeMMub) | 4:11 | 2021-10-05 | 2023-04-01 |
 | [PSILOCIBINA](https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99) | 3:17 | 2021-10-05 | 2022-10-01 |
 | [PSILOCIBINA](https://open.spotify.com/track/4Rkzfz7OJGa84NPSBja9XH) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [PSILOCIBINA](https://open.spotify.com/album/2WsGQdYOdoCAdTXyejllUm) | 3:17 | 2021-10-05 | 2022-07-29 |
-| [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 | 2023-05-09 |  |
+| [Que He Sacado Con Quererte](https://open.spotify.com/track/4WkJ0HrLkijOsZnBQRiBKZ) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Que He Sacado Con Quererte](https://open.spotify.com/album/7pVH2fQ4wvqXIVI06gbgrW) | 3:56 | 2023-05-09 | 2024-08-20 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-16 | 2024-08-08 |
 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 | 2024-02-02 |  |
 | [Quién Podrá Saberlo](https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW) | [Dom La Nena](https://open.spotify.com/artist/7cfKXiA9YUupXEjCUWPtxY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Quién Podrá Saberlo](https://open.spotify.com/album/5cvmkQT4H1rfZT8reSzanZ) | 2:43 | 2021-10-05 | 2023-04-01 |

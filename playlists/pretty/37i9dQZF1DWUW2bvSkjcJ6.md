@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lady Gaga, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,192 likes - 95 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,245 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 60 | [Für wenige](https://open.spotify.com/track/4HjtJuTGGT150Gs1fiPMDf) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Für wenige](https://open.spotify.com/album/3kWrhinGXjCgJXWcfM3OXB) | 3:09 |
 | 61 | [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 |
 | 62 | [Du bist der Kompass](https://open.spotify.com/track/0bjhh1niuKrFVMv4V9my4x) | [Andrea Berg](https://open.spotify.com/artist/5dXbkgq9goxRAwCFoNU9Dp) | [Du bist der Kompass](https://open.spotify.com/album/5kJaFSMhJsndogsYE02iHG) | 3:52 |
-| 63 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:33 |
+| 63 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 |
 | 64 | [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:14 |
 | 65 | [Expander](https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Expander](https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ) | 4:11 |
 | 66 | [HIGHS & LOWS](https://open.spotify.com/track/3nGn1uKrIl1vi8DYTZ07Qx) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [HIGHS & LOWS](https://open.spotify.com/album/0etPnBzlb3slRaTPz2aWal) | 2:50 |

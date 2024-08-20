@@ -2,7 +2,7 @@
 
 ### [Carnival Sounds 2024](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
 
-> The sound of 2024's Carnival Season\. Cover: Lil Rick for Crop Over 2024
+> The sound of 2024's Carnival Season
 
 427 songs - 23 hr 5 min
 

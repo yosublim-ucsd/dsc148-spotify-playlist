@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=vsH5vPTPSlW5rGV8Tv3E1Q>Monaze </a> &  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=J8gfGOjvQC2ejtWvZlrnIA>Theresa Phondo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,202 likes - 101 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,213 likes - 101 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

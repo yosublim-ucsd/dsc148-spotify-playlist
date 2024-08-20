@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ7ED4HoeZTx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ7ED4HoeZTx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ7ED4HoeZTx)
 
-### [Slice of Life ](https://open.spotify.com/playlist/37i9dQZF1DWZ7ED4HoeZTx)
+### [After School Vibes](https://open.spotify.com/playlist/37i9dQZF1DWZ7ED4HoeZTx)
 
-> Your chill anime soundtrack.
+> Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 107 songs - 7 hr 29 min
 

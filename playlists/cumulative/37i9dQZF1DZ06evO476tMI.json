@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Whitney Houston. Los temas esenciales, todos en una lista.",
+  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
   "name": "This Is Whitney Houston",
   "tracks": [
     {
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 134920,
       "name": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
       "url": "https://open.spotify.com/track/5qByPJHfbssZpbUzhgpDCG"
@@ -1142,6 +1142,24 @@
       "duration_ms": 277409,
       "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx"
+    },
+    {
+      "album": {
+        "name": "Whitney The Greatest Hits",
+        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281066,
+      "name": "Why Does It Hurt So Bad - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or"
     },
     {
       "album": {

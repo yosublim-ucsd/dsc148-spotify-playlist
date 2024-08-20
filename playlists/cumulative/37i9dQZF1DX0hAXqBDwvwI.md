@@ -2,7 +2,7 @@
 
 ### [Anime On Replay](https://open.spotify.com/playlist/37i9dQZF1DX0hAXqBDwvwI)
 
-> A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
+> A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 717 songs - 1 day 23 hr 7 min
 

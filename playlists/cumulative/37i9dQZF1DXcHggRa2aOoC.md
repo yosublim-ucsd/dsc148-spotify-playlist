@@ -4,11 +4,10 @@
 
 > You know that all mornings call for Fairuz.
 
-51 songs - 3 hr 43 min
+51 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 0:00 | 2022-11-10 |  |
 | [Ahwak](https://open.spotify.com/track/6oUiGf6a2PFfvKjFn47hxK) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Chante Zaki Nassif](https://open.spotify.com/album/7K188g7n7CbJAlD6SK5AEV) | 4:49 | 2022-11-10 |  |
 | [Allah Maak Ya Hawana](https://open.spotify.com/track/0kwNu07Q4zAlPHVWymqFzi) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Loulou \- From the Play](https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe) | 3:22 | 2022-11-10 |  |
 | [Ana Indi Haneen](https://open.spotify.com/track/29n8U7eoajrXmPrc2KxXup) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 5:54 | 2022-11-10 |  |
@@ -37,6 +36,7 @@
 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 | 2022-11-10 |  |
 | [Ma Kedert Nesseit](https://open.spotify.com/track/3xnUm6PeZ63V54aMypM4cu) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 4:29 | 2022-11-10 |  |
 | [Men Ezz El Noum](https://open.spotify.com/track/3b0E3l21kyJO0rUddTVU1E) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Loulou \- From the Play](https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe) | 4:26 | 2022-11-10 |  |
+| [Nassam Alayna El Hawa](https://open.spotify.com/track/7BXhyXma11NSNQlQDZOgiN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Bent El Hares](https://open.spotify.com/album/0lf0V72GGI3YVA6d7jA9M5) | 4:03 | 2022-11-10 |  |
 | [Natarouna Keteer](https://open.spotify.com/track/3Nf3Kqs2z49sJCp4Uga2bg) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Loulou \- From the Play](https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe) | 3:44 | 2022-11-10 |  |
 | [Nehna We El Kamar Geeran](https://open.spotify.com/track/2pulvQDTgqjX4djPs6UygN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 3:21 | 2022-11-10 |  |
 | [Rageen Ya Hawa](https://open.spotify.com/track/2Z4AsULvdEmBnspBt8Nwp6) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Loulou \- From the Play](https://open.spotify.com/album/3wf0c4aKVy6iNuJVMxAoxe) | 5:23 | 2022-11-10 |  |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3MgT4c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3MgT4c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3MgT4c)
 
-### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
+### [This Is ミーゴス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This is Migos\. The essential tracks, all in one playlist.
+> This is ミーゴス。アーティストの代表曲をひとつのプレイリストに。
 
 71 songs - 4 hr 39 min
 

@@ -1,13 +1,109 @@
 {
   "description": "The finest set of Malayalam music from the past 10 years.\nCover : Aadujeevitham",
-  "num_followers": 112394,
+  "num_followers": 112462,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpihCgAAAABhdyAlYK/Iegy054XjxBdH",
+  "snapshot_id": "ZsLNxgAAAABxNvipU8QPIbYZ7eS3swWY",
   "tracks": [
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Bangalore Days",
+        "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        }
+      ],
+      "duration_ms": 325156,
+      "name": "Aethu Kari Raavilum - From \"Bangalore Days\"",
+      "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Kannil Kannil - From \"Sita Ramam (Malayalam)\"",
+        "url": "https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Sinduri Vishal",
+          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
+        }
+      ],
+      "duration_ms": 232513,
+      "name": "Kannil Kannil (From \"Sita Ramam (Malayalam)\")",
+      "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
+      },
+      "artists": [
+        {
+          "name": "Sithara Krishnakumar,Sushin Shyam",
+          "url": "https://open.spotify.com/artist/5aMk6DtFyuKqPEskoEkEhC"
+        }
+      ],
+      "duration_ms": 221370,
+      "name": "Cherathukal",
+      "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
+    },
+    {
+      "added_at": "2023-09-15 11:12:56",
+      "album": {
+        "name": "PakalIravukal - Kurup - Malayalam",
+        "url": "https://open.spotify.com/album/6Ihw5iaPPj87lrZwyksSmc"
+      },
+      "artists": [
+        {
+          "name": "Neha S. Nair",
+          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
+        },
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "duration_ms": 213051,
+      "name": "PakalIravukal",
+      "url": "https://open.spotify.com/track/4ZQA0norYP8HHLJszeWvvd"
+    },
+    {
+      "added_at": "2024-04-22 12:50:34",
+      "album": {
+        "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xh8b46TsysD9SK9QtD29k"
+      },
+      "artists": [
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Periyone",
+      "url": "https://open.spotify.com/track/6eSMc314qnbsO4sYxDGoqb"
+    },
     {
       "added_at": "2024-07-18 04:58:50",
       "album": {
@@ -101,22 +197,6 @@
       "url": "https://open.spotify.com/track/5b7Px47PuvYFg2wjgymcRH"
     },
     {
-      "added_at": "2024-04-22 12:50:34",
-      "album": {
-        "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4xh8b46TsysD9SK9QtD29k"
-      },
-      "artists": [
-        {
-          "name": "Jithin Raj",
-          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Periyone",
-      "url": "https://open.spotify.com/track/6eSMc314qnbsO4sYxDGoqb"
-    },
-    {
       "added_at": "2023-11-24 10:18:25",
       "album": {
         "name": "Shikkari Shambhu",
@@ -171,26 +251,6 @@
       "duration_ms": 282776,
       "name": "Vaanam",
       "url": "https://open.spotify.com/track/7J1r94cV8CUtdiGPDe8APL"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Bangalore Days",
-        "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
-        }
-      ],
-      "duration_ms": 325156,
-      "name": "Aethu Kari Raavilum - From \"Bangalore Days\"",
-      "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -367,30 +427,6 @@
       "duration_ms": 233190,
       "name": "Pavizha Mazha",
       "url": "https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Kannil Kannil - From \"Sita Ramam (Malayalam)\"",
-        "url": "https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        }
-      ],
-      "duration_ms": 232513,
-      "name": "Kannil Kannil (From \"Sita Ramam (Malayalam)\")",
-      "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
     },
     {
       "added_at": "2023-09-15 11:12:56",
@@ -1015,22 +1051,6 @@
     {
       "added_at": "2023-09-15 11:12:56",
       "album": {
-        "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
-      },
-      "artists": [
-        {
-          "name": "Sithara Krishnakumar,Sushin Shyam",
-          "url": "https://open.spotify.com/artist/5aMk6DtFyuKqPEskoEkEhC"
-        }
-      ],
-      "duration_ms": 221370,
-      "name": "Cherathukal",
-      "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
         "name": "Solo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "PakalIravukal - Kurup - Malayalam",
-        "url": "https://open.spotify.com/album/6Ihw5iaPPj87lrZwyksSmc"
-      },
-      "artists": [
-        {
-          "name": "Neha S. Nair",
-          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 213051,
-      "name": "PakalIravukal",
-      "url": "https://open.spotify.com/track/4ZQA0norYP8HHLJszeWvvd"
     },
     {
       "added_at": "2023-09-15 11:12:56",

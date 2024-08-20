@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、お家でのんびり聴きたい癒し系ボカロ曲を選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 110 likes - 45 songs - 2 hr 54 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 110 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,5 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 | 38 | [モカ\(KAITO ver.\) \(feat\. KAITO\)](https://open.spotify.com/track/6dHHAyAIvafArpYyAxKxU9) | [yamichrome](https://open.spotify.com/artist/56btWLEbaEfENYnHHcXN4m), [KAITO](https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2) | [指先にキス\(アルバム\)](https://open.spotify.com/album/6A2tuv3ssgqZdZlZlWf51s) | 4:38 |
 | 39 | [世界の種を抱いて](https://open.spotify.com/track/5n1ndve0K6lUQ3mr3potzz) | [BUNGALANGIT](https://open.spotify.com/artist/2L9oh1h8V7X6JjkGufWMrR) | [世界の種を抱いて](https://open.spotify.com/album/3R0KcDPYNxXOdf2Enhqv3g) | 6:05 |
 | 40 | [18歳の責任](https://open.spotify.com/track/3aLYb79haYzzNNFEatLLxQ) | [傘村トータ](https://open.spotify.com/artist/5xvXrTBkQdY9CALtV1KXGD) | [15歳の主張 / 18歳の責任](https://open.spotify.com/album/0uK6415szwjingTt3oheHg) | 4:38 |
-| 41 | [スイセンと酸性雨 \(feat\. 初音ミク\)](https://open.spotify.com/track/1tJz5rwQ4ZdH7SH3JeepLK) | [ライクア](https://open.spotify.com/artist/1IPsi5qSsqd9edA8u35S9Z), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [prototype](https://open.spotify.com/album/7nmU6rpBWa56ym4G3nrPZh) | 1:12 |
-| 42 | [river\_2023 \(feat\. 初音ミク\)](https://open.spotify.com/track/64JwjmziXncbLUwoWiSoEu) | [真島ゆろ](https://open.spotify.com/artist/460r2Oaa2Sp7EKP0nds0Ow), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [river\_2023](https://open.spotify.com/album/5Rsq83dstJfwozpa6ZlmBH) | 3:39 |
-| 43 | [最低限度の生活を \(feat\. 初音ミク\)](https://open.spotify.com/track/5NgYqtOyjG4bLFbMEHQs03) | [nogumi](https://open.spotify.com/artist/1JjUaqy0XWsW95PFEctSs8), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [最低限度の生活を](https://open.spotify.com/album/1GXVzoiFG8zKyyQTedCzFQ) | 3:29 |
-| 44 | [雨が落ちている \(feat\. 鏡音リン\)](https://open.spotify.com/track/1gCoxB6e4Sge0jnUUr69E1) | [ごめんなさいが言えなくて](https://open.spotify.com/artist/3L0Tv3JqnHftZVEAq2P3xv), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [雨が落ちている](https://open.spotify.com/album/4Q03VcvO5mReJaOoE4nmCZ) | 3:47 |
-| 45 | [azalea](https://open.spotify.com/track/1iKyoGquDm0fJj9KyO91GQ) | [Ayame](https://open.spotify.com/artist/5CL3yGd8CsbAmr1eqK6aic) | [flower arrangement](https://open.spotify.com/album/6YRe8uyTTO9ArgHI1hJPDr) | 4:35 |
 
-Snapshot ID: `AAADRaNXJTzjl8O/Vwihmq/ZZVWGaZM8`
+Snapshot ID: `AAADSv5t4LysgRMxZm+GUVZ9n7YiE+Cl`

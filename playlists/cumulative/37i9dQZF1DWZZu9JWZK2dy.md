@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZZu9JWZK2dy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZZu9JWZK2dy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZZu9JWZK2dy)
 
-### [Anime Rewind '00s](https://open.spotify.com/playlist/37i9dQZF1DWZZu9JWZK2dy)
+### [Anime Hits 00's](https://open.spotify.com/playlist/37i9dQZF1DWZZu9JWZK2dy)
 
-> The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
+> The hottest Anime hits of the 00s\.  2000年代のアニメシーンを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 118 songs - 8 hr 24 min
 

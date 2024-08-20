@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This Is Little Simz. Los temas esenciales, todos en una lista.",
+  "description": "This is Little Simz. The essential tracks, all in one playlist.",
   "name": "This Is Little Simz",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-09",
+      "date_removed": null,
       "duration_ms": 187093,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 131253,
       "name": "Torch",
       "url": "https://open.spotify.com/track/676854Mu9sVS1vfoBqk7S2"

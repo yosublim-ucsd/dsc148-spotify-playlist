@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-568 songs - 1 day 14 hr 20 min
+569 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Century](https://open.spotify.com/track/5VgHyTScSLqpTai6oQjird) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 3:07 | 2023-01-17 | 2024-04-19 |
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-01 |  |
 | [Chariot](https://open.spotify.com/track/12kZPPg7Ve9Br7mEtmVY1h) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [B\-Sides and Rarities](https://open.spotify.com/album/2K3XaSsGQ9Bxxr7byYAcrO) | 5:16 | 2023-01-17 | 2023-11-01 |
-| [Chateau](https://open.spotify.com/track/2LY0DjFGGF0JQugFzWSGpi) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/68Uy1KyPTQTWjVqrSE97hV) | 4:33 | 2023-01-17 | 2024-08-06 |
+| [Chateau](https://open.spotify.com/track/2LY0DjFGGF0JQugFzWSGpi) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Chateau](https://open.spotify.com/album/68Uy1KyPTQTWjVqrSE97hV) | 4:33 | 2023-01-17 |  |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2023-01-17 | 2024-04-19 |
 | [Clearer](https://open.spotify.com/track/1t0yaPngkHpryY7LmGVhNb) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Clearer and other singles, 1991\-1995](https://open.spotify.com/album/5goYNsARssw85qlKypHQPR) | 3:52 | 2023-01-17 |  |
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2023-01-17 | 2024-04-19 |
@@ -121,6 +121,7 @@
 | [Darkest Hour](https://open.spotify.com/track/36I7pi5g6XZJm3bcgqmLyE) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Darkest Hour](https://open.spotify.com/album/51C30AqsXvj8Buz5lAjatL) | 2:59 | 2023-01-17 |  |
 | [Darkest Hour](https://open.spotify.com/track/4mSOKJKJaMyrvS4zVZbv3P) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [ross.](https://open.spotify.com/album/0lXfuLWOpIe6yM45chrvUJ) | 2:59 | 2023-01-17 | 2024-04-19 |
 | [Day of Show](https://open.spotify.com/track/2oFqgwZRjXahTcmjNYIn9w) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Skullcrusher](https://open.spotify.com/album/5pUNogl9gZPjnSkpfT8jxu) | 4:15 | 2023-01-17 | 2024-04-19 |
+| [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-08-19 |  |
 | [Dead Loss](https://open.spotify.com/track/6M8n7mfgU3hathImDZE3Nw) | [SRSQ](https://open.spotify.com/artist/7oTWrSAsrqQnBE1LRUBZPE) | [Ever Crashing](https://open.spotify.com/album/3S2kyxAjYyABh360bDQgtn) | 5:44 | 2023-01-17 |  |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2023-01-17 |  |
 | [December / Willow in the Sun](https://open.spotify.com/track/6gD9LqSOcDRuajgVEjihad) | [The Duke of Norfolk](https://open.spotify.com/artist/0olTIRvohvBuwQlFT7lVrQ) | [December / Willow in the Sun](https://open.spotify.com/album/0kx6GRLwJdtl4BpUaHXg5s) | 4:16 | 2023-01-17 |  |
@@ -136,7 +137,7 @@
 | [Don’t Delete The Kisses](https://open.spotify.com/track/1LomCMl5wD3MPVlC6smUHe) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7Mn6FjNopuROYZLIN91hhe) | 4:35 | 2023-01-17 |  |
 | [Dot](https://open.spotify.com/track/69p1aR2n7h7lOL0uPDwnHA) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Dot](https://open.spotify.com/album/5sJ8PzY1bbaILoGztXsaJX) | 5:22 | 2023-01-17 |  |
 | [Downtown](https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB) | 4:09 | 2023-01-17 | 2024-04-19 |
-| [Downtown](https://open.spotify.com/track/5iK8GmW2uiPuUc5CtkZrIK) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/2xF3ioefFdZrOg9zUBU5hb) | 4:09 | 2023-01-17 |  |
+| [Downtown](https://open.spotify.com/track/5iK8GmW2uiPuUc5CtkZrIK) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/2xF3ioefFdZrOg9zUBU5hb) | 4:09 | 2023-01-17 | 2024-08-20 |
 | [Dream](https://open.spotify.com/track/2hyi2lp9nOTbTtNUpdYZFq) | [Jesper Zacco](https://open.spotify.com/artist/7BPXZSsEdd5Da674ciA284) | [Dream](https://open.spotify.com/album/1NA38XFxLQWFoHp7LTPNw4) | 4:12 | 2023-01-17 |  |
 | [Dream for Dreaming](https://open.spotify.com/track/6EYovLuhOyBLJWWIW3XUwo) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream for Dreaming](https://open.spotify.com/album/3KgYLdX59AWiaUcLWC2IXs) | 3:39 | 2023-01-17 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2023-01-17 | 2023-10-30 |
@@ -391,7 +392,7 @@
 | [Reverse Conversion Therapy](https://open.spotify.com/track/2ZoiCiSVm1sUQwZTRDxAm2) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC) | [Reverse Conversion Therapy](https://open.spotify.com/album/7L29iatswe1a0cMdSx3lgu) | 4:10 | 2023-01-17 |  |
 | [Revival](https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Revival](https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn) | 2:17 | 2023-01-17 |  |
 | [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2023-01-17 |  |
-| [Riverside](https://open.spotify.com/track/1UmFRZU3taMGZApPhK32mc) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/79JZVTdAztJJEYm6xtDzBM) | 3:48 | 2023-01-17 |  |
+| [Riverside](https://open.spotify.com/track/1UmFRZU3taMGZApPhK32mc) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/79JZVTdAztJJEYm6xtDzBM) | 3:48 | 2023-01-17 | 2024-08-20 |
 | [Riverside](https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx) | 3:48 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/2eqvJD0b9ueAWwb7QSBGCW) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Peace Or Love](https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC) | 3:30 | 2023-01-17 | 2024-04-19 |
 | [Rocky Trail](https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Rocky Trail](https://open.spotify.com/album/608ZymCmVta7bY6ZYjRU3j) | 3:30 | 2023-01-17 | 2024-07-20 |

@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-238 songs - 14 hr 43 min
+239 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Ordinary Pleasure](https://open.spotify.com/track/4usk0qRUU8B5BDnVZnORFG) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/5s1o3Qf6TQgwOlxCO4kdMS) | 3:03 | 2022-03-25 | 2022-04-21 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-04-08 |  |
 | [Over Now \(with The Weeknd\)](https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Over Now \(with The Weeknd\)](https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL) | 3:30 | 2022-02-18 |  |
+| [PAPO DE EDREDOM](https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:12 | 2024-08-19 |  |
 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 | 2022-06-24 | 2024-04-19 |
 | [Paradise](https://open.spotify.com/track/6tl0rKudQ0U0zJy8EqX891) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK) | 3:37 | 2022-02-18 | 2022-07-28 |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-02-10 | 2023-06-04 |
@@ -240,7 +241,7 @@
 | [When We Break](https://open.spotify.com/track/0qiz1TZkuI3NEgKDmxCMDp) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/64Luw3nJLGZB7TNAmHivj3) | 4:44 | 2022-06-24 | 2022-11-13 |
 | [When We Break](https://open.spotify.com/track/3T6zu9vlpyVh8j6VMcuExZ) | [Total Giovanni](https://open.spotify.com/artist/4ULIhLE7QOtxj1MVzJf1D1) | [When We Break](https://open.spotify.com/album/0NzFxJSepuEN2h3pWGqatq) | 4:44 | 2022-03-25 | 2022-04-20 |
 | [Who You Are \- Part 2](https://open.spotify.com/track/0DstRCjGNNG3vPkZMJEmX2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are \(Part 2\)](https://open.spotify.com/album/4hgKenc090ZE2VoxXEIWbF) | 3:47 | 2022-03-25 | 2022-06-16 |
-| [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 | 2022-03-25 |  |
+| [Why Don't You](https://open.spotify.com/track/64ka8E2PpNo4NxSCiRBj1H) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Why Don't You](https://open.spotify.com/album/7r5PM8SStmdYllgsGfe65u) | 3:52 | 2022-03-25 | 2024-08-20 |
 | [Woman of the Ghetto \- Akshin Alizadeh Remix](https://open.spotify.com/track/0yomhqoETEC3360pML8nEx) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w), [Akshin Alizadeh](https://open.spotify.com/artist/6eBIpic8O1RW435sVsjYfy) | [Woman of the Ghetto](https://open.spotify.com/album/7GuS63e6BG71ZBhQRWhh5f) | 5:01 | 2022-03-25 | 2022-05-26 |
 | [Woman Through the Wall](https://open.spotify.com/track/71AvGorDmUQj2GSMcjJgx4) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Woman Through the Wall](https://open.spotify.com/album/1jA7FVhSpQxtBUSR7Wrodq) | 4:00 | 2022-03-25 | 2022-04-18 |
 | [Wonderful](https://open.spotify.com/track/78EBZOZppjic7aild1Bc8i) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [So Damn Happy](https://open.spotify.com/album/1KNxmTzMuRQOH8raaKxPLa) | 4:04 | 2022-03-25 | 2022-07-29 |

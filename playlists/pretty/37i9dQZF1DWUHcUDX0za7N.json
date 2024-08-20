@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Jeriq",
-  "num_followers": 53201,
+  "num_followers": 53238,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-08-16 02:58:00",
       "album": {
-        "name": "D-RIDE (feat. SadBoi)",
-        "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
-      },
-      "artists": [
-        {
-          "name": "DETO BLACK",
-          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "D-RIDE (feat. SadBoi)",
-      "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
-    },
-    {
-      "added_at": "2024-08-16 02:58:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 172933,
       "name": "I Don't Care (feat. Bella Shmurda & Vector)",
       "url": "https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4"
+    },
+    {
+      "added_at": "2024-08-16 02:58:00",
+      "album": {
+        "name": "D-RIDE (feat. SadBoi)",
+        "url": "https://open.spotify.com/album/0wbkFz9Zkl9ihLqJQS28cl"
+      },
+      "artists": [
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "D-RIDE (feat. SadBoi)",
+      "url": "https://open.spotify.com/track/7GP9LIMNDuHcQ3WhTSbExX"
     },
     {
       "added_at": "2024-08-16 02:58:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-08-16 02:58:00",
       "album": {
+        "name": "Tena",
+        "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
+      },
+      "artists": [
+        {
+          "name": "Kobi Jonz",
+          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Tena",
+      "url": "https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi"
+    },
+    {
+      "added_at": "2024-08-16 02:58:00",
+      "album": {
         "name": "More Kashcoming",
         "url": "https://open.spotify.com/album/0d07XqLINJkvd4By1htNPd"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 154960,
       "name": "Casa",
       "url": "https://open.spotify.com/track/3SW8UsHMfohqWOo2PGb9SM"
-    },
-    {
-      "added_at": "2024-08-16 02:58:00",
-      "album": {
-        "name": "Tena",
-        "url": "https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl"
-      },
-      "artists": [
-        {
-          "name": "Kobi Jonz",
-          "url": "https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Tena",
-      "url": "https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi"
     },
     {
       "added_at": "2024-08-16 02:58:00",

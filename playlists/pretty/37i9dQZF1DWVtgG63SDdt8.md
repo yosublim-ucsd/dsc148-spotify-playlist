@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:3zSrc5vUlUxyDdS0KrxFJO">Hulvey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,597 likes - 98 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,669 likes - 98 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [True](https://open.spotify.com/track/4AvNvvdXXvYSc5R3uwAda8) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [True](https://open.spotify.com/album/2FbfvZl9RRfcI63pcUBsl3) | 2:21 |
 | 2 | [JACKPOT](https://open.spotify.com/track/65QTaz2NDjapNPkw2fhBqi) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [JACKPOT](https://open.spotify.com/album/3FIi6QxeHhPvwJ04vtMHsW) | 2:34 |
-| 3 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
+| 3 | [Thank God](https://open.spotify.com/track/0K600gHS06x0lTFSErYMRs) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI) | [Thank God](https://open.spotify.com/album/3SVVpAm8enSoy5Ab4NUQAR) | 4:14 |
 | 4 | [STILL OVERCOME](https://open.spotify.com/track/73witymOvkOOWQYAuKHbpI) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [GOD BLESS THE UNDERDOGS](https://open.spotify.com/album/1vnCeqoUIMH5x4i2vsOdHj) | 2:00 |
 | 5 | [Spirit Lead Me](https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Circle of Life](https://open.spotify.com/album/5rpuUYlJs7QuyER1ZZ75WO) | 2:04 |
 | 6 | [I'm Legendary](https://open.spotify.com/track/3lAbxmMcXxYTfndH16p5f2) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [I'm Legendary](https://open.spotify.com/album/42gD4wnU0aoB78OJhDZPPI) | 2:18 |

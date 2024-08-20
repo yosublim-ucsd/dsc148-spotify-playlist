@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0627\u0633\u0645\u0639\u0648\u0627 \u0627\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636 ",
+  "description": "\u0627\u0633\u0645\u0639\u0648\u0627 \u0627\u0641\u0636\u0644 \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0623\u0635\u064a\u0644 \u0647\u0645\u064a\u0645 \u0648 \u0639\u0627\u064a\u0636 ",
   "name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "tracks": [
     {
@@ -100,6 +100,24 @@
       "duration_ms": 122000,
       "name": "Ahla Watan",
       "url": "https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw"
+    },
+    {
+      "album": {
+        "name": "Akhaf Admank",
+        "url": "https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH"
+      },
+      "artists": [
+        {
+          "name": "Shamma Hamdan",
+          "url": "https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212473,
+      "name": "Akhaf Admank",
+      "url": "https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn"
     },
     {
       "album": {
@@ -1110,6 +1128,24 @@
       "duration_ms": 177516,
       "name": "Kent Ahebik",
       "url": "https://open.spotify.com/track/7M4naaZsceXAjDUZ7XNZ8g"
+    },
+    {
+      "album": {
+        "name": "Kethr El Ghala",
+        "url": "https://open.spotify.com/album/2fKsdzB75Aq0wWj8anqplX"
+      },
+      "artists": [
+        {
+          "name": "Fouad Abdulwahed",
+          "url": "https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249009,
+      "name": "Kethr El Ghala",
+      "url": "https://open.spotify.com/track/558ALwJdYCddXe3LyXKrKv"
     },
     {
       "album": {

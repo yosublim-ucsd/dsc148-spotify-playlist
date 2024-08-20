@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: John Summit
+> The UK's biggest dance playlist! Cover: Sonny Fodera, Jazzy, D.O.D
 
 610 songs - 1 day 7 hr 56 min
 

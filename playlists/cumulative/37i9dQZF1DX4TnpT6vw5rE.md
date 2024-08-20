@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-286 songs - 16 hr 45 min
+287 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Brief Walk in the Sea](https://open.spotify.com/track/1O3wMxzAagYQ336rdfH9bQ) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/6lBcFKiDVRp6rMWC5Po809) | 7:04 | 2022-07-22 | 2023-04-30 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5) | 7:04 | 2023-04-21 | 2023-11-01 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'eixample](https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx) | 7:04 | 2020-12-08\* | 2022-07-29 |
+| [A Clear Dream](https://open.spotify.com/track/5kqOBRvLgMLNTtwKDLlw8u) | [Osman Almasi](https://open.spotify.com/artist/3XcHOrPFdXk3YTCvqspoSm) | [A Clear Dream](https://open.spotify.com/album/5XQErTCMUrJxgiyIbg9INH) | 2:59 | 2024-07-12 |  |
 | [A Free Mind](https://open.spotify.com/track/2W3IFaBdj4QzU6NSR9mCQ1) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [A Free Mind](https://open.spotify.com/album/0PVEmsVmGT0MKASkABJbEe) | 3:30 | 2022-06-16 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
 | [A Rising Wind \(Instrumental\)](https://open.spotify.com/track/6jC0JJ43NqpbBgY1mf5uZ9) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Ayres \(Instrumental Version\)](https://open.spotify.com/album/65XygvtsffoLGK7w9PtUQK) | 4:49 | 2021-01-15 | 2024-07-18 |
@@ -153,7 +154,7 @@
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
 | [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 | 2023-10-20 | 2024-08-10 |
 | [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
-| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 |  |
+| [Lantern Lights](https://open.spotify.com/track/1Fah8jgJ9Y6cUxKDfKg4Km) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Brush the Dust & Lantern Lights](https://open.spotify.com/album/0eGEob2VqeMUJ6WOPhBGIY) | 3:49 | 2024-04-04 | 2024-08-20 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Let go](https://open.spotify.com/track/1NRLFIhFm333fvUE46FSC2) | [Nessa Wright](https://open.spotify.com/artist/1gHeUPUU5lLzMfodqksLEl) | [Let go](https://open.spotify.com/album/6PWKLG87gXfzghgqzQWJKb) | 2:21 | 2024-02-16 |  |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
@@ -170,7 +171,7 @@
 | [Mist](https://open.spotify.com/track/0L8U0b9O7lQO9VipV3i6xN) | [Maximilian Zapdo](https://open.spotify.com/artist/1gbl9H3oANDZROjD1Erecc) | [Mist](https://open.spotify.com/album/2ffssy6IF2Pw4741ITKhqY) | 3:30 | 2021-10-21 | 2023-09-27 |
 | [Motion](https://open.spotify.com/track/0JExELrTTlXBvwYXJGIMtT) | [Balam Acab](https://open.spotify.com/artist/49jnSQa0nLfgkSREjJ03Az) | [Wander/Wonder](https://open.spotify.com/album/79iR8QvVwZ2abKTWrE2BLV) | 4:03 | 2020-12-08\* | 2021-09-22 |
 | [Moving](https://open.spotify.com/track/2nmmHSgj6mWaw2FasOy87z) | [Markus Floats](https://open.spotify.com/artist/4pK3XAPHEKPWwwEGpqwP1Z) | [Third Album](https://open.spotify.com/album/5FJBPsg4NlggVYENdgw8OW) | 2:19 | 2020-12-08\* | 2020-12-25 |
-| [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* |  |
+| [Mystery of Time](https://open.spotify.com/track/2EecYffFBqS2sTprJXabvW) | [Dopplar](https://open.spotify.com/artist/7mTlijRgUDWcMA0tQegd0D) | [Cosmic Strings](https://open.spotify.com/album/7wSfnWizxLlBLYu2HJPWkS) | 2:33 | 2020-12-08\* | 2024-08-20 |
 | [Mythos](https://open.spotify.com/track/5wjfTGgoy0ZPtKF96GaUEb) | [Carufo](https://open.spotify.com/artist/19iZvlebGTx7MIFfXSbnb6) | [Mythos](https://open.spotify.com/album/1SPAZKktXHa1QoUUNm0MON) | 2:37 | 2022-12-20 | 2024-01-20 |
 | [Naslednjič](https://open.spotify.com/track/5k5b3ig0xlbvN2jVMKDsF5) | [Fabijan Spaći](https://open.spotify.com/artist/4zuaDhav8BE3DEkjJelFYX) | [Naslednjič](https://open.spotify.com/album/7aVQfJW3wiyVUOtr22fQiv) | 3:15 | 2022-05-19 |  |
 | [Natural Cause](https://open.spotify.com/track/30u5328ERA8OFk3qrla5m2) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:15 | 2020-12-08\* | 2021-05-27 |
@@ -199,7 +200,7 @@
 | [Parameters](https://open.spotify.com/track/2bCW53cveSKclOEnzlbJyC) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Between Waves](https://open.spotify.com/album/0TeJOSgDHYKwwj3K1zxblP) | 5:15 | 2020-12-08\* | 2021-07-06 |
 | [Part 3](https://open.spotify.com/track/5EGW7u5Apfyu8CJZIkiops) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Standing in Silence](https://open.spotify.com/album/0vfiJSS4yr9dlKgl3uLING) | 5:13 | 2021-02-22 | 2022-07-29 |
 | [Passing By](https://open.spotify.com/track/2FlD1WyrE1iNdflUvXAQoj) | [Sulfur Springs](https://open.spotify.com/artist/4W3lH1l0pEtX21XX6nOIRF) | [Passing By](https://open.spotify.com/album/1GL8XBwwxJzmytxkstvtTU) | 3:39 | 2022-09-02 |  |
-| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 | 2024-06-21 |
+| [Peaceful Mind](https://open.spotify.com/track/0t971nk22Z8LHCPp2XksxA) | [Karbona](https://open.spotify.com/artist/4yoDbJBznZifpfMUyD2yPa) | [Peaceful Mind](https://open.spotify.com/album/14Op3aFcvpjw8K93nEjNbc) | 3:04 | 2022-11-11 |  |
 | [Perfect Morning \- Speck from CYNE Remix](https://open.spotify.com/track/1KSv7wt8YplLa5useD2I0D) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA), [Speck From CYNE](https://open.spotify.com/artist/5xdr4nT8gezbvSBLn2jyRz) | [The Branches \(Deluxe Edition\)](https://open.spotify.com/album/6DsdLxkHx1VlKvLxa2Y57w) | 4:24 | 2021-01-15 | 2021-05-27 |
 | [Periphescence](https://open.spotify.com/track/2DhT22DtGdRKULjuScdht0) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 3:58 | 2020-12-08\* |  |
 | [Poa Alpina](https://open.spotify.com/track/1TCkrnjuurf0DNLLoJxVyd) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata](https://open.spotify.com/album/6jeIzUv8Bff4fFElZwwA4B) | 4:10 | 2020-12-08\* | 2021-03-06 |

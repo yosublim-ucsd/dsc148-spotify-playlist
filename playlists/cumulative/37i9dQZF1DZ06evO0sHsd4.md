@@ -2,7 +2,7 @@
 
 ### [This Is Jasiel Nuñez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sHsd4)
 
-> This is Jasiel Nuñez\. The essential tracks, all in one playlist.
+> This is Jasiel Nuñez\. أغاني روعة في قايمة أغاني واحدة.
 
 31 songs - 1 hr 39 min
 

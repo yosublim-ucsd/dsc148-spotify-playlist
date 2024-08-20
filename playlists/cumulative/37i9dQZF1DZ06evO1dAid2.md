@@ -2,7 +2,7 @@
 
 ### [This Is Chuck Berry](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2)
 
-> This Is Chuck Berry\. Los temas esenciales, todos en una lista.
+> This is Chuck Berry\. The essential tracks, all in one playlist.
 
 117 songs - 5 hr 15 min
 
@@ -34,7 +34,7 @@
 | [Confessin' the Blues](https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [BD Music & Toppi Present the Blues](https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae) | 2:11 | 2024-01-18 | 2024-07-24 |
 | [Darlin'](https://open.spotify.com/track/4yGYG9Md4QOkr8mIGGEbWn) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 3:20 | 2022-09-17 | 2022-12-17 |
 | [Dear Dad \- Single Version](https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 1:49 | 2023-04-06 |  |
-| [Deep Feeling](https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:18 | 2022-11-22 | 2024-07-23 |
+| [Deep Feeling](https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:18 | 2022-11-22 |  |
 | [Deep Feeling](https://open.spotify.com/track/5prdcGHWUAPxipEShWCt9B) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:18 | 2022-09-19 | 2022-10-17 |
 | [Don't You Lie To Me](https://open.spotify.com/track/4swHUuuN5IDBFsBYAHBude) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 2:06 | 2023-05-06 | 2024-06-18 |
 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 | 2022-09-17 |  |
@@ -51,7 +51,7 @@
 | [Guitar Boogie](https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 2:19 | 2022-09-17 |  |
 | [Gun \- Instrumental \- Fast](https://open.spotify.com/track/2VfqSzJTiokxWLhTQE2icH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Have Mercy \- His Complete Chess Recordings 1969 \- 1974](https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW) | 2:07 | 2022-11-24 | 2024-07-22 |
 | [Havana Moon](https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 3:06 | 2022-09-22 | 2024-07-24 |
-| [Have Mercy Judge](https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:41 | 2022-09-17 |  |
+| [Have Mercy Judge](https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Back Home](https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY) | 2:41 | 2022-09-17 | 2024-08-20 |
 | [Hey Pedro](https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 1:57 | 2022-09-26 | 2024-06-18 |
 | [House Of Blue Lights](https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Chess Box](https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO) | 2:27 | 2022-09-17 | 2024-07-23 |
 | [How High The Moon](https://open.spotify.com/track/0fNRxUfgdxqeNrWRaTMfR5) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [CHUCK BERRY INTEGRAL 1955 \- 1962](https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0) | 3:11 | 2024-06-13 | 2024-06-14 |

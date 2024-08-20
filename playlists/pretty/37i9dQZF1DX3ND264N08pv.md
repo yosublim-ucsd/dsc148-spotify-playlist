@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,756 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,793 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 32 | [Infinity](https://open.spotify.com/track/6ORIjEQQU6jIIGhCscs5y7) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Infinity](https://open.spotify.com/album/3dFlIzoweOmGPWX2Iin5iN) | 3:12 |
 | 33 | [Overdosis](https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Overdosis](https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl) | 3:40 |
 | 34 | [So Druff \- D\-Fence Remix](https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu) | [KNTRLVRLST](https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [So Druff \(D\-Fence Remix\)](https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v) | 2:46 |
-| 35 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
-| 36 | [Feed Your Soul](https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Feed Your Soul](https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC) | 3:13 |
+| 35 | [Feed Your Soul](https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Feed Your Soul](https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC) | 3:13 |
+| 36 | [Raven](https://open.spotify.com/track/4tpyc7GdDYkIr2leWQZF9Z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Joel Beukers](https://open.spotify.com/artist/4kRCRlh1eQG31dr3fGTHKF) | [Raven](https://open.spotify.com/album/08CFtqHiqW9GdL1tmjdzEN) | 2:55 |
 | 37 | [U Will Be Mine](https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [U Will Be Mine](https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo) | 3:11 |
 | 38 | [Shark Attack](https://open.spotify.com/track/1TwUqMISFgw9jU2c8cSOQI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Thunder In Paradise](https://open.spotify.com/album/3UVOwqbr7xDioziembhjfF) | 2:39 |
 | 39 | [Meteor](https://open.spotify.com/track/3OAxVZHc0xHSDNuK52OYHL) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Meteor](https://open.spotify.com/album/2U0tyEODnB7NxV3PC3G2RT) | 3:40 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 88 | [Oldschool The School](https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [THE 4TH DIMENSION](https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8) | 3:23 |
 | 89 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
 | 90 | [Adrenaline \- Never Surrender Remix](https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5) | [Neophyte Records All Stars](https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE), [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Adrenaline \(Never Surrender Remix\)](https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9) | 2:47 |
-| 91 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 |
-| 92 | [Mysteries of Creation](https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Mysteries of Creation](https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna) | 3:17 |
+| 91 | [Mysteries of Creation](https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Mysteries of Creation](https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna) | 3:17 |
+| 92 | [Beastmode](https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Beastmode](https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY) | 4:01 |
 | 93 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
 | 94 | [Til The AM](https://open.spotify.com/track/2k1ryKenp09dbxj28AYhXU) | [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja), [Animal Side](https://open.spotify.com/artist/1mS2PHJJAJfrFuT0j2a531) | [Til The AM](https://open.spotify.com/album/3Qe4nXSvecCPsyGiod3wF8) | 3:08 |
 | 95 | [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 |

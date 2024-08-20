@@ -1,12 +1,12 @@
 {
   "description": "Rap napoletano e il meglio della scena campana. Cosang in cover.",
-  "num_followers": 204590,
+  "num_followers": 204761,
   "original_name": "Int 'o Rione",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZroMbQAAAAD6VZx6Wc1A10CzMc+GhDcW",
+  "snapshot_id": "ZsMO7gAAAADON1PEj6w/kOuadlPaOfiU",
   "tracks": [
     {
       "added_at": "2024-08-12 13:21:49",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-08-12 13:21:49",
       "album": {
+        "name": "O primm post",
+        "url": "https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "O primm post",
+      "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
+    },
+    {
+      "added_at": "2024-08-12 13:21:49",
+      "album": {
         "name": "FULL FULL",
         "url": "https://open.spotify.com/album/3nr64CPJENNDG891VLzFi9"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 134306,
       "name": "NU PARL, NU SENT, NU VEC",
       "url": "https://open.spotify.com/track/6FtNSMSavhz0jPx0CzwG3q"
-    },
-    {
-      "added_at": "2024-08-12 13:21:49",
-      "album": {
-        "name": "O primm post",
-        "url": "https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "O primm post",
-      "url": "https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5"
     },
     {
       "added_at": "2024-08-12 13:21:49",

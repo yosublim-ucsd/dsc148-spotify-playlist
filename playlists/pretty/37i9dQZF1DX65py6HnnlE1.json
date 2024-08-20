@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 708804,
+  "num_followers": 708887,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The First (Remastered)",
-        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
+        "name": "No Es Casualidad",
+        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
       "artists": [
         {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        },
-        {
-          "name": "H\u00e9ctor Acosta \"El Torito\"",
-          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 263693,
-      "name": "Me Puedo Matar - Remastered",
-      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+      "duration_ms": 245866,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -767,18 +763,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "No Es Casualidad",
-        "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
+        "name": "The First (Remastered)",
+        "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
       },
       "artists": [
         {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        },
+        {
+          "name": "H\u00e9ctor Acosta \"El Torito\"",
+          "url": "https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn"
         }
       ],
-      "duration_ms": 245866,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/18tS6OYnEJfHWokX62T322"
+      "duration_ms": 263693,
+      "name": "Me Puedo Matar - Remastered",
+      "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
+        "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Siento Que Te Quiero",
+      "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "En Persona",
         "url": "https://open.spotify.com/album/5eJScupPkAeoUG39XNLYeq"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 193480,
       "name": "Yo Mismo La Vi",
       "url": "https://open.spotify.com/track/5X1hQWcfE05YwwyDpyTtjk"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1279,34 +1295,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
-        "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Siento Que Te Quiero",
-      "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Los 12 Exitos De Kiko Rodriguez",
-        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 252557,
-      "name": "Hoy Te Vi Pasar",
-      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+      "duration_ms": 266320,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/2Z1FwdTgIXnrHv0Zmy99YB"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 173280,
       "name": "Con el Pecho y el Corazon",
       "url": "https://open.spotify.com/track/2kBL9Ila19Bv1nQRcVPeKD"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "La Soga Soundtrack",
+        "url": "https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "El profesor",
+      "url": "https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1375,18 +1375,50 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "La Soga Soundtrack",
-        "url": "https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
         {
-          "name": "Elvis Martinez",
-          "url": "https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 219866,
-      "name": "El profesor",
-      "url": "https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd"
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Los 12 Exitos De Kiko Rodriguez",
+        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Hoy Te Vi Pasar",
+      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Exitos de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Si Tu Me Dices Ven",
+      "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1423,38 +1455,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Exitos de Ayer y Hoy",
-        "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Si Tu Me Dices Ven",
-      "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Old School Bachata",
-        "url": "https://open.spotify.com/album/5atPwcttstCkSkPGT6s9vT"
-      },
-      "artists": [
-        {
-          "name": "Ramon Cordero",
-          "url": "https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/782ucUaVl6HFE5vtb6tizp"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+        "name": "Old School Bachata",
+        "url": "https://open.spotify.com/album/5atPwcttstCkSkPGT6s9vT"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Ramon Cordero",
+          "url": "https://open.spotify.com/artist/38F8jWI9OYvjRl9LBTVBzF"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
+      "duration_ms": 191493,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/782ucUaVl6HFE5vtb6tizp"
     },
     {
       "added_at": "2024-06-04 19:13:44",

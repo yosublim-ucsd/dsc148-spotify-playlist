@@ -1,6 +1,6 @@
 {
   "description": "When the night isn't over just yet.",
-  "num_followers": 196546,
+  "num_followers": 196584,
   "original_name": "4AM Chillout",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-08-16 08:47:38",
       "album": {
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+        }
+      ],
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
+    },
+    {
+      "added_at": "2024-08-16 08:47:38",
+      "album": {
         "name": "side by side (feat. Empress Of) [rebirth]",
         "url": "https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 172031,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq"
-    },
-    {
-      "added_at": "2024-08-16 08:47:38",
-      "album": {
-        "name": "My Trust My Love (Catching Flies Remix)",
-        "url": "https://open.spotify.com/album/4ud7gyBtLhnf36JP5l0c1w"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "My Trust My Love (Catching Flies Remix)",
-      "url": "https://open.spotify.com/track/7826FKI52shndAO4fGv433"
     },
     {
       "added_at": "2024-08-16 08:47:38",

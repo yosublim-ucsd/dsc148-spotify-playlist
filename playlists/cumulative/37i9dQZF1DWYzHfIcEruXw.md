@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYzHfIcEruXw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzHfIcEruXw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzHfIcEruXw)
 
-### [Anime Rewind '10s](https://open.spotify.com/playlist/37i9dQZF1DWYzHfIcEruXw)
+### [Anime Hits 10's](https://open.spotify.com/playlist/37i9dQZF1DWYzHfIcEruXw)
 
-> The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
+> The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 120 songs - 8 hr 44 min
 

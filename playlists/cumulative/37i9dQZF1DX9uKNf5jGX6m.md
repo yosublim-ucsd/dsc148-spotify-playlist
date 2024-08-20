@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-796 songs - 1 day 15 hr 41 min
+798 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Droplet of Grace](https://open.spotify.com/track/3W2UlaHx93we9YqM1BvjFZ) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Droplet of Grace](https://open.spotify.com/album/2Fp93WU1JUHpRmtEknRne7) | 3:06 | 2023-08-29 |  |
 | [Drømmende](https://open.spotify.com/track/417Rk6IHsMmM8tKtP3CNfB) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Drømmende](https://open.spotify.com/album/786ZDMgiNEMHHTqEm376n5) | 2:23 | 2022-08-11 | 2022-12-15 |
-| [Duo Balance](https://open.spotify.com/track/5tOGY0zHGJUO59azKA1cCm) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Duo Balance](https://open.spotify.com/album/6PjOrX6MBCDJvEZMLxg7Kd) | 2:41 | 2024-03-07 |  |
+| [Duo Balance](https://open.spotify.com/track/5tOGY0zHGJUO59azKA1cCm) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Duo Balance](https://open.spotify.com/album/6PjOrX6MBCDJvEZMLxg7Kd) | 2:41 | 2024-03-07 | 2024-08-20 |
 | [Dusk's Embrace](https://open.spotify.com/track/0GRGJ6N5wWFpDTDqYJCzWU) | [Celestial Whisperer](https://open.spotify.com/artist/7xJlH4dRZABxHqqBaA9Pac) | [Dusk's Embrace](https://open.spotify.com/album/6FhmpveNERkdoEs6zRmVaR) | 2:46 | 2024-03-07 |  |
 | [Dust](https://open.spotify.com/track/6yBYZ1cSkwQ2Uv51RxFjDC) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Dust](https://open.spotify.com/album/7qnPTWhLFnRualCEARhYB4) | 2:59 | 2024-06-10 |  |
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2021-12-21 | 2022-12-15 |
@@ -231,7 +231,7 @@
 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-15 |  |
 | [Ending In Mist](https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Ending In Mist](https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3) | 3:04 | 2022-08-11 | 2022-12-15 |
 | [Endless Cosmos](https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Endless Cosmos](https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S) | 2:50 | 2024-04-04 |  |
-| [Enigma](https://open.spotify.com/track/11ZWAdHTLpYBe67e8kgjSm) | [Kristín Arnardóttir](https://open.spotify.com/artist/1ljI7e4AsCJF0KcOFXXLKY) | [Enigma](https://open.spotify.com/album/2kpaO3BvToV7XOFxf4DQeB) | 2:42 | 2024-04-04 |  |
+| [Enigma](https://open.spotify.com/track/11ZWAdHTLpYBe67e8kgjSm) | [Kristín Arnardóttir](https://open.spotify.com/artist/1ljI7e4AsCJF0KcOFXXLKY) | [Enigma](https://open.spotify.com/album/2kpaO3BvToV7XOFxf4DQeB) | 2:42 | 2024-04-04 | 2024-08-20 |
 | [Entering](https://open.spotify.com/track/3RAWbLYWWskUMQHJ12jJDA) | [Memoryan](https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR) | [Entering](https://open.spotify.com/album/19hV2XAdZmVAU3xkSJ7ORo) | 3:00 | 2022-05-31 | 2022-10-04 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-15 | 2023-08-11 |
 | [Envisaged](https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Envisaged](https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39) | 2:45 | 2022-09-01 | 2023-01-04 |
@@ -292,7 +292,7 @@
 | [Furlong Shams](https://open.spotify.com/track/2dvD8sJcHubn9H7JBxxDH6) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Furlong Shams](https://open.spotify.com/album/4yPbijvz15Ht2cibCulqA7) | 3:14 | 2021-12-21 | 2022-10-04 |
 | [Gan Duille](https://open.spotify.com/track/1Xs8qLgBD1IeblneE69YsV) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Gan Duille](https://open.spotify.com/album/0tqA8fa838YZ9Ex863r6Yl) | 2:31 | 2021-12-21 | 2023-08-11 |
 | [Gauean](https://open.spotify.com/track/50ZPTAib8pmhNbUirF8AAJ) | [Darcie Roman](https://open.spotify.com/artist/3bhvCKBgGPO4OURkbYkt3b) | [Gauean](https://open.spotify.com/album/0m9mJavFy36qOitzx3uOhp) | 3:56 | 2022-10-25 | 2023-01-04 |
-| [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-06-22 |  |
+| [Gentle Mind](https://open.spotify.com/track/060JduHcmOHTCbprsCMH5H) | [Tara Rossi](https://open.spotify.com/artist/1XT2wvXl5bO123J84IbDjS) | [Gentle Mind](https://open.spotify.com/album/61yKHUvPl3KNxKdZ8CytN4) | 2:39 | 2022-06-22 | 2024-08-20 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2021-12-21 | 2022-06-23 |
 | [Gentle Soul](https://open.spotify.com/track/6yn3OXDVIbX3nT1rBZgOjM) | [Muted Reality](https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D) | [Solicitude](https://open.spotify.com/album/5AL5PvIfsmtidTXS3Lk8Dy) | 3:36 | 2022-01-19 |  |
 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 | 2021-12-21 | 2022-10-04 |
@@ -493,6 +493,7 @@
 | [One And Only](https://open.spotify.com/track/5dhf443YVdBpZZOGutxjsx) | [Dragon Wind](https://open.spotify.com/artist/282sN96UnlBm6hhQdpGHMG) | [Deja Vu](https://open.spotify.com/album/47m2jkxUKg7LKwTuAvifdt) | 3:04 | 2022-09-22 | 2023-01-04 |
 | [One Drope On World](https://open.spotify.com/track/14lFQ2ennhUQyDvS7LIxB8) | [SWAMP&STAR](https://open.spotify.com/artist/3l9cGKVRvyJHWSNDOb6fd5) | [One Drope On World](https://open.spotify.com/album/1zQSTded6rxRs9eTj42mml) | 3:22 | 2023-08-29 |  |
 | [One Simple Day](https://open.spotify.com/track/72m4yj70tdBd95AumCShfr) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Songs To Let Go](https://open.spotify.com/album/57Bw2jFpmGB0bASSgbBwir) | 3:09 | 2021-12-21 | 2022-07-29 |
+| [Oniria](https://open.spotify.com/track/5Cwt22rLEsrCjIXvcZ4Gz2) | [Dopamine clouds](https://open.spotify.com/artist/3VIQ9gIvMMoHzDsFOQd85j) | [Oniria](https://open.spotify.com/album/4MAMfvGlOx5tJXldqQQfLL) | 3:17 | 2024-08-19 |  |
 | [Onye Amuma](https://open.spotify.com/track/6CcNlcTKGyqi2pbcr4vubX) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Onye Amuma](https://open.spotify.com/album/2NXjIdg0VNEsXuudS2K8pP) | 3:10 | 2022-10-03 |  |
 | [Open Air](https://open.spotify.com/track/7KTPLShpRc7m6091ywTrjU) | [Ion Dia](https://open.spotify.com/artist/6tuTemxMmES4GFfBd54bHX) | [Open Air](https://open.spotify.com/album/5YXErTPlxXqszRJHa5JCGs) | 2:43 | 2022-11-25 | 2023-11-25 |
 | [Orbital](https://open.spotify.com/track/44MJQRHs2cF4a66b8japWK) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Orbital](https://open.spotify.com/album/626mbaJYFXKPfkFZWi7KlU) | 2:50 | 2024-06-10 |  |
@@ -547,6 +548,7 @@
 | [Pure Elements](https://open.spotify.com/track/3VXo1X3728wauOstZ44viK) | [Eustace Zachary](https://open.spotify.com/artist/02z2wzPVdsZWkKB0BRfhBM) | [Calming Sounds](https://open.spotify.com/album/3lep8BdhfX3rEnCauSUtLE) | 3:15 | 2022-12-14 | 2023-08-11 |
 | [Purple Sunrise](https://open.spotify.com/track/6DkUtEi0XgqV8LmnbDVpna) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Purple Sunrise](https://open.spotify.com/album/1fySOtQ7AtVUlLmwzvd0tg) | 2:57 | 2021-12-21 | 2022-10-04 |
 | [Quiescent State](https://open.spotify.com/track/6QQ5FWFNaFutL0fvJTL5DB) | [Yoo Woon](https://open.spotify.com/artist/0edoMxbwiiVrAXcJmTk4ml) | [Quiescent State](https://open.spotify.com/album/1MZgJHu3S5OMTxPOfSStDx) | 2:59 | 2024-06-10 |  |
+| [Quiet Dreams](https://open.spotify.com/track/1hLocT1ZOLgTPDVtsfLLwU) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Quiet Dreams](https://open.spotify.com/album/17zaNWBZFT5Gz3qzU6LXdd) | 2:58 | 2024-08-19 |  |
 | [Quiet Lake](https://open.spotify.com/track/39dfa566WWFrWpauUTcyeB) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Quiet Lake](https://open.spotify.com/album/5OzkOupkjdiTFNQNqdgfSm) | 3:09 | 2024-06-10 |  |
 | [Quiet Melodies](https://open.spotify.com/track/1GSVC5GkI5L1YbQIBZQHUh) | [Jolene Cedar](https://open.spotify.com/artist/41pIg33NrVsSkXuvOcG9Vs) | [Quiet Melodies](https://open.spotify.com/album/2IgwM3tlFn7HtNfvdO6Nmc) | 2:43 | 2022-11-25 |  |
 | [Quiet Message](https://open.spotify.com/track/14fUpA9CL93HvBk34JLcoE) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Quiet Message](https://open.spotify.com/album/43X5vkQgfD6H9u4Wtfniv0) | 3:33 | 2022-02-09 | 2022-10-26 |

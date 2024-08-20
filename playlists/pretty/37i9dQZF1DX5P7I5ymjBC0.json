@@ -1,6 +1,6 @@
 {
   "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
-  "num_followers": 69958,
+  "num_followers": 69961,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2024-08-09 06:00:10",
       "album": {
-        "name": "O Yaara",
-        "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
-      },
-      "artists": [
-        {
-          "name": "Abdul Hannan",
-          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
-        },
-        {
-          "name": "Kaavish",
-          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "O Yaara",
-      "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
-    },
-    {
-      "added_at": "2024-08-09 06:00:10",
-      "album": {
         "name": "Khalasi | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 258260,
       "name": "Khalasi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
+    },
+    {
+      "added_at": "2024-08-09 06:00:10",
+      "album": {
+        "name": "O Yaara",
+        "url": "https://open.spotify.com/album/1X6DbsKiPHQycPTlxNamUS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Kaavish",
+          "url": "https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "O Yaara",
+      "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
     },
     {
       "added_at": "2024-08-09 06:00:10",
@@ -695,26 +695,22 @@
     {
       "added_at": "2024-08-09 06:00:10",
       "album": {
-        "name": "Shakkar",
-        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
       },
       "artists": [
         {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+          "name": "Sajjad Ali",
+          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
         },
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
+          "name": "Zaw Ali",
+          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
         }
       ],
-      "duration_ms": 295135,
-      "name": "Shakkarpari",
-      "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
+      "duration_ms": 339226,
+      "name": "Ronay Na Diya",
+      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
     },
     {
       "added_at": "2024-08-09 06:00:10",
@@ -743,22 +739,26 @@
     {
       "added_at": "2024-08-09 06:00:10",
       "album": {
-        "name": "Coke Studio Season 10: Episode 3",
-        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+        "name": "Shakkar",
+        "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
       },
       "artists": [
         {
-          "name": "Sajjad Ali",
-          "url": "https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD"
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
         },
         {
-          "name": "Zaw Ali",
-          "url": "https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
         }
       ],
-      "duration_ms": 339226,
-      "name": "Ronay Na Diya",
-      "url": "https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc"
+      "duration_ms": 295135,
+      "name": "Shakkarpari",
+      "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
     },
     {
       "added_at": "2024-08-09 06:00:10",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-08-09 06:00:10",
       "album": {
-        "name": "Sakal Ban (Coke Studio Season 8)",
-        "url": "https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro"
-      },
-      "artists": [
-        {
-          "name": "Rizwan",
-          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
-        },
-        {
-          "name": "Muazzam Ali Khan",
-          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
-        }
-      ],
-      "duration_ms": 406711,
-      "name": "Sakal Ban - Coke Studio Season 8",
-      "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"
-    },
-    {
-      "added_at": "2024-08-09 06:00:10",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -983,6 +963,46 @@
     {
       "added_at": "2024-08-09 06:00:10",
       "album": {
+        "name": "Sakal Ban (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "duration_ms": 406711,
+      "name": "Sakal Ban - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"
+    },
+    {
+      "added_at": "2024-08-09 06:00:10",
+      "album": {
+        "name": "Coke Studio Season 10: Episode 3",
+        "url": "https://open.spotify.com/album/7c2Ujt133945maCr0SQncw"
+      },
+      "artists": [
+        {
+          "name": "Humera Channa",
+          "url": "https://open.spotify.com/artist/5sAmxrt0XBpk3Z8coDLriL"
+        },
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        }
+      ],
+      "duration_ms": 352048,
+      "name": "Mujh Se Pehli Si Muhabbat",
+      "url": "https://open.spotify.com/track/7DOTPaHpN2m68LFQiMnpYo"
+    },
+    {
+      "added_at": "2024-08-09 06:00:10",
+      "album": {
         "name": "Coke Studio Season 7",
         "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
@@ -995,22 +1015,6 @@
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
-    },
-    {
-      "added_at": "2024-08-09 06:00:10",
-      "album": {
-        "name": "Bhagwaan",
-        "url": "https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j"
-      },
-      "artists": [
-        {
-          "name": "Masala Coffee",
-          "url": "https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs"
-        }
-      ],
-      "duration_ms": 274110,
-      "name": "Bhagwaan",
-      "url": "https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb"
     }
   ],
   "unique_name": "Fusion Finds",

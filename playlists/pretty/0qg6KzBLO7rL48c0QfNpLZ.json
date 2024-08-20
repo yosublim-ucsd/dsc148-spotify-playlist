@@ -6,7 +6,7 @@
     "name": "Intact Records",
     "url": "https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q"
   },
-  "snapshot_id": "AAAYeG4CUysZBteDoCzRdhSAzqDBBWUW",
+  "snapshot_id": "AAAYkPc0ucg1m8a0URByLCsz20BfKydl",
   "tracks": [
     {
       "added_at": "2022-07-04 17:43:48",
@@ -113,26 +113,6 @@
       "url": "https://open.spotify.com/track/04hI9cC9HWKpzzXrud2CvT"
     },
     {
-      "added_at": "2024-08-16 07:19:42",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/7LhGwmbhc4oInC3WRrpeh2"
-      },
-      "artists": [
-        {
-          "name": "Starzun",
-          "url": "https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4"
-        },
-        {
-          "name": "Jordan Grace",
-          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
-        }
-      ],
-      "duration_ms": 142931,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/2FEtYfNSdsYTAbmJFLgL5n"
-    },
-    {
       "added_at": "2024-07-05 07:50:38",
       "album": {
         "name": "While We're Young",
@@ -179,6 +159,26 @@
       "duration_ms": 138543,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/4EQ7B4ELAsOtTTktv0A3S2"
+    },
+    {
+      "added_at": "2024-08-16 07:19:42",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/7LhGwmbhc4oInC3WRrpeh2"
+      },
+      "artists": [
+        {
+          "name": "Starzun",
+          "url": "https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4"
+        },
+        {
+          "name": "Jordan Grace",
+          "url": "https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k"
+        }
+      ],
+      "duration_ms": 142931,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/2FEtYfNSdsYTAbmJFLgL5n"
     },
     {
       "added_at": "2024-08-08 22:40:46",
@@ -403,6 +403,26 @@
       "duration_ms": 157500,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/2MU8oxytitanfBLhZwfAFY"
+    },
+    {
+      "added_at": "2024-08-19 07:59:28",
+      "album": {
+        "name": "Casualty (feat. maybealice)",
+        "url": "https://open.spotify.com/album/4mk0z9SPh1YnvJEuo37JJU"
+      },
+      "artists": [
+        {
+          "name": "Steam Phunk",
+          "url": "https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ"
+        },
+        {
+          "name": "maybealice",
+          "url": "https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Casualty (feat. maybealice)",
+      "url": "https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce"
     },
     {
       "added_at": "2024-08-16 12:58:52",
@@ -4157,26 +4177,6 @@
       "url": "https://open.spotify.com/track/79Vz5MNH7Qe4F7hPKT8tPz"
     },
     {
-      "added_at": "2024-01-18 07:56:27",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/5owRtbpRDsnelDFrc2SQfd"
-      },
-      "artists": [
-        {
-          "name": "UNDRESSD",
-          "url": "https://open.spotify.com/artist/6t9ucCmbp0yzfgKpSLl7XL"
-        },
-        {
-          "name": "Ellie May",
-          "url": "https://open.spotify.com/artist/4PoDl8ZLsbbdeNBrEC1eSH"
-        }
-      ],
-      "duration_ms": 162256,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3zYBfVC5Fo17ICTMJwqNKP"
-    },
-    {
       "added_at": "2023-12-02 12:30:56",
       "album": {
         "name": "Beautiful",
@@ -4273,22 +4273,6 @@
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
-      "added_at": "2024-01-18 07:38:44",
-      "album": {
-        "name": "Outta My Head",
-        "url": "https://open.spotify.com/album/7eMLJEJZvSPtHUZCTlOLWZ"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 121200,
-      "name": "Outta My Head",
-      "url": "https://open.spotify.com/track/4ES3yLJjDV9vMieX7cbJpj"
-    },
-    {
       "added_at": "2024-01-10 19:44:48",
       "album": {
         "name": "Presence",
@@ -4305,46 +4289,6 @@
       "url": "https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E"
     },
     {
-      "added_at": "2023-11-12 13:33:16",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/2YplDs9AvBIDnz2YX9W40D"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Mecdoux",
-          "url": "https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q"
-        },
-        {
-          "name": "Chill Covers",
-          "url": "https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/2rMogniPbEZEDIBnZmg9MY"
-    },
-    {
-      "added_at": "2023-12-07 21:02:30",
-      "album": {
-        "name": "Overthinking",
-        "url": "https://open.spotify.com/album/3Wy5qyYqfgF7RaRjeui3C3"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5Ci0MkMkPuIRSYrn7aT7ok"
-    },
-    {
       "added_at": "2023-12-08 14:50:12",
       "album": {
         "name": "Blossom (Deluxe)",
@@ -4359,50 +4303,6 @@
       "duration_ms": 255160,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/0L87MffumRNWrY2SNUFcvs"
-    },
-    {
-      "added_at": "2023-12-30 22:22:40",
-      "album": {
-        "name": "Sleep",
-        "url": "https://open.spotify.com/album/49rPIZxBEwNFxZSdhcjiMr"
-      },
-      "artists": [
-        {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
-        },
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Runforrest",
-          "url": "https://open.spotify.com/artist/6m4TPomVwYgFtvzRDjaaF5"
-        }
-      ],
-      "duration_ms": 178235,
-      "name": "Sleep",
-      "url": "https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C"
-    },
-    {
-      "added_at": "2024-01-04 12:46:35",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/1ptAIti9baQJNaNx9f6NxR"
-      },
-      "artists": [
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
-        },
-        {
-          "name": "Polar",
-          "url": "https://open.spotify.com/artist/4BOtJ2vRmZzo6HH6cS63Ju"
-        }
-      ],
-      "duration_ms": 157777,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6z86430kXKIZ0H9fr4HN52"
     },
     {
       "added_at": "2023-12-08 14:36:42",
@@ -4445,22 +4345,6 @@
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
-      "added_at": "2023-12-12 10:55:00",
-      "album": {
-        "name": "Always Getting Higher",
-        "url": "https://open.spotify.com/album/43kyJFa7yMsmAG6JOv5W9t"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 115471,
-      "name": "Always Getting Higher",
-      "url": "https://open.spotify.com/track/2GTvU13FMJWqKozznxL3MV"
-    },
-    {
       "added_at": "2023-12-21 22:00:13",
       "album": {
         "name": "After Hours",
@@ -4475,22 +4359,6 @@
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
-    },
-    {
-      "added_at": "2023-12-22 12:18:03",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/4a8myC7bPScWi8QHUfElEP"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        }
-      ],
-      "duration_ms": 107100,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/5OV5EW5t6bnf25LJSpcF0r"
     },
     {
       "added_at": "2023-12-22 12:23:02",
@@ -4533,38 +4401,6 @@
       "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
-      "added_at": "2023-11-10 07:08:09",
-      "album": {
-        "name": "Skylines",
-        "url": "https://open.spotify.com/album/3Fl5cEN18ENS1Wzo4qf9u2"
-      },
-      "artists": [
-        {
-          "name": "Polar",
-          "url": "https://open.spotify.com/artist/4BOtJ2vRmZzo6HH6cS63Ju"
-        }
-      ],
-      "duration_ms": 144652,
-      "name": "Skylines",
-      "url": "https://open.spotify.com/track/6WsD7ac7weEeio6QKobaep"
-    },
-    {
-      "added_at": "2024-01-10 20:49:43",
-      "album": {
-        "name": "Run Home",
-        "url": "https://open.spotify.com/album/2y3IKUxCwUswSOJ5K1FgHf"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Run Home",
-      "url": "https://open.spotify.com/track/78vsvEOEQwicL6qtxtiehU"
-    },
-    {
       "added_at": "2023-12-29 15:23:37",
       "album": {
         "name": "Supergirl (Radio Edit)",
@@ -4603,90 +4439,6 @@
       "duration_ms": 157605,
       "name": "Ride It",
       "url": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
-    },
-    {
-      "added_at": "2023-12-08 14:37:19",
-      "album": {
-        "name": "Cold Water (feat. Justin Bieber & M\u00d8)",
-        "url": "https://open.spotify.com/album/4SpuU8HT32EymGgFPL08LE"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 185351,
-      "name": "Cold Water (feat. Justin Bieber & M\u00d8)",
-      "url": "https://open.spotify.com/track/6Bjtr3tPdto5nyuLYf61sN"
-    },
-    {
-      "added_at": "2024-01-16 17:19:59",
-      "album": {
-        "name": "Chasing Time",
-        "url": "https://open.spotify.com/album/30CKaMTedX1ERtNwRwzBbA"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        },
-        {
-          "name": "Edwardo Atlas",
-          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
-        }
-      ],
-      "duration_ms": 151470,
-      "name": "Chasing Time",
-      "url": "https://open.spotify.com/track/6vg9PnlpahS0y0Tuuix442"
-    },
-    {
-      "added_at": "2023-12-28 09:41:31",
-      "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
-    },
-    {
-      "added_at": "2024-01-18 07:41:01",
-      "album": {
-        "name": "Can't Replace You",
-        "url": "https://open.spotify.com/album/7Jy9avj7Fl0um0tgU19lHg"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 128727,
-      "name": "Can't Replace You",
-      "url": "https://open.spotify.com/track/24Sf0BvyVFgfcHltMYFb3C"
     },
     {
       "added_at": "2023-12-13 19:41:40",
@@ -4729,38 +4481,6 @@
       "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
     },
     {
-      "added_at": "2024-05-08 09:08:52",
-      "album": {
-        "name": "Too Close To The Sun",
-        "url": "https://open.spotify.com/album/5gQFLxWm8vJhkUnO4aiNd4"
-      },
-      "artists": [
-        {
-          "name": "Portugal Sunset",
-          "url": "https://open.spotify.com/artist/0VYkVtNVpg4A825DoAqgXF"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Too Close To The Sun",
-      "url": "https://open.spotify.com/track/0WP3QMSlCSxzVBaSwWu3W1"
-    },
-    {
-      "added_at": "2024-01-10 20:50:15",
-      "album": {
-        "name": "Keep Me Up",
-        "url": "https://open.spotify.com/album/754BtgB6lpeyMOtJtAHdMQ"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 133142,
-      "name": "Keep Me Up",
-      "url": "https://open.spotify.com/track/2EN0Gazd2X4jHlkGrOJ2zS"
-    },
-    {
       "added_at": "2022-06-10 17:45:41",
       "album": {
         "name": "I Was Wrong (Robin Schulz Remix)",
@@ -4797,42 +4517,6 @@
       "url": "https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z"
     },
     {
-      "added_at": "2023-12-21 16:00:41",
-      "album": {
-        "name": "Bittersweet Symphony",
-        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
-      },
-      "artists": [
-        {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-        },
-        {
-          "name": "Emily Roberts",
-          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
-        }
-      ],
-      "duration_ms": 194618,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
-    },
-    {
-      "added_at": "2023-12-07 21:02:59",
-      "album": {
-        "name": "Ain 't Perfect",
-        "url": "https://open.spotify.com/album/0CDZoOQoQQks7dC0Z14AIL"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 147427,
-      "name": "Ain 't Perfect",
-      "url": "https://open.spotify.com/track/0GxVanzE05o1oxEmGcf4pk"
-    },
-    {
       "added_at": "2023-01-20 19:25:54",
       "album": {
         "name": "Follow the Sun",
@@ -4847,26 +4531,6 @@
       "duration_ms": 154313,
       "name": "Follow the Sun",
       "url": "https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute"
-    },
-    {
-      "added_at": "2023-12-22 12:37:54",
-      "album": {
-        "name": "Uncovered",
-        "url": "https://open.spotify.com/album/4iu0toRdSjyU0qIdKTWMoY"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/3rvEwBi1mFFHqCnkrGmnWp"
     },
     {
       "added_at": "2023-12-04 14:22:09",
@@ -4965,30 +4629,6 @@
       "url": "https://open.spotify.com/track/2UwCnds4eri2ueMXeRjJjH"
     },
     {
-      "added_at": "2023-01-30 09:07:13",
-      "album": {
-        "name": "Get Inside My Head (feat. Eirik N\u00e6ss)",
-        "url": "https://open.spotify.com/album/7itjLEJxEUFkblRZBC5TDJ"
-      },
-      "artists": [
-        {
-          "name": "C3DRIC",
-          "url": "https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK"
-        },
-        {
-          "name": "DALEXO",
-          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
-        },
-        {
-          "name": "Eirik N\u00e6ss",
-          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
-        }
-      ],
-      "duration_ms": 150983,
-      "name": "Get Inside My Head (feat. Eirik N\u00e6ss)",
-      "url": "https://open.spotify.com/track/4a6DKXwXM6DE3aWBF0aPR7"
-    },
-    {
       "added_at": "2023-04-07 03:59:05",
       "album": {
         "name": "Over It",
@@ -5079,30 +4719,6 @@
       "duration_ms": 157375,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/1iMDLTTnmTivGA4bJ80F85"
-    },
-    {
-      "added_at": "2023-12-21 22:57:12",
-      "album": {
-        "name": "Brown Eyed Girl",
-        "url": "https://open.spotify.com/album/16zEG3fRYo75oTNtUdcJ3o"
-      },
-      "artists": [
-        {
-          "name": "Rolipso",
-          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
-        },
-        {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/6vqqKcmf2gV1qcR3tfvULK"
     },
     {
       "added_at": "2023-12-29 16:16:46",

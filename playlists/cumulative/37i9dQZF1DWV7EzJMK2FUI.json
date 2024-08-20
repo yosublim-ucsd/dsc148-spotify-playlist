@@ -762,7 +762,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 177231,
       "name": "Accidently On Purpose",
       "url": "https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 182458,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/3PzunsgZeWxBAgsI99Ha7v"
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 175000,
       "name": "Country house",
       "url": "https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti"
@@ -4452,6 +4452,24 @@
       "duration_ms": 373840,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/7aB82vGu0ABleD2SQwHvnP"
+      },
+      "artists": [
+        {
+          "name": "James Elias",
+          "url": "https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188026,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/7wG5lwg5ZB1BqPyZ6UkZ12"
     },
     {
       "album": {
@@ -5511,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Evening Stroll",
+        "url": "https://open.spotify.com/album/2gTcibp2PCQN7MpsvBuQS6"
+      },
+      "artists": [
+        {
+          "name": "Loft Trio",
+          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Evening Stroll",
+      "url": "https://open.spotify.com/track/1diXhclwZpFmaglGeIpqBb"
+    },
+    {
+      "album": {
         "name": "Ever Since You Came",
         "url": "https://open.spotify.com/album/72goGK8ag1HjjFDirVAjWI"
       },
@@ -5526,6 +5562,24 @@
       "duration_ms": 277000,
       "name": "Ever Since You Came",
       "url": "https://open.spotify.com/track/7GaJHvb45wl4F5QYuesmI8"
+    },
+    {
+      "album": {
+        "name": "Every Time (You Say You Love Me)",
+        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180482,
+      "name": "Every Time (You Say You Love Me)",
+      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
     },
     {
       "album": {
@@ -5576,7 +5630,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 161752,
       "name": "Everything Happens To Me",
       "url": "https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1"
@@ -5688,6 +5742,24 @@
       "duration_ms": 208927,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/1pdckqLagXA7LFa5bhI8i4"
+    },
+    {
+      "album": {
+        "name": "Eyes of a Child",
+        "url": "https://open.spotify.com/album/192KYOfZZHuXaos0vDzf7Z"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik Trio",
+          "url": "https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180993,
+      "name": "Eyes of a Child",
+      "url": "https://open.spotify.com/track/0TWnrAQP2ehkJhU0kM2XXS"
     },
     {
       "album": {
@@ -6030,6 +6102,24 @@
       "duration_ms": 213000,
       "name": "Flights",
       "url": "https://open.spotify.com/track/6EIBuuTj0F4Jta3PRxW5iT"
+    },
+    {
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5XCLBnbAzSJ3XxRz2J6SWV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212836,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/4DsHu3dnXt71rN2WfIfnfq"
     },
     {
       "album": {
@@ -7636,7 +7726,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 191473,
       "name": "How Long Have I Waited?",
       "url": "https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW"
@@ -7834,7 +7924,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 325428,
       "name": "I Get Along Without You Very Well",
       "url": "https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS"
@@ -8256,7 +8346,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 239003,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR"
@@ -9388,7 +9478,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 157590,
       "name": "Into The Unknown",
       "url": "https://open.spotify.com/track/5cSLtmuZmymDqxGxhJ0YSF"
@@ -10566,7 +10656,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 230000,
       "name": "Late Nights",
       "url": "https://open.spotify.com/track/3uWcqUORXvInW2TcB85xZB"
@@ -11088,7 +11178,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 241273,
       "name": "Little One",
       "url": "https://open.spotify.com/track/0RiEqTnuAuI6wgxfOSHthW"
@@ -11232,7 +11322,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 219404,
       "name": "Lonely Avenue",
       "url": "https://open.spotify.com/track/7Af5x0oUmCHEpmvSK6U2zS"
@@ -11394,7 +11484,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 198139,
       "name": "Lost But Found",
       "url": "https://open.spotify.com/track/7IJKCq5Xt8nC6xI3ZDXwJo"
@@ -12338,7 +12428,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 211347,
       "name": "Midday Walk",
       "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
@@ -12536,7 +12626,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 195997,
       "name": "Minor Matters",
       "url": "https://open.spotify.com/track/79TNrecUsky8SMPo7I1AJC"
@@ -13372,7 +13462,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 234433,
       "name": "My Mistakes",
       "url": "https://open.spotify.com/track/7s4oZhKqHTi77Qx4RPIOmx"
@@ -14182,7 +14272,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 206750,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/6SDA08SDIvOubZQXGsNBRo"
@@ -15018,7 +15108,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 241000,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/6jnHBP28tpxWLf93Wc3xFG"
@@ -16804,7 +16894,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 215074,
       "name": "Slow fox",
       "url": "https://open.spotify.com/track/1wfEcUI12BqJQEPjXm3j03"
@@ -17956,7 +18046,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 238393,
       "name": "Strolling With My Poodle",
       "url": "https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC"
@@ -18035,6 +18125,24 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/39liLKUEL1PksWSLKTVJBy"
+      },
+      "artists": [
+        {
+          "name": "Adrian Berg",
+          "url": "https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5WwiqYKhGameSQcHRjdlxB"
+    },
+    {
+      "album": {
         "name": "Sunlit Sonata",
         "url": "https://open.spotify.com/album/1ZIeUNEi7s0HddckGQLGsa"
       },
@@ -18046,7 +18154,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 158866,
       "name": "Sunlit Sonata",
       "url": "https://open.spotify.com/track/56hKxPyecxQKS5ZkyeeBxe"
@@ -19234,7 +19342,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 318107,
       "name": "The Promise of Spring",
       "url": "https://open.spotify.com/track/5MM3iDrZqnCs1W44bHeyb7"
@@ -19594,7 +19702,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 290709,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK"
@@ -20865,6 +20973,24 @@
     },
     {
       "album": {
+        "name": "Waltz for O",
+        "url": "https://open.spotify.com/album/2NMlWHuY2xGn2dCdPw2duu"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "Waltz for O",
+      "url": "https://open.spotify.com/track/1CHCthWOeAL9iWcOItWaqD"
+    },
+    {
+      "album": {
         "name": "When We Were Young",
         "url": "https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn"
       },
@@ -21546,7 +21672,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 225398,
       "name": "When You're Not Around Me",
       "url": "https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg"
@@ -21870,7 +21996,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 267747,
       "name": "Windows",
       "url": "https://open.spotify.com/track/7k8NabcxMk5x0Mro6nfm29"

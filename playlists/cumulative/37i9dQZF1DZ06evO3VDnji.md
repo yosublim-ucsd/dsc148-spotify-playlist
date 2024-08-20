@@ -2,7 +2,7 @@
 
 ### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> This is DannyLux\. The essential tracks, all in one playlist.
+> This is DannyLux\. أغاني روعة في قايمة أغاني واحدة.
 
 52 songs - 3 hr 3 min
 

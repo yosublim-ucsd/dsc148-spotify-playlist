@@ -3578,6 +3578,24 @@
     {
       "album": {
         "name": "Quiet Dreams",
+        "url": "https://open.spotify.com/album/17zaNWBZFT5Gz3qzU6LXdd"
+      },
+      "artists": [
+        {
+          "name": "Astred",
+          "url": "https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178803,
+      "name": "Quiet Dreams",
+      "url": "https://open.spotify.com/track/1hLocT1ZOLgTPDVtsfLLwU"
+    },
+    {
+      "album": {
+        "name": "Quiet Dreams",
         "url": "https://open.spotify.com/album/5Xxn5Iuq8NGJ3pYzMxov60"
       },
       "artists": [
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 158417,
       "name": "Vast World",
       "url": "https://open.spotify.com/track/0SO4cpirBGXlBZfDjMCnYk"

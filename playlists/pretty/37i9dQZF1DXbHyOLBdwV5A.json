@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 122787,
+  "num_followers": 122793,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,26 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
-        "name": "A Sua Chance",
-        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
+        "name": "N\u00e3o Sou Merecedor",
+        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
       "artists": [
         {
-          "name": "Dj Roony Moura",
-          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Diego Tiguez",
-          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 241162,
-      "name": "A Sua Chance",
-      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
+      "duration_ms": 147840,
+      "name": "N\u00e3o Sou Merecedor",
+      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
     },
     {
       "added_at": "2024-08-09 18:34:31",
@@ -819,26 +823,22 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
-        "name": "N\u00e3o Sou Merecedor",
-        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+        "name": "A Sua Chance",
+        "url": "https://open.spotify.com/album/3Mx7c1qi99FGGlTjEFW2dY"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+          "name": "Dj Roony Moura",
+          "url": "https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL"
         },
         {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Diego Tiguez",
+          "url": "https://open.spotify.com/artist/1ghipBHakOKPGsliNK7ZPP"
         }
       ],
-      "duration_ms": 147840,
-      "name": "N\u00e3o Sou Merecedor",
-      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
+      "duration_ms": 241162,
+      "name": "A Sua Chance",
+      "url": "https://open.spotify.com/track/328Xjnw4Oqehh3kHCfPrm1"
     },
     {
       "added_at": "2024-08-09 18:34:31",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-08-09 18:34:31",
       "album": {
-        "name": "Sorrindo \u00e0 Toa (Remix)",
-        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
-      },
-      "artists": [
-        {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleytinho de Maca\u00e9",
-          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
-        }
-      ],
-      "duration_ms": 155142,
-      "name": "Sorrindo \u00e0 Toa - Remix",
-      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
-    },
-    {
-      "added_at": "2024-08-09 18:34:31",
-      "album": {
         "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
         "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 158789,
       "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
       "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+    },
+    {
+      "added_at": "2024-08-09 18:34:31",
+      "album": {
+        "name": "Sorrindo \u00e0 Toa (Remix)",
+        "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
+      },
+      "artists": [
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleytinho de Maca\u00e9",
+          "url": "https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Sorrindo \u00e0 Toa - Remix",
+      "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
     },
     {
       "added_at": "2024-08-09 18:34:31",

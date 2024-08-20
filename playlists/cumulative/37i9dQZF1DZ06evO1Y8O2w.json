@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
+  "description": "This is Phyllis Hyman. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Phyllis Hyman",
   "tracks": [
     {
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 277040,
       "name": "Come Right or Not at All",
       "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
@@ -1364,6 +1364,24 @@
       "duration_ms": 322133,
       "name": "The Night Bird Gets the Love",
       "url": "https://open.spotify.com/track/5RBwLqfIzfHF4Iv5f5VL4q"
+    },
+    {
+      "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "The Sunshine In My Life",
+      "url": "https://open.spotify.com/track/48LPycvXjuqWW11js0YcrN"
     },
     {
       "album": {

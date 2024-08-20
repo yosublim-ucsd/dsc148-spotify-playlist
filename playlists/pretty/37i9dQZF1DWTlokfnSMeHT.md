@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to Stray Kids's best songs! \(스트레이 키즈의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,553 likes - 29 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,365 likes - 29 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

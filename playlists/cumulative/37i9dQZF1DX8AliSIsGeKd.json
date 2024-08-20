@@ -3267,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "All You Got To Do",
+        "url": "https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "All You Got To Do",
+      "url": "https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB"
+    },
+    {
+      "album": {
         "name": "Alle meine Raver",
         "url": "https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4"
       },
@@ -77132,7 +77150,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 227460,
       "name": "Warehouse",
       "url": "https://open.spotify.com/track/3r5mSQcR9nllOy8r5jeH9i"

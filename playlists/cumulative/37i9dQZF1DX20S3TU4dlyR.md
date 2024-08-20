@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I
 
-252 songs - 16 hr 43 min
+253 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [De la Espuma del Mar](https://open.spotify.com/track/52YZVnRmwtq6DclRMALTRZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [De la Espuma del Mar](https://open.spotify.com/album/5oSqppOEP0pVnemOoVqh2C) | 2:59 | 2022-05-06 | 2022-06-25 |
 | [De la Tierra Crece](https://open.spotify.com/track/2um53B5wdoATS9GbrWf5Vo) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/3vI408stCBdZIR7K9LrAMU) | 3:09 | 2022-05-06 | 2022-07-28 |
 | [De la Tierra Crece](https://open.spotify.com/track/7nNhXCXJpRm9GWmeQJ6LwR) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 | 2022-07-01 | 2024-04-19 |
-| [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 | 2022-05-06 |  |
+| [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 | 2022-05-06 | 2024-08-20 |
 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2022-05-06 |  |
 | [Dela](https://open.spotify.com/track/4sEJncSrPDPuUe4hlp0xvI) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Dela](https://open.spotify.com/album/7hCmxe0ra4M5DaOth4hWnP) | 4:24 | 2024-01-11 | 2024-06-06 |
 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 | 2022-09-19 | 2024-06-28 |
@@ -125,6 +125,7 @@
 | [La Ventanita](https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 2](https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U) | 3:35 | 2023-10-05 | 2024-03-07 |
 | [La Ventanita](https://open.spotify.com/track/5x7jB6C0kyxGW4SKFnfrk5) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [La Ventanita](https://open.spotify.com/album/185Zz8UKk2q2WfL0OSi2GE) | 3:36 | 2022-05-06 | 2022-07-24 |
 | [La Vida 2021](https://open.spotify.com/track/4sLsDpZynjQ5R20FBwARS9) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [MC Piri](https://open.spotify.com/artist/5W7vbxMex5UtO8ugjXZvwp), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ), [Aflora](https://open.spotify.com/artist/5NoJxqFDzQDQKXglvlHs7l), [Bacayo Brass](https://open.spotify.com/artist/6WOVoiNqsdDZ5sQWrs6FEd) | [La Vida 2021](https://open.spotify.com/album/6MRtPiW2MnP48LXczZpZ1w) | 4:33 | 2022-05-06 | 2022-07-15 |
+| [La Vida te Habla](https://open.spotify.com/track/4oK5MgdWGvfIjICZJf0sCc) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [La Vida te Habla](https://open.spotify.com/album/23aWViVCijrwN9887u0UC0) | 3:43 | 2024-08-16 |  |
 | [La Última Gota](https://open.spotify.com/track/1R9g4cfnkoOcbSHsnvKM4Q) | [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [La Última Gota](https://open.spotify.com/album/7BQUUqBrHhpopSIuX6ukt3) | 3:02 | 2022-05-06 | 2022-07-17 |
 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 | 2022-05-06 | 2023-10-06 |
 | [Laberintos](https://open.spotify.com/track/0nIMtjFwqqhJxk0cDljxHG) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [En el Sendero](https://open.spotify.com/album/4NzGzDvqUWJPkgzEqCGpnb) | 4:15 | 2022-05-06 |  |

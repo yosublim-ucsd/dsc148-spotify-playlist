@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Du (Krossa alla f\u00f6nster)",
+        "url": "https://open.spotify.com/album/5v8dKEBAojeoDHid9247g8"
+      },
+      "artists": [
+        {
+          "name": "Youzie",
+          "url": "https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136965,
+      "name": "Du (Krossa alla f\u00f6nster)",
+      "url": "https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S"
+    },
+    {
+      "album": {
         "name": "Dum",
         "url": "https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY"
       },

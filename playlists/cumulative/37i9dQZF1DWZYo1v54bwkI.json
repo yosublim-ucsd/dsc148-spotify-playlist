@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 144705,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/2vy7Y6HaIB2zeVdxk4HyMP"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 175071,
       "name": "Hidden Lotus",
       "url": "https://open.spotify.com/track/2GT3QE7CaEISpaRl9GmgXG"
@@ -2342,7 +2342,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 165000,
       "name": "In a Sentence",
       "url": "https://open.spotify.com/track/4LNY7W6U2JFRN135YZq6rH"
@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Mono",
+        "url": "https://open.spotify.com/album/4c9L231rrilGDLFsqqRrnK"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Mono",
+      "url": "https://open.spotify.com/track/4PoV6h7nScqlYcK1TBcSuA"
+    },
+    {
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/1mm5iLOYjDAqSWa50BzUOF"
       },
@@ -3516,6 +3534,24 @@
       "duration_ms": 198483,
       "name": "Overview",
       "url": "https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7"
+    },
+    {
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/2s63P5nSgrg8xpo3Ms7KZR"
+      },
+      "artists": [
+        {
+          "name": "Sheila's Disciples",
+          "url": "https://open.spotify.com/artist/6fVRZUOhSnwc3dtmooHbkO"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/7cVByaVSKD5ep8EJFrJozi"
     },
     {
       "album": {

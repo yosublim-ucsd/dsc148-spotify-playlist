@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcFCZS9poESZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcFCZS9poESZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcFCZS9poESZ)
 
-### [Anime Rewind '80s](https://open.spotify.com/playlist/37i9dQZF1DXcFCZS9poESZ)
+### [Anime Hits 80's](https://open.spotify.com/playlist/37i9dQZF1DXcFCZS9poESZ)
 
-> The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
+> The hottest Anime hits of the 80s\. 1980年代のアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
 94 songs - 5 hr 56 min
 

@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 150765,
       "name": "CA-SHING",
       "url": "https://open.spotify.com/track/5foluJkCnagRboHQrchBPW"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 210291,
       "name": "Early Morning Hours",
       "url": "https://open.spotify.com/track/390Nqebjl51P4LyEJTfoew"
@@ -4292,6 +4292,24 @@
       "duration_ms": 140000,
       "name": "Late Night Drive",
       "url": "https://open.spotify.com/track/1sHlhVfyPyVlyBpp1x5Xgz"
+    },
+    {
+      "album": {
+        "name": "Laughing in the Morning",
+        "url": "https://open.spotify.com/album/58dQ9ZeirWNCCdhAC4yHNq"
+      },
+      "artists": [
+        {
+          "name": "it's me.",
+          "url": "https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181331,
+      "name": "Laughing in the Morning",
+      "url": "https://open.spotify.com/track/2UJGxWlkGMH2yEeBpGGz7x"
     },
     {
       "album": {
@@ -7882,7 +7900,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 208648,
       "name": "The Root",
       "url": "https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ"

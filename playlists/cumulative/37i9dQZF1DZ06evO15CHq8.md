@@ -2,7 +2,7 @@
 
 ### [This Is $uicideboy$](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
 
-> This is $uicideboy$\. Tutti i brani in un'unica playlist.
+> This is $uicideboy$\. The essential tracks, all in one playlist.
 
 63 songs - 2 hr 35 min
 

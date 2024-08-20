@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "AVANGARD",
+        "url": "https://open.spotify.com/album/15LsgZDm81u6XV0IXsdxaD"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        }
+      ],
+      "date_added": "2024-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156843,
+      "name": "AVANGARD",
+      "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
+    },
+    {
+      "album": {
         "name": "Baby, You're the One (Whole Again)",
         "url": "https://open.spotify.com/album/6E5nsoVzcVSwx4L47mhMcA"
       },
@@ -13352,7 +13370,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-20",
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"

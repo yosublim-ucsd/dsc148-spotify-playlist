@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
-  "num_followers": 142480,
+  "num_followers": 142559,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,30 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Festa em Ipanema",
+        "url": "https://open.spotify.com/album/6f8r4VrSGxX4hvZig077tv"
+      },
+      "artists": [
+        {
+          "name": "Valle YNY",
+          "url": "https://open.spotify.com/artist/0Y4Qtzd1d0r2Xs12CoXnEJ"
+        },
+        {
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+        },
+        {
+          "name": "prod santtoz",
+          "url": "https://open.spotify.com/artist/7qBeJ66cGdeL4nB4ofDYf6"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Festa em Ipanema",
+      "url": "https://open.spotify.com/track/3wfWxaxvkHasacHIuUgR6Q"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Mixtape Novset, Vol. 1",
         "url": "https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6"
       },
@@ -1155,30 +1179,6 @@
       "duration_ms": 184000,
       "name": "Jovem Pr\u00edncipe - Remix",
       "url": "https://open.spotify.com/track/1Ky0nJZ03ZH3Y50uD4gvek"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Festa em Ipanema",
-        "url": "https://open.spotify.com/album/6f8r4VrSGxX4hvZig077tv"
-      },
-      "artists": [
-        {
-          "name": "Valle YNY",
-          "url": "https://open.spotify.com/artist/0Y4Qtzd1d0r2Xs12CoXnEJ"
-        },
-        {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
-        },
-        {
-          "name": "prod santtoz",
-          "url": "https://open.spotify.com/artist/7qBeJ66cGdeL4nB4ofDYf6"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Festa em Ipanema",
-      "url": "https://open.spotify.com/track/3wfWxaxvkHasacHIuUgR6Q"
     },
     {
       "added_at": "2024-08-16 03:01:00",
