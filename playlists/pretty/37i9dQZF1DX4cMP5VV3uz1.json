@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 157386,
+  "num_followers": 157424,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,26 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
+        "name": "Lose Control (feat. Grace Barton)",
+        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Grace Barton",
+          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
+        }
+      ],
+      "duration_ms": 191725,
+      "name": "Lose Control (feat. Grace Barton)",
+      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
         "name": "No Tomorrow (P Money x Whiney Remix)",
         "url": "https://open.spotify.com/album/05lBv1T8JVw4LGyxFHGjVg"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 249700,
       "name": "No Tomorrow (P Money x Whiney Remix)",
       "url": "https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
-        "name": "Lose Control (feat. Grace Barton)",
-        "url": "https://open.spotify.com/album/11nJjItPfqK8eoJKo18QNY"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "Grace Barton",
-          "url": "https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx"
-        }
-      ],
-      "duration_ms": 191725,
-      "name": "Lose Control (feat. Grace Barton)",
-      "url": "https://open.spotify.com/track/3PXTbB4RjSIPW8LiDrHHrd"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
-      },
-      "artists": [
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Races (feat. Blanco)",
-        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 140848,
-      "name": "Races (feat. Blanco)",
-      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Nobody Likes The Records That I Play",
         "url": "https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 193103,
       "name": "Nobody Likes The Records That I Play",
       "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Races (feat. Blanco)",
+        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 140848,
+      "name": "Races (feat. Blanco)",
+      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT"
-      },
-      "artists": [
-        {
-          "name": "DJ Zinc",
-          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
-        },
-        {
-          "name": "IYAMAH",
-          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Stubborn",
-      "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
-    },
-    {
-      "added_at": "2024-08-08 23:00:00",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
       },
@@ -987,18 +967,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/2KTdiiifLmx1WVnyVjP9aT"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "DJ Zinc",
+          "url": "https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ"
+        },
+        {
+          "name": "IYAMAH",
+          "url": "https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1"
         }
       ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
+      "duration_ms": 133793,
+      "name": "Stubborn",
+      "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1019,6 +1003,22 @@
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+    },
+    {
+      "added_at": "2024-08-08 23:00:00",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Ninja Bike",
-        "url": "https://open.spotify.com/album/7lozbB05OVPex60QL9lVyr"
+        "name": "Nancy Junglist",
+        "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
       "artists": [
         {
-          "name": "FooR",
-          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
         },
         {
-          "name": "CLSM",
-          "url": "https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk"
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
         }
       ],
-      "duration_ms": 177266,
-      "name": "Ninja Bike",
-      "url": "https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh"
+      "duration_ms": 220800,
+      "name": "Nancy Junglist",
+      "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
     },
     {
       "added_at": "2024-08-08 23:00:00",
@@ -1451,22 +1451,22 @@
     {
       "added_at": "2024-08-08 23:00:00",
       "album": {
-        "name": "Nancy Junglist",
-        "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
+        "name": "Ninja Bike",
+        "url": "https://open.spotify.com/album/7lozbB05OVPex60QL9lVyr"
       },
       "artists": [
         {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+          "name": "FooR",
+          "url": "https://open.spotify.com/artist/0TgZuVgRBjg6iLkZafbfmr"
         },
         {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+          "name": "CLSM",
+          "url": "https://open.spotify.com/artist/4l2H79bDyhtxf87atRG8dk"
         }
       ],
-      "duration_ms": 220800,
-      "name": "Nancy Junglist",
-      "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
+      "duration_ms": 177266,
+      "name": "Ninja Bike",
+      "url": "https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh"
     },
     {
       "added_at": "2024-08-08 23:00:00",

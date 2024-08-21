@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 149015,
       "name": "A Glimpse Of The Future",
       "url": "https://open.spotify.com/track/6D3Imkm2BqdYhn1RoFVGmY"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 198433,
       "name": "Comin\u2019 Over",
       "url": "https://open.spotify.com/track/5lyeT62mgumKxZEMRZYyXG"
@@ -4024,6 +4024,24 @@
       "duration_ms": 215868,
       "name": "Evening Dance",
       "url": "https://open.spotify.com/track/2mWTB2ZKouAhTQruOpbyMA"
+    },
+    {
+      "album": {
+        "name": "Evening Stroll",
+        "url": "https://open.spotify.com/album/2gTcibp2PCQN7MpsvBuQS6"
+      },
+      "artists": [
+        {
+          "name": "Loft Trio",
+          "url": "https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Evening Stroll",
+      "url": "https://open.spotify.com/track/1diXhclwZpFmaglGeIpqBb"
     },
     {
       "album": {
@@ -7374,7 +7392,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 167793,
       "name": "Just one more day",
       "url": "https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y"
@@ -7392,7 +7410,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 204680,
       "name": "Keep It Away",
       "url": "https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP"
@@ -7554,7 +7572,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 201386,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7"
@@ -8868,7 +8886,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 211347,
       "name": "Midday Walk",
       "url": "https://open.spotify.com/track/1rgG63Kci1aVlCCxFjQ4ci"
@@ -13668,7 +13686,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 176145,
       "name": "The Lights of Macau",
       "url": "https://open.spotify.com/track/2ftsIBsirQonhMxCHsn52l"
@@ -14436,7 +14454,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 209430,
       "name": "Tideaway",
       "url": "https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY"
@@ -15210,7 +15228,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 160500,
       "name": "Wave",
       "url": "https://open.spotify.com/track/24Haz1HYEkk7YBAzg8GOfi"

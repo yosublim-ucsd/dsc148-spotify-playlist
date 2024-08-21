@@ -1,6 +1,6 @@
 {
   "description": "KHEA & C.R.O  en la casa del Trap Argentino.",
-  "num_followers": 628558,
+  "num_followers": 628555,
   "original_name": "Trapperz Argentina",
   "owner": {
     "name": "Spotify",
@@ -704,10 +704,6 @@
           "url": "https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o"
         },
         {
-          "name": "almeja",
-          "url": "https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh"
-        },
-        {
           "name": "Ramma",
           "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
         },
@@ -718,6 +714,10 @@
         {
           "name": "Tiano",
           "url": "https://open.spotify.com/artist/1rAJwyGY6mSbV4U83L590D"
+        },
+        {
+          "name": "almeja",
+          "url": "https://open.spotify.com/artist/71gzy96nNKcRdymNSLp5Rh"
         }
       ],
       "duration_ms": 330000,

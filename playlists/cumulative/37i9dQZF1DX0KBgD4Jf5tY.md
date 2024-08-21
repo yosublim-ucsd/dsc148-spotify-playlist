@@ -4,7 +4,7 @@
 
 > Il meglio della musica indipendente italiana! Cover: <a href="spotify:artist:0ez4Y0vHwlRCrqGIkChC3Q">TÄRA</a>
 
-1,365 songs - 2 day 19 hr 40 min
+1,366 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Il tuo nome](https://open.spotify.com/track/668OpnQUUI0zGPjshTKTIa) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs), [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Il tuo nome](https://open.spotify.com/album/0xmkTJhWG3ClWTaMAGHPKG) | 2:42 | 2023-06-13 | 2023-07-19 |
 | [Il vento del nord](https://open.spotify.com/track/0JVTxEufKPHHUn0GWZ2qsK) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Il vento del nord](https://open.spotify.com/album/6qaturmycSCGiH4mEasn0n) | 2:23 | 2024-07-18 |  |
 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2023-04-18 | 2023-05-11 |
+| [Immagini Terribili](https://open.spotify.com/track/34hptFhbU0L0y6a3FjWBUe) | [allafineguglielmo](https://open.spotify.com/artist/3DuD9wAi6DoK2xPNpYPK30) | [Immagini Terribili](https://open.spotify.com/album/3EAuCNHkfSOQbTbR4N12G8) | 3:06 | 2024-07-18 |  |
 | [Immenso](https://open.spotify.com/track/5s6nHbPMsdm4dGrVomGUyq) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Immenso](https://open.spotify.com/album/59tvrT6m029YtsLniZ0eMC) | 3:31 | 2022-10-14 | 2022-12-01 |
 | [Immune](https://open.spotify.com/track/4Rd3Epu7LPyhrOAjN62Jkf) | [K.Wasabi](https://open.spotify.com/artist/7b1uiauywAz9Hgin8D1IyQ) | [Immune](https://open.spotify.com/album/7ALHVYp3akp59EqqqzdXXn) | 3:06 | 2023-05-30 | 2023-07-05 |
 | [IN 7](https://open.spotify.com/track/5SRhy7NvDOD7VBFbW78Wd1) | [Bartowski](https://open.spotify.com/artist/1mNpUnAOSVj0zfZ76OOZLy) | [IN 7](https://open.spotify.com/album/3PsLzN9XXJVW1PSDZ9ETST) | 2:49 | 2023-03-02 | 2023-03-25 |
@@ -1097,7 +1098,7 @@
 | [SCUSA](https://open.spotify.com/track/6beHuEqdhriAqBULEQ48Hu) | [Lele](https://open.spotify.com/artist/3SnnCylpFBT2CY1UmvBIxd) | [SCUSA](https://open.spotify.com/album/3kKJMF8Qmz6g4SOyH9dSIg) | 2:49 | 2024-04-23 | 2024-05-24 |
 | [Scusa se ti amo \(ma\)](https://open.spotify.com/track/5T3GUt6ef0QCE598DPwt41) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Scusa se ti amo \(ma\)](https://open.spotify.com/album/76HBLdyKIDZQOpyJeLsscB) | 3:05 | 2023-04-18 | 2023-05-18 |
 | [Scuse](https://open.spotify.com/track/23If7giarQ3qk3Rx0AYSq6) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Scuse](https://open.spotify.com/album/6CmdaqnNkVBijCoYNveXRK) | 2:35 | 2022-04-19 | 2022-06-10 |
-| [SDM](https://open.spotify.com/track/7BwfxhDgqinbsVqeZ7wEqn) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [SDM](https://open.spotify.com/album/1l5TOZqVMgUtjzEgy0OFv3) | 2:20 | 2024-07-18 |  |
+| [SDM](https://open.spotify.com/track/7BwfxhDgqinbsVqeZ7wEqn) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC) | [SDM](https://open.spotify.com/album/1l5TOZqVMgUtjzEgy0OFv3) | 2:20 | 2024-07-18 | 2024-08-21 |
 | [Se continuavamo così](https://open.spotify.com/track/2yppWHzqsKOPmUhtxjAMST) | [Bastian Contrario](https://open.spotify.com/artist/4EQaVYUnYZzI2x8myUbXxO) | [Se continuavamo così](https://open.spotify.com/album/7nTxzKBKA6hM5Nanv85U8S) | 4:21 | 2022-09-29 | 2022-10-15 |
 | [Se fisso il cielo](https://open.spotify.com/track/3eVAh4cZEN14nMEHrW833Y) | [Ermete Diara](https://open.spotify.com/artist/08FcAnDdDvSActXSqUbVOQ) | [Se fisso il cielo](https://open.spotify.com/album/0KYGBRR9vGwBiGOqmRiV6U) | 3:16 | 2022-05-27 | 2022-07-01 |
 | [se non te](https://open.spotify.com/track/1ro6xYAxt8jtCqCSrkjNdN) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh) | [se non te](https://open.spotify.com/album/0OLZJSIq6x8kjj9uZQezY3) | 2:42 | 2023-06-20 | 2023-08-03 |

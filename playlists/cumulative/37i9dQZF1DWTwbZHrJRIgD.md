@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-246 songs - 14 hr 46 min
+247 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 | 2024-03-19 |  |
 | [Suhagan](https://open.spotify.com/track/3yLw3cfcVgralWalq2nVMc) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Suhagan](https://open.spotify.com/album/3Y7ONQoYBhUIupBp1psKkh) | 2:03 | 2024-07-05 | 2024-08-17 |
 | [Sun Maahi](https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi](https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR) | 2:49 | 2022-12-05 | 2023-02-21 |
+| [Sun Sarkaar \- Bonus Track](https://open.spotify.com/track/6AfMWaEEMjgR3lLVwvs1TZ) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Aadat \(Remastered\)](https://open.spotify.com/album/1cASnT0ScQEcX52WYBfeyY) | 2:40 | 2024-08-20 |  |
 | [Sun Zara \(From "Cirkus"\)](https://open.spotify.com/track/6lBUJpovAhtc7WqhDNiLtX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sun Zara \(From "Cirkus"\)](https://open.spotify.com/album/2tMKjBxs2QKAk6woe8MJEn) | 3:35 | 2022-12-16 | 2023-02-21 |
 | [Sunoh \(From "The Archies"\)](https://open.spotify.com/track/2oNcmoIOlDTBKPh7FzXSAT) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [The Islanders](https://open.spotify.com/artist/13S9FAokOhD3RZeAz6ti4i), [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Sunoh \(From "The Archies"\)](https://open.spotify.com/album/4hn7BSt8k7zIyyaNkkUXlJ) | 3:05 | 2023-10-19 | 2023-11-10 |
 | [Suttebaaz Haseena](https://open.spotify.com/track/5FUGJeS2VGFPc8JAP1SUgs) | [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl), [Harsh Tyagi](https://open.spotify.com/artist/5mXhRPfoqXmyvoy6uepCvH) | [Wild Wild Punjab](https://open.spotify.com/album/1RXkTxa6wbimsNUk053fKY) | 3:00 | 2024-07-08 |  |

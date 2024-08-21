@@ -2,7 +2,7 @@
 
 ### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> This is DannyLux\. أغاني روعة في قايمة أغاني واحدة.
+> This Is DannyLux\. Zásadní skladby, všechny v jednom playlistu.
 
 52 songs - 3 hr 3 min
 

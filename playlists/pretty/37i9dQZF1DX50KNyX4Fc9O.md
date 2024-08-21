@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: LISA, ROSALĪA
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,307 likes - 101 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,356 likes - 101 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 44 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 |
 | 45 | [To Be Loved](https://open.spotify.com/track/7mYi57bF2DGmlzXBwLz2W6) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2rTuigVWhBMS4RyyeAQ4hR) | 5:04 |
 | 46 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
-| 47 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol 2.](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
+| 47 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol.2](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
 | 48 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 |
 | 49 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 |
 | 50 | [Downgraded](https://open.spotify.com/track/2gRQMQajNNg8O1bbPKCPPt) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [afterimage](https://open.spotify.com/album/2MATeEWkPtQefpC1RGrVsw) | 3:10 |

@@ -2,7 +2,7 @@
 
 ### ['fit check](https://open.spotify.com/playlist/37i9dQZF1DX1dvMSwf27JO)
 
-> music to get fly to ft\. Tyla
+> music to get fly to ft\. FKA twigs
 
 622 songs - 1 day 9 hr 32 min
 

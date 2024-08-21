@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Elsa y Elmar en portada.",
-  "num_followers": 30720,
+  "num_followers": 30733,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
+        "name": "LOKADEM\u00c1S",
+        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
+      },
+      "artists": [
+        {
+          "name": "RUSLANA",
+          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "LOKADEM\u00c1S",
+      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "LOKADEM\u00c1S",
-        "url": "https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB"
-      },
-      "artists": [
-        {
-          "name": "RUSLANA",
-          "url": "https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "LOKADEM\u00c1S",
-      "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
         "name": "Lejos de Ti",
         "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
       },
@@ -319,26 +319,6 @@
       "duration_ms": 208802,
       "name": "Nada por Hecho (feat. Leiva)",
       "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
-        "name": "\u00bfQu\u00e9 vas a saber?",
-        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
-      },
-      "artists": [
-        {
-          "name": "Love of Lesbian",
-          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
-        },
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 251093,
-      "name": "\u00bfQu\u00e9 vas a saber?",
-      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -415,26 +395,6 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "Hablar de Flores",
-        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        }
-      ],
-      "duration_ms": 189551,
-      "name": "Hablar de Flores",
-      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -455,38 +415,22 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+        "name": "\u00bfQu\u00e9 vas a saber?",
+        "url": "https://open.spotify.com/album/33IFiDbkayObVb36TdCV6l"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
-        "name": "Biling\u00fces",
-        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Love of Lesbian",
+          "url": "https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF"
         },
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Biling\u00fces",
-      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
+      "duration_ms": 251093,
+      "name": "\u00bfQu\u00e9 vas a saber?",
+      "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -507,6 +451,62 @@
       "duration_ms": 325145,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/4Ey3GCtvICUIJDM0wUCPd0"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Hablar de Flores",
+        "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "duration_ms": 189551,
+      "name": "Hablar de Flores",
+      "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Biling\u00fces",
+        "url": "https://open.spotify.com/album/2oP9WaSwMpMHagFAtwQkJq"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Biling\u00fces",
+      "url": "https://open.spotify.com/track/6euS235KVmpywN68iAVM9j"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "Sabor a Chocolate",
-        "url": "https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 231027,
-      "name": "Sabor a Chocolate",
-      "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 183109,
       "name": "La Puerta",
       "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Sabor a Chocolate",
+        "url": "https://open.spotify.com/album/1DdGH31QzyzvClzx9U4Wtq"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 231027,
+      "name": "Sabor a Chocolate",
+      "url": "https://open.spotify.com/track/1SMVUXsly4CTjjOen5uTpq"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
+        "name": "7 Secretos",
+        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "Dame Love - Remix",
+      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
         "name": "Que Somos (Remix)",
         "url": "https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 185678,
       "name": "Que Somos - Remix",
       "url": "https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
-        "name": "7 Secretos",
-        "url": "https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "Dame Love - Remix",
-      "url": "https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
         "name": "ECLIPSE",
         "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 153837,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2024-07-29 18:31:50",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-07-29 18:31:50",
       "album": {
-        "name": "Recuerdos Que Torturan",
-        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 210425,
-      "name": "Recuerdos Que Torturan",
-      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
-    },
-    {
-      "added_at": "2024-07-29 18:31:50",
-      "album": {
         "name": "Check",
         "url": "https://open.spotify.com/album/0yKmUnSPPCyaNrBbFobzT4"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 203000,
       "name": "Check",
       "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
+    },
+    {
+      "added_at": "2024-07-29 18:31:50",
+      "album": {
+        "name": "Recuerdos Que Torturan",
+        "url": "https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 210425,
+      "name": "Recuerdos Que Torturan",
+      "url": "https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW"
     },
     {
       "added_at": "2024-07-29 18:31:50",

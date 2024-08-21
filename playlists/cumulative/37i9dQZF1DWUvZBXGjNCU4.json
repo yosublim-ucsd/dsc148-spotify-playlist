@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Aarhus",
+        "url": "https://open.spotify.com/album/5NFP5utJIVAevIcCl2Qh5X"
+      },
+      "artists": [
+        {
+          "name": "Rafaela Moreno",
+          "url": "https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157283,
+      "name": "Aarhus",
+      "url": "https://open.spotify.com/track/3EtQMeQ0OizN22bky9Nvyn"
+    },
+    {
+      "album": {
         "name": "abcdefu (Guitar)",
         "url": "https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF"
       },
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 140412,
       "name": "Heaven and Heart",
       "url": "https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D"
@@ -5410,6 +5428,24 @@
       "duration_ms": 176339,
       "name": "Transient Clouds",
       "url": "https://open.spotify.com/track/0mDXzY5kBcJEc5Ko75BVJX"
+    },
+    {
+      "album": {
+        "name": "True At Heart",
+        "url": "https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133688,
+      "name": "True At Heart",
+      "url": "https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq"
     },
     {
       "album": {

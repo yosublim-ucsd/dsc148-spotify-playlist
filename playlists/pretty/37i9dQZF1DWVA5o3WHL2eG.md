@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,462 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,460 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 24 | [Schüttelfrost](https://open.spotify.com/track/2tMtlbiICtH6khyJz0VMlm) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Schüttelfrost](https://open.spotify.com/album/1uO8hzt9X7XfBt2e7IZgeU) | 2:52 |
 | 25 | [8 stufen](https://open.spotify.com/track/7dDTdZHDyxGhyjjlvYHebZ) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen](https://open.spotify.com/album/6rZMZ81XtYHcEQF6FhWmYs) | 3:01 |
 | 26 | [Wie viel kostet eine Träne 💧](https://open.spotify.com/track/7imzSIOY954XHmkCVNQGbz) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Wie viel kostet eine Träne 💧](https://open.spotify.com/album/365QPJNTJU5FCJmsVFFQuw) | 2:08 |
-| 27 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 |
+| 27 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
 | 28 | [Postpone](https://open.spotify.com/track/1TsmlEazm8uP7pTxAmTt4G) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Postpone EP](https://open.spotify.com/album/1AVfoYTZ0aWp8CXmVbdCoo) | 3:12 |
-| 29 | [1st of the year](https://open.spotify.com/track/3QlBomUBtNTEnNrQeMTPD0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [1st of the year](https://open.spotify.com/album/7ek1rhNI104OLRBuZDlIZW) | 3:27 |
+| 29 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 |
 | 30 | [Wie er](https://open.spotify.com/track/5fltUGExvrsG78zPSZ4Jek) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [Wie er](https://open.spotify.com/album/4fiM1xnVw0yEq5bDzXK3SF) | 2:05 |
-| 31 | [Juli](https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Hörst du mich](https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX) | 3:00 |
-| 32 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
+| 31 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
+| 32 | [Juli](https://open.spotify.com/track/7ATT3NKq4loDIZnpMvUK8S) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Hörst du mich](https://open.spotify.com/album/2ZMgHwe3AcY5paMZfbsKNX) | 3:00 |
 | 33 | [diagnose 41.2](https://open.spotify.com/track/0e5MlmjzbjQbGuymTBeR7d) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [diagnose 41.2](https://open.spotify.com/album/1ScUhnEizBddF3utx61fdg) | 2:42 |
 | 34 | [Big Simpin](https://open.spotify.com/track/27umPTeKgY6L1rTe4H5J1B) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Big Simpin](https://open.spotify.com/album/4inMv4RVqHdploekzFhNoH) | 2:55 |
 | 35 | [Drop of Rain](https://open.spotify.com/track/23wgcVvNOrZlFQwCTRNlnA) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Drop of Rain](https://open.spotify.com/album/1EOLhPpB4RABxD5C8tN8s2) | 2:54 |
-| 36 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 |
-| 37 | [Laut](https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Laut](https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg) | 2:28 |
+| 36 | [Laut](https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Laut](https://open.spotify.com/album/18IVylSgC4mu28fBEAQVxg) | 2:28 |
+| 37 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 |
 | 38 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 |
 | 39 | [Neonlicht](https://open.spotify.com/track/4xvFjl52Y9Hee43aFPK7jF) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [Neonlicht](https://open.spotify.com/album/1FKsKYHrG7StDjoLeX32Ns) | 3:10 |
 | 40 | [Spieluhr](https://open.spotify.com/track/0kfw1seCclNc59FnqjM98N) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Spieluhr](https://open.spotify.com/album/7IKNDqzJyB4QqD0gu7M5A9) | 3:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 44 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 |
 | 45 | [Plastic People](https://open.spotify.com/track/0Y3rJvEOjqON6l68XrKK7D) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Plastic People](https://open.spotify.com/album/4ptM6VWQoOBIaoC4SvlLBy) | 3:13 |
 | 46 | [some pretty day](https://open.spotify.com/track/0dQgcNskbjbydmE0Ok316t) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [smalltown stories](https://open.spotify.com/album/4ooFSeSl3zU1c7N6fdGWmJ) | 3:08 |
-| 47 | [Kill The Lonely](https://open.spotify.com/track/09umJrRF0nvpGuar0OIRoc) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Kill The Lonely](https://open.spotify.com/album/52crtY5BcHSeO2Oq8mFiIs) | 3:18 |
+| 47 | [Trümmer dieser Stadt](https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Trümmer](https://open.spotify.com/album/13Z4YuBFzsEONFHAzRxUWh) | 2:54 |
 | 48 | [Coming of Age](https://open.spotify.com/track/1dJuz7IPnfKslcywhJ1rDb) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [You Deserve Romance](https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q) | 3:46 |
-| 49 | [Trümmer dieser Stadt](https://open.spotify.com/track/0vxI7mHy0uxIq70kLwUeEJ) | [MODULAR](https://open.spotify.com/artist/1TfeVaGmZZFsee4J1IX1ot) | [Trümmer](https://open.spotify.com/album/13Z4YuBFzsEONFHAzRxUWh) | 2:54 |
+| 49 | [Kill The Lonely](https://open.spotify.com/track/09umJrRF0nvpGuar0OIRoc) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [Kill The Lonely](https://open.spotify.com/album/52crtY5BcHSeO2Oq8mFiIs) | 3:18 |
 | 50 | [SCHLARAFFENLAND](https://open.spotify.com/track/1Itjz5DMnjTxnEpBCA19Cy) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF) | [SCHLARAFFENLAND](https://open.spotify.com/album/6kHsPKNbD6Zej32f3DoJZd) | 2:12 |
 
 Snapshot ID: `ZrMksgAAAADyEE9Qci4RPY4vTo/70JYz`

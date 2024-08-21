@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-264 songs - 20 hr 42 min
+265 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-06 | 2022-06-26 |
 | [BLACK MAGIC](https://open.spotify.com/track/2aCG0g9uxi8nK1OUZ7A65j) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/6ROB2tyKtYqao9nbX7XdtY) | 4:05 | 2022-06-14 | 2022-11-13 |
 | [BLACK MAGIC](https://open.spotify.com/track/3VNFtgC51Emt7XfWZWhPhD) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [REBELS NEVER DIE](https://open.spotify.com/album/5OU4esREA0HLwNekPigYeZ) | 4:05 | 2022-09-02 | 2024-04-19 |
-| [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 | 2022-05-06 |  |
+| [Blessed \- Virgil Abloh Future\-Jazz Remix](https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Blessed / Cleopatra Remixes](https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg) | 6:38 | 2022-05-06 | 2024-08-21 |
 | [Boylife in EU](https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M) | 3:36 | 2022-05-06 | 2022-10-13 |
 | [Boylife in EU](https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Starz](https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A) | 3:36 | 2022-09-27 | 2024-04-19 |
 | [Buoyancy](https://open.spotify.com/track/73mRkfeSwMxsxaa8rBCQUk) | [David Motion](https://open.spotify.com/artist/5DJzJ9PLpsTKZO3WUIrlB6) | [Neo\-Classic](https://open.spotify.com/album/4TIUQ4dDNl2Ucb6ORfZ14X) | 2:36 | 2023-09-07 | 2023-10-02 |
@@ -172,6 +172,7 @@
 | [No Hay Mañana \- Club Mix](https://open.spotify.com/track/1UrvOgh8GajpKp39Qj2WUR) | [Héctor Oaks](https://open.spotify.com/artist/2FZAQdFEANNv5Gi29PI10x), [COCO\-PALOMA](https://open.spotify.com/artist/08jPWr83bzp3LZVnRu5D19) | [No Hay Mañana](https://open.spotify.com/album/5cVrEBqan5YnLhr4Blo83u) | 7:03 | 2022-05-06 | 2022-11-20 |
 | [NYWTF \(feat\. Mikhail Beltran\) \- Edit](https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [Nywtf \(feat\. Mikhail Beltran\)](https://open.spotify.com/album/1xiDEFjzO0Il22pdIk3oo7) | 3:04 | 2023-10-27 | 2024-04-19 |
 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 | 2022-12-05 |  |
+| [O](https://open.spotify.com/track/7hQ4m8gecDLBEjCaKBaugf) | [O'Hara](https://open.spotify.com/artist/75OaJ8EhiBH0aDnuh050WP) | [O](https://open.spotify.com/album/6PKuwo4NXmhcgvaqIdpEZX) | 3:31 | 2024-08-02 |  |
 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 | 2023-09-07 | 2023-10-02 |
 | [Of My Mind](https://open.spotify.com/track/5PRdzrncmga9ieUFVrlE41) | [Pional](https://open.spotify.com/artist/49mZfy9v5oNXAxp8FadWwI) | [When Love Hurts](https://open.spotify.com/album/4Lz3mEQUvEls8T1YqtGqCP) | 4:12 | 2023-09-07 | 2023-10-02 |
 | [oh baby](https://open.spotify.com/track/53PkA8aXiwH4ppa0V0iO7o) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [american dream](https://open.spotify.com/album/4AF1M7bGCFL3LHCtXUUXw5) | 5:49 | 2022-05-06 |  |

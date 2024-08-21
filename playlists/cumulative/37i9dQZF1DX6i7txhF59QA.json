@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 121392,
       "name": "Did you see?",
       "url": "https://open.spotify.com/track/4PyXMzFClFXCFkzxWqB9vu"
@@ -5550,7 +5550,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 93693,
       "name": "Hundred years life",
       "url": "https://open.spotify.com/track/7FkiW99F7MhDsyCqW7uYWP"
@@ -6932,7 +6932,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 127266,
       "name": "Junsunyagok",
       "url": "https://open.spotify.com/track/1xPsx53LoJVnN35OflnP4k"
@@ -8248,7 +8248,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 206306,
       "name": "Magnifying glass",
       "url": "https://open.spotify.com/track/2KXrBnVEDw53vxbB4OGJc9"
@@ -9046,6 +9046,24 @@
       "duration_ms": 266546,
       "name": "MY Way",
       "url": "https://open.spotify.com/track/4Nnzzc5Ff37XxJsXPloEVp"
+    },
+    {
+      "album": {
+        "name": "Fire Trot 1:1 Rivals Round PART 1",
+        "url": "https://open.spotify.com/album/6vP7U8oJAGJUG75zn7udQr"
+      },
+      "artists": [
+        {
+          "name": "Park Min su",
+          "url": "https://open.spotify.com/artist/5e7o7fFdFdjwtFw2K5JciY"
+        }
+      ],
+      "date_added": "2024-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224585,
+      "name": "Myeongja",
+      "url": "https://open.spotify.com/track/4qvDEypLZuasrVBcO1dO4J"
     },
     {
       "album": {
@@ -12282,7 +12300,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 191786,
       "name": "The early morning car",
       "url": "https://open.spotify.com/track/7rBImMA7bwE7qqnaF4pdmd"
@@ -12590,7 +12608,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-23",
+      "date_removed": null,
       "duration_ms": 211293,
       "name": "The one who gives Happiness",
       "url": "https://open.spotify.com/track/1EulBXF3UkP9lmh6I5dM4o"
@@ -15370,7 +15388,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 174742,
       "name": "\uac00\uc9c0\ub9c8\uc624",
       "url": "https://open.spotify.com/track/4q1UvnvjSO9jt74QCAxWRt"

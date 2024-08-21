@@ -5171,6 +5171,24 @@
     },
     {
       "album": {
+        "name": "Montparnasse",
+        "url": "https://open.spotify.com/album/4qqnELFcHC3MciJUGtqOZ0"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "Montparnasse",
+      "url": "https://open.spotify.com/track/2i6pz9Ep7NtDsvWwB2qaLv"
+    },
+    {
+      "album": {
         "name": "More than this",
         "url": "https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8"
       },

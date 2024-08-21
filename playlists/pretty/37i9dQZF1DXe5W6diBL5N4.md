@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEMIN\(태민\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,776 likes - 336 songs - 18 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,835 likes - 336 songs - 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,7 +192,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 182 | [Lazy \(feat\. Saebyuk\)](https://open.spotify.com/track/6ZhaCPVcHdXEZdKXdXzd99) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Saebyuk](https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV) | [Lazy](https://open.spotify.com/album/3FyXJIwv1fwRNyozYkh3AN) | 2:59 |
 | 183 | [Be My Ocean](https://open.spotify.com/track/4560QJxyBz4vegD6AA8b10) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e) | [Be My Ocean](https://open.spotify.com/album/2Vhce1mkaprg4INwzvIqjj) | 2:47 |
 | 184 | [My Cotton Candy](https://open.spotify.com/track/5dqPyEHxg6sLnwnSud5pSh) | [Kingston Rudieska](https://open.spotify.com/artist/78Je3yBmtLZlk0Uf8R5bWw) | [Skafiction](https://open.spotify.com/album/0On5NB4ZZS50AiCfTl7r4y) | 4:39 |
-| 185 | [Better \(feat\. 1ho & Beomjun\)](https://open.spotify.com/track/4CDVFhz6pi5kqJRNUJ1Oyz) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Beom jun](https://open.spotify.com/artist/2LQ6Z84apD51nBvy0DddtM) | [Freshman \#3](https://open.spotify.com/album/0J6toR72SLUXsTwg8uXXWu) | 3:02 |
+| 185 | [Better \(feat\. 1ho & Beomjun\)](https://open.spotify.com/track/4CDVFhz6pi5kqJRNUJ1Oyz) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Beom jun](https://open.spotify.com/artist/2LQ6Z84apD51nBvy0DddtM) | [Better](https://open.spotify.com/album/0J6toR72SLUXsTwg8uXXWu) | 3:02 |
 | 186 | [Superman \(with\. 정쌍\)](https://open.spotify.com/track/5li7nD90v5OwvisxU4fcXL) | [EachOne](https://open.spotify.com/artist/421WUO9b5iopxq4c53zFNk), [정쌍](https://open.spotify.com/artist/1OqtD1TpfKa6koIzJLD10u) | [Superman](https://open.spotify.com/album/1HJhMf5P791Jtr33jNwmVq) | 3:33 |
 | 187 | [eve of the night](https://open.spotify.com/track/3SjBm3g0hySTSvqS5kQyqZ) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [Ep4\. eve of the night](https://open.spotify.com/album/2s11cO3BNmu4PKSeoUmJHz) | 3:28 |
 | 188 | [higgs](https://open.spotify.com/track/4n4v1qhqN5sZ6gvFneU7p1) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [HIGGS](https://open.spotify.com/album/7D839il65j1TEoBzy3a1OR) | 3:08 |

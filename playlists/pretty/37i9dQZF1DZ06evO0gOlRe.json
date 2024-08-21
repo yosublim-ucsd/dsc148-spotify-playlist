@@ -1,12 +1,12 @@
 {
-  "description": "This is Alexander Stewart. \u0623\u063a\u0627\u0646\u064a \u0631\u0648\u0639\u0629 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 32210,
+  "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
+  "num_followers": 32245,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAAX3tQob3BP4W6IiFwJRNus",
+  "snapshot_id": "ZsKLAAAAAACmM1KDgx3xwumnNxwIwd9k",
   "tracks": [
     {
       "added_at": null,
@@ -627,38 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "Shady",
-      "url": "https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different People",
         "url": "https://open.spotify.com/album/5NdXSw01Lt8ha2QaaEQPZE"
       },
@@ -679,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compare Myself",
-        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
       },
       "artists": [
         {
@@ -688,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 211948,
-      "name": "Compare Myself",
-      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
+      "duration_ms": 169263,
+      "name": "Shady",
+      "url": "https://open.spotify.com/track/40K1au4bnFyZQaJfEFuRa8"
     },
     {
       "added_at": null,
@@ -704,15 +672,15 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Be Sad",
-      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
+      "duration_ms": 148965,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1XW1OfAH3VdT1FUSV9mOXd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+        "name": "Compare Myself",
+        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
       },
       "artists": [
         {
@@ -720,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 173195,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C"
+      "duration_ms": 211948,
+      "name": "Compare Myself",
+      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
     },
     {
       "added_at": null,
@@ -743,6 +711,38 @@
       "duration_ms": 252018,
       "name": "You (feat. Alexander Stewart)",
       "url": "https://open.spotify.com/track/6zUnVnCCm02H7NP2R6It54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Be Sad",
+      "url": "https://open.spotify.com/track/6oEBTsbBsc5Z0ufXsrierq"
     }
   ],
   "unique_name": "This Is Alexander Stewart",

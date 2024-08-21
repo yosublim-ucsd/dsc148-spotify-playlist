@@ -4,7 +4,7 @@
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-118 songs - 6 hr 7 min
+119 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Sansevieria](https://open.spotify.com/track/28V06ats2bx8OCdh9DBBOR) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 4:24 | 2020-08-03 |  |
 | [Seeing Dead Cats in Dreams](https://open.spotify.com/track/0MF1jdBamf0Ds8oAGgPpoi) | [Ricky Eat Acid](https://open.spotify.com/artist/4BO8wK4OAaFsi6PSzs366S) | [Seeing Little Ghosts Everywhere](https://open.spotify.com/album/5m5Erw8LGk4VocF4LLgi8Q) | 1:34 | 2022-03-15 |  |
 | [Seraph I](https://open.spotify.com/track/7ooqvIdR5UcpyzYbtwksWH) | [How to Disappear Completely](https://open.spotify.com/artist/58PAYlZ9swIJ50dcMNSMaT) | [Seraphim](https://open.spotify.com/album/3vIZNnaV7973vNme1hPXbS) | 8:15 | 2021-07-14 |  |
+| [Soft Hearted](https://open.spotify.com/track/6WaiPbEUlkC2xMKUSXIqZH) | [Anders Baldwin](https://open.spotify.com/artist/5VRIfKvNP5rgX2vb5uXGXe), [Brady Hoffman](https://open.spotify.com/artist/2FbSnPL525GoLfscTwd4GQ), [Alice Shelton](https://open.spotify.com/artist/7CwozzmMZ6Nrc0smJwFuAs), [Luke Barker](https://open.spotify.com/artist/2ArmFEXk32hFJ2ptPjfg3v), [Ruby Terry](https://open.spotify.com/artist/6i2U651eF8lRxELDcMYM7V) | [Calming \- Commercial Background Music](https://open.spotify.com/album/22tdyfxLz5XinDjZzRBZiw) | 1:53 | 2024-08-20 |  |
 | [Soft Meadow](https://open.spotify.com/track/0OwQcBnZDvSIjk82JH0s4V) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/5ADF8juLhrC8IerOq4G6e5) | 5:28 | 2020-06-18 |  |
 | [Something isn't right my vision isn't clear, Where's the sale?](https://open.spotify.com/track/4gAiIcxZ2eZz12ncEifQtD) | [PowerPCME](https://open.spotify.com/artist/3X8giwjSuKDNn2C1PfM3I3) | [Kmart 1989 \- 1992 \(The Definitive Edition\)](https://open.spotify.com/album/5TWOeqTo91frnOKAmn3U10) | 0:43 | 2023-03-08 |  |
 | [Sony](https://open.spotify.com/track/2L4moFBQmCePOpPGQMMFWf) | [VHS LOGOS](https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ) | [Street Smarts](https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp) | 2:17 | 2021-08-17 |  |

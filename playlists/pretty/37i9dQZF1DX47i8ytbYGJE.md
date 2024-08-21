@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,815 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,831 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 68 | [One Bad Stud](https://open.spotify.com/track/10KrbfGcD0SZMFyGcoP3ar) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [Streets Of Fire](https://open.spotify.com/album/1DU5fmQDMYfS6g1tntqKdK) | 2:27 |
 | 69 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 70 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 |
-| 71 | [Susie\-Q](https://open.spotify.com/track/2XTBQyBapzuWbx3ZByfOrn) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Presenting Dale Hawkins \(65th Anniversary Edition\)](https://open.spotify.com/album/7nzkS6FcHKXtAQmVYP5miw) | 2:13 |
+| 71 | [Susie\-Q](https://open.spotify.com/track/2XTBQyBapzuWbx3ZByfOrn) | [Dale Hawkins](https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T) | [Presenting Dale Hawkins \- 65th Anniversary Edition](https://open.spotify.com/album/7nzkS6FcHKXtAQmVYP5miw) | 2:13 |
 | 72 | [Touch Me](https://open.spotify.com/track/5x1B2AjKhCVtYNHDbVAV1F) | [Kim Lenz & Her Jaguars](https://open.spotify.com/artist/2yG5isAT56JzRO1qpmmwnB) | [It's All True!](https://open.spotify.com/album/4LClhwjnWnclx0uJ9fNoWi) | 2:41 |
 | 73 | [Get Rhythm](https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:13 |
 | 74 | [Ubangi Stomp](https://open.spotify.com/track/0QXWOUB7LGccPIhfEGJcCU) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Sun Records Sound of Warren Smith \(20 Rockabilly Favorites\)](https://open.spotify.com/album/7EbBwkAHlqxaQGlKpsODQ6) | 1:58 |

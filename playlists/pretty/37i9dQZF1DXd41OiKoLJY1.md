@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: wax.wav Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,953 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,957 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 21 | [Taking the Lead](https://open.spotify.com/track/60aU9JqrEVkqPVtvIBOHWP) | [D.Vaughn](https://open.spotify.com/artist/72NyT9DftCiklzvlKN6lIO), [Fresh\-iLL Club](https://open.spotify.com/artist/3jamuarQXhtNxN2w6YjBEB) | [Taking the Lead](https://open.spotify.com/album/4UmrDQnjuZ4ALYZXjStr3C) | 2:19 |
 | 22 | [Sayaw Na!](https://open.spotify.com/track/5ZdmzBk51CFOCkN7yBHogO) | [Jopper Ril](https://open.spotify.com/artist/3gyeV0Xls4UpNJdLU3IHoc) | [Sayaw Na!](https://open.spotify.com/album/2oMQP2sRJ5ddokxLcAtfCs) | 4:57 |
 | 23 | [On&Off](https://open.spotify.com/track/4uh7kGhYyAzvABoNVUG50M) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq), [knōwmaad](https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU), [ONEFLOOR](https://open.spotify.com/artist/5mn4HsyvMQ1tluNNl2HXDQ) | [On&Off](https://open.spotify.com/album/0UzoVAS4sDTE46lmKDCyVT) | 3:41 |
-| 24 | [2Slide](https://open.spotify.com/track/3UgUPcR3LfWXNINlZ5dTwG) | [BabyDraco](https://open.spotify.com/artist/0xfBhQ4oCoEFt8Tmw5uhfh) | [2Slide](https://open.spotify.com/album/36LNsaf0L4lBDdYlLeILEL) | 1:36 |
+| 24 | [2Slide](https://open.spotify.com/track/3UgUPcR3LfWXNINlZ5dTwG) | [BabyDraco](https://open.spotify.com/artist/4OT6Ai52nAOe20SXsDoXSI) | [2Slide](https://open.spotify.com/album/36LNsaf0L4lBDdYlLeILEL) | 1:36 |
 | 25 | [dawn](https://open.spotify.com/track/5qfetWn53xemg40aT5CXIp) | [rk jlln](https://open.spotify.com/artist/7f4T4dXPTpsY3NARZXkFBC) | [dawn](https://open.spotify.com/album/4cmN8MWGer0BH45wZSnkFO) | 1:40 |
 | 26 | [Tumbleweed](https://open.spotify.com/track/0MEa49z6neLOk0nZrWfk7d) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Tumbleweed](https://open.spotify.com/album/1xvRP9mYabsvlvjMTe2WEi) | 3:34 |
 | 27 | [Malaysia](https://open.spotify.com/track/39bYhGdd3a6JDpbJhNZoEq) | [joaluh](https://open.spotify.com/artist/5shP8XnVDQoNwN3dxqj47u) | [Malaysia](https://open.spotify.com/album/2oU7UXqyG3U83MjhCPCpsq) | 3:00 |

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover new Punjabi artists! Cover: Diljot Mavi
+> Discover new Punjabi artists! Cover: Preet Sidhu
 
-66 songs - 3 hr 8 min
+67 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Breed](https://open.spotify.com/track/6wh2PO9EVUPXCaJYzXXQsE) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu) | [Breed](https://open.spotify.com/album/2cGBmj1TSZ3T0UROXRLOBp) | 2:18 | 2024-07-03 |  |
 | [Breeze](https://open.spotify.com/track/6Q3Vmb5Fic1bRv6EnQ1nsg) | [Supreet Singh](https://open.spotify.com/artist/6pICJ9L34VsLAdPfSpCT5n) | [Breeze](https://open.spotify.com/album/3DLvYUpFnSAp5yPpNzGYO7) | 3:04 | 2024-07-03 | 2024-07-24 |
 | [Catalyst](https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6) | [Catalyst](https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB) | 3:01 | 2024-07-31 |  |
-| [Challa](https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R) | [Diljot Mavi](https://open.spotify.com/artist/4KjMby3WwsuFNQVaqrKYkb), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Challa](https://open.spotify.com/album/0vrCMhN4z8gASZ1B39gqrh) | 3:06 | 2024-08-07 |  |
+| [Challa](https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R) | [Diljot Mavi](https://open.spotify.com/artist/4KjMby3WwsuFNQVaqrKYkb), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Challa](https://open.spotify.com/album/0vrCMhN4z8gASZ1B39gqrh) | 3:06 | 2024-08-07 | 2024-08-21 |
 | [Chann](https://open.spotify.com/track/6B4fsij9F9St8IpnKOWZ8j) | [Harsh Sandhu](https://open.spotify.com/artist/2CHBl68TFdhrBp0unns5ZY) | [Chann](https://open.spotify.com/album/6yAF3pRecIAH5DhG5hb1Qv) | 2:45 | 2024-07-03 |  |
 | [Chitte Te La Gyi](https://open.spotify.com/track/1dLBKArxfhzaw1JAD3VzDg) | [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Chitte Te La Gyi](https://open.spotify.com/album/05Jo6Av74UjT1l0FLRC3Bj) | 3:11 | 2024-07-03 | 2024-07-17 |
 | [Chorni](https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:18 | 2024-07-03 |  |
@@ -42,6 +42,7 @@
 | [jhalli](https://open.spotify.com/track/18xguOX3YQp1LRbIIdwxzQ) | [sanchita hazra](https://open.spotify.com/artist/7kQxY11CfIU7tzwmS2pEFJ) | [jhalli](https://open.spotify.com/album/2PBbttiVQ9ZkhDKLV6cKo1) | 4:47 | 2024-07-03 |  |
 | [Jhanjar](https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz) | [Sharry Yaar](https://open.spotify.com/artist/1q6j6sNGitnQBdNSkHjJKC) | [Jhanjar](https://open.spotify.com/album/4Skg7Wl0ItzsGUMPDVxAVN) | 2:20 | 2024-07-03 |  |
 | [Kudrat Wargi 2](https://open.spotify.com/track/5oaPrC2dy6tNgLyMzYoIzH) | [Dhaliwal](https://open.spotify.com/artist/3j20rwZXFF139vFc4tt8Rp), [JayB Singh](https://open.spotify.com/artist/4vUKfkjBUKZ1tzoHG89X8b) | [Kudrat Wargi 2](https://open.spotify.com/album/5ycrHpUReGnNRdBTWqIiu5) | 3:34 | 2024-07-03 |  |
+| [Kurte Pajame](https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Kurte Pajame](https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc) | 3:10 | 2024-08-20 |  |
 | [L.VE](https://open.spotify.com/track/2WtRHMfiXygJrP5rzQknXv) | [Sukhpall Channi](https://open.spotify.com/artist/1o2oKjgjDjZwAjaLnKB2LX), [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u) | [L.VE](https://open.spotify.com/album/2bRe4Ma7rmiMSbcJHb3oas) | 2:13 | 2024-07-03 | 2024-08-01 |
 | [Let It Be](https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Let It Be](https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U) | 3:34 | 2024-07-03 |  |
 | [Let's Ride Together](https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn) | [Let's Ride Together](https://open.spotify.com/album/5VNzg7iZv171Y5TqB16Lm0) | 3:04 | 2024-07-03 |  |

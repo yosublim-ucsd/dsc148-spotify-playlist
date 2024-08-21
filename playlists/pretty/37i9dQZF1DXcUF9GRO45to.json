@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38262,
+  "num_followers": 38267,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Meule",
-        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
-      },
-      "artists": [
-        {
-          "name": "MEULE",
-          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
-        }
-      ],
-      "duration_ms": 228307,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Silence Slowly And Madly Shines",
         "url": "https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 343853,
       "name": "It's Gone",
       "url": "https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Meule",
+        "url": "https://open.spotify.com/album/1lkZB1dQUOG37b9lNAxvHo"
+      },
+      "artists": [
+        {
+          "name": "MEULE",
+          "url": "https://open.spotify.com/artist/59z07g6lIQcpb04hzDHN7H"
+        }
+      ],
+      "duration_ms": 228307,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/5bsYpjfPaItASe2rB5nWIO"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Butcher's Fantasy",
-        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
-      },
-      "artists": [
-        {
-          "name": "Down to the Wire",
-          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
-        }
-      ],
-      "duration_ms": 237692,
-      "name": "The Butcher's Fantasy",
-      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "The Thread",
         "url": "https://open.spotify.com/album/3F5nmrHMSyFjEkATZQO7cz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 191706,
       "name": "Asylum",
       "url": "https://open.spotify.com/track/65s5gtYGSoF2BcbQ6oPuCy"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Butcher's Fantasy",
+        "url": "https://open.spotify.com/album/258BmnVI2s63E5IKM4iUUn"
+      },
+      "artists": [
+        {
+          "name": "Down to the Wire",
+          "url": "https://open.spotify.com/artist/2xP00Vrg8hwhdi121FCxbK"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "The Butcher's Fantasy",
+      "url": "https://open.spotify.com/track/2xAw4FgHs0lnmEpCXB8vWH"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "L'ennui",
-        "url": "https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N"
-      },
-      "artists": [
-        {
-          "name": "Guerilla Poubelle",
-          "url": "https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF"
-        }
-      ],
-      "duration_ms": 167017,
-      "name": "La chute",
-      "url": "https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "So Sadly",
         "url": "https://open.spotify.com/album/0vUTFBdTuDSHmX0L61imRo"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 228571,
       "name": "So Sadly",
       "url": "https://open.spotify.com/track/4WbmIh2FGxiuxut350IT39"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "L'ennui",
+        "url": "https://open.spotify.com/album/7JRqbUYfxIpVYwyXIbqB7N"
+      },
+      "artists": [
+        {
+          "name": "Guerilla Poubelle",
+          "url": "https://open.spotify.com/artist/28EqKeX9NMNRu7OC0jKHnF"
+        }
+      ],
+      "duration_ms": 167017,
+      "name": "La chute",
+      "url": "https://open.spotify.com/track/7cjNhFw9RwiXYRJ5Gm3ycD"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Staring At The Sun",
-        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
-      },
-      "artists": [
-        {
-          "name": "Not Scientists",
-          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
-        }
-      ],
-      "duration_ms": 229429,
-      "name": "Like gods we feast",
-      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Night of the Loving Dead",
         "url": "https://open.spotify.com/album/7MgObAh6503Kapx3g6fYDh"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203906,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/6x6pZm52ipZTVIM99Jwb1k"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Staring At The Sun",
+        "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
+      },
+      "artists": [
+        {
+          "name": "Not Scientists",
+          "url": "https://open.spotify.com/artist/0fHTYbsxk3Wo0P8NgWVGCW"
+        }
+      ],
+      "duration_ms": 229429,
+      "name": "Like gods we feast",
+      "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Ineffable",
         "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 254687,
       "name": "The Password",
       "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Nothing Belongs to Anything",
-        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
-      },
-      "artists": [
-        {
-          "name": "Cosse",
-          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
-        }
-      ],
-      "duration_ms": 308125,
-      "name": "Welcome Newcomers",
-      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Healing Is Not Linear",
         "url": "https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 188440,
       "name": "Knees",
       "url": "https://open.spotify.com/track/49WaJosNna7DBveejaBjra"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Nothing Belongs to Anything",
+        "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
+      },
+      "artists": [
+        {
+          "name": "Cosse",
+          "url": "https://open.spotify.com/artist/2sGoKWmM956fjU3X8N5VxH"
+        }
+      ],
+      "duration_ms": 308125,
+      "name": "Welcome Newcomers",
+      "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Fall Away",
-        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
-      },
-      "artists": [
-        {
-          "name": "Hype Lights",
-          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Vacuum Sealed",
         "url": "https://open.spotify.com/album/1h6Mngi160e472DTepN8qD"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+        "name": "Fall Away",
+        "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
       "artists": [
         {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
         }
       ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+      "duration_ms": 182008,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1071,6 +1055,22 @@
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
-      },
-      "artists": [
-        {
-          "name": "Rank-O",
-          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
-        }
-      ],
-      "duration_ms": 192815,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Slot Logic",
         "url": "https://open.spotify.com/album/2eiBZAV4PXCHiIgUsS4K8W"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Freakenstein",
-        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
-      },
-      "artists": [
-        {
-          "name": "Th Da Freak",
-          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Peeling the Onion",
-      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Back Garden Light",
         "url": "https://open.spotify.com/album/70fiQZH8ZbN3WF6KvLSwLT"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 284800,
       "name": "Jumping Fences",
       "url": "https://open.spotify.com/track/5jPVbOtH88Sa97kifoLYi9"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6"
+      },
+      "artists": [
+        {
+          "name": "Rank-O",
+          "url": "https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF"
+        }
+      ],
+      "duration_ms": 192815,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Freakenstein",
+        "url": "https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4"
+      },
+      "artists": [
+        {
+          "name": "Th Da Freak",
+          "url": "https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Peeling the Onion",
+      "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Future Me",
-        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
+        "name": "Vomit Candy",
+        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
       },
       "artists": [
         {
-          "name": "Do It Later",
-          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
-        },
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+          "name": "Johnny Mafia",
+          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
         }
       ],
-      "duration_ms": 187299,
-      "name": "Didn\u2019t Know",
-      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
+      "duration_ms": 163186,
+      "name": "Vomit Candy",
+      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Vomit Candy",
-        "url": "https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF"
+        "name": "Future Me",
+        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
       },
       "artists": [
         {
-          "name": "Johnny Mafia",
-          "url": "https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY"
+          "name": "Do It Later",
+          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
+        },
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Vomit Candy",
-      "url": "https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5"
+      "duration_ms": 187299,
+      "name": "Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "I Need a Blue",
-        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
-      },
-      "artists": [
-        {
-          "name": "G L I T C H",
-          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "I Need a Blue",
-      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "I Need a Blue",
+        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
+      },
+      "artists": [
+        {
+          "name": "G L I T C H",
+          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
+        }
+      ],
+      "duration_ms": 224206,
+      "name": "I Need a Blue",
+      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "The Twin Souls",
-        "url": "https://open.spotify.com/album/2vwrHrcmQFhJvVekwtju7s"
-      },
-      "artists": [
-        {
-          "name": "The Twin Souls",
-          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
-        }
-      ],
-      "duration_ms": 182264,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/6vCscy4346DhByQ3OfpNKJ"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Hungry for Action",
         "url": "https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 164068,
       "name": "It's About Time !",
       "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "The Twin Souls",
+        "url": "https://open.spotify.com/album/2vwrHrcmQFhJvVekwtju7s"
+      },
+      "artists": [
+        {
+          "name": "The Twin Souls",
+          "url": "https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM"
+        }
+      ],
+      "duration_ms": 182264,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/6vCscy4346DhByQ3OfpNKJ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Murderology",
-        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
-      },
-      "artists": [
-        {
-          "name": "Yard of Blondes",
-          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Murderology",
-      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 158266,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Murderology",
+        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
+      },
+      "artists": [
+        {
+          "name": "Yard of Blondes",
+          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Murderology",
+      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "A Breach To The Cosmos",
-        "url": "https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC"
+        "name": "CityT error",
+        "url": "https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj"
       },
       "artists": [
         {
-          "name": "FENCES \\\\\\\\",
-          "url": "https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv"
+          "name": "Shoefiti",
+          "url": "https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB"
         }
       ],
-      "duration_ms": 225333,
-      "name": "A Breach To The Cosmos",
-      "url": "https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv"
+      "duration_ms": 222734,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9"
     },
     {
       "added_at": "2024-07-15 21:15:50",

@@ -5086,6 +5086,28 @@
     {
       "album": {
         "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/4Tw419YEniAI4evTfFglIm"
+      },
+      "artists": [
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147493,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE"
+    },
+    {
+      "album": {
+        "name": "No Me Importa",
         "url": "https://open.spotify.com/album/6CFO0LOMt8KK9xKI6N8AF7"
       },
       "artists": [
@@ -7596,7 +7618,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

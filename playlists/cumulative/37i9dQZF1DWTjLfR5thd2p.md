@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-413 songs - 18 hr 5 min
+414 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-06-27 |  |
 | [Sono innamorato](https://open.spotify.com/track/3QrzFS2f3ARIKlZNAROUDB) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Sono innamorato](https://open.spotify.com/album/25UUV79Ir4jFcopJDYu20R) | 2:30 | 2022-05-20 |  |
 | [Sonora](https://open.spotify.com/track/4ku8WSW5vtEZNGM8oUuGnd) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Serán](https://open.spotify.com/album/7rfwsqw6rBpkZ1z3ROAoYS) | 3:26 | 2022-05-20 |  |
+| [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2024-08-20 |  |
 | [Spruces and pines](https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Spruces and pines](https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG) | 2:22 | 2023-07-04 |  |
 | [Standing Sitting Rising Falling](https://open.spotify.com/track/4R7Xd4Voa8lgrslFMzo0rZ) | [Will Monrose](https://open.spotify.com/artist/7jsTCpVLW1GPtvwaBG7LCI) | [Standing Sitting Rising Falling](https://open.spotify.com/album/47rHTF6JLIj2aruiBpjhKo) | 2:12 | 2022-05-20 | 2024-04-04 |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-05-20 |  |

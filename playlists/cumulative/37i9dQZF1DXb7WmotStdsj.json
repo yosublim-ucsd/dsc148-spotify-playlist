@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 333008,
       "name": "Allo Gatli Nsani",
       "url": "https://open.spotify.com/track/1aqDhCas4pdRphE1xISQUa"
@@ -1350,6 +1350,24 @@
       "duration_ms": 320040,
       "name": "GALBI RAH MEDRAR",
       "url": "https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa"
+    },
+    {
+      "album": {
+        "name": "Gariha Tebred",
+        "url": "https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ"
+      },
+      "artists": [
+        {
+          "name": "Cheba Warda",
+          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276914,
+      "name": "Gariha Tebred",
+      "url": "https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH"
     },
     {
       "album": {

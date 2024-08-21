@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-415 songs - 1 day 5 hr 27 min
+416 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,11 +88,12 @@
 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 | 2024-01-03 |  |
 | [Dogma](https://open.spotify.com/track/2ldqnO15Wz4U6JJQrb8kMy) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Dogma](https://open.spotify.com/album/1ZLybGNOMGNF4spedn49Om) | 3:24 | 2021-10-06 | 2022-09-13 |
 | [Don't Forget You're Precious](https://open.spotify.com/track/7r7lKry2CvHc6wK6c1ZgtO) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Don't Forget You're Precious](https://open.spotify.com/album/4lw500xSQLvXVnIvUmMWe7) | 3:41 | 2022-02-12 | 2022-08-20 |
+| [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 | 2024-08-21 |  |
 | [Don't Tell Me I'm Wrong](https://open.spotify.com/track/4NUBJ6FdoxJWGaLD5IAw5p) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Sunset Dreams](https://open.spotify.com/album/6SSE8rmfK2n5D10pJYBaYX) | 3:35 | 2022-08-31 | 2024-04-19 |
 | [Don't Tell Me I'm Wrong](https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock \(Deluxe Edition\)](https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL) | 3:35 | 2022-08-31 | 2024-06-17 |
 | [Down and Lonely](https://open.spotify.com/track/6DAYxohAgspB0483KwT160) | [Azul](https://open.spotify.com/artist/5q4rW6X30YjYsD2GG0EguW), [Iris Deco](https://open.spotify.com/artist/1VP0sPzmkM1KIKV1r32clf) | [Down and Lonely](https://open.spotify.com/album/5F2nBPJP79B9TNW4fAdDFu) | 3:44 | 2022-09-29 | 2023-01-13 |
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2023-01-20 | 2023-03-18 |
-| [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 | 2024-08-17 |
+| [Dream St.](https://open.spotify.com/track/2qhEcFaRkgkY6EhN7TAm4A) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/5Z4dyfxEbnvJ9mYRG8ryP7) | 5:24 | 2021-10-06 |  |
 | [Dream St.](https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t) | [Jackie Lynn](https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV) | [Jacqueline](https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU) | 5:24 | 2021-10-06 | 2024-04-19 |
 | [Dreams](https://open.spotify.com/track/0deHsjyrgcKGMZzIuvawq3) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:28 | 2023-01-20 | 2023-03-18 |
 | [Dry Fantasy](https://open.spotify.com/track/02AKn1Y1nrsgpQmCBBgQMq) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Dry Fantasy](https://open.spotify.com/album/1De6CaWgx9LZNm6RjV2gB8) | 5:10 | 2021-10-06 | 2022-07-29 |
@@ -222,7 +223,7 @@
 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 | 2022-02-25 | 2022-10-01 |
 | [Me Gustas Pero No Te Quiero](https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0) | [RONCO](https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM) | [Me Gustas Pero No Te Quiero](https://open.spotify.com/album/3JCerOTEMi1pHLxrkuxmWd) | 3:30 | 2024-06-13 |  |
 | [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-05-26 |  |
-| [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 |  |
+| [melody in high feedback tones](https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX) | 3:53 | 2021-10-06 | 2024-08-21 |
 | [melody in high feedback tones](https://open.spotify.com/track/7DpWLrO5rb5oG2vLtw1KGF) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [void beats/invocation trex](https://open.spotify.com/album/1BmmkZTfva7NX058wgCB3g) | 3:53 | 2021-10-06 | 2024-04-19 |
 | [Mercury](https://open.spotify.com/track/6uVZddXkgQIArp8myEHs4x) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:55 | 2023-01-20 | 2023-03-18 |
 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 | 2023-01-20 |  |
@@ -360,7 +361,7 @@
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2023-04-01 |
 | [The Path](https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Path](https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey) | 4:22 | 2023-09-25 |  |
 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 | 2023-10-23 |  |
-| [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 |  |
+| [The Revolution Of Super Visions](https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Revolution Of Super Visions](https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP) | 5:01 | 2021-10-06 | 2024-08-21 |
 | [The Revolution of Super Visions](https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Flock](https://open.spotify.com/album/5akulaga7LWVPkHIqCHEgD) | 5:01 | 2021-10-06 | 2024-04-19 |
 | [the slab](https://open.spotify.com/track/2qvOC1CRBtwOcl2dlcOCM1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 5:10 | 2023-08-11 | 2023-11-10 |
 | [the slab](https://open.spotify.com/track/5ZbDyFKoowe2Rwi5xjcNQp) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [the slab](https://open.spotify.com/album/1OheOBc8tPeAQRNoFAq6ve) | 5:10 | 2023-08-11 | 2023-09-14 |

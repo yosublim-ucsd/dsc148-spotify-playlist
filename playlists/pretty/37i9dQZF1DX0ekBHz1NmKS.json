@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. Cover: Melissa Horn",
-  "num_followers": 195608,
+  "num_followers": 195599,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Hurts",
-        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
-      },
-      "artists": [
-        {
-          "name": "Anders Hojer",
-          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "Hurts",
-      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Fuck ditt liv",
         "url": "https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 162162,
       "name": "Fuck ditt liv",
       "url": "https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
+      },
+      "artists": [
+        {
+          "name": "Anders Hojer",
+          "url": "https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Home (Truckstops and Airports)",
+        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 222864,
+      "name": "Home (Truckstops and Airports)",
+      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Kyss mig snabbt i otakt",
         "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 149580,
       "name": "\u00c4lskar du n\u00e5n annan \u00e4n dig",
       "url": "https://open.spotify.com/track/62kqQ6X0Ff95KWEbe03PAe"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Home (Truckstops and Airports)",
-        "url": "https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 222864,
-      "name": "Home (Truckstops and Airports)",
-      "url": "https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Vilken del av oss gick fel?",
-        "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
-      },
-      "artists": [
-        {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Katterna",
-      "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Klyschor",
         "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 153186,
       "name": "Klyschor",
       "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Vilken del av oss gick fel?",
+        "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Katterna",
+      "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Finns ingen annan",
+        "url": "https://open.spotify.com/album/437qfgHV3oouQ4ciJZ2ZdD"
+      },
+      "artists": [
+        {
+          "name": "Simon Forslund",
+          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Finns ingen annan",
+      "url": "https://open.spotify.com/track/0yvWJfmhC1ubBHoYhjn1id"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "SOLEN VISAR MIG V\u00c4GEN",
         "url": "https://open.spotify.com/album/1vDJFc2MXOVTR2p8egvgHW"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Finns ingen annan",
-        "url": "https://open.spotify.com/album/437qfgHV3oouQ4ciJZ2ZdD"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5TP42k6jQyno6vtoBAksAe"
       },
       "artists": [
         {
-          "name": "Simon Forslund",
-          "url": "https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD"
+          "name": "Slumberville",
+          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
         }
       ],
-      "duration_ms": 154374,
-      "name": "Finns ingen annan",
-      "url": "https://open.spotify.com/track/0yvWJfmhC1ubBHoYhjn1id"
+      "duration_ms": 144219,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4siNizaereDklD0Vkpului"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -815,38 +831,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 199683,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5TP42k6jQyno6vtoBAksAe"
-      },
-      "artists": [
-        {
-          "name": "Slumberville",
-          "url": "https://open.spotify.com/artist/2c0SyAUT82Al3gJQ3uezBv"
-        }
-      ],
-      "duration_ms": 144219,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4siNizaereDklD0Vkpului"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Inget Lyckligt Slut",
         "url": "https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs"
       },
@@ -859,6 +843,38 @@
       "duration_ms": 144545,
       "name": "Inget Lyckligt Slut",
       "url": "https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "P\u00e5 sommaren",
+        "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Rasch",
+          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
+        }
+      ],
+      "duration_ms": 191073,
+      "name": "P\u00e5 sommaren",
+      "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -895,18 +911,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "P\u00e5 sommaren",
-        "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
       },
       "artists": [
         {
-          "name": "Gustaf Rasch",
-          "url": "https://open.spotify.com/artist/5M0IE8KpXEtuW3tu6clYdh"
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
         }
       ],
-      "duration_ms": 191073,
-      "name": "P\u00e5 sommaren",
-      "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+        "name": "Se p\u00e5 oss",
+        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
       },
       "artists": [
         {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+          "name": "Far\u00e5ker",
+          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
         }
       ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
+      "duration_ms": 209327,
+      "name": "Se p\u00e5 oss",
+      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 178701,
       "name": "I HATE IT!",
       "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Se p\u00e5 oss",
-        "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
-      },
-      "artists": [
-        {
-          "name": "Far\u00e5ker",
-          "url": "https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "Se p\u00e5 oss",
-      "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/55f8chw9TtGtmMX3wA1914"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/20q5yfZdrfj0jk1jlDOhwk"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Lily Of The Valley",
         "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Born a Riot",
-        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
-      },
-      "artists": [
-        {
-          "name": "DAKOO",
-          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
-        }
-      ],
-      "duration_ms": 159764,
-      "name": "Born a Riot",
-      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Siljans strand / Midsommarvisa",
         "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 226680,
       "name": "Siljans strand",
       "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Born a Riot",
+        "url": "https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc"
+      },
+      "artists": [
+        {
+          "name": "DAKOO",
+          "url": "https://open.spotify.com/artist/72343jDquF52drRGQa3xZV"
+        }
+      ],
+      "duration_ms": 159764,
+      "name": "Born a Riot",
+      "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Better Now",
-        "url": "https://open.spotify.com/album/55f8chw9TtGtmMX3wA1914"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/20q5yfZdrfj0jk1jlDOhwk"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
         "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
       },
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Enkelt",
-        "url": "https://open.spotify.com/album/6tFRtumq3UMaFUG15PWPUv"
-      },
-      "artists": [
-        {
-          "name": "Emma Liambi",
-          "url": "https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Enkelt",
-      "url": "https://open.spotify.com/track/6LBEdvGsRnyXYSGraaaqLG"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Nog av dig",
         "url": "https://open.spotify.com/album/5AEdNin0vKVAA6avdScXNy"
       },
@@ -1163,34 +1147,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Flamma",
-        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
+        "name": "Enkelt",
+        "url": "https://open.spotify.com/album/6tFRtumq3UMaFUG15PWPUv"
       },
       "artists": [
         {
-          "name": "Kayo",
-          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
+          "name": "Emma Liambi",
+          "url": "https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI"
         }
       ],
-      "duration_ms": 195414,
-      "name": "Flamma",
-      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 299861,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+      "duration_ms": 159226,
+      "name": "Enkelt",
+      "url": "https://open.spotify.com/track/6LBEdvGsRnyXYSGraaaqLG"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1211,6 +1179,38 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Pl\u00e5ster",
+        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "Pl\u00e5ster",
+      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Flamma",
+        "url": "https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS"
+      },
+      "artists": [
+        {
+          "name": "Kayo",
+          "url": "https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz"
+        }
+      ],
+      "duration_ms": 195414,
+      "name": "Flamma",
+      "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "R\u00f6k & Discoljus",
         "url": "https://open.spotify.com/album/1l3ArcISPARn4GPJeMthYz"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Andas",
-        "url": "https://open.spotify.com/album/4RHxrpoRqNjk85yUgxYpuE"
-      },
-      "artists": [
-        {
-          "name": "Michael Moe",
-          "url": "https://open.spotify.com/artist/5t5e4IYHKIGKdPc3tSATB1"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Andas",
-      "url": "https://open.spotify.com/track/3o8K9mCPWGKQMRYqbV8QFT"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 181428,
       "name": "Home",
       "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Andas",
+        "url": "https://open.spotify.com/album/4RHxrpoRqNjk85yUgxYpuE"
+      },
+      "artists": [
+        {
+          "name": "Michael Moe",
+          "url": "https://open.spotify.com/artist/5t5e4IYHKIGKdPc3tSATB1"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Andas",
+      "url": "https://open.spotify.com/track/3o8K9mCPWGKQMRYqbV8QFT"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Sista dan p\u00e5 sommarn",
         "url": "https://open.spotify.com/album/2BRU9uzdvlkQpSDIB5dr5s"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 231453,
       "name": "Sista dan p\u00e5 sommarn",
       "url": "https://open.spotify.com/track/0WPQFNeOCqgPdDkeIv4LG3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
       "added_at": "2024-08-15 22:00:00",

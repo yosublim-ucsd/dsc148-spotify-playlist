@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 47262,
+  "num_followers": 47296,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Bodas de Plata: Concierto en Vivo",
         "url": "https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 237826,
       "name": "Despu\u00e9s de Mi Qu\u00e9 Importa",
       "url": "https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -787,18 +787,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Wistu Vida",
-        "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
       },
       "artists": [
         {
-          "name": "Duo Retama",
-          "url": "https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf"
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
         }
       ],
-      "duration_ms": 388813,
-      "name": "Flor de Retana",
-      "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
+      "duration_ms": 281730,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -815,6 +815,22 @@
       "duration_ms": 160173,
       "name": "Remembranzas",
       "url": "https://open.spotify.com/track/6h4mOqdnuu7mnAaHFlWrNR"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Wistu Vida",
+        "url": "https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k"
+      },
+      "artists": [
+        {
+          "name": "Duo Retama",
+          "url": "https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf"
+        }
+      ],
+      "duration_ms": 388813,
+      "name": "Flor de Retana",
+      "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -895,8 +911,8 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX"
+        "name": "Y Su Per\u00fa Colores",
+        "url": "https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB"
       },
       "artists": [
         {
@@ -904,25 +920,9 @@
           "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
         }
       ],
-      "duration_ms": 281730,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Puro Sentimiento",
-        "url": "https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Curi",
-          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
-        }
-      ],
-      "duration_ms": 264736,
-      "name": "Tu recuerdo",
-      "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
+      "duration_ms": 316696,
+      "name": "Juntito a T\u00ed",
+      "url": "https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -939,6 +939,22 @@
       "duration_ms": 264855,
       "name": "Expreso Puquio",
       "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Curi",
+          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
+        }
+      ],
+      "duration_ms": 264736,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -971,22 +987,6 @@
       "duration_ms": 382902,
       "name": "Soy Provinciano",
       "url": "https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Mensajes Andinos",
-        "url": "https://open.spotify.com/album/3JgzRlcbxu5l5I9VtcwzNH"
-      },
-      "artists": [
-        {
-          "name": "Porfirio Ayvar",
-          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Siwarquinticha",
-      "url": "https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

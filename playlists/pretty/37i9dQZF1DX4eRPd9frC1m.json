@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586805,
+  "num_followers": 2586844,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
+        "name": "Uncaged",
+        "url": "https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "Prosecute",
+          "url": "https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Uncaged",
+      "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"
+    },
+    {
+      "added_at": "2024-08-16 15:49:22",
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2024-08-16 15:49:22",
-      "album": {
         "name": "Mad Ting",
         "url": "https://open.spotify.com/album/6xS7QXBUofgwTfAC37cQfg"
       },
@@ -955,6 +955,26 @@
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
+    },
+    {
+      "added_at": "2024-08-16 15:49:22",
+      "album": {
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
     },
     {
       "added_at": "2024-08-16 15:49:22",
@@ -1003,26 +1023,6 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
-        "name": "Uncaged",
-        "url": "https://open.spotify.com/album/76SQ3dLYSgZFTzHTalpf07"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "Prosecute",
-          "url": "https://open.spotify.com/artist/29WUwugsDf2hQ5tAZMyR7T"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Uncaged",
-      "url": "https://open.spotify.com/track/0YGdXzoYGeUN0wfY5ThMMZ"
-    },
-    {
-      "added_at": "2024-08-16 15:49:22",
-      "album": {
         "name": "Mind Pluck",
         "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
       },
@@ -1067,18 +1067,26 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
+        "name": "HEADSH\u00d6T",
+        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "8\u00d68",
+          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
+        },
+        {
+          "name": "Sh\u00f6ckface",
+          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
         }
       ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+      "duration_ms": 157036,
+      "name": "HEADSH\u00d6T",
+      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
       "added_at": "2024-08-16 15:49:22",
@@ -1107,18 +1115,18 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
     },
     {
       "added_at": "2024-08-16 15:49:22",
@@ -1143,26 +1151,18 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
-        "name": "HEADSH\u00d6T",
-        "url": "https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2"
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
       "artists": [
         {
-          "name": "8\u00d68",
-          "url": "https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU"
-        },
-        {
-          "name": "Sh\u00f6ckface",
-          "url": "https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM"
-        },
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 157036,
-      "name": "HEADSH\u00d6T",
-      "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2024-08-16 15:49:22",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-16 15:49:22",
       "album": {
+        "name": "IN THE ZONE",
+        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        }
+      ],
+      "duration_ms": 169985,
+      "name": "IN THE ZONE",
+      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
+    },
+    {
+      "added_at": "2024-08-16 15:49:22",
+      "album": {
         "name": "In The Place",
         "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 198857,
       "name": "Twin Fang",
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
-    },
-    {
-      "added_at": "2024-08-16 15:49:22",
-      "album": {
-        "name": "IN THE ZONE",
-        "url": "https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nevis",
-          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
-        }
-      ],
-      "duration_ms": 169985,
-      "name": "IN THE ZONE",
-      "url": "https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp"
     },
     {
       "added_at": "2024-08-16 15:49:22",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This is Rashid\. The essential tracks, all in one playlist.
+> This is Rashid。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,294 likes - 51 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,293 likes - 51 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v7h3h.md) - [plain]
 | 50 | [Recordações](https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/4eEZCRtFHFEiAuR2wdNVYX) | [Posfácio](https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT) | 4:22 |
 | 51 | [Língua dos Campeões](https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Sir Scratch](https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i) | [Língua dos Campeões](https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge) | 7:44 |
 
-Snapshot ID: `ZsE5gAAAAAAyDTUopcqMu+EczGunaxD2`
+Snapshot ID: `ZsKLAAAAAADUZvVMyueIoaYcAshA0Q06`

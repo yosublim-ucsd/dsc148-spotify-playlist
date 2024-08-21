@@ -4,7 +4,7 @@
 
 > 
 
-754 songs - 1 day 12 hr 13 min
+755 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [James Joint](https://open.spotify.com/track/6K4Co1NQyOnoFEJMkZHkln) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 1:12 | 2024-02-16 | 2024-04-24 |
 | [Japanese](https://open.spotify.com/track/513o7X8X7oTxbEXT42b3yR) | [Izaya Tiji](https://open.spotify.com/artist/7mJfqlklKtA6sHkavWth09) | [Japanese](https://open.spotify.com/album/2BkIskiW2Gda7UPIrFBOO3) | 2:03 | 2023-02-09 | 2023-12-14 |
 | [Japanese Soul Bar](https://open.spotify.com/track/4dVuUY2HbfS9dbVP55MWSw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:01 | 2024-06-11 |  |
+| [Jay N Bey!](https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Golden Child, Chapter 2](https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb) | 2:11 | 2024-08-20 |  |
 | [Jealous](https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Jealous](https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1) | 2:02 | 2024-06-25 |  |
 | [Jennifer’s Body](https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:38 | 2023-10-27 | 2024-03-05 |
 | [JETLGGD](https://open.spotify.com/track/59U7bktlujuNRW7fBq1VDt) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 1:56 | 2022-08-14 | 2023-04-12 |

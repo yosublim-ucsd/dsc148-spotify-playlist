@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/5M3owr4ZIHWSehW14pGBDd"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144606,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/5hp8oQT04yfM150I0Ro66u"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/0PXK9FNnsHU72wTz7uMMRA"
       },
@@ -5684,6 +5702,24 @@
       "duration_ms": 134895,
       "name": "Traveling Through",
       "url": "https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf"
+    },
+    {
+      "album": {
+        "name": "True At Heart",
+        "url": "https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133688,
+      "name": "True At Heart",
+      "url": "https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq"
     },
     {
       "album": {

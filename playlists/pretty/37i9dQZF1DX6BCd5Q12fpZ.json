@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66054,
+  "num_followers": 66050,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Rockefeller Street - Single",
+        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
+      },
+      "artists": [
+        {
+          "name": "Getter Jaani",
+          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Rockefeller Street",
+      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Rockefeller Street - Single",
-        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
-      },
-      "artists": [
-        {
-          "name": "Getter Jaani",
-          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Rockefeller Street",
-      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Grand Prix - Greatest Hits",
         "url": "https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 181355,
       "name": "A-Ba-Ni-Bi - 1978, Israel",
       "url": "https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 180986,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2eGkOAOi972MzM5optdlT7"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Albumi",
-        "url": "https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL"
-      },
-      "artists": [
-        {
-          "name": "Jari Sillanp\u00e4\u00e4",
-          "url": "https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Takes 2 To Tango",
-      "url": "https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Iceland Eurovision Party",
         "url": "https://open.spotify.com/album/0HWqAQCNZmBA925kcIv4xq"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 193490,
       "name": "If I Had Your Love",
       "url": "https://open.spotify.com/track/46P3Hgp98JG5t3sszNDaGu"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Albumi",
+        "url": "https://open.spotify.com/album/6zu7ipmaYCsYjzFwwli2zL"
+      },
+      "artists": [
+        {
+          "name": "Jari Sillanp\u00e4\u00e4",
+          "url": "https://open.spotify.com/artist/6pNVccgyfPKwhKeyPlCPmv"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Takes 2 To Tango",
+      "url": "https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
-      },
-      "artists": [
-        {
-          "name": "Anna Sahlene",
-          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Runaway - Bonus Track",
-      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "OKTA",
         "url": "https://open.spotify.com/album/4aYLNUrkHzYLnq9pdFEHyT"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 185157,
       "name": "Spirit in the Sky",
       "url": "https://open.spotify.com/track/4w6Aheza0D2Ixjc0rEB0EP"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
+      },
+      "artists": [
+        {
+          "name": "Anna Sahlene",
+          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Runaway - Bonus Track",
+      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -1,12 +1,12 @@
 {
   "description": "This is Static-X. The essential tracks, all in one playlist.",
-  "num_followers": 36564,
+  "num_followers": 36579,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAABLpDhGRSNzlRG9avOytszn",
+  "snapshot_id": "ZsKLAAAAAAAm4jYtl6Jofc8rfG2/chrC",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 240304,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
+      "duration_ms": 179586,
+      "name": "Kamikaze",
+      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 179586,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/6mUR4wsbcBvsUoL8vMwbSG"
+      "duration_ms": 240304,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/5Fbdx8HTneMfmLHoDwU8dz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-613 songs - 1 day 9 hr 38 min
+614 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP) | 3:17 | 2024-06-10 | 2024-08-18 |
 | [Out of Mind](https://open.spotify.com/track/5MqPxEqgmrKBXHN4J78rjb) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:31 | 2022-03-11 | 2022-04-16 |
 | [Out of My Hands](https://open.spotify.com/track/2cMOFBM3yX5ntYPkayvKPc) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [Out of My Hands](https://open.spotify.com/album/245d5Tm6FfK9n2tFmpFQv7) | 2:26 | 2021-03-10 | 2022-07-29 |
+| [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 | 2024-08-16 |  |
 | [Out Of My Head](https://open.spotify.com/track/1FMhjKZO2L2fNB08Ik1iBs) | [The Griswolds](https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV) | [Out Of My Head](https://open.spotify.com/album/7wnPpvk2a9PaqyW8IM8ScA) | 3:47 | 2022-03-11 | 2022-04-19 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-02-17 | 2023-08-12 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-08-07 | 2024-04-19 |
@@ -503,7 +504,7 @@
 | [Stuck](https://open.spotify.com/track/7wRXGqMQpTacDEGbJDg8tw) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Stuck](https://open.spotify.com/album/0ij5wkWYJKSxVzROOPRzdU) | 3:26 | 2022-03-11 | 2022-06-22 |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-06-30 |  |
 | [Stumblin' Home](https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [Stumblin' Home](https://open.spotify.com/album/3vcxSBQfluGFgBjLtHHg0E) | 2:59 | 2021-03-10 | 2022-05-04 |
-| [Subliminal](https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Subliminal](https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj) | 2:45 | 2023-10-13 |  |
+| [Subliminal](https://open.spotify.com/track/2L5watN9wy4bAnBvhxYg8r) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Subliminal](https://open.spotify.com/album/70z6aeKugkiOwBEpVjkjuj) | 2:45 | 2023-10-13 | 2024-08-21 |
 | [Sugar](https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Sugar](https://open.spotify.com/album/3Ql9TVwS8g3bnK1ImDhXMX) | 2:42 | 2022-04-08 | 2023-03-29 |
 | [Summer Daze](https://open.spotify.com/track/3BSJzsXaHkj1qxCoASM6hz) | [The Orphan The Poet](https://open.spotify.com/artist/4cqHx0neEP7BFbGlKkmIHQ) | [Summer Daze](https://open.spotify.com/album/5nLkT6gT7JyzVdXMGER5Rd) | 2:59 | 2022-01-28 | 2022-07-12 |
 | [Summer of Love](https://open.spotify.com/track/1KbTuqLQFreQpsrbF6tn1R) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY) | [Summer of Love](https://open.spotify.com/album/2xH5TLfWIg7D7ArqdRabrM) | 3:05 | 2021-03-10 | 2022-07-27 |

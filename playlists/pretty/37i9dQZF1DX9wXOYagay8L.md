@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=34plTCgTR6avOxEQS0Swuw">Mthandazo Gatya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,366 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,424 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 11 | [eMagqumeni](https://open.spotify.com/track/0hgODswHTHViawAw8HSGjI) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w), [Sannere](https://open.spotify.com/artist/5lSgr0MepuJQjDgGoyuOHM), [Phoka Ea Boroa](https://open.spotify.com/artist/40fbBPZplM3WZsGD658nXI) | [Gamelihle](https://open.spotify.com/album/1mEob6qT4ylEYd4EFM5Hx7) | 4:09 |
 | 12 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
 | 13 | [Isandla Ska Baba \(feat\. Glen Makhafula\)](https://open.spotify.com/track/2UOmBrjoLKBs5NSUTZclX7) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Glen Makhafula](https://open.spotify.com/artist/3H3Ztn6w3QNolUB9NzFy5i) | [Isandla Ska Baba \(feat\. Glen Makhafula\)](https://open.spotify.com/album/28cW6X0OuDmH8rMuMFFTBV) | 5:14 |
-| 14 | [Dali Wam \- feat\. Aubrey Qwana](https://open.spotify.com/track/70QDS1Ld2evBQ5dO7RKB2Q) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/album/3utcz0fYHOkANlpZmZTHa1) | 3:04 |
+| 14 | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/track/70QDS1Ld2evBQ5dO7RKB2Q) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/album/3utcz0fYHOkANlpZmZTHa1) | 3:04 |
 | 15 | [emini](https://open.spotify.com/track/2r0ojXXq1oLd4TVm2UrL3C) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 6:50 |
 | 16 | [Again](https://open.spotify.com/track/5carg1RIrJg9T8Wv0fP68Z) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Again](https://open.spotify.com/album/3Bwzs6SDunJEWC1JdXkxhc) | 2:53 |
 | 17 | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/track/6Uf73Thps11shNFZs3yQa7) | [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Tholakuwe \(feat\. Young Stunna\)](https://open.spotify.com/album/6TjRzemaHPS7DpxZP1a3ZS) | 4:00 |

@@ -1,13 +1,33 @@
 {
   "description": "El Dembow que est\u00e1 subiendo. Foto: Chimbala",
-  "num_followers": 116526,
+  "num_followers": 116569,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrTMdAAAAADcPQ30GqsWui7lo6getYp1",
+  "snapshot_id": "ZsSv9QAAAADvXREc7L/M5+axrTOUG8bx",
   "tracks": [
+    {
+      "added_at": "2024-07-18 20:05:48",
+      "album": {
+        "name": "Palo Ajeno",
+        "url": "https://open.spotify.com/album/0KiKssxo1vKYwXiw5Al3uW"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Palo Ajeno",
+      "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
+    },
     {
       "added_at": "2024-08-01 03:37:43",
       "album": {
@@ -37,24 +57,20 @@
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"
     },
     {
-      "added_at": "2024-07-18 20:05:48",
+      "added_at": "2024-08-20 15:02:13",
       "album": {
-        "name": "Palo Ajeno",
-        "url": "https://open.spotify.com/album/0KiKssxo1vKYwXiw5Al3uW"
+        "name": "Traka",
+        "url": "https://open.spotify.com/album/0ptyTJDlh8CYs21xHvg1LE"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
         }
       ],
-      "duration_ms": 179200,
-      "name": "Palo Ajeno",
-      "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
+      "duration_ms": 139322,
+      "name": "Traka",
+      "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
     },
     {
       "added_at": "2024-08-08 13:47:32",
@@ -119,6 +135,26 @@
       "duration_ms": 146865,
       "name": "Ou Ou",
       "url": "https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF"
+    },
+    {
+      "added_at": "2024-08-20 15:02:13",
+      "album": {
+        "name": "No me llame",
+        "url": "https://open.spotify.com/album/2s3BvgoQt4UqEaMjFAuBcB"
+      },
+      "artists": [
+        {
+          "name": "Jay Nex",
+          "url": "https://open.spotify.com/artist/3z14e8xJmNmNIMeYNDcV0y"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "duration_ms": 116147,
+      "name": "No me llame",
+      "url": "https://open.spotify.com/track/4kM3FCc5Nmg09ugMnFVBXA"
     },
     {
       "added_at": "2024-06-12 20:16:51",
@@ -197,6 +233,26 @@
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
+      "added_at": "2024-08-20 15:02:13",
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/7E124WA297SDY1F1GGo58O"
+      },
+      "artists": [
+        {
+          "name": "Victor Beat",
+          "url": "https://open.spotify.com/artist/3axnKr15bMymtnBdSXw02l"
+        },
+        {
+          "name": "El Sicokario 42",
+          "url": "https://open.spotify.com/artist/3J7Uc1H7zS531UBr8cj0F5"
+        }
+      ],
+      "duration_ms": 123020,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/2GFgww7Jhbc2YaRfJohHoW"
+    },
+    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "Flow Sexy",
@@ -269,6 +325,26 @@
       "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
     },
     {
+      "added_at": "2024-08-20 15:02:13",
+      "album": {
+        "name": "Un Bate",
+        "url": "https://open.spotify.com/album/5hU26nho2I9JFHGyPvA7P1"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "duration_ms": 133407,
+      "name": "Un Bate",
+      "url": "https://open.spotify.com/track/3mSI0ZxiVaSHM8CgAYFdkF"
+    },
+    {
       "added_at": "2024-05-23 17:26:04",
       "album": {
         "name": "Dominguito",
@@ -335,6 +411,26 @@
       "duration_ms": 125387,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
+    },
+    {
+      "added_at": "2024-08-20 15:02:13",
+      "album": {
+        "name": "Shupamela",
+        "url": "https://open.spotify.com/album/5plKtCvLBagJSEJC7pIkdw"
+      },
+      "artists": [
+        {
+          "name": "El Sicokario",
+          "url": "https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6"
+        },
+        {
+          "name": "42palmundo",
+          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Shupamela",
+      "url": "https://open.spotify.com/track/3lKf4p6pEo0oWMYdc8NhK0"
     },
     {
       "added_at": "2024-06-05 22:06:42",
@@ -777,26 +873,6 @@
       "url": "https://open.spotify.com/track/52jDsgPR2FyDKNr8H80z4u"
     },
     {
-      "added_at": "2024-08-08 13:47:32",
-      "album": {
-        "name": "Sadica",
-        "url": "https://open.spotify.com/album/21kV4epuibPLCX0fY01A7c"
-      },
-      "artists": [
-        {
-          "name": "Bryant LR",
-          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
-        },
-        {
-          "name": "Masha",
-          "url": "https://open.spotify.com/artist/003R4Hnjw64cnKZoMjBHpI"
-        }
-      ],
-      "duration_ms": 98147,
-      "name": "Sadica",
-      "url": "https://open.spotify.com/track/3YHSnto5kK9C16vMEcVG3L"
-    },
-    {
       "added_at": "2023-12-22 05:09:41",
       "album": {
         "name": "GLOCK CREMA",
@@ -885,50 +961,6 @@
       "url": "https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq"
     },
     {
-      "added_at": "2024-08-01 03:37:43",
-      "album": {
-        "name": "Punto Abierto",
-        "url": "https://open.spotify.com/album/0efueqLrlckVXVmqbAwZoj"
-      },
-      "artists": [
-        {
-          "name": "EL NETE 27",
-          "url": "https://open.spotify.com/artist/0PrgSRFmpNgeMW2swXkgQB"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Punto Abierto",
-      "url": "https://open.spotify.com/track/7xAnx3St23hLpdgmfq4yVi"
-    },
-    {
-      "added_at": "2024-08-08 13:47:32",
-      "album": {
-        "name": "Te la wa' partir",
-        "url": "https://open.spotify.com/album/5uTPzDDCejnaudFP2uJNvd"
-      },
-      "artists": [
-        {
-          "name": "Paramba",
-          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
-        },
-        {
-          "name": "Kaly Ocho",
-          "url": "https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD"
-        },
-        {
-          "name": "Redoar",
-          "url": "https://open.spotify.com/artist/4VMZ9Y5PBa99qU3iRt5RnF"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Te La Wa' Parti",
-      "url": "https://open.spotify.com/track/7oukj2g8LaUd3wdYcOVYNK"
-    },
-    {
       "added_at": "2024-07-02 22:11:19",
       "album": {
         "name": "Siento Que Si",
@@ -949,30 +981,6 @@
       "url": "https://open.spotify.com/track/441wRCgso9TQUj4sL4Jnzc"
     },
     {
-      "added_at": "2024-08-01 03:37:43",
-      "album": {
-        "name": "Prendemela",
-        "url": "https://open.spotify.com/album/16HbehhJUVeT6zytlmWxoP"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ready & Yeigo",
-          "url": "https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        },
-        {
-          "name": "Victor R -Swag",
-          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "Prendemela",
-      "url": "https://open.spotify.com/track/1OeSbqFPZJqspFR2GCW7vR"
-    },
-    {
       "added_at": "2024-08-08 13:47:32",
       "album": {
         "name": "Doblando",
@@ -991,30 +999,6 @@
       "duration_ms": 127874,
       "name": "Doblando",
       "url": "https://open.spotify.com/track/3KIJl1kSQ0o4NT7ExS28Bp"
-    },
-    {
-      "added_at": "2024-07-25 17:45:11",
-      "album": {
-        "name": "OLEY RULYN 2.0",
-        "url": "https://open.spotify.com/album/1cit3YOB9F1K5FFY6raOTz"
-      },
-      "artists": [
-        {
-          "name": "El Chima En La Casa",
-          "url": "https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1"
-        },
-        {
-          "name": "El Cherry Scom",
-          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 162720,
-      "name": "OLEY RULYN 2.0",
-      "url": "https://open.spotify.com/track/11X1HqNhRRkl1D6FAmQRKq"
     },
     {
       "added_at": "2024-07-02 22:11:19",

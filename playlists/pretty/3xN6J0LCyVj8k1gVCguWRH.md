@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 125,654 likes - 136 songs - 7 hr 57 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 126,097 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 88 | [GO\(RILLA\)](https://open.spotify.com/track/5DIjkwYU1lZEyrrGopKYuJ) | [Claire Brooks](https://open.spotify.com/artist/1MoEDGaAMr0yXNhJkhAshB) | [GO\(RILLA\)](https://open.spotify.com/album/0f4pkoEyClQzBm553ig9QY) | 2:29 |
 | 89 | [White Bear](https://open.spotify.com/track/5Z4cDJYgygLDpsNyveR8Vy) | [Lava Hong](https://open.spotify.com/artist/6yDrbCYEt6ICpuW4Uc9YZu) | [White Bear](https://open.spotify.com/album/5qLzbMhraLgXIV8ZFvkMjq) | 2:46 |
 | 90 | [chasing the sunset](https://open.spotify.com/track/5VlwP0Okb4ontxDrbqLAMi) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [chasing the sunset](https://open.spotify.com/album/6zA5isze3nnlBHZYfmT0gb) | 3:02 |
-| 91 | [Hero](https://open.spotify.com/track/4xVl1xMfiwaQ6GVCg67qol) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Hero](https://open.spotify.com/album/0pnGjANUKoGWBzrTm4q1iD) | 2:59 |
-| 92 | [Superficial](https://open.spotify.com/track/5kAuF9nGhcBmevYFTyhvrv) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [Superficial](https://open.spotify.com/album/2uidvmd1YLefWI9Dv34PIm) | 2:45 |
-| 93 | [Lost in my mind \- Acoustic Version](https://open.spotify.com/track/3B39eogy4MFdjECDyTGmY4) | [Raoul C](https://open.spotify.com/artist/0FeJ3rcCRjVyFMydx9dCAz), [Olya Gram](https://open.spotify.com/artist/4qU8yqEYSaRdyR8c9vjOgo) | [Lost in my mind \(Acoustic Version\)](https://open.spotify.com/album/2HqgOFNSGdW0lNljHhapMd) | 1:47 |
+| 91 | [Lost in my mind \- Acoustic Version](https://open.spotify.com/track/3B39eogy4MFdjECDyTGmY4) | [Raoul C](https://open.spotify.com/artist/0FeJ3rcCRjVyFMydx9dCAz), [Olya Gram](https://open.spotify.com/artist/4qU8yqEYSaRdyR8c9vjOgo) | [Lost in my mind \(Acoustic Version\)](https://open.spotify.com/album/2HqgOFNSGdW0lNljHhapMd) | 1:47 |
+| 92 | [Hero](https://open.spotify.com/track/4xVl1xMfiwaQ6GVCg67qol) | [Yovanna Ventura](https://open.spotify.com/artist/1XTfflXB63H4e5loKP6S4L) | [Hero](https://open.spotify.com/album/0pnGjANUKoGWBzrTm4q1iD) | 2:59 |
+| 93 | [Superficial](https://open.spotify.com/track/5kAuF9nGhcBmevYFTyhvrv) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [Superficial](https://open.spotify.com/album/2uidvmd1YLefWI9Dv34PIm) | 2:45 |
 | 94 | [Palmerita](https://open.spotify.com/track/0FTOxjxei1i37xxpmOOGN3) | [ORO FRESCO](https://open.spotify.com/artist/0T4GpnXlD8ALG1JPS5XmJw) | [Palmerita](https://open.spotify.com/album/62XDqySvLXOBAGErJBSsRa) | 2:18 |
 | 95 | [With Me There \(Jehovah Shammah\)](https://open.spotify.com/track/7nyvCZy6yUtOdJc7d892LT) | [Kimberlee Ann Zegarelli](https://open.spotify.com/artist/0Vx0W9VsYonIWtxduYTwgo), [Brandon Zegarelli](https://open.spotify.com/artist/2lOJQQiB2mXvGvWU7J3LoY) | [With Me There \(Jehovah Shammah\)](https://open.spotify.com/album/1JmgCLG9wZ2cOaFJwox5Ll) | 6:29 |
 | 96 | [Balance](https://open.spotify.com/track/7kfMPbWIYwOFIqnX6yMO13) | [Sayat Nokerban](https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez) | [Can't Get Over You](https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E) | 2:43 |
@@ -133,16 +133,10 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 123 | [Fire](https://open.spotify.com/track/5vZxsA4a002KSXHB5g0Kkr) | [Elline Day](https://open.spotify.com/artist/0iClslv1V4PdKWLVzXyn2g) | [Fire](https://open.spotify.com/album/2DHaNUCmQur26wcMGNGITd) | 2:29 |
 | 124 | [hot glue](https://open.spotify.com/track/0njZDG7JendliN8qs2hlkp) | [dye\-dye](https://open.spotify.com/artist/1cJ2aAEUhYlxfOLRZDnUVp) | [hot glue](https://open.spotify.com/album/6sQp6GjNi2JFDFZYw7rxOl) | 3:35 |
 | 125 | [Optimistic](https://open.spotify.com/track/2IPB1nl1SBxWvUZcth5CJt) | [Macedo](https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG) | [Optimistic](https://open.spotify.com/album/2iy5FAEIRhPZ2CeLvPCokf) | 3:38 |
-| 126 | [Hillside](https://open.spotify.com/track/68rWygkFlerJQdU3UwMcUV) | [Ana Barrena](https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm), [SpaceFLP](https://open.spotify.com/artist/2xfZJW8GvJL76CCH8EC9bV) | [Hillside](https://open.spotify.com/album/2VMmw0nuemlk2ouO9Z5zST) | 4:03 |
-| 127 | [Losercoaster](https://open.spotify.com/track/6CpTezSs9BQojn6xWHM1tn) | [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [Losercoaster](https://open.spotify.com/album/4cSEiLbXAPLMB1YucAVMZU) | 3:18 |
-| 128 | [One More](https://open.spotify.com/track/2zYoV7AkU76naZH26oFWJX) | [Adonis Bosso](https://open.spotify.com/artist/4HVUEF1MeCxJssoDsVMZy6), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [One More](https://open.spotify.com/album/5vHJDKOrdE4D7Hphndp5CH) | 4:02 |
-| 129 | [Idk](https://open.spotify.com/track/366NUG73Ueh1wBafNVgE83) | [Heyhmann](https://open.spotify.com/artist/6iQICOTmuhVXfMhz4oQPDA) | [Idk](https://open.spotify.com/album/5Y4Z6Z0T1syOKLytMCba32) | 2:45 |
-| 130 | [Make Me Feel](https://open.spotify.com/track/4twAYTaw4ajCxeCp1ozBaS) | [WSF](https://open.spotify.com/artist/3v2kSsptCd84twCxGk3Qg2) | [Make Me Feel](https://open.spotify.com/album/3xQZIU2kzprCl2pYwYjrO6) | 2:37 |
-| 131 | [MVP](https://open.spotify.com/track/38bxAEBn3n7dbF1luiTpk8) | [Trisha](https://open.spotify.com/artist/2Z5Y14aAgVmcGt9k9bzyL1) | [MVP](https://open.spotify.com/album/39gJWeqYW5Dl3kw4np2vn1) | 3:23 |
-| 132 | [Magic to You](https://open.spotify.com/track/6Z3TRzjFNMWfbwbaiH3Kr6) | [Vanitary](https://open.spotify.com/artist/4jxp3P5nnCGVl0lKbBKl8X) | [Magic to You](https://open.spotify.com/album/1pJJ3UDkyVfZImu91HlsAY) | 2:55 |
-| 133 | [AOC](https://open.spotify.com/track/25wax4vWPlJ9UTZbZM7cpG) | [WILLIE MXSES](https://open.spotify.com/artist/5Kzl461GOvkaBte80fUBsr) | [AOC](https://open.spotify.com/album/0kcmNuMahjj7ZnZlkcU49Z) | 3:12 |
-| 134 | [Wanna Be Used](https://open.spotify.com/track/4Bht07jlhGHSHZT2ulLHbR) | [Kasey Jo](https://open.spotify.com/artist/31PRbjmfylMCN9VSewdUvG) | [Wanna Be Used](https://open.spotify.com/album/0qASuIOHU62a5lXfacQjKM) | 2:48 |
-| 135 | [Barbara](https://open.spotify.com/track/23EbqwbkOeIm8BplDJsy8Y) | [Angels Of Libra](https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL), [Nathan Johnston](https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb) | [Barbara](https://open.spotify.com/album/6JMr0TldzxPbITt2ns4nCa) | 3:34 |
-| 136 | [Fine, I'll Rap](https://open.spotify.com/track/05urb2KuwX8Rjz7CzBPwAl) | [Clinny P](https://open.spotify.com/artist/5HQyPul3Aaq0v1jVj2rWts) | [Fine, I'll Rap](https://open.spotify.com/album/2ncV1f91j5EnzJDELmWesL) | 2:48 |
+| 126 | [Losercoaster](https://open.spotify.com/track/6CpTezSs9BQojn6xWHM1tn) | [Kissflame](https://open.spotify.com/artist/12kJEyTzBlHn4TChb6nqRC) | [Losercoaster](https://open.spotify.com/album/4cSEiLbXAPLMB1YucAVMZU) | 3:18 |
+| 127 | [One More](https://open.spotify.com/track/2zYoV7AkU76naZH26oFWJX) | [Adonis Bosso](https://open.spotify.com/artist/4HVUEF1MeCxJssoDsVMZy6), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [One More](https://open.spotify.com/album/5vHJDKOrdE4D7Hphndp5CH) | 4:02 |
+| 128 | [Idk](https://open.spotify.com/track/366NUG73Ueh1wBafNVgE83) | [Heyhmann](https://open.spotify.com/artist/6iQICOTmuhVXfMhz4oQPDA) | [Idk](https://open.spotify.com/album/5Y4Z6Z0T1syOKLytMCba32) | 2:45 |
+| 129 | [Make Me Feel](https://open.spotify.com/track/4twAYTaw4ajCxeCp1ozBaS) | [WSF](https://open.spotify.com/artist/3v2kSsptCd84twCxGk3Qg2) | [Make Me Feel](https://open.spotify.com/album/3xQZIU2kzprCl2pYwYjrO6) | 2:37 |
+| 130 | [Fine, I'll Rap](https://open.spotify.com/track/05urb2KuwX8Rjz7CzBPwAl) | [Clinny P](https://open.spotify.com/artist/5HQyPul3Aaq0v1jVj2rWts) | [Fine, I'll Rap](https://open.spotify.com/album/2ncV1f91j5EnzJDELmWesL) | 2:48 |
 
-Snapshot ID: `AAAmeogMGx2UAj6rJe6i92IlbG7PoJ+U`
+Snapshot ID: `AAAmfa2O/PVTgSspDs2TASXl1LExPzrR`

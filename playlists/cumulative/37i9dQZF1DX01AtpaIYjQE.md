@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-169 songs - 12 hr 1 min
+170 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-11-15 |  |
 | [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-05-31 | 2022-11-16 |
 | [晴レ舞台](https://open.spotify.com/track/6Tcl3oxCmscox51Kpp1vcy) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:59 | 2022-05-31 | 2023-06-14 |
+| [洗脳](https://open.spotify.com/track/7BwIgYclDsf0Uz9HtmEr7o) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [洗脳](https://open.spotify.com/album/05an3ewJsJNLI6ip7yYwJK) | 2:51 | 2024-08-20 |  |
 | [炎](https://open.spotify.com/track/08c9t8xZCZt7lVVTNeXpzn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm) | 4:34 | 2022-05-31 | 2022-11-16 |
 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-11-15 |  |
 | [炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:37 | 2022-11-15 | 2023-06-14 |

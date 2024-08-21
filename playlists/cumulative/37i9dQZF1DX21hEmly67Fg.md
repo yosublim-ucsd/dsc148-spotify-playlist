@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-216 songs - 12 hr 26 min
+217 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-09 |  |
 | [One Dance](https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 2:11 | 2022-11-18 | 2022-11-26 |
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 |  |
+| [Perfect](https://open.spotify.com/track/6clv20tpXFKLevFO7Tcdno) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Perfect](https://open.spotify.com/album/7554ixwW94p7WaGD2mtO4G) | 3:49 | 2024-08-20 |  |
 | [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 | 2023-03-07 |  |
 | [Photograph](https://open.spotify.com/track/6B2PImXAkSXyPZOAhFmXHh) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 2](https://open.spotify.com/album/26472YwdcI0EnYbAavmn3d) | 4:17 | 2022-11-18 | 2022-11-26 |
 | [Piano Man](https://open.spotify.com/track/0VQsMDssKFEUG57CZ31YcD) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Piano Man](https://open.spotify.com/album/3BqnXRksYjWugaqusDNrML) | 2:31 | 2024-03-04 |  |

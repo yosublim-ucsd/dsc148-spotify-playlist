@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Andvari",
+        "url": "https://open.spotify.com/album/0zitCxZ7AmK7mqcGAykN7P"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149625,
+      "name": "Andvari",
+      "url": "https://open.spotify.com/track/3TTuARfIoM2AHIXIfKYPyD"
+    },
+    {
+      "album": {
         "name": "Angel Wings",
         "url": "https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT"
       },

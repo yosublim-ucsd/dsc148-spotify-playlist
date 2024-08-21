@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-84 songs - 4 hr 28 min
+85 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-10-03 | 2024-04-19 |
 | [Malwain](https://open.spotify.com/track/0p5qFQmghBRG73G0yJV0mz) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [1996](https://open.spotify.com/album/1VIiYt1vOklJBc2EPUXVEj) | 2:35 | 2024-01-30 |  |
 | [Maskara](https://open.spotify.com/track/2Ln1OxWuG3xTzWDl6DNcsy) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Maskara](https://open.spotify.com/album/3AGGLTvJpKLcOW6EdZMvuY) | 2:55 | 2023-03-18 |  |
+| [Mexican](https://open.spotify.com/track/3aHev9iM03320UCUm6X7hv) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [Mexican](https://open.spotify.com/album/7c16dgVaxSd21gbEmJNbAk) | 2:57 | 2024-08-20 |  |
 | [Mil Mahiya](https://open.spotify.com/track/0Jed0U2VlUbQCrQwwexzaf) | [Raashi Sood](https://open.spotify.com/artist/0ZEiDnkNsdY6IXWUjWuBU2), [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu), [ICONYK](https://open.spotify.com/artist/53jFDJeDG6WGvjeiuw8RAE), [Sonakshi Sinha](https://open.spotify.com/artist/7Bs820pxTkAddFJ3O6WhKi) | [Mil Mahiya](https://open.spotify.com/album/4Ornr7ayLqytC7uxcof214) | 2:32 | 2023-03-18 | 2023-11-18 |
 | [Motti Motti Akh](https://open.spotify.com/track/0v3H1kONrK6OKwE1elBYhZ) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Motti Motti Akh](https://open.spotify.com/album/54Ae2VjBhWonYo029f32Rb) | 4:31 | 2023-03-18 |  |
 | [Munda Karke +2 Aaya](https://open.spotify.com/track/483jHkv9kpwujhk9ZHBxlH) | [Sofia Inder](https://open.spotify.com/artist/04T6LAjLQUxF7JCqclfr5F), [Asmeet Sehra](https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Munda Karke +2 Aaya](https://open.spotify.com/album/5gy6Gqn41X7wT7MysEocHl) | 2:47 | 2023-10-03 | 2023-10-10 |
@@ -70,7 +71,7 @@
 | [Raule](https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:15 | 2023-03-18 |  |
 | [Rise](https://open.spotify.com/track/27eRjakkpVZjubP8iAvO9r) | [Sangeetha Rajeev](https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG) | [Rise](https://open.spotify.com/album/6FXWuqf9mdHV6aM0e781yI) | 2:48 | 2023-11-21 | 2024-01-31 |
 | [Rooh](https://open.spotify.com/track/0M4I6JCfIOt3rk19R6PFdJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/47FRGTjj9E1JCbsEndXiaG) | 3:28 | 2023-10-12 | 2024-04-19 |
-| [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2023-03-18 |  |
+| [Rooh](https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Rooh](https://open.spotify.com/album/5obWYzYO5TQJkIoWBx4OHG) | 3:28 | 2023-03-18 | 2024-08-21 |
 | [Routine](https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Kaptaan](https://open.spotify.com/artist/2czXapo5pWGIMCK0CVxxGl) | [Routine](https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn) | 3:23 | 2023-04-19 |  |
 | [Saadi Yaad](https://open.spotify.com/track/2lQKUDOOg4TELqOacnHwDt) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Saadi Yaad](https://open.spotify.com/album/4y0IjnVoYUKqJIr2uhtff6) | 2:40 | 2023-03-18 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 |  |

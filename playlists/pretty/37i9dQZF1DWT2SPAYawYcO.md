@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,848 likes - 92 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,904 likes - 92 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 81 | [God's A Different Sword](https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [God's A Different Sword](https://open.spotify.com/album/5UOWbEUwHarGCuQ91Rd3U2) | 3:19 |
 | 82 | [Something](https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Lover, Other](https://open.spotify.com/album/5BUquHUocSbSGXlTjUcH75) | 4:31 |
 | 83 | [Life Out There](https://open.spotify.com/track/0QMMF6BX8zMy5eY9HEODfL) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Life Out There](https://open.spotify.com/album/7CRuXUFK6Gsr63CMfll1JH) | 3:47 |
-| 84 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol 2.](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
+| 84 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol.2](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
 | 85 | [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 |
 | 86 | [So Many Places](https://open.spotify.com/track/1sNTZa0guKUP8en47QLmYs) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [So Many Places](https://open.spotify.com/album/5HZixOqm29OFwN29OjJWZX) | 3:02 |
 | 87 | [she likes sports](https://open.spotify.com/track/49qWGkMnVQilns96xVksEa) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [she likes sports](https://open.spotify.com/album/6WFYNGTKtxsaHSx9r9zS84) | 2:22 |

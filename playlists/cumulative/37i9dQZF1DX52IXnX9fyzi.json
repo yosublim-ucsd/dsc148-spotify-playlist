@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "alone at sea",
+        "url": "https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6"
+      },
+      "artists": [
+        {
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151871,
+      "name": "alone at sea",
+      "url": "https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT"
+    },
+    {
+      "album": {
         "name": "Always Shining Bright",
         "url": "https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A"
       },

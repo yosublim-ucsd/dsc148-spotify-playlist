@@ -4797,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199920,
+      "name": "John Wayne Gacy, Jr.",
+      "url": "https://open.spotify.com/track/2gFBh7NnEfSeBoZZDB5d2C"
+    },
+    {
+      "album": {
         "name": "Jolene From Her Own Perspective",
         "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
       },
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/1podyfJH4yaihSJwZ5lF47"
@@ -7166,7 +7184,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 210377,
       "name": "Rocky Trail",
       "url": "https://open.spotify.com/track/5xKHD7mTnrCgy4SN1Y1jK3"
@@ -8864,7 +8882,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 261217,
       "name": "The Last Man on Earth",
       "url": "https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0"

@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Balo",
+        "url": "https://open.spotify.com/album/6a5RpBqYIEyNulXT8siCD2"
+      },
+      "artists": [
+        {
+          "name": "Bergama",
+          "url": "https://open.spotify.com/artist/0pBH0dXlXMOCgZ8KacxmxL"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Balo",
+      "url": "https://open.spotify.com/track/3kWxlicl0tDchSb56IwAbf"
+    },
+    {
+      "album": {
         "name": "Barcelona Sunrise",
         "url": "https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM"
       },
@@ -13614,6 +13632,24 @@
       "duration_ms": 267828,
       "name": "You Have My Blessing",
       "url": "https://open.spotify.com/track/1lgdO7zTcawmoXYIilHsyv"
+    },
+    {
+      "album": {
+        "name": "You Say",
+        "url": "https://open.spotify.com/album/142OmXLl83VNEmqWL9qufL"
+      },
+      "artists": [
+        {
+          "name": "Charlie Oakfield",
+          "url": "https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218780,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6fKdo7gJlCbvCMsU7CeC0P"
     },
     {
       "album": {

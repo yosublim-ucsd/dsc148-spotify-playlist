@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3327744,
+  "num_followers": 3327683,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "The Thrill Of It All - Special Edition",
-        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 283294,
-      "name": "No Peace",
-      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 239767,
       "name": "Us Against the World",
       "url": "https://open.spotify.com/track/5zyfzNnBzN7f7PVkJFnW2g"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "The Thrill Of It All - Special Edition",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 283294,
+      "name": "No Peace",
+      "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Love Is BS",
-        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
-      },
-      "artists": [
-        {
-          "name": "Lala Sadii",
-          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Love Is BS",
-      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "MKTO",
         "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 184213,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5tajmvqHF6YW1iiUFzKpCB"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Love Is BS",
+        "url": "https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc"
+      },
+      "artists": [
+        {
+          "name": "Lala Sadii",
+          "url": "https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Love Is BS",
+      "url": "https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "I Don't Wanna See You with Her",
-        "url": "https://open.spotify.com/album/7eSV4Y9VZ45dr3XTTM70EI"
-      },
-      "artists": [
-        {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        }
-      ],
-      "duration_ms": 223786,
-      "name": "I Don't Wanna See You with Her",
-      "url": "https://open.spotify.com/track/1gs1wX1reGRMb775gtQNCs"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "I\u2019ll Still Have Me",
         "url": "https://open.spotify.com/album/0bO19AlrcNsk8t5gOqKDgX"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 219267,
       "name": "I\u2019ll Still Have Me",
       "url": "https://open.spotify.com/track/71HEg3bYLyMAxHuJ3a6KIM"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "I Don't Wanna See You with Her",
+        "url": "https://open.spotify.com/album/7eSV4Y9VZ45dr3XTTM70EI"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "I Don't Wanna See You with Her",
+      "url": "https://open.spotify.com/track/1gs1wX1reGRMb775gtQNCs"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Tarver",
-          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
-        }
-      ],
-      "duration_ms": 156120,
-      "name": "One Without the Other",
-      "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "supposed to",
         "url": "https://open.spotify.com/album/2hoWsnm5E7jrSdq01RNoBU"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 174500,
       "name": "supposed to",
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/4goBfD1y92lRNsftSKeEsF"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "One Without the Other",
+      "url": "https://open.spotify.com/track/7Brog3UEWvvH0SePifthzY"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "She's Gone",
-        "url": "https://open.spotify.com/album/1TcDaA8yaW6n3h3Kb1fiuA"
-      },
-      "artists": [
-        {
-          "name": "Vwillz",
-          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/1Q7HO1L7KO46VlMH8C3Abh"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Borders",
         "url": "https://open.spotify.com/album/3Rv5ZcZTfEIRKqvWBhrYmv"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 235920,
       "name": "When I Let Go",
       "url": "https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "She's Gone",
+        "url": "https://open.spotify.com/album/1TcDaA8yaW6n3h3Kb1fiuA"
+      },
+      "artists": [
+        {
+          "name": "Vwillz",
+          "url": "https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/1Q7HO1L7KO46VlMH8C3Abh"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "you broke me first",
-        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 169265,
-      "name": "you broke me first",
-      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "All The Little Lights",
         "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 252866,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "you broke me first",
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 169265,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
     },
     {
       "added_at": "2024-07-15 19:40:57",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2024-07-15 19:40:57",
       "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
-    },
-    {
-      "added_at": "2024-07-15 19:40:57",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 287693,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0"
+    },
+    {
+      "added_at": "2024-07-15 19:40:57",
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "added_at": "2024-07-15 19:40:57",

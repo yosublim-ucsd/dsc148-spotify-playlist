@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
+  "description": "This Is Los Hijos De Garcia. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Hijos De Garcia",
   "tracks": [
     {
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "PHX",
+        "url": "https://open.spotify.com/album/1IOv8ht4ixe1npaJe3lp6z"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185343,
+      "name": "PHX",
+      "url": "https://open.spotify.com/track/2jQci8Dr902XIFaeG1WBk0"
+    },
+    {
+      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -930,7 +948,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 182640,
       "name": "Recordando La Sierra",
       "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"

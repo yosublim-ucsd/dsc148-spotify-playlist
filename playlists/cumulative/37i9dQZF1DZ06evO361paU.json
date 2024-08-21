@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
+  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
   "name": "This Is Lenny Kravitz",
   "tracks": [
     {
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267116,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i"
+    },
+    {
+      "album": {
         "name": "Human (Remixes Edits)",
         "url": "https://open.spotify.com/album/3BdVQB5QezmM00de2dDOgs"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 232258,
       "name": "Human - Dave Aud\u00e9 Remix edit",
       "url": "https://open.spotify.com/track/7fRkil9alBUn9PhPGm3fCz"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 273790,
       "name": "Spirit in My Heart",
       "url": "https://open.spotify.com/track/4hAskjUNsXafyR3LX9Zzbr"

@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 30845,
+  "num_followers": 30869,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
-      },
-      "artists": [
-        {
-          "name": "USTYM",
-          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
-        }
-      ],
-      "duration_ms": 187123,
-      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
         "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177468,
       "name": "\u041b\u0435\u0441\u044f",
       "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/48OLhfZDNgcGGERjX92NB4"
+      },
+      "artists": [
+        {
+          "name": "USTYM",
+          "url": "https://open.spotify.com/artist/478Bz0rfoFT4LKEhZr7eIQ"
+        }
+      ],
+      "duration_ms": 187123,
+      "name": "\u0426\u0456\u043b\u0443\u0439 \u041c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/5K9i7SUlzxjJVPgT7vnrbQ"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
-      },
-      "artists": [
-        {
-          "name": "Tina Karol",
-          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
-        }
-      ],
-      "duration_ms": 180495,
-      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
-      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
         "url": "https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 155624,
       "name": "\u042f \u0442\u0435\u0431\u0435 \u043d\u0435 \u0447\u0443\u044e",
       "url": "https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+        "url": "https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf"
+      },
+      "artists": [
+        {
+          "name": "Tina Karol",
+          "url": "https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r"
+        }
+      ],
+      "duration_ms": 180495,
+      "name": "\u0417 \u0442\u043e\u0431\u043e\u044e",
+      "url": "https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd"
     },
     {
       "added_at": "2024-07-12 16:07:22",

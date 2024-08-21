@@ -1,6 +1,6 @@
 {
   "description": "C'est qui l'patron ?",
-  "num_followers": 64661,
+  "num_followers": 64769,
   "original_name": "Balec !",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-08-19 14:36:46",
       "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 249373,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL"
+    },
+    {
+      "added_at": "2024-08-19 14:36:46",
+      "album": {
         "name": "Apelogies",
         "url": "https://open.spotify.com/album/0TAeIWcUAjAb1ZBXzaDOGV"
       },
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-08-19 14:36:46",
       "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "Back Foot",
-      "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
-    },
-    {
-      "added_at": "2024-08-19 14:36:46",
-      "album": {
         "name": "Love From The Other Side",
         "url": "https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD"
       },
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-08-19 14:36:46",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
       "artists": [
         {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 249373,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL"
+      "duration_ms": 188653,
+      "name": "Back Foot",
+      "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
     },
     {
       "added_at": "2024-08-19 14:36:46",

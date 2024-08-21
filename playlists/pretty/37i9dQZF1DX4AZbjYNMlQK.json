@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
-  "num_followers": 275323,
+  "num_followers": 275308,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Sad \"X\" mas",
-        "url": "https://open.spotify.com/album/0deuNy0QB3zmYbFfJu21Cy"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 136016,
-      "name": "25",
-      "url": "https://open.spotify.com/track/7ycm9QUqfl7Y3AzY5etvLo"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Estefan Family Christmas",
         "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 243666,
       "name": "Doy Gracias Por Ti",
       "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Sad \"X\" mas",
+        "url": "https://open.spotify.com/album/0deuNy0QB3zmYbFfJu21Cy"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 136016,
+      "name": "25",
+      "url": "https://open.spotify.com/track/7ycm9QUqfl7Y3AzY5etvLo"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Diciembre Fr\u00edo",
-        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 176086,
-      "name": "Diciembre Fr\u00edo",
-      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Otro a\u00f1o +",
         "url": "https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 100231,
       "name": "Otro a\u00f1o +",
       "url": "https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Diciembre Fr\u00edo",
+        "url": "https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 176086,
+      "name": "Diciembre Fr\u00edo",
+      "url": "https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Ven a Mi Casa Esta Navidad",
-        "url": "https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF"
-      },
-      "artists": [
-        {
-          "name": "JACE Carrillo",
-          "url": "https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "Ven a Mi Casa Esta Navidad",
-      "url": "https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Dime Navidad",
         "url": "https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 159500,
       "name": "Dime Navidad",
       "url": "https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Ven a Mi Casa Esta Navidad",
+        "url": "https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF"
+      },
+      "artists": [
+        {
+          "name": "JACE Carrillo",
+          "url": "https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "Ven a Mi Casa Esta Navidad",
+      "url": "https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq"
-      },
-      "artists": [
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        }
-      ],
-      "duration_ms": 175100,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
         "name": "Nuestra Navidad (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/5Tx9GpKRgJdWZ1wpGmAuKg"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 186850,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/43uJNr6fTmnF0k7wubD6v0"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 175100,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
       },
       "artists": [
         {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
+      "duration_ms": 216038,
+      "name": "Nuestra Canci\u00f3n De Navidad",
+      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2023-12-20 18:00:15",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-20 18:00:15",
       "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
+    },
+    {
+      "added_at": "2023-12-20 18:00:15",
+      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 145876,
       "name": "Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg"
-    },
-    {
-      "added_at": "2023-12-20 18:00:15",
-      "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
     },
     {
       "added_at": "2023-12-20 18:00:15",

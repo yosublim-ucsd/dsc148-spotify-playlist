@@ -2,7 +2,7 @@
 
 ### [This Is Jhené Aiko](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xhrLa)
 
-> This Is Jhené Aiko\. Los temas esenciales, todos en una lista.
+> This is Jhené Aiko\. The essential tracks, all in one playlist.
 
 69 songs - 4 hr 24 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 32996,
+  "num_followers": 33006,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr8eXAAAAACuVZHreu8nke+JXTEwTmvP",
+  "snapshot_id": "ZsSlLQAAAADCctSTUxuVqN4+6BRfYDkI",
   "tracks": [
     {
       "added_at": "2024-07-30 13:08:46",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/5X527N2Czc8NjGunkSLzjn"
     },
     {
+      "added_at": "2024-08-20 10:09:42",
+      "album": {
+        "name": "Hymns Of Shiva",
+        "url": "https://open.spotify.com/album/18ln7n5xBhxkxBUSye5TeE"
+      },
+      "artists": [
+        {
+          "name": "Nitin K Siva",
+          "url": "https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis"
+        }
+      ],
+      "duration_ms": 349090,
+      "name": "Hymns Of Shiva",
+      "url": "https://open.spotify.com/track/2wgJFX3Ox5CRoT7uhcOYfQ"
+    },
+    {
+      "added_at": "2024-08-20 14:15:56",
+      "album": {
+        "name": "Nizhalaay",
+        "url": "https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D"
+      },
+      "artists": [
+        {
+          "name": "Dins George",
+          "url": "https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q"
+        }
+      ],
+      "duration_ms": 280030,
+      "name": "Nizhalaay",
+      "url": "https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf"
+    },
+    {
       "added_at": "2024-08-16 09:39:25",
       "album": {
         "name": "Thanne",
@@ -64,12 +96,8 @@
       },
       "artists": [
         {
-          "name": "Kavya Ajit",
-          "url": "https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3"
-        },
-        {
-          "name": "Precious Peter",
-          "url": "https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81"
+          "name": "Kavya Ajit Precious Peter",
+          "url": "https://open.spotify.com/artist/48BaVAlscNKoQidZGJuspq"
         }
       ],
       "duration_ms": 192000,
@@ -919,26 +947,6 @@
     {
       "added_at": "2024-01-15 04:10:09",
       "album": {
-        "name": "Eppo Varuvaro + Kimkim",
-        "url": "https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa"
-      },
-      "artists": [
-        {
-          "name": "Sudeep Palanad",
-          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
-        },
-        {
-          "name": "Remya Vinayakumar",
-          "url": "https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "Eppo Varuvaro + Kimkim",
-      "url": "https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
         "name": "Sundown",
         "url": "https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY"
       },
@@ -1363,22 +1371,6 @@
       "duration_ms": 360066,
       "name": "Thaalam - Version 1",
       "url": "https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9"
-    },
-    {
-      "added_at": "2024-01-15 04:10:09",
-      "album": {
-        "name": "AVIAL",
-        "url": "https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv"
-      },
-      "artists": [
-        {
-          "name": "Avial",
-          "url": "https://open.spotify.com/artist/29z5chNteRELh8vVAnKind"
-        }
-      ],
-      "duration_ms": 380533,
-      "name": "Karukara",
-      "url": "https://open.spotify.com/track/3beDYAoq3bQwL2mqlMmslR"
     },
     {
       "added_at": "2024-01-15 04:10:09",

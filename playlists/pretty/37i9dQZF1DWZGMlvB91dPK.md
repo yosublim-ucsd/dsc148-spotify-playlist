@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,780 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,787 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 2 | [Insomnies](https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 3:01 |
 | 3 | [Differences Aside](https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:55 |
 | 4 | [No Coward \- Demo Version](https://open.spotify.com/track/0MkF22OOv45eKXAgjIvN7m) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [No Coward \(Demo Version\)](https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr) | 3:27 |
-| 5 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
-| 6 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
+| 5 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
+| 6 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
 | 7 | [Rejoins moi](https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Rejoins moi](https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm) | 3:47 |
 | 8 | [L'INVERSE](https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [L'INVERSE](https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ) | 2:19 |
 | 9 | [Candyman](https://open.spotify.com/track/28kt0Oq3Oow8SPCStnMn9a) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 4:46 |

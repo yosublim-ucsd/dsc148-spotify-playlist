@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 192269,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7"
@@ -856,6 +856,24 @@
       "duration_ms": 143487,
       "name": "Dr\u00f8mmende",
       "url": "https://open.spotify.com/track/417Rk6IHsMmM8tKtP3CNfB"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/4NjV45T2Gn6yoSIO3FhdYZ"
+      },
+      "artists": [
+        {
+          "name": "Phillipe Clo\u00e9",
+          "url": "https://open.spotify.com/artist/5DMHdizoMGkBX3LMMcFzut"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163157,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/6Z7AvtDIW22XxHYOyTXlWH"
     },
     {
       "album": {
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 177734,
       "name": "Moonwalk",
       "url": "https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy"
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 165450,
       "name": "Peaceful Sensations",
       "url": "https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm"

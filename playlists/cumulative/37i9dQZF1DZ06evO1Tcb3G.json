@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Mumford & Sons. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Mumford & Sons. Los temas esenciales, todos en una lista.",
   "name": "This Is Mumford & Sons",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 223685,
       "name": "October Skies",
       "url": "https://open.spotify.com/track/4O7kxdfjLOFUwIB6Q63ScX"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 223685,
       "name": "October Skies",
       "url": "https://open.spotify.com/track/77GRxATpswGNnEJIFvSrHr"

@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-182 songs - 9 hr 38 min
+183 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bagagli \(Improvvisazione\)](https://open.spotify.com/track/0VbPsWeQgpyDw5sQNGkUVL) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 3:15 | 2023-06-01 | 2023-09-15 |
 | [BIG SHOW \(feat\. Nicola Siciliano\)](https://open.spotify.com/track/4n5JC857oepHTOT7T4NqN3) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 3:02 | 2023-09-14 | 2023-12-01 |
 | [Bimbo in quartiere](https://open.spotify.com/track/3LUz9MAlrMJ4paLLFgHrB3) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:15 | 2024-01-25 |  |
-| [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3VgANOool6wXnJTCaxLw1y) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/album/4mkcJQrZx5BA1mdliCzO59) | 2:55 | 2024-08-07 |  |
+| [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/3VgANOool6wXnJTCaxLw1y) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [BLAH! \(x5\) \(feat\. Massimo Pericolo\)](https://open.spotify.com/album/4mkcJQrZx5BA1mdliCzO59) | 2:55 | 2024-08-07 | 2024-08-21 |
 | [Blueface \(feat\. Izi, Tedua\)](https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Glory Days EP](https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI) | 3:42 | 2022-04-15 |  |
 | [BODY PARTS \- I denti](https://open.spotify.com/track/20Jv9Gx73P618C5rYt2Tmx) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 2:36 | 2022-12-15 | 2024-04-19 |
 | [BODY PARTS \- I denti](https://open.spotify.com/track/4WOXQYfq3fYVRMcaXuHBAD) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 2:36 | 2022-04-15 |  |
@@ -136,6 +136,7 @@
 | [NOI](https://open.spotify.com/track/6g4ZDGB7jj7T1X8sWB5GFQ) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Noia](https://open.spotify.com/track/67eVdMdbm9cp8A1Thsdcr1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 4:44 | 2022-04-15 | 2024-01-12 |
 | [Non Parlarmi \(Outro\)](https://open.spotify.com/track/0MKaWjeFXU07DGJ2LtKhoC) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Non Parlarmi \(Outro\)](https://open.spotify.com/album/0Pgz00h9dyL1dQ1BKKIjlB) | 3:31 | 2023-11-30 |  |
+| [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-20 |  |
 | [Outro Purgatorio](https://open.spotify.com/track/4FN1moouQXRI7k6Gs3rDZl) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 4:44 | 2023-06-01 |  |
 | [OUV3RTURE](https://open.spotify.com/track/6Zm34v95snSUecBXqHeu8t) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [OUV3RTURE](https://open.spotify.com/album/67H0MkQF8hYsPkh69BcdkM) | 2:52 | 2022-04-15 |  |
 | [Parole Vuote \(La Solitudine\)](https://open.spotify.com/track/4QBfVk60RIBQg1uyox78Kh) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [La Divina Commedia](https://open.spotify.com/album/6V2ux3cV4NA4PWx2g1gm0u) | 4:11 | 2023-11-28 | 2024-01-13 |

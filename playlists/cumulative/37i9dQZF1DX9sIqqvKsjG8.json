@@ -9365,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "One Minute",
+        "url": "https://open.spotify.com/album/3F6uVFyE6av5f6CWFcq2kv"
+      },
+      "artists": [
+        {
+          "name": "OIYYIO",
+          "url": "https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/0UFrBSY1gbFvQdfcfufXRG"
+    },
+    {
+      "album": {
         "name": "Onirique",
         "url": "https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG"
       },

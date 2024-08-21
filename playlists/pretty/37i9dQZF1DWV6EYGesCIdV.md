@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6EYGesCIdV.md) - [plain]
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,770 likes - 88 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,791 likes - 88 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ne m'oublie pas \(Berceuse\)](https://open.spotify.com/track/2i1K3fIUf5n6j1X3nCkyfk) | [Damien Ferrette](https://open.spotify.com/artist/5wLym1hw1CXzF0oSpu2Ht7), [Anouck Petitgirard](https://open.spotify.com/artist/6IV8cIoVioRGGRPsgBSJDO) | [Coco \(Bande Originale Française du Film\)](https://open.spotify.com/album/45NSI0VCYW6vHfwD7mYZqr) | 1:09 |
+| 1 | [Ne m'oublie pas \(Berceuse\)](https://open.spotify.com/track/2i1K3fIUf5n6j1X3nCkyfk) | [Damien Ferrette](https://open.spotify.com/artist/5wLym1hw1CXzF0oSpu2Ht7), [Anouck Petitgirard](https://open.spotify.com/artist/6IV8cIoVioRGGRPsgBSJDO) | [Coco \- Bande Originale Française du Film](https://open.spotify.com/album/45NSI0VCYW6vHfwD7mYZqr) | 1:09 |
 | 2 | [Histoire éternelle](https://open.spotify.com/track/5eAZyD2t92RffeUcKmcQgo) | [Lucie Dolene](https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh) | [Beauty And The Beast Original Soundtrack Special Edition](https://open.spotify.com/album/1OtmiUF7FjWZhAZtxNAtDM) | 2:46 |
 | 3 | [La berceuse d'Ahtohallan](https://open.spotify.com/track/70t6ELOe4D8lW0r9Sx68xv) | [Prisca Demarez](https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 2:05 |
 | 4 | [I See the Light](https://open.spotify.com/track/3Su94JQMs4BUAAldxFsWmY) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Chill](https://open.spotify.com/album/05m44Fs7YqGLIbsxK3EiqA) | 3:53 |

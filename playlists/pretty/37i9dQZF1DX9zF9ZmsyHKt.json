@@ -1,6 +1,6 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 330408,
+  "num_followers": 330425,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Z\u00e9lia Duncan",
-        "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Catedral",
-      "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 257106,
       "name": "O Segundo Sol - Ao Vivo",
       "url": "https://open.spotify.com/track/6nq1UXqPzEPPIG54YMSnhn"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Z\u00e9lia Duncan",
+        "url": "https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ana Rita Joana Iracema Carolina",
         "url": "https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 305666,
       "name": "Quem de n\u00f3s Dois (La Mia Storia Tra Le Dita)",
       "url": "https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Asa Morena",
-        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
-      },
-      "artists": [
-        {
-          "name": "Zizi Possi",
-          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Asa Morena",
-      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "N\u00f3s VOZ Eles",
         "url": "https://open.spotify.com/album/7BPwhaHjhjWTwIopJY6FTK"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 215116,
       "name": "Pra Me Refazer",
       "url": "https://open.spotify.com/track/1KIMRoLleFJCwABBrlAOPI"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Asa Morena",
+        "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
+      },
+      "artists": [
+        {
+          "name": "Zizi Possi",
+          "url": "https://open.spotify.com/artist/65yVjvbkC6m9DzQFihrSvL"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Asa Morena",
+      "url": "https://open.spotify.com/track/7K5rZnp7C07SVotXqMaKFp"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "O Velho E Bom Novo (Lado A)",
         "url": "https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Frevo Mulher",
-        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
       },
       "artists": [
         {
-          "name": "Amelinha",
-          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
         }
       ],
-      "duration_ms": 241093,
-      "name": "Frevo Mulher",
-      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -775,6 +759,22 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Frevo Mulher",
+        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
+      },
+      "artists": [
+        {
+          "name": "Amelinha",
+          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Frevo Mulher",
+      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "\u00c1gua na Boca",
         "url": "https://open.spotify.com/album/1XVbxdgj9y6Hl2G1Y4pdHg"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 185341,
       "name": "\u00c1gua na Boca",
       "url": "https://open.spotify.com/track/2xTaOIpC4sKmk9iusmRIFV"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
-        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
-      },
-      "artists": [
-        {
-          "name": "Nana Caymmi",
-          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Suave Veneno",
-      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Ambulante",
         "url": "https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 151520,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Os Maiores Sucessos De Novela De Nana Caymmi",
+        "url": "https://open.spotify.com/album/5nvNEdnPjIRY2feHGlpYU8"
+      },
+      "artists": [
+        {
+          "name": "Nana Caymmi",
+          "url": "https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Suave Veneno",
+      "url": "https://open.spotify.com/track/2k2BtYRni9BvDHXAMUFABR"
     },
     {
       "added_at": "2022-10-07 03:01:33",

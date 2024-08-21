@@ -469,6 +469,28 @@
     },
     {
       "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/0dIToP40dUYcpMW9Gwso91"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140727,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/7h8IgSnEDjclxGvUKyfyvj"
+    },
+    {
+      "album": {
         "name": "25 \u00c9 Natal, 31 \u00c9 Ano Novo",
         "url": "https://open.spotify.com/album/5wryKJCOHnnnTBSrXG8oIB"
       },
@@ -1706,12 +1728,16 @@
       },
       "artists": [
         {
+          "name": "Digdin",
+          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
+        },
+        {
           "name": "MC ERYCK HK",
           "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
         },
         {
-          "name": "Digdin",
-          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
+          "name": "Corvina Dj",
+          "url": "https://open.spotify.com/artist/0ccPgj6OLaH1ZouAB6gO2T"
         },
         {
           "name": "DJ Tezinho",
@@ -1728,7 +1754,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 147727,
       "name": "Achei Que Era Pagode",
       "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
@@ -2686,7 +2712,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 168960,
       "name": "Alma De Pipa",
       "url": "https://open.spotify.com/track/644gq5WwvqPNJa1Kai6bLR"
@@ -2832,6 +2858,24 @@
       "duration_ms": 211786,
       "name": "Amanhecer",
       "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
+    },
+    {
+      "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/4m3fhqIcH2Izw5ReWRQb5j"
+      },
+      "artists": [
+        {
+          "name": "RUAN VITOR VAQUEIRINHO",
+          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169080,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/0KhZjWbG8uHakszjOw6Rx9"
     },
     {
       "album": {
@@ -3354,7 +3398,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -9966,7 +10010,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 151384,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw"
@@ -9984,7 +10028,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 150923,
       "name": "CHIHIRO - MTG",
       "url": "https://open.spotify.com/track/2uoqxEz9kqytYKmlQTxvUh"
@@ -14023,6 +14067,24 @@
     },
     {
       "album": {
+        "name": "Disbica",
+        "url": "https://open.spotify.com/album/6YxV3t1gwMWkQsDZtY9FH9"
+      },
+      "artists": [
+        {
+          "name": "MC LELLO",
+          "url": "https://open.spotify.com/artist/411lABOndHRFGa3s91D0fM"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536711,
+      "name": "Disbica",
+      "url": "https://open.spotify.com/track/1ujVxK6XMYLr9p4IPwRG2q"
+    },
+    {
+      "album": {
         "name": "Taurus, Vol. 2",
         "url": "https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4"
       },
@@ -17502,7 +17564,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 168019,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
@@ -21565,6 +21627,28 @@
     },
     {
       "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
         "name": "gugu, bb",
         "url": "https://open.spotify.com/album/6SKzMcbmUOMQVcGXeqiTQ3"
       },
@@ -24672,6 +24756,28 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "album": {
+        "name": "KEHLANI (REMIX) [feat. Kehlani]",
+        "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
       "album": {
@@ -33276,7 +33382,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 169571,
       "name": "MVP",
       "url": "https://open.spotify.com/track/1IHYVMeFy76X0Xl2DkLkDh"
@@ -34752,7 +34858,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -36092,7 +36198,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 120240,
       "name": "O Melhor no Que Faz 3.0",
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
@@ -36184,6 +36290,28 @@
       "duration_ms": 109541,
       "name": "O Meu Amanh\u00e3",
       "url": "https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj"
+    },
+    {
+      "album": {
+        "name": "O Meu Cora\u00e7\u00e3o Em Suas M\u00e3os (Colgando en tu manos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0l9HOTaI4ITNxf91xMdw6M"
+      },
+      "artists": [
+        {
+          "name": "Hugo & Guilherme",
+          "url": "https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204343,
+      "name": "O Meu Cora\u00e7\u00e3o Em Suas M\u00e3os (Colgando en tu manos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JLhwgadVkN8zckxL1ICrI"
     },
     {
       "album": {
@@ -37174,7 +37302,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 123000,
       "name": "Oq c\u00ea fez?",
       "url": "https://open.spotify.com/track/2739WNF0lAMaNQt78wIC7p"
@@ -44042,6 +44170,28 @@
       "duration_ms": 151228,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/2S8QSQUuGIfZd664X7azXI"
+    },
+    {
+      "album": {
+        "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
+        "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
+      },
+      "artists": [
+        {
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167256,
+      "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
+      "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"
     },
     {
       "album": {
@@ -51707,6 +51857,24 @@
     },
     {
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214033,
+      "name": "TUDO",
+      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+    },
+    {
+      "album": {
         "name": "Tudo",
         "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
       },
@@ -51718,7 +51886,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 216612,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
@@ -55258,7 +55426,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 161312,
       "name": "Wi-Fi - Ao Vivo",
       "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"
@@ -56145,6 +56313,24 @@
     },
     {
       "album": {
+        "name": "\u00c9 Ele",
+        "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
+      },
+      "artists": [
+        {
+          "name": "Drops INA",
+          "url": "https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495857,
+      "name": "\u00c9 Ele",
+      "url": "https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13"
+    },
+    {
+      "album": {
         "name": "\u00c9 Isso Ai BB Ta Certa",
         "url": "https://open.spotify.com/album/7x7ziG7mxe1lXNzpiRQvtM"
       },
@@ -56174,7 +56360,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 288679,
       "name": "\u00c9 Isso A\u00ed",
       "url": "https://open.spotify.com/track/5sVsbcPVGnATSyvim4OMaQ"

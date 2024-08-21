@@ -769,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Emelie",
+        "url": "https://open.spotify.com/album/6vVl86bLY5jk1kBNyfS4R3"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148770,
+      "name": "Emelie",
+      "url": "https://open.spotify.com/track/28k4JRP9dPVal0VUvF5pbP"
+    },
+    {
+      "album": {
         "name": "En del av dig (From the Netflix film \"A Part Of You\")",
         "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },

@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 151866,
       "name": "aequor",
       "url": "https://open.spotify.com/track/1bg1pkCcZums63l85aFe6x"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/1bgYm1WkoUiOaqDF41fcf3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191474,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/038KeNjAMACcJBQ7yadyis"
+    },
+    {
+      "album": {
         "name": "Chromium",
         "url": "https://open.spotify.com/album/1ZNEdw4CeZ0kFFBbGDRt1j"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 215941,
       "name": "Chromium",
       "url": "https://open.spotify.com/track/2xMdXQxvOJGozOU0Y6gKmw"
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 205440,
       "name": "Inner Sphere",
       "url": "https://open.spotify.com/track/3mLoP1rCssKM4aeRAUpiOj"
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 166750,
       "name": "luna",
       "url": "https://open.spotify.com/track/5NOXtK6OWi7TDRU5TenMRX"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 185850,
       "name": "March\u00e9 St Quentin",
       "url": "https://open.spotify.com/track/6vrsJ91kWmaAvVgeUJoiDp"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 221748,
       "name": "Missing Harmony",
       "url": "https://open.spotify.com/track/2W08tDSfh59v7bw7v3Jani"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 150199,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/4iRBjXN9x4UdOrT9c6sSsL"
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 182619,
       "name": "Peace",
       "url": "https://open.spotify.com/track/55RlcgW6hojT3G1wMIovfA"
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 170221,
       "name": "Perfezione",
       "url": "https://open.spotify.com/track/3iKtQJElqQBhqtIfeSlJic"
@@ -2432,7 +2450,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 154000,
       "name": "Saga Of Me",
       "url": "https://open.spotify.com/track/3gc5hmuRFBI2Vnd3Owjsok"
@@ -3146,7 +3164,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 178148,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/3XnQ3OqmfvP5Sh6gACEKnG"
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 199180,
       "name": "The Essence",
       "url": "https://open.spotify.com/track/50Iw4pM6pLfisbWog0ysGF"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 205695,
       "name": "The Five Times I Loved You",
       "url": "https://open.spotify.com/track/0W4RUo3m0jL0wHADS0PLme"

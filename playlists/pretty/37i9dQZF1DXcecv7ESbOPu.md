@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,628 likes - 119 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,645 likes - 119 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 104 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 |
 | 105 | [Chicken Grease](https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 2:41 |
 | 106 | [Star Crossed Lover](https://open.spotify.com/track/774oJ9EJu88GEj5JgVVazf) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Star Crossed Lover](https://open.spotify.com/album/6dZ3TMqkomnLJiYN5ouYJa) | 2:50 |
-| 107 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol 2.](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
+| 107 | [On and On](https://open.spotify.com/track/6JEgBKPfPWolUSPS6WFXz6) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Love.Sick Vol.2](https://open.spotify.com/album/6ETGMIMdorbIYH8kfwqG6e) | 2:25 |
 | 108 | [Bande organisée 2](https://open.spotify.com/track/3wh4HFS6a3v8Zu1vZadEwA) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [13 Organisé](https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw), [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Elams](https://open.spotify.com/artist/2IoSLl3tqYMq9DzR0d6NJN), [Solda](https://open.spotify.com/artist/7FXX45sHqoQoCwqtG0ZV8H), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Bande organisée 2](https://open.spotify.com/album/77qDPmjrdp1m055rJ3vpSr) | 6:16 |
 | 109 | [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 |
 | 110 | [Perspective](https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Perspective](https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT) | 2:39 |

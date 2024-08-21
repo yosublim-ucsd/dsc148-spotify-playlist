@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 596682,
+  "num_followers": 596929,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "The Xpander E.P.",
+        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Xpander - Edit",
+      "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Brave New World (The Opera Song)",
         "url": "https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 212658,
       "name": "The Opera Song (Brave New World)",
       "url": "https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "The Xpander E.P.",
-        "url": "https://open.spotify.com/album/2xnwMwLUMQOquTnjLOuh6Q"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Xpander - Edit",
-      "url": "https://open.spotify.com/track/75653mwqn2ikumvrHuhEKf"
     },
     {
       "added_at": "2024-07-23 09:55:55",

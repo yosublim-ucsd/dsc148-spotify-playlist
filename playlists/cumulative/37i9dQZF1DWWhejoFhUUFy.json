@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Dil Tu Jaan Tu",
+        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "Dil Tu Jaan Tu",
+      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "album": {
         "name": "The Way That Lovers Do",
         "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
       },
@@ -1471,6 +1493,32 @@
     },
     {
       "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "Khoobsurat",
+      "url": "https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2"
+    },
+    {
+      "album": {
         "name": "Khoya",
         "url": "https://open.spotify.com/album/2AjolCCtmTdfRkQsvl4TeA"
       },
@@ -1941,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+      },
+      "artists": [
+        {
+          "name": "Joi Barua",
+          "url": "https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191137,
+      "name": "O'Meri Laila - Radio Version",
+      "url": "https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D"
+    },
+    {
+      "album": {
         "name": "Parda",
         "url": "https://open.spotify.com/album/5ZxjM0OML0g3RVv3utPfA6"
       },
@@ -2186,7 +2252,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 224211,
       "name": "Raatan Kaaliyan",
       "url": "https://open.spotify.com/track/5amV3T1nvj21SVqHI01kBr"
@@ -2801,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
+      },
+      "artists": [
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
+        },
+        {
+          "name": "Hunny",
+          "url": "https://open.spotify.com/artist/3VkiCR2nuvfucpvFXdSVtx"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283539,
+      "name": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
+    },
+    {
+      "album": {
         "name": "NEW LIFE",
         "url": "https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF"
       },
@@ -2870,7 +2962,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 60000,
       "name": "Tu Kahaan - 1 Min Music",
       "url": "https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw"
@@ -3074,7 +3166,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 77415,
       "name": "Yeh Jaane Kaisa Raaz Hai",
       "url": "https://open.spotify.com/track/3oOS9fuJ4tfu533xytOGLt"
@@ -3128,7 +3220,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 139826,
       "name": "Zaroori Nahi",
       "url": "https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv"

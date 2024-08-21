@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,088 songs - 2 day 8 hr 15 min
+1,089 songs - 2 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Follow Me](https://open.spotify.com/track/1W1lgRwIEuSMFLkLg6tXm7) | [Levianth](https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H) | [Follow Me](https://open.spotify.com/album/0BCP5oNMo4U2zPjGB9gOEu) | 2:04 | 2022-09-07 | 2022-10-22 |
 | [For Tha Shot](https://open.spotify.com/track/4nkxVUmWW2sNVzSAmElsrp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [For Tha Shot](https://open.spotify.com/album/29xMerDSgERnGqXyU4VX0T) | 4:22 | 2022-12-16 | 2022-12-27 |
 | [For The Most Part](https://open.spotify.com/track/67VgKO83J9P12AiLW5IjN4) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6), [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [VNDETTA](https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5) | [For The Most Part](https://open.spotify.com/album/0M2ZFWs4sdIc9SOGuJSjfq) | 3:38 | 2023-12-08 | 2024-02-17 |
+| [Forever](https://open.spotify.com/track/54kWlu1U9fphJ8VuNA39U9) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Forever](https://open.spotify.com/album/2CXoSi2bLD1vlydfdFSskL) | 3:28 | 2024-08-20 |  |
 | [Forget You](https://open.spotify.com/track/7CbJoy4Rl2kzkGFAXDDH8a) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Breezie 311](https://open.spotify.com/artist/7AjXl1MssQbIgKrleqAzim) | [Forget You](https://open.spotify.com/album/7sHgL4Rl2GqefbufyPsUnc) | 2:19 | 2023-11-03 | 2023-12-19 |
 | [Forgive Me](https://open.spotify.com/track/73UOjDMdNAOXM2FPC4nta0) | [WinWel](https://open.spotify.com/artist/6CbRlRjHH42aw6V6zbCAxb) | [Forgive Me](https://open.spotify.com/album/0DIvrO5E7V9RNym2JddrEh) | 2:16 | 2023-03-24 | 2023-04-29 |
 | [Forgotten You](https://open.spotify.com/track/7jRCnqBjGvLyWBA7g0ZrCZ) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 4:10 | 2022-02-18 | 2022-06-04 |

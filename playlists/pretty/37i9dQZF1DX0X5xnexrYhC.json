@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: GAYLE",
-  "num_followers": 83998,
+  "num_followers": 84005,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "Sobriety",
-        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 126361,
-      "name": "Sobriety",
-      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 126361,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn"
     },
     {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 137979,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
-    },
-    {
       "added_at": "2024-07-15 02:15:37",
       "album": {
         "name": "What Just Happened?",
@@ -615,6 +599,22 @@
       "duration_ms": 155260,
       "name": "F U Anthem",
       "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
+    },
+    {
+      "added_at": "2024-07-23 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 137979,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
     },
     {
       "added_at": "2024-07-15 02:15:37",

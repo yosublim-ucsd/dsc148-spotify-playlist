@@ -32,12 +32,12 @@
       },
       "artists": [
         {
-          "name": "Mike Olow",
-          "url": "https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt"
-        },
-        {
           "name": "Cl\u00f6die",
           "url": "https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15"
+        },
+        {
+          "name": "Mike Olow",
+          "url": "https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt"
         }
       ],
       "duration_ms": 252000,

@@ -2,7 +2,7 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt?si=DkbXglsCRAGxW\-5IwHA\_nA"> حسن شاكوش </a> و <a href="https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe?si=nAhLxBeESMuzB7k8OJA91w"> حمادة مجدي </a>
+> أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15?si=E98dgI\_sTCS\_UWSXKusF4A"> مجدي الزهار </a>
 
 265 songs - 16 hr 13 min
 

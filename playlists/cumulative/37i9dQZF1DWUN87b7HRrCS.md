@@ -4,7 +4,7 @@
 
 > Soft and cozy sounds of Bossa nova.
 
-113 songs - 7 hr 15 min
+114 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Brisa](https://open.spotify.com/track/5erlLgX315PcOtgu6OkWSd) | [Red Room Rio Band](https://open.spotify.com/artist/6DcYlMfcRxVRZAdGU6fpOh) | [Amalgama](https://open.spotify.com/album/3FjlRaBMxQSeGuA0hIYCwN) | 6:24 | 2023-05-11 |  |
 | [Brisa do Mar](https://open.spotify.com/track/7DlsAi4CP4GfDfvGRS6V5e) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Brisa do Mar](https://open.spotify.com/album/0WzNCdLD9mCtx1lO6NQ8g5) | 3:26 | 2023-05-11 |  |
 | [Bésame Mucho](https://open.spotify.com/track/7Kh9w5XOJqykS2IpTdZC8X) | [Cristiana Cunha](https://open.spotify.com/artist/3W5iyQ6JGJHqSgNtq86GrT) | [Bésame Mucho](https://open.spotify.com/album/0XpWh98WxM7rtw67TfHh38) | 3:26 | 2023-05-11 |  |
-| [Café Amor](https://open.spotify.com/track/684V8BCxqg1wZIGq3X5rGg) | [Emma Mitchell](https://open.spotify.com/artist/7oTTR7meeg8HMCi2Zemgjz) | [Café Amor](https://open.spotify.com/album/4FIuBcsbwnDLIuQv9rpE2r) | 3:47 | 2024-06-13 |  |
+| [Café Amor](https://open.spotify.com/track/684V8BCxqg1wZIGq3X5rGg) | [Emma Mitchell](https://open.spotify.com/artist/7oTTR7meeg8HMCi2Zemgjz) | [Café Amor](https://open.spotify.com/album/4FIuBcsbwnDLIuQv9rpE2r) | 3:47 | 2024-06-13 | 2024-08-21 |
 | [Call on me softly](https://open.spotify.com/track/34yyBDFvc815CHpHINtpMg) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Call on me softly](https://open.spotify.com/album/6yswi7kz4lWCyIevxBgF9J) | 3:27 | 2024-03-08 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-05-11 |  |
 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 | 2023-05-11 |  |
@@ -63,7 +63,7 @@
 | [Insônia](https://open.spotify.com/track/4Q92ioXrNYiaLaRDJEc1mq) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 2:44 | 2023-05-11 |  |
 | [Inútil paisagem](https://open.spotify.com/track/4VhDH7KDHeYqyGcRTity4J) | [Juliano Vidal Band](https://open.spotify.com/artist/5ZOhtZZUJLIUeiZOEJwVa2) | [O Morro Nao Tem Vez](https://open.spotify.com/album/1wgx5igIEBKoVA9jKGegKD) | 4:23 | 2023-05-11 |  |
 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 | 2024-01-12 |  |
-| [Know About This](https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Know About This](https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z) | 2:45 | 2024-06-13 |  |
+| [Know About This](https://open.spotify.com/track/5MqmmihJnGYFs3rXjeAlVY) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Know About This](https://open.spotify.com/album/3KlQjBMtdNufLzYtmubs7Z) | 2:45 | 2024-06-13 | 2024-08-21 |
 | [La Boca](https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [La Boca](https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5) | 4:04 | 2023-09-22 |  |
 | [Lembranças](https://open.spotify.com/track/4eGXFQEQGGxgYy6OFabfJV) | [Vitor José Fonseca](https://open.spotify.com/artist/4lmPgpLRyJHPseygyVBGTu) | [Lembranças](https://open.spotify.com/album/1uPZt0rwu5GK8wA9Qji4tW) | 4:04 | 2023-05-11 |  |
 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 | 2023-05-11 |  |
@@ -83,7 +83,7 @@
 | [Once Again \(feat\. Laurindo Almeida\)](https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Stan Getz With Guest Artist Laurindo Almeida](https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9) | 6:42 | 2023-05-11 |  |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2023-05-11 |  |
 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 | 2023-05-11 |  |
-| [Ondas Cintilantes](https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Ondas Cintilantes](https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A) | 2:58 | 2023-05-11 |  |
+| [Ondas Cintilantes](https://open.spotify.com/track/0BaqfOrf4DXXO7oOgbanwm) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Ondas Cintilantes](https://open.spotify.com/album/3TzJR9AZiINuZIY2WWvR7A) | 2:58 | 2023-05-11 | 2024-08-21 |
 | [Over the Rainbow](https://open.spotify.com/track/4oVtVfH5Byf8mRThHC8ZSb) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [Over the Rainbow](https://open.spotify.com/album/4QHX19CSzvmLopSHU6XIiE) | 3:06 | 2023-05-11 |  |
 | [Praia de Ipanema](https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [Praia de Ipanema](https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1) | 4:01 | 2024-03-08 |  |
 | [Prelude In E Minor](https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Night Lights \(Expanded Edition\)](https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ) | 4:16 | 2023-05-11 |  |
@@ -112,6 +112,7 @@
 | [The winner takes it all](https://open.spotify.com/track/02Psb0agmZobapdLYj8Iax) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [The winner takes it all](https://open.spotify.com/album/1i2L2zQlWf6Z36fGt7kmSg) | 2:54 | 2024-01-05 |  |
 | [Time Passes By](https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [Time Passes By](https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u) | 2:31 | 2023-10-13 |  |
 | [Time Passing Slowly](https://open.spotify.com/track/1uEOB09ZF3Xt3WmtbneqMf) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Time Passing Slowly](https://open.spotify.com/album/2UFNvSBbtLOxzaFXxNoeKv) | 3:38 | 2023-05-11 |  |
+| [Vamos lá](https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Vamos lá](https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1) | 2:32 | 2024-08-20 |  |
 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-05-11 |  |
 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-05-11 |  |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2023-05-11 |  |

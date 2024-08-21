@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 105494,
       "name": "brudny moncler",
       "url": "https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq"
@@ -876,6 +876,24 @@
       "duration_ms": 184000,
       "name": "HIPOTERMIA",
       "url": "https://open.spotify.com/track/2UQSuWbKpUJskj0iZJheNk"
+    },
+    {
+      "album": {
+        "name": "hyperstar",
+        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "hyperstar",
+      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
     },
     {
       "album": {

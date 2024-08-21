@@ -1,6 +1,6 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 771555,
+  "num_followers": 771653,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-07-05 18:50:08",
       "album": {
+        "name": "Small Town Murder Songs - Original Soundtrack",
+        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Peninsula",
+          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
+        }
+      ],
+      "duration_ms": 192586,
+      "name": "Rosie",
+      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
+    },
+    {
+      "added_at": "2024-07-05 18:50:08",
+      "album": {
         "name": "Daughter, Daughter",
         "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
-    },
-    {
-      "added_at": "2024-07-05 18:50:08",
-      "album": {
-        "name": "Small Town Murder Songs - Original Soundtrack",
-        "url": "https://open.spotify.com/album/0OLNuLgxVRr9EZk98NcfeZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Peninsula",
-          "url": "https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe"
-        }
-      ],
-      "duration_ms": 192586,
-      "name": "Rosie",
-      "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
     },
     {
       "added_at": "2024-07-05 18:50:08",

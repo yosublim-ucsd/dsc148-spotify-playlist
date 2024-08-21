@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,411 likes - 712 songs - 1 day 23 hr 41 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,412 likes - 713 songs - 1 day 23 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -720,5 +720,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 710 | [See You Later, I'm Gone](https://open.spotify.com/track/2A7yBdKjpOw6nrhMSIPZss) | [Robert Lester Folsom](https://open.spotify.com/artist/5uQyXHg4ph7gNlnZHxt9kX) | [Ode to a Rainy Day: Archives 1972\-1975](https://open.spotify.com/album/4bk1fWNcND3Rma6zTbWj2u) | 4:33 |
 | 711 | [The Apple](https://open.spotify.com/track/3a3QwM981j7Sd58qFm8Rrc) | [The Mayflies USA](https://open.spotify.com/artist/2NEBqZaq6kThQTNs0W0zbs) | [Summertown](https://open.spotify.com/album/48SGmT7QVCrXeoVxDcLznm) | 3:13 |
 | 712 | [Meanwhile, Rick James...](https://open.spotify.com/track/5cWsKKp8brqei2F5vXrYoG) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:57 |
+| 713 | [Keep It Warm](https://open.spotify.com/track/0LoMT7TGL2p2n1TFx1cNRT) | [Flo & Eddie](https://open.spotify.com/artist/5lcsLQAbcbmTZ7DXy2dYbK) | [Moving Targets](https://open.spotify.com/album/0xmvxx47wDa2W8SRKpHtYV) | 4:16 |
 
-Snapshot ID: `AAAGvOQADK3w92oU3VpZeiqvOGmBk/n9`
+Snapshot ID: `AAAGvSahnTtnI30uWhKiQSg+XUR2Zycv`

@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 775502,
+  "num_followers": 775482,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAD7vFA4NyeMfwzaBrZi3Ue5",
+  "snapshot_id": "ZsKLAAAAAAAYejoeWJuikx/OWtJqd0hd",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Emperor's New Clothes",
-      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
+      "duration_ms": 178600,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 178600,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/6od5hFv9IT5JHc7NEF9HRv"
+      "duration_ms": 158666,
+      "name": "Emperor's New Clothes",
+      "url": "https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "New Perspective",
-      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Show",
         "url": "https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 174306,
       "name": "The Greatest Show",
       "url": "https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
     },
     {
       "added_at": null,

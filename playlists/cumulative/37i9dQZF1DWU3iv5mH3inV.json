@@ -7651,6 +7651,28 @@
     },
     {
       "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/7E124WA297SDY1F1GGo58O"
+      },
+      "artists": [
+        {
+          "name": "Victor Beat",
+          "url": "https://open.spotify.com/artist/3axnKr15bMymtnBdSXw02l"
+        },
+        {
+          "name": "El Sicokario 42",
+          "url": "https://open.spotify.com/artist/3J7Uc1H7zS531UBr8cj0F5"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123020,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/2GFgww7Jhbc2YaRfJohHoW"
+    },
+    {
+      "album": {
         "name": "Matadora",
         "url": "https://open.spotify.com/album/7h8QOqVOVS9AZXeXwSqAzk"
       },
@@ -8985,6 +9007,28 @@
     },
     {
       "album": {
+        "name": "No me llame",
+        "url": "https://open.spotify.com/album/2s3BvgoQt4UqEaMjFAuBcB"
+      },
+      "artists": [
+        {
+          "name": "Jay Nex",
+          "url": "https://open.spotify.com/artist/3z14e8xJmNmNIMeYNDcV0y"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116147,
+      "name": "No me llame",
+      "url": "https://open.spotify.com/track/4kM3FCc5Nmg09ugMnFVBXA"
+    },
+    {
+      "album": {
         "name": "No Smoking",
         "url": "https://open.spotify.com/album/3j77cWmV5HsKzHuCXaSkoW"
       },
@@ -9248,7 +9292,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 162720,
       "name": "OLEY RULYN 2.0",
       "url": "https://open.spotify.com/track/11X1HqNhRRkl1D6FAmQRKq"
@@ -10758,7 +10802,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 116410,
       "name": "Prendemela",
       "url": "https://open.spotify.com/track/1OeSbqFPZJqspFR2GCW7vR"
@@ -10950,7 +10994,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 160052,
       "name": "Punto Abierto",
       "url": "https://open.spotify.com/track/7xAnx3St23hLpdgmfq4yVi"
@@ -11806,7 +11850,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 98147,
       "name": "Sadica",
       "url": "https://open.spotify.com/track/3YHSnto5kK9C16vMEcVG3L"
@@ -12138,6 +12182,28 @@
       "duration_ms": 165230,
       "name": "Sexo",
       "url": "https://open.spotify.com/track/5Nxx0NVoI4Pygkrg8Fezlq"
+    },
+    {
+      "album": {
+        "name": "Shupamela",
+        "url": "https://open.spotify.com/album/5plKtCvLBagJSEJC7pIkdw"
+      },
+      "artists": [
+        {
+          "name": "El Sicokario",
+          "url": "https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6"
+        },
+        {
+          "name": "42palmundo",
+          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Shupamela",
+      "url": "https://open.spotify.com/track/3lKf4p6pEo0oWMYdc8NhK0"
     },
     {
       "album": {
@@ -13564,7 +13630,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 160634,
       "name": "Te La Wa' Parti",
       "url": "https://open.spotify.com/track/7oukj2g8LaUd3wdYcOVYNK"
@@ -14403,6 +14469,24 @@
     },
     {
       "album": {
+        "name": "Traka",
+        "url": "https://open.spotify.com/album/0ptyTJDlh8CYs21xHvg1LE"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139322,
+      "name": "Traka",
+      "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
+    },
+    {
+      "album": {
         "name": "Trakas Belico",
         "url": "https://open.spotify.com/album/1DsEIRuqKVBpZSCvfLZfpx"
       },
@@ -14958,6 +15042,28 @@
       "duration_ms": 123141,
       "name": "Ubicacion y Foto",
       "url": "https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a"
+    },
+    {
+      "album": {
+        "name": "Un Bate",
+        "url": "https://open.spotify.com/album/5hU26nho2I9JFHGyPvA7P1"
+      },
+      "artists": [
+        {
+          "name": "Harryson",
+          "url": "https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133407,
+      "name": "Un Bate",
+      "url": "https://open.spotify.com/track/3mSI0ZxiVaSHM8CgAYFdkF"
     },
     {
       "album": {

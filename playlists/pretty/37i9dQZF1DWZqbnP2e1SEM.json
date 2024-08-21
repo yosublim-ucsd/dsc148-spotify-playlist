@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321722,
+  "num_followers": 321705,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -371,7 +371,7 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Wile Out 24 (Edit)",
+        "name": "Wile Out 24 - Edit",
         "url": "https://open.spotify.com/album/6B1s84m7mwdYwwkBFURp5G"
       },
       "artists": [
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
+        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224124,
+      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
+      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
-        "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-        "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224124,
-      "name": "PICK UP THE PHONE (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Chase It (Mmm Da Da Da)",
-        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 154639,
-      "name": "Chase It (Mmm Da Da Da)",
-      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Chase It (Mmm Da Da Da)",
+        "url": "https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 154639,
+      "name": "Chase It (Mmm Da Da Da)",
+      "url": "https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "EYAH (You'll Be Alright)",
-        "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Tudor",
-          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "EYAH (You'll Be Alright)",
-      "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "IBIZA",
         "url": "https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8"
       },
@@ -1323,22 +1299,26 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
+        "name": "EYAH (You'll Be Alright)",
+        "url": "https://open.spotify.com/album/3ZFctsaDV84rcejIEOHhOv"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
         },
         {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
         }
       ],
-      "duration_ms": 157595,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
+      "duration_ms": 175748,
+      "name": "EYAH (You'll Be Alright)",
+      "url": "https://open.spotify.com/track/2TE1Pr3iaDJdWvGSfMm3TS"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1363,6 +1343,26 @@
       "duration_ms": 171883,
       "name": "Dominator",
       "url": "https://open.spotify.com/track/5ht7wW7dzpou0SuO2zraHA"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1B1wx3gPkSnt0Ye6eSRxLl"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 157595,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/3ixm1rumU8S9aQci6wiJM3"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3"
-      },
-      "artists": [
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 160815,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "4 ON DA FLOOR",
         "url": "https://open.spotify.com/album/2KrfHNsJL9pcWUxaAqzoZu"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 157377,
       "name": "Viper",
       "url": "https://open.spotify.com/track/3SYkywr2DJIjcw1MTwKB0n"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/7Hrj6X4EWNxsXEqYF2A9Y3"
+      },
+      "artists": [
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 160815,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/2gtokhCdY1vgMmW6TdGW3q"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
-        "name": "1:M",
-        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 134734,
-      "name": "Open Up The Door",
-      "url": "https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
         "name": "Back (feat. Flirta D)",
         "url": "https://open.spotify.com/album/07t04O7yvxc7k3yET2PjA7"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 187927,
       "name": "Back (feat. Flirta D)",
       "url": "https://open.spotify.com/track/03yIjpTayeOffZYTTNdiyF"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
+        "name": "1:M",
+        "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "duration_ms": 134734,
+      "name": "Open Up The Door",
+      "url": "https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
+        "name": "Earth Move Edit",
+        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+      },
+      "artists": [
+        {
+          "name": "Daire",
+          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Earth Move Edit",
+      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
         "name": "Go Deeper",
         "url": "https://open.spotify.com/album/5srysQygAgaCcq4rHZcXDi"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 189697,
       "name": "Go Deeper",
       "url": "https://open.spotify.com/track/5DuYUQO1VPDM5vfcb6esuP"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
-        "name": "Earth Move Edit",
-        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
-      },
-      "artists": [
-        {
-          "name": "Daire",
-          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
-        }
-      ],
-      "duration_ms": 162043,
-      "name": "Earth Move Edit",
-      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
     },
     {
       "added_at": "2024-08-02 10:46:14",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2024-08-02 10:46:14",
       "album": {
+        "name": "Tengo Fuego",
+        "url": "https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "duration_ms": 187680,
+      "name": "Tengo Fuego",
+      "url": "https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw"
+    },
+    {
+      "added_at": "2024-08-02 10:46:14",
+      "album": {
         "name": "The Nighttrain",
         "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
       },
@@ -1915,22 +1931,6 @@
       "duration_ms": 186573,
       "name": "The Nighttrain",
       "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
-    },
-    {
-      "added_at": "2024-08-02 10:46:14",
-      "album": {
-        "name": "Tengo Fuego",
-        "url": "https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        }
-      ],
-      "duration_ms": 187680,
-      "name": "Tengo Fuego",
-      "url": "https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw"
     },
     {
       "added_at": "2024-08-02 10:46:14",

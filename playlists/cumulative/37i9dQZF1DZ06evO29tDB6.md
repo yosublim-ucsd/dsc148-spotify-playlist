@@ -2,7 +2,7 @@
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This is El Tri\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is El Tri\. The essential tracks, all in one playlist.
 
 80 songs - 5 hr 20 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 149843,
+  "num_followers": 149880,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "No Pagode",
-        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Andan\u00e7a",
-      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Cartola - 1976",
         "url": "https://open.spotify.com/album/7x7UYZtatkx5fnqBOhmx1b"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 173106,
       "name": "As Rosas N\u00e3o Falam",
       "url": "https://open.spotify.com/track/6J4gdn9L1im9uqzqBLhht6"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "No Pagode",
+        "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 223266,
+      "name": "Andan\u00e7a",
+      "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Mercado das Flores",
         "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 190904,
       "name": "Mercado das Flores",
       "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+        "name": "Samba Djanira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2p9rpcvacUrFxMJ7bUgUgK"
       },
       "artists": [
         {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+      "duration_ms": 210223,
+      "name": "A Carta - Ao Vivo",
+      "url": "https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1167,6 +1167,22 @@
       "duration_ms": 206541,
       "name": "Vaso Quebrado",
       "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 171805,
       "name": "Tamb\u00e9m Pede Bis",
       "url": "https://open.spotify.com/track/7ArxNzr5D7OvRqes0S8CHY"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
-        "name": "Samba Djanira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2p9rpcvacUrFxMJ7bUgUgK"
-      },
-      "artists": [
-        {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        }
-      ],
-      "duration_ms": 210223,
-      "name": "A Carta - Ao Vivo",
-      "url": "https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz"
     },
     {
       "added_at": "2024-07-19 03:01:00",

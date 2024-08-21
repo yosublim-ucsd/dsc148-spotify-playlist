@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,804 likes - 50 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,867 likes - 50 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 44 | [Came Too Far \(feat\. Maverick City Music & My Mom\)](https://open.spotify.com/track/6VoWKlXpOTx56gHkSHOeZP) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [My Mom](https://open.spotify.com/artist/2hXLOncPoUkyWl4kagwB4R) | [Fridayy](https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf) | 3:51 |
 | 45 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 |
 | 46 | [More Than Able \(Anything Is Possible\) \[feat\. Evan Ford\]](https://open.spotify.com/track/33m6XltCJQveJqmS7sI01E) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 2:17 |
-| 47 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
+| 47 | [Simple Adoración \(feat\. Laila Olivera & Johnny Peña\)](https://open.spotify.com/track/0wYot44AfBl47H4dHb9CIF) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Laila Olivera](https://open.spotify.com/artist/5VtJqt6InNwbrpeZ492kWX), [Johnny Peña](https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 7:44 |
 | 48 | [Doxology \(feat\. Alton Eugene\)](https://open.spotify.com/track/1e7vIWOyyck23niJBxhdpa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Alton Eugene](https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6) | [Maverick City, Vol\. 1](https://open.spotify.com/album/02rSTsnEzWJOg6yA3cVijt) | 2:19 |
 | 49 | [Holy Ghost \(feat\. Bri Babineuax & Alton Eugene\)](https://open.spotify.com/track/7IEKYcNmE949Zrsh2mYNhd) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF), [Alton Eugene](https://open.spotify.com/artist/2wh1cj2CyHkIgAi0DR7ki6) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 5:16 |
 | 50 | [Mighty One \(feat\. Todd Dulaney, Maryanne J\. George & Mav City Gospel Choir\)](https://open.spotify.com/track/1Ige5heWT74ObjEsIwlJCK) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 6:15 |
 
-Snapshot ID: `ZsE5gAAAAAC4vlb9pt/lb8AA4XEQwjSh`
+Snapshot ID: `ZsKLAAAAAADvY5Ip8/jO3TQtTihDM7Ou`

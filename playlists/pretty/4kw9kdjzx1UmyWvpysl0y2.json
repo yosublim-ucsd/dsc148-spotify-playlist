@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125859,
+  "num_followers": 125861,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS2VPxWG762LYjeEMTvx3LoY0G49fh",
+  "snapshot_id": "AAAS2+biWKTCecuqKqVr/6iFYjmP0cq8",
   "tracks": [
+    {
+      "added_at": "2024-08-20 14:43:59",
+      "album": {
+        "name": "Around Me",
+        "url": "https://open.spotify.com/album/6Rn2V0wlOJgl7h4CdLCBci"
+      },
+      "artists": [
+        {
+          "name": "ORACLE",
+          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/6US34V1ml2fkN33kPzu5Ut"
+    },
     {
       "added_at": "2024-08-19 14:42:57",
       "album": {
@@ -1143,50 +1159,6 @@
       "duration_ms": 195692,
       "name": "Ballistic",
       "url": "https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x"
-    },
-    {
-      "added_at": "2024-05-30 14:22:36",
-      "album": {
-        "name": "I Contain Flashing Images",
-        "url": "https://open.spotify.com/album/6U2MVLJOBph3F1k5XqwnER"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 262500,
-      "name": "Hit the Ground",
-      "url": "https://open.spotify.com/track/1jZ4irbZ1NSFdaoz2MjQtK"
-    },
-    {
-      "added_at": "2024-05-29 15:04:27",
-      "album": {
-        "name": "Hopeless",
-        "url": "https://open.spotify.com/album/4cUL3xUF0WnEM1L2KDLTPb"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "Feed Me",
-          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 223928,
-      "name": "Hopeless",
-      "url": "https://open.spotify.com/track/2GROAqNCXHvn1Su3cDTAOI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

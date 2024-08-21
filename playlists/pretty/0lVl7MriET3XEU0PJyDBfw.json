@@ -1,12 +1,12 @@
 {
   "description": "House music therapy for the dance floor.",
-  "num_followers": 11032,
+  "num_followers": 11030,
   "original_name": "HOUSEIUM // BASSLINE THERAPY",
   "owner": {
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAYrzrBk4j7eu2UyeUmVBp2V2tJ0b7y",
+  "snapshot_id": "AAAYuSo6JFXpWEzTjLHvEA78p3bZsMlY",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -23,22 +23,6 @@
       "duration_ms": 199687,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
-    },
-    {
-      "added_at": "2023-11-20 21:07:03",
-      "album": {
-        "name": "Mental // Insane Asylum",
-        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
-      },
-      "artists": [
-        {
-          "name": "Houseium",
-          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Mental",
-      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -77,24 +61,20 @@
       "url": "https://open.spotify.com/track/1gwzbPBNUs48cI5QQZ532d"
     },
     {
-      "added_at": "2024-05-24 19:39:54",
+      "added_at": "2023-11-20 21:07:03",
       "album": {
-        "name": "Oh Baby!",
-        "url": "https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB"
+        "name": "Mental // Insane Asylum",
+        "url": "https://open.spotify.com/album/5SAeEGeFys7Tj3qg8pUWUq"
       },
       "artists": [
-        {
-          "name": "TRYPBOX",
-          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
-        },
         {
           "name": "Houseium",
           "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
         }
       ],
-      "duration_ms": 180468,
-      "name": "Oh Baby!",
-      "url": "https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66"
+      "duration_ms": 233333,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/1fWXCcaZqFYEMytX8oDLkk"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -137,24 +117,24 @@
       "url": "https://open.spotify.com/track/6gMdt2WJntHMU8jo7ZcAW0"
     },
     {
-      "added_at": "2023-12-08 05:00:38",
+      "added_at": "2024-05-24 19:39:54",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8"
+        "name": "Oh Baby!",
+        "url": "https://open.spotify.com/album/5dsP2jPN6LflY4wrKnmCRB"
       },
       "artists": [
         {
-          "name": "Houseium",
-          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+          "name": "TRYPBOX",
+          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
         },
         {
-          "name": "DAVID BLK",
-          "url": "https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF"
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
         }
       ],
-      "duration_ms": 121875,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO"
+      "duration_ms": 180468,
+      "name": "Oh Baby!",
+      "url": "https://open.spotify.com/track/7iUYRbnAN8XmiwK0WG3F66"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -189,24 +169,24 @@
       "url": "https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti"
     },
     {
-      "added_at": "2023-11-20 21:07:03",
+      "added_at": "2023-12-08 05:00:38",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/3g67Mn67eAg8Q8ip6hWUBw"
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3OztyMCjBI1EvHvnpmiyv8"
       },
       "artists": [
         {
-          "name": "Avenue",
-          "url": "https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3"
-        },
-        {
           "name": "Houseium",
           "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        },
+        {
+          "name": "DAVID BLK",
+          "url": "https://open.spotify.com/artist/6zaro589bh7a2k8V8XtknF"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6LEvXs0QfVNt065sdhhb9c"
+      "duration_ms": 121875,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/6KJii4Z1j0jq22RXbn03RO"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -251,26 +231,22 @@
     {
       "added_at": "2023-11-20 21:07:03",
       "album": {
-        "name": "Call Backs Vol. 1",
-        "url": "https://open.spotify.com/album/26zYAEHJXZmJVNiVPnhM7n"
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/3g67Mn67eAg8Q8ip6hWUBw"
       },
       "artists": [
         {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/593tl1pc0kps0wJkyn08O3"
+        },
+        {
           "name": "Houseium",
           "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
-        },
-        {
-          "name": "TRYPBOX",
-          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
-        },
-        {
-          "name": "House Call",
-          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
         }
       ],
-      "duration_ms": 202857,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/6Qfg9Eg8eybJptydQEMeF1"
+      "duration_ms": 180000,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6LEvXs0QfVNt065sdhhb9c"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -307,8 +283,8 @@
     {
       "added_at": "2023-11-20 21:07:03",
       "album": {
-        "name": "Gold Deeper, Vol. 16",
-        "url": "https://open.spotify.com/album/4irYxeLoXcM4pDpXMMcZDL"
+        "name": "Call Backs Vol. 1",
+        "url": "https://open.spotify.com/album/26zYAEHJXZmJVNiVPnhM7n"
       },
       "artists": [
         {
@@ -316,13 +292,17 @@
           "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
         },
         {
-          "name": "Nightsub",
-          "url": "https://open.spotify.com/artist/2jezCQ25yDOSA8QtZ8YCaY"
+          "name": "TRYPBOX",
+          "url": "https://open.spotify.com/artist/5r4lVYYPWIvbRMH4rlAeFj"
+        },
+        {
+          "name": "House Call",
+          "url": "https://open.spotify.com/artist/6M9hDiIR4mcwjZzTgHrdWA"
         }
       ],
-      "duration_ms": 215263,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/5z8kj8O7EvDqAu7hcSpWth"
+      "duration_ms": 202857,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/6Qfg9Eg8eybJptydQEMeF1"
     },
     {
       "added_at": "2024-08-19 22:53:42",
@@ -363,6 +343,26 @@
       "duration_ms": 201562,
       "name": "Devotion - Radio Edit",
       "url": "https://open.spotify.com/track/4bLrRwObxs5kyRqeNTLwLL"
+    },
+    {
+      "added_at": "2023-11-20 21:07:03",
+      "album": {
+        "name": "Gold Deeper, Vol. 16",
+        "url": "https://open.spotify.com/album/4irYxeLoXcM4pDpXMMcZDL"
+      },
+      "artists": [
+        {
+          "name": "Houseium",
+          "url": "https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o"
+        },
+        {
+          "name": "Nightsub",
+          "url": "https://open.spotify.com/artist/2jezCQ25yDOSA8QtZ8YCaY"
+        }
+      ],
+      "duration_ms": 215263,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/5z8kj8O7EvDqAu7hcSpWth"
     },
     {
       "added_at": "2024-08-19 22:53:42",

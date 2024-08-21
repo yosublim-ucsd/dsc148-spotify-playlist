@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-384 songs - 17 hr 5 min
+385 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 | 2024-05-10 |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-28 | 2023-08-26 |
 | [Nocturne Op\. 4 No\. 2](https://open.spotify.com/track/4iK7z42CWaijzImqMHMlwY) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Nocturne Op\. 4 No\. 2](https://open.spotify.com/album/4WadMNopzoXjhz6T4IHq7l) | 2:17 | 2022-11-18 | 2023-05-27 |
+| [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 | 2024-05-10 |
 | [Of Late](https://open.spotify.com/track/4evlwCXiSNsnuaFwWuHXge) | [Isabella Molinero](https://open.spotify.com/artist/37C7aJnXB81MAsj0UqX4PV) | [Of Late](https://open.spotify.com/album/3zSOTg5EL4xTzLjYJf3ETP) | 2:04 | 2022-04-22 | 2023-05-27 |
 | [Old Harbor Road](https://open.spotify.com/track/194ujg6jw02wiPs6GLqPl5) | [Lexi Silver](https://open.spotify.com/artist/1xs4hNvOlaVhbnA6OeCp9B) | [Andorra](https://open.spotify.com/album/2Qo97FlkMgmjeaoaCjqQ8e) | 3:05 | 2021-12-10 | 2023-03-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: KARD",
+  "description": "Future K-Pop hits! Cover: PLAVE",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -14520,6 +14520,24 @@
       "duration_ms": 195146,
       "name": "Pump It Up",
       "url": "https://open.spotify.com/track/3GCq1TJ8NZL4vLv9vRGasb"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Volume!",
+        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Pump Up The Volume!",
+      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAC5+GEahRFVP6LA5Vdvf3fb",
+  "snapshot_id": "AAAAAAAAAAA+kC0HbC+1mEoX/JKDhvU3",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -79,26 +79,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Finer Things",
         "url": "https://open.spotify.com/album/04Eyy8rccvW3LaS8Q2QIUi"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 185533,
       "name": "Finer Things (Feat. Hank Williams Jr.)",
       "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Garmonbozia",
+        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Garmonbozia",
+      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Mother & Gun",
         "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 156450,
       "name": "Speshal Methods (feat. Ti-Lar Bee)",
       "url": "https://open.spotify.com/track/7B147kRLeLAnlpTnyqBkhe"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Garmonbozia",
-        "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Garmonbozia",
-      "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -271,6 +271,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "sweet moon",
+        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Choklate",
+          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+        }
+      ],
+      "duration_ms": 255054,
+      "name": "sweet moon (jung remix)",
+      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Bob Marley (feat. Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/63bYZTarvv7Yd2FNwMUg3c"
       },
@@ -291,22 +311,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "sweet moon",
-        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
+        "name": "A Ballet Through Mud",
+        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         },
         {
-          "name": "Choklate",
-          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+          "name": "Christopher Dragon",
+          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
         }
       ],
-      "duration_ms": 255054,
-      "name": "sweet moon (jung remix)",
-      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+      "duration_ms": 269964,
+      "name": "A Ballet Through Mud",
+      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -331,26 +351,6 @@
       "duration_ms": 126932,
       "name": "I Shoplift Even Though I\u2019m Rich",
       "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "A Ballet Through Mud",
-        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
-      },
-      "artists": [
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Christopher Dragon",
-          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
-        }
-      ],
-      "duration_ms": 269964,
-      "name": "A Ballet Through Mud",
-      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 195220,
-      "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "The Punishment (Lockdown)",
+        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 195220,
+      "name": "The Punishment (Lockdown)",
+      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "U.S. Blues (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/0iX61Dfmg6WoimYQuohiCD"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 349150,
       "name": "U.S. Blues - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Mid Spiral",
-        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Best Left Unsolved - Bonus Track",
-      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -639,6 +623,22 @@
       "duration_ms": 170280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/37s2UUZnhOSPPNLsfxHvKf"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Mid Spiral",
+        "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Best Left Unsolved - Bonus Track",
+      "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
     },
     {
       "added_at": "2024-08-16 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Banda Zeta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO45UHxY)
 
-> This is Banda Zeta\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is: Banda Zeta\. Alle wichtigen Tracks in einer Playlist.
 
 95 songs - 4 hr 47 min
 

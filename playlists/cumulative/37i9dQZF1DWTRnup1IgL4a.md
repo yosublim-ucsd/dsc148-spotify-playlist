@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-259 songs - 10 hr 57 min
+260 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Murmur](https://open.spotify.com/track/0P24CykJ6WxN5WxgRYiTA2) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Murmur](https://open.spotify.com/album/6vh2k6aGdFOJoCecp8qlhh) | 2:55 | 2021-12-09 | 2023-03-18 |
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 |  |
 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 | 2022-07-15 | 2024-04-20 |
+| [My prince](https://open.spotify.com/track/5JFt2oBtcVYEPTBRu7Hmhu) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [My prince](https://open.spotify.com/album/3FAJrp32bmvrDfrRRpM6I2) | 2:11 | 2024-08-20 |  |
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2022-06-17 | 2023-04-29 |
 | [New Beginnings](https://open.spotify.com/track/4j0DVm15wQMe2sOJ9cIW8a) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [New Beginnings](https://open.spotify.com/album/4RZ4E8R9CH9EZIkxommbBV) | 2:44 | 2024-08-13 |  |
 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 | 2022-10-07 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 555963,
+  "num_followers": 555964,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-15 01:26:37",
       "album": {
-        "name": "No-Dream Land",
-        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
-      },
-      "artists": [
-        {
-          "name": "Float",
-          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Pulang",
-      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
-    },
-    {
-      "added_at": "2024-08-15 01:26:37",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2024-08-15 01:26:37",
       "album": {
-        "name": "a letter to my 17 year old",
-        "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
-      },
-      "artists": [
-        {
-          "name": "Ardhito Pramono",
-          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
-        }
-      ],
-      "duration_ms": 222246,
-      "name": "cigarettes of ours",
-      "url": "https://open.spotify.com/track/77SiKnkNEnRw0uoPE4wuEp"
-    },
-    {
-      "added_at": "2024-08-15 01:26:37",
-      "album": {
         "name": "Sedang Sayang Sayangnya",
         "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
       },
@@ -1247,6 +1215,22 @@
     {
       "added_at": "2024-08-15 01:26:37",
       "album": {
+        "name": "a letter to my 17 year old",
+        "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "duration_ms": 222246,
+      "name": "cigarettes of ours",
+      "url": "https://open.spotify.com/track/77SiKnkNEnRw0uoPE4wuEp"
+    },
+    {
+      "added_at": "2024-08-15 01:26:37",
+      "album": {
         "name": "Lihatlah Lebih Dekat",
         "url": "https://open.spotify.com/album/0CldqsbNN45kEsKJl3PP4k"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 264738,
       "name": "Lihatlah Lebih Dekat",
       "url": "https://open.spotify.com/track/25A5aUq56zPyiw583hOb5z"
+    },
+    {
+      "added_at": "2024-08-15 01:26:37",
+      "album": {
+        "name": "No-Dream Land",
+        "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
+      },
+      "artists": [
+        {
+          "name": "Float",
+          "url": "https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Pulang",
+      "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
     }
   ],
   "unique_name": "Kopikustik",

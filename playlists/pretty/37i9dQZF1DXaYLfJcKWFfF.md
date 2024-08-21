@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Thandiswa
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,562 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,570 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 8 | [See You Soon](https://open.spotify.com/track/4LiKVSHo3x0Lmv50UOR0iv) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE) | [See You Soon](https://open.spotify.com/album/6WTXiaDaUq2i5AYxwiZiTM) | 2:41 |
 | 9 | [SAID](https://open.spotify.com/track/57kmRD4yNmP3HTrKm56Yfd) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 3:14 |
 | 10 | [What a Day That Was](https://open.spotify.com/track/3hmUo3gs1HBv2OfrM4hhgp) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [What a Day That Was](https://open.spotify.com/album/5n4avVnK5UeC951UtjeqzA) | 4:30 |
-| 11 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [LONDON](https://open.spotify.com/artist/2ab37Wt9HCKXRwzlHTtUVI) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
+| 11 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
 | 12 | [Wonderful](https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 3:32 |
 | 13 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 |
 | 14 | [Late Night On Lokko Street](https://open.spotify.com/track/4kHSBFk0AuUCVCYnyiYYOO) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [Roadman and Folks](https://open.spotify.com/album/3gZJDhBIWDDAcJHmcbUomZ) | 4:00 |

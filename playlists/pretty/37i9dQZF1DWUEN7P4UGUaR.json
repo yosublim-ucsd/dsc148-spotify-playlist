@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 11834,
+  "num_followers": 11848,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Agbebolo",
-        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
       },
       "artists": [
         {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "NHYIRABA GIDEON",
-          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 332695,
-      "name": "Agbebolo",
-      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
+      "duration_ms": 289646,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -159,18 +155,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Testimony",
-        "url": "https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69"
+        "name": "Agbebolo",
+        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
       },
       "artists": [
         {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "NHYIRABA GIDEON",
+          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
         }
       ],
-      "duration_ms": 289646,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6yowFXV5XidqYCgOyoqVHs"
+      "duration_ms": 332695,
+      "name": "Agbebolo",
+      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
     },
     {
       "added_at": "2024-08-02 00:01:00",

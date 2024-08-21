@@ -1,12 +1,12 @@
 {
   "description": "where folk flowers bloom \ud83c\udf43 cover: Shawn Mendes",
-  "num_followers": 113573,
+  "num_followers": 113646,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAC9VSUUUuVQiCb8vgY1A13/",
+  "snapshot_id": "ZsTy+gAAAACEHDpKMv2PMgdYvy/OVJ9O",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -77,24 +77,40 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Perfection (feat. Tiny Habits)",
-      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+      "duration_ms": 155938,
+      "name": "Velvet Ring - 2023 Remaster",
+      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
+    },
+    {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "The Gold (Phoebe Bridgers Version)",
+        "url": "https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "The Gold - Phoebe Bridgers Version",
+      "url": "https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -129,6 +145,42 @@
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
     },
     {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-08-20 17:39:09",
+      "album": {
+        "name": "i need you more",
+        "url": "https://open.spotify.com/album/6DQbYfEsxLuUMcdNZ9uULz"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 191921,
+      "name": "i need you more",
+      "url": "https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc"
+    },
+    {
       "added_at": "2024-08-01 04:00:00",
       "album": {
         "name": "folklore",
@@ -143,22 +195,6 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Masterpiece (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 155938,
-      "name": "Velvet Ring - 2023 Remaster",
-      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -179,6 +215,46 @@
       "duration_ms": 205510,
       "name": "Poor Madeline (feat. Searows) - Alt. Version",
       "url": "https://open.spotify.com/track/31fPQdP67POXOWRFjuvoql"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Perfection (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+    },
+    {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -211,22 +287,6 @@
       "duration_ms": 176931,
       "name": "Taste The Dirt",
       "url": "https://open.spotify.com/track/4tZbVjtbfPj5KpRAEXQQgP"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "i might say something stupid",
-        "url": "https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon"
-      },
-      "artists": [
-        {
-          "name": "LOVELOVELOVE",
-          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "i might say something stupid",
-      "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -275,6 +335,22 @@
       "duration_ms": 193187,
       "name": "A Tree Falls",
       "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
+    },
+    {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "The Boy Who Never",
+        "url": "https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf"
+      },
+      "artists": [
+        {
+          "name": "Landon Pigg",
+          "url": "https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS"
+        }
+      ],
+      "duration_ms": 244986,
+      "name": "Falling in Love at a Coffee Shop",
+      "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -357,20 +433,20 @@
       "url": "https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+        "name": "i might say something stupid",
+        "url": "https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "LOVELOVELOVE",
+          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
         }
       ],
-      "duration_ms": 191566,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+      "duration_ms": 145185,
+      "name": "i might say something stupid",
+      "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -403,6 +479,22 @@
       "duration_ms": 256245,
       "name": "People Always Change",
       "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
+    {
+      "added_at": "2024-08-20 19:48:10",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/2AXY5WABx7NjWw1zb4qCdc"
     },
     {
       "added_at": "2024-07-17 18:54:25",

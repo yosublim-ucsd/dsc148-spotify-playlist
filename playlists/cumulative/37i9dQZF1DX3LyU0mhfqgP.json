@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Cloudy June",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: BATHSHEBA",
   "name": "GLOW",
   "tracks": [
     {
@@ -10878,7 +10878,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 198566,
       "name": "If I Let A White Man Cut My Hair",
       "url": "https://open.spotify.com/track/3gyX09oKqNf8aSldPAIGKy"
@@ -21437,6 +21437,28 @@
     },
     {
       "album": {
+        "name": "time & time again",
+        "url": "https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166650,
+      "name": "time & time again",
+      "url": "https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk"
+    },
+    {
+      "album": {
         "name": "Time (Hearts Full of Love)",
         "url": "https://open.spotify.com/album/5piZN2APmYn6Ti27VF5l73"
       },
@@ -22004,7 +22026,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 189759,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6"
@@ -24450,6 +24472,28 @@
       "duration_ms": 285499,
       "name": "\u0e43\u0e0a\u0e48-\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48 (Yes or No) feat. Tsunari",
       "url": "https://open.spotify.com/track/0kacE5VT3HANJT8srU5j6L"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30fb\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/07f52PdvuHZqW4Oy0ka2AB"
+      },
+      "artists": [
+        {
+          "name": "\u3086\u3063\u304d\u3085\u3093",
+          "url": "https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA"
+        },
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299800,
+      "name": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30fb\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2aLn6ReK9CXMQzuF35Jkuc"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346380,
+  "num_followers": 346418,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "D\u00e1 Pra Ser Feliz",
-        "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
-      },
-      "artists": [
-        {
-          "name": "Gina Garcia",
-          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "D\u00e1 Pra Ser Feliz",
-      "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
+        "name": "D\u00e1 Pra Ser Feliz",
+        "url": "https://open.spotify.com/album/590OSdBmlpEOe8rVsLYVJs"
+      },
+      "artists": [
+        {
+          "name": "Gina Garcia",
+          "url": "https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "D\u00e1 Pra Ser Feliz",
+      "url": "https://open.spotify.com/track/4jU74AgC3F0M63YcCJKZGh"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "De Novo",
-        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "De Novo",
-      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 191166,
       "name": "A Donzela Se Casou",
       "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
+        "name": "De Novo",
+        "url": "https://open.spotify.com/album/45qeCoq05K7BO45Kg5pVnY"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "De Novo",
+      "url": "https://open.spotify.com/track/5mDLtG5amHhOH6CIZEMtoe"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "Even Bossa If I Have To",
-        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        }
-      ],
-      "duration_ms": 151676,
-      "name": "Even Bossa If I Have To",
-      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
         "name": "Coment\u00e1rio a Respeito de John",
         "url": "https://open.spotify.com/album/6WOf0ipvapNBTYVxG1SF54"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 205215,
       "name": "Coment\u00e1rio a Respeito de John",
       "url": "https://open.spotify.com/track/1WtlomCakUltiZqz4TsV6R"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
+        "name": "Even Bossa If I Have To",
+        "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        }
+      ],
+      "duration_ms": 151676,
+      "name": "Even Bossa If I Have To",
+      "url": "https://open.spotify.com/track/4vvicjEsYdmbUsTi4RiJs6"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
+        "name": "Como Vai Voc\u00ea",
+        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
+      },
+      "artists": [
+        {
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        }
+      ],
+      "duration_ms": 181169,
+      "name": "Como Vai Voc\u00ea",
+      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
         "name": "Disritmia / Ex-Amor",
         "url": "https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 299724,
       "name": "Disritmia / Ex-Amor",
       "url": "https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
-        "name": "Como Vai Voc\u00ea",
-        "url": "https://open.spotify.com/album/55XDQCmn0aFPoDRdQOvzEg"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        }
-      ],
-      "duration_ms": 181169,
-      "name": "Como Vai Voc\u00ea",
-      "url": "https://open.spotify.com/track/1cGpuwXd4JslR7l0OkjojI"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
         "name": "Eu Ainda Acredito no Amor",
         "url": "https://open.spotify.com/album/0GpetWCC44T1VxRHqeCKB2"
       },
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
-        "name": "Terra \u00e0 Vista",
-        "url": "https://open.spotify.com/album/76IDgmIE1ezyNuCXL03tCN"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 129570,
-      "name": "Terra \u00e0 Vista",
-      "url": "https://open.spotify.com/track/2MTdLC9VtPqauahQEFqlEN"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
         "name": "Cai\u00e7ara de Leque",
         "url": "https://open.spotify.com/album/4S9afgqneBTTuqj2vlNBpA"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 172623,
       "name": "Qual \u00c9 a Sua?",
       "url": "https://open.spotify.com/track/2bPBUYlwhiKP3diP15zM33"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
+        "name": "Terra \u00e0 Vista",
+        "url": "https://open.spotify.com/album/76IDgmIE1ezyNuCXL03tCN"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 129570,
+      "name": "Terra \u00e0 Vista",
+      "url": "https://open.spotify.com/track/2MTdLC9VtPqauahQEFqlEN"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -1403,22 +1403,18 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "SEGUNDA OU TER\u00c7A",
-        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
+        "name": "PERNAMBUCANA",
+        "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
       },
       "artists": [
         {
-          "name": "Paulo Carvalho",
-          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
-        },
-        {
-          "name": "Pedro Lu\u00eds",
-          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
         }
       ],
-      "duration_ms": 228231,
-      "name": "SEGUNDA OU TER\u00c7A",
-      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
+      "duration_ms": 199503,
+      "name": "PERNAMBUCANA",
+      "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -1439,18 +1435,22 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "PERNAMBUCANA",
-        "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
+        "name": "SEGUNDA OU TER\u00c7A",
+        "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+          "name": "Paulo Carvalho",
+          "url": "https://open.spotify.com/artist/6ccToSMDmjUKz4IlXyYsWn"
+        },
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
         }
       ],
-      "duration_ms": 199503,
-      "name": "PERNAMBUCANA",
-      "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
+      "duration_ms": 228231,
+      "name": "SEGUNDA OU TER\u00c7A",
+      "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
-        "name": "O Beijo \u00e0 Flor",
-        "url": "https://open.spotify.com/album/6K8QyKxzIuEU1w4OwZPvMJ"
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
       },
       "artists": [
         {
-          "name": "Will Leme",
-          "url": "https://open.spotify.com/artist/4XvFgo1nhoeDpN71tQ4b3H"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
         }
       ],
-      "duration_ms": 210680,
-      "name": "O Beijo \u00e0 Flor",
-      "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2024-08-19 12:06:14",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-08-19 12:06:14",
       "album": {
+        "name": "O Beijo \u00e0 Flor",
+        "url": "https://open.spotify.com/album/6K8QyKxzIuEU1w4OwZPvMJ"
+      },
+      "artists": [
+        {
+          "name": "Will Leme",
+          "url": "https://open.spotify.com/artist/4XvFgo1nhoeDpN71tQ4b3H"
+        }
+      ],
+      "duration_ms": 210680,
+      "name": "O Beijo \u00e0 Flor",
+      "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
+    },
+    {
+      "added_at": "2024-08-19 12:06:14",
+      "album": {
         "name": "J\u00e3o",
         "url": "https://open.spotify.com/album/5U8iCKeOjvTIJkj8brSoo1"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 300225,
       "name": "J\u00e3o",
       "url": "https://open.spotify.com/track/3M80e1o76JHkyMDz2UsJFs"
-    },
-    {
-      "added_at": "2024-08-19 12:06:14",
-      "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2024-08-19 12:06:14",

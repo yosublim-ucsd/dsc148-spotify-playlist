@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a LILLI p\u00e5 coveret \ud83e\udd8b",
-  "num_followers": 23443,
+  "num_followers": 23447,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "D\u00e9r (feat. Wads.png)",
-        "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
       },
       "artists": [
         {
-          "name": "Pil",
-          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
-        },
-        {
-          "name": "Wads.png",
-          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
         }
       ],
-      "duration_ms": 200325,
-      "name": "D\u00e9r (feat. Wads.png)",
-      "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
+      "duration_ms": 179754,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -379,6 +375,26 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "D\u00e9r (feat. Wads.png)",
+        "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
+      },
+      "artists": [
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        },
+        {
+          "name": "Wads.png",
+          "url": "https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M"
+        }
+      ],
+      "duration_ms": 200325,
+      "name": "D\u00e9r (feat. Wads.png)",
+      "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 243312,
       "name": "T\u00e6t P\u00e5 Paradis",
       "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Get down / Loving you",
         "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 145246,
       "name": "Get down",
       "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "K\u00e6rligheden Vinder",
-        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 212589,
-      "name": "K\u00e6rligheden Vinder",
-      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
         "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 191673,
       "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
       "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "K\u00e6rligheden Vinder",
+        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
+      },
+      "artists": [
+        {
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        }
+      ],
+      "duration_ms": 212589,
+      "name": "K\u00e6rligheden Vinder",
+      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "</3",
-        "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
+        "name": "Trampoliner",
+        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
       },
       "artists": [
         {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        },
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+          "name": "Statisk",
+          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
         }
       ],
-      "duration_ms": 203218,
-      "name": "Til Mit Hjerte Stopper (feat. Kundo)",
-      "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
+      "duration_ms": 151062,
+      "name": "Kender Du F\u00f8lelsen",
+      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -891,34 +887,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Trampoliner",
-        "url": "https://open.spotify.com/album/2QvWHgcFu0ztbYoSxLU2d4"
-      },
-      "artists": [
-        {
-          "name": "Statisk",
-          "url": "https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN"
-        }
-      ],
-      "duration_ms": 151062,
-      "name": "Kender Du F\u00f8lelsen",
-      "url": "https://open.spotify.com/track/0cbtDG0OLxNccO5lSWtngT"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
+        "name": "</3",
+        "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
       "artists": [
         {
           "name": "Kind mod Kind",
           "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
         }
       ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+      "duration_ms": 203218,
+      "name": "Til Mit Hjerte Stopper (feat. Kundo)",
+      "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Legeb\u00f8rn",
+        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Fra Wien Til Rom",
+      "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "7\"",
         "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
@@ -1055,34 +1055,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Forfra Forbundet",
-        "url": "https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW"
+        "name": "Ung & Smuk",
+        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
       },
       "artists": [
         {
-          "name": "Jung",
-          "url": "https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL"
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 194157,
-      "name": "Beg\u00e5r Tyveri",
-      "url": "https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Legeb\u00f8rn",
-        "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Fra Wien Til Rom",
-      "url": "https://open.spotify.com/track/0kvKRM0wrRoseGifAxfyGv"
+      "duration_ms": 160974,
+      "name": "Ung & Smuk",
+      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Forfra Forbundet",
+        "url": "https://open.spotify.com/album/0gq6IFI5AgEr5ygk1CjEMW"
+      },
+      "artists": [
+        {
+          "name": "Jung",
+          "url": "https://open.spotify.com/artist/2P6G4CYRAhpRKMXy097RSL"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Beg\u00e5r Tyveri",
+      "url": "https://open.spotify.com/track/0e0hgjpnPbO89eobiVAsnV"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Sol Gennem Regn",
         "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 173450,
       "name": "Sol Gennem Regn",
       "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Bedre",
-        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 170727,
-      "name": "Bedre",
-      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 154000,
       "name": "Uheldig",
       "url": "https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Bedre",
+        "url": "https://open.spotify.com/album/0zsJJ0AfLC7ZBePfhHK88h"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 170727,
+      "name": "Bedre",
+      "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
     }
   ],
   "unique_name": "ung kniv ",

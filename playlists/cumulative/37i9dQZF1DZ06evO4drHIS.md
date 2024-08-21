@@ -2,7 +2,7 @@
 
 ### [This Is Majo Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4drHIS)
 
-> This is Majo Aguilar\. Todos os maiores hits em uma só playlist.
+> This is Majo Aguilar\. The essential tracks, all in one playlist.
 
 71 songs - 3 hr 48 min
 

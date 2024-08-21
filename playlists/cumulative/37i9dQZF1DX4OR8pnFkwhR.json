@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u5c71\u672c\u5927\u6597",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u96e2\u5a5a\u4f1d\u8aac",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a1\u9031\u9593",
+        "url": "https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214937,
+      "name": "Coming-of-age Story",
+      "url": "https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi"
+    },
+    {
+      "album": {
         "name": "tx3k",
         "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
       },
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 180341,
       "name": "Dusky dolphin",
       "url": "https://open.spotify.com/track/2TzjEScTjmzu3sDKQVLDfN"
@@ -6076,6 +6094,28 @@
       "duration_ms": 196795,
       "name": "Grapefruit Moon",
       "url": "https://open.spotify.com/track/7AegA5XmYCR96pEEI35NLw"
+    },
+    {
+      "album": {
+        "name": "\u9752\u679c\u5e97",
+        "url": "https://open.spotify.com/album/0F7fiC5h6Cm73bfceMzFIX"
+      },
+      "artists": [
+        {
+          "name": "Natsudaidai",
+          "url": "https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G"
+        },
+        {
+          "name": "n0suke",
+          "url": "https://open.spotify.com/artist/6RTuvM5xJlNJR3IaSwA7ga"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180943,
+      "name": "green tea",
+      "url": "https://open.spotify.com/track/1PYFEo6Lt8tT6rvQBQsSF0"
     },
     {
       "album": {
@@ -10201,6 +10241,24 @@
     },
     {
       "album": {
+        "name": "NETTAIYA",
+        "url": "https://open.spotify.com/album/5uCMIfZ4Tb2AoapZCdZVqV"
+      },
+      "artists": [
+        {
+          "name": "HINONABE",
+          "url": "https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "NETTAIYA",
+      "url": "https://open.spotify.com/track/0IIb9Pxs3ITPnUROVhzOPP"
+    },
+    {
+      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw"
       },
@@ -10248,7 +10306,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 210333,
       "name": "New Dimension",
       "url": "https://open.spotify.com/track/7jOyrWPwfvnhFColQ0vzlz"
@@ -14568,7 +14626,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 164649,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/4bxjzKLPE6rtZBczBGXno1"
@@ -15970,6 +16028,24 @@
       "duration_ms": 193039,
       "name": "TURN IT UP - feat. Candee & ZOT on the WAVE",
       "url": "https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo"
+    },
+    {
+      "album": {
+        "name": "Self-actualization and the ignorance and hesitation towards it",
+        "url": "https://open.spotify.com/album/6OdvWeXjpegGpL1VbfC3tM"
+      },
+      "artists": [
+        {
+          "name": "ANORAK!",
+          "url": "https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121494,
+      "name": "Twelve",
+      "url": "https://open.spotify.com/track/0EqP8DJyPL1V65UWrSlgCz"
     },
     {
       "album": {
@@ -19111,6 +19187,24 @@
     },
     {
       "album": {
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+    },
+    {
+      "album": {
         "name": "\u307e\u308b\u3067\u99c4\u76ee\u306a\u5973\u5b50\u9ad8\u751f\u306f\u30d0\u30f3\u30c9\u30de\u30f3\u306b\u306a\u3063\u305f",
         "url": "https://open.spotify.com/album/6YbQhkfJPRCWcoqQ7yphIX"
       },
@@ -19252,7 +19346,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 237200,
       "name": "\u3086\u3081\u3068\u8857\u706f",
       "url": "https://open.spotify.com/track/6u9d67Zgm2M6NCLkFSKaKo"
@@ -21088,7 +21182,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 174729,
       "name": "\u30c9\u30e9\u30de\u306b\u306a\u3089\u306a\u3044",
       "url": "https://open.spotify.com/track/031xiIwmBwcoN6bW6LPa7u"
@@ -26285,6 +26379,24 @@
     },
     {
       "album": {
+        "name": "\u6700\u679c\u3066",
+        "url": "https://open.spotify.com/album/5TIpXD4BNmdsl3tupUDZc2"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157853,
+      "name": "\u6700\u679c\u3066",
+      "url": "https://open.spotify.com/track/17nUP8mnj3UICzfQHyngbv"
+    },
+    {
+      "album": {
         "name": "LOOK",
         "url": "https://open.spotify.com/album/1rEYuax28LHBK7HyKwYhOT"
       },
@@ -26440,7 +26552,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 169620,
       "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
       "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
@@ -26646,6 +26758,24 @@
       "duration_ms": 207097,
       "name": "\u68ee",
       "url": "https://open.spotify.com/track/0h8XHGuOZOQSPoKJpWWmNf"
+    },
+    {
+      "album": {
+        "name": "\u6975\u697d\u306e\u6d44\u571f",
+        "url": "https://open.spotify.com/album/37b1f8oWlkDQbXo1XJB7jO"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5ddd\u5f53",
+          "url": "https://open.spotify.com/artist/5HsW6tMR1bTKCBSaAH2Ugl"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206703,
+      "name": "\u6975\u697d\u306e\u6d44\u571f",
+      "url": "https://open.spotify.com/track/4F3lKIw4oAt2UTtqGUEPYR"
     },
     {
       "album": {
@@ -29302,7 +29432,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 195345,
       "name": "\u9752\u306e\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/2kwbZ2JQsr0BK9mDKuM68D"

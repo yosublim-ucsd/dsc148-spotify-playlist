@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: The Blessed Madonna & Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,243 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,256 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
 | 6 | [Let Them Bells Ring](https://open.spotify.com/track/5Q8H1439FS6cHNHX7gbubB) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Let Them Bells Ring](https://open.spotify.com/album/1kUem2rJeRdoVwB2UG9nlT) | 2:47 |
 | 7 | [Boost Up](https://open.spotify.com/track/5qDawntZqMqDKJdM5QVSdC) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/76u0teJxmuTXfNZLNws7Ub) | 3:31 |
-| 8 | [I Need a Dollar](https://open.spotify.com/track/5Jz0CPI9YYi8pUVAHDBZLn) | [kai.wav](https://open.spotify.com/artist/5IPEenyFaDk0FQkFbKG0dU), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Need a Dollar](https://open.spotify.com/album/2gujJ9LdCJ0mCKRfvUbuLk) | 2:44 |
+| 8 | [I Need A Dollar \(kai.wav x Aloe Blacc\)](https://open.spotify.com/track/5Jz0CPI9YYi8pUVAHDBZLn) | [kai.wav](https://open.spotify.com/artist/5IPEenyFaDk0FQkFbKG0dU), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Need A Dollar \(kai.wav x Aloe Blacc\)](https://open.spotify.com/album/2gujJ9LdCJ0mCKRfvUbuLk) | 2:44 |
 | 9 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
 | 10 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 |
 | 11 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 |

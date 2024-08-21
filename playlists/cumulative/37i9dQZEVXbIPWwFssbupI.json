@@ -12198,7 +12198,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 138933,
       "name": "Faut pas",
       "url": "https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts"
@@ -19368,7 +19368,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 162840,
       "name": "Laboratoire",
       "url": "https://open.spotify.com/track/7wOgZ1otoKYDvKyQKP1sNZ"
@@ -25149,6 +25149,24 @@
     },
     {
       "album": {
+        "name": "OutRun",
+        "url": "https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb"
+      },
+      "artists": [
+        {
+          "name": "Kavinsky",
+          "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257320,
+      "name": "Nightcall",
+      "url": "https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA"
+    },
+    {
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
       },
@@ -25160,7 +25178,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 258413,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
@@ -34146,7 +34164,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -34168,7 +34186,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"

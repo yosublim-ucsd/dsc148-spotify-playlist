@@ -5763,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v"
+    },
+    {
+      "album": {
         "name": "Spruces and pines",
         "url": "https://open.spotify.com/album/1ZDs2oPCrDDdfXMLC1j6nG"
       },

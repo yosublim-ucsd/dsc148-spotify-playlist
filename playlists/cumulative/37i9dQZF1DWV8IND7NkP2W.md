@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-748 songs - 1 day 9 hr 41 min
+749 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [negative lover](https://open.spotify.com/track/0DxCumE8RyTNkoOx7KEDOo) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [invisible](https://open.spotify.com/album/19YtKHXNhEoN8ZziL8Kuud) | 3:25 | 2021-12-23 | 2022-07-28 |
 | [Never forget to smile](https://open.spotify.com/track/0Ai8kfNRzoD55JuDHi0qu8) | [夕方の犬\(U ・ェ・\)](https://open.spotify.com/artist/6GkFLYRT7Q2qU4kEnNsytR) | [Never forget to smile](https://open.spotify.com/album/0a9ua95iM8g4pSqXkty576) | 3:10 | 2023-04-06 | 2023-11-06 |
 | [New Adventure](https://open.spotify.com/track/3Jftg8VUsBreRUuZdG1bTC) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [New Adventure](https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg) | 2:27 | 2022-07-28 | 2022-08-30 |
+| [New Life](https://open.spotify.com/track/1Wc5iXeCocmnNa1c7PPx8j) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [New Life](https://open.spotify.com/album/0vriFos4wRTTbN0KcCsTaB) | 1:42 | 2024-08-08 |  |
 | [Nicely Nostalgic](https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Nicely Nostalgic](https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr) | 1:54 | 2022-02-10 | 2023-06-11 |
 | [Night Crawl](https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Night Crawl](https://open.spotify.com/album/2UjBnYEd7L0XNWSLmkRrqu) | 2:52 | 2021-12-23 | 2022-07-28 |
 | [Night Cruising](https://open.spotify.com/track/1dHfPdc1Vi0lO1uMGyxlfm) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs), [5OW](https://open.spotify.com/artist/0JpibIwAjEszA07tpAL164) | [Night Cruising](https://open.spotify.com/album/0u5sIKkyupnEQoeTHeG7W0) | 1:32 | 2024-06-15 |  |
@@ -525,7 +526,7 @@
 | [Potato Girl](https://open.spotify.com/track/5dNMmnprmuoWeelL1LtUQm) | [SENZU BEATS](https://open.spotify.com/artist/6pi8VD4XdJYHEesPGqySWV) | [Potato Girl](https://open.spotify.com/album/3RdKZ3eR1bTi6H4dzRchSV) | 2:02 | 2022-01-06 | 2022-06-29 |
 | [potatoL](https://open.spotify.com/track/6paRGNFtYLHyBdxTk5TGV5) | [MAHBIE](https://open.spotify.com/artist/5ggbey9WKiS849lppw8lbs) | [FRESH PACK LIVE vol.5](https://open.spotify.com/album/3onvol4QDwHNg0i2LRqOdX) | 11:56 | 2021-12-23 | 2022-07-21 |
 | [Pretty Shadows](https://open.spotify.com/track/6kZGPpmm4viIlgLCGuA6BW) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c), [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC) | [Warp Haze](https://open.spotify.com/album/1aCSsgMvDI8Fv2xXjp8oef) | 2:07 | 2022-03-03 | 2022-05-24 |
-| [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 |  |
+| [probably](https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg) | [bird](https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs) | [probably](https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul) | 2:18 | 2021-12-23 | 2024-08-21 |
 | [Promise](https://open.spotify.com/track/05HJO5WOraCXeBBwoeN8np) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Promise](https://open.spotify.com/album/1Kh0ONnkKKM6gEFeuH2hHH) | 3:02 | 2024-02-13 | 2024-07-23 |
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 | 2023-11-22 |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |

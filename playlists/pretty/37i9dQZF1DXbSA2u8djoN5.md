@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NOUA UNSPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,670 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,674 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 9 | [TEL AVIV](https://open.spotify.com/track/5RuV7f3rEoQeqZ8YvT4mVZ) | [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9) | [TEL AVIV](https://open.spotify.com/album/6KOfz6EiIEDW8qTRSlPiwV) | 2:04 |
 | 10 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
 | 11 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
-| 12 | [Banii Vin, Banii Pleaca](https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz) | [Mutu](https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [Banii Vin, Banii Pleaca](https://open.spotify.com/album/4tQ5FqvXxVkhNw02Z0mUTs) | 3:58 |
+| 12 | [Banii Vin, Banii Pleaca](https://open.spotify.com/track/1v6s7ZXjbw7ojv9IbBcfSz) | [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [Mutu](https://open.spotify.com/artist/54EYCPv2Q9BztPlmWqiHKP) | [Banii Vin, Banii Pleaca](https://open.spotify.com/album/4tQ5FqvXxVkhNw02Z0mUTs) | 3:58 |
 | 13 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
 | 14 | [VREM](https://open.spotify.com/track/6mBitYebZxZUyW8UgyI8TP) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [VREM](https://open.spotify.com/album/1xkhCX1MGv3uS1kEjGD0Q7) | 2:19 |
 | 15 | [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 |

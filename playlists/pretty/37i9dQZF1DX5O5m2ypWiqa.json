@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1890427,
+  "num_followers": 1890560,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Coloso",
-          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
-        }
-      ],
-      "duration_ms": 226815,
-      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
-      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
@@ -811,18 +791,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
       "artists": [
         {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Me Encantar\u00eda",
-      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -839,6 +823,22 @@
       "duration_ms": 192853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Me Encantar\u00eda",
+      "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "El Katch (Version USA)",
-        "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "\u00bfQui\u00e9n Te Dio Permiso?",
-      "url": "https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "40 A\u00f1os, Pese A Quien Pese",
         "url": "https://open.spotify.com/album/0uttI8J2HZK7TTpqhhPLfq"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 203866,
       "name": "Abeja Reina",
       "url": "https://open.spotify.com/track/521dnbUMvNsL38KZq4NN22"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "El Katch (Version USA)",
+        "url": "https://open.spotify.com/album/7rbt7zaJgkOlVe0KZbH5tw"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 168386,
+      "name": "\u00bfQui\u00e9n Te Dio Permiso?",
+      "url": "https://open.spotify.com/track/7Godb4gbezgh5X7KYfajQW"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
+        "name": "Como la Palma de Mi Mano",
+        "url": "https://open.spotify.com/album/28vSVtTtCew6DDn8ZXkxVx"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda San Jose De Mesillas",
+          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
         }
       ],
-      "duration_ms": 195131,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
+      "duration_ms": 204203,
+      "name": "Como la Palma de Mi Mano",
+      "url": "https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2171,6 +2171,22 @@
       "duration_ms": 184760,
       "name": "El Que Te Am\u00f3",
       "url": "https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/2aKDUQ9THsWgg2bDg6x3Xz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 195131,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/6XkMhdlUmktAZJD5c2BpSZ"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2207,26 +2223,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Joyas Prestadas (Banda)",
-        "url": "https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Basta Ya - Banda",
-      "url": "https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
       },
@@ -2247,6 +2243,26 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Joyas Prestadas (Banda)",
+        "url": "https://open.spotify.com/album/3LqPzDMkoS6yZ7bHDSPVlU"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/3ic1CdU3u3vCLm2BlklevZ"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "La Banda Grande de la Sultana del Norte",
         "url": "https://open.spotify.com/album/0zo3LNmIZJr5BeQujgCB2Y"
       },
@@ -2259,38 +2275,6 @@
       "duration_ms": 216226,
       "name": "Broche de Oro",
       "url": "https://open.spotify.com/track/35oKShiPehjQg7y1iTIQ0E"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Borr\u00f3n y Cuenta Nueva",
-        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "T\u00edpico Cl\u00e1sico",
-      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Como la Palma de Mi Mano",
-        "url": "https://open.spotify.com/album/28vSVtTtCew6DDn8ZXkxVx"
-      },
-      "artists": [
-        {
-          "name": "Banda San Jose De Mesillas",
-          "url": "https://open.spotify.com/artist/3YGCC3e19tclOUN2vLq78o"
-        }
-      ],
-      "duration_ms": 204203,
-      "name": "Como la Palma de Mi Mano",
-      "url": "https://open.spotify.com/track/7eqsKO7D6dEyKZapyvTz0h"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2359,6 +2343,38 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Te He Prometido",
+        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+      },
+      "artists": [
+        {
+          "name": "El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Borr\u00f3n y Cuenta Nueva",
+        "url": "https://open.spotify.com/album/0HQXVJ1Okm1zk1MfWq4yFX"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "T\u00edpico Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/042314lfpSuDobybG3IxrC"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Hoy M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/55JtRUC2kuIeXBnLmwiA18"
       },
@@ -2375,18 +2391,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te He Prometido",
-        "url": "https://open.spotify.com/album/4gra8sqNVzAnLtHt8ImFTG"
+        "name": "Muchas Gracias",
+        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
       },
       "artists": [
         {
-          "name": "El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/1P1EzVmigkt3xQa2M2Xerc"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/3aQRk1Dtsj7PAvqVsfgJof"
+      "duration_ms": 179017,
+      "name": "Muchas Gracias",
+      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -2423,34 +2439,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Muchas Gracias",
-        "url": "https://open.spotify.com/album/7nX8NgdRSN9i0Gpk0TJCco"
+        "name": "Mas Alla Del Sol",
+        "url": "https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 179017,
-      "name": "Muchas Gracias",
-      "url": "https://open.spotify.com/track/3Ym2H5SsNxRQdMfu8hhet7"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4bjemSdlRBzNqP86omaKbq"
+      "duration_ms": 163654,
+      "name": "Mas Alla Del Sol",
+      "url": "https://open.spotify.com/track/21Yn3cSdzaPQuOEs2kt4jQ"
     }
   ],
   "unique_name": "Cl\u00e1sicas de Banda",

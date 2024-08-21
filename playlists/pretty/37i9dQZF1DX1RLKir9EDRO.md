@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Canay Doğan Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: Ezgi Kardelen Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,154 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,167 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sosyopat Gülümseme](https://open.spotify.com/track/4WfafErZGjPuVBIEPAVlhS) | [Sla](https://open.spotify.com/artist/24STYbqPydEIyXy8ys6VWB) | [Sosyopat Gülümseme](https://open.spotify.com/album/6UZji7bUoCv3137UqlD7cY) | 2:41 |
 | 2 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
 | 3 | [Cesur Aşktan Yana](https://open.spotify.com/track/7vqDKg3pSTlO9AtrIsv7XE) | [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Cesur Aşktan Yana](https://open.spotify.com/album/7LPyQosipxy9JGgyWSXKX0) | 3:00 |
-| 4 | [Darmadağın](https://open.spotify.com/track/4YgB3kORlmnbttL9D0eVDE) | [bilgeteker](https://open.spotify.com/artist/4rD6EbWSKCTd59j1B7U7MI) | [Darmadağın](https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ) | 2:33 |
-| 5 | [Hayat Böyle Güzel](https://open.spotify.com/track/5eAcHLzFAYj7YFCWRWGsRo) | [insan semih](https://open.spotify.com/artist/3sa5809pIfAZP7U0uagGwq) | [Hayat Böyle Güzel](https://open.spotify.com/album/56Ab1Rilp8zaymnwooiVwP) | 3:11 |
-| 6 | [Niye Bu Haldeyiz](https://open.spotify.com/track/2YvxzMLc0DJHX4aOiWAwPW) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Niye Bu Haldeyiz](https://open.spotify.com/album/4w8Kkm13HCgCnMb6Ca5YNX) | 2:47 |
-| 7 | [Sevgin Gereksiz](https://open.spotify.com/track/4sOhhUODzlax5hYWR4G0g4) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Sevgin Gereksiz](https://open.spotify.com/album/0iieJlsrLNyqFitzJcVXB7) | 3:42 |
+| 4 | [Sevgin Gereksiz](https://open.spotify.com/track/4sOhhUODzlax5hYWR4G0g4) | [Ezgi Kardelen](https://open.spotify.com/artist/7zsUgz62mb3WVFOq6qXhKP) | [Sevgin Gereksiz](https://open.spotify.com/album/0iieJlsrLNyqFitzJcVXB7) | 3:42 |
+| 5 | [Darmadağın](https://open.spotify.com/track/4YgB3kORlmnbttL9D0eVDE) | [bilgeteker](https://open.spotify.com/artist/4rD6EbWSKCTd59j1B7U7MI) | [Darmadağın](https://open.spotify.com/album/7cEa03nbP6BS052HD2RiIJ) | 2:33 |
+| 6 | [Hayat Böyle Güzel](https://open.spotify.com/track/5eAcHLzFAYj7YFCWRWGsRo) | [insan semih](https://open.spotify.com/artist/3sa5809pIfAZP7U0uagGwq) | [Hayat Böyle Güzel](https://open.spotify.com/album/56Ab1Rilp8zaymnwooiVwP) | 3:11 |
+| 7 | [Niye Bu Haldeyiz](https://open.spotify.com/track/2YvxzMLc0DJHX4aOiWAwPW) | [Prova İptal](https://open.spotify.com/artist/55hAc8PaVVnm70Gqcml5sg) | [Niye Bu Haldeyiz](https://open.spotify.com/album/4w8Kkm13HCgCnMb6Ca5YNX) | 2:47 |
 | 8 | [Okyanus](https://open.spotify.com/track/36ODzYKJegikMntYROHpLW) | [Exint](https://open.spotify.com/artist/36G225fM7Y6pj789z02FOu) | [Okyanus](https://open.spotify.com/album/2pW0EoCdsPLweL0x4SeSD3) | 2:28 |
 | 9 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 |
 | 10 | [Sonsuz](https://open.spotify.com/track/12i5RaI9mHn8vc5VNwG2gf) | [Bora Dayanıklı](https://open.spotify.com/artist/0wlilHiOKANhGEQEKWBENk) | [Sonsuz](https://open.spotify.com/album/5nLc8lXfGllSCR6MXC1S7r) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [UÇURUM](https://open.spotify.com/track/55Q6M66q3dnqQHY8TqfXPr) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy) | [UÇURUM](https://open.spotify.com/album/3DjClJjXrB8cRv8FlHazPQ) | 3:16 |
 | 50 | [Intro](https://open.spotify.com/track/2mTrxvD0cUsk8AhCC4JXiw) | [Yanlış Yaptık](https://open.spotify.com/artist/5Vabjxcl0yL2hhWvgissvq) | [Intro](https://open.spotify.com/album/2WWM2D4kknOWl4Q63YwDAC) | 1:05 |
 
-Snapshot ID: `ZrvJUAAAAABiUwBvXxMSjtP3b4F7dhDq`
+Snapshot ID: `ZsUD0AAAAAA6u5eqSNi85rVJFrBfImwE`

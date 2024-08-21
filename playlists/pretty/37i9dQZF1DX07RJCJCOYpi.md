@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Sebastian Esquivel, Eugenio Esquivel & Deorro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,946,032 likes - 53 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,902 likes - 53 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

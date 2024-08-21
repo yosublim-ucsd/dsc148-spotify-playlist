@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Matheus Fernandes, Matheus & Kauan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,741,938 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,740,097 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 12 | [Me Caiu Tão Bem \- Ao Vivo](https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Fortaleza, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak) | 2:36 |
 | 13 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
 | 14 | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \- Ao Vivo](https://open.spotify.com/track/5cdheFwwvj4mi3oJmTynKA) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Bem Mais Que Eu \(Você Quer Caçar Seu Rumo\) \[Ao Vivo\]](https://open.spotify.com/album/58RDGPq0zXYXqlLlwCf78W) | 2:57 |
-| 15 | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Pega Cabuloso \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o) | 2:17 |
+| 15 | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Pega Cabuloso \- Ao Vivo em São Paulo](https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o) | 2:17 |
 | 16 | [Deu Moral \- Ao Vivo](https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Deu Moral \(Ao Vivo\)](https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy) | 2:02 |
 | 17 | [Quem Tá Fora \- Ao Vivo](https://open.spotify.com/track/0pK0Vd1MCWy7AmsyFfIJb8) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79) | 2:29 |
 | 18 | [Dedo do Meio \- Ao Vivo](https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Fortaleza, Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/6t2JyS8CJ0pgBMabJhXWGK) | 2:47 |

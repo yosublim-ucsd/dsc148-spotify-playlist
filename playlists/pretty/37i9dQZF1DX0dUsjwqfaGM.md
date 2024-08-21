@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,789 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,791 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Girl Hà Nội \(ft\. Dangrangto, Lu, Rem\)](https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Rem](https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2) | [Girl Hà Nội](https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9) | 3:54 |
+| 1 | [Girl Hà Nội](https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Rem](https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2) | [Girl Hà Nội](https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9) | 3:54 |
 | 2 | [GIAYPHUT](https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ) | [GIAYPHUT](https://open.spotify.com/album/6SoQl8PJVJHowDiHamT3sH) | 3:25 |
 | 3 | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/track/0HoW6vYSTE9eutD16ZpXv0) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [If You Said So \(feat\. Wxrdie & 2Pillz\)](https://open.spotify.com/album/6AtPsc69M5XW9Uib4mA2qi) | 2:36 |
 | 4 | [FEVER](https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Minsicko](https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [MEDICINE](https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI) | 4:20 |

@@ -2,7 +2,7 @@
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This is Los Primos del Este\. أغاني روعة في قايمة أغاني واحدة.
+> This is Los Primos del Este\. The essential tracks, all in one playlist.
 
 51 songs - 2 hr 39 min
 

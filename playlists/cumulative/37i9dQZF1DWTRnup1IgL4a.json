@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "My prince",
+        "url": "https://open.spotify.com/album/3FAJrp32bmvrDfrRRpM6I2"
+      },
+      "artists": [
+        {
+          "name": "Lukas Strindberg",
+          "url": "https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "My prince",
+      "url": "https://open.spotify.com/track/5JFt2oBtcVYEPTBRu7Hmhu"
+    },
+    {
+      "album": {
         "name": "Nell'angolo",
         "url": "https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f"
       },

@@ -6,8 +6,120 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADas3qfxS66h+5S51uATO2nt+iWk2n",
+  "snapshot_id": "AAADfq2bZ+bM7LW6irOVd7/lfH3h2nO+",
   "tracks": [
+    {
+      "added_at": "2024-08-20 07:26:04",
+      "album": {
+        "name": "\u9020\u82b1\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/1O3ee8w9eZP56xuzLQOFzC"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u702c\u308b\u307d",
+          "url": "https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 183633,
+      "name": "\u9020\u82b1\u306b\u306a\u3063\u3066 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/2HRjSerEoCaZWOp7DdXTPN"
+    },
+    {
+      "added_at": "2024-08-20 07:25:35",
+      "album": {
+        "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/6WJgrCketOaAB7t58R2d98"
+      },
+      "artists": [
+        {
+          "name": "IQYU",
+          "url": "https://open.spotify.com/artist/4RPqaSmdeN7AiX8iN6gPdJ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "\u88cf\u547d",
+          "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
+        }
+      ],
+      "duration_ms": 153250,
+      "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u91cd\u97f3\u30c6\u30c8&\u53ef\u4e0d&\u88cf\u547d)",
+      "url": "https://open.spotify.com/track/1YJTj0lSK0SfocYiNRx8Sl"
+    },
+    {
+      "added_at": "2024-08-20 07:25:24",
+      "album": {
+        "name": "Moon EP",
+        "url": "https://open.spotify.com/album/6j9bn0kU8IisGoA5dtp10p"
+      },
+      "artists": [
+        {
+          "name": "tama",
+          "url": "https://open.spotify.com/artist/5EfCulFGk18pwnXOyvEQgq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u4e88\u611f",
+      "url": "https://open.spotify.com/track/5BZmDPacDCgasdfFtjjjbQ"
+    },
+    {
+      "added_at": "2024-08-20 07:25:47",
+      "album": {
+        "name": "Satory - \u609f",
+        "url": "https://open.spotify.com/album/52UJAAocKfhR0AUru3PZEt"
+      },
+      "artists": [
+        {
+          "name": "I/O Plasm",
+          "url": "https://open.spotify.com/artist/6FMZUx9Ng5q8aPF39zvlup"
+        },
+        {
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "duration_ms": 202874,
+      "name": "Satory (feat. IA)",
+      "url": "https://open.spotify.com/track/7GLD6gde4m1bpNFaJ5ReU6"
+    },
+    {
+      "added_at": "2024-08-20 07:26:20",
+      "album": {
+        "name": "RESONANCE",
+        "url": "https://open.spotify.com/album/3HceE8gG3eCiMxFZ3UZ4xA"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "RESONANCE (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4MOB1I1SdtiM8YU34HdDqr"
+    },
     {
       "added_at": "2024-08-13 08:29:01",
       "album": {
@@ -691,202 +803,6 @@
       "duration_ms": 269000,
       "name": "Story Rider",
       "url": "https://open.spotify.com/track/1hLmIbQqaBh4yjTBZkkGGI"
-    },
-    {
-      "added_at": "2024-05-21 08:03:17",
-      "album": {
-        "name": "OVER LIT",
-        "url": "https://open.spotify.com/album/6ZJsbUaOoHUtp0Ud8cWq0G"
-      },
-      "artists": [
-        {
-          "name": "\u66f8\u5e97\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/2xUC9RhmZ0w9djd9uuPTCD"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 290002,
-      "name": "OVER LIT (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/7zjV95cZjBPARW2snSaLVr"
-    },
-    {
-      "added_at": "2024-05-21 08:04:54",
-      "album": {
-        "name": "\u30d2\u30c3\u30c8\u30e1\u30fc\u30ab\u30fc",
-        "url": "https://open.spotify.com/album/6wjwen02xljrduDf9ul2Yj"
-      },
-      "artists": [
-        {
-          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
-          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 219391,
-      "name": "\u30d2\u30c3\u30c8\u30e1\u30fc\u30ab\u30fc (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/1DOLc4mELcfI4AimbVKy5T"
-    },
-    {
-      "added_at": "2024-05-21 08:06:08",
-      "album": {
-        "name": "I know \u611b\u8133.",
-        "url": "https://open.spotify.com/album/01eGlRkyJwkTPl4XIJ4Qbb"
-      },
-      "artists": [
-        {
-          "name": "\u5409\u7530\u591c\u4e16",
-          "url": "https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "I know \u611b\u8133. (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0jUo25DS04JAE5ajjpobw1"
-    },
-    {
-      "added_at": "2024-05-21 08:07:47",
-      "album": {
-        "name": "\u4ec4\u6697\u3044\u90e8\u5c4b\u3068\u6708\u306e\u591c",
-        "url": "https://open.spotify.com/album/0qdAI4shjkKqe8KMokjUEi"
-      },
-      "artists": [
-        {
-          "name": "OtuQ",
-          "url": "https://open.spotify.com/artist/4aR1U3I9Fa7m6XmkDBcT3s"
-        }
-      ],
-      "duration_ms": 185419,
-      "name": "\u4ec4\u6697\u3044\u90e8\u5c4b\u3068\u6708\u306e\u591c",
-      "url": "https://open.spotify.com/track/0QZQPdaxxDrSUQcnLswm3j"
-    },
-    {
-      "added_at": "2024-05-21 08:08:05",
-      "album": {
-        "name": "\u30e2\u30b8\u30e5\u30fc\u30eb\u30c1\u30a7\u30a4\u30b9Vol.2",
-        "url": "https://open.spotify.com/album/6TrSkf8TuSoZ05N18Dv4JX"
-      },
-      "artists": [
-        {
-          "name": "yukitsuki",
-          "url": "https://open.spotify.com/artist/0QI68ykMZoGMCUSUlOOdfD"
-        }
-      ],
-      "duration_ms": 167659,
-      "name": "\u30c7\u30f3\u30b8\u30e3\u30e9\u30b9 \u30e9\u30f4\u30db\u30ea\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1rfpHlN5gACg9QgIfUsSCb"
-    },
-    {
-      "added_at": "2024-05-14 03:49:44",
-      "album": {
-        "name": "\u30ce\u30a4\u30b8\u30fc\u5fdc\u529b\u30e0\u30b8\u30ab",
-        "url": "https://open.spotify.com/album/3Ns0B2MwSv1xnFIBbh2Lqi"
-      },
-      "artists": [
-        {
-          "name": "IMO",
-          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "\u30ce\u30a4\u30b8\u30fc\u5fdc\u529b\u30e0\u30b8\u30ab (feat. KAITO)",
-      "url": "https://open.spotify.com/track/22kZUrTmR8JSX9PT2PB0Qm"
-    },
-    {
-      "added_at": "2024-05-14 03:50:43",
-      "album": {
-        "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f!",
-        "url": "https://open.spotify.com/album/5PNDRomD3yZGskUq8huaxq"
-      },
-      "artists": [
-        {
-          "name": "\u590f\u5c71\u3088\u3064\u304e",
-          "url": "https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "\u3053\u308d\u3057\u3061\u3083\u3063\u305f! (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/4d1CObMrwGif0yDhphYeO1"
-    },
-    {
-      "added_at": "2024-05-14 03:51:03",
-      "album": {
-        "name": "\u30e9\u30f3\u30da\u30a4\u30b8",
-        "url": "https://open.spotify.com/album/5TPXdHeZIx8jIeL2h4vEqZ"
-      },
-      "artists": [
-        {
-          "name": "\u6cb9\u6027",
-          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "\u30e9\u30f3\u30da\u30a4\u30b8 (feat. \u91cd\u97f3\u30c6\u30c8&\u93e1\u97f3\u30ea\u30f3&\u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/57KNYKuz2Oi55Qbkk7XvpC"
-    },
-    {
-      "added_at": "2024-05-14 03:51:34",
-      "album": {
-        "name": "DiVA_01",
-        "url": "https://open.spotify.com/album/0Avv2ShCt7D3WNiqmIFEcw"
-      },
-      "artists": [
-        {
-          "name": "\u3046\u3089\u307f\u7b2c\u4e8c\u5f62\u614b",
-          "url": "https://open.spotify.com/artist/3mbiub5aHkMuzIZDIQX3IZ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "DiVA_01 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0Z52Nj1eh805z38yyd5uaC"
-    },
-    {
-      "added_at": "2024-05-14 03:52:14",
-      "album": {
-        "name": "Araboth",
-        "url": "https://open.spotify.com/album/4ikZclGJ2LhPqH2HAPikHb"
-      },
-      "artists": [
-        {
-          "name": "Plutonius(hayakawaP)",
-          "url": "https://open.spotify.com/artist/6hP40mDcqdD5o0gJqwgU1m"
-        }
-      ],
-      "duration_ms": 187764,
-      "name": "On your beat!",
-      "url": "https://open.spotify.com/track/60uMyTMoFUmdIRD49bHEla"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,501 likes - 108 songs - 5 hr 51 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,513 likes - 108 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
-| 2 | [real things \(dance remix\)](https://open.spotify.com/track/0kZMNEEOuRgEXtrQAvY2AR) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK) | [real things \(dance remix\)](https://open.spotify.com/album/6jE8ECcN3AIEhcM9rc6xFy) | 2:42 |
+| 2 | [real things \(steve mix\)](https://open.spotify.com/track/0kZMNEEOuRgEXtrQAvY2AR) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu), [Stevie Daniels](https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK) | [real things \(steve mix\)](https://open.spotify.com/album/6jE8ECcN3AIEhcM9rc6xFy) | 2:42 |
 | 3 | [soft spun gold](https://open.spotify.com/track/2igQkCmaY0VLfqvWVrQ6T5) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [ghost beach](https://open.spotify.com/album/2O3N8bnuz4OrpnzkIAAzKM) | 3:24 |
 | 4 | [Bedroom Floor](https://open.spotify.com/track/2igAj8xETxRRxOklMfiknR) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Bedroom Floor](https://open.spotify.com/album/4PuWNlY3L8XhhXSGaQkWkx) | 3:00 |
 | 5 | [Get this Money \(DNB Remix\)](https://open.spotify.com/track/1Qnwy3K1sUvHDFZvCtod7j) | [Colcci](https://open.spotify.com/artist/2lJOX4tJ4zpcLgZTNmHhTG), [Kenzi](https://open.spotify.com/artist/1k9u7JugmvWXhT8AFk5MgS), [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [Get This Money \(DNB Remix\)](https://open.spotify.com/album/5kycvpkv8rosVnf2ldGPDD) | 2:30 |

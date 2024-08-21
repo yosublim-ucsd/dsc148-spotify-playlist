@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 207000,
       "name": "Sen De Duysan",
       "url": "https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE"
@@ -1164,6 +1164,24 @@
       "duration_ms": 155636,
       "name": "sendin izlerim",
       "url": "https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s"
+    },
+    {
+      "album": {
+        "name": "Seni Sevmek Kald\u0131",
+        "url": "https://open.spotify.com/album/4QsAQhdmqreEcmJ7tJ2BDK"
+      },
+      "artists": [
+        {
+          "name": "Soner Han",
+          "url": "https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182863,
+      "name": "Seni Sevmek Kald\u0131",
+      "url": "https://open.spotify.com/track/5BEqptwkS8PnvKY6s5hqJF"
     },
     {
       "album": {

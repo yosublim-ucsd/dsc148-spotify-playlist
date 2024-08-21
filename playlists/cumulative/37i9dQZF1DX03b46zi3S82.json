@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "dans le parc",
+        "url": "https://open.spotify.com/album/6pRsfveEQb6awaB89uGeIa"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "dans le parc",
+      "url": "https://open.spotify.com/track/2uEp6wdb5UNAYFNBkWmt3J"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },

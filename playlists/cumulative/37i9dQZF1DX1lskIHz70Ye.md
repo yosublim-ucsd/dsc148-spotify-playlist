@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-172 songs - 8 hr 38 min
+173 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Oda al Amor](https://open.spotify.com/track/2BZqPAeZmKOip0RBXy5rLF) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Oda al Amor](https://open.spotify.com/album/36ijVR5mkPZBGCof2VEZLe) | 2:47 | 2024-07-18 |  |
 | [Opposite of Forever](https://open.spotify.com/track/4WieojAsdiG5zA4GJgQNGJ) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Opposite of Forever](https://open.spotify.com/album/7j6hHinyJPIY7xL6luB7HT) | 3:19 | 2022-10-07 |  |
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2022-03-03 |  |
+| [Our Journey](https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Our Journey](https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs) | 2:29 | 2024-08-20 |  |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2022-03-03 |  |
 | [Pensando en Ti](https://open.spotify.com/track/5cmiQJjwspcjKyk8m2eY2I) | [David Albornoz](https://open.spotify.com/artist/3yviAynIi2sAA9u4q1v3Y1) | [Pensando en Ti](https://open.spotify.com/album/2hFryn75O4ssRsYT1Q3Hxw) | 3:05 | 2024-07-18 |  |
 | [Pensando En Ti](https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Pensando En Ti](https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK) | 2:42 | 2022-03-03 | 2022-07-09 |

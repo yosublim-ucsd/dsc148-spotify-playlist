@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-760 songs - 1 day 9 hr 1 min
+762 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Back in the Village](https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Back in the Village](https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF) | 2:14 | 2023-11-24 |  |
 | [Back to Boulder Creek](https://open.spotify.com/track/3aa0G5MIUCXZDD3FwcqL0j) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Back to Boulder Creek](https://open.spotify.com/album/6toTINQLDLrIcJRmXxd1fF) | 2:19 | 2021-12-08 | 2022-04-22 |
 | [Ballata per Elena bellissima \(Ballade for Beautiful Elena\)](https://open.spotify.com/track/2OJK4U7P1GQgExtYcKij0u) | [Victor Kozlov](https://open.spotify.com/artist/0InPRpRbL3uKD6dof0Omcv), [Irina Kulikova](https://open.spotify.com/artist/48PBWB4oHPhLqMLfbT0wv1) | [Reminiscences of Russia](https://open.spotify.com/album/4nSDt2BHlEsKg1mU1wh2X7) | 3:43 | 2021-12-08 | 2022-07-08 |
+| [Balo](https://open.spotify.com/track/3kWxlicl0tDchSb56IwAbf) | [Bergama](https://open.spotify.com/artist/0pBH0dXlXMOCgZ8KacxmxL) | [Balo](https://open.spotify.com/album/6a5RpBqYIEyNulXT8siCD2) | 2:35 | 2024-08-20 |  |
 | [Barcelona Sunrise](https://open.spotify.com/track/4MGhkZ6FM6jvW4REJvJaVN) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Barcelona Sunrise](https://open.spotify.com/album/278KHG4sDOO9Bv2ACj0YsM) | 2:45 | 2024-03-08 |  |
 | [Barre des Écrins](https://open.spotify.com/track/72hU3FPZi4aiqzt5paPu7x) | [Rex Lopes](https://open.spotify.com/artist/45X82ZBJp4VUU6UkCXNm54) | [Saludo](https://open.spotify.com/album/6ZWaw4NPpuBF57v0ap05Ug) | 3:09 | 2021-12-08 | 2023-02-25 |
 | [Bastiments](https://open.spotify.com/track/1B3c71jCiMtb2CIpkzT2a7) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Núria](https://open.spotify.com/album/35xNbujDkw7WI2064N4L53) | 2:56 | 2023-02-24 | 2024-07-19 |
@@ -762,6 +763,7 @@
 | [You And I](https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [You And I](https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK) | 2:33 | 2024-05-03 |  |
 | [You Blossom](https://open.spotify.com/track/2SkUz2Ew7BzVCv5PNAMbeP) | [Solomon Davis](https://open.spotify.com/artist/1UsbAYI6GPRqkeH7BEWkBl) | [You Blossom](https://open.spotify.com/album/1WnsaCgD5Xbe8HdDyf9WP7) | 2:27 | 2022-07-15 | 2022-09-09 |
 | [You Have My Blessing](https://open.spotify.com/track/1lgdO7zTcawmoXYIilHsyv) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [You Have My Blessing](https://open.spotify.com/album/3mlWPRNsIWaXb5yVki7LLj) | 4:27 | 2021-12-08 | 2023-04-22 |
+| [You Say](https://open.spotify.com/track/6fKdo7gJlCbvCMsU7CeC0P) | [Charlie Oakfield](https://open.spotify.com/artist/2ExlksqshO8Lce70P62KN1) | [You Say](https://open.spotify.com/album/142OmXLl83VNEmqWL9qufL) | 3:38 | 2024-08-20 |  |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-12 |  |
 | [Your Picture Is Still There](https://open.spotify.com/track/3AAkxI7ldvaZ4P9Vn3XTf9) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Your Picture Is Still There](https://open.spotify.com/album/7fPhXvEplJRwPqLrRF8ovS) | 3:47 | 2021-12-08 | 2022-10-07 |
 | [You´ll Be In My heart](https://open.spotify.com/track/0SV5qCggYI52A7xPVNUeD5) | [Larry Eagler](https://open.spotify.com/artist/6BAFOyxrRfvSvjpcNxp3rs) | [You´ll Be In My heart](https://open.spotify.com/album/36q4eAeAtx39HyVxBwONzU) | 4:00 | 2022-09-23 | 2023-03-10 |

@@ -6369,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "Golden Child, Chapter 2",
+        "url": "https://open.spotify.com/album/5QohyYxe1zRYpTmkWJTNYb"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Jay N Bey!",
+      "url": "https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW"
+    },
+    {
+      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },

@@ -4485,6 +4485,24 @@
     },
     {
       "album": {
+        "name": "The Story Of Us",
+        "url": "https://open.spotify.com/album/1P0lEHmdvRGT1VFVoNfee2"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131939,
+      "name": "The Story Of Us",
+      "url": "https://open.spotify.com/track/7A267W9bhgllo67qsZ3vDI"
+    },
+    {
+      "album": {
         "name": "These Steady Hands",
         "url": "https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP"
       },

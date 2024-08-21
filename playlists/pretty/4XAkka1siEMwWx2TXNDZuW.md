@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 
 > nothing but the stink of old moist carpet, the madness of mono\-yellow, the endless background noise of fluorescent lights at maximum hum\-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in
 
-[paige](https://open.spotify.com/user/paigebethanyy) - 37,536 likes - 118 songs - 6 hr 7 min
+[paige](https://open.spotify.com/user/paigebethanyy) - 37,533 likes - 119 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,6 +125,7 @@ pretty - [cumulative](/playlists/cumulative/4XAkka1siEMwWx2TXNDZuW.md) - [plain]
 | 115 | [A2 \- We don't have many days](https://open.spotify.com/track/5V7zDcTwHZ38kbSeooLe0K) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:30 |
 | 116 | [A3 \- Late afternoon drifting](https://open.spotify.com/track/5sD6oTCae0LI9lztYBJA0W) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:35 |
 | 117 | [A5 \- Slightly bewildered](https://open.spotify.com/track/2tWgpKAjR0dajrrA7gS3f1) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 2:01 |
-| 118 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
+| 118 | [Soft Hearted](https://open.spotify.com/track/6WaiPbEUlkC2xMKUSXIqZH) | [Anders Baldwin](https://open.spotify.com/artist/5VRIfKvNP5rgX2vb5uXGXe), [Brady Hoffman](https://open.spotify.com/artist/2FbSnPL525GoLfscTwd4GQ), [Alice Shelton](https://open.spotify.com/artist/7CwozzmMZ6Nrc0smJwFuAs), [Luke Barker](https://open.spotify.com/artist/2ArmFEXk32hFJ2ptPjfg3v), [Ruby Terry](https://open.spotify.com/artist/6i2U651eF8lRxELDcMYM7V) | [Calming \- Commercial Background Music](https://open.spotify.com/album/22tdyfxLz5XinDjZzRBZiw) | 1:53 |
+| 119 | [End](https://open.spotify.com/track/68Ch7buqW2ugaxEvLIDALw) | [Clown Core](https://open.spotify.com/artist/6mtABo05yeYtPftYEVfGoV) | [Van](https://open.spotify.com/album/7f5AP647DfTSWf0OmZRrPe) | 2:20 |
 
-Snapshot ID: `AAADPa8IgeQC9RAr4KLGqzb/bx1Uk08L`
+Snapshot ID: `AAADP2jUdaWnjSXAyvWt57JPTmMj67Kf`

@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/25cVfr0hdtNY6IayDhR1d8"
+      },
+      "artists": [
+        {
+          "name": "Brookes Brothers",
+          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+        },
+        {
+          "name": "Mia Kirkland",
+          "url": "https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206481,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/6TpoVBaYIfJ1wx57gNoJuA"
+    },
+    {
+      "album": {
         "name": "Even If",
         "url": "https://open.spotify.com/album/2YjxUlgCtx6RYLtKIGwqLK"
       },
@@ -1678,6 +1700,24 @@
       "duration_ms": 160602,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan)",
       "url": "https://open.spotify.com/track/0JI8koDoC5crQbIjhSty59"
+    },
+    {
+      "album": {
+        "name": "Happy People",
+        "url": "https://open.spotify.com/album/0WJtHx2O5M1PBJM6o0X26G"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Happy People",
+      "url": "https://open.spotify.com/track/6iFwT5dueWSGhvxEozBIib"
     },
     {
       "album": {
@@ -3490,7 +3530,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 231724,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3HrYBjMhKco2izd1cC7rJ9"
@@ -3630,7 +3670,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 155056,
       "name": "Spray Tan",
       "url": "https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z"

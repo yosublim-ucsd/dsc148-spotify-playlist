@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Somos Todos",
+        "url": "https://open.spotify.com/album/78ZNNRr6kp0tJ40YKwwVMt"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271516,
+      "name": "Amor de Papel / Enamorado de Ti / En Libertad",
+      "url": "https://open.spotify.com/track/2PeSqn7fiq4e5dWNGMw7Cw"
+    },
+    {
+      "album": {
         "name": "Amor Gitano",
         "url": "https://open.spotify.com/album/6H5UEE12J4faOSsikrdyP4"
       },
@@ -2384,6 +2402,24 @@
       "duration_ms": 204021,
       "name": "En Esta Boca",
       "url": "https://open.spotify.com/track/2qoViFH47tZDwL86vBOKyL"
+    },
+    {
+      "album": {
+        "name": "Con el Coraz\u00f3n en la Mano",
+        "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855"
     },
     {
       "album": {
@@ -4328,7 +4364,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 192483,
       "name": "Me Duele Tu Nombre (En Vivo)",
       "url": "https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE"
@@ -6750,7 +6786,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 317929,
       "name": "Quiz\u00e1s / Un Buen Perdedor / Tira Para Arriba",
       "url": "https://open.spotify.com/track/7LD7Y96k4WjKyGBFMW7fTj"

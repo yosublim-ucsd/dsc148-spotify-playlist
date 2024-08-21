@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,181 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,368 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
 | 2 | [Fight](https://open.spotify.com/track/0MBBMu8HRPr4baOreRPUsG) | [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ) | [Fight EP](https://open.spotify.com/album/1t1tYXO2MRcBXHa7ykPsAY) | 6:48 |
-| 3 | [Make Me \- La La Remix](https://open.spotify.com/track/4O88VFm0Ndml0TLMYX2ZIv) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [La La](https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5) | [Make Me \- La La Remix](https://open.spotify.com/album/5NbrBaFmQIBVPYoTx9TTWY) | 3:22 |
+| 3 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |
 | 4 | [GiGi](https://open.spotify.com/track/7n2vLTUO8JahfIXqa5WcxQ) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [GiGi](https://open.spotify.com/album/0gprGvfrEwT06lVNqGVZJq) | 3:12 |
 | 5 | [Put The Lights Out](https://open.spotify.com/track/7Fj5v84PzzbUuQg9Uzghjp) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/2oyLphmjqRsM7qF23BcHTw) | 4:20 |
-| 6 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |
-| 7 | [Picking Flowers](https://open.spotify.com/track/2O3cy7DKdobrA8e0bqrPEI) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [Picking Flowers](https://open.spotify.com/album/5PaNphWwcQRzuJR0tLAOvB) | 4:16 |
-| 8 | [Eeze Up](https://open.spotify.com/track/66YbWT3XeApUWA0OnEVSKk) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Eeze Up](https://open.spotify.com/album/6BrFqxOtAKntUYKssWGaTF) | 3:24 |
-| 9 | [Saturday Night](https://open.spotify.com/track/09kVCKFKnUZlMEE9iFfZoy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [UP](https://open.spotify.com/album/71cFJJ15zMyKYaS6NlwZMM) | 6:09 |
-| 10 | [Buss It](https://open.spotify.com/track/7dRIxMRZny4mq7gQ3JtPdD) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP) | [PAPADHD](https://open.spotify.com/album/3xSTiWi5vmorI5pNS3HhJ5) | 4:48 |
+| 6 | [Picking Flowers](https://open.spotify.com/track/2O3cy7DKdobrA8e0bqrPEI) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [Picking Flowers](https://open.spotify.com/album/5PaNphWwcQRzuJR0tLAOvB) | 4:16 |
+| 7 | [Eeze Up](https://open.spotify.com/track/66YbWT3XeApUWA0OnEVSKk) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Eeze Up](https://open.spotify.com/album/6BrFqxOtAKntUYKssWGaTF) | 3:24 |
+| 8 | [Saturday Night](https://open.spotify.com/track/09kVCKFKnUZlMEE9iFfZoy) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [UP](https://open.spotify.com/album/71cFJJ15zMyKYaS6NlwZMM) | 6:09 |
+| 9 | [Buss It](https://open.spotify.com/track/7dRIxMRZny4mq7gQ3JtPdD) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Papa Nugs](https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP) | [PAPADHD](https://open.spotify.com/album/3xSTiWi5vmorI5pNS3HhJ5) | 4:48 |
+| 10 | [Make Me \- La La Remix](https://open.spotify.com/track/4O88VFm0Ndml0TLMYX2ZIv) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [La La](https://open.spotify.com/artist/2k4MX5x2LmAOKmYl3BtuW5) | [Make Me \- La La Remix](https://open.spotify.com/album/5NbrBaFmQIBVPYoTx9TTWY) | 3:22 |
 | 11 | [Pulgueiro Baile](https://open.spotify.com/track/6STxAo5kKX2XWRFftsfeE0) | [Kassian](https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx) | [Pulgueiro Baile](https://open.spotify.com/album/0vmsUk7bKO8Kg0oh30Ghsz) | 3:21 |
 | 12 | [Feel The Rush \- Mr\. G's Love Mantra](https://open.spotify.com/track/11Hu1CVjAl4hDFi5hm6uG5) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Feel The Rush \(Mr\. G's Love Mantra\)](https://open.spotify.com/album/5YnQlfF56bXBIyIFMF2i1z) | 7:47 |
 | 13 | [Vitamina H](https://open.spotify.com/track/1O62PHkLbqefNB1hOXXtMa) | [TSVI](https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE) | [Mediterraneo](https://open.spotify.com/album/2fuCiubJjvFsAEIq8wQwgh) | 5:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 99 | [Earnest Binary](https://open.spotify.com/track/6gHz6YM6iSXIE5SMGTQfnf) | [Field Motion](https://open.spotify.com/artist/6lIy0UAPMJlayfPrQfREGN) | [Earnest Binary](https://open.spotify.com/album/6hV13F7pRbFqP0igKhjPHr) | 4:15 |
 | 100 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |
 
-Snapshot ID: `Zr7OwAAAAAAdkEb9cvA8OHJTdorgGcEZ`
+Snapshot ID: `ZsS+jAAAAABFCK6kkvCDyycZKKAK1v5x`

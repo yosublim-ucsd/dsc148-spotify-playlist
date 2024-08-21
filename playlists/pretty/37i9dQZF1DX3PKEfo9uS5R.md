@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,150 likes - 131 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,261 likes - 131 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 7 | [Love Blooming](https://open.spotify.com/track/3VdsawA8gyYwlt15HVFHNt) | [Gnusmas](https://open.spotify.com/artist/0fdLGumMOmAi9CCi737mrq) | [Love Blooming](https://open.spotify.com/album/53xjLeTFpdw6pXZ3fweRLf) | 2:35 |
 | 8 | [Pearls](https://open.spotify.com/track/42P8KxGfdFrY26zVovIdaJ) | [Ryan Randolph](https://open.spotify.com/artist/1DnbNSRsPs7dLlnBYti0jB) | [Pearls](https://open.spotify.com/album/03hLFQObxUo97XQIt4OzOr) | 2:39 |
 | 9 | [Hot Springs](https://open.spotify.com/track/6CBeoJQTYndT2Skeh48RGv) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [Hot Springs](https://open.spotify.com/album/6TDNZq8u4mh3C1CRKWidjD) | 2:45 |
-| 10 | [New Era](https://open.spotify.com/track/4p8OPBLFkcEmoMzrvo3yXd) | [Acosti](https://open.spotify.com/artist/4jkhIYr5Jriz1wDhfErUZp) | [New Era](https://open.spotify.com/album/22AX5n4lUirG6L2rIl98I7) | 2:04 |
+| 10 | [New Era](https://open.spotify.com/track/4p8OPBLFkcEmoMzrvo3yXd) | [Acosti](https://open.spotify.com/artist/2RuJ0ksKvtEr7LUSNR8ftt) | [New Era](https://open.spotify.com/album/22AX5n4lUirG6L2rIl98I7) | 2:04 |
 | 11 | [We Shall Be Free](https://open.spotify.com/track/7ukdXMeyezREsJaSl7mnpA) | [bombergirl](https://open.spotify.com/artist/79pr8Jy2Fxo9u6EaOxbCAQ) | [We Shall Be Free](https://open.spotify.com/album/7wMIZOm3ZuZKBaufcbxy0W) | 2:48 |
 | 12 | [We Stand Amongst The Stars](https://open.spotify.com/track/65C3B00cQ2rYJOOs4heM26) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [We Stand Amongst The Stars](https://open.spotify.com/album/0uVKCwsdjVf0ip6OmhlBzJ) | 3:10 |
 | 13 | [Sainte Maxime](https://open.spotify.com/track/5N2riFXZxRD9wQxhBtNbPw) | [C\. Bennet](https://open.spotify.com/artist/7xq1CiAFO8jgBC5mzJ6pCg) | [Sainte Maxime](https://open.spotify.com/album/03PL0wNTnN7TYrNb6ecIRH) | 2:30 |

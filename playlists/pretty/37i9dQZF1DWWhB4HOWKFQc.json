@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: *NSYNC ",
-  "num_followers": 1319153,
+  "num_followers": 1319474,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr40EAAAAAA3A4RpjnLFj31OsqFiBA06",
+  "snapshot_id": "ZsUrxgAAAABEq6lIE/RMoqOBMvPhJfpw",
   "tracks": [
     {
       "added_at": "2024-08-15 17:00:00",
@@ -75,6 +75,26 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-08-15 17:00:00",
+      "album": {
+        "name": "hungover",
+        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "you look like you love me (feat. Riley Green)",
+      "url": "https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR"
     },
     {
       "added_at": "2024-08-15 17:00:00",
@@ -237,6 +257,22 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
+      "added_at": "2024-08-20 23:50:30",
+      "album": {
+        "name": "Serendipity's Embrace (Original Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/5t8nbeVvlEp1R4xhuHX7Wf"
+      },
+      "artists": [
+        {
+          "name": "\uc724\uaddc (8TURN)",
+          "url": "https://open.spotify.com/artist/1Ow4GXmX1L4sdENO3fHO3s"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/2DydsWRyrxUF0PrObv9obu"
+    },
+    {
       "added_at": "2024-08-15 17:00:00",
       "album": {
         "name": "VANITY",
@@ -311,22 +347,6 @@
     {
       "added_at": "2024-08-15 17:00:00",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-08-15 17:00:00",
-      "album": {
         "name": "Terlalu Cinta",
         "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
       },
@@ -343,6 +363,22 @@
       "duration_ms": 259040,
       "name": "Terlalu Cinta",
       "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
+    },
+    {
+      "added_at": "2024-08-15 17:00:00",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2024-08-15 17:00:00",
@@ -479,6 +515,54 @@
     {
       "added_at": "2024-08-15 17:00:00",
       "album": {
+        "name": "Manusia Paling Menyebalkan",
+        "url": "https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz"
+      },
+      "artists": [
+        {
+          "name": "BIANCADIMAS",
+          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
+        }
+      ],
+      "duration_ms": 189917,
+      "name": "Manusia Paling Menyebalkan",
+      "url": "https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr"
+    },
+    {
+      "added_at": "2024-08-20 23:50:30",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-08-20 23:50:30",
+      "album": {
+        "name": "Serendipity's Embrace (Original Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/29k2NTZahDYLBWse7A4Flc"
+      },
+      "artists": [
+        {
+          "name": "Yechan Jeon",
+          "url": "https://open.spotify.com/artist/3ETZIhzWrw3AG5tmEjXP2O"
+        }
+      ],
+      "duration_ms": 225920,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1RypXvyQI6xek9vxq6pbUX"
+    },
+    {
+      "added_at": "2024-08-15 17:00:00",
+      "album": {
         "name": "Tanpa Bicara",
         "url": "https://open.spotify.com/album/4kcdK1zvo9uLRQ8dt93gh4"
       },
@@ -507,26 +591,6 @@
       "duration_ms": 233031,
       "name": "Sudden Shower",
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
-    },
-    {
-      "added_at": "2024-08-15 17:00:00",
-      "album": {
-        "name": "hungover",
-        "url": "https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 224280,
-      "name": "you look like you love me (feat. Riley Green)",
-      "url": "https://open.spotify.com/track/2PyJAiQjp1OPkow2FJZKHR"
     },
     {
       "added_at": "2024-08-15 17:00:00",
@@ -663,6 +727,26 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
+    },
+    {
+      "added_at": "2024-08-20 23:50:30",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
       "added_at": "2024-08-15 17:00:00",
@@ -879,22 +963,6 @@
     {
       "added_at": "2024-08-15 17:00:00",
       "album": {
-        "name": "Messenger Of The Gods: The Singles Collection",
-        "url": "https://open.spotify.com/album/0Q6mYDUdxy5bX4vNNqqje9"
-      },
-      "artists": [
-        {
-          "name": "Freddie Mercury",
-          "url": "https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Love Me Like There's No Tomorrow",
-      "url": "https://open.spotify.com/track/1GwRVDuSn8kQ4ZYPFGgliZ"
-    },
-    {
-      "added_at": "2024-08-15 17:00:00",
-      "album": {
         "name": "Angin Rindu",
         "url": "https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY"
       },
@@ -1103,22 +1171,6 @@
       "duration_ms": 216880,
       "name": "Mr. Loverman",
       "url": "https://open.spotify.com/track/2IVsRhKrx8hlQBOWy4qebo"
-    },
-    {
-      "added_at": "2024-08-15 17:00:00",
-      "album": {
-        "name": "Manusia Paling Menyebalkan",
-        "url": "https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz"
-      },
-      "artists": [
-        {
-          "name": "BIANCADIMAS",
-          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
-        }
-      ],
-      "duration_ms": 189917,
-      "name": "Manusia Paling Menyebalkan",
-      "url": "https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr"
     },
     {
       "added_at": "2024-08-15 17:00:00",
@@ -1359,26 +1411,6 @@
       "duration_ms": 191000,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2024-08-15 17:00:00",
-      "album": {
-        "name": "right where you left me",
-        "url": "https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        },
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "right where you left me",
-      "url": "https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP"
     },
     {
       "added_at": "2024-08-15 17:00:00",

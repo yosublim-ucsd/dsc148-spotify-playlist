@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Deceltica",
+        "url": "https://open.spotify.com/album/0jNukRS8SdKiRknjc8iyGL"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298490,
+      "name": "Deceltica",
+      "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
+    },
+    {
+      "album": {
         "name": "Decision",
         "url": "https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim"
       },
@@ -8764,7 +8782,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 193413,
       "name": "Leaving Earth 2",
       "url": "https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV"

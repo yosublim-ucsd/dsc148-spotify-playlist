@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 120000,
       "name": "A Winged Time",
       "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
@@ -362,6 +362,24 @@
       "duration_ms": 136129,
       "name": "All Petals Are Gone",
       "url": "https://open.spotify.com/track/1Q9xea5ZIvO9P657JuGJyi"
+    },
+    {
+      "album": {
+        "name": "alone at sea",
+        "url": "https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6"
+      },
+      "artists": [
+        {
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151871,
+      "name": "alone at sea",
+      "url": "https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT"
     },
     {
       "album": {
@@ -5579,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Judy's Song",
+        "url": "https://open.spotify.com/album/1i14Zf5RlD0F1SsthwDWDn"
+      },
+      "artists": [
+        {
+          "name": "Darkuro",
+          "url": "https://open.spotify.com/artist/5kdikzk6FOGKJkOJY1Pzrh"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Judy's Song",
+      "url": "https://open.spotify.com/track/09bB1cqGDdOTXo1i6IiXuI"
+    },
+    {
+      "album": {
         "name": "Julien's Sonata",
         "url": "https://open.spotify.com/album/5IcPJbZ9yn8yi09vJJioGA"
       },
@@ -5860,7 +5896,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
@@ -6544,7 +6580,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 151761,
       "name": "Lost Words",
       "url": "https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa"
@@ -8082,6 +8118,24 @@
       "duration_ms": 121124,
       "name": "Once when I was young",
       "url": "https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa"
+    },
+    {
+      "album": {
+        "name": "One Minute",
+        "url": "https://open.spotify.com/album/3F6uVFyE6av5f6CWFcq2kv"
+      },
+      "artists": [
+        {
+          "name": "OIYYIO",
+          "url": "https://open.spotify.com/artist/2R9k2e0QnakmPpJCxx1Pag"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146142,
+      "name": "One Minute",
+      "url": "https://open.spotify.com/track/0UFrBSY1gbFvQdfcfufXRG"
     },
     {
       "album": {
@@ -11250,7 +11304,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 128187,
       "name": "Strejfer",
       "url": "https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR"

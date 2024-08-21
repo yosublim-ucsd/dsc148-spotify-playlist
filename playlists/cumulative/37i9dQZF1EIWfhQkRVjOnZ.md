@@ -2,7 +2,7 @@
 
 ### [Destroy The Runner Mix](https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ)
 
-> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>
+> <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>
 
 146 songs - 8 hr 51 min
 
@@ -15,7 +15,7 @@
 | [A Call To The Faithful](https://open.spotify.com/track/3BAGoosCoAadI2UhrKLMu2) | [Inhale Exhale](https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD) | [The Lost, The Sick, The Sacred](https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s) | 3:50 | 2024-05-16 |  |
 | [A Certain Death](https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM) | [Misery Signals](https://open.spotify.com/artist/0OSABE1yGiZK2ALQDJ0SeO) | [Controller](https://open.spotify.com/album/48QUEWlstIprnOzPkLeBa8) | 3:25 | 2024-04-25 | 2024-05-16 |
 | [A Constant Reminder](https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy) | [It Dies Today](https://open.spotify.com/artist/3uFWRtKjp2E2Y1QmJPaKNC) | [Sirens](https://open.spotify.com/album/3k3ON7AVd9OZpIbnkzKQSy) | 3:31 | 2024-06-11 | 2024-07-28 |
-| [A Dance With Aera Cura](https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Apologies Are For The Weak](https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn) | 3:20 | 2024-07-27 |  |
+| [A Dance With Aera Cura](https://open.spotify.com/track/0cUIcfGHuMJ12wfEDJdWes) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Apologies Are For The Weak](https://open.spotify.com/album/4gWkQbpz5yz9hwOxwlgUhn) | 3:20 | 2024-07-27 | 2024-08-21 |
 | [A Fault Line, A Fault Of Mine](https://open.spotify.com/track/1XI4mmQ96K6uRHTxYpQmF1) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Lost In The Sound Of Separation](https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw) | 3:21 | 2024-05-10 | 2024-05-12 |
 | [A Moment Suspended In Time](https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Define The Great Line](https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6) | 3:59 | 2024-04-23 | 2024-08-20 |
 | [A Mountain So Big, A Question So Small](https://open.spotify.com/track/1vF7UqFlXmPS18N9cCaX2h) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 4:32 | 2024-04-23 |  |
@@ -85,7 +85,7 @@
 | [Luxuria](https://open.spotify.com/track/0YE7IaIa9D2U0PVBG2R7nE) | [Destroy The Runner](https://open.spotify.com/artist/3W4VB8SJOmpZkWedAnvDn6) | [I, Lucifer](https://open.spotify.com/album/3AYu393Qrn5AEcEJCXO3L5) | 3:20 | 2024-04-23 |  |
 | [Masses of a Dying Breed](https://open.spotify.com/track/4GmesNy7lGgOLmwtooLHWQ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Monument](https://open.spotify.com/album/7MaZpVGGdWnqOrAdWmARV4) | 3:59 | 2024-07-22 |  |
 | [Meaning in Tragedy](https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:12 | 2024-04-23 |  |
-| [Meddler](https://open.spotify.com/track/6VuetoBvBkaY8axO16mjCT) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:53 | 2024-07-30 | 2024-08-20 |
+| [Meddler](https://open.spotify.com/track/6VuetoBvBkaY8axO16mjCT) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 3:53 | 2024-07-30 |  |
 | [Meridian](https://open.spotify.com/track/1P9NqGWdvlx6unZAOwpy3t) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Constellations](https://open.spotify.com/album/6PfVh3fOVDKCyzh2RwAm51) | 5:59 | 2024-08-02 | 2024-08-04 |
 | [Monuments](https://open.spotify.com/track/3Hn8ytC1YNKeeIBvYeolvE) | [Corpus Christi](https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR) | [A Feast For Crows](https://open.spotify.com/album/6Tmkg923Sagp74VbheU7Lf) | 3:55 | 2024-07-12 | 2024-07-13 |
 | [Moths and Rust](https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm) | [Forevermore](https://open.spotify.com/artist/1VIF9LpXxJCjFUVoc9LMPB) | [Moths and Rust](https://open.spotify.com/album/1ZDWYiIz1KC4uvuAyB9bZH) | 3:08 | 2024-05-18 |  |

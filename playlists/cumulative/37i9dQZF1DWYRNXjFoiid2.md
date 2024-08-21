@@ -2,7 +2,7 @@
 
 ### [Ultimate Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYRNXjFoiid2)
 
-> Pop to fuel your gaming\. Cover: mxmtoon
+> Pop to fuel your gaming\. Cover: Artemas
 
 364 songs - 18 hr 4 min
 

@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Amanheceu",
+        "url": "https://open.spotify.com/album/1blDqTfNYs1UcLWMKFiGzF"
+      },
+      "artists": [
+        {
+          "name": "The Kiffness",
+          "url": "https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG"
+        },
+        {
+          "name": "RUAN VITOR VAQUEIRINHO",
+          "url": "https://open.spotify.com/artist/0giu922rYkicSn5bq25W3g"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/6SZpFJEjMzptYIuj2IQC1M"
+    },
+    {
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/38lZjSG9GEJdxSE6vZ5ukP"
       },
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 260226,
       "name": "Dheem Thana Thana Nana",
       "url": "https://open.spotify.com/track/0wK8iikO9ePSrawtqKqmGq"
@@ -4950,7 +4972,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Kaalai",
       "url": "https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe"
@@ -9960,7 +9982,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"

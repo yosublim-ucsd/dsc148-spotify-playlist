@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Diljot Mavi",
+  "description": "Discover new Punjabi artists! Cover: Preet Sidhu",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 186000,
       "name": "Challa",
       "url": "https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R"
@@ -714,6 +714,24 @@
       "duration_ms": 214588,
       "name": "Kudrat Wargi 2",
       "url": "https://open.spotify.com/track/5oaPrC2dy6tNgLyMzYoIzH"
+    },
+    {
+      "album": {
+        "name": "Kurte Pajame",
+        "url": "https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc"
+      },
+      "artists": [
+        {
+          "name": "Preet Sidhu",
+          "url": "https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190475,
+      "name": "Kurte Pajame",
+      "url": "https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt"
     },
     {
       "album": {

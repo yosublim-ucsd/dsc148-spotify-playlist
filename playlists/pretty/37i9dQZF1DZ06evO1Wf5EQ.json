@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 556,
+  "num_followers": 558,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAACNwHQsjs9lgwSEFga910uU",
+  "snapshot_id": "ZsKLAAAAAABX37tzAhGpVsnte2EhfyXC",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ezra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
+        "name": "Chupa (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 92000,
-      "name": "Ezra - Main Title",
-      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
+      "duration_ms": 63248,
+      "name": "Quinn Persiste",
+      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chupa (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 63248,
-      "name": "Quinn Persiste",
-      "url": "https://open.spotify.com/track/1VzTxjZoXavQIzjt299tQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
@@ -324,9 +308,25 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 60773,
-      "name": "I Sold My Kid Out",
-      "url": "https://open.spotify.com/track/1m09Ft3pf4MicMrrsT4RFv"
+      "duration_ms": 92000,
+      "name": "Ezra - Main Title",
+      "url": "https://open.spotify.com/track/2cU2WKifCEX7bz6P369fzw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 103158,
+      "name": "Saint Luke's",
+      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 103158,
-      "name": "Saint Luke's",
-      "url": "https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd"
+      "duration_ms": 138226,
+      "name": "Clues",
+      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 138226,
-      "name": "Clues",
-      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ezra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 80880,
-      "name": "Pop Pop",
-      "url": "https://open.spotify.com/track/2Gik6WVPq3jzdvjBvHP8S9"
+      "duration_ms": 60773,
+      "name": "I Sold My Kid Out",
+      "url": "https://open.spotify.com/track/1m09Ft3pf4MicMrrsT4RFv"
     },
     {
       "added_at": null,
@@ -443,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 317262,
-      "name": "MEDELL\u00cdN",
-      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monsieur Spade (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
@@ -475,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Griselda (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 317262,
+      "name": "MEDELL\u00cdN",
+      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ezra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2UbyTUN7UOsnV6lT9ecAky"
       },
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 94133,
-      "name": "The Hug",
-      "url": "https://open.spotify.com/track/15bUmSZRN7XnH8p3ipCQgt"
+      "duration_ms": 80880,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/2Gik6WVPq3jzdvjBvHP8S9"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Bad Religion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t2kBq)
 
-> This is Bad Religion\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Bad Religion\. The essential tracks, all in one playlist.
 
 66 songs - 2 hr 39 min
 

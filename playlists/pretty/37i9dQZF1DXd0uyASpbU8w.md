@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=jCfhU1x4RYKwqWmmMQUXmw">Manana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,092 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,156 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 42 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 |
 | 43 | [Need2know](https://open.spotify.com/track/2wUYQxwYhrxIo6yn0uRX7b) | [Chaise Williams](https://open.spotify.com/artist/668KBQvDxcLtxXqpEtdD3z) | [Inception](https://open.spotify.com/album/6XdcAii9sbIpxIFroBw5ky) | 2:46 |
 | 44 | [BABA](https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [BABA](https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD) | 2:07 |
-| 45 | [Dali Wam \- feat\. Aubrey Qwana](https://open.spotify.com/track/70QDS1Ld2evBQ5dO7RKB2Q) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/album/3utcz0fYHOkANlpZmZTHa1) | 3:04 |
+| 45 | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/track/70QDS1Ld2evBQ5dO7RKB2Q) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Dali Wam \(feat\. Aubrey Qwana\)](https://open.spotify.com/album/3utcz0fYHOkANlpZmZTHa1) | 3:04 |
 | 46 | [Shhh](https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Shhh](https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf) | 2:23 |
 | 47 | [Juluka](https://open.spotify.com/track/4wPZNhlSMqyKtdPG20Zt6f) | [Matutu Nyabange](https://open.spotify.com/artist/0eT1Ko0Tt6T5Bk927HJrsD), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Juluka](https://open.spotify.com/album/5d6q85ACjQVZGtzOzShpQc) | 3:38 |
 | 48 | [Echoes](https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Jordan Arts](https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ) | [Echoes](https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj) | 4:55 |

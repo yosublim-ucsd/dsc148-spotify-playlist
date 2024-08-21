@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 53878,
+  "num_followers": 53936,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "I Ain't a Gamblin' Woman, I Got Such-A Rowdy Ways",
         "url": "https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 195586,
       "name": "It's Tight Like That",
       "url": "https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
+        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
+      },
+      "artists": [
+        {
+          "name": "Blue Lu Barker",
+          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
+        }
+      ],
+      "duration_ms": 134240,
+      "name": "A Little Bird Told Me",
+      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Blues Book and Beyond",
         "url": "https://open.spotify.com/album/7s8fUmFH40RAHThrPdx57E"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 240760,
       "name": "Bad Spell Blues",
       "url": "https://open.spotify.com/track/0GzE9pIJApHUOohOTGplUW"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Capitol Records From The Vaults: \"Vine Street Divas\"",
-        "url": "https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw"
-      },
-      "artists": [
-        {
-          "name": "Blue Lu Barker",
-          "url": "https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ"
-        }
-      ],
-      "duration_ms": 134240,
-      "name": "A Little Bird Told Me",
-      "url": "https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Hot Boppin Girls Vol. 1",
-        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Baby, Baby , Every Night",
-      "url": "https://open.spotify.com/track/5E8cETW5TJM4i2dttCI2Iw"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Bertha \"Chippie\" Hill 1925-1929",
         "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 164624,
       "name": "Trouble In Mind (9510)",
       "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Hot Boppin Girls Vol. 1",
+        "url": "https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 142080,
+      "name": "Baby, Baby , Every Night",
+      "url": "https://open.spotify.com/track/5E8cETW5TJM4i2dttCI2Iw"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Sings... Me And The Blues",
+        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
+      },
+      "artists": [
+        {
+          "name": "Mildred Bailey",
+          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Don't Worry 'Bout Strangers",
+      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "The Victoria Spivey Collection 1926-27",
         "url": "https://open.spotify.com/album/5olLgL3yqz7EBV3VXxZwfe"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 196453,
       "name": "Funny Feathers",
       "url": "https://open.spotify.com/track/2tz4e68Y8dbTo8oGL7DR99"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Sings... Me And The Blues",
-        "url": "https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u"
-      },
-      "artists": [
-        {
-          "name": "Mildred Bailey",
-          "url": "https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Don't Worry 'Bout Strangers",
-      "url": "https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Those Dirty Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
-      },
-      "artists": [
-        {
-          "name": "Hattie North & Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Honey Dripper Blues",
-      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Territory Singers Vol. 1 (1922-1928)",
         "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Raunchy Business: Hot Nuts & Lollypops",
-        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+        "name": "Those Dirty Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
       },
       "artists": [
         {
-          "name": "Bernice Edwards",
-          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+          "name": "Hattie North & Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Butcher Shop Blues",
-      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
+      "duration_ms": 205000,
+      "name": "Honey Dripper Blues",
+      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -975,6 +959,22 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Raunchy Business: Hot Nuts & Lollypops",
+        "url": "https://open.spotify.com/album/3cROUoUhbx4nqE1dUyYadx"
+      },
+      "artists": [
+        {
+          "name": "Bernice Edwards",
+          "url": "https://open.spotify.com/artist/7cJROigYPhe94mk64bXOKA"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Butcher Shop Blues",
+      "url": "https://open.spotify.com/track/3r4yrl1dkGdMFfd6xfXZqr"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Downhearted Blues",
-        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
-      },
-      "artists": [
-        {
-          "name": "Alberta Hunter",
-          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "My Castle's Rocking",
-      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "East and West Blues",
         "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 206240,
       "name": "East and West Blues",
       "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Downhearted Blues",
+        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
+      },
+      "artists": [
+        {
+          "name": "Alberta Hunter",
+          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
+        }
+      ],
+      "duration_ms": 151262,
+      "name": "My Castle's Rocking",
+      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
     },
     {
       "added_at": "2024-06-02 16:39:20",

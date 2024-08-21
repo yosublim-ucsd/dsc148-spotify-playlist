@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Nerd Connection(\ub108\ub4dc\ucee4\ub125\uc158)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238531,
+  "num_followers": 238506,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "light",
-        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225949,
-      "name": "light",
-      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 180360,
       "name": "Rock with you",
       "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
+        "name": "light",
+        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225949,
+      "name": "light",
+      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 190120,
-      "name": "2 MINUS 1 (Bonus Track)",
-      "url": "https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 219453,
       "name": "WAY 4 LUV",
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "2 MINUS 1 (Bonus Track)",
+      "url": "https://open.spotify.com/track/6o2Pu5qZcinw4mlDlQZFqu"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "OO-LI",
-        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
       },
       "artists": [
         {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 244986,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+      "duration_ms": 114380,
+      "name": "zombie pop",
+      "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 114380,
-      "name": "zombie pop",
-      "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
         "name": "Golden Hour - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
       },
@@ -1067,34 +1083,18 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
+        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 153546,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Good Bones",
-      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
+      "duration_ms": 188532,
+      "name": "We Go",
+      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "Pok\u00e9mon 2023 (Original TV Series Soundtrack, Korea)",
-        "url": "https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 188532,
-      "name": "We Go",
-      "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
+      "duration_ms": 160001,
+      "name": "Good Bones",
+      "url": "https://open.spotify.com/track/4UXmlYr1AbcsWsIbrUz2DC"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -1147,38 +1147,6 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "1st Single Album 'Harmony from Discord'",
-        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 167800,
-      "name": "Discord",
-      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 237512,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
         "name": "ASTERUM : The Shape of Things to Come",
         "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
       },
@@ -1195,22 +1163,18 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "Lips (Feat. GISELLE)",
-        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+        "name": "1st Single Album 'Harmony from Discord'",
+        "url": "https://open.spotify.com/album/0AmeepTU81c9ghVpJpacNc"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "GISELLE",
-          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 182693,
-      "name": "Lips (Feat. GISELLE)",
-      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
+      "duration_ms": 167800,
+      "name": "Discord",
+      "url": "https://open.spotify.com/track/2kTKlEtnGx5z8oi4O06yqC"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -1231,6 +1195,22 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
         "name": "NAN CHUN",
         "url": "https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 229493,
       "name": "NAN CHUN",
       "url": "https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
+        "name": "Lips (Feat. GISELLE)",
+        "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Lips (Feat. GISELLE)",
+      "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
     },
     {
       "added_at": "2024-08-14 09:21:59",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-14 09:21:59",
       "album": {
-        "name": "better (with you)",
-        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
-      },
-      "artists": [
-        {
-          "name": "Crying City",
-          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "better (with you)",
-      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
-    },
-    {
-      "added_at": "2024-08-14 09:21:59",
-      "album": {
         "name": "Peanut Butter & Tears",
         "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 225613,
       "name": "Peanut Butter & Tears",
       "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
+      "added_at": "2024-08-14 09:21:59",
+      "album": {
+        "name": "better (with you)",
+        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "better (with you)",
+      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
     },
     {
       "added_at": "2024-08-14 09:21:59",

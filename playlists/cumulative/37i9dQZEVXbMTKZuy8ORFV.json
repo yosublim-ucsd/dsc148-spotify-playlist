@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 164019,
       "name": "Alokate Remake",
       "url": "https://open.spotify.com/track/4gHUh2QgNXZ7uRBJDCY4jp"
@@ -3487,6 +3487,28 @@
     },
     {
       "album": {
+        "name": "El Pron\u00f3stico",
+        "url": "https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "KINGTO",
+          "url": "https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128793,
+      "name": "El Pron\u00f3stico",
+      "url": "https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj"
+    },
+    {
+      "album": {
         "name": "EL RITMO QUE NOS UNE (feat. Selecci\u00f3n Colombia)",
         "url": "https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR"
       },
@@ -4444,6 +4466,28 @@
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
+    },
+    {
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
       "album": {
@@ -7291,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "misa",
+      "url": "https://open.spotify.com/track/6AebAAfoIjSRsARv6p05kS"
+    },
+    {
+      "album": {
         "name": "Mix #3 - Cumbias Cl\u00e1sicas",
         "url": "https://open.spotify.com/album/7tjUtVW3X0RIPxnEdOC2BL"
       },
@@ -8421,7 +8483,7 @@
     },
     {
       "album": {
-        "name": "Owaie (Remix)",
+        "name": "Owaie - Remix",
         "url": "https://open.spotify.com/album/5HBsgwD7wZtj9Y80IJ0JT9"
       },
       "artists": [
@@ -8468,7 +8530,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 82888,
       "name": "PALMTREE PANIC FUNK - SLOWED",
       "url": "https://open.spotify.com/track/1nYEnMxCbdbCHIyFJlAkYT"
@@ -8974,7 +9036,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 269967,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/2hEQ4kbGvQvjyTwMFhA1IW"
@@ -9720,6 +9782,24 @@
     {
       "album": {
         "name": "Se Paciente Funk",
+        "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
+      },
+      "artists": [
+        {
+          "name": "RD12",
+          "url": "https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69360,
+      "name": "Se Paciente Funk",
+      "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
+    },
+    {
+      "album": {
+        "name": "Se Paciente Funk",
         "url": "https://open.spotify.com/album/4YQ0BjVwg7JSgQQtYdhZyG"
       },
       "artists": [
@@ -9730,7 +9810,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 69408,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/6xhK3stUJokdXo1DLysNSG"
@@ -11594,7 +11674,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 170480,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
@@ -12698,7 +12778,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

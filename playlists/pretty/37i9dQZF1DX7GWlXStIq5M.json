@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Thiago Pantale\u00e3o",
-  "num_followers": 372226,
+  "num_followers": 372200,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-19 12:03:16",
       "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 128904,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
-    },
-    {
-      "added_at": "2024-08-19 12:03:16",
-      "album": {
         "name": "me ama",
         "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 226461,
       "name": "me ama",
       "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-19 12:03:16",
+      "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 128904,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
     },
     {
       "added_at": "2024-08-19 12:03:16",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2024-08-19 12:03:16",
       "album": {
-        "name": "Love Songs, Vol. I",
-        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "BRUN\u00ca",
-          "url": "https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf"
-        },
-        {
-          "name": "DeVito Cxrleone",
-          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "me chama de sua",
-      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
-    },
-    {
-      "added_at": "2024-08-19 12:03:16",
-      "album": {
         "name": "Motoka",
         "url": "https://open.spotify.com/album/6wCyXnbVXPD8K003F0LN7o"
       },
@@ -1375,6 +1351,30 @@
       "duration_ms": 190451,
       "name": "Sussurro",
       "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
+    },
+    {
+      "added_at": "2024-08-19 12:03:16",
+      "album": {
+        "name": "Love Songs, Vol. I",
+        "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "BRUN\u00ca",
+          "url": "https://open.spotify.com/artist/5h3hEweoebaD7dHjZEmKRf"
+        },
+        {
+          "name": "DeVito Cxrleone",
+          "url": "https://open.spotify.com/artist/6VrY01U9G7eJtIFlvG4U0k"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "me chama de sua",
+      "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
     },
     {
       "added_at": "2024-08-19 12:03:16",

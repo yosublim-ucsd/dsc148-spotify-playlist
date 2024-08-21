@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Sarah Farias
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,008 likes - 48 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,029 likes - 48 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Se Eu Não Te Ouvir \(Ao Vivo\)](https://open.spotify.com/track/1zyzcVyPYVc5alVtFBrqsr) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Se Eu Não Te Ouvir \(Ao Vivo\)](https://open.spotify.com/album/7q77ETL1tlmUk88UMzJWhJ) | 6:29 |
-| 2 | [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 |
+| 2 | [Canção de Paulo \(Ao Vivo\)](https://open.spotify.com/track/5tDZvfCT14AJW5sM1t81iD) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \- Ao Vivo](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 8:43 |
 | 3 | [Merecedor da Glória \(Ao Vivo\)](https://open.spotify.com/track/6KrMGcI7P8lZIGMlqYeJC9) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Merecedor da Glória \(Ao Vivo\)](https://open.spotify.com/album/685P0MAJpj5RjRDpAGSstK) | 6:18 |
 | 4 | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn) | 5:41 |
 | 5 | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/track/5kxgGsQDEgZDNyPTMIJfeQ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Não Perdi o Controle \(Ao Vivo\)](https://open.spotify.com/album/3Agi6xUND9PMIhi9CJRqwv) | 6:21 |

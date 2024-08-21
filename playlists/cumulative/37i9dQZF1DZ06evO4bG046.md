@@ -2,7 +2,7 @@
 
 ### [This Is Los Jaivas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bG046)
 
-> This is Los Jaivas\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Los Jaivas\. Los temas esenciales, todos en una lista.
 
 78 songs - 6 hr 59 min
 

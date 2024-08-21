@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Sarsa
 
-125 songs - 5 hr 55 min
+126 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 | 2024-07-01 | 2024-07-19 |
 | [Bilet](https://open.spotify.com/track/6uDRdQUVkjtfTCmEa6Twwk) | [B.R.O](https://open.spotify.com/artist/1JsnraXeS2KK3dgwNR9ARf) | [Bilet](https://open.spotify.com/album/5DR5gLvBrjJ2ie604s9hlh) | 3:08 | 2024-07-01 |  |
 | [BOŻE](https://open.spotify.com/track/4ybFdtL0pGWiWA0Wk46de5) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [BOŻE](https://open.spotify.com/album/1pbMlF0R9bgSR8Txa21oYk) | 3:51 | 2024-08-01 |  |
-| [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-03 |  |
+| [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 | 2024-08-03 | 2024-08-21 |
 | [było, minęło](https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [było, minęło](https://open.spotify.com/album/77oL0Jtei9L3GH0tMCFwEy) | 3:27 | 2024-07-01 |  |
 | [Całkiem Nowa Bajka](https://open.spotify.com/track/33zbrcm0cYIxT5YvEGlFDl) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot) | [Akademia Pana Kleksa](https://open.spotify.com/album/2Hdq5qEy07Yod6p8h4XKWA) | 3:13 | 2024-07-01 | 2024-08-09 |
 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 | 2024-07-01 |  |
@@ -51,6 +51,7 @@
 | [HIFI \(7 bieg\)](https://open.spotify.com/track/21radxZ4Xh5Zsq9lQ9hEs1) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [HIFI \(7 bieg\)](https://open.spotify.com/album/5PQEWjHpXnBiKuwzGa3XMD) | 2:30 | 2024-07-01 | 2024-07-05 |
 | [hip hip hura!](https://open.spotify.com/track/5uSsPBP88T6OIYvh9hrSfy) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [hip hip hura!](https://open.spotify.com/album/5LKVRhKcPjWbvYP9s7udQW) | 4:11 | 2024-07-01 | 2024-07-12 |
 | [HIPOTERMIA](https://open.spotify.com/track/2UQSuWbKpUJskj0iZJheNk) | [Jędrek Wołodko](https://open.spotify.com/artist/7rt0rSs6YpqXyysiIeKVYC), [FANTØM](https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5) | [HIPOTERMIA](https://open.spotify.com/album/03ebEVHZaZfKq30Xd1gDiE) | 3:04 | 2024-07-18 | 2024-07-27 |
+| [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 | 2024-08-20 |  |
 | [I że czuje się sam](https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN), [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [I że czuje się sam](https://open.spotify.com/album/0q1hihxl4GD0e0vY9bext6) | 3:04 | 2024-07-01 |  |
 | [Ile Dać Mam](https://open.spotify.com/track/3gvJeMSwp2UUnibGpmdIhh) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Ile Dać Mam](https://open.spotify.com/album/3FOwkmBHiI1FpgMhrNsJW1) | 2:48 | 2024-07-04 |  |
 | [Jagódki](https://open.spotify.com/track/6IH3TcUxcBztLYHzbQW95h) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tulia](https://open.spotify.com/artist/6w79TLiOorVtyvGHMUrOo0) | [Jagódki](https://open.spotify.com/album/0KatkXj21vGifdy02PWdoT) | 2:08 | 2024-07-01 | 2024-07-19 |

@@ -1163,6 +1163,24 @@
     },
     {
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307720,
+      "name": "Las Razones Del Amor",
+      "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
+    },
+    {
+      "album": {
         "name": "Ave Libre",
         "url": "https://open.spotify.com/album/0Wx044oRIRg2kvaJ6H9rsn"
       },
@@ -1442,7 +1460,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"

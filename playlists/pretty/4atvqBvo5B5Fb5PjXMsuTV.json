@@ -1,13 +1,245 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Aug 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Aug 22:02 UTC.",
   "num_followers": 82,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKkAuWL6HJENnMOh/siz5NMPjjmDWm",
+  "snapshot_id": "AAAKmLM0NFoQLZnEsSYMDtdHt27NAr/Y",
   "tracks": [
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "WASSUP",
+        "url": "https://open.spotify.com/album/3gmte9lmQeaPGmdnh7ozZo"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "duration_ms": 141408,
+      "name": "WASSUP",
+      "url": "https://open.spotify.com/track/4LD1zmE7aqBhs8RKIdTNTs"
+    },
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "\u304c\u3089\u304f\u305f - JUNK",
+        "url": "https://open.spotify.com/album/3wIUPMiiPL8foXfJjddZvP"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "\u304c\u3089\u304f\u305f - JUNK",
+      "url": "https://open.spotify.com/track/3KBlutfYq0kxQWl2P9t4Ht"
+    },
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
+    },
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "Silver Cloud",
+        "url": "https://open.spotify.com/album/2RHGK1UjQVqM10Qn06Rnww"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 188399,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2"
+    },
+    {
+      "added_at": "2024-08-20 16:03:21",
+      "album": {
+        "name": "Pump Up The Volume!",
+        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Pump Up The Volume!",
+      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
+    },
+    {
+      "added_at": "2024-08-20 10:03:27",
+      "album": {
+        "name": "any means",
+        "url": "https://open.spotify.com/album/5i1VVytMaXlk25P00MJN24"
+      },
+      "artists": [
+        {
+          "name": "Balance And Composure",
+          "url": "https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3"
+        }
+      ],
+      "duration_ms": 217602,
+      "name": "any means",
+      "url": "https://open.spotify.com/track/1nZcuVhLTqeX0NZOcpFCKU"
+    },
+    {
+      "added_at": "2024-08-20 10:03:27",
+      "album": {
+        "name": "Two Afternoons",
+        "url": "https://open.spotify.com/album/5TPYlOYwrZABLehLONy4D9"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "duration_ms": 516226,
+      "name": "Two Afternoons",
+      "url": "https://open.spotify.com/track/3oJzuyFbbmGUWO5EYDbOJ6"
+    },
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "bishop ford II",
+        "url": "https://open.spotify.com/album/4vFlnsESD31ovUPNk1Hc94"
+      },
+      "artists": [
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "duration_ms": 122790,
+      "name": "bishop ford II",
+      "url": "https://open.spotify.com/track/70GpBzNBOV6etGYJxop0GP"
+    },
+    {
+      "added_at": "2024-08-20 04:03:55",
+      "album": {
+        "name": "Masc",
+        "url": "https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "duration_ms": 249280,
+      "name": "Masc",
+      "url": "https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze"
+    },
+    {
+      "added_at": "2024-08-20 10:03:27",
+      "album": {
+        "name": "KURSE OF KHARTOUM",
+        "url": "https://open.spotify.com/album/5L93fYPv9QwOTs68PdmtpB"
+      },
+      "artists": [
+        {
+          "name": "Tanger",
+          "url": "https://open.spotify.com/artist/77JLoURVdxC8jnr3DPY05x"
+        },
+        {
+          "name": "Boom Kitty",
+          "url": "https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR"
+        },
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        }
+      ],
+      "duration_ms": 200909,
+      "name": "KURSE OF KHARTOUM",
+      "url": "https://open.spotify.com/track/0cUdOBgoRVOUVbxYzwfI7F"
+    },
+    {
+      "added_at": "2024-08-20 16:03:21",
+      "album": {
+        "name": "born with power",
+        "url": "https://open.spotify.com/album/0oeAHa0oWwBEVRS8oRYg6K"
+      },
+      "artists": [
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "born with power",
+      "url": "https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc"
+    },
+    {
+      "added_at": "2024-08-20 04:03:55",
+      "album": {
+        "name": "I Trusted You",
+        "url": "https://open.spotify.com/album/0eU6AOpEA8TEmXZXrUY2lS"
+      },
+      "artists": [
+        {
+          "name": "Gustaf",
+          "url": "https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E"
+        }
+      ],
+      "duration_ms": 255338,
+      "name": "I Trusted You",
+      "url": "https://open.spotify.com/track/6aq1hwOHwc8kWXRyZNB1Ht"
+    },
+    {
+      "added_at": "2024-08-20 16:03:21",
+      "album": {
+        "name": "BOOOOOORING",
+        "url": "https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg"
+      },
+      "artists": [
+        {
+          "name": "babyMINT",
+          "url": "https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "BOOOOOORING",
+      "url": "https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc"
+    },
+    {
+      "added_at": "2024-08-20 22:02:58",
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Tommy",
+      "url": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
+    },
     {
       "added_at": "2024-08-19 16:03:11",
       "album": {
@@ -651,242 +883,6 @@
       "duration_ms": 179501,
       "name": "Native Sons",
       "url": "https://open.spotify.com/track/3YDmNOQIFqRGG2V6JNvhb6"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "GH2024",
-        "url": "https://open.spotify.com/album/55rjAYZFKdoVU7ll2iTunO"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 456353,
-      "name": "GH2024",
-      "url": "https://open.spotify.com/track/5xAYZq7JusbSkmsKnORLSN"
-    },
-    {
-      "added_at": "2024-08-16 16:03:02",
-      "album": {
-        "name": "Sweep It Up",
-        "url": "https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 197958,
-      "name": "Sweep It Up",
-      "url": "https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t"
-    },
-    {
-      "added_at": "2024-08-16 22:03:03",
-      "album": {
-        "name": "Mr. Bubbles",
-        "url": "https://open.spotify.com/album/4VNYFZKOuYK8O9dwQVpyB9"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 158871,
-      "name": "Mr. Bubbles",
-      "url": "https://open.spotify.com/track/7A5x8fsxuIZhiTV3grJDYD"
-    },
-    {
-      "added_at": "2024-08-16 16:03:02",
-      "album": {
-        "name": "Down To You",
-        "url": "https://open.spotify.com/album/0EKCwHyid21UjLBPbsYW5s"
-      },
-      "artists": [
-        {
-          "name": "Marianas Trench",
-          "url": "https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR"
-        }
-      ],
-      "duration_ms": 147886,
-      "name": "Down To You",
-      "url": "https://open.spotify.com/track/6xwNNvcmwj9fG5E3RUw4TL"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "SAD KIDS",
-        "url": "https://open.spotify.com/album/7BVnanvuTGAIKmtSaG8v88"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "SAD KIDS",
-      "url": "https://open.spotify.com/track/4Byz072ns7kJTnxVY4Q8CQ"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "BB",
-        "url": "https://open.spotify.com/album/4jH4igAc5gQrkoXs81LDaX"
-      },
-      "artists": [
-        {
-          "name": "LIL KRYSTALLL",
-          "url": "https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA"
-        }
-      ],
-      "duration_ms": 112765,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/1TjWJKvvlKdKXSGgx8fUvZ"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "J\u00e4nner",
-        "url": "https://open.spotify.com/album/1YN7XY2z04z8BmtSbHE9Qs"
-      },
-      "artists": [
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        }
-      ],
-      "duration_ms": 152835,
-      "name": "J\u00e4nner",
-      "url": "https://open.spotify.com/track/05uSa0qi1vy6ClsPrPxmgk"
-    },
-    {
-      "added_at": "2024-08-16 10:03:05",
-      "album": {
-        "name": "Spezial Mode",
-        "url": "https://open.spotify.com/album/4FhUA7PHsCBeFpckMJjAew"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 135558,
-      "name": "Spezial Mode",
-      "url": "https://open.spotify.com/track/6hSNW0WbxVl6kLOXopTO5e"
-    },
-    {
-      "added_at": "2024-08-16 22:03:03",
-      "album": {
-        "name": "Warm It Up, K.A.A.N.",
-        "url": "https://open.spotify.com/album/3zZoJn7LHiOiO4TjdRFlQG"
-      },
-      "artists": [
-        {
-          "name": "K.A.A.N.",
-          "url": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
-        },
-        {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        }
-      ],
-      "duration_ms": 123050,
-      "name": "Warm It Up, K.A.A.N.",
-      "url": "https://open.spotify.com/track/0v4NmbyBuZ4L9QN6UHdIGH"
-    },
-    {
-      "added_at": "2024-08-16 16:03:02",
-      "album": {
-        "name": "Madhouse",
-        "url": "https://open.spotify.com/album/2LkAUpW4iMdRhDCKOnHwIw"
-      },
-      "artists": [
-        {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Madhouse",
-      "url": "https://open.spotify.com/track/6fncL94phV8WHdIiQSmNLC"
-    },
-    {
-      "added_at": "2024-08-16 16:03:02",
-      "album": {
-        "name": "Pok\u00e9mon Smash or Pass",
-        "url": "https://open.spotify.com/album/7x6z0YSijoFJqQhKIhAZe9"
-      },
-      "artists": [
-        {
-          "name": "Starbomb",
-          "url": "https://open.spotify.com/artist/1DLBs2535MM32RYqirYYY4"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "Pok\u00e9mon Smash or Pass",
-      "url": "https://open.spotify.com/track/0DH6xKuXR5ZQkeAEWtZtsi"
-    },
-    {
-      "added_at": "2024-08-16 10:03:05",
-      "album": {
-        "name": "bloCCeNergy",
-        "url": "https://open.spotify.com/album/2LukOFNNXHS71U5rFZGLXw"
-      },
-      "artists": [
-        {
-          "name": "Fler",
-          "url": "https://open.spotify.com/artist/75ctWsRuGXmxMxnFPkuEwA"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "bloCCeNergy",
-      "url": "https://open.spotify.com/track/4lE8KQ4cS4JJCUljfxMdj5"
-    },
-    {
-      "added_at": "2024-08-16 04:04:28",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/3me9thHbtjc4oj9nKmNYHG"
-      },
-      "artists": [
-        {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 233190,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/55qMAQxnxF1chuekaqOwoJ"
     }
   ],
   "unique_name": "New Singles Now",

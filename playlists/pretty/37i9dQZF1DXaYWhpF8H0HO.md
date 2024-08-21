@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ramengvrl, Awich
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,686 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,688 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 44 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 |
 | 45 | [Do Right Baby!](https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Do Right Baby!](https://open.spotify.com/album/0lOMc60o5tKvGONQttYUNi) | 4:53 |
 | 46 | [Lean on a Friend](https://open.spotify.com/track/02ilB5DYOmrAauOgORODcY) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Lean on a Friend](https://open.spotify.com/album/3AySg2p6QXJFkUV8xbKjRP) | 3:27 |
-| 47 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 |
+| 47 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/2FyRWlpFXQPdq4JRaKLXS9), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 |
 | 48 | [I Lost My Smile Somewhere](https://open.spotify.com/track/1ybhaeNtQgVNbUIuptwWK7) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [I Lost My Smile Somewhere](https://open.spotify.com/album/5t2pmhhIT4hZ6cCfhWZ8XS) | 3:21 |
 | 49 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 |
 | 50 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 |

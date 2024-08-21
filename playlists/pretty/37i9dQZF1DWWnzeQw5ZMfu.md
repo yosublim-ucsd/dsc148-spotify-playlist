@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,621 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,628 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 35 | [betty \- Live from the 2020 Academy of Country Music Awards](https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [betty \(Live from the 2020 Academy of Country Music Awards\)](https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL) | 5:12 |
 | 36 | [Freedom! '90 \- Live from MTV Unplugged, 1996](https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:02 |
 | 37 | [I See Fire \- Live and in Session](https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:45 |
-| 38 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
-| 39 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |
+| 38 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |
+| 39 | [My Heart Will Go On \(Live in Quebec City\) \- Live from Quebec City, Canada \- July 2013](https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Céline..\. Une seule fois / Live 2013](https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL) | 6:41 |
 | 40 | [Nothing Breaks Like a Heart \- Live](https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2) | 3:54 |
 | 41 | [Hung Up \- Live](https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Confessions Tour \(Live\)](https://open.spotify.com/album/0tZyRisNOqyEjioXosI3Lm) | 9:50 |
 | 42 | [Stay With Me \- Live From The Royal Albert Hall](https://open.spotify.com/track/41qam5MCYe9vBnSmX3FeOH) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Gloria \(Special Edition\)](https://open.spotify.com/album/5BNUgsVK7qqfFnV046qHfW) | 4:13 |

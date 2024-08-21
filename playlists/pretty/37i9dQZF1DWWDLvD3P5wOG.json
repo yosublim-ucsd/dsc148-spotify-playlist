@@ -1,6 +1,6 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 656689,
+  "num_followers": 656953,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Mr. Brooks...A Better Tomorrow",
-        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "So Special",
-      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Pon Di Gaza 2.0",
         "url": "https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176733,
       "name": "Gal a Weh Do You",
       "url": "https://open.spotify.com/track/0a4zxSLBnluX4aNHlBQWcn"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Bruck It Down - Single",
-        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 171003,
-      "name": "Bruck It Down",
-      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Riddim Driven: Gully Slime",
         "url": "https://open.spotify.com/album/0kpVC3GfFWpsgwQOE1dXH8"
       },
@@ -823,34 +807,18 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Best Of (collector's Edition)",
-        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
+        "name": "Bruck It Down - Single",
+        "url": "https://open.spotify.com/album/20KyXVYGHLkIhxbKuq83Zu"
       },
       "artists": [
         {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 226426,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2ErgYGo9t7cDrJCQw3VIDy"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Text Message - single",
-        "url": "https://open.spotify.com/album/6KS4EHKeEUyuxG8G1DOWbd"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 177834,
-      "name": "Text Message",
-      "url": "https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa"
+      "duration_ms": 171003,
+      "name": "Bruck It Down",
+      "url": "https://open.spotify.com/track/3dkyEOVeime8KWl1WicuPM"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -871,6 +839,38 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Text Message - single",
+        "url": "https://open.spotify.com/album/6KS4EHKeEUyuxG8G1DOWbd"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 177834,
+      "name": "Text Message",
+      "url": "https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Best Of (collector's Edition)",
+        "url": "https://open.spotify.com/album/43leIoAGMe8wnHSpid198y"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 226426,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2ErgYGo9t7cDrJCQw3VIDy"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Stukie - EP",
         "url": "https://open.spotify.com/album/54FJbfg7KSQCJAMkFPHUXn"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 157400,
       "name": "Stukie",
       "url": "https://open.spotify.com/track/2G55si1hdJpWe9XgaeRV25"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "The Biggest Ragga Dancehall Anthems 2007",
-        "url": "https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Tek Weh Yuhself",
-      "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -951,22 +935,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Loaded",
-        "url": "https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Wine Pon Di Edge",
-      "url": "https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Dutty Rock",
         "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 273360,
       "name": "I'm Still in Love with You (feat. Sasha)",
       "url": "https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Loaded",
+        "url": "https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Wine Pon Di Edge",
+      "url": "https://open.spotify.com/track/2nDStKSqTRrWF7vyrvvodA"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "The Biggest Ragga Dancehall Anthems 2007",
+        "url": "https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Tek Weh Yuhself",
+      "url": "https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Heads High",
-        "url": "https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Heads High",
-      "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Phantom 2",
         "url": "https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Gimme the Light",
+      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/6brBB1nDTrEbxJV8G5X9OQ"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+        "name": "Heads High",
+        "url": "https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Gimme the Light",
-      "url": "https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u"
+      "duration_ms": 211440,
+      "name": "Heads High",
+      "url": "https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1195,6 +1195,22 @@
       "duration_ms": 189013,
       "name": "Bend Ova",
       "url": "https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Dutty Rock",
+        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Salty Tic Toc",
-        "url": "https://open.spotify.com/album/64R2rPPNSGSVm7ymfkBHNj"
-      },
-      "artists": [
-        {
-          "name": "Yerry Solis",
-          "url": "https://open.spotify.com/artist/0o27gCzpkI7eC8Zrg1zsxI"
-        }
-      ],
-      "duration_ms": 207491,
-      "name": "Salty Tic Toc",
-      "url": "https://open.spotify.com/track/3pYhnleytseeXteG94ywqR"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
         "name": "Kotch - Single",
         "url": "https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 195317,
       "name": "Kotch",
       "url": "https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
+        "name": "Salty Tic Toc",
+        "url": "https://open.spotify.com/album/64R2rPPNSGSVm7ymfkBHNj"
+      },
+      "artists": [
+        {
+          "name": "Yerry Solis",
+          "url": "https://open.spotify.com/artist/0o27gCzpkI7eC8Zrg1zsxI"
+        }
+      ],
+      "duration_ms": 207491,
+      "name": "Salty Tic Toc",
+      "url": "https://open.spotify.com/track/3pYhnleytseeXteG94ywqR"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Dutty Rock",
-        "url": "https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as"
+        "name": "The Biggest Ragga Dancehall Anthems 2006",
+        "url": "https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Mr. Vegas",
+          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae"
+      "duration_ms": 167560,
+      "name": "Hot Fuk / Hot Wuk",
+      "url": "https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1327,22 +1343,6 @@
       "duration_ms": 194420,
       "name": "Always",
       "url": "https://open.spotify.com/track/0NDuu5F9yTpA0tw3gzrzOo"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "The Biggest Ragga Dancehall Anthems 2006",
-        "url": "https://open.spotify.com/album/5A2hQZdDkGVEqbE9ciEhPT"
-      },
-      "artists": [
-        {
-          "name": "Mr. Vegas",
-          "url": "https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "Hot Fuk / Hot Wuk",
-      "url": "https://open.spotify.com/track/5ybmNlxt7WB6VglgvUvQ93"
     },
     {
       "added_at": "2024-08-05 20:38:42",

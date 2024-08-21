@@ -1,32 +1,88 @@
 {
-  "description": "Discover new Punjabi artists! Cover: Diljot Mavi",
-  "num_followers": 1947,
+  "description": "Discover new Punjabi artists! Cover: Preet Sidhu",
+  "num_followers": 1957,
   "original_name": "Fresh Finds Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrLwhQAAAABTtE1QtZmtkr61+PRshhey",
+  "snapshot_id": "ZsTh1AAAAABjwSlbIRu4vdR0f74zHuj3",
   "tracks": [
     {
-      "added_at": "2024-08-07 03:56:53",
+      "added_at": "2024-08-20 18:35:00",
       "album": {
-        "name": "Challa",
-        "url": "https://open.spotify.com/album/0vrCMhN4z8gASZ1B39gqrh"
+        "name": "Kurte Pajame",
+        "url": "https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc"
       },
       "artists": [
         {
-          "name": "Diljot Mavi",
-          "url": "https://open.spotify.com/artist/4KjMby3WwsuFNQVaqrKYkb"
-        },
-        {
-          "name": "Starboy X",
-          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+          "name": "Preet Sidhu",
+          "url": "https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Challa",
-      "url": "https://open.spotify.com/track/6kta0W2IeAUt9kNYX4Yf5R"
+      "duration_ms": 190475,
+      "name": "Kurte Pajame",
+      "url": "https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB"
+      },
+      "artists": [
+        {
+          "name": "SAHIL CHEEMA",
+          "url": "https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6"
+        }
+      ],
+      "duration_ms": 181458,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
+      },
+      "artists": [
+        {
+          "name": "Shahat Gill",
+          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "duration_ms": 114193,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "900TASK",
+        "url": "https://open.spotify.com/album/4Bzqv6N0EBpQcycY7PtPyq"
+      },
+      "artists": [
+        {
+          "name": "JASKARAN",
+          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
+        },
+        {
+          "name": "dox",
+          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
+        },
+        {
+          "name": "Karigar",
+          "url": "https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k"
+        }
+      ],
+      "duration_ms": 216086,
+      "name": "900TASK",
+      "url": "https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E"
     },
     {
       "added_at": "2024-08-07 03:56:53",
@@ -47,6 +103,118 @@
       "duration_ms": 165333,
       "name": "Att",
       "url": "https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Pyaar Jeha",
+        "url": "https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB"
+      },
+      "artists": [
+        {
+          "name": "Jaby",
+          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Pyaar Jeha",
+      "url": "https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM"
+      },
+      "artists": [
+        {
+          "name": "Amninder Bugga",
+          "url": "https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Daaka",
+        "url": "https://open.spotify.com/album/5ptGgx2VMoUZUAKjd1mxsK"
+      },
+      "artists": [
+        {
+          "name": "Arav Sidhu",
+          "url": "https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        },
+        {
+          "name": "Gaiphy",
+          "url": "https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B"
+        }
+      ],
+      "duration_ms": 145647,
+      "name": "Daaka",
+      "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Munda Hot",
+        "url": "https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT"
+      },
+      "artists": [
+        {
+          "name": "Ravonlyy",
+          "url": "https://open.spotify.com/artist/4jxAIkgeW8CZnkMIOrAX9h"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Munda Hot",
+      "url": "https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": ".45",
+        "url": "https://open.spotify.com/album/2B1vtyORBPboQwicgZ7FRU"
+      },
+      "artists": [
+        {
+          "name": "Jagg",
+          "url": "https://open.spotify.com/artist/3E6TYBOXc2CTqTKz7WOyC5"
+        }
+      ],
+      "duration_ms": 158126,
+      "name": ".45",
+      "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "One Side",
+        "url": "https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1"
+      },
+      "artists": [
+        {
+          "name": "Jaby",
+          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
+        }
+      ],
+      "duration_ms": 169043,
+      "name": "One Side",
+      "url": "https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo"
     },
     {
       "added_at": "2024-08-07 03:56:53",
@@ -111,222 +279,6 @@
     {
       "added_at": "2024-08-07 03:56:53",
       "album": {
-        "name": "Daaka",
-        "url": "https://open.spotify.com/album/5ptGgx2VMoUZUAKjd1mxsK"
-      },
-      "artists": [
-        {
-          "name": "Arav Sidhu",
-          "url": "https://open.spotify.com/artist/3d0dIOz8qi6JggSHq6FECE"
-        },
-        {
-          "name": "Sargi Maan",
-          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
-        },
-        {
-          "name": "Gaiphy",
-          "url": "https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B"
-        }
-      ],
-      "duration_ms": 145647,
-      "name": "Daaka",
-      "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Let It Be",
-        "url": "https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U"
-      },
-      "artists": [
-        {
-          "name": "NADAR",
-          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
-        },
-        {
-          "name": "DaBrown",
-          "url": "https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC"
-        }
-      ],
-      "duration_ms": 214236,
-      "name": "Let It Be",
-      "url": "https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Munda Hot",
-        "url": "https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT"
-      },
-      "artists": [
-        {
-          "name": "Ravonlyy",
-          "url": "https://open.spotify.com/artist/4jxAIkgeW8CZnkMIOrAX9h"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Munda Hot",
-      "url": "https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK"
-      },
-      "artists": [
-        {
-          "name": "Shahat Gill",
-          "url": "https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV"
-        },
-        {
-          "name": "Kaptaan",
-          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
-        }
-      ],
-      "duration_ms": 114193,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/14vkIURua4zQpM11RG43A1"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "900TASK",
-        "url": "https://open.spotify.com/album/4Bzqv6N0EBpQcycY7PtPyq"
-      },
-      "artists": [
-        {
-          "name": "JASKARAN",
-          "url": "https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K"
-        },
-        {
-          "name": "dox",
-          "url": "https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4"
-        },
-        {
-          "name": "Karigar",
-          "url": "https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k"
-        }
-      ],
-      "duration_ms": 216086,
-      "name": "900TASK",
-      "url": "https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Pyaar Jeha",
-        "url": "https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB"
-      },
-      "artists": [
-        {
-          "name": "Jaby",
-          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Pyaar Jeha",
-      "url": "https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "MERCURY",
-        "url": "https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW"
-      },
-      "artists": [
-        {
-          "name": "Harkirat Sangha",
-          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
-        },
-        {
-          "name": "Starboy X",
-          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Chorni",
-      "url": "https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM"
-      },
-      "artists": [
-        {
-          "name": "Amninder Bugga",
-          "url": "https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL"
-        },
-        {
-          "name": "Prabh Bains",
-          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
-        },
-        {
-          "name": "Chet Singh",
-          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": ".45",
-        "url": "https://open.spotify.com/album/2B1vtyORBPboQwicgZ7FRU"
-      },
-      "artists": [
-        {
-          "name": "Jagg",
-          "url": "https://open.spotify.com/artist/3E6TYBOXc2CTqTKz7WOyC5"
-        }
-      ],
-      "duration_ms": 158126,
-      "name": ".45",
-      "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB"
-      },
-      "artists": [
-        {
-          "name": "SAHIL CHEEMA",
-          "url": "https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6"
-        }
-      ],
-      "duration_ms": 181458,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
-        "name": "One Side",
-        "url": "https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1"
-      },
-      "artists": [
-        {
-          "name": "Jaby",
-          "url": "https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ"
-        }
-      ],
-      "duration_ms": 169043,
-      "name": "One Side",
-      "url": "https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo"
-    },
-    {
-      "added_at": "2024-08-07 03:56:53",
-      "album": {
         "name": "Talks",
         "url": "https://open.spotify.com/album/1sPAmVit3DiX4xEaIeRZnF"
       },
@@ -387,6 +339,50 @@
       "duration_ms": 162666,
       "name": "Garari",
       "url": "https://open.spotify.com/track/4RrTO3ODMrBtIaCQ11PvlI"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "MERCURY",
+        "url": "https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW"
+      },
+      "artists": [
+        {
+          "name": "Harkirat Sangha",
+          "url": "https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Chorni",
+      "url": "https://open.spotify.com/track/0E5ZAOPHtBvDVJ7FwQHo9p"
+    },
+    {
+      "added_at": "2024-08-07 03:56:53",
+      "album": {
+        "name": "Let It Be",
+        "url": "https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U"
+      },
+      "artists": [
+        {
+          "name": "NADAR",
+          "url": "https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr"
+        },
+        {
+          "name": "DaBrown",
+          "url": "https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC"
+        }
+      ],
+      "duration_ms": 214236,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc"
     },
     {
       "added_at": "2024-08-07 03:56:53",

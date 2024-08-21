@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This is Engel Montaz\. The essential tracks, all in one playlist.
+> This Is Engel Montaz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,168 likes - 31 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,175 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 20 | [Olvidando el pasado](https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Olvidando el pasado](https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u) | 3:18 |
 | 21 | [El Puto Amo](https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [DJ 22](https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT) | [El Puto Amo](https://open.spotify.com/album/4ngKdCMeTk0YiwvN0AF73F) | 2:06 |
 | 22 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 |
-| 23 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 |
-| 24 | [KIKITO](https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC) | 2:50 |
-| 25 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
+| 23 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
+| 24 | [A tu Manera](https://open.spotify.com/track/6iqtqSo3IEntSedHHW6YPU) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [A Tu Manera](https://open.spotify.com/album/2g90mR4EDdUz0I5duVmPzn) | 4:44 |
+| 25 | [KIKITO](https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Kikito](https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC) | 2:50 |
 | 26 | [Maulla](https://open.spotify.com/track/63duS6SnYV6lKzv79zINUH) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:37 |
-| 27 | [Ruta](https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw) | 2:30 |
-| 28 | [Actua](https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn) | 3:58 |
+| 27 | [Actua](https://open.spotify.com/track/6RB3w1l1d6hwlei3iAPNLP) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Actua](https://open.spotify.com/album/6aBw7e2Wli9d6PlJCRfCxn) | 3:58 |
+| 28 | [Ruta](https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw) | 2:30 |
 | 29 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
 | 30 | [Loco](https://open.spotify.com/track/6vatfs7t1je6O2rrp5NNBZ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:22 |
-| 31 | [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 |
 
-Snapshot ID: `ZsE5gAAAAAAipl0N3klH+Ow3E2ntDxyT`
+Snapshot ID: `ZsKLAAAAAADZIMGoFZ8Zb3+PeYfGpAB1`

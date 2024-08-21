@@ -1,6 +1,6 @@
 {
   "description": "Simmer down with this relaxing selection of old and new Reggae.",
-  "num_followers": 451602,
+  "num_followers": 451821,
   "original_name": "Chilled Reggae",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-12 17:11:29",
       "album": {
+        "name": "Reggae Gold 2019",
+        "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 203392,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS"
+    },
+    {
+      "added_at": "2024-07-12 17:11:29",
+      "album": {
         "name": "Helping Hand (with Iya Terra)",
         "url": "https://open.spotify.com/album/2qKU4M3birDmWDbKHGrR5U"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 253794,
       "name": "Helping Hand (with Iya Terra)",
       "url": "https://open.spotify.com/track/1S6wOu6dSfEC6CAhFqLkhz"
-    },
-    {
-      "added_at": "2024-07-12 17:11:29",
-      "album": {
-        "name": "Reggae Gold 2019",
-        "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 203392,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/07kZfWFKcU7spoxuTEudtS"
     },
     {
       "added_at": "2024-07-12 17:11:29",

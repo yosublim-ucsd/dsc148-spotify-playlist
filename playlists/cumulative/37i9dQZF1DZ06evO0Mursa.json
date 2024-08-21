@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 306320,
       "name": "Corrente (Courante)",
       "url": "https://open.spotify.com/track/6K3sMfHcVak9gMlJcVP0ta"
@@ -1316,6 +1316,40 @@
       "duration_ms": 177986,
       "name": "Stella Natalis: II. Lullay",
       "url": "https://open.spotify.com/track/2K6oY7qrVrj7JW7TvTe38f"
+    },
+    {
+      "album": {
+        "name": "Stravaganza",
+        "url": "https://open.spotify.com/album/0xDz1S8NMZH7xHmeUjQwB4"
+      },
+      "artists": [
+        {
+          "name": "Karl Jenkins",
+          "url": "https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd"
+        },
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Zands Duggan",
+          "url": "https://open.spotify.com/artist/7GLnMJ1o1ae8HVjwYqpqqb"
+        },
+        {
+          "name": "Jody Jenkins",
+          "url": "https://open.spotify.com/artist/2OCsnuIVNquZXJFgRPqAiv"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350242,
+      "name": "Stravaganza: 1. Perambulation",
+      "url": "https://open.spotify.com/track/4kYzH09PNBt8jQYA2nlgIZ"
     },
     {
       "album": {

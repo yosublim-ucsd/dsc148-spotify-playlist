@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,225 likes - 273 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,317 likes - 273 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 18 | [Smashing Tables](https://open.spotify.com/track/77ku6ekKWBhw9ZdOe0NzQE) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [The Union \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1nzMNVQZMBcBWSB4VOe8D6) | 3:40 |
 | 19 | [Whatever It Takes](https://open.spotify.com/track/6dU7upUDqJasYhxB4zliT5) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Kara Talve](https://open.spotify.com/artist/3EHtbaE4XfijksNLg8kK3N) | [The Tattooist of Auschwitz \(Original Series Soundtrack\)](https://open.spotify.com/album/3cx1ds4j6353nYetKxBOdX) | 3:52 |
 | 20 | [Fly Me Home \(Kelly and Cole\)](https://open.spotify.com/track/2ZKpAEHSmdu54htAKhAAEP) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Fly Me To The Moon \(Apple Original Film Soundtrack\)](https://open.spotify.com/album/7Cz228GyL4DPWJ9SCdJPYH) | 2:02 |
-| 21 | [My Little Girl](https://open.spotify.com/track/6zpL661h5fbjlE8USm7tPZ) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [MAXXXINE \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7kKKjAZa99QYucqMnNF8Zo) | 1:28 |
+| 21 | [My Little Girl](https://open.spotify.com/track/6zpL661h5fbjlE8USm7tPZ) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [MAXXXINE \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7kKKjAZa99QYucqMnNF8Zo) | 1:28 |
 | 22 | [Intentions of the Mind](https://open.spotify.com/track/3ylJqzRGcDm563O336G5sZ) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Sō Percussion](https://open.spotify.com/artist/0aNLauXlYmoVmPmpYS7Ut6), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH) | [Intentions of the Mind](https://open.spotify.com/album/3piMfZhOc0E3C7nmFcUeg1) | 1:59 |
 | 23 | [Lady in the Lake \(Main Theme\)](https://open.spotify.com/track/4j6M40d4evK7TI1P5D8f3z) | [Marcus Norris](https://open.spotify.com/artist/2WYtmKz8Cy3BZMXpaPC0hT), [South Side Symphony](https://open.spotify.com/artist/5xRYlo5SJ6HfQsRYE83W4n) | [Lady in the Lake \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/78l8QEEzXxTkO3o012ssQ7) | 1:17 |
 | 24 | [The Power of Many / End Title](https://open.spotify.com/track/2idZMJB3BWHSXiX6EL14Nx) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Star Wars: The Acolyte \(Original Soundtrack\)](https://open.spotify.com/album/2eko8kCWUX8tmmRkHRCrTW) | 3:16 |

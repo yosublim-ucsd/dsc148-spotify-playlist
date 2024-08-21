@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX1RLKir9EDRO)
 
-> Bağımsız yerli sahneden en taze keşifler\. Kapak: Canay Doğan Çizim: Isu Kim
+> Bağımsız yerli sahneden en taze keşifler\. Kapak: Ezgi Kardelen Çizim: Isu Kim
 
 779 songs - 1 day 19 hr 31 min
 

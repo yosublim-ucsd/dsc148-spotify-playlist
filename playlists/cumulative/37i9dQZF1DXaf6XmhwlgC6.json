@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 203897,
       "name": "A Clear Mind",
       "url": "https://open.spotify.com/track/4BgdArkCc5DEHYTpy6clfy"
@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "Dreamcatcher",
+        "url": "https://open.spotify.com/album/3M0VgMfO08oSxyljQbUtU0"
+      },
+      "artists": [
+        {
+          "name": "Amber Sky",
+          "url": "https://open.spotify.com/artist/6DH3SvRzxgISukfWiREIre"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156468,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/3ckyjfTHikwA7q7ItkwSlP"
+    },
+    {
+      "album": {
         "name": "Dreaming While Awake",
         "url": "https://open.spotify.com/album/4UWDiNomdDxYTdE6exlgO5"
       },
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 171636,
       "name": "Encountering the Mirror",
       "url": "https://open.spotify.com/track/7BGhuGxeESE5MZAsjJFSOt"
@@ -1418,6 +1436,24 @@
       "duration_ms": 169411,
       "name": "Entering Orbit",
       "url": "https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs"
+    },
+    {
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/0TUnPJbHP1krkbxOoTzFr9"
+      },
+      "artists": [
+        {
+          "name": "Antonio Roberto",
+          "url": "https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123076,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7IQiA0AS6H75uULh09EoHp"
     },
     {
       "album": {
@@ -1746,7 +1782,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 173832,
       "name": "Fell into Falling",
       "url": "https://open.spotify.com/track/6dmgkJpjuJqloIwtx44QFy"
@@ -1894,6 +1930,24 @@
       "duration_ms": 156916,
       "name": "fluorescence",
       "url": "https://open.spotify.com/track/6EUvD9zVrsXEFIOEggToKY"
+    },
+    {
+      "album": {
+        "name": "Flutter into Ashes",
+        "url": "https://open.spotify.com/album/1J68HePlOhI25q9SwIK2gr"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6ssell",
+          "url": "https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136045,
+      "name": "Flutter into Ashes",
+      "url": "https://open.spotify.com/track/3V3wZIuO5pS3zK7Y54nrKX"
     },
     {
       "album": {
@@ -3103,6 +3157,24 @@
     },
     {
       "album": {
+        "name": "Lost In Thought",
+        "url": "https://open.spotify.com/album/3ZcsPRRpN5O9dPp39etydl"
+      },
+      "artists": [
+        {
+          "name": "Lyra Roman",
+          "url": "https://open.spotify.com/artist/1f5idQf5kPjM5oYjXDHEGh"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161875,
+      "name": "Lost In Thought",
+      "url": "https://open.spotify.com/track/13BQrLf06vZiEoE4RtlbF1"
+    },
+    {
+      "album": {
         "name": "Lost Together",
         "url": "https://open.spotify.com/album/3Y30tca34Ey15PhjZlnq3V"
       },
@@ -3114,7 +3186,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 150305,
       "name": "Lost Together",
       "url": "https://open.spotify.com/track/4L4oUWv9dBjgGScuHpDXDG"
@@ -3377,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Molesk",
+        "url": "https://open.spotify.com/album/1TWNF7LjvZjGL7mUuYhZmR"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136956,
+      "name": "Molesk",
+      "url": "https://open.spotify.com/track/2Xbv0iAI6Irz0MbzIoA8qv"
+    },
+    {
+      "album": {
         "name": "Monsoon",
         "url": "https://open.spotify.com/album/1QvzbmA5LGklXtBdEBQo19"
       },
@@ -3392,6 +3482,24 @@
       "duration_ms": 129052,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/3ESroBQ1ZGNCHOQMIqVg7p"
+    },
+    {
+      "album": {
+        "name": "Moon Daze",
+        "url": "https://open.spotify.com/album/4bvLjyK68q0ntwfcquCPH5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Roberto",
+          "url": "https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Moon Daze",
+      "url": "https://open.spotify.com/track/4HRlzCHuH8nZGGozUXr6b6"
     },
     {
       "album": {
@@ -3586,7 +3694,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 176686,
       "name": "neckless",
       "url": "https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV"
@@ -3742,7 +3850,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 150306,
       "name": "Nuraghe",
       "url": "https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju"
@@ -4240,7 +4348,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 155294,
       "name": "Reset Your Mind",
       "url": "https://open.spotify.com/track/2nWcxtG2G4vjQNpTqZZiUt"
@@ -5174,7 +5282,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 139169,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/0kxt7uTJNVt4F2cFSpXue8"
@@ -5649,6 +5757,24 @@
     },
     {
       "album": {
+        "name": "Time Tells",
+        "url": "https://open.spotify.com/album/7L6mshgR4QDNYHW29T7NSE"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Time Tells",
+      "url": "https://open.spotify.com/track/4O8H5yXqLLXR4AqBK7f4cR"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/5WKpZkbrSpKUlCut3xo8sO"
       },
@@ -5804,7 +5930,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 190824,
       "name": "Traversing",
       "url": "https://open.spotify.com/track/6zaIazO4IJN92brWslJ3TQ"
@@ -5948,7 +6074,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 158174,
       "name": "Undo and Redo",
       "url": "https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY"

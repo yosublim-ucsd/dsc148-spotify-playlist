@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "\u6d17\u8133",
+        "url": "https://open.spotify.com/album/05an3ewJsJNLI6ip7yYwJK"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171136,
+      "name": "\u6d17\u8133",
+      "url": "https://open.spotify.com/track/7BwIgYclDsf0Uz9HtmEr7o"
+    },
+    {
+      "album": {
         "name": "\u708e",
         "url": "https://open.spotify.com/album/2SUuio93gdAHC9BCZPr7bm"
       },

@@ -2,7 +2,7 @@
 
 ### [This Is Adriana Ríos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
 
-> This is Adriana Ríos\. أغاني روعة في قايمة أغاني واحدة.
+> This Is Adriana Ríos\. Zásadní skladby, všechny v jednom playlistu.
 
 45 songs - 2 hr 24 min
 

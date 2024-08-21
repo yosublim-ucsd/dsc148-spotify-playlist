@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,250 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,252 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 3 | [SA NI SA GA MA](https://open.spotify.com/track/1s371qM1lEeyGneuZcD0EG) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC), [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SA NI SA GA MA](https://open.spotify.com/album/4ciUgN97ydTzxfyWkYDEib) | 2:23 |
 | 4 | [DEVARA\(The Thirst Trap\)](https://open.spotify.com/track/3REZ4XjWqKH0wHkkvM40gW) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Stanley sajeev](https://open.spotify.com/artist/2sEdwo7xTdk62naoJmWTO3), [Sri Rag](https://open.spotify.com/artist/3hWpjI85HiSIclghXny1lJ) | [DEVARA\(The Thirst Trap\)](https://open.spotify.com/album/5tC7wcamLKOIFJ6gafzWKN) | 2:56 |
 | 5 | [Amma Paata](https://open.spotify.com/track/72PJ4xPZPVugEzylXYHWz4) | [Janhavi Yerram](https://open.spotify.com/artist/2S1gi8rHfqRE7XyNiAHj9n) | [Amma Paata](https://open.spotify.com/album/5NjRW3fcSvXnTkXZA97GT7) | 3:32 |
-| 6 | [Macha Vachey Ra \- Vibe Anthem](https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Macha Vachey Ra \(Vibe Anthem\)](https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98) | 3:16 |
+| 6 | [Macha Vachey Ra \- Vibe Anthem](https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv) | [Macha Vachey Ra \- Vibe Anthem](https://open.spotify.com/album/39WPpzx3iAH6eyjp77dj98) | 3:16 |
 | 7 | [Nene ila](https://open.spotify.com/track/5DpLSzttzURdtjRqiqhuLx) | [Shravan Pakalapati](https://open.spotify.com/artist/0BWC5EnVELcjkDBbsI2mtZ), [Ayaan](https://open.spotify.com/artist/1MMBkicGbEkW5M1UimzBuP), [Stanley Sajeev](https://open.spotify.com/artist/48ZCF46lcsGvMQ3keWLY44), [Srirag Vadlakonda](https://open.spotify.com/artist/35nglePPpoof0Yl8rIOpXX) | [Nene ila](https://open.spotify.com/album/5sy2tWFF8emaC4E7s3NiYS) | 3:34 |
 | 8 | [Gola Gole](https://open.spotify.com/track/0oendWWefLEn9Uo2pI4lpN) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS), [Darshana Menon](https://open.spotify.com/artist/1wHsncgyVkVzF2H8gEdOCF) | [Gola Gole](https://open.spotify.com/album/6LeQn8ByEjDwDGxJMHWGxk) | 2:59 |
 | 9 | [O Seliya](https://open.spotify.com/track/6VoM9YOXgRXNEu7ilXm08c) | [Ganesh Krovvidi](https://open.spotify.com/artist/2raRqQL2ij740h5lHjng4V), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [O Seliya](https://open.spotify.com/album/1Iub4oCI9zRZwUSdNRrI4h) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 535757,
+  "num_followers": 536168,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAC9fqgtAAgXneXgz3Ea/M8H",
+  "snapshot_id": "ZsKLAAAAAAA1D6RLv0FaHAO1h0U+PfQC",
   "tracks": [
     {
       "added_at": null,
@@ -543,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "That You Are",
+      "url": "https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wasteland, Baby! (Special Edition)",
         "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 259253,
       "name": "NFWMB",
       "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "That You Are",
-      "url": "https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ"
     },
     {
       "added_at": null,

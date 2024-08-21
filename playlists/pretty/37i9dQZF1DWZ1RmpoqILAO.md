@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from The Japanese House 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,537 likes - 121 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,607 likes - 121 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

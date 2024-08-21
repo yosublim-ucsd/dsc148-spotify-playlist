@@ -8707,6 +8707,24 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/0vriFos4wRTTbN0KcCsTaB"
+      },
+      "artists": [
+        {
+          "name": "gummy3000",
+          "url": "https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7"
+        }
+      ],
+      "date_added": "2024-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102146,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/1Wc5iXeCocmnNa1c7PPx8j"
+    },
+    {
+      "album": {
         "name": "Nicely Nostalgic",
         "url": "https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr"
       },
@@ -9902,7 +9920,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 138666,
       "name": "probably",
       "url": "https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg"

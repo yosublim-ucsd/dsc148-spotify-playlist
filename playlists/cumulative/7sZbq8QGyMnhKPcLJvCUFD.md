@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-584 songs - 1 day 5 hr 42 min
+585 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Dynamiser](https://open.spotify.com/track/1nruXXU3erq3cQvs8v2FCv) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:10 | 2023-06-21 | 2023-08-10 |
 | [E Welem Bah](https://open.spotify.com/track/7h0qG1QdtSTF72yrKOL8rA) | [Paul Flint](https://open.spotify.com/artist/7daAovtbFBvpYCDg18wSU1) | [E Welem Bah](https://open.spotify.com/album/7wrishZ94tx9y2xZ7nrr3m) | 2:30 | 2022-09-23 | 2023-04-28 |
 | [Earth](https://open.spotify.com/track/6Z4oCaL8tQBGQRUJRh2Gua) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Earth](https://open.spotify.com/album/5aoD4bt8Akw84D2pyi3Mge) | 3:53 | 2023-08-08 | 2023-12-14 |
+| [Earthquake](https://open.spotify.com/track/5Opqr7IrmfK6OKdauZ84nH) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3), [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Earthquake](https://open.spotify.com/album/3PygIHz0Eo5KRJWXBVG2UV) | 2:11 | 2024-08-20 |  |
 | [Ego](https://open.spotify.com/track/5p6r0N9T6Z9dhjKYklLLqY) | [Syntact](https://open.spotify.com/artist/07Wf444cHLc9Qju8MhHD2f) | [Ego](https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z) | 4:07 | 2022-11-17 | 2023-04-28 |
 | [Electric](https://open.spotify.com/track/3ujwumwYnR962f26zBQw1H) | [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Electric](https://open.spotify.com/album/4jG5JzLSGLGiKlRcm9QmoA) | 2:21 | 2023-03-09 | 2023-08-10 |
 | [Electric \- jeonghyeon Remix](https://open.spotify.com/track/78yNJ5AiK2UkM8gDuSmRPB) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Deerock](https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Electric \(jeonghyeon Remix\)](https://open.spotify.com/album/47U0y4WrOv38gtxJcgZhm8) | 3:00 | 2022-09-22 | 2023-04-28 |

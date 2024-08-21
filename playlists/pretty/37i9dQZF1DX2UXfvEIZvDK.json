@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 741307,
+  "num_followers": 741421,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "One More Light",
-      "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 219866,
       "name": "Every Morning",
       "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "One More Light",
+      "url": "https://open.spotify.com/track/3xXBsjrbG1xQIm1xv1cKOt"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 271186,
-      "name": "in the dark",
-      "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
+      "duration_ms": 330986,
+      "name": "Bandito",
+      "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 330986,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
+      "duration_ms": 271186,
+      "name": "in the dark",
+      "url": "https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Scream Above the Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 317186,
-      "name": "All In One Night",
-      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Neon Ballroom",
         "url": "https://open.spotify.com/album/75viR4DrKJUIH7wFvQ7PbB"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 240733,
       "name": "Miss You Love",
       "url": "https://open.spotify.com/track/7Bz8EMztiuSJeHIjrBw7pw"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Scream Above the Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 317186,
+      "name": "All In One Night",
+      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Let The Bad Times Roll (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 196146,
-      "name": "Gone Away - 2021",
-      "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 258306,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Let The Bad Times Roll (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 196146,
+      "name": "Gone Away - 2021",
+      "url": "https://open.spotify.com/track/01mRJG8JVQnzGpVnGhNQKC"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Fly Like an Eagle",
-        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272586,
-      "name": "Fly Like an Eagle",
-      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Nothing But Thieves (Track by Track)",
         "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 206573,
       "name": "If I Get High",
       "url": "https://open.spotify.com/track/15I2gq8Nill5zwxabTFD6f"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272586,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
+        "name": "Graveyard Whistling - EP",
+        "url": "https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Last Orders",
+      "url": "https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 383506,
       "name": "The Little Things Give You Away",
       "url": "https://open.spotify.com/track/6zCaXHIV60YIuDe9qJ9MOo"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
-        "name": "Graveyard Whistling - EP",
-        "url": "https://open.spotify.com/album/6fZcC4IT3lmWd1mwcWVwAO"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Last Orders",
-      "url": "https://open.spotify.com/track/16NeN82ABDPjUvgEEGVaSQ"
     },
     {
       "added_at": "2024-06-27 15:42:54",

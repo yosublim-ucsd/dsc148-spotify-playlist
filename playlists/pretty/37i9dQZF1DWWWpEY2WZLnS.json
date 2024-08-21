@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 526527,
+  "num_followers": 527036,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrUCHQAAAADy12lxvAH1csqKFceKIQ7W",
+  "snapshot_id": "ZsSzugAAAAAlDUP3BiiReDyqe7JOxLxP",
   "tracks": [
     {
       "added_at": "2024-07-25 18:17:02",
@@ -71,6 +71,26 @@
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/1ciCd4tjOBZMu3CcXkOAed"
+    },
+    {
+      "added_at": "2024-08-20 15:18:18",
+      "album": {
+        "name": "No Me Importa",
+        "url": "https://open.spotify.com/album/4Tw419YEniAI4evTfFglIm"
+      },
+      "artists": [
+        {
+          "name": "Dj Adoni",
+          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
+        },
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE"
     },
     {
       "added_at": "2024-07-15 23:17:59",
@@ -703,22 +723,6 @@
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF"
-    },
-    {
-      "added_at": "2024-07-15 23:17:59",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2024-07-15 23:17:59",

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Now, Now",
+          "url": "https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Around The World (feat. Now, Now)",
+      "url": "https://open.spotify.com/track/41AQdsicGXQQaRZKNjIojd"
+    },
+    {
+      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
       },
@@ -152,6 +174,28 @@
       "duration_ms": 249360,
       "name": "Drivin Thru the Night - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr"
+    },
+    {
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Robokid",
+          "url": "https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270013,
+      "name": "Drowning (feat. Robokid)",
+      "url": "https://open.spotify.com/track/2w3aOwaMgPEWRqrEJ2sulq"
     },
     {
       "album": {
@@ -554,6 +598,24 @@
     {
       "album": {
         "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
+    },
+    {
+      "album": {
+        "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG"
       },
       "artists": [
@@ -564,7 +626,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 229906,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/6wHU6eEdsYfw8HS5Ybg9DJ"
@@ -622,10 +684,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 234813,
       "name": "This Song Reminds Me Of You",
       "url": "https://open.spotify.com/track/2gmhlNXdqrbqmlpps8qTsc"
+    },
+    {
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126904,
+      "name": "This Song Reminds Me Of You - Piano Version by David Park",
+      "url": "https://open.spotify.com/track/0go48v79b8XuDxcC06sY5H"
     },
     {
       "album": {
@@ -640,10 +720,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 95500,
       "name": "This Space In My Heart Is for You",
       "url": "https://open.spotify.com/track/4gw3U6M0xzvFAdIpFWrQjO"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95500,
+      "name": "This Space In My Heart Is for You",
+      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
     },
     {
       "album": {

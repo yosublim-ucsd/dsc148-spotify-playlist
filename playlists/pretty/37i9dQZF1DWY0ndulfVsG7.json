@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Pop Shuvit, Noh Salleh",
-  "num_followers": 56565,
+  "num_followers": 56579,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-08-15 16:37:08",
       "album": {
+        "name": "Satu Hati Sejuta Cinta",
+        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Mabuk Cinta",
+      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
+    },
+    {
+      "added_at": "2024-08-15 16:37:08",
+      "album": {
         "name": "Kembali",
         "url": "https://open.spotify.com/album/6fr7fkitqzxiVfe6d6oCGQ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 228386,
       "name": "Sedih Tak Berujung",
       "url": "https://open.spotify.com/track/6xMUMMK64AUpstGjlDvoNn"
-    },
-    {
-      "added_at": "2024-08-15 16:37:08",
-      "album": {
-        "name": "Meraih Bintang",
-        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
-      },
-      "artists": [
-        {
-          "name": "Geisha",
-          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Karena Kamu",
-      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
       "added_at": "2024-08-15 16:37:08",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-08-15 16:37:08",
       "album": {
-        "name": "Satu Hati Sejuta Cinta",
-        "url": "https://open.spotify.com/album/78rrGhb8kb4g0P8ewToKIo"
+        "name": "Meraih Bintang",
+        "url": "https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL"
       },
       "artists": [
         {
-          "name": "Armada",
-          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+          "name": "Geisha",
+          "url": "https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y"
         }
       ],
-      "duration_ms": 239506,
-      "name": "Mabuk Cinta",
-      "url": "https://open.spotify.com/track/7gWcfdZVM1uunqG6trmQVG"
+      "duration_ms": 234546,
+      "name": "Karena Kamu",
+      "url": "https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD"
     },
     {
       "added_at": "2024-08-15 16:37:08",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-15 16:37:08",
       "album": {
+        "name": "Panasea",
+        "url": "https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp"
+      },
+      "artists": [
+        {
+          "name": "rumahsakit",
+          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
+        }
+      ],
+      "duration_ms": 271267,
+      "name": "Panasea",
+      "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
+    },
+    {
+      "added_at": "2024-08-15 16:37:08",
+      "album": {
         "name": "King of Soundtrack",
         "url": "https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF"
       },
@@ -743,6 +759,42 @@
       "duration_ms": 285693,
       "name": "Sumpah Dan Cinta Matiku",
       "url": "https://open.spotify.com/track/5XbyzK3HiXLXD910VsBbRA"
+    },
+    {
+      "added_at": "2024-08-15 16:37:08",
+      "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Ari Lasso",
+          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
+        }
+      ],
+      "duration_ms": 267880,
+      "name": "Aku dan Dirimu (feat. Ari Lasso)",
+      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
+    },
+    {
+      "added_at": "2024-08-15 16:37:08",
+      "album": {
+        "name": "Selamat Pagi, Dunia!",
+        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
+      },
+      "artists": [
+        {
+          "name": "Glenn Fredly",
+          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Sekali Ini Saja",
+      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
     },
     {
       "added_at": "2024-08-15 16:37:08",
@@ -767,22 +819,6 @@
     {
       "added_at": "2024-08-15 16:37:08",
       "album": {
-        "name": "Panasea",
-        "url": "https://open.spotify.com/album/1MmaIdhgD77i8uT5NhpoEp"
-      },
-      "artists": [
-        {
-          "name": "rumahsakit",
-          "url": "https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP"
-        }
-      ],
-      "duration_ms": 271267,
-      "name": "Panasea",
-      "url": "https://open.spotify.com/track/3EXh4IzbdHQtf3pL2DCOaS"
-    },
-    {
-      "added_at": "2024-08-15 16:37:08",
-      "album": {
         "name": "Seperti Seharusnya",
         "url": "https://open.spotify.com/album/0OJ20fKyVlmZKAMF8q1LAL"
       },
@@ -795,42 +831,6 @@
       "duration_ms": 266306,
       "name": "Separuh Aku",
       "url": "https://open.spotify.com/track/4BDA2HN9dQtrXjk8b6zaTq"
-    },
-    {
-      "added_at": "2024-08-15 16:37:08",
-      "album": {
-        "name": "Selamat Pagi, Dunia!",
-        "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
-      },
-      "artists": [
-        {
-          "name": "Glenn Fredly",
-          "url": "https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9"
-        }
-      ],
-      "duration_ms": 235280,
-      "name": "Sekali Ini Saja",
-      "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
-    },
-    {
-      "added_at": "2024-08-15 16:37:08",
-      "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Ari Lasso",
-          "url": "https://open.spotify.com/artist/1sqYIwXAmhrcSTsYmsTFAr"
-        }
-      ],
-      "duration_ms": 267880,
-      "name": "Aku dan Dirimu (feat. Ari Lasso)",
-      "url": "https://open.spotify.com/track/3boGp1c9CIHwwA0vktqlOP"
     }
   ],
   "unique_name": "Berjiran",

@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 866655,
+  "num_followers": 866918,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
+        "name": "DRESS!",
+        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
+      },
+      "artists": [
+        {
+          "name": "Eternxlkz",
+          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
+        }
+      ],
+      "duration_ms": 90461,
+      "name": "DRESS!",
+      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
         "name": "WINTER ARC FUNK",
         "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 91875,
       "name": "WINTER ARC FUNK",
       "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
-        "name": "DRESS!",
-        "url": "https://open.spotify.com/album/6TFzvOmoVmWFT0CkIHVgcI"
-      },
-      "artists": [
-        {
-          "name": "Eternxlkz",
-          "url": "https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF"
-        }
-      ],
-      "duration_ms": 90461,
-      "name": "DRESS!",
-      "url": "https://open.spotify.com/track/2q7LaJ39WSzo6CyKeT3ErE"
     },
     {
       "added_at": "2024-05-08 15:21:25",

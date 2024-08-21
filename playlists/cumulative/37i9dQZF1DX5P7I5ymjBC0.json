@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Where Sitar meets Guitar. Cover - 'Sonchadi' by DigV, Neha Kakkar and Kamla Devi",
+  "description": "Fusion music for the soul.  Cover- Sona Mohapatra",
   "name": "Fusion Finds",
   "tracks": [
     {
@@ -134,6 +134,32 @@
       "duration_ms": 219692,
       "name": "Aeri Sakhi",
       "url": "https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP"
+    },
+    {
+      "album": {
+        "name": "Coke Studio India Season 3: Episode 2",
+        "url": "https://open.spotify.com/album/7rBfOj1KZKrfnEjfkDJg7N"
+      },
+      "artists": [
+        {
+          "name": "Sona Mohapatra",
+          "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+        },
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Aruna Sairam",
+          "url": "https://open.spotify.com/artist/7IoToRbsm2yDlrPKL2jb5N"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246920,
+      "name": "Aigiri Nandini",
+      "url": "https://open.spotify.com/track/3krS9PPjpWMNdaCniFxIZN"
     },
     {
       "album": {
@@ -615,6 +641,32 @@
     },
     {
       "album": {
+        "name": "Dekho Sakhi",
+        "url": "https://open.spotify.com/album/327X9g5nLaJwhAEQytBl8h"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Prateek Narsimha",
+          "url": "https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277052,
+      "name": "Dekho Sakhi",
+      "url": "https://open.spotify.com/track/65xJV3XPDoSbQCJTzLZ6hi"
+    },
+    {
+      "album": {
         "name": "Diamond Ni",
         "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
       },
@@ -854,7 +906,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
@@ -1415,6 +1467,36 @@
     },
     {
       "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        },
+        {
+          "name": "Likhari",
+          "url": "https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291234,
+      "name": "Mausam",
+      "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
+    },
+    {
+      "album": {
         "name": "Mere Makaan",
         "url": "https://open.spotify.com/album/3nMDW1FquZfMaXTYg5l2ej"
       },
@@ -1690,7 +1772,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 380000,
       "name": "Nirbhay Nirgun (Live)",
       "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
@@ -2378,7 +2460,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 406711,
       "name": "Sakal Ban - Coke Studio Season 8",
       "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"

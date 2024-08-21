@@ -1,12 +1,12 @@
 {
   "description": "Tawsen & Ayoub Anbaoui en premi\u00e8re position de la playlist num\u00e9ro 1 au Maroc.",
-  "num_followers": 662755,
+  "num_followers": 663274,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsL+VAAAAABADbCSdQb7d9cvJoUPNcm9",
+  "snapshot_id": "ZsSD1QAAAAAXN2PUrTMxnxZuT7wV2Kno",
   "tracks": [
     {
       "added_at": "2024-08-18 15:19:06",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-08-18 15:19:06",
       "album": {
+        "name": "Badadi",
+        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
+      },
+      "artists": [
+        {
+          "name": "Douaa Lahyaoui",
+          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+        }
+      ],
+      "duration_ms": 165057,
+      "name": "Badadi",
+      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
+    },
+    {
+      "added_at": "2024-08-18 15:19:06",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
       },
@@ -135,22 +151,6 @@
     {
       "added_at": "2024-08-18 15:19:06",
       "album": {
-        "name": "HWASI",
-        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
-      },
-      "artists": [
-        {
-          "name": "Lbenj",
-          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "HWASI",
-      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
-    },
-    {
-      "added_at": "2024-08-18 15:19:06",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
       },
@@ -167,18 +167,18 @@
     {
       "added_at": "2024-08-18 15:19:06",
       "album": {
-        "name": "Badadi",
-        "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
+        "name": "HWASI",
+        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
       },
       "artists": [
         {
-          "name": "Douaa Lahyaoui",
-          "url": "https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6"
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
         }
       ],
-      "duration_ms": 165057,
-      "name": "Badadi",
-      "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
+      "duration_ms": 223278,
+      "name": "HWASI",
+      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
     },
     {
       "added_at": "2024-08-18 15:19:06",

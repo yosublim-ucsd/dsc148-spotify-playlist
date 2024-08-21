@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq?si=FM0lfCEjTF\-SyE\_rdFdecQ">Mwami</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h?si=HRfzclrCT5yHeDWpKHdpgg">Dessireé</a>\. Artwork: Isu Kim.
 
-991 songs - 2 day 1 hr 51 min
+995 songs - 2 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Addict](https://open.spotify.com/track/4QllNTTcfilJCmYGM7bJtw) | [Sarnilo](https://open.spotify.com/artist/0ignuXgngSTxY87ZzRwZ8C), [Mzwaa](https://open.spotify.com/artist/0mebykC539Ik5ijTNBY1FJ) | [Addict](https://open.spotify.com/album/6VCFjahARQWF0GW9mEUf7I) | 3:36 | 2024-07-03 | 2024-08-08 |
 | [Addicted](https://open.spotify.com/track/40VtWXF3SL8gobkEgd6gt3) | [GhostwriterMel](https://open.spotify.com/artist/7BXatN3mB4rAllCGNGNqDD) | [If I’m Wrong \- Vol 1](https://open.spotify.com/album/5E7FXTjU8ZulcL7d2yrNhT) | 2:40 | 2024-03-06 | 2024-04-03 |
 | [Addicted](https://open.spotify.com/track/0sBGPSNKWP1a8DUHbgkGeS) | [YungAce](https://open.spotify.com/artist/2wyVEXXTxGKgx6fZYReUzO) | [Addicted](https://open.spotify.com/album/7kKLblSvwgfS78ZSir4pUo) | 2:24 | 2023-02-22 | 2023-03-30 |
+| [Adored](https://open.spotify.com/track/6hN0GuIxArqaNjstujRWjp) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Adored](https://open.spotify.com/album/50aHeiJM0eAaZRt5ADy2C5) | 2:58 | 2024-08-20 |  |
 | [Aduke](https://open.spotify.com/track/7d4j4OnxR9LoKKfeCuNn11) | [Ichaba](https://open.spotify.com/artist/4E77cDKVbGO3ZeaZKqURfN) | [Aduke](https://open.spotify.com/album/1NvjLvwwRjxewv1bx7Sjcy) | 3:02 | 2022-09-30 | 2022-10-29 |
 | [Adulthood Anthem](https://open.spotify.com/track/6azpaZYOCLhhWr2amkJ1tQ) | [Ladé](https://open.spotify.com/artist/43Nm4QEBSVkJYcYhsN2Bd1) | [Adulthood Anthem](https://open.spotify.com/album/6pFqcfLHFLCnltmuXQEYky) | 2:44 | 2022-09-30 | 2022-10-29 |
 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 | 2024-04-03 | 2024-05-02 |
@@ -186,6 +187,7 @@
 | [Coming Home](https://open.spotify.com/track/34qs8nKZqP6Mk6GCTTgZx2) | [The Kazez](https://open.spotify.com/artist/64LWPt0A50JOTxHxurU5tN) | [Pair](https://open.spotify.com/album/6M5LBR9GDMFIF3a7ptUJP5) | 2:42 | 2022-09-30 | 2023-01-26 |
 | [Company](https://open.spotify.com/track/64ZYhShwxBujpFvYl8yRE6) | [Miseda](https://open.spotify.com/artist/5OGaSx0U3iIgtfvKh6k4sz) | [Company](https://open.spotify.com/album/5vAjQGSBz6Rjw8YWZ6EGfJ) | 2:16 | 2024-02-06 | 2024-03-06 |
 | [Company](https://open.spotify.com/track/3jkyCqWD6RNoOENkbYEuUl) | [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [Company](https://open.spotify.com/album/0lBGpqr5Iq0wGYSEmFXRMr) | 2:43 | 2024-08-07 |  |
+| [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2024-08-20 |  |
 | [Complete](https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Complete](https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD) | 2:40 | 2023-06-05 | 2023-06-28 |
 | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/track/5aFLIpPbYSIQWCxyDvBjqP) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Condemn \(feat\. City Boy, O'Kenneth, reggie & Kwaku DMC\)](https://open.spotify.com/album/6Xxe0hBs5HEpSpSMvkR91d) | 3:00 | 2023-03-05 | 2023-03-10 |
 | [Cotton Candy](https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Cotton Candy](https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr) | 2:51 | 2023-07-26 | 2023-09-27 |
@@ -410,6 +412,7 @@
 | [I Surrender](https://open.spotify.com/track/34dKyxmUxaHuRKGdCRie8R) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me), [Kimbassax](https://open.spotify.com/artist/6ZnqS59J5KHNarQE6ELahm) | [I Surrender](https://open.spotify.com/album/6IINHb8ssRlm9fggncFCMX) | 3:41 | 2024-05-01 | 2024-06-05 |
 | [I Waited](https://open.spotify.com/track/6v1OHooaBNAIxRZlADN7G3) | [Frya](https://open.spotify.com/artist/5ebYNYTR9S7tbTrUJldiOB) | [Lifetimes](https://open.spotify.com/album/1gY7CgRXNmKLPy1GrYKPCf) | 3:37 | 2024-02-06 | 2024-03-06 |
 | [I Would Hope](https://open.spotify.com/track/3n1X0Ej7DxCVQQqoPd8GYV) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [The Universe is Holding You](https://open.spotify.com/album/3EoCnLU9v6MkcoQsplFecN) | 4:18 | 2023-06-05 | 2023-06-28 |
+| [I'M FINE](https://open.spotify.com/track/5yHijGi2Od2BYKbRa7EShU) | [Likkle Bangi](https://open.spotify.com/artist/0ziAEtI2DsCBTbBChD6pK8), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [I'M FINE](https://open.spotify.com/album/77ieplqkCJVSK8YdLAt91a) | 3:07 | 2024-08-20 |  |
 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 | 2024-02-06 | 2024-03-06 |
 | [I.J.G.B \(feat\. Kondé Oko\)](https://open.spotify.com/track/6uIcDWI5LKwrq0D6IrmKGb) | [Cozy Kiyo](https://open.spotify.com/artist/1klqpHTsd2SPcQFoYqLmEw), [Kondé Oko](https://open.spotify.com/artist/0FgyIXxlLZKrtruPYptWrs) | [I.J.G.B \(feat\. Kondé Oko\)](https://open.spotify.com/album/4ovI08C1z1EaakFwKB3Trs) | 2:57 | 2023-06-27 | 2023-07-27 |
 | [IBADI \(Waist\)](https://open.spotify.com/track/3kBUa5io6UkLqH9amSu8aE) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s) | [IBADI \(Waist\)](https://open.spotify.com/album/34pdcrRJcnQ2xAN8DqfBRw) | 2:27 | 2023-06-05 | 2023-06-28 |
@@ -632,6 +635,7 @@
 | [No Options Freestyle](https://open.spotify.com/track/2L9kqSwA7q99qPFOHpnRA3) | [Shooterkhumz](https://open.spotify.com/artist/0x52tpXiSmKKuKkpc0h3Lz), [Tyson Sybateli](https://open.spotify.com/artist/058c0IeszwOx7Qsk5g8gSy) | [A Good Day In January](https://open.spotify.com/album/6cSp9n4YNfEjQqI16BY0JC) | 2:15 | 2024-04-03 | 2024-05-02 |
 | [No Pressure](https://open.spotify.com/track/3mZ6I11KJxI8uuX0Ex9FMT) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc) | [No Pressure](https://open.spotify.com/album/6MmcNlbjBbqM5C0UBRjLuN) | 2:58 | 2024-08-07 |  |
 | [No Religion](https://open.spotify.com/track/6JcsgUcIpOR0f3K1OZRAfP) | [ShineTTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Religion](https://open.spotify.com/album/3cyrejkXVcYbXQhiCcu2qB) | 2:17 | 2022-10-28 | 2024-02-07 |
+| [No Time](https://open.spotify.com/track/7hDY9jv4oomy9lsBKu4ljE) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [No Time](https://open.spotify.com/album/0D6C9G30OrQlXt2cLZoQw7) | 3:29 | 2024-08-20 |  |
 | [No Time](https://open.spotify.com/track/0q38R1OzXFPF3lUaAl1sGm) | [SamxCas](https://open.spotify.com/artist/3JyQBfZ68RWhEYZU3AKGyn) | [No Time](https://open.spotify.com/album/6Y3ysqPvkpY9vasxSEvGWI) | 2:07 | 2024-04-03 | 2024-05-02 |
 | [No Vex](https://open.spotify.com/track/6K4rBeP9O2ejDIwx46BOeZ) | [Beekay](https://open.spotify.com/artist/5bJRdp4s31dOFBYQXYlAOa) | [No Vex](https://open.spotify.com/album/1DPJTXm7KyAoXkLV49JDUc) | 2:32 | 2023-10-25 | 2023-11-30 |
 | [No We](https://open.spotify.com/track/5KLeG9kB4SUqafgoI9Twc3) | [Television](https://open.spotify.com/artist/1GSGf6ony1hg3S7saFkj8z) | [No We](https://open.spotify.com/album/1nt4OsMBL6CaoZNuc185RZ) | 3:38 | 2023-02-22 | 2023-03-30 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 30193,
+  "num_followers": 30196,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Darkness On the Edge of Town",
-        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+        "name": "Book Of Dreams",
+        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Prove It All Night",
-      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+      "duration_ms": 265840,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Book Of Dreams",
-        "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 265840,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Rattus Norvegicus",
-        "url": "https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq"
-      },
-      "artists": [
-        {
-          "name": "The Stranglers",
-          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Peaches - 1996 Remaster",
-      "url": "https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 281026,
       "name": "Shine a Little Love",
       "url": "https://open.spotify.com/track/5X6HkkTe8mUwkHo3Lccr6E"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Rattus Norvegicus",
+        "url": "https://open.spotify.com/album/38lyLeszq1p2sck1lB53dq"
+      },
+      "artists": [
+        {
+          "name": "The Stranglers",
+          "url": "https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Peaches - 1996 Remaster",
+      "url": "https://open.spotify.com/track/71Y7sPJm0DpCix0fHaAlhI"
     },
     {
       "added_at": "2024-07-12 14:53:15",

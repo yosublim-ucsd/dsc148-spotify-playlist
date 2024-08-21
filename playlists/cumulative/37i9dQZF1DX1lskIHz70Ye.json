@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Our Journey",
+        "url": "https://open.spotify.com/album/73kCt312ImbXeN3BLhlzzs"
+      },
+      "artists": [
+        {
+          "name": "Auguste Braun",
+          "url": "https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149844,
+      "name": "Our Journey",
+      "url": "https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG"
+    },
+    {
+      "album": {
         "name": "Para Cuando Regreses",
         "url": "https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw"
       },

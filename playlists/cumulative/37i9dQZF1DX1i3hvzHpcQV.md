@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
 
-128 songs - 7 hr 38 min
+129 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 | 2021-11-15 | 2022-06-07 |
 | [Vikram \- Title Track](https://open.spotify.com/track/6FQQiTpYnfc5803p84bQp1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:38 | 2022-05-15 |  |
 | [Wasted](https://open.spotify.com/track/2dpMdklbSc5CmZ3ijhknZ5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1) | 3:02 | 2022-06-05 | 2022-11-08 |
+| [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 | 2024-08-20 |  |
 | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Whistle Podu \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o) | 4:41 | 2024-04-18 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

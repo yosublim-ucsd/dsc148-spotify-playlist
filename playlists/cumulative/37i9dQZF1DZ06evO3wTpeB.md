@@ -2,7 +2,7 @@
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This is Ali Aka Mind\. The essential tracks, all in one playlist.
+> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
 
 57 songs - 3 hr 16 min
 
@@ -41,7 +41,7 @@
 | [Mientras](https://open.spotify.com/track/3gkOpQFQlmjwc7mCLau2qg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Mientras](https://open.spotify.com/album/1IrZA69cG0rXC4F4bKB5su) | 3:10 | 2024-01-01 |  |
 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 | 2023-12-30 |  |
 | [Nada Más](https://open.spotify.com/track/2LVkd8rDYBYjZjzrhogYUQ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:39 | 2023-12-30 |  |
-| [Nada Nos Para](https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Rakaa de Dilated Peoples](https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:54 | 2024-07-05 |  |
+| [Nada Nos Para](https://open.spotify.com/track/5odmSa7DCFFDofSpYgzCik) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Rakaa de Dilated Peoples](https://open.spotify.com/artist/7Bp2zDaEOWhyWRJOEEUUo0) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:54 | 2024-07-05 | 2024-08-21 |
 | [No Pienses Que Me Fui](https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Pienses Que Me Fui](https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG) | 2:30 | 2023-12-30 |  |
 | [Nostalgia](https://open.spotify.com/track/14a2gSIuqP7ZIJIzRlYt1o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 1:36 | 2023-12-30 |  |
 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 | 2023-12-30 |  |

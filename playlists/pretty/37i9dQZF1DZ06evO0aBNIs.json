@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 702006,
+  "num_followers": 702173,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAABaaObE1XcmTwu9VlPd8scb",
+  "snapshot_id": "ZsKLAAAAAACGeeIsO+t49vwvHY0SQvPz",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 228840,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh"
+      "duration_ms": 251493,
+      "name": "Anything but Ordinary",
+      "url": "https://open.spotify.com/track/6STHWwMa2vbr1nKArQH7hd"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 251493,
-      "name": "Anything but Ordinary",
-      "url": "https://open.spotify.com/track/6STHWwMa2vbr1nKArQH7hd"
+      "duration_ms": 228840,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1T0Dv84b0Za7FoLcoeajgh"
     },
     {
       "added_at": null,

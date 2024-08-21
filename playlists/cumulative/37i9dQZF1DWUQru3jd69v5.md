@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Néza in cover, aggiornata ogni venerdì
 
-1,282 songs - 2 day 7 hr 13 min
+1,283 songs - 2 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1221,6 +1221,7 @@
 | [VaLiGeTTa GiaLLa](https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [VaLiGeTTa GiaLLa](https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI) | 2:03 | 2024-08-08 |  |
 | [Vallette](https://open.spotify.com/track/6MDzzFisscLOVQyd0qwhMl) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [Vallette](https://open.spotify.com/album/0WoMXf6omqvg311WPMN3V0) | 2:09 | 2024-05-16 | 2024-06-01 |
 | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/track/3ceeE7trGex4ioSAYMcuOr) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Vaniglia \(feat\. VillaBanks, Boro & Andry The Hitmaker\)](https://open.spotify.com/album/5umTTXnLDMrhAqrnBUyb1U) | 3:12 | 2024-06-20 | 2024-06-28 |
+| [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-08-20 |  |
 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 | 2023-06-15 | 2023-10-13 |
 | [VELENOSA](https://open.spotify.com/track/1C3hJZssnqltvnQ4jThim2) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [VELENOSA](https://open.spotify.com/album/5uITow6TE09bajpTaySfkY) | 2:23 | 2023-06-29 | 2023-07-14 |
 | [Vero Stepper](https://open.spotify.com/track/7MSnErYp36L1D6H0YRRxJp) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi) | [Vero Stepper](https://open.spotify.com/album/2U06R6wirFeVoQEkGF3DSz) | 2:07 | 2023-12-07 | 2024-01-05 |

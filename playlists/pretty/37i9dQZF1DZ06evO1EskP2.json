@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2670,
+  "num_followers": 2671,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAARBgzfl34viPjDmwZLUgyy",
+  "snapshot_id": "ZsKLAAAAAAAnJNCFVxgJTy760fSUqhGk",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "A10: Best of Anuhea",
-        "url": "https://open.spotify.com/album/3aivd94f6fp7NhMxVz4ZrN"
+        "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
+        "url": "https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z"
       },
       "artists": [
         {
+          "name": "Kimie Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        },
+        {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        },
+        {
+          "name": "Eli-Mac",
+          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
         }
       ],
-      "duration_ms": 215700,
-      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o (Live)",
-      "url": "https://open.spotify.com/track/4XzNLgdNr3xwpT33V3iDFK"
+      "duration_ms": 238441,
+      "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
+      "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
     },
     {
       "added_at": null,
@@ -615,30 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
-        "url": "https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z"
+        "name": "A10: Best of Anuhea",
+        "url": "https://open.spotify.com/album/3aivd94f6fp7NhMxVz4ZrN"
       },
       "artists": [
         {
-          "name": "Kimie Miner",
-          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
-        },
-        {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Irie Love",
-          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
-        },
-        {
-          "name": "Eli-Mac",
-          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
         }
       ],
-      "duration_ms": 238441,
-      "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
-      "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
+      "duration_ms": 215700,
+      "name": "True Colors/Kou \u2018Ano K\u00fc I\u2019o (Live)",
+      "url": "https://open.spotify.com/track/4XzNLgdNr3xwpT33V3iDFK"
     },
     {
       "added_at": null,
@@ -735,42 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Gold & Green",
-        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Kimi\u00e9 Miner",
-          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
-        }
-      ],
-      "duration_ms": 229845,
-      "name": "Red, Gold & Green",
-      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
       },
@@ -796,9 +760,29 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 213480,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Gold & Green",
+        "url": "https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Kimi\u00e9 Miner",
+          "url": "https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg"
+        }
+      ],
+      "duration_ms": 229845,
+      "name": "Red, Gold & Green",
+      "url": "https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 226185,
       "name": "Walk on Water",
       "url": "https://open.spotify.com/track/4s23CQT2CMFhIxYn9MyNLw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/2R2AreJLkwiXGSYP4W8ioB"
     },
     {
       "added_at": null,

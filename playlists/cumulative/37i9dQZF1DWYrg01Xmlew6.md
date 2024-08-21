@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Cosang in cover.
 
-357 songs - 16 hr 34 min
+358 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Un Amaro o Ti Sparo](https://open.spotify.com/track/4CjFxG87FemEd0Qaz4t5T4) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [Fallimento](https://open.spotify.com/album/6UNrFhCWIluSg7ohTmtg4M) | 2:44 | 2023-11-09 | 2024-01-12 |
 | [VAC PAZZ \(feat\. Yung Snapp\)](https://open.spotify.com/track/4r3HT3yoRVtkqWPTbNDlG3) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:21 | 2023-04-27 | 2023-07-07 |
 | [Vado Fuori](https://open.spotify.com/track/368Bj5HWZe98B6ChmsK1XE) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Vado Fuori](https://open.spotify.com/album/4OaeZ07Z64dd2sijgj5jvM) | 2:22 | 2022-06-02 | 2022-07-01 |
-| [Vecchio stampo & West Coast](https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH) | 3:03 | 2024-08-12 |  |
+| [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 | 2024-08-20 |  |
+| [Vecchio stampo & West Coast](https://open.spotify.com/track/3PPbAPR5IljfWZmHACBPAY) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/3OVnR5nA6PctoA8zxlayUH) | 3:03 | 2024-08-12 | 2024-08-21 |
 | [Vera Street](https://open.spotify.com/track/6lzhht6rAPFNy5qMOMSxCu) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ) | [Vera Street](https://open.spotify.com/album/6CGs5NBsq4CM5cWPnwKUdP) | 2:19 | 2023-10-19 | 2023-11-10 |
 | [Vida Loca](https://open.spotify.com/track/63WzPPR8lS0ibJeZvngg9A) | [Guerra](https://open.spotify.com/artist/4kEZMl8mZ5WX2fAQq6feTC) | [Vida Loca](https://open.spotify.com/album/4rLBnUhWRXUg8s1OOsWxNw) | 2:54 | 2022-09-08 | 2022-10-08 |
 | [VIEN'CCA](https://open.spotify.com/track/6ENT7ncTtDKUia5LSf0TUI) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT) | [VIEN‘CCA](https://open.spotify.com/album/3WgAGqPic8HiBXkO8n1HCF) | 2:39 | 2024-05-16 |  |

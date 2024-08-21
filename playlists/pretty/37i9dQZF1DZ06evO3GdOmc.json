@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 36853,
+  "num_followers": 36868,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAAfzqwki3du7DEiLT1pZe0o",
+  "snapshot_id": "ZsKLAAAAAABjDGPbbkm/1wxAbQ2yrYg9",
   "tracks": [
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 272213,
-      "name": "One Awkward Moment",
-      "url": "https://open.spotify.com/track/7BAUDW6RQ8XfRCjmJ9HypC"
+      "duration_ms": 248640,
+      "name": "In the Hands of the Potter",
+      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 248640,
-      "name": "In the Hands of the Potter",
-      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
+      "duration_ms": 272213,
+      "name": "One Awkward Moment",
+      "url": "https://open.spotify.com/track/7BAUDW6RQ8XfRCjmJ9HypC"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer (Deluxe)",
-        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "No Hurt",
-      "url": "https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Day: Hymns of Faith",
         "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 183906,
       "name": "When We All Get to Heaven",
       "url": "https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf"
     },
     {
       "added_at": null,

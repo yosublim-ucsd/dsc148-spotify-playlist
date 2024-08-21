@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339746,
+  "num_followers": 339766,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Everybody Cries",
-        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
-      },
-      "artists": [
-        {
-          "name": "Cleez",
-          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
-        },
-        {
-          "name": "R.I.O.",
-          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Everybody Cries",
-      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
         "name": "1001 Arabian Nights",
         "url": "https://open.spotify.com/album/6yGgrWVZENV6IQCCpxZQRI"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 174960,
       "name": "1001 Arabian Nights",
       "url": "https://open.spotify.com/track/3YmiKv5z67ZV8tiW1eNHCM"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Everybody Cries",
+        "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
+      },
+      "artists": [
+        {
+          "name": "Cleez",
+          "url": "https://open.spotify.com/artist/5YPawz3wh4RMf032MsIJq8"
+        },
+        {
+          "name": "R.I.O.",
+          "url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Everybody Cries",
+      "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
     },
     {
       "added_at": "2024-06-14 04:00:00",

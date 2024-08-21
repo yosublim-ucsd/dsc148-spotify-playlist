@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Badal & GD47
+> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
 269 songs - 14 hr 3 min
 

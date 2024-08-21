@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 85140,
+  "num_followers": 85199,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Gold Mine",
-        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 151350,
-      "name": "Gold Mine",
-      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "True to Myself",
         "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 240360,
       "name": "Spiritual Thang",
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Gold Mine",
+        "url": "https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 151350,
+      "name": "Gold Mine",
+      "url": "https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Bags & Suitcases",
-        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Cure the Jones",
         "url": "https://open.spotify.com/album/7zG9UizXFG1UiYIjGLxuio"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 200066,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4nKpBjWRzY0MSPvPjvyzSB"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Bags & Suitcases",
+        "url": "https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "100 Days, 100 Nights",
         "url": "https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 214573,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/0YfwVbEYw31UiVCllyoTaG"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2024-03-08 13:51:25",

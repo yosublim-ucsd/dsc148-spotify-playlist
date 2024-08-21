@@ -1,12 +1,12 @@
 {
-  "description": "This is: Parkway Drive. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 98425,
+  "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
+  "num_followers": 98439,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAADh5gvHAzSO5FvQUU1HCK61",
+  "snapshot_id": "ZsKLAAAAAAAa2+YpTDF3uJneoT1oOLdH",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        },
-        {
-          "name": "Jenna McDougall",
-          "url": "https://open.spotify.com/artist/2GlLtFW2NFh16BFIxMvIYC"
         }
       ],
-      "duration_ms": 240631,
-      "name": "A Deathless Song",
-      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
+      "duration_ms": 195746,
+      "name": "Boneyards",
+      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
           "name": "Parkway Drive",
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        },
+        {
+          "name": "Jenna McDougall",
+          "url": "https://open.spotify.com/artist/2GlLtFW2NFh16BFIxMvIYC"
         }
       ],
-      "duration_ms": 195746,
-      "name": "Boneyards",
-      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
+      "duration_ms": 240631,
+      "name": "A Deathless Song",
+      "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211393,
-      "name": "Anasasis (Xenophontis)",
-      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+      "duration_ms": 211393,
+      "name": "Anasasis (Xenophontis)",
+      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
     },
     {
       "added_at": null,

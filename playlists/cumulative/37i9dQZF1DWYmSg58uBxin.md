@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-276 songs - 12 hr 46 min
+277 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [The Saga](https://open.spotify.com/track/08ar8UUeKtraKthaGfEAVs) | [Rick Mays Orchestra](https://open.spotify.com/artist/6M8CwqhafAjTE6iqSPXazJ) | [The Saga](https://open.spotify.com/album/1m1Zh5Fy3fkbiXcYzc7H2l) | 1:49 | 2020-10-20\* | 2023-09-09 |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2020-10-20\* | 2023-09-09 |
 | [The Sleeping Waltz](https://open.spotify.com/track/4zBUzzH43GCKw5wPaHqKx2) | [Lanai String Section](https://open.spotify.com/artist/31uknRwrjJ98yyV6tg0CXa) | [The Sleeping Waltz](https://open.spotify.com/album/343Vj6jhU4SaQGOyOchcAE) | 2:24 | 2023-09-08 |  |
+| [The Story Of Us](https://open.spotify.com/track/7A267W9bhgllo67qsZ3vDI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [The Story Of Us](https://open.spotify.com/album/1P0lEHmdvRGT1VFVoNfee2) | 2:11 | 2024-08-20 |  |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* | 2022-09-03 |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* | 2023-09-09 |
 | [Ti Vedo](https://open.spotify.com/track/1MMPjL15s8zSB787xGGePp) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Ti Vedo](https://open.spotify.com/album/7yJ9ZwO2t7fI2gYRDi7vIS) | 2:37 | 2024-04-17 |  |

@@ -2,9 +2,9 @@
 
 ### [Teen Culture](https://open.spotify.com/playlist/37i9dQZF1DX8XStIuaEA9J)
 
-> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Leina
+> 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: LANA
 
-598 songs - 1 day 10 hr 44 min
+599 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [CONNECT](https://open.spotify.com/track/1RDpUbB30MP7lsYQFIim9g) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [1st IS:SUE](https://open.spotify.com/album/1mquhoCsn34ti8aQjbMlgS) | 3:11 | 2024-06-18 | 2024-07-10 |
 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 | 2024-05-21 | 2024-06-19 |
 | [Control](https://open.spotify.com/track/5mTS9pCJGg8LKBAWJU5jW6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Logic 2](https://open.spotify.com/album/5gq6hLXuSFahqLyqCsuJ0r) | 3:01 | 2024-07-30 |  |
-| [CRUSH](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [CRUSH](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) | 3:29 | 2024-08-06 |  |
+| [CRUSH](https://open.spotify.com/track/3iDdrh15xYLHKafxYNLF4F) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [CRUSH](https://open.spotify.com/album/607R3veMPfNTZ4VzMEVy3d) | 3:29 | 2024-08-06 | 2024-08-21 |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-23 | 2023-12-20 |
 | [Curse of Love](https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Curse of Love](https://open.spotify.com/album/2gLxAX6QIAsanB9HUcEh2z) | 3:34 | 2024-02-06 | 2024-02-21 |
 | [DANCING IN THE ROOM](https://open.spotify.com/track/3LJ8gioNFggBg6zoGhz1tx) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [DANCING IN THE ROOM](https://open.spotify.com/album/6DmyL9pVA56Ssp5AxGrNrI) | 3:54 | 2024-02-06 | 2024-02-14 |
@@ -137,6 +137,7 @@
 | [Insomnia](https://open.spotify.com/track/52KxsRBZj7Ip9HdxgvEQbO) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Insomnia](https://open.spotify.com/album/51QJlvJclfVB6jNNXlDatS) | 3:24 | 2024-03-01 | 2024-04-03 |
 | [iPhone feat\. Skaai](https://open.spotify.com/track/56JbxvYrxvRJuGLZEZemru) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [iPhone feat\. Skaai](https://open.spotify.com/album/4TVblZTOgvpzp9f5WAEwmM) | 2:55 | 2024-03-05 | 2024-03-20 |
 | [It's a piece of cake](https://open.spotify.com/track/6HIIjoK4W36ZzJz3bdBSFB) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [It's a piece of cake](https://open.spotify.com/album/05uOqKsjHjMu9frNzuquot) | 3:03 | 2024-04-09 | 2024-05-02 |
+| [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 | 2024-08-20 |  |
 | [Jersey \- 2024 Ver.](https://open.spotify.com/track/2sRIsLEsOaIZkys9An4ET4) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 2:34 | 2024-03-07 | 2024-03-27 |
 | [Join Us! \-2024ver.\-](https://open.spotify.com/track/2I7P5VZr7XhW4ySQRbdhVU) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [UNLOCK!](https://open.spotify.com/album/6WpOudAdvJNyi5htlKPaaC) | 3:28 | 2024-03-19 | 2024-03-27 |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2024-02-11 | 2024-04-19 |

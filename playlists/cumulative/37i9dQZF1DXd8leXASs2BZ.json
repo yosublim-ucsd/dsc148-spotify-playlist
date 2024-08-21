@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Young zetton",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: CFN MALIK",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -3208,7 +3208,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 116213,
       "name": "Enter (feat. anddy toy store)",
       "url": "https://open.spotify.com/track/2hrhp8K71OX5bl0WVw42Aa"
@@ -3421,6 +3421,32 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/25eKwymy6EyUyRbPjOzVPM"
+      },
+      "artists": [
+        {
+          "name": "CFN MALIK",
+          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+        },
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm"
+        },
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207891,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/7sqwJzIs9H5wPVPnqKur9J"
+    },
+    {
+      "album": {
         "name": "fake friend",
         "url": "https://open.spotify.com/album/11TpRh73r7c73g24VuGaka"
       },
@@ -3520,6 +3546,24 @@
       "duration_ms": 272000,
       "name": "FETUS",
       "url": "https://open.spotify.com/track/2IrpEOJbwVhRZalWHuWYgh"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/0RcCRgyBeHE88uQuO9k32V"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157857,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/0ADYU2UmvR1UZdbR2tHVFU"
     },
     {
       "album": {
@@ -7594,7 +7638,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 160766,
       "name": "open my windovv",
       "url": "https://open.spotify.com/track/4U4WEupkAr5LtTXAX7GMrC"
@@ -8131,6 +8175,24 @@
     },
     {
       "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/6C2ndm5RsqrXlwltKMMWcn"
+      },
+      "artists": [
+        {
+          "name": "whimsyboy",
+          "url": "https://open.spotify.com/artist/2CX0MgEcYXDiBTBWjPnFp8"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Present",
+      "url": "https://open.spotify.com/track/3T90KH5eZibeXaZbPd6aso"
+    },
+    {
+      "album": {
         "name": "PRIDE",
         "url": "https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB"
       },
@@ -8248,6 +8310,32 @@
       "duration_ms": 200865,
       "name": "PURP",
       "url": "https://open.spotify.com/track/47BHCsvzb6BF7MjBT51J1C"
+    },
+    {
+      "album": {
+        "name": "Question",
+        "url": "https://open.spotify.com/album/0AK2yDyALNXxjPAdmJaark"
+      },
+      "artists": [
+        {
+          "name": "FFFFFF",
+          "url": "https://open.spotify.com/artist/2O7hm4SQlw99pB8bLg44UH"
+        },
+        {
+          "name": "Leviryi",
+          "url": "https://open.spotify.com/artist/0dHYc5ljM3Nocqd42goUM5"
+        },
+        {
+          "name": "ANLELA",
+          "url": "https://open.spotify.com/artist/0aa8K3n6sgjQZ3L6jXTgoO"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185509,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/6noHxXC8atnQWzCq40SSGm"
     },
     {
       "album": {
@@ -8444,6 +8532,24 @@
       "duration_ms": 151384,
       "name": "RESTART",
       "url": "https://open.spotify.com/track/0WkjXtIf3pz0otHWNLeMls"
+    },
+    {
+      "album": {
+        "name": "resume",
+        "url": "https://open.spotify.com/album/0EB2TRLQVsG9q7KBrE8rsX"
+      },
+      "artists": [
+        {
+          "name": "dirty cheevy",
+          "url": "https://open.spotify.com/artist/6aiZl6rS4GunaaV69zcJYc"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178216,
+      "name": "resume",
+      "url": "https://open.spotify.com/track/5zbh0xM7xPhxIu4Fisnl68"
     },
     {
       "album": {
@@ -9176,7 +9282,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 181627,
       "name": "SHUGYO",
       "url": "https://open.spotify.com/track/3YA420WQreDr2BiFgwy3NH"
@@ -9828,7 +9934,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 213333,
       "name": "Sweetest Day Of June",
       "url": "https://open.spotify.com/track/5GGWCsK5mC6XfklbVqPoxA"
@@ -9872,7 +9978,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 139636,
       "name": "syuzinkou",
       "url": "https://open.spotify.com/track/6NTWzrWaqpVqsa9yhhnhbe"
@@ -9908,7 +10014,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 147200,
       "name": "Tears",
       "url": "https://open.spotify.com/track/7MawmVRLEexXh4FpxhaAUU"
@@ -10378,6 +10484,28 @@
       "duration_ms": 157013,
       "name": "UV",
       "url": "https://open.spotify.com/track/0ZN89ciaiag2wxPoDPSray"
+    },
+    {
+      "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/5h5nYNfKZaLMWA1SL1o3sP"
+      },
+      "artists": [
+        {
+          "name": "D.E.P",
+          "url": "https://open.spotify.com/artist/64ql4Ia1efthJfNOxbtWNo"
+        },
+        {
+          "name": "vw b0mb.",
+          "url": "https://open.spotify.com/artist/7LTGEBujjkGI77DHS9IUA6"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123199,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/0oj7iUWo9tatbXN62NRB35"
     },
     {
       "album": {
@@ -11560,7 +11688,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 129389,
       "name": "\u30e6\u30ad\u30c0\u30ebMC",
       "url": "https://open.spotify.com/track/6i5R6xBxiO1NmX3WpNT4XY"

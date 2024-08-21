@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ellis",
+          "url": "https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134841,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf"
+    },
+    {
+      "album": {
         "name": "Now's Not The Time",
         "url": "https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt"
       },

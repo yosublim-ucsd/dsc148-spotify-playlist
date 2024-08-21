@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113180,
+  "num_followers": 113207,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
+        "name": "Vom Rand der Zeit",
+        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
+      },
+      "artists": [
+        {
+          "name": "Olli Schulz",
+          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
+        }
+      ],
+      "duration_ms": 203693,
+      "name": "So schreibt man seinen Song",
+      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
         "name": "Geheimnis",
         "url": "https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Vom Rand der Zeit",
-        "url": "https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH"
-      },
-      "artists": [
-        {
-          "name": "Olli Schulz",
-          "url": "https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1"
-        }
-      ],
-      "duration_ms": 203693,
-      "name": "So schreibt man seinen Song",
-      "url": "https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
         "name": "Ostkreuz",
         "url": "https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF"
       },
@@ -715,38 +715,6 @@
       "duration_ms": 205078,
       "name": "Ostkreuz",
       "url": "https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
-        "name": "K\u00f6nig Der Welt",
-        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
-      },
-      "artists": [
-        {
-          "name": "Traumatin",
-          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
-        }
-      ],
-      "duration_ms": 208825,
-      "name": "K\u00f6nig Der Welt",
-      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
-    },
-    {
-      "added_at": "2024-08-09 09:02:37",
-      "album": {
-        "name": "Niemand",
-        "url": "https://open.spotify.com/album/3qytGqjTOexofW6yNOZvqX"
-      },
-      "artists": [
-        {
-          "name": "Mia Morgan",
-          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
-        }
-      ],
-      "duration_ms": 184223,
-      "name": "Niemand",
-      "url": "https://open.spotify.com/track/3D61m9Qpfg6cOTJT2xk2Mp"
     },
     {
       "added_at": "2024-08-09 09:02:37",
@@ -767,6 +735,38 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
+        "name": "Muttertag",
+        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+      },
+      "artists": [
+        {
+          "name": "Antilopen Gang",
+          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+        }
+      ],
+      "duration_ms": 66209,
+      "name": "Muttertag",
+      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
+        "name": "K\u00f6nig Der Welt",
+        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
+      },
+      "artists": [
+        {
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
+        }
+      ],
+      "duration_ms": 208825,
+      "name": "K\u00f6nig Der Welt",
+      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
+    },
+    {
+      "added_at": "2024-08-09 09:02:37",
+      "album": {
         "name": "Mensch am Mond",
         "url": "https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-08-09 09:02:37",
       "album": {
-        "name": "Muttertag",
-        "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/3qytGqjTOexofW6yNOZvqX"
       },
       "artists": [
         {
-          "name": "Antilopen Gang",
-          "url": "https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB"
+          "name": "Mia Morgan",
+          "url": "https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB"
         }
       ],
-      "duration_ms": 66209,
-      "name": "Muttertag",
-      "url": "https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw"
+      "duration_ms": 184223,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/3D61m9Qpfg6cOTJT2xk2Mp"
     },
     {
       "added_at": "2024-08-09 09:02:37",

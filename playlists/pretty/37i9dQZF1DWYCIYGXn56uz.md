@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Sarah
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,054 likes - 61 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,028 likes - 61 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

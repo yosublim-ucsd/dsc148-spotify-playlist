@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music\. <br/>Cover: Mall Grab, Real Lies
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,624 likes - 86 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,642 likes - 86 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

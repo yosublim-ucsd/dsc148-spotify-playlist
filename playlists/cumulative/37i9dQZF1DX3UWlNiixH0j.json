@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3086\u3063\u304d\u3085\u3093 + \u541b\u5cf6\u5927\u7a7a",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b9\u30ab\u30fc\u30c8 Skirt",
   "name": "Edge!",
   "tracks": [
     {
@@ -14278,7 +14278,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 165244,
       "name": "Phenomeno",
       "url": "https://open.spotify.com/track/18zFxPtXcMTISAHwMDDRte"
@@ -24276,7 +24276,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 219398,
       "name": "\u308f\u308c\u308f\u308c\u306e\u3057\u307e",
       "url": "https://open.spotify.com/track/7lMPVBtPdoxVENSe16W9Hn"
@@ -26518,7 +26518,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 234519,
       "name": "\u30d7\u30ec\u30df\u30a2\u30e0",
       "url": "https://open.spotify.com/track/1VjBjIurnw7b4N5QI5Td8x"
@@ -28546,6 +28546,28 @@
       "duration_ms": 218946,
       "name": "\u5728\u6771\u4eac\u5c11\u5e74",
       "url": "https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7"
+    },
+    {
+      "album": {
+        "name": "\u5730\u4e0b\u9244\u306e\u63fa\u308c\u308b\u30ea\u30ba\u30e0\u3067",
+        "url": "https://open.spotify.com/album/4QG8QxpqHUBXucaDMWxPy9"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30ab\u30fc\u30c8",
+          "url": "https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk"
+        },
+        {
+          "name": "\u6751\u4e0a\u57fa",
+          "url": "https://open.spotify.com/artist/4EKTa0k3mRu5mJT5HcRRVu"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "\u5730\u4e0b\u9244\u306e\u63fa\u308c\u308b\u30ea\u30ba\u30e0\u3067",
+      "url": "https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx"
     },
     {
       "album": {

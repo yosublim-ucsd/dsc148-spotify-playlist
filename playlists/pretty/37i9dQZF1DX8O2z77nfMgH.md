@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Belinda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,610 likes - 51 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,579 likes - 51 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 11 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 12 | [MUJERÓN](https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MUJERÓN](https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS) | 2:54 |
 | 13 | [MVP](https://open.spotify.com/track/3JIj2lM5BzQpDoXcLnE3z5) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 2:56 |
-| 14 | [AHEH AHEH \- The Official Song Of FIFA U\-20 World Cup Colombia 2024](https://open.spotify.com/track/34vAOWGczQ0pXks0XAc8Uj) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [AHEH AHEH \- The Official Song Of FIFA U\-20 World Cup Colombia 2024](https://open.spotify.com/album/2j66jcbK0JnbVAvaAMXBKC) | 2:39 |
+| 14 | [AHEH AHEH \- The Official Song Of FIFA U\-20 Women’s World Cup Colombia 2024](https://open.spotify.com/track/34vAOWGczQ0pXks0XAc8Uj) | [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [AHEH AHEH \- The Official Song Of FIFA U\-20 Women’s World Cup Colombia 2024](https://open.spotify.com/album/2j66jcbK0JnbVAvaAMXBKC) | 2:39 |
 | 15 | [Tusi Pop](https://open.spotify.com/track/6CHPOaW2sAoe9pJym3CRyw) | [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Tusi Pop](https://open.spotify.com/album/5mYKSg9AJwlqhHuyUPRhL4) | 2:32 |
 | 16 | [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 |
 | 17 | [PROBLEMAS](https://open.spotify.com/track/6mgpZ1Be8Udbx5PwCUeAUB) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [PROBLEMAS](https://open.spotify.com/album/6GCmaOPBfqVLJRk6f2AHaw) | 4:51 |

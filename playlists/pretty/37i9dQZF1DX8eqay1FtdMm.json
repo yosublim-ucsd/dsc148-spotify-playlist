@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Jay Park(\ubc15\uc7ac\ubc94)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378912,
+  "num_followers": 378916,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+        "name": "Lovers of the Red Sky OST Part.1",
+        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+      "duration_ms": 248066,
+      "name": "Is it me?",
+      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Lovers of the Red Sky OST Part.1",
-        "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Is it me?",
-      "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "Alley",
         "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
         "name": "Counting Days",
         "url": "https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 236880,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
-        "name": "Go for a Walk",
-        "url": "https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 275928,
-      "name": "Go for a Walk",
-      "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1275,6 +1259,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "Go for a Walk",
+        "url": "https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 275928,
+      "name": "Go for a Walk",
+      "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1323,22 +1323,6 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
-        "name": "Like Yesterday",
-        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Just as We Were",
-        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 248306,
-      "name": "Just as We Were",
-      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "5.5 [Dear]",
         "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "Just as We Were",
+        "url": "https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 248306,
+      "name": "Just as We Were",
+      "url": "https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS"
     },
     {
       "added_at": "2024-08-14 09:23:17",

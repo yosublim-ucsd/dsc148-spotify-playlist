@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-350 songs - 13 hr 54 min
+351 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Somewhere In Between](https://open.spotify.com/track/7DGFxOJp8gfV3Y1JqOJ1A4) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/0s4ZLWPmhBUnHYOGWdhrLv) | 2:31 | 2021-06-27 | 2022-07-29 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 |  |
 | [Sparkles](https://open.spotify.com/track/49iaI2NVe2c0iz4YzpzeB3) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Sparkles](https://open.spotify.com/album/1XQuLySsbrFuKnGjsdpI8r) | 3:20 | 2021-06-27 | 2023-05-16 |
+| [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2024-08-20 |  |
 | [Spiraling Nature](https://open.spotify.com/track/5W3McsWhwFJlt8IXb2XLTZ) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Nature Spirals](https://open.spotify.com/album/5YatqGtD20czHMYisddo9l) | 2:48 | 2023-05-15 |  |
 | [Star Canopy](https://open.spotify.com/track/0Zmkl2ZG4yyLiPpoDpHILy) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Star Canopy](https://open.spotify.com/album/7ESxVY33u8rpG3jj7QZrtk) | 1:55 | 2023-05-15 | 2023-08-16 |
 | [Stardust](https://open.spotify.com/track/4o1iW5KY6ZPFC3ebxdVgKz) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [Stardust](https://open.spotify.com/album/2Ajngx1iJWxYSt79nqU3Sg) | 2:20 | 2024-05-29 |  |

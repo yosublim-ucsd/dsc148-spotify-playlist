@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 89339,
+  "num_followers": 89343,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Glem meg, men jeg glemmer aldri",
+        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
+      },
+      "artists": [
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "duration_ms": 142263,
+      "name": "Glem meg, men jeg glemmer aldri",
+      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 169933,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Glem meg, men jeg glemmer aldri",
-        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
-      },
-      "artists": [
-        {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
-        }
-      ],
-      "duration_ms": 142263,
-      "name": "Glem meg, men jeg glemmer aldri",
-      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Langt av sted",
-        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "Langt av sted",
-      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 132616,
       "name": "D\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Langt av sted",
+        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Langt av sted",
+      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "ELLE",
         "url": "https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0"
       },
@@ -1431,34 +1447,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym"
       },
       "artists": [
         {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
         }
       ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0EdDw4yXJ4x1X44QCkM8i1"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 210156,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/16pWwIOwWNrS7Hrt6YDxok"
+      "duration_ms": 167673,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA"
     }
   ],
   "unique_name": "Sommersol",

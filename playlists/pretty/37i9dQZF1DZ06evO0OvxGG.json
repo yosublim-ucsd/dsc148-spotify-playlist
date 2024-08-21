@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 6230,
+  "num_followers": 6235,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsE5gAAAAAAB8vyqGOKO55mryaV6zSxh",
+  "snapshot_id": "ZsKLAAAAAACCLZcDDCscBPCXdRUjDva9",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Molho",
-        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 167119,
-      "name": "Molho",
-      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvadeza",
         "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 120000,
       "name": "Malvadeza",
       "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Molho",
+        "url": "https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 167119,
+      "name": "Molho",
+      "url": "https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trem Bala",
-        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Leonardo Rafael",
-          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Trem Bala",
-      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B\u00d4NUS TRACK",
         "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
       },
@@ -615,6 +595,30 @@
       "duration_ms": 228000,
       "name": "B\u00d4NUS TRACK",
       "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+      },
+      "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,
@@ -643,26 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+        "name": "Trem Bala",
+        "url": "https://open.spotify.com/album/6iQRSZRu1oVorwQKiOiFIZ"
       },
       "artists": [
         {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+          "name": "DJ Leonardo Rafael",
+          "url": "https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf"
         },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
+      "duration_ms": 136624,
+      "name": "Trem Bala",
+      "url": "https://open.spotify.com/track/0wbom6Zya5Wqty2YUJZ0OR"
     },
     {
       "added_at": null,

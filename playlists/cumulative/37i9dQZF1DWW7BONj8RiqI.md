@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-349 songs - 19 hr 6 min
+350 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 | 2021-08-26 | 2023-07-12 |
 | [Carnival \(feat\. Machel Montano\)](https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Red, White, Black](https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc) | 3:51 | 2023-02-21 |  |
 | [Carnival Contract](https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Carnival Contract](https://open.spotify.com/album/0ehNONKKSjqOHAywRrgU2J) | 3:58 | 2024-07-24 |  |
+| [Carnival Jumbie](https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [The Carnival Jumbies Experiment](https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga) | 2:38 | 2024-08-05 |  |
 | [Carnival Tabanca](https://open.spotify.com/track/7hkxLRJsB7aratKW1FvtcX) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Differentology](https://open.spotify.com/album/3KU878aDWMso8fbh7JCI1a) | 3:47 | 2021-08-26 | 2022-02-25 |
 | [Carry On](https://open.spotify.com/track/4trbSqUbXaoBoAPLKu2Ydb) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/4wQOygGteHTa1gxraUG5zg) | 3:57 | 2021-08-26 | 2022-10-05 |
 | [Carry On](https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Pop's Guitar Riddim](https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2) | 3:57 | 2022-08-18 |  |
@@ -120,7 +121,7 @@
 | [Fling Bam Bam](https://open.spotify.com/track/19kJGPG46e0AoKQLTurWMv) | [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Boss Level Riddim](https://open.spotify.com/album/10JM7uuHU8vIjQvkGvkQb6) | 3:02 | 2022-02-24 | 2022-08-19 |
 | [Footsteps](https://open.spotify.com/track/0HSmfFHl7PeODbmedSB7BI) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Charge](https://open.spotify.com/album/15Kfg4oI8XNt0FRRzPvcxo) | 4:36 | 2023-02-21 | 2023-05-16 |
 | [For It All](https://open.spotify.com/track/1c0M02hy4rf3DGfaRYDv1E) | [Kerwin Du Bois](https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA), [EKO](https://open.spotify.com/artist/2kYYzFOPRggkxpP5JJ15jY) | [For It All](https://open.spotify.com/album/41JtJvR4pdVVfWkDBSr6su) | 3:07 | 2022-02-26 | 2022-08-19 |
-| [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 | 2024-07-24 |  |
+| [Front Yard Wet](https://open.spotify.com/track/7M5ku9DZkAOkytHIpzox48) | [Skinny Banton](https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6) | [Front Yard Wet](https://open.spotify.com/album/4w4NeTusrat5zotDuEzYOk) | 2:51 | 2024-07-24 | 2024-08-21 |
 | [Fuh Days](https://open.spotify.com/track/7llViWOrkPKX9o3XDsUMvQ) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Riddim Direct: De Cure](https://open.spotify.com/album/5noZ0dKHCovxO05r7W6ddJ) | 2:43 | 2022-08-18 | 2022-11-14 |
 | [Fuh Days](https://open.spotify.com/track/07odNZW5ygdwzyzfsee4HB) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 2:44 | 2022-08-18 | 2022-10-05 |
 | [Fuh Days](https://open.spotify.com/track/2CZuVYS2Qj6yg3hfeeGoa6) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 2:44 | 2022-08-18 | 2023-02-22 |

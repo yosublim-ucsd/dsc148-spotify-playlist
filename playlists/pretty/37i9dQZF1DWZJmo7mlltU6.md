@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: BoyWithUke.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,538 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,556 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 94 | [De tu panal](https://open.spotify.com/track/0zStdTFY7x3oi8pHZBhPhE) | [Caro Raro](https://open.spotify.com/artist/4d9bVps5YG8iSVVfQVMSsP), [Papaya Club](https://open.spotify.com/artist/40tfI19XPizQqSuf0nfuIX) | [De tu panal](https://open.spotify.com/album/5ROYO3ZzeJGeH54ndY9eDc) | 3:17 |
 | 95 | [Dose Sustentável](https://open.spotify.com/track/6PKgpmyOF4DYuIPJt8T8GV) | [Hércules](https://open.spotify.com/artist/01H6bymDcpWkeM7MsUp4Zh) | [Dose Sustentável](https://open.spotify.com/album/2n0zU8t0ixU0VUGjVJV8Ru) | 2:50 |
 
-Snapshot ID: `ZrU/4AAAAADuJimvT0T96QghGQ9Acv/d`
+Snapshot ID: `ZsRQfAAAAADL5GdaNwXemzQx/CK6iWN5`

@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 優里
+> The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 藤井風
 
-1,363 songs - 3 day 12 hr 49 min
+1,364 songs - 3 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Lovesong](https://open.spotify.com/track/2bikAEfH4KqwcKGNvOO9Oz) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Lovesong](https://open.spotify.com/album/3d7M1pICrlyBQgEuVL7owA) | 3:50 | 2023-02-12 | 2023-02-27 |
 | [Lovey\-Dovey \- feat\. ALEXXX](https://open.spotify.com/track/57vvBiUfZgfwFXx3EZEHK5) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs), [Alexxx](https://open.spotify.com/artist/3UnufWjMoVfmEZkPOEVttf) | [Lovey\-Dovey \(feat\. ALEXXX\)](https://open.spotify.com/album/6wYV21bjJniAOz8GRUvlpS) | 3:16 | 2023-02-19 | 2023-03-06 |
 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 | 2023-11-05 | 2024-01-29 |
-| [M4D LUV](https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [M4D LUV](https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ) | 3:17 | 2024-07-30 |  |
+| [M4D LUV](https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [M4D LUV](https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ) | 3:17 | 2024-07-30 | 2024-08-21 |
 | [M87](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M87](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-15 | 2022-07-18 |
 | [mabataki](https://open.spotify.com/track/1mzn53qwArYj52lIGpXXlD) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mabataki](https://open.spotify.com/album/5EdGTFSSmYxaGOBTnCHClZ) | 4:03 | 2022-09-11 | 2022-10-24 |
 | [Mabushii Sekai](https://open.spotify.com/track/7urd5ed6VVT9s3g1fVZL5p) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Mabushii Sekai](https://open.spotify.com/album/1rMfgMG2eMuqFjPpmCUdCC) | 5:20 | 2022-10-30 | 2022-11-03 |
@@ -669,6 +669,7 @@
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-06 | 2022-12-19 |
 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 | 2022-10-02 | 2022-10-24 |
+| [Swamp](https://open.spotify.com/track/2uWlL56OdmgMy9eCMTUZmN) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Swamp](https://open.spotify.com/album/1a5lsd68rw7esELngC2OUm) | 2:56 | 2024-08-20 |  |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-14 | 2022-09-05 |
 | [SWEET NONFICTION](https://open.spotify.com/track/0fXXfojTJEeJEF0p69qmo2) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [SWEET NONFICTION](https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3) | 3:19 | 2024-04-02 | 2024-07-31 |
 | [SWITCH](https://open.spotify.com/track/3qDohuK6Lkke03J9t3csWZ) | [BLOOM VASE](https://open.spotify.com/artist/3jpPlA4ASvE9TlObazOIee) | [SWITCH](https://open.spotify.com/album/0xp4pmEaaOqqRoHRWx3rOE) | 3:23 | 2022-07-17 | 2022-08-01 |

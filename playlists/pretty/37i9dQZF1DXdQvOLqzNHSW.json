@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 992325,
+  "num_followers": 992592,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "MOVIES! WORLDWIDE: PART I",
-        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
-      },
-      "artists": [
-        {
-          "name": "Johnny Yukon",
-          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
-        }
-      ],
-      "duration_ms": 132903,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "I Just Can't Be Alone (with Billy Lemos)",
         "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 160062,
       "name": "I Just Can't Be Alone (with Billy Lemos)",
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "MOVIES! WORLDWIDE: PART I",
+        "url": "https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md"
+      },
+      "artists": [
+        {
+          "name": "Johnny Yukon",
+          "url": "https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex"
+        }
+      ],
+      "duration_ms": 132903,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "What\u2019s In The Tea?",
+        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
+      },
+      "artists": [
+        {
+          "name": "Calimossa",
+          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "What\u2019s In The Tea?",
+      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "PHANTOM OF THE AFTERS",
         "url": "https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 135752,
       "name": "Broom",
       "url": "https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "What\u2019s In The Tea?",
-        "url": "https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO"
-      },
-      "artists": [
-        {
-          "name": "Calimossa",
-          "url": "https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q"
-        }
-      ],
-      "duration_ms": 173052,
-      "name": "What\u2019s In The Tea?",
-      "url": "https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -899,38 +899,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN"
-      },
-      "artists": [
-        {
-          "name": "Maina Doe",
-          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "What's Your Motive",
         "url": "https://open.spotify.com/album/0Agt8lNHXUtNqaNfXdF4JH"
       },
@@ -963,6 +931,38 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN"
+      },
+      "artists": [
+        {
+          "name": "Maina Doe",
+          "url": "https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "LOVE + POP",
         "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Hether Who?",
-        "url": "https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Falling in Loves too Mean",
-      "url": "https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201533,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/0czIop1Wsllu6wCktR633R"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Hether Who?",
+        "url": "https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Falling in Loves too Mean",
+      "url": "https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Candy / How many miles",
+        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 141236,
+      "name": "How many miles",
+      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
-        "name": "Candy / How many miles",
-        "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 141236,
-      "name": "How many miles",
-      "url": "https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "East",
-        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
-      },
-      "artists": [
-        {
-          "name": "MOSSS",
-          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
-        }
-      ],
-      "duration_ms": 214243,
-      "name": "What Happens In Your Head?",
-      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "Prince",
         "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Hypnotherapy",
-        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
+        "name": "East",
+        "url": "https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf"
       },
       "artists": [
         {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
         }
       ],
-      "duration_ms": 205821,
-      "name": "Hypnotherapy",
-      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
+      "duration_ms": 214243,
+      "name": "What Happens In Your Head?",
+      "url": "https://open.spotify.com/track/0n0ou3PHz61mtfgnnvxA6E"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1371,6 +1355,22 @@
       "duration_ms": 160437,
       "name": "Hang Up The Lights",
       "url": "https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Hypnotherapy",
+        "url": "https://open.spotify.com/album/3BhkFDyNYLQLWjLxwuWufB"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 205821,
+      "name": "Hypnotherapy",
+      "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "good days",
         "url": "https://open.spotify.com/album/7EvSFyzwjb4ZryeC695Jh1"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/0HuHiy3hPKuTiS0qw1lFD7"
       },
@@ -1519,6 +1519,22 @@
       "duration_ms": 200547,
       "name": "DD",
       "url": "https://open.spotify.com/track/1JHmvvbneBOS4NkEu8omQz"
+    },
+    {
+      "added_at": "2024-08-14 03:53:43",
+      "album": {
+        "name": "Dick Arkive: Issue 2",
+        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+      },
+      "artists": [
+        {
+          "name": "r mccarthy",
+          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+        }
+      ],
+      "duration_ms": 242345,
+      "name": "I Think I Lost That Love",
+      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Dick Arkive: Issue 2",
-        "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
       },
       "artists": [
         {
-          "name": "r mccarthy",
-          "url": "https://open.spotify.com/artist/0NXGquUwII6z0ukB4xmvS7"
+          "name": "Morning Silk",
+          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
         }
       ],
-      "duration_ms": 242345,
-      "name": "I Think I Lost That Love",
-      "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+      "duration_ms": 188253,
+      "name": "Nightlife",
+      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/6ZQtzX4jkYZ9bCrHJuqluB"
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
       },
       "artists": [
         {
-          "name": "Morning Silk",
-          "url": "https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A"
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
         }
       ],
-      "duration_ms": 188253,
-      "name": "Nightlife",
-      "url": "https://open.spotify.com/track/4UZjcwGRc99D7GwJYXVRPd"
+      "duration_ms": 218848,
+      "name": "Really You",
+      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
     },
     {
       "added_at": "2024-08-14 03:53:43",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/2mhUlq89PNUsG0iRweZ8no"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 218848,
-      "name": "Really You",
-      "url": "https://open.spotify.com/track/51jPeV7Ece8amGS37cBC80"
-    },
-    {
-      "added_at": "2024-08-14 03:53:43",
-      "album": {
         "name": "hurt me enough",
         "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
       },
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-08-14 03:53:43",
       "album": {
-        "name": "Move San, L\u00e8t Gate",
-        "url": "https://open.spotify.com/album/6gVG0djijF2sU0KLYFObKE"
+        "name": "That's What They Wanted",
+        "url": "https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC"
       },
       "artists": [
         {
-          "name": "TWEAKS",
-          "url": "https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn"
+          "name": "canless valley",
+          "url": "https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj"
         }
       ],
-      "duration_ms": 175707,
-      "name": "Plastic Beach",
-      "url": "https://open.spotify.com/track/6tqBvXpnAqeHTzINQlhbKp"
+      "duration_ms": 116832,
+      "name": "That's What They Wanted",
+      "url": "https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2"
     }
   ],
   "unique_name": "late night vibes",

@@ -2509,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7554ixwW94p7WaGD2mtO4G"
+      },
+      "artists": [
+        {
+          "name": "Junior Carrol",
+          "url": "https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229624,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/6clv20tpXFKLevFO7Tcdno"
+    },
+    {
+      "album": {
         "name": "Photograph",
         "url": "https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv"
       },

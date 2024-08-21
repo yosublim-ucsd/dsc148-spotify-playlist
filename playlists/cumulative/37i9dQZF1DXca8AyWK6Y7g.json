@@ -12068,7 +12068,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 153600,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg"
@@ -16950,7 +16950,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-21",
       "duration_ms": 197266,
       "name": "I Blame The World",
       "url": "https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ"
@@ -25870,6 +25870,24 @@
       "duration_ms": 190549,
       "name": "Off Season",
       "url": "https://open.spotify.com/track/5idfBD8B8uTN0dDIoTkAhB"
+    },
+    {
+      "album": {
+        "name": "Sugar Water",
+        "url": "https://open.spotify.com/album/2T17eNpNaZjeuDFcW3Mgfs"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136375,
+      "name": "Officially Mine",
+      "url": "https://open.spotify.com/track/2NVsWRM4DFXO1GIBZRVKVY"
     },
     {
       "album": {
@@ -39986,6 +40004,24 @@
       "duration_ms": 146096,
       "name": "YOU AGAINST YOURSELF",
       "url": "https://open.spotify.com/track/3Cozx0ZC9RjHOPhW8VOdXC"
+    },
+    {
+      "album": {
+        "name": "You Ain\u2019t For Me",
+        "url": "https://open.spotify.com/album/6Psiq5uxpznB6jNgwGiKfK"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2024-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157620,
+      "name": "You Ain\u2019t For Me",
+      "url": "https://open.spotify.com/track/7hd8IUeTsLnyEr9b2RquoG"
     },
     {
       "album": {

@@ -2997,6 +2997,36 @@
     },
     {
       "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/3PygIHz0Eo5KRJWXBVG2UV"
+      },
+      "artists": [
+        {
+          "name": "Jay Eskar",
+          "url": "https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh"
+        },
+        {
+          "name": "ESCARGOT",
+          "url": "https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3"
+        },
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+        }
+      ],
+      "date_added": "2024-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/5Opqr7IrmfK6OKdauZ84nH"
+    },
+    {
+      "album": {
         "name": "Ego",
         "url": "https://open.spotify.com/album/4KAX3VjLEYw48Z2zIoAj0Z"
       },

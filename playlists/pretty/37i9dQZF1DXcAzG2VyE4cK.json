@@ -1,12 +1,12 @@
 {
   "description": "Soy como quiero ser.",
-  "num_followers": 57134,
+  "num_followers": 57160,
   "original_name": "Acuario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zoyx6gAAAABWC2B5rkejWbahZDOvwR4B",
+  "snapshot_id": "ZsUydwAAAACwJalksfTrOIR2BV9mhEse",
   "tracks": [
     {
       "added_at": "2020-03-11 16:03:01",
@@ -71,6 +71,30 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2024-08-21 00:19:03",
+      "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2020-03-11 16:03:01",
@@ -153,22 +177,6 @@
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
-      "added_at": "2024-07-05 04:04:33",
-      "album": {
-        "name": "Songwriter",
-        "url": "https://open.spotify.com/album/4Y58KotkrZ32Nnni8CuXRd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Hello Out There",
-      "url": "https://open.spotify.com/track/0x1u8snNiyKqfmYmyQg3Kr"
-    },
-    {
       "added_at": "2024-05-30 02:40:53",
       "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
@@ -233,22 +241,6 @@
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
-      "added_at": "2024-05-31 00:19:42",
-      "album": {
-        "name": "Pull the Rope",
-        "url": "https://open.spotify.com/album/3wjRvLacBAnnIi08sQwsZS"
-      },
-      "artists": [
-        {
-          "name": "Ibibio Sound Machine",
-          "url": "https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c"
-        }
-      ],
-      "duration_ms": 216240,
-      "name": "Political Incorrect",
-      "url": "https://open.spotify.com/track/4MBJzFfLTkg6KDfvANj3xs"
-    },
-    {
       "added_at": "2020-03-11 16:03:01",
       "album": {
         "name": "Storm Front",
@@ -311,22 +303,6 @@
       "duration_ms": 230000,
       "name": "Felices los 4",
       "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
-    },
-    {
-      "added_at": "2024-05-30 02:40:53",
-      "album": {
-        "name": "Pero Amas El Caos",
-        "url": "https://open.spotify.com/album/4ulMrEfSBIeQDRqtgQ5YvX"
-      },
-      "artists": [
-        {
-          "name": "RONCO",
-          "url": "https://open.spotify.com/artist/3xbpuptPAr87U4lZxvV2nM"
-        }
-      ],
-      "duration_ms": 267883,
-      "name": "Pero Amas El Caos",
-      "url": "https://open.spotify.com/track/2EXMUFmuJhwyQO6yK7RBlH"
     },
     {
       "added_at": "2020-03-11 16:03:01",
@@ -399,26 +375,6 @@
       "duration_ms": 160866,
       "name": "Seguir Viviendo Sin Tu Amor",
       "url": "https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg"
-    },
-    {
-      "added_at": "2023-03-16 23:16:40",
-      "album": {
-        "name": "Acuario (Solo San Remix)",
-        "url": "https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        },
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 174266,
-      "name": "Acuario - Solo San Remix",
-      "url": "https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ"
     },
     {
       "added_at": "2020-03-11 16:03:01",
@@ -499,6 +455,54 @@
       "duration_ms": 215240,
       "name": "Ment\u00eda",
       "url": "https://open.spotify.com/track/37OFAZ00hyRo6o3tPE6IAU"
+    },
+    {
+      "added_at": "2020-03-11 16:03:01",
+      "album": {
+        "name": "Somewhere Over the Rainbow The Best of Israel Kamakawiwo`ole",
+        "url": "https://open.spotify.com/album/29uSnrq9dBUFj9hjobj9TS"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/4yDjzVhXig9tfO7Zv46FE8"
+    },
+    {
+      "added_at": "2020-03-11 16:03:01",
+      "album": {
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+    },
+    {
+      "added_at": "2020-03-11 16:03:01",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 271706,
+      "name": "D\u00eda Cero",
+      "url": "https://open.spotify.com/track/0LJgnWjRvbM60ieEVAJcAO"
     }
   ],
   "unique_name": "Acuario",

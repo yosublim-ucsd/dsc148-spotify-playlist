@@ -4,7 +4,7 @@
 
 > Gentle, soft Ambient music for focus and concentration.
 
-181 songs - 8 hr 37 min
+182 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-10-12 |  |
 | [Climbing](https://open.spotify.com/track/1x7zBpMIdrySvhENuSY5JV) | [Barbena](https://open.spotify.com/artist/0DorMBZ5PrujJquR3bbTdL) | [Climbing](https://open.spotify.com/album/1O1JvywjelQdazDkPI9Lei) | 2:35 | 2022-10-12 | 2023-04-22 |
 | [Cloud Dance](https://open.spotify.com/track/7vOfAUgHjLDiHwgjAKn9c4) | [Pitouu](https://open.spotify.com/artist/2w475xthfIP9cwGqBUqfSG) | [Cloud Dance](https://open.spotify.com/album/4vcFJNkXXMDI4VgUnhfVk7) | 2:36 | 2022-10-12 |  |
-| [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 | 2024-03-14 |  |
+| [Cold Nights](https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Cold Nights](https://open.spotify.com/album/389ancrSn0JTicvyxdpkIo) | 3:12 | 2024-03-14 | 2024-08-21 |
 | [Confidence](https://open.spotify.com/track/61LzaoAvJFI2N1qZKjWEfG) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Confidence](https://open.spotify.com/album/5Bhi1WTuw3gm08KC3iwi3v) | 2:42 | 2022-10-12 |  |
 | [Connected](https://open.spotify.com/track/1vQ3tw9wuBOOezgkRH8lw2) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Connected](https://open.spotify.com/album/6ljX7J9ydYpuP1mjpIVlBQ) | 3:16 | 2024-04-04 |  |
 | [Consider](https://open.spotify.com/track/47KiJwkuSOnFeL5WvLBFvP) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Consider](https://open.spotify.com/album/7cpmL0bFhUkvuBM8cpGWeg) | 2:43 | 2023-09-29 |  |
@@ -55,6 +55,7 @@
 | [Donia](https://open.spotify.com/track/4trb0luHXNU6Q5UrHE4DpV) | [Duanova](https://open.spotify.com/artist/2R9WDTiIok7j4nf9CwFw7b) | [Donia](https://open.spotify.com/album/7b9pUYGK5xYVe107o6b7ae) | 2:22 | 2022-10-12 |  |
 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 | 2022-10-12 |  |
 | [Drømmende](https://open.spotify.com/track/417Rk6IHsMmM8tKtP3CNfB) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Drømmende](https://open.spotify.com/album/786ZDMgiNEMHHTqEm376n5) | 2:23 | 2022-10-12 |  |
+| [Eclipse](https://open.spotify.com/track/6Z7AvtDIW22XxHYOyTXlWH) | [Phillipe Cloé](https://open.spotify.com/artist/5DMHdizoMGkBX3LMMcFzut) | [Eclipse](https://open.spotify.com/album/4NjV45T2Gn6yoSIO3FhdYZ) | 2:43 | 2024-08-20 |  |
 | [Egyensúly](https://open.spotify.com/track/4gH0O4JlIMyvHHYqJ3hJXG) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Egyensúly](https://open.spotify.com/album/6LQGKx0QSk59TZGBDlvtVl) | 3:30 | 2022-10-12 |  |
 | [Elysian Fields](https://open.spotify.com/track/12J6Qh3o3UBgQuQfO4hi5Z) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Elysian Fields](https://open.spotify.com/album/3HifXQLQNh2hEj4kcKkNv4) | 2:43 | 2022-10-12 |  |
 | [Embrace The Dream](https://open.spotify.com/track/7uaIKej96SpLAqJqWI0lsY) | [Magnetic Sky](https://open.spotify.com/artist/2YiNWdSsFnrHWK9uMKbRoY) | [Embrace The Dream](https://open.spotify.com/album/6FbMy7PSHoy2kGfPWvPvVl) | 2:33 | 2022-10-12 |  |
@@ -107,7 +108,7 @@
 | [Memento](https://open.spotify.com/track/67SnhXIr6KWK5I1vE4xOJW) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Memento](https://open.spotify.com/album/2ff4gqPh374oFbgZszGWaF) | 3:00 | 2024-07-12 |  |
 | [Mild Season](https://open.spotify.com/track/7d8I19LKTGqXrtVuuicHeU) | [Shibuki](https://open.spotify.com/artist/01ZOR2akLhLcm87lo8jHTg) | [Mild Season](https://open.spotify.com/album/1lVMgr76m4osE1qQwyf1jC) | 2:27 | 2024-03-07 |  |
 | [Mindful Soul](https://open.spotify.com/track/1lfuL7h3owfL3hCiWE2EZK) | [Aaron Lynn](https://open.spotify.com/artist/1kEuEpTf7gKcy26IEL9Cw0) | [Mindful Soul](https://open.spotify.com/album/7xVsT3GMGgakHk9xbtjDzC) | 2:39 | 2022-10-12 | 2022-11-23 |
-| [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 | 2024-03-07 |  |
+| [Moonwalk](https://open.spotify.com/track/4iayZPpJMR21nmQSXznRYy) | [Stellar Serenity](https://open.spotify.com/artist/0cNkXhcvWBfK1vKVAUC7Ye) | [Moonwalk](https://open.spotify.com/album/10xs3hLs3VbR1YV3A4h1We) | 2:57 | 2024-03-07 | 2024-08-21 |
 | [More Than Anything](https://open.spotify.com/track/2B1Tx8yV3jAJqQXxR8B1An) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [More Than Anything](https://open.spotify.com/album/5G1UXmHAHZzhqY4qel3ZEe) | 2:06 | 2022-11-22 |  |
 | [Morning Lights](https://open.spotify.com/track/2r9QArmF6Z30UzUvDBgCy4) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Morning Lights](https://open.spotify.com/album/7JAleYk8JNdXN9ihY9Gy86) | 2:54 | 2022-10-12 |  |
 | [morning passage](https://open.spotify.com/track/4LDRJW64zyZEUBXuhxmmIo) | [one master key](https://open.spotify.com/artist/7tYH9lZ44lvMea9dhS0lkF) | [morning passage & sunday poetry](https://open.spotify.com/album/0yrOgkbj2pMCarjW8Ha2Wl) | 2:37 | 2024-06-10 | 2024-07-25 |
@@ -127,7 +128,7 @@
 | [Orphic](https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Orphic](https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA) | 3:00 | 2022-10-12 | 2023-02-09 |
 | [Patiently](https://open.spotify.com/track/4ksohd9Ti6zViNRYe80JEW) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Patiently](https://open.spotify.com/album/768bX4s0q9wTXd1Nxt5mo4) | 2:58 | 2023-09-29 |  |
 | [Peaceful Patterns](https://open.spotify.com/track/0EGpuh2uzSDi5mnMIvgFui) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Peaceful Patterns](https://open.spotify.com/album/2Mrq6DXobLAj2feyv0h59J) | 2:49 | 2022-10-12 |  |
-| [Peaceful Sensations](https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Peaceful Sensations](https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn) | 2:45 | 2023-12-01 |  |
+| [Peaceful Sensations](https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm) | [Amara Issawi](https://open.spotify.com/artist/2P9RNRqGbPoYGrT7wQTt8r) | [Peaceful Sensations](https://open.spotify.com/album/444Smw0uIl5I4mJ6CdkRQn) | 2:45 | 2023-12-01 | 2024-08-21 |
 | [Per Me](https://open.spotify.com/track/6km83BJ2tedUp9R0RDTz9N) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Per Me](https://open.spotify.com/album/1kg1n715SGQCmmS741iP7F) | 3:17 | 2022-10-12 | 2023-01-21 |
 | [Places Beyond](https://open.spotify.com/track/4kh3Hjy1RPkAbKZpHi5k17) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Liminal](https://open.spotify.com/album/1DN3N3sPQIZlpjMcvWkc9N) | 1:49 | 2022-10-12 | 2023-07-29 |
 | [Planet Calm](https://open.spotify.com/track/1DiSzonwA6obAjQSbz1vAx) | [Rebootist](https://open.spotify.com/artist/6kwfEowXeDA4ixlHvGmZpb) | [Talking Souls](https://open.spotify.com/album/5P7CUCHWkRwhFQT2iJ4e2B) | 3:10 | 2023-02-25 |  |
