@@ -1,12 +1,12 @@
 {
-  "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 353420,
+  "description": "This is Sabrina Carpenter. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 354148,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADf3Ugh7x0GTSjMv1WzkOXZ",
+  "snapshot_id": "ZsPcgAAAAADdGzp7V5nORV2cWUyZegoS",
   "tracks": [
     {
       "added_at": null,
@@ -651,18 +651,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVOLution",
-        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
       },
       "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 172426,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY"
+      "duration_ms": 166909,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
     },
     {
       "added_at": null,
@@ -715,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hands",
-        "url": "https://open.spotify.com/album/0VlO7qV6DhO0qyVrDOMpUn"
+        "name": "EVOLution",
+        "url": "https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R"
       },
       "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        },
         {
           "name": "Sabrina Carpenter",
           "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 166909,
-      "name": "Hands",
-      "url": "https://open.spotify.com/track/7ydN6k1pLu6GRJsJpFXnYu"
+      "duration_ms": 172426,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY"
     },
     {
       "added_at": null,

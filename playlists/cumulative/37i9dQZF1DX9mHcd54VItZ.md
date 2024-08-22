@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ">Run Into Waves</a>
 
-499 songs - 1 day 5 hr 45 min
+500 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Mans Best Friend](https://open.spotify.com/track/6U4udqe4YtkSnRwMoUkqTE) | [Jim Neversink](https://open.spotify.com/artist/7lcphTNzwW4Lx0FBAusFtK) | [No Wah\-Wah](https://open.spotify.com/album/6jkxRWucYvKKu2SSTwzVb0) | 3:59 | 2023-03-16 | 2023-04-21 |
 | [Matchbox](https://open.spotify.com/track/21wmyOXLR61jREnMsR0MeI) | [Amersham](https://open.spotify.com/artist/4IsDolWuvTUkg8pKNphLhd) | [Wearing Thin](https://open.spotify.com/album/2HAL5mn9JL3wyfjmoojhk3) | 3:23 | 2024-01-04 | 2024-03-30 |
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
-| [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 | 2024-07-04 |  |
+| [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 | 2024-07-04 | 2024-08-22 |
 | [Melissa](https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4) | [Zebra](https://open.spotify.com/artist/4uYxKWbZsXrwg0h4zEmOf4) | [Melissa](https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg) | 3:25 | 2023-05-25 | 2023-08-12 |
 | [Michelle](https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Michelle](https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o) | 3:45 | 2023-06-22 | 2023-09-01 |
 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 | 2023-02-02 | 2023-03-18 |
@@ -400,6 +400,7 @@
 | [Solaris](https://open.spotify.com/track/5jUykH9QNinvf6LMFN3OFE) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/6aUt7I50euvGfFJsIxORgk) | 4:08 | 2023-07-28 | 2023-10-27 |
 | [Solaris](https://open.spotify.com/track/6f0n4DM4UIaVhChxxv6Ymv) | [Shaun Orlando Berry](https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7) | [Solaris](https://open.spotify.com/album/1x8X3smRPOX8wUxOJeBpFb) | 4:08 | 2023-07-28 | 2023-10-02 |
 | [Solitaire](https://open.spotify.com/track/1QTFoM6u1rpQe62RwJarNc) | [Soul Proxy](https://open.spotify.com/artist/6rJhHWdQxT1Xov6ttzoIHS) | [Soul Proxy](https://open.spotify.com/album/6g3HJ23TlICcrbGCZilI9e) | 3:28 | 2024-01-04 | 2024-03-16 |
+| [Solo](https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7) | [Sonofold](https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD) | [Solo](https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya) | 3:49 | 2024-08-15 |  |
 | [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 | 2022-09-23 |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 | 2022-08-05 |
 | [Soothing](https://open.spotify.com/track/4t10kSOLO3ZIpztOXqupHy) | [Cal Motto\-Ros](https://open.spotify.com/artist/3nQ3eVNDnBzGUBIIgUTqqg) | [Soothing](https://open.spotify.com/album/1SmWpe54evwGksth7sACJT) | 2:57 | 2023-09-28 | 2024-01-05 |

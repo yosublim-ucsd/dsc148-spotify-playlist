@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 美秀集團  x 盧廣仲 \(Amazing Show x Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,569 likes - 111 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,575 likes - 111 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 39 | [错过](https://open.spotify.com/track/099YTMOk0bGpsjUCdR7DZp) | [黄诗棋](https://open.spotify.com/artist/045qylibJAjv32coRRoTDM), [颜东奇](https://open.spotify.com/artist/4fcGOO3t3Lu8BTTAQQrGbP) | [错过](https://open.spotify.com/album/0nErr5I8nb7zaF9u7FuUs6) | 4:27 |
 | 40 | [相像](https://open.spotify.com/track/5FBjb0I25KrkDI0nDApQhv) | [Aiden Chen](https://open.spotify.com/artist/4fN8OLPzgJFd7t40sbomjB) | [Breathe](https://open.spotify.com/album/6fIjnQnBCt1NGmU9w6FIUc) | 3:14 |
 | 41 | [平鋪直絮](https://open.spotify.com/track/1AgRzBXVauQ6vVj1GFLKC2) | [HSU林庭絮](https://open.spotify.com/artist/4QM3oaD94C17jtdO2ldhsX) | [平鋪直絮](https://open.spotify.com/album/54TfsRKSFlVbAusX7jrNZ4) | 3:43 |
-| 42 | [Deep Dive](https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N) | [One&Two](https://open.spotify.com/artist/4UhmM1Hu2pmOrdXzQqvYLQ), [陳瑜](https://open.spotify.com/artist/2xTyNiTttVfe9Vdhue81Ho), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Deep Dive](https://open.spotify.com/album/2ptiQ2EXrgpGBUZXLxtiRo) | 2:31 |
+| 42 | [Deep Dive](https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N) | [One&Two](https://open.spotify.com/artist/4UhmM1Hu2pmOrdXzQqvYLQ), [Lona](https://open.spotify.com/artist/66tKRmy3IXz9wFXkF6xBn5), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Deep Dive](https://open.spotify.com/album/2ptiQ2EXrgpGBUZXLxtiRo) | 2:31 |
 | 43 | [We Will Be Alright!!](https://open.spotify.com/track/0JLM0bsLBgFeKv0XtUJXpD) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [We Will Be Alright!!](https://open.spotify.com/album/7ApCyP1zRBtW5UNwtcLeRx) | 4:05 |
 | 44 | [迎風之歌](https://open.spotify.com/track/5S6MNHvjJDqGod7wOzoCXy) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [迎風之歌](https://open.spotify.com/album/75n1wcRAYQqKFtsziuMDbv) | 4:46 |
 | 45 | [一半自己, 一半你 \(A Half\)](https://open.spotify.com/track/3CrjXCYLuVOCmQcXuw1G8M) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [一半自己, 一半你 \(A Half\)](https://open.spotify.com/album/3qjOvbZcg651h8STKLFHEm) | 3:51 |

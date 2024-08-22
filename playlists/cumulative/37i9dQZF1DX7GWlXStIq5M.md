@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Thiago Pantaleão
 
-809 songs - 1 day 16 hr 39 min
+810 songs - 1 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 | 2023-03-10 | 2023-04-15 |
 | [Cachoeira](https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mc Fredd](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5) | [Cachoeira](https://open.spotify.com/album/4mAithietzaFqqKXXniP44) | 2:47 | 2023-09-15 | 2023-12-16 |
 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 | 2023-02-14 | 2023-09-30 |
+| [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 | 2024-08-21 |  |
 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 | 2023-08-04 | 2023-08-26 |
 | [Caliente](https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN) | [Lily Nobre](https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD), [MC RUAN RZAN](https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy) | [Caliente](https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2) | 2:13 | 2023-10-06 | 2024-03-23 |
 | [Calma, agora vai!](https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Calma, agora vai!](https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM) | 2:45 | 2024-07-19 |  |
@@ -257,7 +258,7 @@
 | [Eu Não Sei](https://open.spotify.com/track/7eeJgq9MhDnycYbd0oM2EZ) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Eu Não Sei](https://open.spotify.com/album/5rfuaPrFL0zxgLawlcHI94) | 3:34 | 2024-02-16 | 2024-03-23 |
 | [Eu Não Sei Brincar](https://open.spotify.com/track/1JV9pzSaSkFw3S9R5ZZZSl) | [NANNY](https://open.spotify.com/artist/3kosy0ERWA2PZ1zNi7PHSt) | [Eu Não Sei Brincar](https://open.spotify.com/album/7dDuVrVyt8cPynbjZIXuH2) | 2:19 | 2023-02-14 | 2023-03-25 |
 | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/track/4Sz4wqydJaWpFfR2QoaLCJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Não Sou Tão Bom Assim](https://open.spotify.com/album/0DTufNM9g4WpoUJ9HEII6Q) | 4:02 | 2020-10-20 | 2023-02-15 |
-| [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 |  |
+| [eu odeio despedidas](https://open.spotify.com/track/5IZ5Kx9r1VX9VsBBUt22Gd) | [UELO](https://open.spotify.com/artist/4IvFfW47jtzYq83IFccA7M), [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [eu odeio despedidas](https://open.spotify.com/album/3Cs0yY0A9dxYtHCSVOrkKO) | 2:31 | 2024-07-05 | 2024-08-22 |
 | [eu vivo negando o amor](https://open.spotify.com/track/3dUjqZzAvcy7RQGJSDj1fi) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [eu vivo negando o amor](https://open.spotify.com/album/7tDyxAsTnW6ng3Ndh4ldGn) | 2:52 | 2023-12-01 | 2024-01-13 |
 | [Ex Mai Love \- 1,99 Remix](https://open.spotify.com/track/1BAiq5hAOtdbo9yohjgFn9) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L), [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MGZD](https://open.spotify.com/artist/1cHmaXK1swLBgd3TDo60sh) | [Ex Mai Love \(1,99 Remix\)](https://open.spotify.com/album/1udfuU3yTteLuJeidefa3o) | 2:31 | 2023-08-11 | 2023-09-02 |
 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 | 2023-10-20 | 2023-11-18 |

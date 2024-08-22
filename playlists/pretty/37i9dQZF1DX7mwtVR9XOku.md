@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,849 likes - 73 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,871 likes - 73 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 | 57 | [Trois Romances sans paroles, Op.17 : 3\. Andante moderato](https://open.spotify.com/track/16huMJ9VNs9HZYelFI10FE) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Soft Classical Music](https://open.spotify.com/album/0NYS5GHjc4D3eYspS14Zf2) | 2:43 |
 | 58 | [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 |
 | 59 | [Strange Light in Her Eyes](https://open.spotify.com/track/6ukWzLZrSZvgbmSDmojZrM) | [Ever So So Deep](https://open.spotify.com/artist/1Zs4TnABPUXzfwugBZXyRw) | [Strange Light in Her Eyes](https://open.spotify.com/album/3wj0o4bEOsAoZkyW2qdda3) | 4:15 |
-| 60 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
+| 60 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \- Pt\. 2](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 61 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 | 62 | [Not Alone](https://open.spotify.com/track/51zxgx075eEXbFvg6xA2YM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [Love & Keep](https://open.spotify.com/album/0McAK4hAugkV6K9CfySKl7) | 2:36 |
 | 63 | [Lyric Pieces, Book 9, Op\. 68: Badnlat \(Cradle Song\)](https://open.spotify.com/track/5P5LGCJrCByuqgj9djXqa4) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Einar Steen\-Nøkleberg](https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ) | [Grieg: Lyric Pieces, Books 8 \- 10, Opp\. 65, 68, and 71](https://open.spotify.com/album/7AsuXIHGlGtFl3MoA2KCRr) | 2:11 |

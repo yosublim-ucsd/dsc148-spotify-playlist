@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-170 songs - 8 hr 40 min
+171 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-05 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-18 | 2024-04-06 |
 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 |  |
-| [Bhabi](https://open.spotify.com/track/0SQQc3FJiY1pMUV3GJ0vUN) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Bhabi](https://open.spotify.com/album/5FhMfJbIUBFkdZYRTllQGi) | 2:13 | 2024-07-18 |  |
+| [Bhabi](https://open.spotify.com/track/0SQQc3FJiY1pMUV3GJ0vUN) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Bhabi](https://open.spotify.com/album/5FhMfJbIUBFkdZYRTllQGi) | 2:13 | 2024-07-18 | 2024-08-22 |
 | [Bitches \- Elevate](https://open.spotify.com/track/0hkXFOhbJ1OUzLOJQ0iEq8) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Bitches \- Elevate](https://open.spotify.com/album/6FODRAWYzMrzxCoZnQQPBe) | 2:46 | 2024-03-27 | 2024-05-17 |
 | [Blame](https://open.spotify.com/track/2WFfHu9sIOtM9ySp2PKaPw) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Blame](https://open.spotify.com/album/2m2SC6WVY3ZliTS6SfqhIT) | 3:50 | 2023-03-18 | 2023-06-24 |
 | [Bloodlust \(feat\. Mr\. Capone\-E\)](https://open.spotify.com/track/1O00WM9qGLUBA5gq2yw0WF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mr\. Capone\-E](https://open.spotify.com/artist/3BG9cpTxZQzQChcsp7ss9a) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 2:39 | 2023-03-18 | 2024-02-14 |
@@ -52,6 +52,7 @@
 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-03-18 | 2024-04-03 |
 | [Dabb Nal](https://open.spotify.com/track/6G1ytXcX96NOSOT3e46umY) | [Bally Bhinder](https://open.spotify.com/artist/6RW1VVbDxHlS1m7NzbGuld), [UPPAL](https://open.spotify.com/artist/1oPAPxl8tllygRBMZO8jkQ), [Tyga Productions](https://open.spotify.com/artist/6JexoE8wiAiQBZQtKGRfno) | [Dabb Nal](https://open.spotify.com/album/4C9e8PZourPawibCJ7CnRq) | 2:23 | 2024-03-28 | 2024-07-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-18 |  |
+| [Damn Daddy](https://open.spotify.com/track/3Ox0CQ9jWEAamvdTnekx0J) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Damn Daddy](https://open.spotify.com/album/79Hl5KDpKufgvYZr6jlSwW) | 3:15 | 2024-08-21 |  |
 | [Dawood](https://open.spotify.com/track/6hHmenkXJDvL7XcKNxSoRU) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB), [AJ Gill](https://open.spotify.com/artist/3CqwuXmwcjkf4MgtwkRl7g) | [Dawood](https://open.spotify.com/album/2vkv2Z0G3tV2It4lgMeYo6) | 3:25 | 2024-03-29 | 2024-07-27 |
 | [Defend](https://open.spotify.com/track/4VzztRJEEEKEdLYC4TyFTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Defend](https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1) | 2:53 | 2023-03-18 | 2023-09-05 |
 | [Deposit](https://open.spotify.com/track/0CTKJBq4x6M9jz4MxGTaOv) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Deposit](https://open.spotify.com/album/7iMYIzz1CcVJYs2m2buUbF) | 2:11 | 2024-02-09 | 2024-02-16 |

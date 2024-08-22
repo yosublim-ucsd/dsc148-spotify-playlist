@@ -2,7 +2,7 @@
 
 ### [This Is Steven Price](https://open.spotify.com/playlist/37i9dQZF1DZ06evO20BxpA)
 
-> This is Steven Price\. The essential tracks, all in one playlist.
+> This is Steven Price\. Todos os maiores hits em uma só playlist.
 
 99 songs - 4 hr 38 min
 
@@ -13,7 +13,7 @@
 | [A Game of Strategy](https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:17 | 2023-08-04 |  |
 | [A Lifeline](https://open.spotify.com/track/1n0hTiZSRPnwUeslLKlA0U) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:25 | 2023-08-04 | 2024-02-22 |
 | [A Rich Community Of Life](https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 1:06 | 2023-08-04 |  |
-| [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 | 2023-08-04 | 2024-08-18 |
+| [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 | 2023-08-04 |  |
 | [Above Earth](https://open.spotify.com/track/4wrfG7WZathU9Z6tXlPxd1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 1:50 | 2023-08-04 | 2024-05-10 |
 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 | 2023-08-04 |  |
 | [All Life Here Is Waiting](https://open.spotify.com/track/1xhE2gotm4x9zc08Zitzl3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [One Planet \(Episode 1 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4oJxfzmDRFSv95uYNxOfqC) | 1:46 | 2023-11-10 | 2023-12-25 |
@@ -63,7 +63,7 @@
 | [Race Against Time](https://open.spotify.com/track/6HuhnYzrHayI1chpndrzjI) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 1:19 | 2023-11-10 | 2024-04-27 |
 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 | 2023-08-06 | 2024-05-19 |
 | [Regeneration \- From "Our Planet"](https://open.spotify.com/track/6OX1oIfF6RpfYWEeoHLfCl) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 1:51 | 2024-05-11 | 2024-06-06 |
-| [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 | 2023-11-10 |  |
+| [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/3ZTy9uTIcCgld86aVuuHe4) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Remember When We Said Goodbye \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/album/07eHCynOTkf1K3FocJLxP2) | 3:27 | 2023-11-10 | 2024-08-22 |
 | [Science Project](https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:43 | 2023-09-12 |  |
 | [Shenzou](https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 6:11 | 2023-08-04 |  |
 | [Social Networks](https://open.spotify.com/track/101VB5xvh2BbeNImerRZs1) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 3:12 | 2023-08-04 | 2023-08-09 |

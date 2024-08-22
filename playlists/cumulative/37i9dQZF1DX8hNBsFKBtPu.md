@@ -4,7 +4,7 @@
 
 > Det bedste nye pop 💜 Mina Okabe på coveret
 
-154 songs - 7 hr 53 min
+155 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Alt Ved Dig](https://open.spotify.com/track/6DpGj9bttRgHoT1vk8ezgj) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Alt Ved Dig](https://open.spotify.com/album/0XkYs4ds1GxWOg2ghL07fY) | 2:21 | 2024-06-27 |  |
 | [Altid Dig](https://open.spotify.com/track/7GyJhLUaADBKhW2mii8kTE) | [Page Four](https://open.spotify.com/artist/7HhY2BesKCaNSBRigohHXj) | [Altid Dig](https://open.spotify.com/album/5nMiJWbwOQabd8v9QsnJud) | 3:02 | 2024-06-27 |  |
 | [Anything](https://open.spotify.com/track/5AjLZX8aPonV4fOdCnoTvl) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Anything](https://open.spotify.com/album/4JVLLc7dHD1pLrryXlcKkm) | 3:08 | 2024-06-27 |  |
+| [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-21 |  |
 | [Bad Day](https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Bad Day](https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3) | 2:51 | 2024-08-15 |  |
 | [Baglæns](https://open.spotify.com/track/2IQAtBAWoIFo4I7aAwS7ta) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Baglæns](https://open.spotify.com/album/6t7vdccGJk7I1yCL0KbrZw) | 3:09 | 2024-06-27 | 2024-07-30 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-27 | 2024-07-30 |

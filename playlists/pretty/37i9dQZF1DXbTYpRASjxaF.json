@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Oklin",
-  "num_followers": 131186,
+  "num_followers": 131183,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Outra Hora",
-        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Outra Hora",
-      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Carro Chefe",
         "url": "https://open.spotify.com/album/1Wk4hEON3xo8USZcKRCYFf"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 321088,
       "name": "Carro Chefe",
       "url": "https://open.spotify.com/track/4bCZZjr5VGy8ALuZMAYNwp"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Outra Hora",
+        "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Outra Hora",
+      "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
     },
     {
       "added_at": "2024-08-16 03:01:00",
@@ -1271,30 +1271,6 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
-        "name": "Degusta",
-        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
-      },
-      "artists": [
-        {
-          "name": "Legusta Beatz",
-          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
-        },
-        {
-          "name": "Ber\u00eata",
-          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
-        },
-        {
-          "name": "DigZion",
-          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Nos Embalos de Jersey a Noite",
-      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1315,6 +1291,30 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
+        "name": "Degusta",
+        "url": "https://open.spotify.com/album/7BZPAwG0qXGZPkxs0Dwh2x"
+      },
+      "artists": [
+        {
+          "name": "Legusta Beatz",
+          "url": "https://open.spotify.com/artist/17eEAtKFuzP5NRBx7vpRfv"
+        },
+        {
+          "name": "Ber\u00eata",
+          "url": "https://open.spotify.com/artist/3T44lVfLAXe4Q1aaRHyecq"
+        },
+        {
+          "name": "DigZion",
+          "url": "https://open.spotify.com/artist/6KA0fZvlGGzqfj2aQ5mDza"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Nos Embalos de Jersey a Noite",
+      "url": "https://open.spotify.com/track/6spunQxxCbEoXCVcQtaY2N"
     },
     {
       "added_at": "2024-08-16 03:01:00",

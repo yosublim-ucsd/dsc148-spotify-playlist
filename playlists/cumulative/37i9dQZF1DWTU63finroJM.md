@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Bayaan.
 
-1,572 songs - 3 day 13 hr 52 min
+1,573 songs - 3 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/track/22Nd3GuO7sHopPjdKccRcq) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [An Art Gallery Could Never Be As Unique As You](https://open.spotify.com/album/0FRaoawfqep3bJcCqcQZpD) | 2:38 | 2023-05-30 | 2024-02-03 |
 | [Ana Lahale](https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 2:59 | 2022-03-24 | 2022-04-17 |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2022-08-26 | 2022-09-16 |
+| [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-16 |  |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2022-08-01 | 2023-01-28 |
 | [Angelica](https://open.spotify.com/track/4MvwrOOQyjh40KWwmFElmn) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/4j8jm7kAaZN85GVBJSXSfT) | 3:52 | 2022-03-24 | 2022-04-20 |
 | [Angelica](https://open.spotify.com/track/5vp4cm13NJZr5qcQIngWyK) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:52 | 2022-11-03 | 2022-11-13 |
@@ -165,7 +166,7 @@
 | [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2022-06-29 | 2022-09-16 |
 | [Binhi](https://open.spotify.com/track/0sNZsYY8LSCCM4tC2y0zR1) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 3:36 | 2022-02-03 | 2022-07-29 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2022-02-03 | 2022-09-16 |
-| [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-02 |  |
+| [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-02 | 2024-08-22 |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-03-24 | 2022-04-20 |
 | [Bitter Moon](https://open.spotify.com/track/2YVlRAicI7gnfZj2gfzhs9) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Bitter Moon](https://open.spotify.com/album/0xPzTvILIxaWFV9tqk5tef) | 2:36 | 2024-05-03 | 2024-06-13 |
 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2022-02-03 | 2022-09-16 |

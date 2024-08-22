@@ -2,7 +2,7 @@
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. The essential tracks, all in one playlist.
+> This is MC Cabelinho\. Tutti i brani in un'unica playlist.
 
 67 songs - 4 hr 35 min
 

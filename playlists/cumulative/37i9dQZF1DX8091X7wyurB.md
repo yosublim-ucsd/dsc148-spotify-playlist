@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-390 songs - 1 day 12 hr 52 min
+391 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [April Celebrants Special \(Live\)](https://open.spotify.com/track/6s4JdeAKoimUzDkClTadeg) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [April Celebrants Special \(Live\)](https://open.spotify.com/album/1o1kgdW1Y4M1j64P4ZyvMu) | 4:57 | 2022-06-30 | 2023-04-15 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2023-12-05 | 2023-12-10 |
 | [As we pray \- Prayer charge](https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [As we pray \(Prayer charge\)](https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM) | 5:45 | 2023-08-18 | 2023-10-08 |
-| [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-08-19 |  |
+| [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 | 2024-08-19 | 2024-08-22 |
 | [Ayeyi Ndwom \(feat\. Ohemaa Mercy\)](https://open.spotify.com/track/2lz93k1bxQVLnwxDfi6cVA) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:25 | 2022-06-30 | 2023-04-15 |
 | [B'ola \(Live\)](https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [B'ola \(Live\)](https://open.spotify.com/album/6MOU4J2Bv7ABtMGrVkBd5E) | 10:50 | 2023-09-01 | 2023-12-15 |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-19 |  |
@@ -263,6 +263,7 @@
 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 | 2023-08-25 | 2023-11-18 |
 | [Oke Mmiri \- Live](https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Oke Mmiri](https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp) | 8:24 | 2023-09-08 | 2023-12-15 |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2023-06-23 |  |
+| [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 | 2024-08-21 |  |
 | [Omemma \- Live, Bonus Track](https://open.spotify.com/track/6jvWoirlwA4ombS2SQavCe) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Live at Easter](https://open.spotify.com/album/6uq1EUA0TbYLSWqe1uHjqV) | 6:41 | 2023-12-05 | 2023-12-10 |
 | [OMG \(feat\. JJ Hairston\)](https://open.spotify.com/track/4fSpPNl7XFN4veisb3rAA7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Already Won](https://open.spotify.com/album/3jJjMV8cHhX1gn4Nn9GWa3) | 4:16 | 2022-06-30 | 2023-05-05 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 | 2023-06-23 |

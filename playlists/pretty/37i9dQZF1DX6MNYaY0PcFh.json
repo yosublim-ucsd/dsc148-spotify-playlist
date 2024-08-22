@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 79544,
+  "num_followers": 79574,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "luv stuck",
-        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 160440,
-      "name": "luv stuck",
-      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
+      "duration_ms": 200930,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -567,18 +563,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe"
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
       },
       "artists": [
         {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         }
       ],
-      "duration_ms": 200930,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex"
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
       "added_at": "2024-08-15 23:00:00",

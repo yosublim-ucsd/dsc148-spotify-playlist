@@ -5529,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Tellement tellement",
+        "url": "https://open.spotify.com/album/7BQNQr2ZsUfitQMCVULvDz"
+      },
+      "artists": [
+        {
+          "name": "PETITE",
+          "url": "https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210173,
+      "name": "Tellement tellement",
+      "url": "https://open.spotify.com/track/74Xe2Ooq7hHHZvxW6EMaVg"
+    },
+    {
+      "album": {
         "name": "Tenir droit",
         "url": "https://open.spotify.com/album/1owRM89pHZPQDgRgxtXpjr"
       },

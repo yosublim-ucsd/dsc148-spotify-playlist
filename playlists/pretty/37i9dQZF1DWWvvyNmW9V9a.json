@@ -1,13 +1,29 @@
 {
-  "description": "it started pretty slowly \ud83d\udc0c\ud83d\udc0c\ud83d\udc0c",
-  "num_followers": 2159899,
+  "description": "She's your favorite artist's favorite artist for real \ud83d\udc97",
+  "num_followers": 2159713,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAADXolKasJCFdYe0+XhKSCCT",
+  "snapshot_id": "ZsX9vQAAAAAnEC6PRqoOHs6FoC2n5H3K",
   "tracks": [
+    {
+      "added_at": "2024-08-21 14:35:06",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {

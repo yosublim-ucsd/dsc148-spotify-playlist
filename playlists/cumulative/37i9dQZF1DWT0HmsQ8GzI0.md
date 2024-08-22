@@ -4,7 +4,7 @@
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Maluridé, Mark Zentai
 
-108 songs - 5 hr 50 min
+109 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Reggelizz Anyámmal](https://open.spotify.com/track/3IP4T0RQvfiLMBtygMl1bD) | [Sorbonne Sexual](https://open.spotify.com/artist/7tKIRusGPRPsNoPhnpBjMd), [IDEGEN](https://open.spotify.com/artist/3r6poZPttY5wPAVBpAwehN), [Grabovski](https://open.spotify.com/artist/0Mt0VrCZiKyy6IPmjYm9en) | [Reggelizz Anyámmal](https://open.spotify.com/album/2h9kb99maJjAJep7ufEkLU) | 3:24 | 2024-06-28 | 2024-07-20 |
 | [RENDEZŐI VÁLTOZAT](https://open.spotify.com/track/4TU5svg9eXvk6USHEZJn84) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [RENDEZŐI VÁLTOZAT](https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY) | 3:22 | 2024-06-28 |  |
 | [Romeo and Juliet](https://open.spotify.com/track/5gRSdMYwjwS4TvnS4fRufp) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Romeo and Juliet](https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9) | 2:54 | 2024-06-28 |  |
-| [Rámszoknál](https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2) | [Lóci Játszik](https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf), [Volkova](https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR) | [Rámszoknál](https://open.spotify.com/album/6FTTat9BmATbki7dfdiGK3) | 3:39 | 2024-06-28 |  |
+| [Rámszoknál](https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2) | [Lóci Játszik](https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf), [Volkova](https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR) | [Rámszoknál](https://open.spotify.com/album/6FTTat9BmATbki7dfdiGK3) | 3:39 | 2024-06-28 | 2024-08-22 |
 | [SAME OLD LIES](https://open.spotify.com/track/3o7poLcvXMdISIbfwkiGYN) | [Monstaz.](https://open.spotify.com/artist/0iVpOORKECahYu3FggiXFt) | [SAME OLD LIES](https://open.spotify.com/album/1GpPYa9LDqDt8nCXimLWNk) | 2:34 | 2024-06-28 | 2024-08-16 |
 | [Secrets](https://open.spotify.com/track/222ixOHVwNakNI8FjKVwdo) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Venus](https://open.spotify.com/album/38nbcCEcWa0l4Lj3aFCLAs) | 2:33 | 2024-07-26 |  |
 | [Sehovavaló](https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT) | [Molnár Tamás](https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm), [Lábas Viki](https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL) | [Sehovavaló](https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4) | 2:54 | 2024-06-28 |  |
@@ -110,6 +110,7 @@
 | [Ugyanitt várlak](https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO) | [Margaret Island](https://open.spotify.com/artist/02jCP5QSPYrmuZVMwSJweB) | [Ugyanitt várlak](https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj) | 3:17 | 2024-06-28 |  |
 | [Unnom kéne](https://open.spotify.com/track/0Idt6JYcE5YPAalcMohdk8) | [Maluridé](https://open.spotify.com/artist/0ElrXGkEGD92iBme0YAoW6), [Mark Zentai](https://open.spotify.com/artist/0h3a2a9FOPPUEA5TaOfBHO) | [Unnom kéne](https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI) | 3:17 | 2024-08-02 |  |
 | [VERTIGO](https://open.spotify.com/track/6lRVrHMMpkizaoq32hZMaR) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA) | [VERTIGO](https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF) | 3:37 | 2024-06-28 | 2024-08-03 |
+| [virágból](https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr) | [MARGE](https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW) | [virágból](https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu) | 2:53 | 2024-08-15 |  |
 | [Visszavársz](https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC) | [Huzugha](https://open.spotify.com/artist/6DTLsLKcEsWYBdawxfMi4y) | [Visszavársz](https://open.spotify.com/album/0F9J62CdO226zPEVk7um2x) | 2:05 | 2024-06-28 |  |
 | [Várj még rám](https://open.spotify.com/track/4mWIzdTHqDpHVLho4yUO2F) | [Iceboyz](https://open.spotify.com/artist/6s1abhx0ZEqlrmAhjvh757) | [Várj még rám](https://open.spotify.com/album/21bXu7f06if0Jp6IkqMUDW) | 2:38 | 2024-07-26 | 2024-08-03 |
 | [yamas](https://open.spotify.com/track/7FlE27JsmPgbGGy6Ahkr5w) | [nyhill](https://open.spotify.com/artist/3fWOYMACB3QVxrsut23uDn), [Efkilenc](https://open.spotify.com/artist/0rvhqFUEf6qjUcu7L2SC0i) | [yamas](https://open.spotify.com/album/1NWmlNgeE6hIqVUFyNw95P) | 3:25 | 2024-08-02 | 2024-08-16 |

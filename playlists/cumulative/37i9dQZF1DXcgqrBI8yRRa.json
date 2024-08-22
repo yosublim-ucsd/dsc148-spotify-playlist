@@ -9167,7 +9167,7 @@
     },
     {
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
       "artists": [
@@ -9192,7 +9192,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
@@ -9210,12 +9210,12 @@
           "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
           "name": "S.N.E",
           "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         }
       ],
       "date_added": "2024-03-05",

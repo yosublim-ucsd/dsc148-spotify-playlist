@@ -2,7 +2,7 @@
 
 ### [This Is Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96)
 
-> This Is Aimer\. Los temas esenciales, todos en una lista.
+> This is Aimer\. Todos os maiores hits em uma só playlist.
 
 91 songs - 6 hr 49 min
 

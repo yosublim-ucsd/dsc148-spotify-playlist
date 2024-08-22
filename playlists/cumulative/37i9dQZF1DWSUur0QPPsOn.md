@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: B.Dot
 
-1,675 songs - 4 day 11 hr 59 min
+1,676 songs - 4 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Acers Heights](https://open.spotify.com/track/0bF6CXsKybI2FXRRrl5vpL) | [DonPerro](https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W) | [Acers Heights](https://open.spotify.com/album/3tpLWSbCCr2DghVwPL0qW7) | 3:44 | 2023-03-06 | 2023-03-18 |
 | [Acers Heights](https://open.spotify.com/track/7N2N81qsnHqk97n7XYKXWk) | [DonPerro](https://open.spotify.com/artist/746NiiXHGjRZbLjKxm4Q7W) | [Acers Heights](https://open.spotify.com/album/7uqa7ovzhMfbw0aKNWiY0d) | 3:44 | 2023-03-06 | 2023-04-02 |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-08-01 | 2022-09-02 |
+| [act vi: mad man](https://open.spotify.com/track/2oOZavHCHCCd9lV1oYBw62) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 2:38 | 2024-08-21 |  |
 | [Adore \- 2020 Remaster](https://open.spotify.com/track/7tyckyaQOzlsTjnujLinRt) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 6:34 | 2023-04-01 | 2023-05-02 |
 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 | 2022-02-01 | 2022-03-02 |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2023-03-06 | 2023-04-02 |

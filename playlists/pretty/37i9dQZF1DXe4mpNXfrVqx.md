@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Amabbi
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,171 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,289 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 14 | [Obcecada](https://open.spotify.com/track/7vXn1gdgKiCHntX6GYFPJY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:08 |
 | 15 | [Cosmo e Wanda](https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Cosmo e Wanda](https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5) | 2:12 |
 | 16 | [Jogo de Sedução](https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Jogo de Sedução](https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX) | 3:45 |
-| 17 | [MEU NÍVEL \(Olha Pra Minha Cara\)](https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [David DMAX](https://open.spotify.com/artist/7agdoyb0t5MsmNYq2s2ced) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:32 |
+| 17 | [MEU NÍVEL \(Olha Pra Minha Cara\)](https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/2yszywMdom6sSwPPMZKRDp) | [METamorFOSE](https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp) | 2:32 |
 | 18 | [Luz da Lua](https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Luz da Lua](https://open.spotify.com/album/34BDJMHyUALz7TfmeVtLNe) | 1:48 |
 | 19 | [Perfil \#86 \- Mpif](https://open.spotify.com/track/2wp6XCZIzphvjYvwngYfAJ) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Perfil \#86 \- Mpif](https://open.spotify.com/album/5xy7S2y8QkzH5Zq8mBFVUI) | 3:29 |
 | 20 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |

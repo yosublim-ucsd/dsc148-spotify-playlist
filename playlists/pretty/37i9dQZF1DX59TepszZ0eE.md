@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=yqlzM3HlTC\-8KZv6GPoZpA>Spirit of Praise</a>'s "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=Z4fqm85JQZSLZDiTxBuDnA>Dumi Mkokstad</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,291 likes - 101 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,466 likes - 101 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

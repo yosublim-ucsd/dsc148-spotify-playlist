@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXbApqiewDQsL)
 
-> Fresh new music by independent artists and labels, featuring Designo Celestial\.  Updates every Wednesday.
+> Fresh new music by independent artists and labels, featuring Mando Exclusivo\.  Updates every Wednesday.
 
-212 songs - 11 hr 21 min
+216 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-02-24 | 2024-04-24 |
 | [Beliconas](https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [Beliconas](https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD) | 2:41 | 2024-08-14 |  |
 | [Bella](https://open.spotify.com/track/3ImowwhULTk6zHkhbS1v0Q) | [Joshua Fraire](https://open.spotify.com/artist/4Fs0N194ZVRcBQYPyj4L28) | [Bella](https://open.spotify.com/album/1xuoZrOGH4J7XBPkTpbn3R) | 2:57 | 2024-08-07 |  |
+| [Besos](https://open.spotify.com/track/3FHCrNIs52vsnvSdWuWB1u) | [Juan Botello](https://open.spotify.com/artist/5zlYhimcIYTuKMu6RFydDk), [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Besos](https://open.spotify.com/album/10G3GAcbIVBuJk3zUjhI9L) | 2:40 | 2024-08-21 |  |
 | [Billetes de 100](https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:28 | 2022-05-13 | 2024-04-24 |
 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 | 2024-02-23 | 2024-04-24 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-05-13 | 2024-04-24 |
@@ -82,6 +83,7 @@
 | [Entre Peligro](https://open.spotify.com/track/05E402PUeZFNUR0Hlg5xp2) | [Ascenso Recio](https://open.spotify.com/artist/6FXZLq6qLDlkyQKbXF37sP) | [Entre Peligro](https://open.spotify.com/album/37yQwL8p1fW8sac8yfKCIm) | 2:50 | 2024-08-07 |  |
 | [Eres la Persona Correcta en el Momento Equivocado \(feat\. Luis Coronel & Espinoza Paz\)](https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Luis Coronel](https://open.spotify.com/artist/5DlVR9AUTrBgXWN4wiy5aL), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Eres la Persona Correcta en el Momento Equivocado \(feat\. Luis Coronel & Espinoza Paz\)](https://open.spotify.com/album/64Cku1ubYVNse8ZPaKuDM6) | 3:59 | 2022-05-13 | 2024-04-24 |
 | [Eres Una Niña](https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz) | 2:50 | 2024-04-24 | 2024-08-08 |
+| [ESPACIO VACIO](https://open.spotify.com/track/1zTgC2K4kB74XjOOTME0f4) | [MILAS](https://open.spotify.com/artist/3TKgamKsMMP7pmm1likOgY) | [ESPACIO VACIO](https://open.spotify.com/album/58EPWwSkh4emOzVrce4Ea2) | 3:15 | 2024-08-21 |  |
 | [Esta Noche](https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:37 | 2022-05-13 | 2024-04-24 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-05-13 | 2024-04-24 |
 | [Estoy De Buenas 2](https://open.spotify.com/track/6CUnjwsIkBAphUkGV6q5lc) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy de Buenas 2](https://open.spotify.com/album/6N7dE7fvEMV4mKzhy5ozHQ) | 2:05 | 2024-08-07 |  |
@@ -186,6 +188,7 @@
 | [Soy El Diablo \- Remix](https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy El Diablo \(Remix\)](https://open.spotify.com/album/37zRKUEX9zhmGThutsr2Fo) | 3:13 | 2022-05-13 | 2024-04-24 |
 | [Soy Unico](https://open.spotify.com/track/0Oyua2kZg6mo8Pjpv8C4sv) | [Boy Junior](https://open.spotify.com/artist/7oewpx3rYQv76GZ3GAq5Yq) | [Soy Unico](https://open.spotify.com/album/0Iyv4O4X7TvLpeojIQhUOe) | 3:08 | 2024-08-14 |  |
 | [Soy Yo](https://open.spotify.com/track/3RTHRT7s4NsxVoM4PbNGmL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [Soy Yo](https://open.spotify.com/album/1RpZC47xvZZEUYuEeQzsGF) | 4:55 | 2024-08-14 |  |
+| [Su Vicio Favorito](https://open.spotify.com/track/1jXkP0nrd22DOz7hoI4ENi) | [Jorge Almir](https://open.spotify.com/artist/1GKXviU5O6Yj7o8qobC869) | [Su Vicio Favorito](https://open.spotify.com/album/66JmmBFGiOOSIFLh8BhcIb) | 2:59 | 2024-08-21 |  |
 | [Suelas Azules](https://open.spotify.com/track/0DBWO6NmY0uBeNZENpFnWy) | [Lumar Perez](https://open.spotify.com/artist/0m8RPY3jufvoZY1p48TbRb) | [Suelas Azules](https://open.spotify.com/album/4UKWSwiUEMEgLX4RR7OWjS) | 2:41 | 2024-08-14 |  |
 | [Tal Como Eres](https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Tal Como Eres](https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT) | 3:50 | 2024-04-24 | 2024-08-08 |
 | [Tan Sensual](https://open.spotify.com/track/7yvhrqpYUxRRsDR13kViYx) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [Tan Sensual](https://open.spotify.com/album/0xb7mU6F7EyMMtPbjLQUIM) | 3:23 | 2024-08-07 |  |
@@ -220,5 +223,6 @@
 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 | 2023-05-05 | 2024-04-24 |
 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 | 2024-04-24 | 2024-08-08 |
 | [¿Quién Te Crees?](https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [¿Quién Te Crees?](https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw) | 3:05 | 2022-05-13 | 2024-04-24 |
+| [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/track/1WNgSaJ0GBEfhqWeHt3WQt) | [Muriel](https://open.spotify.com/artist/5mbYm79icxiW01SUp5G5Ov) | [¿Qué Tal Si Lo Intentamos?](https://open.spotify.com/album/2EPOUPWKYsoA6dg2Dtn63S) | 3:28 | 2024-08-21 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

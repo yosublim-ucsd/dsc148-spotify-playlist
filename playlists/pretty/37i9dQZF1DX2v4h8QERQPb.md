@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Bardero$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,526 likes - 99 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,556 likes - 99 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 8 | [Ida](https://open.spotify.com/track/3eeFR0UY6CQBfTsIrEiIL0) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Ida & Vuelta](https://open.spotify.com/album/7Mb7nJQnyKx2v374tYtsRv) | 3:46 |
 | 9 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 |
 | 10 | [YA NI YO ME ENTIENDO](https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [RADIO CLUB HITS](https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq) | 2:10 |
-| 11 | [EPDTM RMX \- Remix](https://open.spotify.com/track/7jhBUJswWbBhvGrdx0qoWU) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [EPDTM RMX \- Remix](https://open.spotify.com/album/2dsKum7SiaOLXGIrhS36qo) | 4:08 |
+| 11 | [EL PORQUE DE TU MIRAR RMX \- Remix](https://open.spotify.com/track/7jhBUJswWbBhvGrdx0qoWU) | [Fianru](https://open.spotify.com/artist/6RAj8Czs5jmwbbXU7r2SmW), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [EL PORQUE DE TU MIRAR RMX \- Remix](https://open.spotify.com/album/2dsKum7SiaOLXGIrhS36qo) | 4:08 |
 | 12 | [Adelantado](https://open.spotify.com/track/6bcAaffKIk6lkRAn3CJ8ng) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [808god](https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8) | [Adelantado](https://open.spotify.com/album/5IokoqgSfmhq5unsRNs24S) | 3:53 |
 | 13 | [PLO PLO!](https://open.spotify.com/track/64yGL8p8jWN41sT38BbYJ3) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 1:57 |
 | 14 | [FOCUS](https://open.spotify.com/track/6wY0d6mPSHOZXL0ZQGClY0) | [Klan](https://open.spotify.com/artist/7flslx3D22tWYKvoChQX8o) | [FOCUS](https://open.spotify.com/album/4QB0VJUZoM12np6F7ucSYP) | 2:30 |

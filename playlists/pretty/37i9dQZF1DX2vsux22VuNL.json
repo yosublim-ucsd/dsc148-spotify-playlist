@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 289833,
+  "num_followers": 289909,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,26 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 243370,
+      "name": "Ver Em Cores",
+      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 243370,
-      "name": "Ver Em Cores",
-      "url": "https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP"
     },
     {
       "added_at": "2024-08-09 14:46:50",
@@ -1555,46 +1555,6 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
-        "name": "Bora pra praia",
-        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        },
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "BORABAEZ",
-          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
-        }
-      ],
-      "duration_ms": 228349,
-      "name": "Bora pra praia",
-      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1635,6 +1595,46 @@
       "duration_ms": 141130,
       "name": "Risco de se Apaixonar",
       "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
+        "name": "Bora pra praia",
+        "url": "https://open.spotify.com/album/3p8V4ex0o4XreYjiCYtWPa"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        },
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "BORABAEZ",
+          "url": "https://open.spotify.com/artist/3hJUVrmL4KCQKvr9EEilVj"
+        }
+      ],
+      "duration_ms": 228349,
+      "name": "Bora pra praia",
+      "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
     },
     {
       "added_at": "2024-08-09 14:46:50",

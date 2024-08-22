@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,027 songs - 3 day 5 hr 15 min
+2,028 songs - 3 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Broke2broken](https://open.spotify.com/track/2hiFXcFHL1lIMzZV7xl16p) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Broke2broken](https://open.spotify.com/album/2PZiaTEs4mtUuxGMCdOFrJ) | 2:40 | 2024-07-19 | 2024-08-17 |
 | [Broken Nightlight](https://open.spotify.com/track/2Z40W636rAX3haCxAwOyZS) | [Koopville](https://open.spotify.com/artist/69JFk9tc1JPQ1aT9lWk41S) | [Broken Nightlight](https://open.spotify.com/album/1oJ0uOKavKhG54Kinen1jg) | 2:08 | 2022-06-17 | 2022-09-17 |
 | [Brontosaurus](https://open.spotify.com/track/6RL9vfQeOsrDIeV9pza3aA) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Ginger Chews](https://open.spotify.com/album/44ExMCeFJHTDFhtg8YVB2v) | 2:22 | 2022-04-15 | 2022-07-15 |
+| [broth](https://open.spotify.com/track/1V07rv74k9FinkehDGR14N) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [broth](https://open.spotify.com/album/4r5vFtlHvYzp23Xn34Oj8Y) | 3:06 | 2024-08-16 |  |
 | [Brown Skin Girl](https://open.spotify.com/track/3x4EfIrFjACfN9ZXdWg2Mn) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Brown Skin Girl](https://open.spotify.com/album/5FxZFWKjxI7slKd31x2PZO) | 1:40 | 2022-07-22 | 2022-08-19 |
 | [Bulawayo](https://open.spotify.com/track/5jVG0eWIZGER8J7HUM1XfK) | [Grabbeltonn](https://open.spotify.com/artist/5MBxUkmVbZj0Yq9grVNAc9), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Bulawayo](https://open.spotify.com/album/4GXBOM97zn7GvhiFnbkmfW) | 2:46 | 2022-09-02 | 2022-12-24 |
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-04-15 | 2022-11-12 |
@@ -935,7 +936,7 @@
 | [Lamplight](https://open.spotify.com/track/5FAI58CsAJSZm5WityWEfN) | [Catchaser](https://open.spotify.com/artist/2SP58Wk0YjobckhSvIMJo3) | [Cookies & Cream](https://open.spotify.com/album/2pIy3Hqv4nunY3V0AlHIf1) | 3:41 | 2022-04-15 | 2022-09-23 |
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2022-11-11 |  |
 | [Last Time](https://open.spotify.com/track/08WUibKNfFF4WfG41D4PtG) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Last Time](https://open.spotify.com/album/2ZE03YO8AarncGggsEqlUM) | 2:23 | 2022-06-10 | 2022-11-19 |
-| [late days](https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [late days](https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47) | 1:41 | 2024-04-12 |  |
+| [late days](https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [late days](https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47) | 1:41 | 2024-04-12 | 2024-08-22 |
 | [Late Night Call](https://open.spotify.com/track/4F0rWDhwr8mAImFmCPuBvP) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [Late Night Call](https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t) | 2:33 | 2022-04-15 | 2022-06-25 |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2022-04-15 | 2022-08-12 |
 | [late night train](https://open.spotify.com/track/1HdY90S677tBxCIglQs8rB) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [late night train](https://open.spotify.com/album/0Qlzxc487GyxRnHPqJQDgX) | 2:23 | 2023-04-20 |  |

@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Enna Sachitiye",
+        "url": "https://open.spotify.com/album/4p55p6frgV7NlbHhfbIzBt"
+      },
+      "artists": [
+        {
+          "name": "Haswanth Adhi",
+          "url": "https://open.spotify.com/artist/0zo8RWL9fAbxFOGPPEKbUm"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191364,
+      "name": "Enna Sachitiye",
+      "url": "https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV"
+    },
+    {
+      "album": {
         "name": "enna vittu",
         "url": "https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6"
       },
@@ -6928,6 +6946,32 @@
       "duration_ms": 202085,
       "name": "Vengai Penne",
       "url": "https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT"
+    },
+    {
+      "album": {
+        "name": "VENKUZHALI",
+        "url": "https://open.spotify.com/album/3HN4AEXQO0Sw2PiUqwIq8l"
+      },
+      "artists": [
+        {
+          "name": "Martin Kartenjer",
+          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
+        },
+        {
+          "name": "L J Vijay",
+          "url": "https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP"
+        },
+        {
+          "name": "Shibi Srinivasan",
+          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "VENKUZHALI",
+      "url": "https://open.spotify.com/track/4oIGqgabBXnjr6uwBplh1i"
     },
     {
       "album": {

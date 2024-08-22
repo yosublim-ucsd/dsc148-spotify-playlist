@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Gurriers
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,360 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,359 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

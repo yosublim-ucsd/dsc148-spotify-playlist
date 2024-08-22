@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53067,
+  "num_followers": 53065,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "One Lord, One Faith, One Baptism",
-        "url": "https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        },
-        {
-          "name": "Marvis Staples",
-          "url": "https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH"
-        }
-      ],
-      "duration_ms": 368333,
-      "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
-      "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Something Has To Break (feat. Karen Clark Sheard)",
         "url": "https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 347752,
       "name": "Something Has To Break (feat. Karen Clark Sheard)",
       "url": "https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "One Lord, One Faith, One Baptism",
+        "url": "https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "Marvis Staples",
+          "url": "https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH"
+        }
+      ],
+      "duration_ms": 368333,
+      "name": "Oh Happy Day - Live at New Bethel Baptist Church, Detroit, MI - July 1987",
+      "url": "https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11"
     },
     {
       "added_at": "2024-07-02 01:22:00",

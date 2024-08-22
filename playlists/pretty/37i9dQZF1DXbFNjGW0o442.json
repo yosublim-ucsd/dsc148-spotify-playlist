@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
-  "num_followers": 39494,
+  "num_followers": 39503,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "beso despedida",
+        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
+      },
+      "artists": [
+        {
+          "name": "ERNES",
+          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
+        }
+      ],
+      "duration_ms": 136364,
+      "name": "beso despedida",
+      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "El Final de Las Cosas",
         "url": "https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "beso despedida",
-        "url": "https://open.spotify.com/album/1APUF9YYr1YSNN5smPXyj5"
-      },
-      "artists": [
-        {
-          "name": "ERNES",
-          "url": "https://open.spotify.com/artist/5eEAlgLGJ8pCB7uNaxvSUU"
-        }
-      ],
-      "duration_ms": 136364,
-      "name": "beso despedida",
-      "url": "https://open.spotify.com/track/01xEQ8jOzp5KccGOoMSofG"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Lucy Patan\u00e9",
         "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
       },
@@ -775,6 +791,22 @@
       "duration_ms": 169398,
       "name": "Clav\u00edcula",
       "url": "https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Igual",
+        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 250770,
+      "name": "Igual",
+      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -799,22 +831,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Viaje al M\u00e1s Ac\u00e1 (Remastered 2020)",
         "url": "https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 192811,
       "name": "H\u00e9roes An\u00f3nimos",
       "url": "https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Igual",
-        "url": "https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 250770,
-      "name": "Igual",
-      "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 146668,
+      "name": "Pulso",
+      "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 203186,
       "name": "Batalla Naval",
       "url": "https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 146668,
-      "name": "Pulso",
-      "url": "https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
       },
       "artists": [
         {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+          "name": "Las Fokin Biches",
+          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
         }
       ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
+      "duration_ms": 180680,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik"
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
       },
       "artists": [
         {
-          "name": "Las Fokin Biches",
-          "url": "https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa"
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr"
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Huir",
         "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+        "name": "Hora de No Ver",
+        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
       "artists": [
         {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+          "name": "Suarez",
+          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
         }
       ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+      "duration_ms": 191559,
+      "name": "Morir\u00edan",
+      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1235,22 +1251,6 @@
       "duration_ms": 245246,
       "name": "Piedra Marea Fuego",
       "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Hora de No Ver",
-        "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
-      },
-      "artists": [
-        {
-          "name": "Suarez",
-          "url": "https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Morir\u00edan",
-      "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Girando",
-        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 211614,
-      "name": "Girando",
-      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 192286,
       "name": "Mi Voz",
       "url": "https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Girando",
+        "url": "https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 211614,
+      "name": "Girando",
+      "url": "https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Para Olvidarte",
-        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
+        "name": "BANCATE ESE DEFECTO (Radio Edit)",
+        "url": "https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e"
       },
       "artists": [
         {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
         }
       ],
-      "duration_ms": 185093,
-      "name": "Para Olvidarte",
-      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
+      "duration_ms": 262969,
+      "name": "BANCATE ESE DEFECTO - Radio Edit",
+      "url": "https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "BANCATE ESE DEFECTO (Radio Edit)",
-        "url": "https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e"
+        "name": "Quieta",
+        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
       },
       "artists": [
         {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
         }
       ],
-      "duration_ms": 262969,
-      "name": "BANCATE ESE DEFECTO - Radio Edit",
-      "url": "https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh"
+      "duration_ms": 175957,
+      "name": "Quieta",
+      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Quieta",
-        "url": "https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu"
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
       },
       "artists": [
         {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
         }
       ],
-      "duration_ms": 175957,
-      "name": "Quieta",
-      "url": "https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6"
+      "duration_ms": 185093,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn"
-      },
-      "artists": [
-        {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 145086,
       "name": "Ghost in the Machine",
       "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "La Piel Dura",
+        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
+      },
+      "artists": [
+        {
+          "name": "She Devils",
+          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "No Importa",
+      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
     }
   ],
   "unique_name": "Rockeras",

@@ -2,7 +2,7 @@
 
 ### [This Is Avenged Sevenfold](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09Ahq0)
 
-> This is: Avenged Sevenfold\. Alle wichtigen Tracks in einer Playlist.
+> This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
 70 songs - 6 hr 20 min
 

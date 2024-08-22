@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 110 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 110 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,9 +106,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 96 | [Give & Take](https://open.spotify.com/track/5REoSlUK3GE3sz796vEnQA) | [Kirsty Grant](https://open.spotify.com/artist/4UjMmexJsVYtV8BguV7h1e) | [Give & Take](https://open.spotify.com/album/3pZ6sDrRXyTuWf6Y6KByze) | 2:50 |
 | 97 | [Adult Films](https://open.spotify.com/track/4ulPR5zyHO2PUY0NWhjXAH) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU) | [Adult Films](https://open.spotify.com/album/7t5inmowqO4WoBmmvYzLK8) | 2:56 |
 | 98 | [Fiancé](https://open.spotify.com/track/764fINoQQmvNeAleav2Uuy) | [Nicole Cross](https://open.spotify.com/artist/3YrM00mKs7wqOtBPmeSoEo) | [Shapeshifter](https://open.spotify.com/album/18uJ2Vxf0jUeE1ZmcaVZnT) | 3:15 |
-| 99 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 |
-| 100 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
-| 101 | [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 |
+| 99 | [Never Know](https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Never Know](https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc) | 2:58 |
+| 100 | [Anyway](https://open.spotify.com/track/5WnjGzl2HgFUMim7YTept5) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Anyway](https://open.spotify.com/album/0eHPFiM66d7b9Em0SFiM1F) | 2:43 |
+| 101 | [Craving](https://open.spotify.com/track/6th4NiYoMnPQce0q2ZJ715) | [Marna](https://open.spotify.com/artist/2VObBS64brjRveVIwEfYJ9) | [Craving](https://open.spotify.com/album/6uif0HkT4JGJK13LJmyNNd) | 3:44 |
 | 102 | [We're Out Of Date](https://open.spotify.com/track/58sO9OCYxieg31e5Rv5mKQ) | [Geek](https://open.spotify.com/artist/4EUHh8hvHzJYPBakQu1OTQ), [RUSÍKA](https://open.spotify.com/artist/2ASJJ2VmOYTui6OCUd6SvN) | [We're Out Of Date](https://open.spotify.com/album/363k0uYOdBq7AlWi2PMggD) | 3:04 |
 | 103 | [Funeral](https://open.spotify.com/track/6O4V24RPZXxfV21i53oSe0) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Funeral](https://open.spotify.com/album/4MxUVHwpSoWD9npzFHBLra) | 3:13 |
 | 104 | [Can't Get Enough](https://open.spotify.com/track/3f8d8noW0QkAD63iCeEsQX) | [Fynn](https://open.spotify.com/artist/4xuvLbpdu8lDCLSnpZY45m), [Mari Cray](https://open.spotify.com/artist/5rKugNAtUbbN9vULgSBkp0) | [Can't Get Enough](https://open.spotify.com/album/0tlhRvdTPX6VEtERwuxuIE) | 3:02 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 109 | [Hold the Line](https://open.spotify.com/track/0qwgb18YE8VGKjmkclutuH) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv) | 4:15 |
 | 110 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AbZ9NAAAAACtAH/X5jsp0E1TOew8NVQp`
+Snapshot ID: `AbaC1AAAAABdUY0AL7Ae6mvek9gFRW5b`

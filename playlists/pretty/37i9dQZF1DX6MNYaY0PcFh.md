@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,544 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,574 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 26 | [Moonlight](https://open.spotify.com/track/3gVks4tc3TzqQYdDCPj7f2) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Moonlight](https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE) | 5:46 |
 | 27 | [Want Me](https://open.spotify.com/track/3F1dotxeflBfqdPRO2umZX) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI), [Sophia Violet](https://open.spotify.com/artist/3IRC7BHlsmE57kbHaGSAsV) | [Want Me](https://open.spotify.com/album/6QhchIByTxiMVcBhjTctKJ) | 2:41 |
 | 28 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 |
-| 29 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
+| 29 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
 | 30 | [Givemeafeeling](https://open.spotify.com/track/0NVBRjhjjf7gFtlDW8uRKX) | [FINNfm](https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE) | [Givemeafeeling](https://open.spotify.com/album/5Y65dlZF1POx8ynO3ItTka) | 3:06 |
-| 31 | [My World](https://open.spotify.com/track/31BVToYJwvaDoA4SARM2ex) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [My World](https://open.spotify.com/album/1dKhJGNr0C8dckZXHeWlKe) | 3:20 |
+| 31 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
 | 32 | [Rain](https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Rain](https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI) | 3:08 |
 | 33 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
 | 34 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
-  "num_followers": 155374,
+  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
+  "num_followers": 155413,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACHrr3UgeqYla2hLfy0rF97",
+  "snapshot_id": "ZsPcgAAAAADLoN4tRbazHONVAddSXhXQ",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas del Olvido",
-        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
+        "name": "D\u00edganle A Mi Ex",
+        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
       },
       "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 178040,
-      "name": "Cosas del Olvido",
-      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
+      "duration_ms": 180659,
+      "name": "D\u00edganle A Mi Ex",
+      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
     },
     {
       "added_at": null,
@@ -591,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00edganle A Mi Ex",
-        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
+        "name": "Cosas del Olvido",
+        "url": "https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj"
       },
       "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 180659,
-      "name": "D\u00edganle A Mi Ex",
-      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
+      "duration_ms": 178040,
+      "name": "Cosas del Olvido",
+      "url": "https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 210134,
-      "name": "El Karma",
-      "url": "https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Versos De Muel",
         "url": "https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 205209,
       "name": "Los Versos De Muel",
       "url": "https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 210134,
+      "name": "El Karma",
+      "url": "https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS"
     },
     {
       "added_at": null,

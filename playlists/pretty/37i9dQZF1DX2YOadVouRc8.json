@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 26718,
+  "num_followers": 26735,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Vision Remix (feat. Chl\u00f6e)",
-        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Vision Remix (feat. Chl\u00f6e)",
-      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Bad Boy Etiquette 102: Continuous Assessment",
         "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 235102,
       "name": "Last Week",
       "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Vision Remix (feat. Chl\u00f6e)",
+        "url": "https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Vision Remix (feat. Chl\u00f6e)",
+      "url": "https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 93099,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 93099,
-      "name": "X",
-      "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 114419,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Celine Dion",
         "url": "https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 189701,
       "name": "Celine Dion",
       "url": "https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 114419,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Love Garden",
         "url": "https://open.spotify.com/album/6fT729N2aJQUsIJvY2L0N3"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 150765,
       "name": "Love Garden",
       "url": "https://open.spotify.com/track/2Q0XIOSmJ8DAONrIimShb6"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Bad Intentions",
-        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
-      },
-      "artists": [
-        {
-          "name": "Deola",
-          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Men Are Crazy",
         "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 186666,
       "name": "Men Are Crazy",
       "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/5COQlZAbe4e3uklPQlOTuS"
+      },
+      "artists": [
+        {
+          "name": "Deola",
+          "url": "https://open.spotify.com/artist/6l1wMjMtPsD4Y7khSsbjyR"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/27q7h5x84WFrJY3nuSazaB"
     },
     {
       "added_at": "2024-08-02 00:01:00",

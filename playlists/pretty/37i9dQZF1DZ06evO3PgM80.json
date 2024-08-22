@@ -1,12 +1,12 @@
 {
-  "description": "This is: Julia Vit\u00f3ria. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 19421,
+  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19424,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACw4OSGn+7jcdCCDYo54v/Z",
+  "snapshot_id": "ZsPcgAAAAAAZWnINGyQq6Ohc9121re1v",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo O Que Sou",
+        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 270053,
+      "name": "Tudo O Que Sou",
+      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Julia Vit\u00f3ria - Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 296053,
       "name": "Jesus At The Center (Bonus Track) - Acoustic",
       "url": "https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo O Que Sou",
-        "url": "https://open.spotify.com/album/0xt3rvGrmRJ5PYJQLev8vQ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 270053,
-      "name": "Tudo O Que Sou",
-      "url": "https://open.spotify.com/track/0UVE8vzJoXlW4hxLwMNfTE"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redimido (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
       },
@@ -435,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
       },
       "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 327866,
-      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": null,
@@ -467,6 +447,26 @@
       "duration_ms": 304400,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 327866,
+      "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fome e Sede",
-        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "Fome e Sede",
-      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
         "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245133,
       "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
       "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fome e Sede",
+        "url": "https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "Fome e Sede",
+      "url": "https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hambre Y Sed",
-        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361826,
-      "name": "Hambre Y Sed",
-      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hambre Y Sed",
+        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Hambre Y Sed",
+      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
-      },
-      "artists": [
-        {
-          "name": "Christ For The Nations Worship",
-          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 499742,
-      "name": "Eu Canto - Ao Vivo",
-      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz da Luz",
         "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
+      },
+      "artists": [
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 499742,
+      "name": "Eu Canto - Ao Vivo",
+      "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
     },
     {
       "added_at": null,

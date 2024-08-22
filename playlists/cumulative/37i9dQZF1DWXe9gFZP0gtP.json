@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Exception",
+        "url": "https://open.spotify.com/album/3vZpbegph3K927kNhJglme"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00edia",
+          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Exception",
+      "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
+    },
+    {
+      "album": {
         "name": "Moreno",
         "url": "https://open.spotify.com/album/2mXxVSVr7GGRGY9PPjt9F2"
       },
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 177907,
       "name": "Exhalious Dream",
       "url": "https://open.spotify.com/track/7lNlimXIi5FN9xQIggXIrE"
@@ -3379,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Inner Self",
+        "url": "https://open.spotify.com/album/5iqhh1IGzXPTxxtVGjTzA2"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Dreams",
+          "url": "https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158342,
+      "name": "Inner Self",
+      "url": "https://open.spotify.com/track/5dCxYQPC6pn7FokFTaLL3R"
+    },
+    {
+      "album": {
         "name": "Innervate",
         "url": "https://open.spotify.com/album/10eJeTFDULwxl3aV41l2Ll"
       },
@@ -3480,7 +3516,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 209750,
       "name": "Just In View",
       "url": "https://open.spotify.com/track/5OJoZKBKLoJACasfMrKrCv"
@@ -4146,7 +4182,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 224364,
       "name": "Meanderings",
       "url": "https://open.spotify.com/track/2CfenHxehhJfjaeVuw2WB1"
@@ -4182,7 +4218,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 210172,
       "name": "Mellow River",
       "url": "https://open.spotify.com/track/0Uz8UHO1PM5sh2XwRLfuRD"
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 227777,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/5Lc1wnS6xGMw2xajdDvKAp"
@@ -5892,7 +5928,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 180000,
       "name": "Sanctuary Serenade",
       "url": "https://open.spotify.com/track/4NyWFAm06RDpXu8LHBcKr0"

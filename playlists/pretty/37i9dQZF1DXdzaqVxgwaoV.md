@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,843 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,833 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 58 | [Distancia](https://open.spotify.com/track/1uCs7r1Col4jCPsfMrVUwS) | [El Tropicombo](https://open.spotify.com/artist/6AUcYS2cOqMUXrBUtXCCTM) | [Historia Musical de el Tropicombo](https://open.spotify.com/album/6q0hzer4s03wIlQd2FtTVx) | 4:03 |
 | 59 | [Se Va la Vida](https://open.spotify.com/track/5ayLeELVP0BNklcdHvSiDj) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [Listos para Bailar](https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM) | 3:39 |
 | 60 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 |
-| 61 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
-| 62 | [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl), [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 |
+| 61 | [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl), [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 |
+| 62 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
 | 63 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
 | 64 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 |
 | 65 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |

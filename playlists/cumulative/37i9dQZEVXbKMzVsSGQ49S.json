@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 128196,
       "name": "Augnablik (feat. BR\u00cdET)",
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
@@ -11547,6 +11547,24 @@
     },
     {
       "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/2QpibWW7XNTOm3jYKt94Rc"
+      },
+      "artists": [
+        {
+          "name": "Dk Batid\u00e3oo",
+          "url": "https://open.spotify.com/artist/6SDt6xUo3fNlzhjSbqIzmC"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151562,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/7EWn0NjrL9sOJTzn1MElmg"
+    },
+    {
+      "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
       },
@@ -15558,7 +15576,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 174923,
       "name": "Her Smile",
       "url": "https://open.spotify.com/track/4wYgcP7JwtK3TxCh6MmoaW"
@@ -28044,7 +28062,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 212453,
       "name": "Piano in Paris",
       "url": "https://open.spotify.com/track/5C6ZzuLvOHISOnT4tVQPCc"
@@ -34102,7 +34120,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
@@ -35246,7 +35264,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -38880,7 +38898,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -42826,7 +42844,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

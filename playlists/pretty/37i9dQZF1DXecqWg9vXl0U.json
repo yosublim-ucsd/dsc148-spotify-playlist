@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 50734,
+  "num_followers": 50772,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 219166,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "lalalala",
         "url": "https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 244235,
       "name": "lalalala",
       "url": "https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 219166,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "i miss u",
         "url": "https://open.spotify.com/album/1GYrWwd9Ep3BO6emadJpSa"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "100m",
         "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 140547,
       "name": "100m",
       "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1051,22 +1035,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Nada me cansa",
         "url": "https://open.spotify.com/album/3Who85F2Gg09ZuJINbGGgA"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 122553,
       "name": "Nada me cansa",
       "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+      },
+      "artists": [
+        {
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Amanece Otra Vez",
-        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
-      },
-      "artists": [
-        {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
-        }
-      ],
-      "duration_ms": 247501,
-      "name": "Amanece Otra Vez",
-      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "cartulinas de colores",
         "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Amanece Otra Vez",
+        "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
+      },
+      "artists": [
+        {
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+        }
+      ],
+      "duration_ms": 247501,
+      "name": "Amanece Otra Vez",
+      "url": "https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk"
     },
     {
       "added_at": "2024-07-05 06:00:00",

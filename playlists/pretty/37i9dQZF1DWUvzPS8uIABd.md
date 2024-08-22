@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Janna, Erika Vikman ja F.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,201 likes - 66 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,210 likes - 66 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aivan sama](https://open.spotify.com/track/4M7CQzlQpK3C9Yzjk3wlPf) | [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [Aivan sama](https://open.spotify.com/album/7836xllZu1uPi81BlUjVTm) | 3:10 |
 | 2 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 |
-| 3 | [Sä voitit jo](https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Sä voitit jo](https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88) | 2:58 |
-| 4 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 |
+| 3 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 |
+| 4 | [Sä voitit jo](https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Sä voitit jo](https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88) | 2:58 |
 | 5 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
 | 6 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
 | 7 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 65 | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [baka®](https://open.spotify.com/artist/2cIN5e6ouIgJiebmItnDaW) | [Prinsessa \(feat\. baka®\)](https://open.spotify.com/album/3oybXiUqKzYBOzQHSfS3ii) | 2:00 |
 | 66 | [Ei sydäntä saa](https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab) | [Ei sydäntä saa](https://open.spotify.com/album/5hwEwsnRnZfNwu99GouiNt) | 3:11 |
 
-Snapshot ID: `ZsRyPwAAAADgTFU2ggcXOm0QR1MhtAYH`
+Snapshot ID: `ZsXKhwAAAABKj9I12zKufJ4UR87Ph8k4`

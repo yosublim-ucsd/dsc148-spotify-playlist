@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1193701,
+  "num_followers": 1193778,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2023-11-20 20:27:12",
       "album": {
-        "name": "Aqu\u00ed Te Espero",
-        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+        "name": "would've been you",
+        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
       },
       "artists": [
         {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 255373,
-      "name": "Aqu\u00ed Te Espero",
-      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+      "duration_ms": 183586,
+      "name": "would've been you",
+      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
     },
     {
       "added_at": "2023-10-09 15:43:11",
@@ -153,36 +153,20 @@
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
     },
     {
-      "added_at": "2023-11-20 20:27:12",
+      "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "would've been you",
-        "url": "https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk"
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 183586,
-      "name": "would've been you",
-      "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
-    },
-    {
-      "added_at": "2024-01-09 23:35:49",
-      "album": {
-        "name": "Fall out of Line",
-        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
-      },
-      "artists": [
-        {
-          "name": "He Is We",
-          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "I Wouldn't Mind",
-      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -199,6 +183,22 @@
       "duration_ms": 124743,
       "name": "hospital beach",
       "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
+    },
+    {
+      "added_at": "2024-01-09 23:35:49",
+      "album": {
+        "name": "Fall out of Line",
+        "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
+      },
+      "artists": [
+        {
+          "name": "He Is We",
+          "url": "https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "I Wouldn't Mind",
+      "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
       "added_at": "2024-04-15 19:55:58",
       "album": {
         "name": "Normalcy",
@@ -379,34 +363,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "Notes From A Wrist",
-        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Notes From A Wrist",
-      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -427,6 +395,38 @@
       "duration_ms": 150415,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/3xNIVmBIe839tAsoGe3A4b"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Notes From A Wrist",
+        "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Notes From A Wrist",
+      "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "If I Really Love You",
-        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "If I Really Love You",
-      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "are you sleeping alone again?",
         "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 126857,
       "name": "are you sleeping alone again?",
       "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "If I Really Love You",
+        "url": "https://open.spotify.com/album/0xl7rnqJd8DHmZqZLrgx3u"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "If I Really Love You",
+      "url": "https://open.spotify.com/track/3l3lUyNu5zh6H6uByc5Xnr"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -851,38 +851,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "I even told my mom about u",
-        "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
-      },
-      "artists": [
-        {
-          "name": "Promoting Sounds",
-          "url": "https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG"
-        },
-        {
-          "name": "Rxseboy",
-          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
-        },
-        {
-          "name": "Seon",
-          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
-        },
-        {
-          "name": "Boyfifty",
-          "url": "https://open.spotify.com/artist/1UXAQeRmVW5aEd4W0gTIA9"
-        },
-        {
-          "name": "juli",
-          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "I even told my mom about u",
-      "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "I even told my mom about u",
+        "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
+      },
+      "artists": [
+        {
+          "name": "Promoting Sounds",
+          "url": "https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG"
+        },
+        {
+          "name": "Rxseboy",
+          "url": "https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c"
+        },
+        {
+          "name": "Seon",
+          "url": "https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8"
+        },
+        {
+          "name": "Boyfifty",
+          "url": "https://open.spotify.com/artist/1UXAQeRmVW5aEd4W0gTIA9"
+        },
+        {
+          "name": "juli",
+          "url": "https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "I even told my mom about u",
+      "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb"
     },
     {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+    },
+    {
       "added_at": "2024-03-07 21:03:22",
       "album": {
         "name": "another life",
@@ -1225,20 +1241,20 @@
       "url": "https://open.spotify.com/track/1LRDoxji2NI4tkjkbYGCAC"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
+      "added_at": "2024-03-07 21:03:22",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P"
+        "name": "safe space",
+        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
       },
       "artists": [
         {
-          "name": "Puma Blue",
-          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+          "name": "Sughn",
+          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
         }
       ],
-      "duration_ms": 215306,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd"
+      "duration_ms": 190000,
+      "name": "safe space",
+      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1255,22 +1271,6 @@
       "duration_ms": 96125,
       "name": "THE GIRL WILL BE OKAY",
       "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
-    },
-    {
-      "added_at": "2024-03-07 21:03:22",
-      "album": {
-        "name": "safe space",
-        "url": "https://open.spotify.com/album/2tBmCvqE2xObYau5vGoY2z"
-      },
-      "artists": [
-        {
-          "name": "Sughn",
-          "url": "https://open.spotify.com/artist/0BPCwLHpZIpVlVXcZyH2CB"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "safe space",
-      "url": "https://open.spotify.com/track/7lOsJPdQuDAVmm3ZZsvG9f"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Burden",
-        "url": "https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE"
-      },
-      "artists": [
-        {
-          "name": "Sky McCreery",
-          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
-        }
-      ],
-      "duration_ms": 145341,
-      "name": "Burden",
-      "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Burden",
+        "url": "https://open.spotify.com/album/563cZfoxfkypO8RnzIbNGE"
+      },
+      "artists": [
+        {
+          "name": "Sky McCreery",
+          "url": "https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh"
+        }
+      ],
+      "duration_ms": 145341,
+      "name": "Burden",
+      "url": "https://open.spotify.com/track/5vgZQdUkP8gYJnGkzZNqBm"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "we were girls together",
-        "url": "https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 137136,
-      "name": "we were girls together",
-      "url": "https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK"
-    },
-    {
       "added_at": "2023-10-16 20:29:38",
       "album": {
         "name": "trust exercises",
@@ -1691,6 +1675,26 @@
       "duration_ms": 214002,
       "name": "trust exercises",
       "url": "https://open.spotify.com/track/3NEPYiw4V5tmQLguweXgPP"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3LB11f7xrPAFdBpnlJYhth"
+      },
+      "artists": [
+        {
+          "name": "Era",
+          "url": "https://open.spotify.com/artist/1jNgTr6PmUuRZnpJ6qfxzj"
+        },
+        {
+          "name": "lilspirit",
+          "url": "https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL"
+        }
+      ],
+      "duration_ms": 229157,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/0WUEI3wb6ei1gRvCJChfxA"
     }
   ],
   "unique_name": "idk.",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Maudy Ayunda
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,429 likes - 104 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,450 likes - 104 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,33 @@
 {
-  "description": "This is Eyshila. The essential tracks, all in one playlist.",
+  "description": "This is Eyshila. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 66947,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAC3YsrhWKEycSbiWAWUNHJV",
+  "snapshot_id": "ZsPcgAAAAADc5YeTbga3hrPxp1HpvIg+",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 275240,
+      "name": "De Manh\u00e3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
+    },
     {
       "added_at": null,
       "album": {
@@ -455,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393206,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar",
-      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quero Aprender a Orar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc"
       },
@@ -507,6 +511,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
       },
@@ -535,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
       "artists": [
         {
@@ -544,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 291646,
-      "name": "Deus no Controle",
-      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -563,22 +599,6 @@
       "duration_ms": 283422,
       "name": "Deus dos Vales, Deus dos Montes",
       "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -611,6 +631,26 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -675,26 +715,6 @@
       "duration_ms": 376720,
       "name": "Pastor",
       "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,
@@ -979,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tira-me do Vale",
-        "url": "https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G"
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 293685,
-      "name": "Vem Encher-me",
-      "url": "https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8"
+      "duration_ms": 281471,
+      "name": "Mulher Vitoriosa",
+      "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
     },
     {
       "added_at": null,
@@ -1015,18 +1031,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+        "name": "Tira-me do Vale",
+        "url": "https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 281471,
-      "name": "Mulher Vitoriosa",
-      "url": "https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT"
+      "duration_ms": 293685,
+      "name": "Vem Encher-me",
+      "url": "https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8"
     },
     {
       "added_at": null,

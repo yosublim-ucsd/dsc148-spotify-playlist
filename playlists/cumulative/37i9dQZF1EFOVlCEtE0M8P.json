@@ -2333,6 +2333,24 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq"
+      },
+      "artists": [
+        {
+          "name": "Charly Bliss",
+          "url": "https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194109,
+      "name": "Last First Kiss",
+      "url": "https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H"
+    },
+    {
+      "album": {
         "name": "Lie Out Loud",
         "url": "https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH"
       },

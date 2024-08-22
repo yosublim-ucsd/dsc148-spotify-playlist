@@ -1783,6 +1783,28 @@
     },
     {
       "album": {
+        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Maleah Joi Moon",
+          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240449,
+      "name": "Kaleidoscope (From the New Broadway Musical \u201cHell\u2019s Kitchen\u201d)",
+      "url": "https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8"
+    },
+    {
+      "album": {
         "name": "Karma (Official HD Video)",
         "url": "https://open.spotify.com/album/1of76mxmIF3Dypvk0QEmzy"
       },

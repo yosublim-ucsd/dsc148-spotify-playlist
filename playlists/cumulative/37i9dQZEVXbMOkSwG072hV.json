@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "De Bar em Bar 4.0",
+        "url": "https://open.spotify.com/album/3HJJJjN3AfIUa4UOL3q7AQ"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148897,
+      "name": "5 Da Manh\u00e3",
+      "url": "https://open.spotify.com/track/2igTgpY9jlGDpcErqxdWLA"
+    },
+    {
+      "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 147727,
       "name": "Achei Que Era Pagode",
       "url": "https://open.spotify.com/track/77cKSpUvbxJ56FIgdVGc8R"
@@ -10028,7 +10046,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 150923,
       "name": "CHIHIRO - MTG",
       "url": "https://open.spotify.com/track/2uoqxEz9kqytYKmlQTxvUh"
@@ -12414,6 +12432,40 @@
       "duration_ms": 115384,
       "name": "De 10 Mulher 11 \u00c9 Maluca",
       "url": "https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr"
+    },
+    {
+      "album": {
+        "name": "De Baixo Pra Cima",
+        "url": "https://open.spotify.com/album/4UWAYxlZLr6ZUV2ttMoN0g"
+      },
+      "artists": [
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        },
+        {
+          "name": "DJ WG DO SS",
+          "url": "https://open.spotify.com/artist/32qJz58OMpD1QBX1qVMGcL"
+        },
+        {
+          "name": "Dj Alan Melo",
+          "url": "https://open.spotify.com/artist/05kM6bfPvwG2DRwR8o5aGp"
+        },
+        {
+          "name": "MC FG",
+          "url": "https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/3NKKT2K9K9EXatgGgqY4YF"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "De Baixo Pra Cima",
+      "url": "https://open.spotify.com/track/0DREUdw6H7SxQoaUBhvD2D"
     },
     {
       "album": {
@@ -19546,6 +19598,32 @@
       "duration_ms": 197760,
       "name": "Ficar Pra Que? - Ao Vivo",
       "url": "https://open.spotify.com/track/2YYocdgh63kBBSp3Knwrf7"
+    },
+    {
+      "album": {
+        "name": "Ficar Rico Esse Ano",
+        "url": "https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb"
+      },
+      "artists": [
+        {
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Ficar Rico Esse Ano",
+      "url": "https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR"
     },
     {
       "album": {
@@ -34858,7 +34936,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 168805,
       "name": "Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e"
@@ -37946,7 +38024,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 164571,
       "name": "Palavras Ao Vento",
       "url": "https://open.spotify.com/track/6OLkovopfdXiQL1lZxjm6G"
@@ -44188,7 +44266,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 167256,
       "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
       "url": "https://open.spotify.com/track/0SzZVQw0tEazwNko6bdKwS"

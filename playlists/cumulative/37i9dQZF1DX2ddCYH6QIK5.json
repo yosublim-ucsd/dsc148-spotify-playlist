@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: mathi, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Fosca & Samt, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -966,6 +966,24 @@
       "duration_ms": 217447,
       "name": "Alysia",
       "url": "https://open.spotify.com/track/6TdNXxm17MODMzvHKuaElM"
+    },
+    {
+      "album": {
+        "name": "Am Badestrand (Attach\u00e9)",
+        "url": "https://open.spotify.com/album/1ZNHCHhWe2cMrjlV8VJnJ5"
+      },
+      "artists": [
+        {
+          "name": "Fosca & Samt",
+          "url": "https://open.spotify.com/artist/0bQgPpusac5d5hUBP9CUhR"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166900,
+      "name": "Am Badestrand (Attach\u00e9)",
+      "url": "https://open.spotify.com/track/7e3iBxHbwHtKAu47j9zKhy"
     },
     {
       "album": {
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 152885,
       "name": "dein bestes Hemd",
       "url": "https://open.spotify.com/track/2RHBABBJ5ucANWaTpHYqKS"
@@ -4776,7 +4794,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 191907,
       "name": "Die That Way",
       "url": "https://open.spotify.com/track/0wD5SAqDf3pKNWfgIduarV"
@@ -7531,6 +7549,24 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0QwV0v1jidTONuSIMlaeHz"
+      },
+      "artists": [
+        {
+          "name": "Seascouts",
+          "url": "https://open.spotify.com/artist/2CY6WGxwHKsO4JGSXgHe5e"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/2cc6F3TU8SImr4qfazYDmo"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/09Nq0oRqRW7myZ0alzNKcK"
       },
@@ -9881,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2jDD8G5SS1TZybFEyOAE1a"
+      },
+      "artists": [
+        {
+          "name": "SCOTT & LILA",
+          "url": "https://open.spotify.com/artist/34GRbkjfZKh7NZJpF50oCH"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211984,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/7dJ7ildkvgXsibp64k95KY"
+    },
+    {
+      "album": {
         "name": "In My SUV",
         "url": "https://open.spotify.com/album/17vB3tGLNprtVtZQtan1yY"
       },
@@ -10908,7 +10962,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 151000,
       "name": "Lange her",
       "url": "https://open.spotify.com/track/3o1g9quk4CP1Zf36CsyjUk"
@@ -11334,7 +11388,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 170740,
       "name": "Lichtblick",
       "url": "https://open.spotify.com/track/3hZKeMBXB7swz85lkuMZyX"
@@ -14465,6 +14519,24 @@
     },
     {
       "album": {
+        "name": "Petrol",
+        "url": "https://open.spotify.com/album/5DhmNTyWgqRUzsWF1fOndO"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grow Yellow",
+          "url": "https://open.spotify.com/artist/39stSEYSY6ufCHYW43Xrjb"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "petrol",
+      "url": "https://open.spotify.com/track/0vl4Xhz5bwvCc0n9sXRdOg"
+    },
+    {
+      "album": {
         "name": "Phanta",
         "url": "https://open.spotify.com/album/0lPwLPHJyDXY0LBhl9Mln1"
       },
@@ -14512,7 +14584,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 148085,
       "name": "Picture Perfect Standard",
       "url": "https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh"
@@ -14718,6 +14790,24 @@
       "duration_ms": 224363,
       "name": "Porto",
       "url": "https://open.spotify.com/track/4DqD56HnNwROwHYhAXy2UZ"
+    },
+    {
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/1LS59IfR5fRxB3L9NGQaPG"
+      },
+      "artists": [
+        {
+          "name": "Helmet Lampshade",
+          "url": "https://open.spotify.com/artist/7b37VmB9ZcU56cJfoE6CZk"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202569,
+      "name": "Postcards",
+      "url": "https://open.spotify.com/track/7it783ViRNNkYsgYrWR1g2"
     },
     {
       "album": {
@@ -16824,7 +16914,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 171222,
       "name": "sleep",
       "url": "https://open.spotify.com/track/0Zt1rFdighzqNQDgmN4srr"
@@ -17662,6 +17752,24 @@
       "duration_ms": 212775,
       "name": "Steal My Name",
       "url": "https://open.spotify.com/track/2JpIEE2VTgzLCwOQEfppcN"
+    },
+    {
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/0QneKhWQRWsuE0wUD6Xfkv"
+      },
+      "artists": [
+        {
+          "name": "Prismala",
+          "url": "https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/4UzZfOrpDjPbvlfPB1155y"
     },
     {
       "album": {
@@ -18578,6 +18686,28 @@
       "duration_ms": 131876,
       "name": "The Happy Song (My Cool)",
       "url": "https://open.spotify.com/track/0FzEymqOSe4kYC4ZzRsVjI"
+    },
+    {
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/73TVVOyRLavIM6J8LOcDJw"
+      },
+      "artists": [
+        {
+          "name": "EESE",
+          "url": "https://open.spotify.com/artist/0zKErS536kHek5gMJPEx8v"
+        },
+        {
+          "name": "JEWLS",
+          "url": "https://open.spotify.com/artist/1Yi3eQibPPyKmO0xXWPcfw"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/1oMD21aUKAEviE3gh943Qh"
     },
     {
       "album": {
@@ -19994,7 +20124,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 117251,
       "name": "vergiss die drei",
       "url": "https://open.spotify.com/track/4RFE1DlyM7KjKUUOOFWq1K"

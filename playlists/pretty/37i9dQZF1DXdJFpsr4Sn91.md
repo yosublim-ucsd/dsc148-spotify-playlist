@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa jambo ja Mikael Laurent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,142 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,149 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pysyvää](https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Pysyvää](https://open.spotify.com/album/2c1COKH0Ysq650NMSTp0UG) | 3:10 |
 | 2 | [Suomalainen Superstara](https://open.spotify.com/track/4S61u0InVCx79RqYYMLTgC) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Suomalainen Superstara](https://open.spotify.com/album/7tLEy14aDUE1SQNd7yMQyW) | 3:02 |
 | 3 | [Vitun hyvin](https://open.spotify.com/track/6jzj3EKhF4WcS6upHWimXp) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vitun hyvin](https://open.spotify.com/album/54UQ1ZPAhJX98PuBIVIVSL) | 3:00 |
-| 4 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 5 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 |
-| 6 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
-| 7 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 |
+| 4 | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/track/6s5uloZC7XszTefvo2vTEw) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Perävalot \(feat\. Ellinoora\)](https://open.spotify.com/album/4Km6npxY0tqUQMALhnSkLw) | 3:03 |
+| 5 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
+| 6 | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/7KijaUZDwGJTD3TrQeBDMZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Kolumbus \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/2cH1c3Wvvy5DUX16UPkcPX) | 2:49 |
+| 7 | [Viel yhen kerran](https://open.spotify.com/track/3ZzNcbE3sBBSRQlvU1jkqd) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Viel yhen kerran](https://open.spotify.com/album/6Eg1Ua5RJXjfZLCUBzvW4e) | 3:42 |
 | 8 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 |
 | 9 | [Saanko mä luvan](https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Saanko mä luvan](https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf) | 2:59 |
 | 10 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 78 | [Selvii päivii](https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Selvii päivii](https://open.spotify.com/album/3acDUN7PzZpC8N21Pm2Ty5) | 3:00 |
 | 79 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 |
 
-Snapshot ID: `ZsRz0gAAAADhyxUQKDigUh5bqiCTreI6`
+Snapshot ID: `ZsXOmAAAAACGQbbAAHa7a4Ddh9OiQjc2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists every Wednesday. Cover: GASKET, Artwork: Nejc Prah",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: LOCKED SHUT | Artwork: Nejc Prah",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Or So I Thought / Blind / Detached",
+        "url": "https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib"
+      },
+      "artists": [
+        {
+          "name": "Fentanyl",
+          "url": "https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59392,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb"
+    },
+    {
+      "album": {
         "name": "Blood $oda",
         "url": "https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH"
       },
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Bloodlines",
+        "url": "https://open.spotify.com/album/6JdG2NGlYNHKcVmx6gK0Im"
+      },
+      "artists": [
+        {
+          "name": "Melted Bodies",
+          "url": "https://open.spotify.com/artist/3l1Z9XFIBCJXaxfpussnIZ"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310346,
+      "name": "Bloodlines",
+      "url": "https://open.spotify.com/track/45t1gsyIjBtIEIa3BNTvzB"
+    },
+    {
+      "album": {
         "name": "Brandish The Blade",
         "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
       },
@@ -146,6 +182,24 @@
       "duration_ms": 235426,
       "name": "Brandish The Blade",
       "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
+    },
+    {
+      "album": {
+        "name": "HYDRA",
+        "url": "https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty"
+      },
+      "artists": [
+        {
+          "name": "Bobby Wolfgang",
+          "url": "https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk"
     },
     {
       "album": {
@@ -239,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Defanged",
+        "url": "https://open.spotify.com/album/6mo8vsLScAv61zTgmqxT1p"
+      },
+      "artists": [
+        {
+          "name": "Hidden Mothers",
+          "url": "https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299994,
+      "name": "Defanged",
+      "url": "https://open.spotify.com/track/788hXJGi3E0uKwu8RnT6OU"
+    },
+    {
+      "album": {
         "name": "Held in Contempt",
         "url": "https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx"
       },
@@ -294,6 +366,24 @@
       "duration_ms": 210154,
       "name": "dub driving",
       "url": "https://open.spotify.com/track/0KQDSpucaDhVKHxQGfdHgQ"
+    },
+    {
+      "album": {
+        "name": "Seven Garbage Born of Hatred",
+        "url": "https://open.spotify.com/album/6RSowKOO6WD9dYx5C60oqI"
+      },
+      "artists": [
+        {
+          "name": "Petit Brabancon",
+          "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210154,
+      "name": "dub driving",
+      "url": "https://open.spotify.com/track/3ItSI6Dlhs5S1sBR0PrIxA"
     },
     {
       "album": {
@@ -785,6 +875,28 @@
     },
     {
       "album": {
+        "name": "PLAY2WIN / IMITATION NOT FLATTERY",
+        "url": "https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu"
+      },
+      "artists": [
+        {
+          "name": "Winnerz Circle",
+          "url": "https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167785,
+      "name": "PLAY2WIN",
+      "url": "https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf"
+    },
+    {
+      "album": {
         "name": "Poisoned Apple",
         "url": "https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT"
       },
@@ -854,6 +966,24 @@
       "duration_ms": 212364,
       "name": "Secret",
       "url": "https://open.spotify.com/track/0H07jl1I7hV10nt6aso2sk"
+    },
+    {
+      "album": {
+        "name": "Shadow Dancer",
+        "url": "https://open.spotify.com/album/1SmYK5HhYBJcJNcVKCfeME"
+      },
+      "artists": [
+        {
+          "name": "Vicious Rain",
+          "url": "https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Shadow Dancer",
+      "url": "https://open.spotify.com/track/1JGV8Iy09eMNAYls0fYx8h"
     },
     {
       "album": {
@@ -940,7 +1070,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 146233,
       "name": "Steel Spine",
       "url": "https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt"
@@ -998,6 +1128,42 @@
       "duration_ms": 252656,
       "name": "Suffer Eternally",
       "url": "https://open.spotify.com/track/5AHgyKx5cyzo7gXL8FZz3B"
+    },
+    {
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d"
+      },
+      "artists": [
+        {
+          "name": "Regional Justice Center",
+          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64489,
+      "name": "TAKE A STEP AWAY",
+      "url": "https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT"
+    },
+    {
+      "album": {
+        "name": "Taste Better",
+        "url": "https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ"
+      },
+      "artists": [
+        {
+          "name": "BEX",
+          "url": "https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173344,
+      "name": "Taste Better",
+      "url": "https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E"
     },
     {
       "album": {
@@ -1091,6 +1257,42 @@
     },
     {
       "album": {
+        "name": "The Unconquerable",
+        "url": "https://open.spotify.com/album/6eXu91pzHfW5v98wUbIt7q"
+      },
+      "artists": [
+        {
+          "name": "Dead Icarus",
+          "url": "https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196555,
+      "name": "The Unconquerable",
+      "url": "https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ"
+    },
+    {
+      "album": {
+        "name": "Toothache",
+        "url": "https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2"
+      },
+      "artists": [
+        {
+          "name": "LOCKED SHUT",
+          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114238,
+      "name": "Toothache",
+      "url": "https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk"
+    },
+    {
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
       },
@@ -1178,6 +1380,24 @@
       "duration_ms": 253090,
       "name": "Weight In Gold",
       "url": "https://open.spotify.com/track/7EBkEqFoIYxcCFPg5GiIND"
+    },
+    {
+      "album": {
+        "name": "WHEN THE PANIC SETS IN",
+        "url": "https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug"
+      },
+      "artists": [
+        {
+          "name": "LOVELOST",
+          "url": "https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224571,
+      "name": "WHEN THE PANIC SETS IN",
+      "url": "https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg"
     },
     {
       "album": {

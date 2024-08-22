@@ -2,7 +2,7 @@
 
 ### [This Is Hozier](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xnOx2)
 
-> This is Hozier\. The essential tracks, all in one playlist.
+> This is Hozier\. Todos os maiores hits em uma só playlist.
 
 58 songs - 3 hr 48 min
 

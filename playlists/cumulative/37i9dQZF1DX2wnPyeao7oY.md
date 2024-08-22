@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: GASKET, Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: LOCKED SHUT \| Artwork: Nejc Prah
 
-65 songs - 3 hr 53 min
+77 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,16 +14,21 @@
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-08-07 |  |
 | [Bazooka](https://open.spotify.com/track/01VdiTMVpkFzzegz9VpDIh) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [Bazooka](https://open.spotify.com/album/6CYsi2RE2ThxH068VqqeYg) | 2:49 | 2024-08-07 |  |
 | [Bind](https://open.spotify.com/track/10u2Moizl0LxgYdqE40Qbv) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Bind](https://open.spotify.com/album/59thVU5JwLgrsMlcdObFob) | 2:35 | 2024-08-07 |  |
+| [Blind](https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:59 | 2024-08-21 |  |
 | [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 | 2024-08-07 |  |
+| [Bloodlines](https://open.spotify.com/track/45t1gsyIjBtIEIa3BNTvzB) | [Melted Bodies](https://open.spotify.com/artist/3l1Z9XFIBCJXaxfpussnIZ) | [Bloodlines](https://open.spotify.com/album/6JdG2NGlYNHKcVmx6gK0Im) | 5:10 | 2024-08-21 |  |
 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-07 |  |
+| [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 | 2024-08-21 |  |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-08-07 |  |
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-08-07 |  |
 | [Crystal Rest](https://open.spotify.com/track/7zXPUkYo3HJNZFvAnygAjO) | [Denigrate](https://open.spotify.com/artist/5KmMe8RlK2emr65JFPsUaw) | [Crystal Rest](https://open.spotify.com/album/2YVL3ZFbs4t09NKa0ZoMU4) | 6:26 | 2024-08-07 |  |
 | [DEAD.DROP.DEAD](https://open.spotify.com/track/1y4cYXim9COISQbJwaEDR7) | [Behind Crimson Eyes](https://open.spotify.com/artist/3IA2lo6wAL3YARtRPWv6Qe) | [DEAD.DROP.DEAD](https://open.spotify.com/album/1NhU7c5wDevXf1EvFnMdkZ) | 3:17 | 2024-08-07 |  |
 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 | 2024-08-07 |  |
+| [Defanged](https://open.spotify.com/track/788hXJGi3E0uKwu8RnT6OU) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn) | [Defanged](https://open.spotify.com/album/6mo8vsLScAv61zTgmqxT1p) | 4:59 | 2024-08-21 |  |
 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 | 2024-08-07 |  |
 | [Dreamless Error](https://open.spotify.com/track/6A0SzjxLOVvYkOfcOmgqEa) | [Collapsed Skull](https://open.spotify.com/artist/4U7G6juzid1EvmQDCSehhM), [Brody King](https://open.spotify.com/artist/00kwyTyFLJgTFcT4o5jaA4) | [Dreamless Error](https://open.spotify.com/album/6Gz6dpMOlMJkxk44VB4zsx) | 1:15 | 2024-08-14 |  |
 | [dub driving](https://open.spotify.com/track/0KQDSpucaDhVKHxQGfdHgQ) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Seven Garbage Born of Hatred](https://open.spotify.com/album/0ABjbNJguBMmTbwBc1dN1c) | 3:30 | 2024-08-14 |  |
+| [dub driving](https://open.spotify.com/track/3ItSI6Dlhs5S1sBR0PrIxA) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Seven Garbage Born of Hatred](https://open.spotify.com/album/6RSowKOO6WD9dYx5C60oqI) | 3:30 | 2024-08-21 |  |
 | [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 | 2024-08-07 |  |
 | [Falling](https://open.spotify.com/track/1UFxhZOC18CAvWmOOB7OaB) | [Iress](https://open.spotify.com/artist/7LlAk7lyxBJYpXXT0n7mtc) | [Sleep Now, In Reverse](https://open.spotify.com/album/7FO5FYSOvklvOHwnHqQW4F) | 5:16 | 2024-08-07 |  |
 | [Feel The Pain](https://open.spotify.com/track/4g4BBy0kMhfTPTcObjQwk8) | [Descape](https://open.spotify.com/artist/0GPUoZDMUtkkzPyW4OFWk2), [Wind Walkers](https://open.spotify.com/artist/2K2bsaNeuQAFkuVwrrlJe0) | [Feel The Pain](https://open.spotify.com/album/3nmvPgAjP3aDpVlM95OJc6) | 3:33 | 2024-08-14 |  |
@@ -50,28 +55,35 @@
 | [NGC 3603](https://open.spotify.com/track/4ya7IuXFTYoLQ6wkuRC6fo) | [FOXCULT](https://open.spotify.com/artist/7L6kMvKSw3xxrjQjkHxTVO) | [THE AMETHYST DRIFT](https://open.spotify.com/album/2d6SrrtpLapfAM4sL9DKvS) | 4:16 | 2024-08-07 |  |
 | [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 | 2024-08-14 |  |
 | [Pastures](https://open.spotify.com/track/0HD2kWKZY5Ao4xv5AGGiRf) | [Bangladeafy](https://open.spotify.com/artist/5iE8aaGPwGBmP4RjGRNftQ) | [Vulture](https://open.spotify.com/album/2wu13uB5EHYk9hbB6dVKmF) | 2:01 | 2024-08-07 |  |
+| [PLAY2WIN](https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf) | [Winnerz Circle](https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm), [J.O.Y](https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ) | [PLAY2WIN / IMITATION NOT FLATTERY](https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu) | 2:47 | 2024-08-21 |  |
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-08-07 |  |
 | [RUIN](https://open.spotify.com/track/5422oh6gdTk5iRElU7mctV) | [Heal The Hurt](https://open.spotify.com/artist/6ZTUkCnG7AQ85xxoC9fuNN) | [RUIN](https://open.spotify.com/album/6HDiybJgkvzTNDcQMr9iPj) | 2:43 | 2024-08-07 |  |
 | [Ruins](https://open.spotify.com/track/7hjb9qCZTDhlQKz1Z4pvar) | [Peer Pressure](https://open.spotify.com/artist/4LjqrkcbfHIV0CXWyjcwtW) | [Ruins](https://open.spotify.com/album/6jfAOq3tMJb1cTVLeBpZRu) | 2:57 | 2024-08-07 |  |
 | [Secret](https://open.spotify.com/track/0H07jl1I7hV10nt6aso2sk) | [breakk.away](https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826) | [Secret](https://open.spotify.com/album/261BFyLi15XD4jd24QIF8N) | 3:32 | 2024-08-07 |  |
+| [Shadow Dancer](https://open.spotify.com/track/1JGV8Iy09eMNAYls0fYx8h) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [Shadow Dancer](https://open.spotify.com/album/1SmYK5HhYBJcJNcVKCfeME) | 4:24 | 2024-08-21 |  |
 | [Silhouettes](https://open.spotify.com/track/0ucw2yCDJqm5CAAlJmW53L) | [Giant Walker](https://open.spotify.com/artist/4Xatn9rQkv4mU47XRJ2SE0) | [Silhouettes](https://open.spotify.com/album/2kVXK0yxdMGH4qwdq2OeVt) | 4:49 | 2024-08-07 |  |
 | [Singularity](https://open.spotify.com/track/0EORJ4SKeXqkFm0YygZ2mE) | [Delusionist](https://open.spotify.com/artist/2ZQ8rHusHaKS9XgSdTDF2Q) | [Singularity](https://open.spotify.com/album/48dMZYznPzlM3DfFFk0Z23) | 5:10 | 2024-08-07 |  |
 | [sleep dealrrr](https://open.spotify.com/track/5RxegcJM2Dg5RPaW0CAPmb) | [Hillsboro](https://open.spotify.com/artist/6mQZnxZqes84WGzpVEJ7sP) | [sleep dealrrr](https://open.spotify.com/album/1Mqy6oeXJa4VAFNpIagHqD) | 3:32 | 2024-08-07 |  |
 | [Sparrow](https://open.spotify.com/track/6LbqZon6XGnQZfGGJecds8) | [Inchaos](https://open.spotify.com/artist/7uRRqPHY3Vf2lfQNzYXEcw) | [Sparrow](https://open.spotify.com/album/37TVljnjI0pDUosatJVzkd) | 5:17 | 2024-08-07 |  |
-| [Steel Spine](https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Steel Spine](https://open.spotify.com/album/2VvkI58bYdqyrLwcXyG9PK) | 2:26 | 2024-08-07 |  |
+| [Steel Spine](https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Steel Spine](https://open.spotify.com/album/2VvkI58bYdqyrLwcXyG9PK) | 2:26 | 2024-08-07 | 2024-08-22 |
 | [Stillborn](https://open.spotify.com/track/30EBMmwhPG0fLU9XQbhigB) | [Hurakan](https://open.spotify.com/artist/5w35Gt5153qhoSwR4MVtEU) | [Stillborn](https://open.spotify.com/album/2UOevlgxWMqnNC6XupoyxB) | 3:26 | 2024-08-07 |  |
 | [Submitted for \(Dis\)Approval](https://open.spotify.com/track/1RTREn11SA1syTUiW4g497) | [Wounded Touch](https://open.spotify.com/artist/31XbVcQ1tPnNZn1qo4Q7p1) | [Submitted for \(Dis\)Approval](https://open.spotify.com/album/3PBlWV3lDbAY5xMqpZjKqC) | 1:34 | 2024-08-07 |  |
 | [Suffer Eternally](https://open.spotify.com/track/5AHgyKx5cyzo7gXL8FZz3B) | [Zetra](https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f) | [Suffer Eternally](https://open.spotify.com/album/4108Dqy1reh2T90Y3MkJhJ) | 4:12 | 2024-08-07 |  |
+| [TAKE A STEP AWAY](https://open.spotify.com/track/6j9CkpIGMPCpi9NMTVQojT) | [Regional Justice Center](https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2) | [FREEDOM](https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d) | 1:04 | 2024-08-21 |  |
+| [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 | 2024-08-21 |  |
 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 | 2024-08-07 |  |
 | [The Riddle](https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [The Riddle](https://open.spotify.com/album/6vhKGLD9LyeAFeoj1PHHPd) | 3:43 | 2024-08-07 |  |
 | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/track/7G2A1TVHR1tXpB13upMe6y) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [The Seed That Dreamed Of Its Own Creation](https://open.spotify.com/album/5xGngVEkhiPb8bh7zOxaMN) | 3:26 | 2024-08-07 |  |
 | [The Straw](https://open.spotify.com/track/3sSP1Xg74gX4ICfHLe1SFP) | [Ender](https://open.spotify.com/artist/3ydTs1LJg3SpEbYtin2fwO) | [The Straw](https://open.spotify.com/album/1nILXnhOcHHqtLquYHCfP9) | 3:19 | 2024-08-07 |  |
 | [The Sunken Place](https://open.spotify.com/track/1LNoAG3T5bJXPcvSdJjyI8) | [izzy reign](https://open.spotify.com/artist/2backhV14qzZYlQq4HM8i9) | [The Sunken Place](https://open.spotify.com/album/1jGMs0aXfHpkloG6qVSoVW) | 3:33 | 2024-08-07 |  |
+| [The Unconquerable](https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [The Unconquerable](https://open.spotify.com/album/6eXu91pzHfW5v98wUbIt7q) | 3:16 | 2024-08-21 |  |
+| [Toothache](https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Toothache](https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2) | 1:54 | 2024-08-21 |  |
 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-14 |  |
 | [VIVE LA DÉCEPTION](https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [VIVE LA DÉCEPTION](https://open.spotify.com/album/387GBSNSWJV8TsjuAYy7of) | 2:58 | 2024-08-07 |  |
 | [Warrior](https://open.spotify.com/track/6qk8F2IGR7nvDHOS3rDV7O) | [No Terror in the Bang](https://open.spotify.com/artist/6JucMO8FO1iC8WHtFjlb6S) | [Warrior](https://open.spotify.com/album/4MAkD36KZnHMFatNBvcD2u) | 4:34 | 2024-08-07 |  |
 | [waste](https://open.spotify.com/track/22uPsSttCJhrDGFhfx9zob) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:51 | 2024-08-07 |  |
 | [Weight In Gold](https://open.spotify.com/track/7EBkEqFoIYxcCFPg5GiIND) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx) | [Weight In Gold](https://open.spotify.com/album/6QFIolS3xK52AVPXAFnIWi) | 4:13 | 2024-08-07 |  |
+| [WHEN THE PANIC SETS IN](https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [WHEN THE PANIC SETS IN](https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug) | 3:44 | 2024-08-21 |  |
 | [’Til Death Do Us Part](https://open.spotify.com/track/32nHr6XZmnBxe9GtGWYxZP) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [’Til Death Do Us Part](https://open.spotify.com/album/0oi5CbZgnI2Pl8QTqqcMF7) | 3:49 | 2024-08-14 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

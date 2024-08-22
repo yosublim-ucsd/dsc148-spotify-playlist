@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-159 songs - 8 hr 38 min
+160 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Someone Else](https://open.spotify.com/track/11rm5jLSON6JmhD7xKMJQg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 3:04 | 2023-12-30 |  |
 | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/track/4otQJBpb8okSeykALR3eCH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Something Real \(with London On Da Track & Chris Brown\)](https://open.spotify.com/album/3sKfMROqgj9nNxOuyPDndH) | 3:03 | 2023-12-30 |  |
 | [Spend It](https://open.spotify.com/track/49k2A3TtO0emRciVKKiWnC) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:20 | 2023-12-30 |  |
+| [Stay Awhile](https://open.spotify.com/track/6RIqzlvozkqLsllslrhohs) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 2:35 | 2024-08-21 |  |
 | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/track/5jAMZqnBULAQqx0lNXI6VA) | [Daniel Skye](https://open.spotify.com/artist/1pqYQmeqnqQU7X3DbuA7So), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Stuck On You \(feat\. PnB Rock\)](https://open.spotify.com/album/2oQ3J7XDCyveh0WGaFCruc) | 3:17 | 2023-12-30 |  |
 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 | 2023-12-30 |  |
 | [Sweetest Pie](https://open.spotify.com/track/3JXF3LsUjyDIHjuwhXxdjo) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 | 2023-12-31 |  |

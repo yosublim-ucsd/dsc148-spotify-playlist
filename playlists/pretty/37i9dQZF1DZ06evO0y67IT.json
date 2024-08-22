@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8050,
+  "num_followers": 8052,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACBfJG2LOWarbN5xiPyep2n",
+  "snapshot_id": "ZsPcgAAAAABQs0m0tg5eOWrgXLrBV3Mp",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 178677,
       "name": "Four White Walls",
       "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0sFUZ7Hklg97I0l7MTGbD0"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 289316,
-      "name": "Bury My Bones at Crystal Cove",
-      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hate",
         "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 163605,
       "name": "Hate",
       "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 289316,
+      "name": "Bury My Bones at Crystal Cove",
+      "url": "https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x"
     },
     {
       "added_at": null,

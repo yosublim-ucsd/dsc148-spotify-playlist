@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: TRASH
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,989 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,996 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 11 | [Boy You Better Run](https://open.spotify.com/track/74ioqFQmA0U0GhtNNkX24v) | [Norton Street 諾頓街](https://open.spotify.com/artist/1Ha6m76jqF70QoKiIavuFp) | [Boy You Better Run](https://open.spotify.com/album/2jAKuTbNslpnV79kU2Sbqh) | 3:41 |
 | 12 | [淋浴](https://open.spotify.com/track/57Yn2DxwNQ21cozvbQmiYJ) | [解夢人](https://open.spotify.com/artist/4ZCU8Xicq2nqCo42Jlh3Q9) | [妳愛我的樣子](https://open.spotify.com/album/3cdzEgcYCcAuMpGZzRMCyi) | 3:17 |
 | 13 | [24/7 Shining](https://open.spotify.com/track/7cvkZVHF0tLOfKc9q4pEuq) | [AKB48 Team TP](https://open.spotify.com/artist/5EJySPaACof5q6mh88d3gb) | [24/7 Shining](https://open.spotify.com/album/2ntpCzRQE0RFCR2LCQAC2Y) | 4:37 |
-| 14 | [Deep Dive](https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N) | [One&Two](https://open.spotify.com/artist/4UhmM1Hu2pmOrdXzQqvYLQ), [陳瑜](https://open.spotify.com/artist/2xTyNiTttVfe9Vdhue81Ho), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Deep Dive](https://open.spotify.com/album/2ptiQ2EXrgpGBUZXLxtiRo) | 2:31 |
+| 14 | [Deep Dive](https://open.spotify.com/track/1el5BxJWrbJ2r2ojEcC43N) | [One&Two](https://open.spotify.com/artist/4UhmM1Hu2pmOrdXzQqvYLQ), [Lona](https://open.spotify.com/artist/66tKRmy3IXz9wFXkF6xBn5), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Deep Dive](https://open.spotify.com/album/2ptiQ2EXrgpGBUZXLxtiRo) | 2:31 |
 | 15 | [We Will Be Alright!!](https://open.spotify.com/track/0JLM0bsLBgFeKv0XtUJXpD) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P) | [We Will Be Alright!!](https://open.spotify.com/album/7ApCyP1zRBtW5UNwtcLeRx) | 4:05 |
 | 16 | [夢](https://open.spotify.com/track/7L8iXPtQCb7ELLff9Az4bY) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [夢](https://open.spotify.com/album/1olxR5StgQ10ZMv1cnX46k) | 3:54 |
 | 17 | [我們走過人海](https://open.spotify.com/track/20rxk836KPQ8TWAy39RYlh) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [我們走過人海](https://open.spotify.com/album/46wvMoI7SWmVC0xVjChoCc) | 3:30 |

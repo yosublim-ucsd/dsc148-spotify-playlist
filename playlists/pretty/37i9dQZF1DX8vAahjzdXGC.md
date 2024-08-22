@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: LISA, ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,520 likes - 123 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,557 likes - 123 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 20,881 likes - 53 songs - 2 hr 59 min
+[margeaux](https://open.spotify.com/user/1220511975) - 20,891 likes - 54 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 51 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 |
 | 52 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 |
 | 53 | [Hazme Una Señal](https://open.spotify.com/track/4k2PtVkqKaYp9OJbONyY0z) | [Los Blue Notes](https://open.spotify.com/artist/4DKzUVq1Xy2lmJpmbk2Ko0) | [El Disco de Oro](https://open.spotify.com/album/62F6M8ycdmteffdyWJnZxZ) | 2:15 |
+| 54 | [Prothese](https://open.spotify.com/track/1pBeR9uhlH4n8sS3vd7dww) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Grosses Wasser](https://open.spotify.com/album/2H0EK9wTtpdg2ZeWYakyfv) | 2:08 |
 
-Snapshot ID: `AAAK53VMc4K1Zw/whxTpgvBU83q+nrBj`
+Snapshot ID: `AAAK6COddbTAb+pMBMCiAew0XVEas7TY`

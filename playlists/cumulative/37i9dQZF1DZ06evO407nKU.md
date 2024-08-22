@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-118 songs - 6 hr 41 min
+119 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ayer Pedí](https://open.spotify.com/track/1gwUbm3lF2PLacBv4OoXgs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ayer Pedí](https://open.spotify.com/album/16wXgjMSLDvU6xgfq68QMR) | 3:02 | 2024-03-26 |  |
 | [Cada Día Más \(En Vivo\)](https://open.spotify.com/track/5OcOGi0n1ViUacMgX5ekVi) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdidos en el Alcohol \(En Vivo\)](https://open.spotify.com/album/61fghf49dcy5C3Bi6BO5Qu) | 3:13 | 2024-06-22 | 2024-07-19 |
 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 | 2024-04-20 |  |
-| [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 | 2022-06-02 |  |
+| [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 | 2022-06-02 | 2024-08-22 |
 | [Chiquilla](https://open.spotify.com/track/2JQEodEhepMxC1JdMfm454) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 4:19 | 2022-08-17 | 2022-08-19 |
 | [Como Cielo Sin Estrellas](https://open.spotify.com/track/6qRlxvzAvYJ4zJdkfyGkcS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:31 | 2023-06-11 | 2023-12-31 |
 | [Como Te Olvido](https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 4:13 | 2022-06-01 |  |
@@ -103,6 +103,7 @@
 | [Sigo de pie](https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [El Yaki](https://open.spotify.com/artist/4toIblSAfEe7buSwNPRmaF) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:40 | 2022-06-01 | 2022-10-07 |
 | [Soy Un Chino \(En Vivo\)](https://open.spotify.com/track/2U7mduMbGpHQV0vYeagNdU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 3:00 | 2022-12-26 | 2022-12-28 |
 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 | 2022-10-12 | 2023-11-11 |
+| [Te dejo por la paz](https://open.spotify.com/track/7qTlfD623rTU2uR55Wbwx5) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te dejo por la paz](https://open.spotify.com/album/0akScALsw0CRffleKbjqzp) | 2:40 | 2024-08-22 |  |
 | [Te Necesito](https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Necesito](https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p) | 2:18 | 2024-05-24 |  |
 | [Te Quiero Mas](https://open.spotify.com/track/2xtF3xLpLI63iJjjzWTQVC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Realeza De Sinaloa](https://open.spotify.com/artist/30sr4nTSGWsW4EfrhKi3yc) | [Te Quiero Mas](https://open.spotify.com/album/78kKkTlY1cnGwa933wkxNV) | 3:22 | 2024-04-27 | 2024-06-08 |
 | [Te Soñé](https://open.spotify.com/track/5grP2ZBGyNSLH5q2ot9P2M) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Soñé](https://open.spotify.com/album/3JwvTXXWnPqMmcqBF5isQW) | 3:38 | 2024-06-08 |  |

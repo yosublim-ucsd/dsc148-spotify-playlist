@@ -1,12 +1,12 @@
 {
-  "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11139,
+  "description": "This is Sarkodie\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 11147,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAABH5xeRaC/JnqPL80JXdNjv",
+  "snapshot_id": "ZsPcgAAAAACDdJ/hz2TxNiJ1U4ENL25n",
   "tracks": [
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mugeez",
-          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "CCTV",
-      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Too Bad / Different Place",
         "url": "https://open.spotify.com/album/0hMZ4hrlLZeMtBTlZtzJg8"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 229320,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/5gVqAb1vTBDnPPLxslGjix"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "CCTV",
+      "url": "https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        }
-      ],
-      "duration_ms": 273256,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JEALOUS (feat. Ambr\u00e9)",
         "url": "https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU"
       },
@@ -783,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Burn My Cable II",
-      "url": "https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
@@ -823,22 +783,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epistles of Mama",
-        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "duration_ms": 273256,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Odo Bi",
-      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+      "duration_ms": 171428,
+      "name": "Burn My Cable II",
+      "url": "https://open.spotify.com/track/0X8sQJCQMgKZrfqOdfhSp7"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 210133,
       "name": "Hate",
       "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
     },
     {
       "added_at": null,

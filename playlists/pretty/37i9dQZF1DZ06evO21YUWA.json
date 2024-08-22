@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5203,
+  "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 5204,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAAn9dbb1y29tZFMpIfnd0Tg",
+  "snapshot_id": "ZsPcgAAAAADBDWfFluqq5+Xd4g9ztMMB",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before the Day Breaks",
-        "url": "https://open.spotify.com/album/6dU0dQiQo7PF95dwQKKhlN"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "Outside, Silence",
-      "url": "https://open.spotify.com/track/2xmeoUL5olt2NVgrKeTey9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Night Falls",
         "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
       },
@@ -872,9 +852,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 93986,
-      "name": "Someone Almost There",
-      "url": "https://open.spotify.com/track/35TCHjntA1Nz3S7iZSkcur"
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
     },
     {
       "added_at": null,
@@ -895,26 +875,6 @@
       "duration_ms": 222280,
       "name": "Gaze",
       "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "So Many Short Years Ago",
-      "url": "https://open.spotify.com/track/2Uc85kwbkEyIHop6tkQ91r"
     }
   ],
   "unique_name": "This Is Harold Budd",

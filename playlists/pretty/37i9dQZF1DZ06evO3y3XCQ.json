@@ -1,12 +1,12 @@
 {
-  "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 4343,
+  "description": "This is Thursday\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 4344,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAAHskgpH+Q/VnafmyWglCMG",
+  "snapshot_id": "ZsPcgAAAAACbij1eICHu7fw+o1iWtfRJ",
   "tracks": [
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+      "duration_ms": 239013,
+      "name": "Beyond The Visible Spectrum",
+      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Beyond The Visible Spectrum",
-      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
     }
   ],
   "unique_name": "This Is Thursday",

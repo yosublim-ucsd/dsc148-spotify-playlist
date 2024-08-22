@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: mrld
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Dilaw
 
-180 songs - 11 hr 2 min
+184 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ano Ba Meron Tayong Dalawa](https://open.spotify.com/track/1mTSYTbKMn0tYqO17KlEfn) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [3rd Time’s A Charm](https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3) | 3:47 | 2024-01-24 | 2024-02-01 |
 | [Answer The G](https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi) | [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [ANSWER THE G](https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA) | 2:48 | 2024-05-24 |  |
 | [Anything](https://open.spotify.com/track/03WBX5gPyl2QR6t5J1XM6y) | [Mayonnaise](https://open.spotify.com/artist/7lIVjtsgz0y1oRQFBAVNzq) | [Anything](https://open.spotify.com/album/0BEehN6MWcTHQBlY12dGPC) | 4:12 | 2024-02-21 | 2024-03-21 |
+| [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-21 |  |
 | [Araw\-Araw w/ You](https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Araw\-Araw w/ You](https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4) | 2:55 | 2024-01-24 | 2024-03-28 |
 | [Atin Ang Walang Hanggan](https://open.spotify.com/track/3wyps5olGora4qX2g02DuK) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Atin Ang Walang Hanggan](https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe) | 3:23 | 2024-07-11 |  |
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-04-24 |  |
@@ -70,6 +71,7 @@
 | [IISA \(feat\. Jrldm\)](https://open.spotify.com/track/1o4qTccTZLT2NVPhRfBVQ8) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [IISA \(feat\. Jrldm\)](https://open.spotify.com/album/5sjbPKdR120Gq5OZpvi6HS) | 3:11 | 2024-04-24 | 2024-08-01 |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-04-17 |  |
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-05-08 |  |
+| [Isa Dalawa Tatlo](https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isa Dalawa Tatlo](https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv) | 4:36 | 2024-08-21 |  |
 | [Isang Tingin Mo Lang](https://open.spotify.com/track/2UPr5h1Px0LGbgoc6X5Vnx) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Isang Tingin Mo Lang](https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb) | 3:06 | 2024-01-24 | 2024-02-15 |
 | [Isaoras](https://open.spotify.com/track/3Y7z75svn2ooKMf5TobAta) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Isaoras](https://open.spotify.com/album/6xHImhEYUjp8j5Sqry69jK) | 4:15 | 2024-02-14 | 2024-05-02 |
 | [Kaakit\-akit](https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Kaakit\-akit](https://open.spotify.com/album/1CMNY2NlvTax6Tkb2X2ov2) | 4:06 | 2024-07-24 |  |
@@ -77,6 +79,7 @@
 | [kaibigan](https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [kaibigan](https://open.spotify.com/album/4evefz8rfDGKLURrEzwEzy) | 3:26 | 2024-07-24 |  |
 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 | 2024-01-24 | 2024-04-19 |
 | [KALAKAL](https://open.spotify.com/track/1cFGU7MQu0mHS5uVyD1STP) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [KALAKAL](https://open.spotify.com/album/6MRiRQvbrNP2oD9vgdjmzS) | 3:31 | 2024-08-14 |  |
+| [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 | 2024-08-21 |  |
 | [Karera](https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Karera](https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R) | 4:28 | 2024-04-24 |  |
 | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/track/13OhgUF9wgvG30aRARfgrR) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Kyle Echarri](https://open.spotify.com/artist/53qa1XIZ6pZuhrGDetCGew) | [Kasing Kasing \(feat\. Kyle Echarri\)](https://open.spotify.com/album/0eX3ksx0PK4SyQnlNOuUwH) | 4:55 | 2024-01-31 | 2024-03-07 |
 | [Klaro](https://open.spotify.com/track/1jG9Gzu5qarOo1v4qKjLwe) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Klaro](https://open.spotify.com/album/5ZM2rCkiq7huULAPjbAsIZ) | 4:08 | 2024-02-07 | 2024-02-29 |
@@ -145,6 +148,7 @@
 | [Puntirya](https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD) | [Puntirya](https://open.spotify.com/album/6jtq1fwv2xRUMWWIpA7hug) | 3:43 | 2024-07-11 |  |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-14 | 2024-07-12 |
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-06-05 | 2024-06-20 |
+| [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-21 |  |
 | [Relapse](https://open.spotify.com/track/6u6pneAPdW9MmCtUovu059) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Relapse](https://open.spotify.com/album/6CDTs4H4TW6X38PVtSMIR4) | 4:04 | 2024-01-24 | 2024-03-28 |
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5qvOar7Utet0sK0drULh9B) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/2AKhjyyZ6iLqpgoq1cjAXL) | 3:26 | 2024-01-24 | 2024-02-22 |
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2024-01-24 |  |

@@ -4,7 +4,7 @@
 
 > Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela
 
-671 songs - 1 day 9 hr 19 min
+672 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Café](https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Café](https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL) | 3:38 | 2023-11-24 | 2024-06-22 |
 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 | 2024-08-09 |  |
 | [CAIXA POSTAL](https://open.spotify.com/track/6lJ1FbMTeRrmee0eqE7XPl) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [CAIXA POSTAL](https://open.spotify.com/album/3DXoL1hqiTstYZgFBtCo9c) | 3:05 | 2022-11-11 | 2023-07-01 |
+| [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 | 2024-08-21 |  |
 | [calma na alma](https://open.spotify.com/track/3FSjdHh5YSZsC9Czb1mdit) | [Tatí Férrer](https://open.spotify.com/artist/5Rjyy1rpExPBXrzgp0LRCT), [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [calma na alma](https://open.spotify.com/album/4XIGrKDCbYgBDSPxSo9voV) | 2:29 | 2023-12-15 | 2024-05-11 |
 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 | 2022-06-14 | 2022-11-12 |
 | [Camomila](https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Camomila](https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL) | 2:18 | 2024-01-26 | 2024-06-01 |
@@ -225,7 +226,7 @@
 | [Estrela do Mar](https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Estrela do Mar](https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY) | 3:15 | 2023-07-21 | 2023-09-09 |
 | [eu](https://open.spotify.com/track/2AkQRYBsdZddgfNc4uhokU) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng), [Rafael Portugal](https://open.spotify.com/artist/3Pby3w74F4E2fYhAvDUMxf) | [eu](https://open.spotify.com/album/01BcoM5awsgHDlSow4CI6G) | 1:13 | 2023-06-16 | 2023-07-08 |
 | [Eu e Eu Mesmo](https://open.spotify.com/track/4U4KZ4I0Hcvfc5UpoWVnoA) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Eu e Eu Mesmo](https://open.spotify.com/album/39jD0xScGXQHOVkwYjOVh1) | 3:00 | 2022-06-17 | 2022-09-03 |
-| [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 | 2024-07-26 |  |
+| [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 | 2024-07-26 | 2024-08-22 |
 | [Eu e Você](https://open.spotify.com/track/3151w9snyt1Hvsm14whS4p) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj), [Ricky Ndombashi](https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [Eu e Você](https://open.spotify.com/album/0R8hpT9SvreIeMmXLJHh5R) | 2:40 | 2023-02-24 | 2023-06-24 |
 | [eu e você](https://open.spotify.com/track/5ISf8VHJdipHYcFwKDqVYA) | [João Klein](https://open.spotify.com/artist/0qHyRq7Ac4v4AXjvez82E1) | [eu e você](https://open.spotify.com/album/23wxiAL2q423z0IdsK1h3D) | 4:25 | 2022-05-13 | 2022-06-15 |
 | [Eu Gosto Assim](https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv) | [Karol Ribê](https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt) | [Eu Gosto Assim](https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd) | 3:26 | 2024-07-19 |  |

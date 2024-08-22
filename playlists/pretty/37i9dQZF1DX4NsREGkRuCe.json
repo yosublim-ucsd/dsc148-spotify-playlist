@@ -1,6 +1,6 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 79970,
+  "num_followers": 80130,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
@@ -127,7 +127,7 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
       "artists": [
@@ -149,7 +149,7 @@
         }
       ],
       "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "STREET ANTHEM / 7 DAYS",
         "url": "https://open.spotify.com/album/3VzQebEG0O7rIklEQvUbwg"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 154200,
       "name": "7 DAYS",
       "url": "https://open.spotify.com/track/4G5IYu1QYKo7DeSecKtNXA"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 154455,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "LAST WEEK",
-        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "LAST WEEK",
-      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Rodo",
         "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 143756,
       "name": "Rodo",
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "LAST WEEK",
+        "url": "https://open.spotify.com/album/1RnhiJQw2Z7rjETKvOxZiC"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "LAST WEEK",
+      "url": "https://open.spotify.com/track/4Qag5L7G1QEDSza9ygRntZ"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1291,30 +1291,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "TECHNICIAN",
-        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
-      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Tony Montana",
         "url": "https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Never Gets Late Here",
         "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 162912,
       "name": "Work Me Out (with Wizkid)",
       "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-08-02 00:01:00",

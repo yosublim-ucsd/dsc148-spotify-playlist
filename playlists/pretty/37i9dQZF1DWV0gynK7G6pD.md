@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ray Chen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,851 likes - 70 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,887 likes - 70 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

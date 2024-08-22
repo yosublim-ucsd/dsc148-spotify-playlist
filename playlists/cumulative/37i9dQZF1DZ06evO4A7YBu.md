@@ -2,7 +2,7 @@
 
 ### [This Is Static\-X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4A7YBu)
 
-> This is Static\-X\. The essential tracks, all in one playlist.
+> This Is Static\-X\. Los temas esenciales, todos en una lista.
 
 56 songs - 3 hr 8 min
 

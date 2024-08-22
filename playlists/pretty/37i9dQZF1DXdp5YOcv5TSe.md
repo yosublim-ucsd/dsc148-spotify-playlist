@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 CS2
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,018 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,089 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 34 | [UN PREVIEW](https://open.spotify.com/track/5ixdmTpCmH5diBA1j154wN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:45 |
 | 35 | [Cataleya](https://open.spotify.com/track/5ORMtD5Pxq21oxTfWkZ2Fe) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL), [Buba Corelli](https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG) | [Goat Season \(Part Two\)](https://open.spotify.com/album/3x6AkGZq0tRhHige9EWdPH) | 2:57 |
 | 36 | [out for the night \- part 2](https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [i am > i was \(Deluxe\)](https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl) | 3:55 |
-| 37 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
-| 38 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/61PtXatlQWtTFpquumggnV) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6) | [Songs zum Party machen](https://open.spotify.com/album/04Xb43MBgTczCG6sNaeEyY) | 2:40 |
+| 37 | [Intoxicated \- Radio Edit](https://open.spotify.com/track/61PtXatlQWtTFpquumggnV) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6) | [Songs zum Party machen](https://open.spotify.com/album/04Xb43MBgTczCG6sNaeEyY) | 2:40 |
+| 38 | [Here We Go Again](https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Here We Go Again](https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf) | 2:44 |
 | 39 | [Moonwalking in Calabasas \(feat\. Blueface\) \- Remix](https://open.spotify.com/track/7o4gBbTM6UBLkOYPw9xMCz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Moonwalking in Calabasas \(feat\. Blueface\) \[Remix\]](https://open.spotify.com/album/1z02WpEdAuImwfySk43owY) | 2:50 |
 | 40 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
 | 41 | [Alo Alo](https://open.spotify.com/track/5fOv8CRT37aPGkKBr7ljXT) | [Senidah](https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5) | [Alo Alo](https://open.spotify.com/album/3HiU30ETAplbvdzFCibMJy) | 3:28 |

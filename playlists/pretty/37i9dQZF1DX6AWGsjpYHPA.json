@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 152625,
+  "num_followers": 152697,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Doin It!!!!",
-        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
-      },
-      "artists": [
-        {
-          "name": "The Equatics",
-          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Doin It!!!!",
+        "url": "https://open.spotify.com/album/4SN55bwEnC0T1qmBTWZeyW"
+      },
+      "artists": [
+        {
+          "name": "The Equatics",
+          "url": "https://open.spotify.com/artist/2StGd2posp9AImgabK7u8P"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/4X4NrHp5VpibgirzuImxXd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "Intimate Friends",
-      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Slick",
+        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "Intimate Friends",
+      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 288038,
       "name": "I Know",
       "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Outlook Remains Untouched",
-        "url": "https://open.spotify.com/album/3UXZO8203DQInQGskJLBoy"
+        "name": "Jewels from the Sun EP",
+        "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
       },
       "artists": [
         {
-          "name": "||||||||||||||||||||",
-          "url": "https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
         }
       ],
-      "duration_ms": 391111,
-      "name": "Outlook Remains Untouched",
-      "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"
+      "duration_ms": 290847,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
     }
   ],
   "unique_name": "Turntable",

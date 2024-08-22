@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 602171,
+  "num_followers": 602426,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAABCJZvgL7rAh+/WKu6O/ai7",
+  "snapshot_id": "ZsPcgAAAAABzTj5vfMLvgGUs0NjR2Qgh",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For the Last Time",
         "url": "https://open.spotify.com/album/4CcyRnFW6Vgf372ca3xFGR"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 156081,
       "name": "For the Last Time",
       "url": "https://open.spotify.com/track/240audWazVjwvwh7XwfSZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 106340,
+      "name": "What the Fuck is Happening",
+      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+        "name": "I Want to Die In New Orleans",
+        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
       },
       "artists": [
         {
@@ -540,25 +556,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 106340,
-      "name": "What the Fuck is Happening",
-      "url": "https://open.spotify.com/track/29iepR0ydOuYFaZp8um6H8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 195994,
-      "name": "Fucking Your Culture",
-      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
+      "duration_ms": 137772,
+      "name": "Coma",
+      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want to Die In New Orleans",
-        "url": "https://open.spotify.com/album/2ivOxIKDHxEo6WMD9m3ytn"
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
       },
       "artists": [
         {
@@ -588,25 +588,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 137772,
-      "name": "Coma",
-      "url": "https://open.spotify.com/track/73hmZZ7HyLgUQj2DaybfBb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KILL YOURSELF Part XX: The Infinity Saga",
-        "url": "https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 167014,
-      "name": "Now I'm up to My Neck with Offers",
-      "url": "https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU"
+      "duration_ms": 195994,
+      "name": "Fucking Your Culture",
+      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 136997,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XX: The Infinity Saga",
+        "url": "https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 167014,
+      "name": "Now I'm up to My Neck with Offers",
+      "url": "https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 140288,
       "name": "Champagne Face",
       "url": "https://open.spotify.com/track/1UsvO5U72YRU8Xnq8Lp14O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Lte",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gray/Grey",
         "url": "https://open.spotify.com/album/3uOjCKXJFyF5hbWz7mGYrr"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 153808,
       "name": "Clouds as Witnesses",
       "url": "https://open.spotify.com/track/7s7q9dpsSCMEnDR3WhExZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Lte",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,

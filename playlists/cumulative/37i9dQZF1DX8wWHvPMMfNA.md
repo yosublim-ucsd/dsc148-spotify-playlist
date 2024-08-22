@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-913 songs - 2 day 9 hr 17 min
+916 songs - 2 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 | 2021-12-16 | 2022-10-16 |
 | [Darn That Dream](https://open.spotify.com/track/2lzmr63brYXxdCQsFNJNE0) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Being In Love](https://open.spotify.com/album/5NZCSnRwXtV5AWnm7EpkBX) | 4:53 | 2023-06-01 | 2023-08-25 |
 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 | 2022-01-26 | 2023-08-25 |
+| [Daydream](https://open.spotify.com/track/7wG5lwg5ZB1BqPyZ6UkZ12) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Daydream](https://open.spotify.com/album/7aB82vGu0ABleD2SQwHvnP) | 3:08 | 2024-08-20 |  |
 | [Daydreaming](https://open.spotify.com/track/0mZErx8PGRivBVFTMBnGoy) | [Nathan Hill Trio](https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz) | [Daydreaming](https://open.spotify.com/album/5oN2Epvtk0HNsWlEqunZFD) | 2:46 | 2024-04-10 |  |
 | [Days Of Wine And Roses](https://open.spotify.com/track/2mO0AFhyUJmNh7RlTDuxL9) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Nights Of Ballads & Blues](https://open.spotify.com/album/0GEUbCMMKRDFr7j0xxHZba) | 3:21 | 2022-01-26 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/2b2yKDFxgIVVGsgd8Pgneb) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Quota](https://open.spotify.com/album/5G2XZf9MkRLtABZoEJGRbT) | 7:43 | 2022-05-18 | 2022-11-11 |
@@ -251,6 +252,7 @@
 | [Flamenco Sketches \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/3R3fcrKaeBr3U6s9R2belr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:26 | 2021-12-16 | 2022-10-27 |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-06-01 | 2024-04-11 |
 | [Fleet Street](https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [Fleet Street](https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD) | 2:44 | 2022-11-17 |  |
+| [Floating](https://open.spotify.com/track/4DsHu3dnXt71rN2WfIfnfq) | [Anthony Hide Trio](https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av) | [Floating](https://open.spotify.com/album/5XCLBnbAzSJ3XxRz2J6SWV) | 3:32 | 2024-08-20 |  |
 | [Flow](https://open.spotify.com/track/7e1itud9aJ0ChQI9Nk9Z5D) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [Flow](https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil) | 3:43 | 2024-03-08 |  |
 | [Fluster](https://open.spotify.com/track/00MDdSPO6iWPZwwuF6RH89) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Fluster](https://open.spotify.com/album/5zDXxceLBK4Ojz08uNZ2KB) | 3:31 | 2023-06-01 |  |
 | [Follow Your Dreams](https://open.spotify.com/track/01bEWq2e6LPEn8pJIZabCo) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Follow Your Dreams](https://open.spotify.com/album/16MmXj3fiV9bMQIsjS8ePq) | 6:12 | 2024-04-10 | 2024-07-23 |
@@ -414,8 +416,8 @@
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-05-04 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 | 2023-01-20 |
 | [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 | 2024-04-12 |
-| [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 | 2024-05-23 |  |
-| [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-07-22 |  |
+| [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 | 2024-05-23 | 2024-08-22 |
+| [Keep It Away](https://open.spotify.com/track/5qo8pe8fFJ6uO0q3F1qmxP) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Keep It Away](https://open.spotify.com/album/0dFaKf06k82X1bt6cOFvXw) | 3:24 | 2024-07-22 | 2024-08-22 |
 | [Keeping Records](https://open.spotify.com/track/03gAqGt9brarmfmF0xJNBr) | [Gaige Myers](https://open.spotify.com/artist/5pMpBcYLGkbPYrVoe8SbbE) | [Keeping Records](https://open.spotify.com/album/3sVOt2neHbez0mTDaRrvX7) | 3:41 | 2024-01-05 | 2024-07-16 |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-06-01 |  |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-01 | 2024-05-11 |
@@ -717,6 +719,7 @@
 | [Summer Green](https://open.spotify.com/track/2uuGu4QUlVIC24OS2ZilNR) | [The Slow Nine](https://open.spotify.com/artist/2KSSPN9F7IzGkUhtQzmyj5) | [Summer Green](https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa) | 4:23 | 2023-11-17 |  |
 | [Summer Romance](https://open.spotify.com/track/0UEEd9xywztg2kbt3zRlJt) | [Eternal Time Trio](https://open.spotify.com/artist/7Db24rMZl5sv7EQL5CP988) | [Summer Romance](https://open.spotify.com/album/5gDw4M9FAbrAjQcmH5TJc2) | 2:32 | 2023-06-01 |  |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2023-06-01 |  |
+| [Sunday Morning](https://open.spotify.com/track/5WwiqYKhGameSQcHRjdlxB) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Sunday Morning](https://open.spotify.com/album/39liLKUEL1PksWSLKTVJBy) | 2:55 | 2024-08-20 |  |
 | [Sunlit Sonata](https://open.spotify.com/track/56hKxPyecxQKS5ZkyeeBxe) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Sunlit Sonata](https://open.spotify.com/album/1ZIeUNEi7s0HddckGQLGsa) | 2:38 | 2024-03-22 |  |
 | [Sunny Days](https://open.spotify.com/track/381lxBVIMBN79lRzgOVVlu) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Moments of Solitude](https://open.spotify.com/album/2O9Gl75omwsBSfBDg8AYgb) | 4:49 | 2023-09-29 |  |
 | [Sunset over Paris](https://open.spotify.com/track/4J7o5z21AHxX83IxXOGdWe) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 4:03 | 2023-06-01 |  |
@@ -805,7 +808,7 @@
 | [Three to Get Ready](https://open.spotify.com/track/3k5O0RKO6zEqu9JJ7JqxDX) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:23 | 2021-12-16 | 2022-11-11 |
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 |  |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 | 2024-08-22 |
 | [Till There Was You](https://open.spotify.com/track/2MTvxuqnAEzUctNDGGEIuu) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Gene Ammons Story: Gentle Jug](https://open.spotify.com/album/0CCKExA36huR4N871Qkszm) | 7:10 | 2022-06-29 | 2022-11-11 |
 | [Till There Was You](https://open.spotify.com/track/5CRUURL4TTPTxF36cDtX1J) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Three Little Words](https://open.spotify.com/album/5R2EebUkOPmRbw0wEhutCD) | 7:12 | 2022-05-13 | 2022-07-29 |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |

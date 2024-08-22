@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,787 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,790 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 29 | [Follow No One](https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Follow No One](https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz) | 3:26 |
 | 30 | [De bois et de fumée](https://open.spotify.com/track/4Aq2pTQXWpWMshDv0IAen8) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [De bois et de fumée](https://open.spotify.com/album/6nEyEPfSJkjaiIPZa0pDlj) | 2:31 |
 | 31 | [HYPNOSE](https://open.spotify.com/track/0kzApf7h9Z4fpkjYnhtCYC) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [HYPNOSE](https://open.spotify.com/album/2kUJV1HpZPsQDWcbpsnGYB) | 2:57 |
-| 32 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
+| 32 | [Don't Waste My Time](https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 2:45 |
 | 33 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
-| 34 | [Don't Waste My Time](https://open.spotify.com/track/4fJ0WgBtMm3pFlt8E0IBql) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 2:45 |
+| 34 | [Kini Dub](https://open.spotify.com/track/4dEndC43ptFlFpw5nUGvCG) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 4:22 |
 | 35 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
 | 36 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
 | 37 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |

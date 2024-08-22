@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Sudan, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Heeya Tikku, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -718,6 +718,24 @@
       "duration_ms": 173562,
       "name": "Aasmaan",
       "url": "https://open.spotify.com/track/7Jb6OhQmgRULY0YpOctzl7"
+    },
+    {
+      "album": {
+        "name": "Aasmaan",
+        "url": "https://open.spotify.com/album/0VIjp0wl7EKYy9JZs3gUSd"
+      },
+      "artists": [
+        {
+          "name": "The Weekend Dreamers",
+          "url": "https://open.spotify.com/artist/0r7wfFzmT2jGFkyukbgTUa"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Aasmaan",
+      "url": "https://open.spotify.com/track/6SnS8EaPZV12w3mGF21Ldz"
     },
     {
       "album": {
@@ -3185,6 +3203,42 @@
     },
     {
       "album": {
+        "name": "Bombay Rains",
+        "url": "https://open.spotify.com/album/1q6iicNtqmRooYsG0KktY1"
+      },
+      "artists": [
+        {
+          "name": "Heeya Tikku",
+          "url": "https://open.spotify.com/artist/15pU1H32bqltxTPozA60YM"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175499,
+      "name": "Bombay Rains",
+      "url": "https://open.spotify.com/track/4jEWjqifdaItAnIfgXHHW5"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/6WzvNVoqBQVrIAaEk4BSg0"
+      },
+      "artists": [
+        {
+          "name": "Vaani Bhasin",
+          "url": "https://open.spotify.com/artist/7cyFNq6i4cJ66n45MMI0WS"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226542,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/4s7V0HgWxWkQr2oONzWYK8"
+    },
+    {
+      "album": {
         "name": "Break the Ice",
         "url": "https://open.spotify.com/album/2yhkpbcLEWZPPhTQCTTwid"
       },
@@ -3920,7 +3974,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 165936,
       "name": "Chalte hai wahan",
       "url": "https://open.spotify.com/track/0wIiL1mUXT78n57W69ae22"
@@ -8154,7 +8208,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 134769,
       "name": "hbd",
       "url": "https://open.spotify.com/track/5VKkxDE0Yj5EAhWxXfrcCb"
@@ -9767,6 +9821,32 @@
     },
     {
       "album": {
+        "name": "Ishq Mera Hai",
+        "url": "https://open.spotify.com/album/1da2L9erJPpImk2kK4mwAa"
+      },
+      "artists": [
+        {
+          "name": "The Kabir",
+          "url": "https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS"
+        },
+        {
+          "name": "Senjuti Das",
+          "url": "https://open.spotify.com/artist/1Y6vfRM6HbbNLUfoXTS9g0"
+        },
+        {
+          "name": "BYG BASS",
+          "url": "https://open.spotify.com/artist/7qScqy8QkqngHWUluAWVux"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175325,
+      "name": "Ishq Mera Hai",
+      "url": "https://open.spotify.com/track/5rpW4OGhgBVDbrxVOcA4qu"
+    },
+    {
+      "album": {
         "name": "Ishq-e-Haqiqi",
         "url": "https://open.spotify.com/album/3GQyTyprZy79wTmZhrj3RU"
       },
@@ -10796,7 +10876,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 172800,
       "name": "Juie",
       "url": "https://open.spotify.com/track/6C6jhsXMumyaJV1tl57or7"
@@ -11032,6 +11112,56 @@
       "duration_ms": 157920,
       "name": "Kaahe Kanha",
       "url": "https://open.spotify.com/track/4SACOzcQaUqp3Q0EDEAdj0"
+    },
+    {
+      "album": {
+        "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
+        "url": "https://open.spotify.com/album/11kuFFRdEn1C0zVcEDYOIy"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Prateek Narsimha",
+          "url": "https://open.spotify.com/artist/5CZ3t3rNQcDxr2fFOZ3keO"
+        },
+        {
+          "name": "Suyash Gabriel",
+          "url": "https://open.spotify.com/artist/2loGjUhYCEgDyGsICei4Ow"
+        },
+        {
+          "name": "Saptak Sharma",
+          "url": "https://open.spotify.com/artist/3YFidceSzkOqqFqQZsskZO"
+        },
+        {
+          "name": "Soumitra Thakur",
+          "url": "https://open.spotify.com/artist/0zOCF2DAtx7rq9Hbc7ptEE"
+        },
+        {
+          "name": "Rohan Prasanna",
+          "url": "https://open.spotify.com/artist/7l4MibDurgFUAa0b2D8c4X"
+        },
+        {
+          "name": "Varun Rajasekharan",
+          "url": "https://open.spotify.com/artist/6wG7tirouW1CRqzol1jEQ4"
+        },
+        {
+          "name": "Shrikant Biswakarma",
+          "url": "https://open.spotify.com/artist/0WfSMKNv9ryVmHLpX3hWZh"
+        },
+        {
+          "name": "Madhur Chaudhary",
+          "url": "https://open.spotify.com/artist/0kNEQWdD0mNXDr2C0s3dfx"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477371,
+      "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
+      "url": "https://open.spotify.com/track/0ZbJLfZcTrn3NqpIjjQZdk"
     },
     {
       "album": {
@@ -18946,7 +19076,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 129229,
       "name": "Relive",
       "url": "https://open.spotify.com/track/54xVC2dGZvk27g7bBUlY46"
@@ -24726,7 +24856,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 110862,
       "name": "vo taare",
       "url": "https://open.spotify.com/track/1pja4uveCNfb6DhGkyJhzK"

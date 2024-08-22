@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 
 > Retro favorites from 2023\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,453 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tAvIWoqPxV.md) - [plain]
 | 42 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 |
 | 43 | [I'm Comin' Home To You](https://open.spotify.com/track/2RHV6ehfb8JnyXugVy7D4E) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Stella Angelico](https://open.spotify.com/artist/3qZl6vkduvtusEc6dnSwGz) | [I'm Comin' Home To You](https://open.spotify.com/album/1J5DfEBCaIxpDRBZl0Slwm) | 3:31 |
 | 44 | [Beat the Same](https://open.spotify.com/track/0fB8nsaWPUNQopWT74TsHs) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [The Nostalgiac](https://open.spotify.com/album/0HZQqwnq5WDugzJSh4l3fD) | 3:46 |
-| 45 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
+| 45 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Deluxe](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 46 | [Fool For You](https://open.spotify.com/track/1qJOKVRiiaqSpwB1UFPbnl) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Fool For You](https://open.spotify.com/album/3ldC2PLwazUJQTW18DsWLE) | 3:03 |
 | 47 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 |
 | 48 | [Adonis \- Feat\. KIRBY](https://open.spotify.com/track/1Q6n0mQqqOCXsUGGKxQmrV) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Lotus Glow](https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv) | 3:39 |

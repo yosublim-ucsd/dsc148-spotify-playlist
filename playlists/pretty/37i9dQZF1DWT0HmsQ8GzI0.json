@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
-  "num_followers": 13486,
+  "num_followers": 13492,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "MAG\u00c1NY\u00d6L\u0150",
+        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "MAG\u00c1NY\u00d6L\u0150",
+      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Beszorult mondat",
         "url": "https://open.spotify.com/album/6rDnj8NhQrIvAjqOYlQYnZ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 146691,
       "name": "B\u00e1rcsak",
       "url": "https://open.spotify.com/track/0cN9PXoc9JX0CZniTaMGVD"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "MAG\u00c1NY\u00d6L\u0150",
-        "url": "https://open.spotify.com/album/0FXYhCj9lZniPB2GdX8WZh"
-      },
-      "artists": [
-        {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "MAG\u00c1NY\u00d6L\u0150",
-      "url": "https://open.spotify.com/track/4W3Yxxf3MN3sGRv1sGoURQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
-        "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
-      },
-      "artists": [
-        {
-          "name": "Magashegyi Underground",
-          "url": "https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Napf\u00e9ny",
-      "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "K\u00e9s\u0151 Van",
         "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
+        "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
+      },
+      "artists": [
+        {
+          "name": "Magashegyi Underground",
+          "url": "https://open.spotify.com/artist/7hyP2xUpgaCaMi4rrm4Fzi"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Napf\u00e9ny",
+      "url": "https://open.spotify.com/track/7lgJPqlkZ3jTYsfE3S8Jih"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "BOLDOGOK VAGYUNK-E",
         "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 181840,
       "name": "Boldogok vagyunk-e",
       "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Huszonegy",
-        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 170719,
-      "name": "Huszonegy",
-      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Huszonegy",
+        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 170719,
+      "name": "Huszonegy",
+      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "RENDEZ\u0150I V\u00c1LTOZAT",
         "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
       "artists": [
         {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
         }
       ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
       "artists": [
         {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
         }
       ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 302538,
       "name": "Bez\u00e1rul",
       "url": "https://open.spotify.com/track/25DDjxsLkZzWvJkodzPF8s"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Sweet",
-        "url": "https://open.spotify.com/album/04CWvThXIjo3zEPAz9ZlC5"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        }
-      ],
-      "duration_ms": 253772,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/0zLAjmn81GIXO9eDe1OVmp"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/04CWvThXIjo3zEPAz9ZlC5"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6rk",
+          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
+        }
+      ],
+      "duration_ms": 253772,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/0zLAjmn81GIXO9eDe1OVmp"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Ellensz\u00e9lben",
+        "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
+      },
+      "artists": [
+        {
+          "name": "Galaxisok",
+          "url": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Fekete p\u00f3l\u00f3",
+      "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Romeo and Juliet",
         "url": "https://open.spotify.com/album/7E1RYDo9HsSGefJI92cum9"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ellensz\u00e9lben",
-        "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
+        "name": "vir\u00e1gb\u00f3l",
+        "url": "https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu"
       },
       "artists": [
         {
-          "name": "Galaxisok",
-          "url": "https://open.spotify.com/artist/0oTbG6PYGGhT0vRYqByYEL"
+          "name": "MARGE",
+          "url": "https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW"
         }
       ],
-      "duration_ms": 173750,
-      "name": "Fekete p\u00f3l\u00f3",
-      "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
+      "duration_ms": 173680,
+      "name": "vir\u00e1gb\u00f3l",
+      "url": "https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1383,26 +1399,6 @@
       "duration_ms": 165120,
       "name": "Gyere Kicsi",
       "url": "https://open.spotify.com/track/6QEu7mjc6ukjLZB8KDr563"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "R\u00e1mszokn\u00e1l",
-        "url": "https://open.spotify.com/album/6FTTat9BmATbki7dfdiGK3"
-      },
-      "artists": [
-        {
-          "name": "L\u00f3ci J\u00e1tszik",
-          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
-        },
-        {
-          "name": "Volkova",
-          "url": "https://open.spotify.com/artist/6r8dF10rNGR4C5U8hhwtoR"
-        }
-      ],
-      "duration_ms": 219868,
-      "name": "R\u00e1mszokn\u00e1l",
-      "url": "https://open.spotify.com/track/5WAqO62zy1U2Vu5ZH5ytK2"
     }
   ],
   "unique_name": "Nemazapop",

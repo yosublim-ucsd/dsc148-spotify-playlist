@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WY4wcXo9Hn.md) - [plain]
 
 > plaid shirt days and nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,603 likes - 85 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,093 likes - 85 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

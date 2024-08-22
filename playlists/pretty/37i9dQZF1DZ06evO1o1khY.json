@@ -1,12 +1,12 @@
 {
-  "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 19551,
+  "description": "This is: GloRilla. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 19595,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAABaxwBGlQo/anFL9dToH6h0",
+  "snapshot_id": "ZsPcgAAAAADnqUThq0iuwH+sHo4Sq2KL",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 113844,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get In There (feat. GloRilla)",
         "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 195005,
       "name": "Get In There (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 113844,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
     },
     {
       "added_at": null,

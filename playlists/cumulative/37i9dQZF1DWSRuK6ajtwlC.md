@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. La Maquinaría Norteña en portada.
+> A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este en portada.
 
-175 songs - 9 hr 1 min
+177 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,12 +23,14 @@
 | [Bajo El Agua](https://open.spotify.com/track/6p5fhJRJo4THCk3nch12yC) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Bajo El Agua](https://open.spotify.com/album/098VAFbYJo4Syqkr4zqO1h) | 3:12 | 2024-04-19 |  |
 | [Bajo El Agua](https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Bajo El Agua](https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg) | 3:12 | 2023-03-06 | 2024-04-19 |
 | [Bemaste](https://open.spotify.com/track/4YiuckLW9XY7VrpMmWpKfc) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj), [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Bemaste](https://open.spotify.com/album/1jYScoHmO4DZUQYafSLkPU) | 3:24 | 2024-04-19 |  |
+| [Beso \- Spotify Singles](https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Beso \- Spotify Singles](https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs) | 2:23 | 2024-08-22 |  |
 | [Besos Contados](https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Besos Contados](https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu) | 3:20 | 2023-11-17 | 2024-04-19 |
 | [Bonita](https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Bonita](https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49) | 3:25 | 2023-03-06 |  |
 | [Botecitos](https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Botecitos](https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk) | 3:08 | 2024-03-29 |  |
 | [Brillas](https://open.spotify.com/track/4dZ8JV7yg6zm60uXBzNwqM) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Brillas](https://open.spotify.com/album/3NdwxHHFpkU5P870jKCFZC) | 2:27 | 2023-06-09 | 2023-09-30 |
 | [Búscame](https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Búscame](https://open.spotify.com/album/4iAWI9q2g46nnZtEkm83Tu) | 2:53 | 2024-03-29 | 2024-08-03 |
 | [Carmesí](https://open.spotify.com/track/5XLyfpeRUt19MCsHP2faVJ) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Carmesí](https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn) | 2:56 | 2024-06-28 |  |
+| [Chelas y Besos](https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Infinito](https://open.spotify.com/album/2393BbWjPqeNodz7lvaDNN) | 3:01 | 2024-08-22 |  |
 | [Chiquilla Preciosa \- En Vivo](https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Renovando El Estilo 2.0 \(En Vivo\)](https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg) | 3:04 | 2023-05-19 | 2023-07-15 |
 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 | 2023-03-06 |  |
 | [Cicatrices](https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Cicatrices](https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY) | 2:39 | 2023-05-19 | 2023-11-18 |

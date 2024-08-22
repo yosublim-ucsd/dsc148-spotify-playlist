@@ -799,6 +799,26 @@
     {
       "added_at": "2024-06-25 16:00:40",
       "album": {
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "03' Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
+    },
+    {
+      "added_at": "2024-06-25 16:00:40",
+      "album": {
         "name": "Paid Tha Cost To Be Da Bo$$",
         "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 298306,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
-    },
-    {
-      "added_at": "2024-06-25 16:00:40",
-      "album": {
-        "name": "The Blueprint 2: The Gift & The Curse",
-        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "03' Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
     },
     {
       "added_at": "2024-06-25 16:00:40",

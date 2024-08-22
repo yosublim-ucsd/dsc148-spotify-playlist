@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 485886,
+  "num_followers": 486025,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Vheissu",
-        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Image Of The Invisible",
-      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Too Bad You're Beautiful",
         "url": "https://open.spotify.com/album/5gZbzZKm0cBUfJwlUErOLm"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 565973,
       "name": "Short Stories With Tragic Endings",
       "url": "https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Vheissu",
+        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Image Of The Invisible",
+      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "The Anti Mother",
-        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 280546,
-      "name": "Surrender Your Sons",
-      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "The Anti Mother",
+        "url": "https://open.spotify.com/album/0GZJgWLGPiJi8TTp5hDnY4"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 280546,
+      "name": "Surrender Your Sons",
+      "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
     },
     {
       "added_at": "2024-07-02 15:11:08",

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Nicky.M x Rajaganapathy
 
-338 songs - 19 hr 33 min
+340 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Engeyo](https://open.spotify.com/track/1VbGNyEYDJOYl0rMu6ZdWT) | [Venkat](https://open.spotify.com/artist/48YcECFgYoT5MNRZGm69Tq), [Jeffery Jonathan](https://open.spotify.com/artist/6DLpl5amuFlVW3VrCyo9zo) | [Engeyo](https://open.spotify.com/album/6PyRuoq98TMZUpxtVojwrZ) | 3:07 | 2023-03-21 | 2023-09-26 |
 | [Engu Poven?](https://open.spotify.com/track/2WAluA15WXXZBqGcF6m0Vp) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Engu Poven?](https://open.spotify.com/album/4paIGcasxYVK8teL1wZqnT) | 3:36 | 2024-06-14 | 2024-08-11 |
 | [Enna Mayakkam](https://open.spotify.com/track/06RJLbCMAAdVoMvHjBxdtS) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [Ailaah](https://open.spotify.com/artist/4HexHcCpsVIy7KsVTq0bnX) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 2:39 | 2024-07-27 |  |
+| [Enna Sachitiye](https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV) | [Haswanth Adhi](https://open.spotify.com/artist/0zo8RWL9fAbxFOGPPEKbUm) | [Enna Sachitiye](https://open.spotify.com/album/4p55p6frgV7NlbHhfbIzBt) | 3:11 | 2024-08-21 |  |
 | [enna vittu](https://open.spotify.com/track/6OLDFUpW6fpsWONdqW7HEC) | [AE Prince](https://open.spotify.com/artist/1PD5zYoXUX1xKPcV0TOHgS) | [enna vittu](https://open.spotify.com/album/5ZDXqTsFkUB0xcIm69yrf6) | 1:16 | 2024-07-16 |  |
 | [Fake Escobar](https://open.spotify.com/track/2bc5OEFuJgcEOoLxpmXD0t) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Fake Escobar](https://open.spotify.com/album/0GxmBhQxX8F95Ck7BzR9Wy) | 2:38 | 2024-01-16 | 2024-03-01 |
 | [FLYHIGH](https://open.spotify.com/track/09rtkeKUT1QU1GnC1kud4O) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue) | [FLYHIGH \- Tamil](https://open.spotify.com/album/4jSkcXuCqfl9fJ1rpOEQ7w) | 3:55 | 2023-06-29 | 2024-02-01 |
@@ -327,6 +328,7 @@
 | [Vazhka Oru Maithanam](https://open.spotify.com/track/1BX3ynw6RJSZ4OCYE9fqt1) | [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Vazhka Oru Maithanam](https://open.spotify.com/album/3xFPEzC9S4io0h3W3dLB2p) | 2:26 | 2024-01-05 | 2024-07-30 |
 | [Vena Thambi](https://open.spotify.com/track/7jj3ZgabLKGM0Y3WrVZ677) | [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf) | [Vena Thambi](https://open.spotify.com/album/1wZhn9ZDOK8QYUTSRNAfeH) | 2:35 | 2024-01-30 | 2024-05-21 |
 | [Vengai Penne](https://open.spotify.com/track/5l2kfVTuAkV7Fh3e98XmeT) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma), [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW) | [Vengai Penne](https://open.spotify.com/album/2mMZVC8DDZ9avU17VSmWNB) | 3:22 | 2023-05-22 | 2023-11-16 |
+| [VENKUZHALI](https://open.spotify.com/track/4oIGqgabBXnjr6uwBplh1i) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw), [L J Vijay](https://open.spotify.com/artist/2ownGwkMOO4BCycYkRShYP), [Shibi Srinivasan](https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5) | [VENKUZHALI](https://open.spotify.com/album/3HN4AEXQO0Sw2PiUqwIq8l) | 3:43 | 2024-08-21 |  |
 | [Veruthu Pochu](https://open.spotify.com/track/5G8ax76K5ZmOgi2KRkaaDk) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 2:04 | 2023-03-21 | 2023-09-26 |
 | [Vetti Bandha](https://open.spotify.com/track/6uWLo9rRdsIqDuJM5P6SR8) | [$carce](https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Vetti Bandha](https://open.spotify.com/album/6X7eqIR21LshdkNUYLgOGR) | 2:07 | 2024-03-17 |  |
 | [Vibe](https://open.spotify.com/track/3s5TMnbs3AKo7j8FG7kXkq) | [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw), [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3) | [Vibe](https://open.spotify.com/album/5ryE7bfNEuN3d5qs3MEJ3V) | 3:13 | 2023-10-12 | 2024-05-11 |

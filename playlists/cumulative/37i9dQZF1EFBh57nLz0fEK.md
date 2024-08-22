@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-93 songs - 5 hr 5 min
+97 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,10 @@
 | [Closer To God](https://open.spotify.com/track/6tEMQwdoXU7pkFwf4FjJjj) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 4:04 | 2024-06-07 |  |
 | [Code + Love Me Some More](https://open.spotify.com/track/3EErsWRNeSwUg6ffBgDXW3) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 3:46 | 2024-06-07 |  |
 | [Cold World](https://open.spotify.com/track/5srhxtnDZLyPGOca7pSjUw) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:06 | 2024-06-07 |  |
+| [Crazy Crazy 4 U \(feat\. Rumer Willis\)](https://open.spotify.com/track/0vwU1AygDRsVrTkpZTrrgo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Rumer Willis](https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD) | [Empire: Original Soundtrack, Season 3](https://open.spotify.com/album/1JY8uoxY8dLSPwVj2UqLiP) | 2:37 | 2024-08-21 |  |
 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/5am1La9jOmHqtJR5ZneUxR) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 3:24 | 2024-07-03 |  |
 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 | 2024-06-07 |  |
+| [Dangerous \(feat\. Jussie Smollett & Estelle\)](https://open.spotify.com/track/4IrQZV0pREmgCRulOnGHJJ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Dangerous \(feat\. Jussie Smollett & Estelle\)](https://open.spotify.com/album/5AY73Kmj2ddx81gSCxU6Qz) | 3:16 | 2024-08-21 |  |
 | [Days Come and Go](https://open.spotify.com/track/4Dk42ykoREkq82ny0mWZnU) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:17 | 2024-06-07 |  |
 | [December Back 2 June](https://open.spotify.com/track/05DCz0eIhcGAb6YpNiwdbv) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Santa Baby](https://open.spotify.com/album/5ichhxPbZc7s1azvGRrNsO) | 2:43 | 2024-06-07 |  |
 | [Die In Your Arms](https://open.spotify.com/track/2eHs8Swb16qSKatrLKnWKP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:57 | 2024-06-07 |  |
@@ -56,6 +58,7 @@
 | [love language](https://open.spotify.com/track/6NYtLvyThMT0oALFdJFdzq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:59 | 2024-06-07 |  |
 | [Made For Now](https://open.spotify.com/track/0kgs0V2PdGKot0D6GhhjkH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Made For Now](https://open.spotify.com/album/57EpF5I46euNXXKVry6NW5) | 3:30 | 2024-06-07 |  |
 | [Make Me](https://open.spotify.com/track/4ecsYZoUCiwQdSlBM3CVGO) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Make Me \(France Version\)](https://open.spotify.com/album/4owB52H5fyp5KpB6pHiBYE) | 3:38 | 2024-06-07 |  |
+| [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 | 2024-08-21 |  |
 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0FdW7MEbDKdz8v5TXqcFkG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:25 | 2024-06-07 |  |
 | [Meet Again](https://open.spotify.com/track/2Ta8ohcEc1baylhzoeHuFb) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS) | [Time Will Tell \(Deluxe\)](https://open.spotify.com/album/4qEGuoOqBsOF2qkY3EwQdV) | 2:17 | 2024-06-07 |  |
 | [Menage a Trois](https://open.spotify.com/track/6xS4BdN2QBNN6AjSOXy0Q0) | [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Highway 85](https://open.spotify.com/album/6LjVjNpmVDtop3I7X5v5oU) | 3:50 | 2024-06-07 |  |
@@ -91,6 +94,7 @@
 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-07-30 |  |
 | [Together](https://open.spotify.com/track/5Kln1gB8FC2XZsd0CMQVyN) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt) | 3:23 | 2024-06-07 |  |
 | [Tryna](https://open.spotify.com/track/05PU5oE3gopbj1SQtAl6Al) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [10's](https://open.spotify.com/album/3IIxAv8KgoGkqCXljHbJ7W) | 3:18 | 2024-06-07 |  |
+| [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 | 2024-08-21 |  |
 | [Unbreakable](https://open.spotify.com/track/66LSRZ5Jmsz8fcNG9aWfXJ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 3:38 | 2024-06-07 |  |
 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:25 | 2024-07-17 |  |
 | [Undone](https://open.spotify.com/track/6YYvmiGNCVtkhfVqFWWIwZ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:40 | 2024-06-07 |  |

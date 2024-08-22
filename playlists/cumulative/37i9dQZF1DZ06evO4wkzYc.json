@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
   "name": "This Is Edicion Especial",
   "tracks": [
     {
@@ -140,6 +140,36 @@
     {
       "album": {
         "name": "D\u00e9jenme Hacer Dinero",
+        "url": "https://open.spotify.com/album/0Pb2T0G7x9IGOWer7fEmuh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193918,
+      "name": "D\u00e9jenme Hacer Dinero",
+      "url": "https://open.spotify.com/track/364qZBjyGTwjNbUxnq1djj"
+    },
+    {
+      "album": {
+        "name": "D\u00e9jenme Hacer Dinero",
         "url": "https://open.spotify.com/album/38P4ol8xZRrL4DqxxWKMAo"
       },
       "artists": [
@@ -162,7 +192,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
@@ -216,10 +246,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/12GpSqj0PWHs6LuBVsiliK"
+    },
+    {
+      "album": {
+        "name": "El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245098,
+      "name": "El Chavo - En Vivo",
+      "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
+    },
+    {
+      "album": {
+        "name": "El Chico (En Vivo)",
+        "url": "https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147602,
+      "name": "El Chico - En Vivo",
+      "url": "https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL"
     },
     {
       "album": {
@@ -234,7 +300,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 147602,
       "name": "El Chico - En Vivo",
       "url": "https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8"
@@ -335,6 +401,24 @@
     },
     {
       "album": {
+        "name": "El Pocho (En Vivo)",
+        "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168288,
+      "name": "El Pocho - En Vivo",
+      "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
+    },
+    {
+      "album": {
         "name": "El Pocho - En Vivo",
         "url": "https://open.spotify.com/album/1dygfh3ka5qJvULv4iebxO"
       },
@@ -346,10 +430,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 168288,
       "name": "El Pocho - En Vivo",
       "url": "https://open.spotify.com/track/4ggSfStfqtdh0eifmjmnIf"
+    },
+    {
+      "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227860,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/69DWK7IL1kul2ZK327hn7t"
     },
     {
       "album": {
@@ -364,7 +466,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 227860,
       "name": "El Pocho 43",
       "url": "https://open.spotify.com/track/6GpUIhRCjIwKBLVt4pvcZo"
@@ -436,10 +538,46 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 265899,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4"
+    },
+    {
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/5Fkw3MloOAO05hDVRyCze5"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/7m5rlA8DFLoWB1XpfKYhWG"
+    },
+    {
+      "album": {
+        "name": "Hoy Ya Me Voy",
+        "url": "https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259976,
+      "name": "Hoy Ya Me Voy",
+      "url": "https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v"
     },
     {
       "album": {
@@ -454,7 +592,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 259976,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp"
@@ -820,6 +958,24 @@
     {
       "album": {
         "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238779,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a"
+    },
+    {
+      "album": {
+        "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
       },
       "artists": [
@@ -830,7 +986,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 238779,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/1EKGXIvGSPOHRt2wJdMzVN"
@@ -985,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4g0TTwd8kOOQEYwGgZiiKg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187989,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/4jZHBWgeRYvLEexYEr1qrY"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo T\u00fa - En Vivo",
         "url": "https://open.spotify.com/album/51YYGt4Dbu8lRv3Tyv2hAf"
       },
@@ -996,7 +1170,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 187989,
       "name": "S\u00f3lo T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/5dCVcwNmuSIP6eTyArSc3S"
@@ -1054,10 +1228,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 181901,
       "name": "Zutano",
       "url": "https://open.spotify.com/track/4g3Y1nH454CQO6DINjb7qm"
+    },
+    {
+      "album": {
+        "name": "Zutano",
+        "url": "https://open.spotify.com/album/3ZIfH7NN3woFYY5CktPcnh"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181901,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wkzYc"

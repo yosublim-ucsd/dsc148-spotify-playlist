@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 486899,
+  "num_followers": 486945,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,42 @@
     {
       "added_at": "2024-08-10 15:51:35",
       "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 257631,
+      "name": "It's You (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
+    },
+    {
+      "added_at": "2024-08-10 15:51:35",
+      "album": {
+        "name": "It's Raining",
+        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "duration_ms": 214326,
+      "name": "It's Raining",
+      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
+    },
+    {
+      "added_at": "2024-08-10 15:51:35",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -379,26 +415,6 @@
     {
       "added_at": "2024-08-10 15:51:35",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 257631,
-      "name": "It's You (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
-    },
-    {
-      "added_at": "2024-08-10 15:51:35",
-      "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 188293,
       "name": "Flu",
       "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2024-08-10 15:51:35",
-      "album": {
-        "name": "It's Raining",
-        "url": "https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE"
-      },
-      "artists": [
-        {
-          "name": "Vincent Blue",
-          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
-        }
-      ],
-      "duration_ms": 214326,
-      "name": "It's Raining",
-      "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
     },
     {
       "added_at": "2024-08-10 15:51:35",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-10 15:51:35",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
-    },
-    {
-      "added_at": "2024-08-10 15:51:35",
-      "album": {
         "name": "You Might (Feat. SHIRT)",
         "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 187185,
       "name": "You Might (Feat. SHIRT)",
       "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
+    },
+    {
+      "added_at": "2024-08-10 15:51:35",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
     },
     {
       "added_at": "2024-08-10 15:51:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-10 15:51:35",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Hi spring Bye",
-      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
-    },
-    {
-      "added_at": "2024-08-10 15:51:35",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 161386,
       "name": "YOU AND I",
       "url": "https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl"
+    },
+    {
+      "added_at": "2024-08-10 15:51:35",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Hi spring Bye",
+      "url": "https://open.spotify.com/track/2M7a2Us8CEU1HZHj70byGX"
     },
     {
       "added_at": "2024-08-10 15:51:35",
@@ -771,22 +771,6 @@
       "duration_ms": 198749,
       "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
       "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
-    },
-    {
-      "added_at": "2024-08-10 15:51:35",
-      "album": {
-        "name": "The Spring of Twenty",
-        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 190846,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
     },
     {
       "added_at": "2024-08-10 15:51:35",
@@ -871,6 +855,22 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+    },
+    {
+      "added_at": "2024-08-10 15:51:35",
+      "album": {
+        "name": "The Spring of Twenty",
+        "url": "https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 190846,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf"
     },
     {
       "added_at": "2024-08-10 15:51:35",

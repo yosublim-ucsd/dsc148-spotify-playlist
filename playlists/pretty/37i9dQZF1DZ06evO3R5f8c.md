@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This Is Black Coffee\. Los temas esenciales, todos en una lista.
+> This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,272 likes - 50 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,443 likes - 50 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Never Saw You Coming \(feat\. Tsepo\) \- DJ Spinna Galactic Vocal Mix](https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tsepo](https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt), [DJ Spinna](https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc) | [Never Saw You Coming \(feat\. Tsepo\)](https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He) | 8:28 |
 | 50 | [In Tunes Wave](https://open.spotify.com/track/5oEW94ircuKgml24tLtBXj) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Tranquillity \(The 8D Chillout Experience\)](https://open.spotify.com/album/4dxoyllx5mkMiDwMuf8gvY) | 3:09 |
 
-Snapshot ID: `ZsKLAAAAAADCCqgq7v/LRlhL51lYmshL`
+Snapshot ID: `ZsPcgAAAAAAeSahKQEWiyuyo8+rv3SN2`

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 144585,
+  "num_followers": 144598,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Global Citizen \u2162",
-        "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
-      },
-      "artists": [
-        {
-          "name": "Jike Junyi",
-          "url": "https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "The Hunting Field",
-      "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Simula",
         "url": "https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 265377,
       "name": "Simula",
       "url": "https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Global Citizen \u2162",
+        "url": "https://open.spotify.com/album/31Ix6KE9PSLzRnj9nqoW2t"
+      },
+      "artists": [
+        {
+          "name": "Jike Junyi",
+          "url": "https://open.spotify.com/artist/2dIGGnfI63aDJNR6eL50AZ"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "The Hunting Field",
+      "url": "https://open.spotify.com/track/06eKvEaJ79mZ5DjNxcpoLM"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
+        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 219689,
+      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
+      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "\u56a3\u5f20",
         "url": "https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
-        "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 219689,
-      "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
-      "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2091,6 +2091,38 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sa Paghimig Mo",
         "url": "https://open.spotify.com/album/0JzWTRJ2fBl3Egldr14llU"
       },
@@ -2167,22 +2199,6 @@
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2419,22 +2435,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92"
       },
@@ -2507,6 +2507,26 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/4b1vmTumhoQ2pXD4ts0sH3"
+      },
+      "artists": [
+        {
+          "name": "Djouher",
+          "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/08j5xeOU0aKjKTWRDClYZt"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H"
       },
@@ -2519,22 +2539,6 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "criminal (A COLORS SHOW)",
-        "url": "https://open.spotify.com/album/2vtHb0aPw6c6PXrGeaNazY"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/311s3ffZ2YnoB5jCcUOgiN"
     }
   ],
   "unique_name": "Ballads International",

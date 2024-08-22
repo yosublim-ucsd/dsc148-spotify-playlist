@@ -4,7 +4,7 @@
 
 > Pop hits to keep your workout fresh
 
-564 songs - 1 day 4 hr 38 min
+565 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2022-03-25 | 2022-04-20 |
 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 | 2021-12-17 | 2022-06-21 |
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-07-28 | 2024-02-18 |
+| [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/track/6mslYkzyL8uDfacJezJnof) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/album/3VvvahAqcsVGeKmdUATpnd) | 2:56 | 2024-08-09 |  |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2022-03-25 |  |
 | [Burning Tears](https://open.spotify.com/track/10L1ImI2lTA8TCEI60S3sT) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Burning Tears](https://open.spotify.com/album/5VILo7qWc8YFGj1Ypr1TTY) | 3:22 | 2022-03-25 | 2022-04-20 |
 | [But I Don'T](https://open.spotify.com/track/0mhS4w3sej2kpvDuAhiZeq) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [How Are You?](https://open.spotify.com/album/1Bn9N9uVpL48gFXmwpgSsS) | 2:17 | 2022-03-25 | 2022-04-12 |
@@ -251,7 +252,7 @@
 | [Just A Mess](https://open.spotify.com/track/24RCh9nhADnz72QwspioB6) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:51 | 2021-12-17 | 2022-06-21 |
 | [Just Friends](https://open.spotify.com/track/02Ygu8lo3qSknRpcBnspso) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [Just Friends](https://open.spotify.com/album/0viriXpPADYCcQmmI6RkSe) | 2:48 | 2022-03-25 | 2022-04-11 |
 | [Just Got Paid](https://open.spotify.com/track/0v3BMLcwUmAwyqJaf5997o) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Just Got Paid](https://open.spotify.com/album/09uJvEy1F5GwvazqSQcYyB) | 3:38 | 2022-03-25 | 2022-04-17 |
-| [Karma](https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:24 | 2023-04-20 |  |
+| [Karma](https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:24 | 2023-04-20 | 2024-08-22 |
 | [Kings & Queens](https://open.spotify.com/track/1InCpEliLCkWHOBdXW7XSx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/6B1U2tJse7tS9Yi4VJjZAA) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-28 | 2024-04-19 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-12-24 |  |

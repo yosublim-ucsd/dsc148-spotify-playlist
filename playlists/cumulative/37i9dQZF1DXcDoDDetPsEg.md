@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Kenny Allstar
 
-1,238 songs - 2 day 14 hr 51 min
+1,239 songs - 2 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1218,6 +1218,7 @@
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-04-01 | 2022-05-28 |
 | [Will You Ever?](https://open.spotify.com/track/6vcAHwVgJ3oNE85Grs1QIN) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Will You Ever?](https://open.spotify.com/album/1WLbU1C1011DRYoDhsJw9h) | 3:13 | 2024-04-19 | 2024-05-11 |
 | [Winning Team](https://open.spotify.com/track/3SHvKUgmbz7jwf8laSwnrb) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR) | [Winning Team](https://open.spotify.com/album/46hrvcLMVmBd5hoVMciuZQ) | 3:10 | 2023-02-03 | 2023-03-03 |
+| [Wishin](https://open.spotify.com/track/3Wr0ZFXDzV6JDkbCf5XJck) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [The Rain](https://open.spotify.com/album/2cGmrZ4vAzf8y0rphZPzqi) | 2:49 | 2024-08-21 |  |
 | [With Me Or Not?](https://open.spotify.com/track/5aG65oocwEoMRK01TyjVrS) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [With Me Or Not?](https://open.spotify.com/album/6arLuDdVw1BUjbBr98BSva) | 2:33 | 2022-12-09 | 2023-01-27 |
 | [WOAH](https://open.spotify.com/track/0DsVNV75FloiUdbebs0mSo) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [WOAH](https://open.spotify.com/album/4yBpDldVwK7pQO6Rav2NY8) | 1:21 | 2024-07-12 |  |
 | [WokStar \(feat\. Strick & Skepta\)](https://open.spotify.com/track/3qszL96xkQJVNyHb7px8li) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:01 | 2022-02-25 | 2022-03-18 |

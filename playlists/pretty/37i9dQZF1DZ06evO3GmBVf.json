@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 179043,
+  "num_followers": 179174,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADaPJN0Ve7Q5i/ZYkt+Aqgi",
+  "snapshot_id": "ZsPcgAAAAAAM6InFXMHafdmZIL3OGyz1",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Sali\u00f3 Caro",
-        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 177312,
-      "name": "Me Sali\u00f3 Caro",
-      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flaco Pesado",
         "url": "https://open.spotify.com/album/4JvYZecbx8yziQUw4zEyHg"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 157074,
       "name": "Flaco Pesado",
       "url": "https://open.spotify.com/track/7GWFTZmolwaKFn3oNcUs9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Sali\u00f3 Caro",
+        "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 177312,
+      "name": "Me Sali\u00f3 Caro",
+      "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Me Pregunten",
+        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "No Me Pregunten",
+      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno Pa Lo Malo",
         "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Me Pregunten",
-        "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 250285,
-      "name": "No Me Pregunten",
-      "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Soy Mercenario",
-      "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voy Por El Oro",
         "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 310750,
       "name": "Voy Por El Oro",
       "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Soy Mercenario",
+      "url": "https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Belinda en portada.",
-  "num_followers": 108171,
+  "num_followers": 108215,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-08-16 14:34:01",
       "album": {
-        "name": "La Chamba",
-        "url": "https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        }
-      ],
-      "duration_ms": 163335,
-      "name": "La Chamba",
-      "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
-    },
-    {
-      "added_at": "2024-08-16 14:34:01",
-      "album": {
         "name": "Se Dice Facil",
         "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 155300,
       "name": "Se Dice Facil",
       "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
+    },
+    {
+      "added_at": "2024-08-16 14:34:01",
+      "album": {
+        "name": "La Chamba",
+        "url": "https://open.spotify.com/album/1eKSr02jXW0YrIAPDQRFer"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 163335,
+      "name": "La Chamba",
+      "url": "https://open.spotify.com/track/50PPvQOz0WqwMDEx2mMA0Z"
     },
     {
       "added_at": "2024-08-16 14:34:01",

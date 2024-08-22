@@ -2133,6 +2133,28 @@
     },
     {
       "album": {
+        "name": "Candela",
+        "url": "https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j"
+      },
+      "artists": [
+        {
+          "name": "Doom Deca",
+          "url": "https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/6QgZMzRigLCwQZfEBgRDoU"
+    },
+    {
+      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },

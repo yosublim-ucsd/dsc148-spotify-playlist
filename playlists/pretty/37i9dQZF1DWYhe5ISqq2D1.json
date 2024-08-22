@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: eill",
-  "num_followers": 55351,
+  "num_followers": 55375,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
-        "name": "\u51e1\u624d",
-        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
         }
       ],
-      "duration_ms": 168120,
-      "name": "Rainy Driver",
-      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
     },
     {
       "added_at": "2024-08-20 15:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+        "name": "\u51e1\u624d",
+        "url": "https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+      "duration_ms": 168120,
+      "name": "Rainy Driver",
+      "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
     },
     {
       "added_at": "2024-08-20 15:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
+        "name": "\u5f3e\u304d\u3053\u3082\u308a",
+        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "\u5f3e\u304d\u3053\u3082\u308a",
+      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
+    },
+    {
+      "added_at": "2024-08-20 15:00:00",
+      "album": {
         "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
         "url": "https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 227792,
       "name": "\u9752\u6625\u8b33\u6b4c (feat.ano)",
       "url": "https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc"
-    },
-    {
-      "added_at": "2024-08-20 15:00:00",
-      "album": {
-        "name": "\u5f3e\u304d\u3053\u3082\u308a",
-        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "\u5f3e\u304d\u3053\u3082\u308a",
-      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "added_at": "2024-08-20 15:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
+        "name": "Swamp",
+        "url": "https://open.spotify.com/album/1a5lsd68rw7esELngC2OUm"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Swamp",
+      "url": "https://open.spotify.com/track/2uWlL56OdmgMy9eCMTUZmN"
+    },
+    {
+      "added_at": "2024-08-20 15:00:00",
+      "album": {
         "name": "SF\u6771\u4eac",
         "url": "https://open.spotify.com/album/3tFtbRkAUERFNH9qlM5CZT"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 194586,
       "name": "SF\u6771\u4eac",
       "url": "https://open.spotify.com/track/4PfVeeAi7n8eOt8CbW8tfy"
-    },
-    {
-      "added_at": "2024-08-20 15:00:00",
-      "album": {
-        "name": "Simple And Clean (Re-Recording)",
-        "url": "https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 275829,
-      "name": "Simple And Clean (Re-Recording)",
-      "url": "https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha"
     },
     {
       "added_at": "2024-08-20 15:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
+        "name": "Simple And Clean (Re-Recording)",
+        "url": "https://open.spotify.com/album/5ldAOZT0g81QqnZZnK135e"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 275829,
+      "name": "Simple And Clean (Re-Recording)",
+      "url": "https://open.spotify.com/track/5obU0c9t9qIfz9HYbcvsha"
+    },
+    {
+      "added_at": "2024-08-20 15:00:00",
+      "album": {
         "name": "3%",
         "url": "https://open.spotify.com/album/2dcRHwyt9gJhBTXti5IXuE"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 167398,
       "name": "3%",
       "url": "https://open.spotify.com/track/3qF6OHdGcCnjy5yI9VuVb3"
-    },
-    {
-      "added_at": "2024-08-20 15:00:00",
-      "album": {
-        "name": "Swamp",
-        "url": "https://open.spotify.com/album/1a5lsd68rw7esELngC2OUm"
-      },
-      "artists": [
-        {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Swamp",
-      "url": "https://open.spotify.com/track/2uWlL56OdmgMy9eCMTUZmN"
     },
     {
       "added_at": "2024-08-20 15:00:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-08-20 15:00:00",
       "album": {
-        "name": "Walk Together",
-        "url": "https://open.spotify.com/album/6jBuZ5VX6xrI9yRwbgW0GX"
+        "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+        "url": "https://open.spotify.com/album/2cF3FboitdxvaADTCzWWmQ"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "\u3082\u3055\u3092\u3002",
+          "url": "https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh"
         }
       ],
-      "duration_ms": 199979,
-      "name": "Walk Together",
-      "url": "https://open.spotify.com/track/1r7W0nmv7YsM67QI3RHEvC"
+      "duration_ms": 187721,
+      "name": "\u30ad\u30f3\u30e2\u30af\u30bb\u30a4",
+      "url": "https://open.spotify.com/track/4Dc7HhgTf3lvnOEk8kaSCU"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

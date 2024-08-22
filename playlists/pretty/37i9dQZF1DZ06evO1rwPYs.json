@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 102785,
+  "num_followers": 102792,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAABkoYYB1mE3Sl4beBGX7bzT",
+  "snapshot_id": "ZsPcgAAAAADgckJWm57EKFwDsSi9qMZw",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regalo Del Alma",
-        "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "Yo Vivir\u00e9 - I Will Survive",
-      "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canta Celia Cruz",
         "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 160866,
       "name": "Burundanga",
       "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regalo Del Alma",
+        "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Yo Vivir\u00e9 - I Will Survive",
+      "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fania Records: The 60's, Vol. Three",
-        "url": "https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 272251,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremendo Trio",
         "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 347893,
       "name": "Nadie Se Salva De La Rumba",
       "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fania Records: The 60's, Vol. Three",
+        "url": "https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serenata Guajira",
-        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 179086,
-      "name": "Cuando Sal\u00ed De Cuba",
-      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Premiadas De Celia Cruz",
         "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 175600,
       "name": "Melao De Ca\u00f1a",
       "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 179086,
+      "name": "Cuando Sal\u00ed De Cuba",
+      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
     },
     {
       "added_at": null,

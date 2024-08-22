@@ -2,7 +2,7 @@
 
 ### [This Is Marco Polo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28CRGk)
 
-> This is Marco Polo\. The essential tracks, all in one playlist.
+> This is Marco Polo\. Todos os maiores hits em uma só playlist.
 
 90 songs - 4 hr 53 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This is Marco Polo. The essential tracks, all in one playlist.",
+  "description": "This is Marco Polo. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 424,
   "original_name": "This Is Marco Polo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADeeHyJzcl8k2IEW83bLUsh",
+  "snapshot_id": "ZsPcgAAAAAC0CTZywLLizZNQ9F2+TGqp",
   "tracks": [
     {
       "added_at": null,
@@ -152,13 +152,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Coast Contra",
-          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 228941,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/33hQPXHC4eZ3NbskPaMfXq"
+      "duration_ms": 168364,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
     },
     {
       "added_at": null,
@@ -260,13 +260,13 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
         }
       ],
-      "duration_ms": 168364,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2Ffk1ykh4yfruyAtmv3l12"
+      "duration_ms": 228941,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/33hQPXHC4eZ3NbskPaMfXq"
     },
     {
       "added_at": null,
@@ -399,54 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Masta Polo",
-      "url": "https://open.spotify.com/track/3QBjETcZARnmLngd0q2lun"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richmond Hill",
-        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 153650,
-      "name": "Plant Based",
-      "url": "https://open.spotify.com/track/63VYZWgfZKbVWOkGgBZQlX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Breukelen Story",
         "url": "https://open.spotify.com/album/1R3JKxtFrNZI31eNg0JYth"
       },
@@ -475,6 +427,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richmond Hill",
+        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 153650,
+      "name": "Plant Based",
+      "url": "https://open.spotify.com/track/63VYZWgfZKbVWOkGgBZQlX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awaken",
         "url": "https://open.spotify.com/album/4CTMQGaFA9t4nnsKKwU6d8"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 169505,
       "name": "Watch the Sky Fall (feat. Royce da 5'9)",
       "url": "https://open.spotify.com/track/1MOub6s2JiT3D5Gs51TeCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Masta Polo",
+      "url": "https://open.spotify.com/track/3QBjETcZARnmLngd0q2lun"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 182833,
-      "name": "Days Of Your Lifetime",
-      "url": "https://open.spotify.com/track/0S7aEe4H8ppreRlcZ5DSbX"
+      "duration_ms": 129340,
+      "name": "More Danger",
+      "url": "https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b"
     },
     {
       "added_at": null,
@@ -758,11 +758,15 @@
         {
           "name": "Masta Ace & Marco Polo",
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Elzhi",
+          "url": "https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT"
         }
       ],
-      "duration_ms": 190160,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
+      "duration_ms": 203716,
+      "name": "Corporal Punishment",
+      "url": "https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl"
     },
     {
       "added_at": null,
@@ -804,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 129340,
-      "name": "More Danger",
-      "url": "https://open.spotify.com/track/5UUbhrtXsYKo2KeFPj7K4b"
+      "duration_ms": 182833,
+      "name": "Days Of Your Lifetime",
+      "url": "https://open.spotify.com/track/0S7aEe4H8ppreRlcZ5DSbX"
     },
     {
       "added_at": null,
@@ -854,39 +858,11 @@
         {
           "name": "Masta Ace & Marco Polo",
           "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Elzhi",
-          "url": "https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT"
         }
       ],
-      "duration_ms": 203716,
-      "name": "Corporal Punishment",
-      "url": "https://open.spotify.com/track/2PHFvMWtHTnoXITzj1fOgl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Reggie B.",
-          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
-        }
-      ],
-      "duration_ms": 238252,
-      "name": "Cur$ed (What's Wrong Remix)",
-      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
+      "duration_ms": 190160,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0hHZgJRrnN2ysNf4LqN8G3"
     },
     {
       "added_at": null,
@@ -911,6 +887,30 @@
       "duration_ms": 248377,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/0BJ4Dc2FIEuY3O2KGqx6Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Reggie B.",
+          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "Cur$ed (What's Wrong Remix)",
+      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
     },
     {
       "added_at": null,

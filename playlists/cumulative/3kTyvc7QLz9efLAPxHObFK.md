@@ -4,7 +4,7 @@
 
 > 
 
-1,621 songs - 3 day 15 hr 33 min
+1,622 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Fly High](https://open.spotify.com/track/1jI80HgRDm2WHv2w1qgtp3) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh), [Lara Tiozzo](https://open.spotify.com/artist/6cE2oZXrGLTmcEb7SoQIKy) | [Fly High](https://open.spotify.com/album/6H38Xs1o84XDESdJZofQgs) | 2:33 | 2024-04-01 |  |
 | [Fly Over](https://open.spotify.com/track/4vzG3l1sGvkKxnxo6zUE1p) | [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Fly Over](https://open.spotify.com/album/6e3FigC631eG2ExOPg1FtO) | 4:16 | 2022-10-05 |  |
 | [FLYIN' HIGH](https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [FLYIN' HIGH](https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7) | 3:50 | 2023-03-25 |  |
+| [Focus](https://open.spotify.com/track/4gExkZstTfHwRLB6d2N6X3) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM), [Lab\-E](https://open.spotify.com/artist/5hhDT5q12LzIStkc4O4MOZ) | [Focus](https://open.spotify.com/album/1xMCK75kuZsle4fYfLFMq1) | 3:08 | 2024-08-21 |  |
 | [Fool's Game](https://open.spotify.com/track/2UAz2jtg6cOiC3TDX9uGD4) | [DMRC](https://open.spotify.com/artist/4KU7E8U1N4jXyhNhhjLNoO), [BreakStyle](https://open.spotify.com/artist/1FtR1QSTaxYFJdsiHDc4ZF) | [Fool's Game](https://open.spotify.com/album/6hdbgovP1usLosVMDUODlZ) | 3:09 | 2024-05-17 |  |
 | [For The Hype \- Spectre Remix](https://open.spotify.com/track/3Qyh6SVOfgRrKvaom2BwWe) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [Spectre](https://open.spotify.com/artist/4Xrfj658V9oL5xwi7oM70C) | [For The Hype \(Spectre Remix\)](https://open.spotify.com/album/1XsQ4SyBmPNELaQxJBXmyd) | 3:28 | 2023-04-21 |  |
 | [For The Weak](https://open.spotify.com/track/4JRcvV0QmTx3aN6e7nAteP) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [For The Weak](https://open.spotify.com/album/3TPGiZltbGCSEAXVt6JZr9) | 2:10 | 2024-04-26 |  |

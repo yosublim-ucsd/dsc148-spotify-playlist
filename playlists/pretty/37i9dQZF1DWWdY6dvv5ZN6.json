@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4492,
+  "num_followers": 4497,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -443,22 +447,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
       },
       "artists": [
         {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 370666,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "retrouver l'aube - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0JUqosvegD6erfFCWmxE1B"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9esau",
-          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
-        }
-      ],
-      "duration_ms": 326468,
-      "name": "retrouver l'aube - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0dg4TxuDa9kggTTl17imVV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Laid Black",
         "url": "https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "retrouver l'aube - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0JUqosvegD6erfFCWmxE1B"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9esau",
+          "url": "https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs"
+        }
+      ],
+      "duration_ms": 326468,
+      "name": "retrouver l'aube - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0dg4TxuDa9kggTTl17imVV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Atoll",
         "url": "https://open.spotify.com/album/6bKU3wLRzHglWkkywfE257"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 284773,
       "name": "Scuba",
       "url": "https://open.spotify.com/track/2Cd4myUzScBxXRBq3Q9M9r"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "when the poems do what they do",
-        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
-      },
-      "artists": [
-        {
-          "name": "aja monet",
-          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
-        }
-      ],
-      "duration_ms": 277283,
-      "name": "why my love?",
-      "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "I Killed Your Dog",
         "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Voice Notes",
-        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+        "name": "when the poems do what they do",
+        "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Fool's Gold",
-      "url": "https://open.spotify.com/track/0Ato3VxLgKDwSEDzC15iXg"
+      "duration_ms": 277283,
+      "name": "why my love?",
+      "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1463,6 +1447,22 @@
       "duration_ms": 272093,
       "name": "october",
       "url": "https://open.spotify.com/track/2YzKFDX9wtE3ijKzk01jjF"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Voice Notes",
+        "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/0Ato3VxLgKDwSEDzC15iXg"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Find Me A Cloud",
-        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 146812,
-      "name": "I'm Not Sure",
-      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4lfxrZaJHbw7kbE6yZ2arb"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 241938,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/2aITW5JwQ2HxfUmx4RVT6S"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Find Me A Cloud",
+        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 146812,
+      "name": "I'm Not Sure",
+      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "The Neighborhood",
-      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Magic of Now",
         "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 354106,
       "name": "Libra",
       "url": "https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "The Neighborhood",
+      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Confusions",
-        "url": "https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS"
-      },
-      "artists": [
-        {
-          "name": "L'\u00e9clair",
-          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
-        }
-      ],
-      "duration_ms": 272453,
-      "name": "P+R",
-      "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Diagnosis",
         "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 171800,
       "name": "If the Answer Isn't Love",
       "url": "https://open.spotify.com/track/4yJ1Q6up6HjWxT42p7w6fv"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Confusions",
+        "url": "https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS"
+      },
+      "artists": [
+        {
+          "name": "L'\u00e9clair",
+          "url": "https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX"
+        }
+      ],
+      "duration_ms": 272453,
+      "name": "P+R",
+      "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Hagata",
-        "url": "https://open.spotify.com/album/7rFuvWny73XPHtJ5qaglW8"
-      },
-      "artists": [
-        {
-          "name": "TEKE::TEKE",
-          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "Gotoku Lemon",
-      "url": "https://open.spotify.com/track/0zPOoBRC5tnMSUIajc0z54"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Hermetism (Commentary Version)",
         "url": "https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 354709,
       "name": "Paris s'enflamme",
       "url": "https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Hagata",
+        "url": "https://open.spotify.com/album/7rFuvWny73XPHtJ5qaglW8"
+      },
+      "artists": [
+        {
+          "name": "TEKE::TEKE",
+          "url": "https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu"
+        }
+      ],
+      "duration_ms": 228813,
+      "name": "Gotoku Lemon",
+      "url": "https://open.spotify.com/track/0zPOoBRC5tnMSUIajc0z54"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Plot Armor",
         "url": "https://open.spotify.com/album/7Cs5RVkL2D9j9pQfVgBRxq"
       },
@@ -2363,6 +2347,38 @@
       "duration_ms": 290725,
       "name": "Bucket of F's",
       "url": "https://open.spotify.com/track/0EE8m2mrTZpM2WbieU2QTp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Because You Loved Me",
+        "url": "https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS"
+      },
+      "artists": [
+        {
+          "name": "Ranee Lee",
+          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2411,22 +2427,6 @@
       "duration_ms": 265239,
       "name": "Sunday In The Park",
       "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Because You Loved Me",
-        "url": "https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS"
-      },
-      "artists": [
-        {
-          "name": "Ranee Lee",
-          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
-        }
-      ],
-      "duration_ms": 311423,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2531,26 +2531,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Don't Bring Me Down",
-        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
-      },
-      "artists": [
-        {
-          "name": "The Heavyweights Brass Band",
-          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
-        },
-        {
-          "name": "Ogguere",
-          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Nueva Orleans",
-      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Creatures of the Late Afternoon",
         "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
       },
@@ -2583,6 +2563,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Don't Bring Me Down",
+        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
+      },
+      "artists": [
+        {
+          "name": "The Heavyweights Brass Band",
+          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
+        },
+        {
+          "name": "Ogguere",
+          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Nueva Orleans",
+      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Prevent the Future",
         "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
       },
@@ -2595,6 +2595,22 @@
       "duration_ms": 266900,
       "name": "Austerity",
       "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 105893,
+      "name": "III {dolce}",
+      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2635,22 +2651,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 105893,
-      "name": "III {dolce}",
-      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Head Of A Mouse",
         "url": "https://open.spotify.com/album/6C8JSqXb9Xih3t1BIrd7pq"
       },
@@ -2683,26 +2683,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Ukubonga Gratitude",
-        "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
-      },
-      "artists": [
-        {
-          "name": "Lorraine Klaasen",
-          "url": "https://open.spotify.com/artist/19FewxNz8UZtyQTYxVqDCC"
-        },
-        {
-          "name": "Mongezi Ntaka",
-          "url": "https://open.spotify.com/artist/0nvtCXgZCvP1utelhFqsfg"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Ilanga Selishonile",
-      "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Refract",
         "url": "https://open.spotify.com/album/5AI0KCzgLqhLxjRSF3ZhJW"
       },
@@ -2727,6 +2707,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Ukubonga Gratitude",
+        "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Klaasen",
+          "url": "https://open.spotify.com/artist/19FewxNz8UZtyQTYxVqDCC"
+        },
+        {
+          "name": "Mongezi Ntaka",
+          "url": "https://open.spotify.com/artist/0nvtCXgZCvP1utelhFqsfg"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Ilanga Selishonile",
+      "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "When Is Ancient?",
         "url": "https://open.spotify.com/album/0x9bYUWfnORI1D42LdND94"
       },
@@ -2747,22 +2747,6 @@
       "duration_ms": 270947,
       "name": "Jabok",
       "url": "https://open.spotify.com/track/6ZdHbJPW3volr6T5vU7pWk"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Rez-de-chauss\u00e9e",
-        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
-      },
-      "artists": [
-        {
-          "name": "Greenhouse Ensemble",
-          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
-        }
-      ],
-      "duration_ms": 340002,
-      "name": "Beyond Me",
-      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2795,6 +2779,22 @@
       "duration_ms": 227259,
       "name": "I Wanted My Heart to Break",
       "url": "https://open.spotify.com/track/3zWkdn9rWzBd0NrEq5iRyX"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Rez-de-chauss\u00e9e",
+        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
+      },
+      "artists": [
+        {
+          "name": "Greenhouse Ensemble",
+          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
+        }
+      ],
+      "duration_ms": 340002,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2867,6 +2867,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Girl In The Yard",
+        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
+      },
+      "artists": [
+        {
+          "name": "Joy Lapps",
+          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
+        }
+      ],
+      "duration_ms": 415666,
+      "name": "Lulu's Dream",
+      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "MDR",
         "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
       },
@@ -2895,22 +2911,6 @@
       "duration_ms": 468906,
       "name": "School Days",
       "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Girl In The Yard",
-        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
-      },
-      "artists": [
-        {
-          "name": "Joy Lapps",
-          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Lulu's Dream",
-      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3095,22 +3095,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Root in Tandem",
-        "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
-      },
-      "artists": [
-        {
-          "name": "Bellbird",
-          "url": "https://open.spotify.com/artist/7MXXyLxq86ir7maDGzN63h"
-        }
-      ],
-      "duration_ms": 275521,
-      "name": "Blurred Season",
-      "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Happy Man",
         "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
       },
@@ -3123,6 +3107,22 @@
       "duration_ms": 233893,
       "name": "Tired of Crying",
       "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Root in Tandem",
+        "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
+      },
+      "artists": [
+        {
+          "name": "Bellbird",
+          "url": "https://open.spotify.com/artist/7MXXyLxq86ir7maDGzN63h"
+        }
+      ],
+      "duration_ms": 275521,
+      "name": "Blurred Season",
+      "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3143,6 +3143,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "FO(U)RTH",
+        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Fung",
+          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+        }
+      ],
+      "duration_ms": 285171,
+      "name": "The Valley",
+      "url": "https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Steppin' Out!",
         "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
       },
@@ -3159,18 +3175,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "FO(U)RTH",
-        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
       "artists": [
         {
-          "name": "Anthony Fung",
-          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
         }
       ],
-      "duration_ms": 285171,
-      "name": "The Valley",
-      "url": "https://open.spotify.com/track/4zY786ytjaoeTb2VGI1Jxs"
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3203,30 +3227,6 @@
       "duration_ms": 251315,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
-      },
-      "artists": [
-        {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
-        }
-      ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
     },
     {
       "added_at": "2024-06-28 14:45:02",

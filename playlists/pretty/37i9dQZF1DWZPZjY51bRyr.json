@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 35507,
+  "num_followers": 35565,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Clear Mind - 432 Hz",
-        "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
-      },
-      "artists": [
-        {
-          "name": "Liilia Janes",
-          "url": "https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Clear Mind - 432 Hz",
-      "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Voices of Ether",
         "url": "https://open.spotify.com/album/1c39z8X6g0z3dZmaf1AZKE"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 147801,
       "name": "Voices of Ether",
       "url": "https://open.spotify.com/track/33w3Oi4WMbz8f03kOIfLbJ"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Clear Mind - 432 Hz",
+        "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
+      },
+      "artists": [
+        {
+          "name": "Liilia Janes",
+          "url": "https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Clear Mind - 432 Hz",
+      "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Equilibrio 432Hz",
+        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
+      },
+      "artists": [
+        {
+          "name": "Invocaciones",
+          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
+        }
+      ],
+      "duration_ms": 150870,
+      "name": "Equilibrio 432Hz",
+      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Relieving",
         "url": "https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 216063,
       "name": "The Heritage",
       "url": "https://open.spotify.com/track/66AA3dPMsQt3C0h9zUGejQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Equilibrio 432Hz",
-        "url": "https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF"
-      },
-      "artists": [
-        {
-          "name": "Invocaciones",
-          "url": "https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ"
-        }
-      ],
-      "duration_ms": 150870,
-      "name": "Equilibrio 432Hz",
-      "url": "https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Nereal Beauty",
-        "url": "https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi"
-      },
-      "artists": [
-        {
-          "name": "Lola Fiennes",
-          "url": "https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "Nereal Beauty",
-      "url": "https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Intrinsic Silence",
         "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 164017,
       "name": "Intrinsic Silence",
       "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Nereal Beauty",
+        "url": "https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi"
+      },
+      "artists": [
+        {
+          "name": "Lola Fiennes",
+          "url": "https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "Nereal Beauty",
+      "url": "https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Cestrum Nocturnum",
-        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 195171,
-      "name": "Cestrum Nocturnum",
-      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dreams of Calmness",
         "url": "https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 154000,
       "name": "Dreams of Calmness",
       "url": "https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Cestrum Nocturnum",
+        "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 195171,
+      "name": "Cestrum Nocturnum",
+      "url": "https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "En Paz 432Hz",
-        "url": "https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm"
-      },
-      "artists": [
-        {
-          "name": "On Dunes",
-          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "En Paz 432Hz",
-      "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "432 Hz Lotus",
         "url": "https://open.spotify.com/album/4y7l5zPX113XxJE8g1XCeI"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 178800,
       "name": "432 Hz Lotus",
       "url": "https://open.spotify.com/track/2sdrlf1AV9jJqORYxGlIan"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "En Paz 432Hz",
+        "url": "https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm"
+      },
+      "artists": [
+        {
+          "name": "On Dunes",
+          "url": "https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "En Paz 432Hz",
+      "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Layers Of Trust",
-        "url": "https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ"
-      },
-      "artists": [
-        {
-          "name": "Samuel Boman",
-          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Layers Of Trust",
-      "url": "https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Dreamlike",
         "url": "https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 195643,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Layers Of Trust",
+        "url": "https://open.spotify.com/album/29HpYuNVE30Cl1pROFW1mQ"
+      },
+      "artists": [
+        {
+          "name": "Samuel Boman",
+          "url": "https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Layers Of Trust",
+      "url": "https://open.spotify.com/track/48ZNikpEFlxa1JfJLsLJjM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Birth",
-        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
-      },
-      "artists": [
-        {
-          "name": "Nomadias",
-          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
-        }
-      ],
-      "duration_ms": 175802,
-      "name": "Birth",
-      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Devotions",
         "url": "https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Silver Glass",
-        "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
+        "name": "Birth",
+        "url": "https://open.spotify.com/album/0meksSt44x06sKfkGrD5gM"
       },
       "artists": [
         {
-          "name": "Airin",
-          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
+          "name": "Nomadias",
+          "url": "https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0"
         }
       ],
-      "duration_ms": 203442,
-      "name": "Silver Glass",
-      "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
+      "duration_ms": 175802,
+      "name": "Birth",
+      "url": "https://open.spotify.com/track/1mbeabRJK04uviQB19rRxy"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1495,6 +1479,22 @@
       "duration_ms": 225517,
       "name": "Tonal Calmness",
       "url": "https://open.spotify.com/track/3PDE4uafLyorNaIWTos0MA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Silver Glass",
+        "url": "https://open.spotify.com/album/3SDKwHZQNkNkDNzPW6EQLU"
+      },
+      "artists": [
+        {
+          "name": "Airin",
+          "url": "https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ"
+        }
+      ],
+      "duration_ms": 203442,
+      "name": "Silver Glass",
+      "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Breeze out",
-        "url": "https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0"
-      },
-      "artists": [
-        {
-          "name": "Franz Emerald",
-          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Breeze out",
-      "url": "https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "L\u00b4unico Mondo",
         "url": "https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 157874,
       "name": "L\u00b4unico Mondo",
       "url": "https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Breeze out",
+        "url": "https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0"
+      },
+      "artists": [
+        {
+          "name": "Franz Emerald",
+          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Breeze out",
+      "url": "https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "A Time To Pause",
-        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
-      },
-      "artists": [
-        {
-          "name": "Sierra Rubio",
-          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "A Time To Pause",
-      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Pyaar",
         "url": "https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 139805,
       "name": "Pyaar",
       "url": "https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "A Time To Pause",
+        "url": "https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE"
+      },
+      "artists": [
+        {
+          "name": "Sierra Rubio",
+          "url": "https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "A Time To Pause",
+      "url": "https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "The Banks Of Juru",
-        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
-      },
-      "artists": [
-        {
-          "name": "Yolof Palace",
-          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
-        }
-      ],
-      "duration_ms": 164395,
-      "name": "Let Them Come",
-      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "432 Hz - Din Aur Raat",
         "url": "https://open.spotify.com/album/0bFlvpmQGGiH43x1n29ptn"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "432 Hz Serenity Embrace",
-        "url": "https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh"
+        "name": "The Banks Of Juru",
+        "url": "https://open.spotify.com/album/4SYWzSSCnZZ4TgNVRuEgUK"
       },
       "artists": [
         {
-          "name": "Juni Willow",
-          "url": "https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8"
+          "name": "Yolof Palace",
+          "url": "https://open.spotify.com/artist/5FKwBSGrKHDCJuhHbl1pnj"
         }
       ],
-      "duration_ms": 161647,
-      "name": "432 Hz Serenity Embrace",
-      "url": "https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj"
+      "duration_ms": 164395,
+      "name": "Let Them Come",
+      "url": "https://open.spotify.com/track/5GiNk6xpSRuORQy3Onvmii"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "432 Hz Serenity Embrace",
+        "url": "https://open.spotify.com/album/66mC8CxQZFCfinlZw5QyTh"
+      },
+      "artists": [
+        {
+          "name": "Juni Willow",
+          "url": "https://open.spotify.com/artist/5fyPGApAeuzdkwvW02LjT8"
+        }
+      ],
+      "duration_ms": 161647,
+      "name": "432 Hz Serenity Embrace",
+      "url": "https://open.spotify.com/track/2H1JcyE318d91zg3DXI6Zj"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Finding Enoughness",
         "url": "https://open.spotify.com/album/7akNfkNma1LN0Id4yDfBgl"
       },
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Vinyasa",
-        "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
-      },
-      "artists": [
-        {
-          "name": "Krishna's Flute",
-          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Vinyasa",
-      "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Rishis",
         "url": "https://open.spotify.com/album/4wsw80EuYCSMlsPy4xT2L2"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 203310,
       "name": "Rishis",
       "url": "https://open.spotify.com/track/7G2xLyRHac8eH0qhMPDnl0"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Vinyasa",
+        "url": "https://open.spotify.com/album/0LrU2qxwUpZ9KuKJVL0UA1"
+      },
+      "artists": [
+        {
+          "name": "Krishna's Flute",
+          "url": "https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Vinyasa",
+      "url": "https://open.spotify.com/track/5ZUdgJ8uUo7LMoMNezC999"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Star Above Parvati",
-        "url": "https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k"
+        "name": "Ancient Prayer",
+        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
       },
       "artists": [
         {
-          "name": "Peyote Level",
-          "url": "https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd"
+          "name": "Aura Lynx",
+          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Star Above Parvati",
-      "url": "https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg"
+      "duration_ms": 176796,
+      "name": "Ancient Prayer",
+      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Star Above Parvati",
+        "url": "https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k"
+      },
+      "artists": [
+        {
+          "name": "Peyote Level",
+          "url": "https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Star Above Parvati",
+      "url": "https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Starting Fresh",
         "url": "https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 172000,
       "name": "Starting Fresh",
       "url": "https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Ancient Prayer",
-        "url": "https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA"
-      },
-      "artists": [
-        {
-          "name": "Aura Lynx",
-          "url": "https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ancient Prayer",
-      "url": "https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Healing Clarity EMDR",
-        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
-      },
-      "artists": [
-        {
-          "name": "Astron",
-          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Breakthrough (EMDR)",
-      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Search For The Light",
         "url": "https://open.spotify.com/album/1kEaxsfCNg0V0FQRBRQQt7"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 183414,
       "name": "Search For The Light",
       "url": "https://open.spotify.com/track/1Lj1XtFYEzTb7IHBMarBbp"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Healing Clarity EMDR",
+        "url": "https://open.spotify.com/album/1EBY9nOYFoSKFbYpdyyhzo"
+      },
+      "artists": [
+        {
+          "name": "Astron",
+          "url": "https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Breakthrough (EMDR)",
+      "url": "https://open.spotify.com/track/2vG8CbryztUUT7jRLlcdQ2"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Earth",
-        "url": "https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "A\u00fan",
         "url": "https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq"
       },
@@ -2299,18 +2283,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Testanaadee",
-        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/6pnmHrY94xQ1kAM8r5iRlM"
       },
       "artists": [
         {
-          "name": "Shikha Chadha",
-          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
         }
       ],
-      "duration_ms": 184512,
-      "name": "Testanaadee",
-      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+      "duration_ms": 247000,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/5MiVwcz77IjPJ3v81lofEy"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2331,6 +2315,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Testanaadee",
+        "url": "https://open.spotify.com/album/2r1IdCCzou6ux9MdcOj20X"
+      },
+      "artists": [
+        {
+          "name": "Shikha Chadha",
+          "url": "https://open.spotify.com/artist/2vVK4gTQuqvtqWHX8GiIDc"
+        }
+      ],
+      "duration_ms": 184512,
+      "name": "Testanaadee",
+      "url": "https://open.spotify.com/track/0dKEL8IL3Wgz6vEIAL3P4J"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
+      },
+      "artists": [
+        {
+          "name": "Full Presence",
+          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
+        }
+      ],
+      "duration_ms": 134349,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
       },
@@ -2343,6 +2359,22 @@
       "duration_ms": 144705,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Comfortable Ease",
+        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
+      },
+      "artists": [
+        {
+          "name": "Leigh Erin",
+          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
+        }
+      ],
+      "duration_ms": 116363,
+      "name": "Comfortable Ease",
+      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2379,54 +2411,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Dream Spheres",
-        "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 265500,
-      "name": "Dream Spheres",
-      "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh"
-      },
-      "artists": [
-        {
-          "name": "Full Presence",
-          "url": "https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB"
-        }
-      ],
-      "duration_ms": 134349,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Comfortable Ease",
-        "url": "https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0"
-      },
-      "artists": [
-        {
-          "name": "Leigh Erin",
-          "url": "https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg"
-        }
-      ],
-      "duration_ms": 116363,
-      "name": "Comfortable Ease",
-      "url": "https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Sounds Of The Earth",
         "url": "https://open.spotify.com/album/6pqqZL1majgeW7H17H9Wlw"
       },
@@ -2443,6 +2427,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Dream Spheres",
+        "url": "https://open.spotify.com/album/5EH66ijsydfe1ZU9hy8OVD"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 265500,
+      "name": "Dream Spheres",
+      "url": "https://open.spotify.com/track/5R95nZ2827mXD9aEIVxoCP"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Landscapes",
         "url": "https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp"
       },
@@ -2455,6 +2455,22 @@
       "duration_ms": 177101,
       "name": "Lemon Balm",
       "url": "https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 160759,
+      "name": "Sakshi / Witness",
+      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Samadhi",
-        "url": "https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 160759,
-      "name": "Sakshi / Witness",
-      "url": "https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Travel Through Time",
         "url": "https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS"
       },
@@ -2603,18 +2603,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Undertow",
-        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+        "name": "432 Hz Delta Earth",
+        "url": "https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas"
       },
       "artists": [
         {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+          "name": "Jupiter Sorrow",
+          "url": "https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
+      "duration_ms": 142422,
+      "name": "432 Hz Delta Earth",
+      "url": "https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2635,6 +2635,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Forgiving the Night",
+        "url": "https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Forgiving the Night",
+      "url": "https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Himalayan Breeze",
         "url": "https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh"
       },
@@ -2647,6 +2663,22 @@
       "duration_ms": 248607,
       "name": "Transcendent Whispers",
       "url": "https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2679,38 +2711,6 @@
       "duration_ms": 229411,
       "name": "Lake Reflections",
       "url": "https://open.spotify.com/track/58yN8JbGTeUc8QA72ZfZvT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Calm Cosmos",
-        "url": "https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE"
-      },
-      "artists": [
-        {
-          "name": "Franz Emerald",
-          "url": "https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Calm Cosmos",
-      "url": "https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Healing Solfeggio 528 Hz",
-        "url": "https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf"
-      },
-      "artists": [
-        {
-          "name": "Zoe Sutherland",
-          "url": "https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Healing Solfeggio 528 Hz",
-      "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
     },
     {
       "added_at": "2024-08-02 04:00:00",

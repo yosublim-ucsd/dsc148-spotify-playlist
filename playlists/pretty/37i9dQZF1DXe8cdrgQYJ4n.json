@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18198,
+  "num_followers": 18200,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-08-10 15:55:52",
       "album": {
-        "name": "Kitsch",
-        "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
+        "name": "W.A.Y",
+        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
+      "duration_ms": 177973,
+      "name": "WE ARE YOUNG",
+      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2024-08-10 15:55:52",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-08-10 15:55:52",
       "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
       },
       "artists": [
         {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
     },
     {
       "added_at": "2024-08-10 15:55:52",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-08-10 15:55:52",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2024-08-10 15:55:52",
-      "album": {
         "name": "Are you in there",
         "url": "https://open.spotify.com/album/3He9aN5L7rSUjACZlrGI4J"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 158213,
       "name": "Are you in there",
       "url": "https://open.spotify.com/track/4XuHctz1O5BCamhBb7IJfL"
+    },
+    {
+      "added_at": "2024-08-10 15:55:52",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2024-08-10 15:55:52",

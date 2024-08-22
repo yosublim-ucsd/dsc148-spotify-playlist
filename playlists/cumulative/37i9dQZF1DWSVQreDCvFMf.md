@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Zild
 
-131 songs - 8 hr 23 min
+132 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/track/0hPVLqHAf88ncx4qF5bo9S) | [Inigo Pascual](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK) | [Basta’t Alam Kong Tayo 1](https://open.spotify.com/album/0lKzEclvyFeq3tIvGK38Lz) | 3:30 | 2024-07-19 |  |
 | [Believing in Magic \- Yakap Mo](https://open.spotify.com/track/5eJxqoLNNLaw4ZFcswEjAR) | [Alexa Ilacad](https://open.spotify.com/artist/623Vaj6cZgsHTyni1r3FTd) | [Believing in Magic \(Yakap Mo\)](https://open.spotify.com/album/1Pz3Matosr3B72myICukGB) | 4:40 | 2024-07-02 | 2024-07-09 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-08 |  |
+| [Bittersweet](https://open.spotify.com/track/2shSyMcN6RhgJsPxhrWE0i) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV) | [Bittersweet](https://open.spotify.com/album/5Ybza4wV7jnIfWw3zNHjnI) | 2:57 | 2024-08-21 |  |
 | [Bulaklak Sa Buwan](https://open.spotify.com/track/2YepCVrNLhVPdCTM3sZIzv) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Bulaklak Sa Buwan](https://open.spotify.com/album/0NVm3LxQUZZwCb4vSSbef9) | 4:55 | 2024-08-16 |  |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-12 |  |
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-07-02 | 2024-07-19 |
@@ -123,7 +124,7 @@
 | [Sumugal](https://open.spotify.com/track/5fbSD2COzb6064kqXuxyls) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O) | [Sumugal](https://open.spotify.com/album/0aJdULDCIVnQ1yldINTiaI) | 3:39 | 2024-07-02 | 2024-08-17 |
 | [Sunny When I'm With You](https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [Purplecat](https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN) | [Sunny When I'm With You](https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E) | 3:00 | 2024-07-02 | 2024-07-09 |
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-07-02 | 2024-07-19 |
-| [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 |  |
+| [Tanga Mo Juan](https://open.spotify.com/track/13lwYFYmDDXeIBXW9IJaP9) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Tanga Mo Juan](https://open.spotify.com/album/1qS34W4EiMKNuZzIa85bn5) | 4:06 | 2024-07-02 | 2024-08-22 |
 | [Tear Gas \(2024\)](https://open.spotify.com/track/1B1AHUhJvqYygjw0VKyilj) | [Tanya Markova](https://open.spotify.com/artist/6ZwnyHAtqKLBYwRhZePddV) | [Tear Gas \(2024\)](https://open.spotify.com/album/5U6kxJVwI5xnyU4Bnoy3WU) | 3:42 | 2024-07-02 | 2024-07-09 |
 | [Teka Muna \(Sandali\)](https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC) | [Fly Mama!](https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK) | [Teka Muna \(Sandali\)](https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65) | 3:32 | 2024-07-17 |  |
 | [Things You Said \(feat\. Moira Dela Torre\)](https://open.spotify.com/track/4H2Ih1tUC2OjIQCHhOnKiB) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Things You Said](https://open.spotify.com/album/5hLHJZoOp7mW4sCTxrc8TI) | 3:54 | 2024-07-02 |  |

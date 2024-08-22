@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-798 songs - 1 day 21 hr 44 min
+799 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |
 | [Bad Habits](https://open.spotify.com/track/700H13fA0yvHTxLlaTFw0X) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Mike Robert](https://open.spotify.com/artist/32CfvJx4uPDyBZ8PFzEQe8) | [Bad Habits](https://open.spotify.com/album/5gglMONUNcpPxnr7S5jpUa) | 2:58 | 2022-11-24 | 2023-02-18 |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-18 | 2022-11-01 |
-| [Ballistic](https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Ballistic](https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW) | 3:15 | 2024-05-31 |  |
+| [Ballistic](https://open.spotify.com/track/4K35vDV1gIguKsU9E5Fj5x) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Ballistic](https://open.spotify.com/album/1W0kBLIEmlXcqkTXcFBgBW) | 3:15 | 2024-05-31 | 2024-08-22 |
 | [BANG YOUR HEAD](https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [BANG YOUR HEAD](https://open.spotify.com/album/3FkWFc1jekxt65VaXhsIRk) | 3:24 | 2023-06-07 | 2023-09-26 |
 | [Barcelona Nights](https://open.spotify.com/track/17vXZTcVsCJF1NBoaBQjm7) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Barcelona Nights](https://open.spotify.com/album/08tb3v7S80nm19wRGvhoDi) | 3:00 | 2022-06-17 | 2022-09-01 |
 | [Be Alright](https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Be Alright](https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM) | 2:58 | 2023-07-10 | 2023-12-14 |
@@ -331,6 +331,7 @@
 | [Horizon](https://open.spotify.com/track/6C2RhafaJZZ8kKN9ExyLlp) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V), [Katrine Stenbekk](https://open.spotify.com/artist/6Nxgeg0RW2lIaU35QlmJpo) | [Horizon](https://open.spotify.com/album/2ogg97CuneZYdfjrDLqx8S) | 4:15 | 2022-02-11 | 2022-04-22 |
 | [HOT SHOT](https://open.spotify.com/track/3W4Kg9woGNvTG0TpR9gJs2) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [HOT SHOT](https://open.spotify.com/album/3RK2td9YkPkFCiFvKHmXwQ) | 3:47 | 2024-05-17 | 2024-08-14 |
 | [Hypnosis](https://open.spotify.com/track/2Gcufl4PVGv384tmFpi6QS) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Hypnosis](https://open.spotify.com/album/0i4UodNeG7dNTr0QfjoDPE) | 3:18 | 2024-02-14 | 2024-05-07 |
+| [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 | 2024-08-21 |  |
 | [i can feel your eyes on me](https://open.spotify.com/track/3R1lKIXCkHnzKvHkBtdRhP) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:23 | 2022-12-03 | 2023-02-25 |
 | [I Don't Mind](https://open.spotify.com/track/1qZaxI41cw3Px4UpJlB5CU) | [Angara](https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3) | [I Don't Mind](https://open.spotify.com/album/4gMm64L99dgOqHqHiBxjyb) | 3:33 | 2024-06-04 |  |
 | [I Don't Really Care](https://open.spotify.com/track/5JplqjpRscO4GlnXGhSqNd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [I Don't Really Care](https://open.spotify.com/album/1xaNQmsdY7M9X4DhcLSyy2) | 2:54 | 2022-04-29 | 2022-07-12 |

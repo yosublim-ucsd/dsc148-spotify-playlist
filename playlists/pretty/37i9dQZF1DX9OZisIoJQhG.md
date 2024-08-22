@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,500 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,542 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 51 | [Salut d'amour, Op\. 12](https://open.spotify.com/track/4sD0zdU3FKABM6K3mUsYiT) | [Edward Elgar](https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX), [Mario Venzago](https://open.spotify.com/artist/39lQyvfR8sc6VYCeXMkFsQ) | [Klassieke Muziek voor Zondagochtend](https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn) | 3:02 |
 | 52 | [Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [J.S\. Bach: Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk) | 3:05 |
 | 53 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
-| 54 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
+| 54 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \- Pt\. 2](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 55 | [Violin Concerto in D Major: II\. Adagio](https://open.spotify.com/track/40EnGSgqCBuIe3zoHBUWMr) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Zefira Valova](https://open.spotify.com/artist/56hpaB3bb4ydN9TTTlcWX4), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Saint\-Georges: Violin Concerto in D Major](https://open.spotify.com/album/5Ec2ImbUEUaBlqxIKGD8vN) | 4:28 |
 
 Snapshot ID: `Zk6/QAAAAACcphXsESVByOEV9x+dSxFU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,522 likes - 308 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,521 likes - 308 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 179 | [Find A Place \(ft\. MNEK\)](https://open.spotify.com/track/04dqOCvtYqZiCyroSmC8AG) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:43 |
 | 180 | [Calling](https://open.spotify.com/track/7IxrpgNvMEtRt5SO4UA4Bv) | [Chaya](https://open.spotify.com/artist/5t7FfMHr6IwUH5k2sLZ4n1) | [Calling](https://open.spotify.com/album/5v9JGhI8lAV05lTYjPQUaZ) | 3:40 |
 | 181 | [100 Times](https://open.spotify.com/track/0OfGWNcBYJ0mVwIEKB5ZTf) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:06 |
-| 182 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 |
-| 183 | [Definition](https://open.spotify.com/track/31vrYgT1bq756Yu3Hlzedj) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:12 |
+| 182 | [Definition](https://open.spotify.com/track/31vrYgT1bq756Yu3Hlzedj) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:12 |
+| 183 | [Ultimatum](https://open.spotify.com/track/2DAwdGk9fJY9zXhOP6psz6) | [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Ultimatum](https://open.spotify.com/album/76DYEfwnt7VbRTrBt5sos6) | 3:31 |
 | 184 | [To the Beat of My Heart](https://open.spotify.com/track/3OPrWU05xzSlV3tau3b7C1) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [Platinum Collection](https://open.spotify.com/album/6RsefRivaKdO1XgeRfIUHv) | 3:10 |
 | 185 | [Natural \(feat\. KStewart\)](https://open.spotify.com/track/5C3ybgC2yExg9qBcMJyG9F) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [KStewart](https://open.spotify.com/artist/4jQF2fKZDX6pQIPWwsNWyp) | [NIT3 TALES](https://open.spotify.com/album/3aaDMnR6ZksGbZSDw2JRxZ) | 3:12 |
 | 186 | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/track/22Wxi2u7CeP9X1d2Nprpam) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [Danger \(feat\. Shola Ama\)](https://open.spotify.com/album/5OVu7lRwOFXmNjyMRbOTdn) | 3:30 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 271 | [the edge](https://open.spotify.com/track/4fY9E3t149Gxz7NI3LDyx5) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [The Edge](https://open.spotify.com/album/1nqf27BW5Sxt6QCr6NttWL) | 3:38 |
 | 272 | [Glue](https://open.spotify.com/track/4sSDywa0Qrb239NRxUJXFm) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3), [Bartoven](https://open.spotify.com/artist/791iKkqcOaZclUe2Bpp3OT) | [KABBA](https://open.spotify.com/album/7IxBjYSyUAIKZErr4kjwUJ) | 3:21 |
 | 273 | [The Flame \(Feat\. Siegal\)](https://open.spotify.com/track/0jD8NoEdV3msBb7yiuNay0) | [Messy Marv](https://open.spotify.com/artist/5QoPmqq8UfE0zsTWkM3CQD), [Siegal](https://open.spotify.com/artist/0crPGfFVQvuEi4oDF8EIbK) | [Disobayish](https://open.spotify.com/album/5L9rRqVeBmLeyv42SYQSBY) | 4:16 |
-| 274 | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/track/13lfAMNkn4JFgD5GlNNDXX) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/album/339eos66z4R7TFNQqJOXMH) | 3:01 |
-| 275 | [High](https://open.spotify.com/track/01T0IodXbkQXBAiTzeH0PK) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/37kVRt7mwQ1rHHmXXYDxkw) | 3:31 |
+| 274 | [High](https://open.spotify.com/track/01T0IodXbkQXBAiTzeH0PK) | [Zach Campbell](https://open.spotify.com/artist/1xj1EJ5Ugunq3L3Ff3sdPe) | [High](https://open.spotify.com/album/37kVRt7mwQ1rHHmXXYDxkw) | 3:31 |
+| 275 | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/track/13lfAMNkn4JFgD5GlNNDXX) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [GUESS MY FRIENDS WERE RIGHT](https://open.spotify.com/album/339eos66z4R7TFNQqJOXMH) | 3:01 |
 | 276 | [Heartbreaker](https://open.spotify.com/track/73DLxK3dXVqy37MZcIY3zP) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Heartbreaker](https://open.spotify.com/album/72C7xboUSQLQAJgILsuYXN) | 3:28 |
 | 277 | [Is It Wrong \- Main Mix](https://open.spotify.com/track/2myKcFWoAgze1hHO6QOQb1) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Is It Wrong](https://open.spotify.com/album/14tRqV2OKEE7HJSF1uH5N1) | 5:19 |
 | 278 | [Simulation](https://open.spotify.com/track/1nWVz4QTSIMYcdkUvllivw) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H) | [Modern Warfare \(EPs 1\-3\)](https://open.spotify.com/album/3xJIXGonvx4OfwZ8Rsbmzt) | 5:39 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 307 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 308 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbZ9QgAAAAA1dse3rJ0VSReHCd8dw1f/`
+Snapshot ID: `AbaC4gAAAADHtWO4zB81UrKbYTcx1qX8`

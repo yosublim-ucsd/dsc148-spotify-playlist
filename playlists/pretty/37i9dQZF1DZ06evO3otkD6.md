@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This Is Belinda\. Los temas esenciales, todos en una lista.
+> This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,777 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,810 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 34 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
 | 35 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
 | 36 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 |
-| 37 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
-| 38 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
-| 39 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 |
-| 40 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
+| 37 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
+| 38 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
+| 39 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
+| 40 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 |
 | 41 | [Alguien Mas](https://open.spotify.com/track/4OOVjodwtXcrGTiePzN3BQ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:13 |
 | 42 | [No Entiendo \- I Don't Understand You](https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 4:04 |
 | 43 | [Madrid X Marbella](https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Madrid X Marbella](https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y) | 3:14 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 50 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
 | 51 | [Contigo Siempre](https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Laura Flores](https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 2:54 |
 
-Snapshot ID: `ZsKLAAAAAACHwLOfmKq49u7XiYL6H9ic`
+Snapshot ID: `ZsPcgAAAAACxkRZdRzDhAONno3vYCOVj`

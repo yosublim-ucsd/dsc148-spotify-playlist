@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 
 > Enjoy the romantic side of Ani
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,580 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,633 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hlePrkMwGp.md) - [plain]
 | 26 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 |
 | 27 | [Osaka Osaka](https://open.spotify.com/track/7xV3MCJ6YI3K4I6Jt1a9H7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Pragathi](https://open.spotify.com/artist/5ZjYHPK2ChSKoqikhjpgBa), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 6:08 |
 | 28 | [So Baby \(From "Doctor"\)](https://open.spotify.com/track/0t0mHozF8Xsif9w8bemh9D) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ananthakrrishnan](https://open.spotify.com/artist/07ziSY1M5vTjGnNtW9WNeR) | [So Baby \(From "Doctor"\)](https://open.spotify.com/album/28Y5P0FADbgckRg1E5E5Dp) | 4:12 |
-| 29 | [Un Vizhigalil](https://open.spotify.com/track/5fqsWynhQRpoIVeRfRu4yQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:03 |
-| 30 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |
+| 29 | [Tamilselvi](https://open.spotify.com/track/7zEqY4oGrTVOx85VlRSymi) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Remo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58colQLIZDAInrHq3eT2PF) | 3:50 |
+| 30 | [Un Vizhigalil](https://open.spotify.com/track/5fqsWynhQRpoIVeRfRu4yQ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h) | [Maan Karate \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w2Ou2Z54QskBuOcQfNxOV) | 4:03 |
 | 31 | [Un Paarvayil](https://open.spotify.com/track/35cs2sZ24XIGequNBXfdpv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek Siva](https://open.spotify.com/artist/7B0eBcEyMXoyqBrVyj7gFD) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 1:41 |
 | 32 | [Nijamellam Maranthupochu](https://open.spotify.com/track/201Jot6JmkxQQD1iZEaK8d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 3:48 |
 | 33 | [Uyire Un Uyirena](https://open.spotify.com/track/4pFnIDmbwigWbeS7ohLqii) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Zero \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6P79UqoU8WKlcPAv5wB0au) | 4:44 |

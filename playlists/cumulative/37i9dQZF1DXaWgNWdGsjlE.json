@@ -786,7 +786,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 114351,
       "name": "Church Outfit",
       "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 256105,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6mJ1xzqTOpUfIKVc4d5HDl"
@@ -1274,6 +1274,24 @@
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
+    },
+    {
+      "album": {
+        "name": "EAT MY ACID",
+        "url": "https://open.spotify.com/album/641OmMwnM7vSGLNcAMhTy0"
+      },
+      "artists": [
+        {
+          "name": "EMM",
+          "url": "https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175880,
+      "name": "EAT MY ACID",
+      "url": "https://open.spotify.com/track/75tsV5YSyIVhZr2cgxPwlt"
     },
     {
       "album": {
@@ -1987,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "HOUSE FULL OF FAKES",
+        "url": "https://open.spotify.com/album/3OLbjE3KaI4kywWewJ3v4v"
+      },
+      "artists": [
+        {
+          "name": "Mimi Barks",
+          "url": "https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185612,
+      "name": "HOUSE FULL OF FAKES",
+      "url": "https://open.spotify.com/track/0JV7cWCtX7qGDWNmHbM6YM"
+    },
+    {
+      "album": {
         "name": "CHILDREN OF LIGHT II",
         "url": "https://open.spotify.com/album/4ju7VhYQ892SQ7gEmMViW4"
       },
@@ -2312,7 +2348,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 124683,
       "name": "Intrusive",
       "url": "https://open.spotify.com/track/04ga1GTMPJPYTBTVCrDts8"
@@ -3094,6 +3130,24 @@
       "duration_ms": 200610,
       "name": "NERVOUS SYSTEM",
       "url": "https://open.spotify.com/track/1XwE6abXTCVCoG3Go3DteI"
+    },
+    {
+      "album": {
+        "name": "New Way Out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202909,
+      "name": "New Way Out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "album": {
@@ -4025,6 +4079,28 @@
     },
     {
       "album": {
+        "name": "Tunnel Lights - \u2020\u2020\u2020 (Crosses) remix",
+        "url": "https://open.spotify.com/album/0sXqxQOG6RrjwCT4V7zNTW"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        },
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263404,
+      "name": "Tunnel Lights - \u2020\u2020\u2020 (Crosses) remix",
+      "url": "https://open.spotify.com/track/543tq6Hdkz2NzCXTdkN27z"
+    },
+    {
+      "album": {
         "name": "U Love It",
         "url": "https://open.spotify.com/album/0fnqpN4YCLNfiKdQ8uzvPi"
       },
@@ -4382,7 +4458,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 178927,
       "name": "WHY WOULD I BOTHER",
       "url": "https://open.spotify.com/track/3wd5pxc7UgHAwLiCrIz0ye"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,983 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,142 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 4 | [Fear of Love](https://open.spotify.com/track/3ijYvTY2qRlaiAn6LMmabp) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Shraddha Patray](https://open.spotify.com/artist/19L69xME7li2nHPJBGbvKg), [Prince 810](https://open.spotify.com/artist/5L9ygnSgy5W0Is4m8iRTM1) | [Fear of Love](https://open.spotify.com/album/1NgFiNTVtkJxYsdH9J7j95) | 3:19 |
 | 5 | [Dil Mera \(From "Shahkot"\)](https://open.spotify.com/track/3c6RYpBBk4coJLeY2UJiSu) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Sandeep Aulakh](https://open.spotify.com/artist/3allL5EVHCpBzNZHN2JCc5) | [Dil Mera \(From "Shahkot"\)](https://open.spotify.com/album/1mjb5nuE1u9mdQYWgQcDL7) | 3:46 |
 | 6 | [Mombattiye](https://open.spotify.com/track/3svJaCD1g4aeQOXGc1aOIB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Mombattiye](https://open.spotify.com/album/590RLFrfBBcRJyZyeqvt5R) | 3:05 |
-| 7 | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/album/3t8B4tf2XXm8bRggCe0KTO) | 3:23 |
+| 7 | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/track/2hjARU9stCimSBlpSliMSQ) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Ve Haaniyaan \(Female Version\)](https://open.spotify.com/album/3t8B4tf2XXm8bRggCe0KTO) | 3:23 |
 | 8 | [Gallan Gallan](https://open.spotify.com/track/0Sac6X0T2ptyr5U3sU5ayS) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6) | [Forever Yours](https://open.spotify.com/album/2IKEb71soGBPtjKPwYtlkZ) | 2:44 |
 | 9 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
 | 10 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 216000,
       "name": "432hz Healing Breath - Studio Edit",
       "url": "https://open.spotify.com/track/2J3b2UdzcC5LyB7WV5uuf9"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 182790,
       "name": "A Sense of Touch",
       "url": "https://open.spotify.com/track/2hJRROSh3QFGDCMS7CwGxr"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 319133,
       "name": "Ancient Voices (From Call of the Mystic)",
       "url": "https://open.spotify.com/track/4VYZ5F1Efe5elXeGBPCbcG"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 148000,
       "name": "Back to Sinharaja",
       "url": "https://open.spotify.com/track/3XIdIODAFwhW7Eo2U0boQB"
@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Ceres",
+        "url": "https://open.spotify.com/album/2Ira4UUmh7niN0G7PSEzYS"
+      },
+      "artists": [
+        {
+          "name": "Ageena",
+          "url": "https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ceres",
+      "url": "https://open.spotify.com/track/15yzjfz4HkzuITxJjajVVX"
+    },
+    {
+      "album": {
         "name": "Cestrum Nocturnum",
         "url": "https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 298133,
       "name": "Cloud Surfing",
       "url": "https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 203772,
       "name": "Five Bowls of Tibetan",
       "url": "https://open.spotify.com/track/4yhqoMdd45giViFd7UVT1d"
@@ -1936,7 +1954,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 189095,
       "name": "Jerome Dreams",
       "url": "https://open.spotify.com/track/4Gkf9SHCO3PvlLhjOTGU0W"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 214736,
       "name": "Little Swallow",
       "url": "https://open.spotify.com/track/1I0k8K0RQSZZKWGVXw2uDD"
@@ -2282,6 +2300,24 @@
       "duration_ms": 193000,
       "name": "Me Segure",
       "url": "https://open.spotify.com/track/7pkRv94aXaSd5wYzMzM0OT"
+    },
+    {
+      "album": {
+        "name": "Midnight Dreams",
+        "url": "https://open.spotify.com/album/0CFgufSpMBSyNGF337JT6c"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Midnight Dreams",
+      "url": "https://open.spotify.com/track/7HJ63Qn9DkGH7EbtgnvAIJ"
     },
     {
       "album": {
@@ -2440,7 +2476,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 210000,
       "name": "Natura Deambulatio",
       "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
@@ -2530,10 +2566,28 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 192000,
       "name": "New Words",
       "url": "https://open.spotify.com/track/3G2uZooJWAuw6cSN1RryBM"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6j6HoKkcGAKxgs8e1Uti3x"
+      },
+      "artists": [
+        {
+          "name": "Ceilidh",
+          "url": "https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2eYqdy2FDpIIDU6QyTHp4s"
     },
     {
       "album": {
@@ -2699,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Our Own Little World",
+        "url": "https://open.spotify.com/album/6ygBSMm5kTYXAeSWC6b4xJ"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Our Own Little World",
+      "url": "https://open.spotify.com/track/1WqwCxC66VrdftYJUMdCi6"
+    },
+    {
+      "album": {
         "name": "Our Secret",
         "url": "https://open.spotify.com/album/6ztVq3Ij6UV0CRp2JPvrb8"
       },
@@ -2764,7 +2836,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 206000,
       "name": "Pampus",
       "url": "https://open.spotify.com/track/7emdYdVOLn2nIzdFufWUQh"
@@ -2782,7 +2854,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 281601,
       "name": "Paradigm Shift",
       "url": "https://open.spotify.com/track/6omeDJojxEUVrHOyKFtong"
@@ -2908,7 +2980,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 184600,
       "name": "Pitta",
       "url": "https://open.spotify.com/track/1nB3pv4sYx3BcCrydCyusH"
@@ -3690,7 +3762,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 211020,
       "name": "Sitar Sunshine",
       "url": "https://open.spotify.com/track/1BrUISehjHjDiXNvnDUzJI"
@@ -3726,7 +3798,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 160461,
       "name": "Slow",
       "url": "https://open.spotify.com/track/4C18P7OaNo271fYNnbpoVR"
@@ -3780,7 +3852,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 186237,
       "name": "Solitude By Numbers",
       "url": "https://open.spotify.com/track/1WF0V2ndTgetIzonPqO6Qz"

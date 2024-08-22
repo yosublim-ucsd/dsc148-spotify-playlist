@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 172492,
+  "num_followers": 172546,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Mit K",
-        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 258360,
-      "name": "Kein Liebeslied",
-      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "Kraniche (plus Track by Track)",
         "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 233760,
       "name": "Sch\u00f6nste Zeit",
       "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Mit K",
+        "url": "https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 258360,
+      "name": "Kein Liebeslied",
+      "url": "https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
       "artists": [
         {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Sag deinem Ex",
         "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 123000,
       "name": "Sag deinem Ex",
       "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Blaue Augen",
-        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 167873,
-      "name": "Blaue Augen",
-      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     },
     {
       "added_at": "2024-02-09 07:01:34",

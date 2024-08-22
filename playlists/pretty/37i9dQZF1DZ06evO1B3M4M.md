@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 
 ### [This Is James Newton Howard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1B3M4M)
 
-> This is James Newton Howard\. The essential tracks, all in one playlist.
+> This is James Newton Howard\. Tutti i brani in un'unica playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,695 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,694 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1B3M4M.md) - [plain]
 | 49 | [Barbastella](https://open.spotify.com/track/6G0UFydt9FBQtIM9RaZ3My) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Batman Begins \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5djDvf7OozECsKzEB04uYg) | 4:45 |
 | 50 | [Maple Glazed Donut](https://open.spotify.com/track/5eTLTRb0rOuCOVulfHBALq) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Roman J\. Israel, Esq\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lTpJffQUPSCm0VLiWHI8b) | 3:03 |
 
-Snapshot ID: `ZsKLAAAAAACmuTP0UTgT/JoMndY2YOLi`
+Snapshot ID: `ZsPcgAAAAACVYoPvrmZuOHONKhJqMecK`

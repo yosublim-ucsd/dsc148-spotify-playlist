@@ -2579,6 +2579,32 @@
     },
     {
       "album": {
+        "name": "I Like It - Alesso & Sentinel Remix",
+        "url": "https://open.spotify.com/album/7GJkVr9LA2svhxSG2w5N3Z"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166162,
+      "name": "I Like It - Alesso & Sentinel Remix",
+      "url": "https://open.spotify.com/track/2kG38uIoDRlqJU0aFafpP0"
+    },
+    {
+      "album": {
         "name": "Dirt Femme (Extended Cut)",
         "url": "https://open.spotify.com/album/4HqIEAaytAyzVPnnT0j9j3"
       },
@@ -3240,7 +3266,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 190909,
       "name": "LAST OF US (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1"

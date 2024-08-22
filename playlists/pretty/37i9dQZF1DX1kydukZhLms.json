@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1383805,
+  "num_followers": 1384075,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-06-10 16:00:39",
       "album": {
-        "name": "Sin-Decade",
-        "url": "https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Maids",
-          "url": "https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Please Don't Leave Me",
-      "url": "https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq"
-    },
-    {
-      "added_at": "2024-06-10 16:00:39",
-      "album": {
         "name": "Set The World On Fire",
         "url": "https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 228546,
       "name": "Phoenix Rising",
       "url": "https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH"
+    },
+    {
+      "added_at": "2024-06-10 16:00:39",
+      "album": {
+        "name": "Sin-Decade",
+        "url": "https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Maids",
+          "url": "https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Please Don't Leave Me",
+      "url": "https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq"
     },
     {
       "added_at": "2024-06-10 16:00:39",

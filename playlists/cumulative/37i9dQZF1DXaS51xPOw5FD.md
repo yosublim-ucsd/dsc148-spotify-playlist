@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-201 songs - 12 hr 29 min
+202 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Brown Paper Bag](https://open.spotify.com/track/3ZQs8RHO3lPZoUwpavPENL) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Reprazent](https://open.spotify.com/artist/17Ytfl1DntgvVdragJEqx8) | [New Forms \(20th Anniversary Edition\)](https://open.spotify.com/album/3e38PrPtIRDGbtbpc6jHrM) | 9:03 | 2023-06-13 | 2023-08-12 |
 | [Call Me \(feat\. Maverick Sabre\)](https://open.spotify.com/track/1XX80Q0QEY62CVo1Ks4x1J) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Raggamuffin SoundTape](https://open.spotify.com/album/5CZ869wDUrKqvtmJXRZxkl) | 3:29 | 2022-08-05 |  |
 | [Can't Destroy Love](https://open.spotify.com/track/25uYgeEbQmZdQVd0xQQzMn) | [Atlantic Connection](https://open.spotify.com/artist/323BD4mjoLA1ajX6zjIe2q) | [Digital Landscape](https://open.spotify.com/album/2aeWA7Sqbo9cnnPbggxCaZ) | 6:03 | 2022-08-05 | 2023-08-04 |
-| [Can't Get You Out of My Head](https://open.spotify.com/track/61fJFEna3BOXOUK6vlzjAC) | [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [Can't Get You Out of My Head](https://open.spotify.com/album/0R7TWIazXEIYBhYgMQBoEA) | 2:42 | 2024-07-25 |  |
+| [Can't Get You Out of My Head](https://open.spotify.com/track/61fJFEna3BOXOUK6vlzjAC) | [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd) | [Can't Get You Out of My Head](https://open.spotify.com/album/0R7TWIazXEIYBhYgMQBoEA) | 2:42 | 2024-07-25 | 2024-08-22 |
 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 | 2024-08-15 |  |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-05-09 |  |
 | [Changing](https://open.spotify.com/track/1LrYRj1iFsm9QJ72YqPTLY) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 3:25 | 2022-08-05 | 2024-04-19 |
@@ -54,6 +54,7 @@
 | [Differently \(Feat\. MIST\)](https://open.spotify.com/track/6E2mwRT1vHBmvd4XTmbF8h) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Differently \(Feat\. MIST\)](https://open.spotify.com/album/0nL1RvbwfO0PP5LGyoTR1s) | 2:28 | 2023-09-22 |  |
 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 | 2023-07-21 |  |
 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 | 2023-06-30 |  |
+| [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 | 2024-08-15 |  |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-08-05 |  |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-05-19 |  |
 | [Drowning In You](https://open.spotify.com/track/0bqJDrb7zRLOiCnUm7MXZW) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Drowning In You](https://open.spotify.com/album/6px2l6DvudSYsp8FSddKKj) | 3:37 | 2022-08-05 | 2024-06-28 |

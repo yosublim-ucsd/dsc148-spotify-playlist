@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: HAPPY LANDING",
-  "num_followers": 75546,
+  "num_followers": 75684,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrwrwAAAAABHHDZDRsFbTdO8IyO4u+Di",
+  "snapshot_id": "ZsZTwgAAAAD+DWZWeroPb+S01aV+YHLh",
   "tracks": [
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/3zd0VrYymrE7nK1UZTlRCr"
+      },
+      "artists": [
+        {
+          "name": "barrett",
+          "url": "https://open.spotify.com/artist/5s8pSew0l0EfjJLK5a8sSY"
+        }
+      ],
+      "duration_ms": 233730,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/0jtHUZ69AAVSVWaXpEP60D"
+    },
     {
       "added_at": "2024-08-14 04:00:00",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 290003,
       "name": "Watch Me Drive Them Dogs Wild",
       "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5aI2kQoerO8g0cqk8au5gI"
+      },
+      "artists": [
+        {
+          "name": "Salt Water Baby",
+          "url": "https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj"
+        }
+      ],
+      "duration_ms": 181560,
+      "name": "27",
+      "url": "https://open.spotify.com/track/6DP3NtbrubSNqZm1DKVOlT"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Hallelujah Bruv",
+        "url": "https://open.spotify.com/album/2XOlDfipPw0DbVptNQlFsd"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "duration_ms": 121713,
+      "name": "Hallelujah Bruv",
+      "url": "https://open.spotify.com/track/0oyOsaqUQhvZH7Dfavot0g"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/5icHhllJTL0DlArG9lOzCZ"
+      },
+      "artists": [
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 258097,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/6GBKUEIoyCwCCQGzTPM6Xs"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Sleep Tonight",
+        "url": "https://open.spotify.com/album/6aWqKJgGIkGKuIyr7UITuK"
+      },
+      "artists": [
+        {
+          "name": "harf.",
+          "url": "https://open.spotify.com/artist/12dcW7121xWHkU7xCBvyUX"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Sleep Tonight",
+      "url": "https://open.spotify.com/track/2944dK6sVcflROZykZRYFQ"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Police Checks",
+        "url": "https://open.spotify.com/album/6jQwEyoj1b13sby1UOoWh6"
+      },
+      "artists": [
+        {
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
+        }
+      ],
+      "duration_ms": 242782,
+      "name": "Police Checks",
+      "url": "https://open.spotify.com/track/16WieaBx24jfcYE1Q9EYRY"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -61,6 +157,54 @@
       "url": "https://open.spotify.com/track/6JuB5cewTiFUzvYRrD5FuE"
     },
     {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/5DotSnfsg0nGoscvQbMDi4"
+      },
+      "artists": [
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        }
+      ],
+      "duration_ms": 283072,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/0Sd5l14i8CKGHGKIKjsJXe"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "I Think About Heaven",
+        "url": "https://open.spotify.com/album/3hfKLdxRBRMIiyQYUV37QF"
+      },
+      "artists": [
+        {
+          "name": "Christopher Owens",
+          "url": "https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy"
+        }
+      ],
+      "duration_ms": 363512,
+      "name": "I Think About Heaven",
+      "url": "https://open.spotify.com/track/44ADDcYWJISFUrx8zIASLn"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "The Valley",
+        "url": "https://open.spotify.com/album/1e9fhFErBqJBNU7QffUgjT"
+      },
+      "artists": [
+        {
+          "name": "Paul Spring",
+          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
+        }
+      ],
+      "duration_ms": 188472,
+      "name": "The Valley",
+      "url": "https://open.spotify.com/track/3qbbfgMlw4b4w2wNSA2VV2"
+    },
+    {
       "added_at": "2024-07-17 16:23:52",
       "album": {
         "name": "Golden",
@@ -75,6 +219,54 @@
       "duration_ms": 180169,
       "name": "My, My, My",
       "url": "https://open.spotify.com/track/6IuUIvYSLfpsc9YUNrzotf"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Jam the Phones",
+        "url": "https://open.spotify.com/album/3S8CWqUbbHWgJXjQZjc1qZ"
+      },
+      "artists": [
+        {
+          "name": "Anna McClellan",
+          "url": "https://open.spotify.com/artist/2Y8G3abt5hRU7X9RNi7dlZ"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Jam the Phones",
+      "url": "https://open.spotify.com/track/6HRXAtJ0ZfdHYIyBbFKwuO"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "now that we're falling apart",
+        "url": "https://open.spotify.com/album/60c0kUvJXPTqYt0TgM2ATx"
+      },
+      "artists": [
+        {
+          "name": "Lauryn Kovacs",
+          "url": "https://open.spotify.com/artist/312rRK1ajyuXCvS4nCpIdr"
+        }
+      ],
+      "duration_ms": 184759,
+      "name": "now that we're falling apart",
+      "url": "https://open.spotify.com/track/0Bl6FNGRGm4kZlvcqxEZje"
+    },
+    {
+      "added_at": "2024-08-21 20:53:22",
+      "album": {
+        "name": "Breckenridge Lane",
+        "url": "https://open.spotify.com/album/3KjwcvwfmEmlx7AL3Rv8RI"
+      },
+      "artists": [
+        {
+          "name": "Timmy Skelly",
+          "url": "https://open.spotify.com/artist/4jeNMayo3ERH8lqe2Cd8kb"
+        }
+      ],
+      "duration_ms": 226026,
+      "name": "Breckenridge Lane",
+      "url": "https://open.spotify.com/track/6Wst9BZykgd9NmyiAW4KOK"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -777,6 +969,22 @@
       "url": "https://open.spotify.com/track/2637H4or8sjAJ08Dnvq7fX"
     },
     {
+      "added_at": "2024-06-05 04:00:00",
+      "album": {
+        "name": "gut health",
+        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
+      },
+      "artists": [
+        {
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
+        }
+      ],
+      "duration_ms": 243469,
+      "name": "gut health",
+      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
+    },
+    {
       "added_at": "2024-07-24 13:34:16",
       "album": {
         "name": "My Own Company",
@@ -807,6 +1015,22 @@
       "duration_ms": 226849,
       "name": "Firing Sideways",
       "url": "https://open.spotify.com/track/1twpf8UNkH362vXO63l28C"
+    },
+    {
+      "added_at": "2024-05-29 12:56:53",
+      "album": {
+        "name": "The Rock / Magical Thinking",
+        "url": "https://open.spotify.com/album/4NjzFN2XZl4YZxf1zhEx6O"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 142718,
+      "name": "The Rock",
+      "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
     },
     {
       "added_at": "2024-06-12 16:16:43",
@@ -1151,38 +1375,6 @@
     {
       "added_at": "2024-06-26 22:07:48",
       "album": {
-        "name": "Sick of Myself",
-        "url": "https://open.spotify.com/album/0w5NhosID0EK5kiBKHhABM"
-      },
-      "artists": [
-        {
-          "name": "Trace Mountains",
-          "url": "https://open.spotify.com/artist/7sLtFQOS2kTEnMPTFLFU1t"
-        }
-      ],
-      "duration_ms": 247793,
-      "name": "Sick of Myself",
-      "url": "https://open.spotify.com/track/1dlKXi0vyIStC1g5M8L5nE"
-    },
-    {
-      "added_at": "2024-07-03 04:00:00",
-      "album": {
-        "name": "I Might",
-        "url": "https://open.spotify.com/album/1UAvoqaAl8kFfSXSN5GlGJ"
-      },
-      "artists": [
-        {
-          "name": "Bella Fiske",
-          "url": "https://open.spotify.com/artist/1FQ2JZsNCdNyFgA1xpC0JY"
-        }
-      ],
-      "duration_ms": 215577,
-      "name": "I Might",
-      "url": "https://open.spotify.com/track/5yhQugH2mQiouc3MJHcyQl"
-    },
-    {
-      "added_at": "2024-06-26 22:07:48",
-      "album": {
         "name": "Know Why Now",
         "url": "https://open.spotify.com/album/3vUkdZOqbChrsLxhKvqc8V"
       },
@@ -1421,90 +1613,6 @@
       "url": "https://open.spotify.com/track/7MUslKGuUlcOPAcYpYEpco"
     },
     {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "The Rock / Magical Thinking",
-        "url": "https://open.spotify.com/album/4NjzFN2XZl4YZxf1zhEx6O"
-      },
-      "artists": [
-        {
-          "name": "Gabe Goodman",
-          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
-        }
-      ],
-      "duration_ms": 142718,
-      "name": "The Rock",
-      "url": "https://open.spotify.com/track/6IgenNSTsv9vVYVP9ZlNAq"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/2Ot82q6wjxcSKOfecx6Phf"
-      },
-      "artists": [
-        {
-          "name": "Frankie Bird",
-          "url": "https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2b5nw1JrcsCs2ifGIJsv18"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "So It Goes",
-        "url": "https://open.spotify.com/album/0szNvV9RKt8MjcVIR9fllm"
-      },
-      "artists": [
-        {
-          "name": "Legit Smitty",
-          "url": "https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu"
-        }
-      ],
-      "duration_ms": 186670,
-      "name": "So It Goes",
-      "url": "https://open.spotify.com/track/4KBSi6Kxre3J1YSFqdHCkv"
-    },
-    {
-      "added_at": "2024-06-12 16:16:43",
-      "album": {
-        "name": "Through The Window",
-        "url": "https://open.spotify.com/album/5KCpi1B9uh0NCMJ4HWeZEV"
-      },
-      "artists": [
-        {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
-        }
-      ],
-      "duration_ms": 328980,
-      "name": "But I Want More",
-      "url": "https://open.spotify.com/track/1d7H0Xiau1rkzj8u78W7RP"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Lover of Creation",
-        "url": "https://open.spotify.com/album/7DcLxSFcbYDGUG0Oro3hbu"
-      },
-      "artists": [
-        {
-          "name": "Aistis",
-          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
-        },
-        {
-          "name": "Freida Mari",
-          "url": "https://open.spotify.com/artist/5RqPuMbbZResDnQbhyFIae"
-        }
-      ],
-      "duration_ms": 256722,
-      "name": "Lover of Creation",
-      "url": "https://open.spotify.com/track/3dv1uWmmP9GrYlv07OQtDs"
-    },
-    {
       "added_at": "2024-06-05 18:13:23",
       "album": {
         "name": "Colorado",
@@ -1523,22 +1631,6 @@
     {
       "added_at": "2024-06-05 04:00:00",
       "album": {
-        "name": "gut health",
-        "url": "https://open.spotify.com/album/0fHoOMkM8YOuSlPWNOvjnP"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243469,
-      "name": "gut health",
-      "url": "https://open.spotify.com/track/6sDD5wCAJIGjCqPlPwSOck"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
         "name": "down the falls",
         "url": "https://open.spotify.com/album/1SZljZSRYNXAfMy1vi7Atq"
       },
@@ -1551,86 +1643,6 @@
       "duration_ms": 145390,
       "name": "down the falls",
       "url": "https://open.spotify.com/track/4uD3YUPqv2iqwz5puK7xru"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Like Lovers Do",
-        "url": "https://open.spotify.com/album/7xtebGDHxGz9nfHveTGc7W"
-      },
-      "artists": [
-        {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        }
-      ],
-      "duration_ms": 170794,
-      "name": "Like Lovers Do",
-      "url": "https://open.spotify.com/track/1vDMPDEOp8MqmMfMosMUml"
-    },
-    {
-      "added_at": "2024-06-05 04:00:00",
-      "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/3qH1xXzO5OmBoe3qvcMvd7"
-      },
-      "artists": [
-        {
-          "name": "Tele Novella",
-          "url": "https://open.spotify.com/artist/3yxZJMBn5A2OMEGO7Tvg72"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/3du3GQoC8Tx9Tz9XFxqA4Y"
-    },
-    {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 198374,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE"
-    },
-    {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "sell my soul",
-        "url": "https://open.spotify.com/album/1QiPcZABvq1QuKjtgKe9Yp"
-      },
-      "artists": [
-        {
-          "name": "b0dies",
-          "url": "https://open.spotify.com/artist/4ZlzXxVz7C8xssfnLlLF1A"
-        }
-      ],
-      "duration_ms": 159659,
-      "name": "sell my soul",
-      "url": "https://open.spotify.com/track/0R7BfRNbVcUoJsSAYfaF4J"
-    },
-    {
-      "added_at": "2024-05-29 12:56:53",
-      "album": {
-        "name": "Hot Water Tap",
-        "url": "https://open.spotify.com/album/4TpmNwbq1saup5fxCDQjGn"
-      },
-      "artists": [
-        {
-          "name": "Fairhazel",
-          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
-        }
-      ],
-      "duration_ms": 189738,
-      "name": "Hot Water Tap",
-      "url": "https://open.spotify.com/track/1ay23RNA6mjw7WkUN11DEl"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60787,
+  "num_followers": 60803,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Chucho en Chipp's",
+        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Su Piano y su Conjunto",
+          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "Bula",
+      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Chucho en Chipp's",
-        "url": "https://open.spotify.com/album/5mOhIFiuLjHjOY2FH0Cmqs"
-      },
-      "artists": [
-        {
-          "name": "Chucho Zarzosa Su Piano y su Conjunto",
-          "url": "https://open.spotify.com/artist/2MAh6OPwg7JREl7MzV8eMH"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "Bula",
-      "url": "https://open.spotify.com/track/5pt7eRGJRbcK0zuEPEU1To"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -783,22 +799,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
-        }
-      ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2021-07-28 16:44:28",

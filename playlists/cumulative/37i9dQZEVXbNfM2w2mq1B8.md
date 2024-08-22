@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,714 songs - 4 day 0 hr 14 min
+1,715 songs - 4 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1541,6 +1541,7 @@
 | [долари](https://open.spotify.com/track/0Ap2c3LTWx0HD7Nx8SW7c7) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Песни за сватби и погребения](https://open.spotify.com/album/3UoZjJacxi8N43F52O6M68) | 2:43 | 2023-11-29 | 2023-12-01 |
 | [Драконови нерви](https://open.spotify.com/track/5nYuCvuoBfbxXlNy95iBch) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Драконови нерви](https://open.spotify.com/album/6CSn02uE0DaQ4y2fDkVHc7) | 3:23 | 2021-12-23 | 2022-01-08 |
 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 | 2023-05-22 |  |
+| [Дум Так](https://open.spotify.com/track/1IURxiLGO4x5vVz0rX4AuP) | [Medi](https://open.spotify.com/artist/3GOA0ee8YDwIs4DHzIngsX) | [Дум Так](https://open.spotify.com/album/3zwks6rRLPkYwShLPswVjd) | 3:14 | 2024-08-21 |  |
 | [ДУМАЮ](https://open.spotify.com/track/5ooZmDqKU3tYHm8uaEmOWK) | [EMIL TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB), [Jci](https://open.spotify.com/artist/478i9yYjfDU9Tz2imo4Jf7) | [ДУМАЮ](https://open.spotify.com/album/6u7WPePUfV5OfzgQtBiQxQ) | 4:39 | 2021-11-14 | 2021-11-19 |
 | [Душата ме боли](https://open.spotify.com/track/7gQSgOGCJpdnmkCjD1wziW) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Adam](https://open.spotify.com/artist/4OxMKohjemdbOjJHVGoudN) | [Душата ме боли](https://open.spotify.com/album/5TqT8XT4l5RwE6oPCkcej4) | 3:45 | 2021-09-07 | 2021-10-16 |
 | [Дявол от Рая](https://open.spotify.com/track/5W71vTaU1D24Gv65e3EZId) | [SkandaU](https://open.spotify.com/artist/21Q5VJotowNOhkOD2x2Cti) | [Дявол от Рая](https://open.spotify.com/album/3hMoxCqS2rl4HboPRwFSor) | 2:25 | 2024-04-05 | 2024-04-09 |
@@ -1650,7 +1651,7 @@
 | [Окадар](https://open.spotify.com/track/3dka3n7xJ9gPiqPhWPy4su) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Окадар](https://open.spotify.com/album/5xx3nU4LyrplNLBLzNVTBG) | 4:04 | 2024-05-27 |  |
 | [Олигофрен](https://open.spotify.com/track/4b219WjJp306KV0BFCzEpA) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Haikko 372](https://open.spotify.com/artist/0Y5BK0n283ke4voiBtKzzi) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 3:22 | 2021-06-21 | 2021-06-25 |
 | [От 6 до 9](https://open.spotify.com/track/4oyLZMhrO4tMKE0G38JQV2) | [Grigovor](https://open.spotify.com/artist/0zPqnt6HE9KMcndhYl0U9R), [Gena](https://open.spotify.com/artist/3MqzFFAm4gc6nzAcWE2gjT), [Kamen](https://open.spotify.com/artist/1xKa5QGiacRTEMzEpy2sK1) | [Цех Депресия](https://open.spotify.com/album/76ARQ8ww7bG6Gi9VXYpMli) | 3:03 | 2021-09-12 | 2021-09-13 |
-| [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 | 2024-08-02 |  |
+| [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 | 2024-08-02 | 2024-08-22 |
 | [От кеф да умирам](https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/2YnlJgWFLWQcP5JMoNZG3C) | 4:00 | 2023-07-31 | 2024-06-28 |
 | [От страх да ме загубиш](https://open.spotify.com/track/2lfVC65pTe5TgYOGP4EUYh) | [Papi Hans](https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY) | [От страх да ме загубиш](https://open.spotify.com/album/57lxDyxi5hzqo3t5YEV0fc) | 3:12 | 2024-04-24 | 2024-04-29 |
 | [Откачила](https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ), [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Откачила](https://open.spotify.com/album/7uNTQkaeaifMAfVzqmBYss) | 2:55 | 2024-03-13 |  |

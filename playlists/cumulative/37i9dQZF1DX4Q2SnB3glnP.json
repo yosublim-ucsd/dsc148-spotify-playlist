@@ -302,7 +302,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 199112,
       "name": "Ambient Alchemy",
       "url": "https://open.spotify.com/track/6UmR1J4Iq00ViMySyEC9Ii"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 238500,
       "name": "apoapsis",
       "url": "https://open.spotify.com/track/4HeGTGqUfgIA98HEkIWTp2"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 165920,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1HNM54pHKFCSEflvDYZwGC"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 206000,
       "name": "Binaural Emotions",
       "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 215926,
       "name": "Calm",
       "url": "https://open.spotify.com/track/3Pcd6tCQ84hbnBDhkIhO4g"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 196000,
       "name": "Decoder",
       "url": "https://open.spotify.com/track/5qzcXIVuKxOwtMbXYils8n"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 228597,
       "name": "Deeper and Deeper",
       "url": "https://open.spotify.com/track/2szCNnrbZt1qZ87lgcL1il"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 196000,
       "name": "Descent",
       "url": "https://open.spotify.com/track/6kXLNIC0AHVfal6viWKsjn"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 190885,
       "name": "Early Morning Song",
       "url": "https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 124814,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5"
@@ -1782,10 +1782,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 123392,
       "name": "Evolving",
       "url": "https://open.spotify.com/track/50kLwqPp0x4LOl4T7HS9wR"
+    },
+    {
+      "album": {
+        "name": "Exception",
+        "url": "https://open.spotify.com/album/3vZpbegph3K927kNhJglme"
+      },
+      "artists": [
+        {
+          "name": "Garc\u00edia",
+          "url": "https://open.spotify.com/artist/1WqcMxEzhN5xfMVkGWO8qM"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173786,
+      "name": "Exception",
+      "url": "https://open.spotify.com/track/5mtDu6p1lTeM0aEcGJvkO4"
     },
     {
       "album": {
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 212000,
       "name": "Gold Coast Australia",
       "url": "https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2"
@@ -2214,7 +2232,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 188000,
       "name": "Hallowed",
       "url": "https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 179000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/64U5PLgNrdaQtuKqquCWaQ"
@@ -2844,7 +2862,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 202000,
       "name": "Midsummer",
       "url": "https://open.spotify.com/track/7n9GNIshLB6CEUiy8zj7oK"
@@ -3276,7 +3294,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 224343,
       "name": "Morning Rises",
       "url": "https://open.spotify.com/track/7uTmy9bindpm5YqE8sFFuj"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 159588,
       "name": "Myth",
       "url": "https://open.spotify.com/track/61dAOLGkqOSyZQUPA5BbdQ"
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6j6HoKkcGAKxgs8e1Uti3x"
+      },
+      "artists": [
+        {
+          "name": "Ceilidh",
+          "url": "https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2eYqdy2FDpIIDU6QyTHp4s"
+    },
+    {
+      "album": {
         "name": "Nightfall at Whitehaven Beach",
         "url": "https://open.spotify.com/album/4Nn0t0INwyLJnM4SuJqJ9Q"
       },
@@ -3492,7 +3528,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 199289,
       "name": "Nightfall at Whitehaven Beach",
       "url": "https://open.spotify.com/track/0X1tKaN8UN1r4DRxOtocSr"
@@ -4194,7 +4230,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 190751,
       "name": "Relajaci\u00f3n espiritual",
       "url": "https://open.spotify.com/track/7kbiF2WwENN3Z5yOZ2X0R2"
@@ -4698,7 +4734,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 140689,
       "name": "Serenity of Touch",
       "url": "https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO"
@@ -4896,7 +4932,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 168000,
       "name": "Solstice Waves",
       "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
@@ -5202,7 +5238,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 199680,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/1nFLUSu9eQxibCz0BP4BtO"
@@ -5346,7 +5382,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 216481,
       "name": "The Setting Sun",
       "url": "https://open.spotify.com/track/6TYC1zqaxjTvrii0j9I65Q"
@@ -5436,7 +5472,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 132000,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/3K1VfIqTt1oW62eu8IPYwC"
@@ -5544,7 +5580,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 194909,
       "name": "Time - Water Textures",
       "url": "https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM"
@@ -6030,7 +6066,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 247126,
       "name": "Watercolor",
       "url": "https://open.spotify.com/track/4WTmQdOSpj9rfBqYY2hryC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,109 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,112 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 56 | [Muse](https://open.spotify.com/track/0wjBJUiwNEjhVXDyxuTTsv) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [Alternative](https://open.spotify.com/album/6DyyB6l1wq5XtMbweRT6xx) | 3:53 |
 | 57 | [ADVISE \- Remix](https://open.spotify.com/track/14ngZIsl6t3kRpwJHGJymg) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [Arare](https://open.spotify.com/artist/4zoZQhGrNovodRG8STYtCs) | [ADVISE \(Remix\)](https://open.spotify.com/album/5IwpjOYU4BBhGmJrVmYzsw) | 3:30 |
 | 58 | [Cognac Soda](https://open.spotify.com/track/4TIznAoWLk3so0WBbF79bk) | [Rudebwoy Face](https://open.spotify.com/artist/0knzo2ocVAltWTjEDsSrsk) | [Cognac Soda](https://open.spotify.com/album/7KF7hGCOh4CfA9XFGmQyRW) | 2:55 |
-| 59 | [GLUED TO THE FLOOR \(feat\. seiji oda\)](https://open.spotify.com/track/1okfGi3vyz2rvetMA3sVf9) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [Seiji Oda](https://open.spotify.com/artist/4aglw0hywqIAh6gfiqvTTk) | [Curated 4 Selfworth](https://open.spotify.com/album/6oE8YzoRF4Jp6QigMoSj2Y) | 3:11 |
+| 59 | [GLUED TO THE FLOOR \(feat\. seiji oda\)](https://open.spotify.com/track/1okfGi3vyz2rvetMA3sVf9) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R), [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp) | [Curated 4 Selfworth](https://open.spotify.com/album/6oE8YzoRF4Jp6QigMoSj2Y) | 3:11 |
 | 60 | [cum again?](https://open.spotify.com/track/63ROFuizwjywpf5FsYAvIG) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [cum again?](https://open.spotify.com/album/0cmzg4E7ikFYv4yQ4OvNxN) | 3:05 |
 | 61 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 62 | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/track/0NCwPwdrCymcGGciPNT9jp) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Qim Isle](https://open.spotify.com/artist/3pDs57Od1KfGb0RmmWhGtK) | [Baby Cat \(Feat\. Qim Isle\)](https://open.spotify.com/album/5gVo2KB5ImTregsSpUk08A) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ\">Run Into Waves</a>",
-  "num_followers": 19713,
+  "num_followers": 19721,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Paaie X",
-        "url": "https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO"
-      },
-      "artists": [
-        {
-          "name": "Aidan Kade",
-          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Paaie X",
-      "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 179391,
       "name": "Cloetesville",
       "url": "https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Paaie X",
+        "url": "https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO"
+      },
+      "artists": [
+        {
+          "name": "Aidan Kade",
+          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Paaie X",
+      "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
-      },
-      "artists": [
-        {
-          "name": "Wonderboom",
-          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Crumble",
         "url": "https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2"
       },
@@ -515,6 +499,42 @@
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
+      },
+      "artists": [
+        {
+          "name": "Wonderboom",
+          "url": "https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx"
+        }
+      ],
+      "duration_ms": 207773,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Wild Shit",
+        "url": "https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR"
+      },
+      "artists": [
+        {
+          "name": "Kalden Berg",
+          "url": "https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j"
+        },
+        {
+          "name": "Elsie Binx",
+          "url": "https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl"
+        }
+      ],
+      "duration_ms": 192339,
+      "name": "Wild Shit",
+      "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -547,26 +567,6 @@
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Wild Shit",
-        "url": "https://open.spotify.com/album/04q9b5UM40J6nVEzKE5zOR"
-      },
-      "artists": [
-        {
-          "name": "Kalden Berg",
-          "url": "https://open.spotify.com/artist/1Sh4FKSlVLcy3jPRxbzE0j"
-        },
-        {
-          "name": "Elsie Binx",
-          "url": "https://open.spotify.com/artist/4M1tL6FG4dlmXPJi8lZaQl"
-        }
-      ],
-      "duration_ms": 192339,
-      "name": "Wild Shit",
-      "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
+        "name": "Collected Memories",
+        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
       },
       "artists": [
         {
-          "name": "Pony Jones",
-          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
+          "name": "Zebra & Giraffe",
+          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
+      "duration_ms": 257253,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Collected Memories",
-        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
+        "name": "One",
+        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
       },
       "artists": [
         {
-          "name": "Zebra & Giraffe",
-          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
+          "name": "Pony Jones",
+          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
         }
       ],
-      "duration_ms": 257253,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
+      "duration_ms": 161813,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "I'm On My Way",
+        "url": "https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        }
+      ],
+      "duration_ms": 188213,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Die gids vir grootword",
         "url": "https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 171823,
       "name": "Voel Jy Dit?",
       "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "I'm On My Way",
-        "url": "https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A"
-      },
-      "artists": [
-        {
-          "name": "Steve Umculo",
-          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
-        }
-      ],
-      "duration_ms": 188213,
-      "name": "I'm On My Way",
-      "url": "https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Medikasie",
-        "url": "https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
       },
       "artists": [
         {
-          "name": "DEJA VU",
-          "url": "https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ"
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
         }
       ],
-      "duration_ms": 226883,
-      "name": "Medikasie",
-      "url": "https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p"
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
     }
   ],
   "unique_name": "SA Rock ",

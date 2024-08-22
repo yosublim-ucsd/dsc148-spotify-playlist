@@ -4,7 +4,7 @@
 
 > as gigantes da internê
 
-428 songs - 20 hr 13 min
+429 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2024-05-03 | 2024-05-18 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes \(Anniversary Edition\)](https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl) | 4:39 | 2022-07-28 | 2022-08-09 |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Wounded Rhymes](https://open.spotify.com/album/2eEnzl61veDi3zQylslIap) | 4:39 | 2022-05-26 | 2022-07-29 |
-| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-19 |  |
+| [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-19 | 2024-08-22 |
 | [Idiota](https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [PIRATA](https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly) | 3:01 | 2022-05-26 | 2022-08-09 |
 | [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2024-04-19 | 2024-05-08 |
 | [Incrivel Jogando a Potranca](https://open.spotify.com/track/1Kplq3MbmYv11tcud2ftHp) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [DJ Swat](https://open.spotify.com/artist/3JrsRa8z1Pngkkf4pDrokD) | [Incrivel Jogando a Potranca](https://open.spotify.com/album/5obmsxidcvFcoY8caNUwQ5) | 1:50 | 2022-05-26 | 2022-12-09 |
@@ -307,6 +307,7 @@
 | [Parecia Tempestade](https://open.spotify.com/track/4nkhQr9Jp58ts1OncBX6xP) | [Sony no Beat](https://open.spotify.com/artist/4cMT9oSbMRlVPrkFyZAtzb), [Felupe](https://open.spotify.com/artist/1VfZSS1zUo2URLAriN3zZs), [Mc Danny](https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk) | [Parecia Tempestade](https://open.spotify.com/album/6BAy5WlPVBYzeBDDLd32Jk) | 2:29 | 2023-01-04 | 2023-01-14 |
 | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Passando o Rodo \(feat\. Tainá Costa\)](https://open.spotify.com/album/6rW1RDPhTkzVFgvJZatSbY) | 2:30 | 2022-05-26 | 2022-07-21 |
 | [Passe Livre](https://open.spotify.com/track/3UBt3hcQDzqi3MB4V5AzGH) | [Nilson Neto](https://open.spotify.com/artist/2D9AauR2GiC99uhbtBJJeN) | [Passe Livre](https://open.spotify.com/album/1euBiLYutDJjF7H5N7zHwd) | 2:53 | 2023-03-27 | 2023-09-15 |
+| [Patrai](https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [Patrai](https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0) | 1:53 | 2024-08-21 |  |
 | [Pega o Guanabara](https://open.spotify.com/track/57rCopayc4wJL7jQZaRvtn) | [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [Pega o Guanabara](https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL) | 2:46 | 2023-01-26 | 2023-09-15 |
 | [Pegada de Malvado](https://open.spotify.com/track/2Ho2vEEJAZOAnpxl9GsFYR) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm) | [Pegada de Malvado](https://open.spotify.com/album/2CiaR4gIfXUDR2SB0K07oP) | 1:47 | 2022-05-26 | 2022-09-22 |
 | [Perna Bamba](https://open.spotify.com/track/6fcQIY5VSFNrK4YzDoljPQ) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Diferentão](https://open.spotify.com/album/4GEKE1p87kk2tSgMAvubVl) | 2:07 | 2024-01-29 | 2024-07-19 |

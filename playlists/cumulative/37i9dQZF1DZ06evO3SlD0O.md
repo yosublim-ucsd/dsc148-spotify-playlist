@@ -2,7 +2,7 @@
 
 ### [This Is Los Traileros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SlD0O)
 
-> This Is Los Traileros Del Norte\. Los temas esenciales, todos en una lista.
+> This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
 92 songs - 4 hr 27 min
 
@@ -11,7 +11,7 @@
 | [Abeja Reina \- En Vivo](https://open.spotify.com/track/3BvKPAOfOVdItJX9UOEtoN) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37), [Lalo Mora Jr.](https://open.spotify.com/artist/2GJSx6ApAz7rUALTS0CWPu) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 3:59 | 2022-06-01 | 2022-11-03 |
 | [Abeja Reína](https://open.spotify.com/track/406qqOwEMlBUUugyHXBy8B) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:50 | 2022-06-01 | 2023-10-11 |
 | [Abeja Reína](https://open.spotify.com/track/2m5ePayanrtB3LWWiKxVEg) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:54 | 2022-11-17 |  |
-| [Ahora Que Estuviste Lejos](https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:34 | 2023-12-13 |  |
+| [Ahora Que Estuviste Lejos](https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:34 | 2023-12-13 | 2024-08-22 |
 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/1TFcMQeNqQiBwlpNPPPmD0) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/0h5HCJTFJd9Cy6EYqLcwfK) | 2:35 | 2022-06-01 | 2022-09-30 |
 | [Amnesia](https://open.spotify.com/track/2ZT0rXwm3h0FaGgA5CLzGt) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 3:02 | 2022-06-01 |  |
 | [Amor Brutal \- En Vivo](https://open.spotify.com/track/4buTWLBGvDn8mtWXKHoM8D) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [35 Aniversario: En Vivo Desde el Domo Care](https://open.spotify.com/album/7mmW9hGKCj290Te1XeeFMr) | 2:52 | 2022-06-09 | 2022-06-12 |
@@ -92,7 +92,7 @@
 | [Tus Labios Y Mi Copa](https://open.spotify.com/track/4uClaTjzYCrVHKSY1Y34Um) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Íconos 25 Éxitos](https://open.spotify.com/album/13xXOOKo0SiaD2Tc6iPUFP) | 2:44 | 2022-07-29 | 2022-08-13 |
 | [Tus Ojos](https://open.spotify.com/track/6lmjd76MajyeChAApIDZJv) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:55 | 2022-09-24 | 2024-03-06 |
 | [Ultimo Amor, Ultimo Dueño](https://open.spotify.com/track/3SHa4OakRheSWty5ENe5AI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:56 | 2022-10-04 |  |
-| [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 | 2022-09-10 | 2024-07-10 |
+| [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 | 2022-09-10 |  |
 | [Ven](https://open.spotify.com/track/1yUMetUWBf8xoh8XBa4PZm) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Como Decirte](https://open.spotify.com/album/3zMm3HTIhFivAyQOSHjfYy) | 2:48 | 2022-06-01 |  |
 | [Veneno Y Lodo](https://open.spotify.com/track/4EvX0ScozsUhvKAmKPGevE) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3MFxr13HI3eqlPRgW5lYZw) | 2:57 | 2022-06-03 | 2022-06-05 |
 | [Victimas](https://open.spotify.com/track/4p7OPAspRVLXd9mmGFYqyM) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Abeja Reina \(Clásicos Digitalizados\)](https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi) | 2:33 | 2022-06-01 | 2022-10-12 |

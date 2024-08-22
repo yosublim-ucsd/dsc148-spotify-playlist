@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, new season coming soon to Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,258 likes - 131 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,339 likes - 131 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 102 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 |
 | 103 | [Waltz Of The Flowers From The Nutcracker](https://open.spotify.com/track/2EM3z870MwvKASPO23MeUB) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [Last Night of the Proms](https://open.spotify.com/album/1nuOBOdelvIB0B7CqzVAXE) | 7:04 |
 | 104 | [I Just Love What You're Doing \- 2011 Remaster](https://open.spotify.com/track/5UQQNUf6IOSxDJZB0zO3Lb) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Box Selection \(Their 8 RAK Albums 1974\-1983\)](https://open.spotify.com/album/2l9LA8XgdbgbnZ34TQ6eIc) | 6:35 |
-| 105 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 |
+| 105 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \- 40th Anniversary Celebration / Super Deluxe](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 |
 | 106 | [Dreamer](https://open.spotify.com/track/0r1veUx7ezhSwTZESVYEIt) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:47 |
 | 107 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
 | 108 | [Carol of the Bells](https://open.spotify.com/track/2kQshpfW7a9Pj6BrVzgl63) | [Mykola Dmytrovych Leontovych](https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF), [Desmond Earley](https://open.spotify.com/artist/0G1V70m83Z5zAG8Pp8MS2s), [The Choral Scholars of University College Dublin](https://open.spotify.com/artist/5utrkuva7MklQHstAWALQm), [Irish Chamber Orchestra](https://open.spotify.com/artist/5BEsC9s9MiyK1GKlef4TMN) | [Carol of the Bells](https://open.spotify.com/album/5MJwxkGvLqvkoPcP0JbYC4) | 2:09 |

@@ -4,7 +4,7 @@
 
 > 
 
-755 songs - 1 day 12 hr 15 min
+756 songs - 1 day 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [I Slay Bitches](https://open.spotify.com/track/5VnSJYbKx5bf26vOFaaVgF) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:50 | 2023-01-03 | 2023-12-14 |
 | [i wanna know](https://open.spotify.com/track/2YgvTYJbzUDR1FUXejWGiu) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [K Suave](https://open.spotify.com/artist/5quPjryJ2Pn2qmiPAbGtbz) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 1:59 | 2022-12-21 | 2023-05-09 |
 | [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 | 2023-03-19 | 2023-12-14 |
+| [Ice \(feat\. Gunna & Lil Baby\)](https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:57 | 2024-08-22 |  |
 | [Ice Melt](https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 2:28 | 2024-06-25 |  |
 | [IDK](https://open.spotify.com/track/3okt3nuNT8pNPzxuUeDrvL) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:28 | 2023-01-20 | 2023-05-09 |
 | [If I Like It, I Do It](https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Emergency on Planet Earth \(Remastered\)](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM) | 4:52 | 2023-10-31 | 2024-03-05 |

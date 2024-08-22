@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-569 songs - 1 day 17 hr 53 min
+571 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,8 @@
 | [Joon Joon](https://open.spotify.com/track/4bvYjigpZKzUfSEwwp8pru) | [Liraz](https://open.spotify.com/artist/0qTgfqWyTcC1VAYn2vSMpk) | [Zan](https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77) | 3:42 | 2024-03-08 |  |
 | [Joropo](https://open.spotify.com/track/5Ze8tw2wAOPSiAMvCcs1hf) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [La Mano Ajena](https://open.spotify.com/album/1nQyDzLYLsNNPWcVmKXJCX) | 4:17 | 2023-07-10 |  |
 | [Já Sei Namorar \- 2004 Digital Remaster](https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 3:16 | 2023-07-10 | 2024-04-19 |
-| [Kaalai](https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe) | [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kaalai](https://open.spotify.com/album/4d7mInaZfisSx3qUNNk2vq) | 3:24 | 2024-03-08 |  |
+| [Ka moun kè](https://open.spotify.com/track/3rCJPCJTJRUxvCduWDVprx) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Beautiful Africa](https://open.spotify.com/album/5gCev1aMAHiG6qmS32mfzj) | 6:26 | 2024-08-21 |  |
+| [Kaalai](https://open.spotify.com/track/51JOTU8OWBWMXGsHgB4CMe) | [9 grader nord](https://open.spotify.com/artist/1xcIsuvQgFhZmqUo1s9eMm) | [Kaalai](https://open.spotify.com/album/4d7mInaZfisSx3qUNNk2vq) | 3:24 | 2024-03-08 | 2024-08-22 |
 | [Kadia Blues](https://open.spotify.com/track/6W9zUJcakKsIBxw4yKfe2b) | [Orchestre de la Paillote](https://open.spotify.com/artist/1VOknf5hdVCEMuH9BoD2bF) | [Syliphone, 40ème anniversaire, Vol\. 2](https://open.spotify.com/album/70vnxeeitOd14Roe0MYFr0) | 4:46 | 2023-07-10 | 2024-04-19 |
 | [Khuda Bhi Aasman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5lZX0cZpdT3Y10uJ3oR17s) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Spotify Singles](https://open.spotify.com/album/3oQcSwlUB1l2bANoqtDKKU) | 3:59 | 2023-07-10 | 2024-02-22 |
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2023-07-10 | 2024-04-19 |
@@ -275,6 +276,7 @@
 | [Klockorna Ringer](https://open.spotify.com/track/3OX45WBeEtiDY5jytR0h3m) | [Kolonien](https://open.spotify.com/artist/1Grb25RtI3EIYzL2r2yLy4) | [Drömmarnas Land](https://open.spotify.com/album/60aMM9RNt1oBmyyJaJm7KA) | 5:10 | 2024-03-08 |  |
 | [Kokonibaka](https://open.spotify.com/track/0a5iBtLboMmPfMqnk2ObID) | [William Takaku](https://open.spotify.com/artist/2GDr1oliMRmvo2lmsQK5wG), [Pidia Kaur Group](https://open.spotify.com/artist/5RmShz1JR97ThBgsppiS45), [Kamalita Tibola](https://open.spotify.com/artist/4cqzpGDoc4KxWWQ4ON9A40) | [Bibirosi](https://open.spotify.com/album/2uBITvXXAuR9mXDLaqdZnC) | 2:09 | 2024-01-05 |  |
 | [Kore](https://open.spotify.com/track/2kwR2Pn5VJLlPC3YNLaCHB) | [Kalascima](https://open.spotify.com/artist/1acohDeLRljkfO96ZGljM1) | [Psychedelic trance tarantella](https://open.spotify.com/album/3kvIYH5ZmicLwUcu805Nt7) | 3:59 | 2024-03-08 |  |
+| [Koronoko](https://open.spotify.com/track/2kbOoMtZWyDWW2y2UT9dF1) | [Rokia Traore](https://open.spotify.com/artist/0YFHFMnjYSLQLPUQDYQ1LF) | [Africa Express Presents...](https://open.spotify.com/album/0Dg03V02HduzUmPSOPugW1) | 4:32 | 2024-08-21 |  |
 | [Kossa Kossa](https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Resistance](https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D) | 4:08 | 2023-07-10 | 2024-04-19 |
 | [Kumbayeo](https://open.spotify.com/track/2mR5kqpXgOndUkU58lXpJW) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo](https://open.spotify.com/album/1DrwaqSy2xFgp40GW9eS6q) | 3:34 | 2023-07-10 |  |
 | [Kısasa Kısas](https://open.spotify.com/track/3naJnJl1edDdQ3WMkFOkd6) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/629MwG1lyg2eWBzTlc3fja) | 3:49 | 2024-03-08 |  |
@@ -479,7 +481,7 @@
 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 | 2023-07-10 | 2024-04-19 |
 | [Sueña](https://open.spotify.com/track/36AqjVOrwb29Xc31RBDJAy) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr), [Zeudi Castañeda](https://open.spotify.com/artist/3pwMCl20rE77YMGgCanTif) | [Esperanza](https://open.spotify.com/album/6Xsju25I5pCP0cCNgXs2iv) | 3:04 | 2023-07-10 |  |
 | [Sueños De Libertad](https://open.spotify.com/track/13wni7XVGxszlUbQ9tByJK) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:33 | 2024-03-08 |  |
-| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 |  |
+| [Supernova](https://open.spotify.com/track/4CPpoQbZftMNHd3NjirWLk) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [Supernova \(Remixes\)](https://open.spotify.com/album/4jzi6QFj69WtIzn8cPqaEj) | 5:42 | 2024-03-08 | 2024-08-22 |
 | [Suumo](https://open.spotify.com/track/41jAZRB7AjJZNOzAgCkvrM) | [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Y Su Descarga Internacional](https://open.spotify.com/album/5lCofRvucN41wJestulzNM) | 5:14 | 2024-03-08 |  |
 | [Só Nós Dois](https://open.spotify.com/track/3yiXy2ydZP9ZpsYxvUI6sO) | [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Só Nós Dois](https://open.spotify.com/album/0riMkWHIG90iXfB2WKQTq3) | 3:48 | 2023-07-10 |  |
 | [Ta Lassa \- Hide & Smile Edit](https://open.spotify.com/track/4zO3tHghEN89LhG7zbMGtk) | [International Soleil Band](https://open.spotify.com/artist/3Btuf1RlPWMzHASwRufaNs), [Hide & Smile](https://open.spotify.com/artist/19WmN3fivUDmFsGcxXmlQ8) | [Ta Lassa](https://open.spotify.com/album/6EnZA0e6ioxGM68gWinLlv) | 6:16 | 2023-07-10 | 2023-09-24 |

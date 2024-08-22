@@ -1,12 +1,12 @@
 {
-  "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 43223,
+  "description": "This Is Brian Eno. Los temas esenciales, todos en una lista.",
+  "num_followers": 43230,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAABLa0RyYRWhjTrvAMLEg/Yf",
+  "snapshot_id": "ZsPcgAAAAAAPn8RPV70LpyE4PbLnQ6cS",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 143133,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx"
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambient 1: Music For Airports (Remastered 2004)",
-        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
+        "name": "Music For Films",
+        "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 578466,
-      "name": "2/2 - Remastered 2004",
-      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
+      "duration_ms": 129660,
+      "name": "Strange Light - Remastered 2005",
+      "url": "https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music For Films",
-        "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
+        "name": "Ambient 1: Music For Airports (Remastered 2004)",
+        "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 129660,
-      "name": "Strange Light - Remastered 2005",
-      "url": "https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU"
+      "duration_ms": 578466,
+      "name": "2/2 - Remastered 2004",
+      "url": "https://open.spotify.com/track/3QpN3dazIcMNqru0L1qLMt"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eno: Soft Edges",
-        "url": "https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Thursday Afternoon - Edit",
-      "url": "https://open.spotify.com/track/6iDZTMT9xdH84NS4N5L39x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cluster & Eno",
         "url": "https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 185720,
       "name": "Sch\u00f6ne H\u00e4nde",
       "url": "https://open.spotify.com/track/1WbwlYiiMZGQlrFGirRnHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eno: Soft Edges",
+        "url": "https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Thursday Afternoon - Edit",
+      "url": "https://open.spotify.com/track/6iDZTMT9xdH84NS4N5L39x"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambient 4: On Land (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "A Clearing - Remastered 2004",
+      "url": "https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eno: Soft Edges",
         "url": "https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 284133,
       "name": "Lay My Love",
       "url": "https://open.spotify.com/track/1i75wN1NJ6oaWeVZPK2A03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambient 4: On Land (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 247946,
-      "name": "A Clearing - Remastered 2004",
-      "url": "https://open.spotify.com/track/4y5qZUZU5sojHT033PFP26"
     }
   ],
   "unique_name": "This Is Brian Eno",

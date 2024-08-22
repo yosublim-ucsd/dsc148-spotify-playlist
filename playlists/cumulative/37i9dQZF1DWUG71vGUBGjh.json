@@ -1645,6 +1645,24 @@
     },
     {
       "album": {
+        "name": "San Francisco Moog: 1968-72 Vol. 1",
+        "url": "https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl"
+      },
+      "artists": [
+        {
+          "name": "Doug McKechnie",
+          "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263986,
+      "name": "Meditation Moog 1968",
+      "url": "https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B"
+    },
+    {
+      "album": {
         "name": "Empetus (Deluxe)",
         "url": "https://open.spotify.com/album/5lNtJpNTrgKgCmzBrIAbVr"
       },
@@ -2974,6 +2992,24 @@
       "duration_ms": 149000,
       "name": "The Elephant Never Forgets",
       "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
+    },
+    {
+      "album": {
+        "name": "San Francisco Moog: 1968-72 Vol. 1",
+        "url": "https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl"
+      },
+      "artists": [
+        {
+          "name": "Doug McKechnie",
+          "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511000,
+      "name": "The First Exploration @ SF Radical Laboratories, 1968",
+      "url": "https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ"
     },
     {
       "album": {

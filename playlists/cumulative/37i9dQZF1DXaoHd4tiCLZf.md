@@ -4,7 +4,7 @@
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-328 songs - 19 hr 16 min
+329 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Take Your Time](https://open.spotify.com/track/6DuyuK0HwY9JNT7Bm43d3e) | [Bordo](https://open.spotify.com/artist/72K9oqBkV73DcEyBVHznA6) | [Take Your Time](https://open.spotify.com/album/0umkqDHrrJPdsPqZAsMkvP) | 2:02 | 2024-08-15 |  |
 | [Tattoo](https://open.spotify.com/track/0WGxVuh7aY0f8AaQa6b8Ml) | [Les Filles & Christopher](https://open.spotify.com/artist/3e50327fCwO1HRUjipDkaJ) | [Tattoo](https://open.spotify.com/album/2r4yh3DlyyGBBvfSJtHGTV) | 3:36 | 2024-08-15 |  |
 | [Te Faire Danser](https://open.spotify.com/track/7grYByqGnmImhyQ8UeTvHt) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Te Faire Danser](https://open.spotify.com/album/4sZXgqcJlXkvY8CdQDUnHP) | 2:34 | 2024-08-15 |  |
+| [Tellement tellement](https://open.spotify.com/track/74Xe2Ooq7hHHZvxW6EMaVg) | [PETITE](https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO) | [Tellement tellement](https://open.spotify.com/album/7BQNQr2ZsUfitQMCVULvDz) | 3:30 | 2024-08-21 |  |
 | [Tenir droit](https://open.spotify.com/track/1fmLevSes3HHyshFJC3gaE) | [Mélissende](https://open.spotify.com/artist/1WQ43Zwk8Ry5Q6Y46OWJkt) | [Tenir droit](https://open.spotify.com/album/1owRM89pHZPQDgRgxtXpjr) | 3:13 | 2022-05-20 | 2024-07-27 |
 | [Tes cheveux](https://open.spotify.com/track/461PWNoTnufgHNrhgD71SU) | [Juniore](https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH) | [Un, Deux, Trois bonus](https://open.spotify.com/album/5hm39QHbLnSsRIHrutU3Dc) | 3:52 | 2022-12-21 |  |
 | [The Answer](https://open.spotify.com/track/73SdiIprWfIdbCFq4bOGIx) | [Cezaire](https://open.spotify.com/artist/6BqtukFFVB3LgyyOIH8t1z), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [The Answer](https://open.spotify.com/album/2rTrnlbnApKlVbscvE33qR) | 3:37 | 2022-12-21 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 470672,
+  "num_followers": 470769,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pup Slushy",
-        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 329462,
-      "name": "Pup Slushy",
-      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/0k7JEia5VMjsgAMTSsvH61"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 214602,
       "name": "Restless",
       "url": "https://open.spotify.com/track/5mQjywJBjvmuqWfWwYR0q0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Pup Slushy",
+        "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 329462,
+      "name": "Pup Slushy",
+      "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Social Distancing EP",
-        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
-      },
-      "artists": [
-        {
-          "name": "Babsy",
-          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
-        }
-      ],
-      "duration_ms": 312304,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -535,6 +519,26 @@
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "SETRA",
+        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+      },
+      "artists": [
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Setra",
+      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -559,22 +563,34 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "SETRA",
-        "url": "https://open.spotify.com/album/3Gs41oQERljW26cLyr3YG4"
+        "name": "Social Distancing EP",
+        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
       },
       "artists": [
         {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        },
-        {
-          "name": "Glimlip",
-          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Setra",
-      "url": "https://open.spotify.com/track/4L3YA6fhW1IBGCw1ZnPNIu"
+      "duration_ms": 312304,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+      },
+      "artists": [
+        {
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+        }
+      ],
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
-      },
-      "artists": [
-        {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
-        }
-      ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "199X",
         "url": "https://open.spotify.com/album/3P8J6rHmSgyeq3lJF0ijIF"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 213333,
       "name": "199X",
       "url": "https://open.spotify.com/track/2K3GOGsD0FEKMkqyK8uTbP"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Blue Pigments",
+        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
+      },
+      "artists": [
+        {
+          "name": "Norabel",
+          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
+        }
+      ],
+      "duration_ms": 130388,
+      "name": "Pigments",
+      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -659,22 +675,6 @@
       "duration_ms": 287213,
       "name": "Into The Sun",
       "url": "https://open.spotify.com/track/7IOfpG6bLNSqz2KfDDvbt0"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Blue Pigments",
-        "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
-      },
-      "artists": [
-        {
-          "name": "Norabel",
-          "url": "https://open.spotify.com/artist/02weRmIvfXFNR4FAIXEQSo"
-        }
-      ],
-      "duration_ms": 130388,
-      "name": "Pigments",
-      "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Passeggiata",
+        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
+      },
+      "artists": [
+        {
+          "name": "Vera Fernandez",
+          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Tavolo",
+      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Everytime (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/00tUn0L1LYxlimWjRsk97P"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 221166,
       "name": "Everytime - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/01VnZjisHsm8XCYmsUYtgZ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Passeggiata",
-        "url": "https://open.spotify.com/album/56YPnlO2w75XGTWwKVy4VI"
-      },
-      "artists": [
-        {
-          "name": "Vera Fernandez",
-          "url": "https://open.spotify.com/artist/0sJNpkJzyYO9RlsB7hcIWw"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Tavolo",
-      "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
     },
     {
       "added_at": "2024-07-26 04:00:00",

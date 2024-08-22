@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Romance in the House\. \(가족X멜로의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-27 songs - 1 hr 44 min
+33 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,13 @@
 | [Balloons](https://open.spotify.com/track/4Q8XZAsvHH5wCPisKMisH5) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [O\-正.反.合\. \- The 3rd Album](https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee) | 3:49 | 2024-08-14 |  |
 | [Blue Whale \- 2016 Version](https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [REMIND](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) | 3:21 | 2024-08-14 |  |
 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 | 2024-08-14 |  |
+| [Curated by Choi Minho](https://open.spotify.com/track/2FCGNWDRgWCIgH3f9uBUPd) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:37 | 2024-08-21 |  |
+| [Curated by Ji Jin\-hee](https://open.spotify.com/track/6q2jnr7n0ZhoeSbFxLx0aY) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:36 | 2024-08-21 |  |
+| [Curated by Kim Jisu](https://open.spotify.com/track/4gAl9Dgmbp299EvCzVeCuX) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:36 | 2024-08-21 |  |
+| [Curated by Son Na Eun](https://open.spotify.com/track/4EL1rKzISMO9vwg8zGDfIm) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:30 | 2024-08-21 |  |
+| [Curated by Yoon San\-ha](https://open.spotify.com/track/4b37BdheAbpLhdJm38yU9x) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:45 | 2024-08-21 |  |
 | [Dear\. Mom](https://open.spotify.com/track/2LXGsLRNmRDBbUANxOsicK) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 4:05 | 2024-08-14 |  |
+| [Don't Remember](https://open.spotify.com/track/5MbDe3cIQYBi4mEOyGbkGF) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Romance in the House \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6fSuvcnRZC7iSw83u9As2E) | 3:12 | 2024-08-21 |  |
 | [Don't worry](https://open.spotify.com/track/5Q77F62i7cm9X88azmIYg2) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 Director's Cut \(Original Television Soundtrack\)](https://open.spotify.com/album/2hTA3o6wCQ6898Fv318PMX) | 3:51 | 2024-08-14 |  |
 | [Draw You](https://open.spotify.com/track/0H0y0FaLdXKdxnHSIJXGYe) | [d.ear](https://open.spotify.com/artist/0WzStLpjrpXOXFeK4QE8ns) | [LOVE GRAPHY](https://open.spotify.com/album/421Pv93Tm5feCT95wcVtlI) | 3:19 | 2024-08-14 |  |
 | [Easy](https://open.spotify.com/track/6mw3dGENJYBDUZeHIcvLyR) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee](https://open.spotify.com/album/06mXsfCdPU4NwdWM7TDQY5) | 4:30 | 2024-08-14 |  |
@@ -22,7 +28,7 @@
 | [Merry\-Go\-Round \(Christmas Edition\)](https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Merry\-Go\-Round \(Christmas Edition\)](https://open.spotify.com/album/18ZqTGZm6gid6WIsIhH4H7) | 3:53 | 2024-08-14 |  |
 | [Mom](https://open.spotify.com/track/7LFBL87bWBMxQ1xuUgdYh8) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Realcollabo](https://open.spotify.com/album/2RfFST51PP9pnbbuBe06kc) | 5:04 | 2024-08-14 |  |
 | [Neverland](https://open.spotify.com/track/4bUOvMzcR9G6qE3qqIMgmd) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 | 2024-08-14 |  |
-| [Neverland \- Instrumental](https://open.spotify.com/track/0guHWDiSb4z4nwbm0sozxs) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 | 2024-08-14 |  |
+| [Neverland \- Instrumental](https://open.spotify.com/track/0guHWDiSb4z4nwbm0sozxs) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Romance in the House \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/4JmbCcuAGJm10DtWJRUMrY) | 2:55 | 2024-08-14 | 2024-08-22 |
 | [Replay](https://open.spotify.com/track/1rp986nzkyAX1wFpxzbwlC) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [The SHINee World \- The First Album](https://open.spotify.com/album/2aiM53N5DGm5VXnfjswpI7) | 3:33 | 2024-08-14 |  |
 | [Stand and Deliver](https://open.spotify.com/track/26UtMfMsdOlhADitgUuqCG) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Patrick Droney](https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31) | 3:43 | 2024-08-14 |  |
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2024-08-14 |  |

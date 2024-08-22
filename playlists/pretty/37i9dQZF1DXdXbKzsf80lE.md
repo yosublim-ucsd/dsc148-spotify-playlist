@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,412 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,433 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 53 | [Nunca Foi Amor](https://open.spotify.com/track/5vVKicXL5lVAUF4zcvscK6) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Foi Amor](https://open.spotify.com/album/7zcWa1hJwzlG4DIdYyN12d) | 2:44 |
 | 54 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
 | 55 | [Lovezão da Porra](https://open.spotify.com/track/3LrhQhUHudX7SOa2uYHO50) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Lovezão da Porra](https://open.spotify.com/album/6K5XxHJwvR1F0EXQm3AcBO) | 2:59 |
-| 56 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
+| 56 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
 | 57 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 |
 | 58 | [Então Vem Cá \- Ao Vivo](https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Ao Vivo Em São Paulo \- Deluxe](https://open.spotify.com/album/4yqE9BgU3r6tMfR3cVhwEw) | 2:57 |
 | 59 | [Adivinha Aí](https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Adivinha Aí](https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj) | 2:36 |
-| 60 | [Edilene](https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Edilene](https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN) | 3:09 |
-| 61 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
+| 60 | [Saudade de Mim](https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Saudade de Mim](https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr) | 3:01 |
+| 61 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
 | 62 | [Vazou um Áudio \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Vazou um Áudio \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP) | 2:31 |
 | 63 | [Tá Faltando Eu](https://open.spotify.com/track/3jr84zsemJUVRODvbteOoX) | [Luan Estilizado](https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc) | [Tá Faltando Eu](https://open.spotify.com/album/20jNvanEVYWQOAisswocMx) | 2:28 |
 | 64 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |

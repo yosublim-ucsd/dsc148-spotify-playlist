@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Clarent & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497,985 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,498,017 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 60 | [Hptismo](https://open.spotify.com/track/2ws8zwC1Ax65Z53PvtXgpG) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Hptismo](https://open.spotify.com/album/43V3YFdu1wK59byU3U3nOO) | 4:10 |
 | 61 | [VVS Switch](https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [VVS Switch](https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg) | 2:48 |
 | 62 | [UuU 2](https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [UuU 2](https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO) | 5:08 |
-| 63 | [LOS DUEÑOS DE LA CALLE \- Remix](https://open.spotify.com/track/772VU8O47TkYt9Dxf6kZYE) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [LOS DUEÑOS DE LA CALLE \(Remix\)](https://open.spotify.com/album/1bMraLBSDiOxNs3G4bf4dL) | 5:06 |
+| 63 | [LOS DUEÑOS DE LA CALLE \- Remix](https://open.spotify.com/track/772VU8O47TkYt9Dxf6kZYE) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [LOS DUEÑOS DE LA CALLE \- Remix](https://open.spotify.com/album/1bMraLBSDiOxNs3G4bf4dL) | 5:06 |
 | 64 | [Los Que Son](https://open.spotify.com/track/0drasydwJPcgoLLDXFSMs6) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Que Son](https://open.spotify.com/album/15gBPq4jfgreZB7CqnIj0n) | 3:15 |
 | 65 | [Bendecido](https://open.spotify.com/track/3ZV60LVhqQ2uHXG6LL6F0V) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:22 |
 | 66 | [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 |

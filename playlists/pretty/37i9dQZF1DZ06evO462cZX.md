@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This Is Deorro\. Los temas esenciales, todos en una lista.
+> This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,237 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,250 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 40 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 41 | [Shakalaka \(feat\. Max Styler\)](https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Shakalaka \(feat\. Max Styler\)](https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY) | 2:56 |
 | 42 | [¡MAS CRAZY!](https://open.spotify.com/track/5BZlwePMT2J54TWq7Eaks7) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [¡MAS CRAZY!](https://open.spotify.com/album/5rSmIwMeJMNV2eBK6JJvQx) | 2:34 |
-| 43 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 |
-| 44 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 |
+| 43 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 |
+| 44 | [Dime](https://open.spotify.com/track/0viGP2KObHj3kYPnUt8OcK) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Se Agradece](https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2) | 3:35 |
 | 45 | [Turn Back Time \(feat\. Teemu\)](https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:49 |
 | 46 | [Still \- Deorro Remix](https://open.spotify.com/track/0DIceiF32etShjQgrByM5n) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Still \(Deorro Remix\)](https://open.spotify.com/album/1jC3vHPrb6jGROaQE8ptXu) | 2:44 |
-| 47 | [Esta Vida \- Deorro Remix](https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Esta Vida \(Deorro Remix\)](https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl) | 3:59 |
-| 48 | [Se Vuelve Loca](https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 2:52 |
+| 47 | [Se Vuelve Loca](https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 2:52 |
+| 48 | [Esta Vida \- Deorro Remix](https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Esta Vida \(Deorro Remix\)](https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl) | 3:59 |
 | 49 | [Freak \(feat\. Steve Bays\)](https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Steve Bays](https://open.spotify.com/artist/6vomg8FUuwmHqjYSQXL6SO) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:41 |
 | 50 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
 | 51 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 
-Snapshot ID: `ZsKLAAAAAAB4YWs2IpTfuy2/nlk0zw3g`
+Snapshot ID: `ZsPcgAAAAABPajlJrlrflR+p/wiZ1ZZu`

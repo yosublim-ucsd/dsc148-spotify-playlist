@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 128500,
       "name": "Auf dem Weg",
       "url": "https://open.spotify.com/track/0Ku0BoIMWmwcvKm8mOMrki"
@@ -906,6 +906,24 @@
       "duration_ms": 140200,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK"
+      },
+      "artists": [
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132901,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp"
     },
     {
       "album": {
@@ -1912,7 +1930,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 169383,
       "name": "So So Def (feat. Summer Cem & Nimo)",
       "url": "https://open.spotify.com/track/5g6kQitL4OSo9tWkWDGkNT"
@@ -2378,6 +2396,24 @@
       "duration_ms": 148653,
       "name": "Yugo jebe dugo",
       "url": "https://open.spotify.com/track/60slX18toWLokyfTvL4Mkz"
+    },
+    {
+      "album": {
+        "name": "Zemer",
+        "url": "https://open.spotify.com/album/1ycMDahcVTL9gMDQG6Sr2I"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134788,
+      "name": "Zemer",
+      "url": "https://open.spotify.com/track/1RC4uLbhnXE6bZUVXlJKky"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre"

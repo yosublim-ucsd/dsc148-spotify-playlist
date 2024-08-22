@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,793 likes - 313 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 313 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,8 +272,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 262 | [Me Too](https://open.spotify.com/track/7sqrit5R5kBEQ7yZENxvZB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:28 |
 | 263 | [Blowing The Speakers](https://open.spotify.com/track/794HAqmMJaLZAFWiNhXhaL) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Extinction Level Event 2: The Wrath of God \(Reloaded\)](https://open.spotify.com/album/5igW9I1J6tjmUWHN6PGLte) | 3:18 |
 | 264 | [Bigger in Texas](https://open.spotify.com/track/0x3R23PwarBJhGuzwW8hNm) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:13 |
-| 265 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 |
-| 266 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 265 | [Thank You Come Again](https://open.spotify.com/track/2TzzuP16s181AccGrXcDu7) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [BAMESIS](https://open.spotify.com/album/402aahHNiFYPoNKZRg7GaF) | 2:45 |
+| 266 | [Whip\-It](https://open.spotify.com/track/3gIk2QR7SdWfOcrNBItrYA) | [1UP](https://open.spotify.com/artist/7IbckQDhWF6ppQmWT5kCF7) | [Whip\-It](https://open.spotify.com/album/5ZSPQPfFMu0s3mpTL1sKpI) | 4:31 |
 | 267 | [Murda \(with Murda Beatz feat\. Toosii\)](https://open.spotify.com/track/0RvSaJ0W8n89cb0uVoV9H8) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Welcome To 4 Vegas](https://open.spotify.com/album/5o1mQH493nGffEPnxekTR6) | 2:42 |
 | 268 | [Drink](https://open.spotify.com/track/6GMIL1PfCZwsEG1QaP7ewz) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:26 |
 | 269 | [STAY](https://open.spotify.com/track/2oUDKHh167OCCMM2gsuriP) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [MANN IM HAUS](https://open.spotify.com/album/39cLzKdoghJ200CzrrZRUh) | 2:00 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 271 | [Here We Go Again](https://open.spotify.com/track/0UjreU6H687kMaZd6Vl3jo) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [MOTIONS](https://open.spotify.com/album/7aWTt4WJJdlObKHDWjH8x8) | 2:37 |
 | 272 | [Payback](https://open.spotify.com/track/09wHCkCytuJW7wRx7idH54) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Do Not Disturb](https://open.spotify.com/album/5FqDmgwHHtCDFRmNyOBJ9Q) | 2:00 |
 | 273 | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/track/5Rsz2OB6mMEZuUbnrZfdpg) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi), [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS), [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Humana \(feat\. Donnie & Smoke Dawg\)](https://open.spotify.com/album/782EfY56wSjLrBndf5u4X5) | 3:13 |
-| 274 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
-| 275 | [First Kiss \(feat\. Baby B\)](https://open.spotify.com/track/6gjmDDykrR94ICwRfCx7Gf) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Baby B](https://open.spotify.com/artist/27ZbiMM7xyzIzM68B6fS7q) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:21 |
+| 274 | [First Kiss \(feat\. Baby B\)](https://open.spotify.com/track/6gjmDDykrR94ICwRfCx7Gf) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Baby B](https://open.spotify.com/artist/27ZbiMM7xyzIzM68B6fS7q) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:21 |
+| 275 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 276 | [Pop a Perc](https://open.spotify.com/track/64eOzETJF1AFOzYOrdZEEe) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [Pop a Perc](https://open.spotify.com/album/2i0WhNLcP8fbFmCD20AIjk) | 3:22 |
 | 277 | [Farmers Market](https://open.spotify.com/track/1v58rKXHAc5dqxEXKWC3ql) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:27 |
 | 278 | [A Nice Time](https://open.spotify.com/track/4eb21fsZhCL2l5Q2C7a2c1) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 3:03 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 312 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 313 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `AbZ9PgAAAABCfB/sXQN013QOGueq0KOn`
+Snapshot ID: `AbaC3gAAAAAXt2g4kDuSignMLnN6JYhk`

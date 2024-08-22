@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,941 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,021 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 96 | [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 |
 | 97 | [Wish I Said I Love You](https://open.spotify.com/track/0J9xmb04HpXvAFC7krKY9m) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [meka maraschino](https://open.spotify.com/artist/2CF7xMG5rTOrrNotNG49Dn) | [Wish I Said I Love You](https://open.spotify.com/album/1iWNb3YzSCVxIsOpHk2PQy) | 2:34 |
 | 98 | [You Can Count On Me](https://open.spotify.com/track/63zB2o0u28X046oIFO2ou1) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Waiting on the Sidelines](https://open.spotify.com/album/5kABgENIqXOEWtN3o6rcPn) | 4:09 |
-| 99 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
+| 99 | [Great Wind](https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Deluxe](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:59 |
 | 100 | [You](https://open.spotify.com/track/1GEHrWzUGuhQ7bg97fuaGo) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [You](https://open.spotify.com/album/3z5YjcnJlmbr3Ftzu83K7u) | 3:00 |
 
 Snapshot ID: `Zr7OwAAAAACo4L1iYHExAzxgK+8+r9bB`

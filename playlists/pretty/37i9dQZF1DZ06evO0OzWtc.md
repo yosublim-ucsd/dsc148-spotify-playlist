@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OzWtc.md) - [plain]
 
 ### [This Is Sebastian Esquivel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OzWtc)
 
-> This Is Sebastian Esquivel\. Zásadní skladby, všechny v jednom playlistu.
+> This Is Sebastian Esquivel\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172 likes - 26 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,171 likes - 26 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OzWtc.md) - [plain]
 | 25 | [El Rápido \- En Vivo](https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 3:34 |
 | 26 | [Bélico el Asunto \(Tolin Infante\) \- En Vivo](https://open.spotify.com/track/6y12FgosWycm24wbCkVYrv) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 4:31 |
 
-Snapshot ID: `ZsKLAAAAAACuyvBt9Vzs5OPAaP0rcnaP`
+Snapshot ID: `ZsPcgAAAAABnPae5NtgXYd4nvJkZT6W6`

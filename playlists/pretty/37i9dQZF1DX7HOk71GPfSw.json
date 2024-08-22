@@ -1,12 +1,12 @@
 {
   "description": "tsubi club is back",
-  "num_followers": 462353,
+  "num_followers": 462361,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr+TKAAAAABVx5fV2yfin3jMtlMYuhbt",
+  "snapshot_id": "ZsZIUwAAAACPOnPnOIqxZzl1PfG6KGWu",
   "tracks": [
     {
       "added_at": "2024-08-16 17:58:00",
@@ -43,6 +43,22 @@
       "duration_ms": 223365,
       "name": "Flash in the Pan",
       "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "rotation",
+        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "rotation",
+      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
     },
     {
       "added_at": "2024-08-03 15:58:38",
@@ -113,6 +129,38 @@
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+        "url": "https://open.spotify.com/album/1cWKLjrR7KbXulcyJGRW4A"
+      },
+      "artists": [
+        {
+          "name": "PIAO",
+          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
+        }
+      ],
+      "duration_ms": 175595,
+      "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
+      "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
+    },
+    {
+      "added_at": "2024-06-07 05:00:00",
+      "album": {
+        "name": "PINK LIKE SUKI",
+        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
+      },
+      "artists": [
+        {
+          "name": "Pebbles&TamTam",
+          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
+        }
+      ],
+      "duration_ms": 150169,
+      "name": "PINK LIKE SUKI",
+      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
+    },
+    {
       "added_at": "2024-08-07 19:00:47",
       "album": {
         "name": "just not sure",
@@ -131,38 +179,6 @@
       "duration_ms": 170206,
       "name": "just not sure",
       "url": "https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV"
-    },
-    {
-      "added_at": "2024-08-16 17:58:00",
-      "album": {
-        "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
-        "url": "https://open.spotify.com/album/1cWKLjrR7KbXulcyJGRW4A"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 175595,
-      "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
-      "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
-    },
-    {
-      "added_at": "2024-08-16 17:58:00",
-      "album": {
-        "name": "rotation",
-        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
-      },
-      "artists": [
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "rotation",
-      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -241,24 +257,20 @@
       "url": "https://open.spotify.com/track/6pINwW2mGSK0LCDv6cYHMJ"
     },
     {
-      "added_at": "2024-08-16 17:58:00",
+      "added_at": "2024-05-14 16:01:28",
       "album": {
-        "name": "Not In Your Nature",
-        "url": "https://open.spotify.com/album/59MLyNyQuok3MrpLtMQxmn"
+        "name": "2009",
+        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
       },
       "artists": [
         {
-          "name": "purpl",
-          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
-        },
-        {
-          "name": "pinkpirate",
-          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+          "name": "biblemami",
+          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
         }
       ],
-      "duration_ms": 188206,
-      "name": "Not In Your Nature",
-      "url": "https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS"
+      "duration_ms": 142973,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -279,22 +291,6 @@
       "duration_ms": 184320,
       "name": "aare",
       "url": "https://open.spotify.com/track/18DympU8DkoXjNNraGQy9y"
-    },
-    {
-      "added_at": "2024-06-07 05:00:00",
-      "album": {
-        "name": "PINK LIKE SUKI",
-        "url": "https://open.spotify.com/album/1V25vUnBtkGB5EI0GqaMnB"
-      },
-      "artists": [
-        {
-          "name": "Pebbles&TamTam",
-          "url": "https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of"
-        }
-      ],
-      "duration_ms": 150169,
-      "name": "PINK LIKE SUKI",
-      "url": "https://open.spotify.com/track/75aKhlE0JTqaVuTsDDdtD3"
     },
     {
       "added_at": "2024-06-25 19:39:18",
@@ -337,22 +333,6 @@
       "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
     },
     {
-      "added_at": "2024-05-14 16:01:28",
-      "album": {
-        "name": "2009",
-        "url": "https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk"
-      },
-      "artists": [
-        {
-          "name": "biblemami",
-          "url": "https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV"
-        }
-      ],
-      "duration_ms": 142973,
-      "name": "2009",
-      "url": "https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H"
-    },
-    {
       "added_at": "2024-06-14 05:37:00",
       "album": {
         "name": "360",
@@ -383,6 +363,26 @@
       "duration_ms": 184626,
       "name": "Stupid (Can\u2019t run from the urge)",
       "url": "https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "Not In Your Nature",
+        "url": "https://open.spotify.com/album/59MLyNyQuok3MrpLtMQxmn"
+      },
+      "artists": [
+        {
+          "name": "purpl",
+          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
+        },
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "duration_ms": 188206,
+      "name": "Not In Your Nature",
+      "url": "https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS"
     },
     {
       "added_at": "2024-08-09 04:00:00",

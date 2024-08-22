@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Guilherme & Benuto, Jorge & Mateus com Henrique & Juliano, MC Kevin  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,373 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,743 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 35 | [Prisão](https://open.spotify.com/track/0EQTNvEq2eHo3BU5cTx24g) | [Ramon no Beat](https://open.spotify.com/artist/6QgjsRpJsdeFhDV5SG42Vu), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Prisão](https://open.spotify.com/album/2T8kDUQdb6b4XW1OxMM5J4) | 3:15 |
 | 36 | [Melodia Favorita](https://open.spotify.com/track/6WeAnBceIXsiRx5XxoHAIm) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Furacão Thauane](https://open.spotify.com/album/1b3ELKNrEC92AnvM8kMKoW) | 3:13 |
 | 37 | [Farra da Michele](https://open.spotify.com/track/1icNmuNWy0RjMAgPZFxeBq) | [Michele Andrade](https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a) | [Farra da Michele](https://open.spotify.com/album/1iAIO7EQI9ViDguHNZollP) | 2:26 |
-| 38 | [Espero Uma Ligação](https://open.spotify.com/track/4PFPCbhCNB5qZ09l28nJBi) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX) | [Espero Uma Ligação](https://open.spotify.com/album/7fS4Zkoc7cLBD91SjHWUrF) | 2:33 |
+| 38 | [Espero Uma Ligação](https://open.spotify.com/track/4PFPCbhCNB5qZ09l28nJBi) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Espero Uma Ligação](https://open.spotify.com/album/7fS4Zkoc7cLBD91SjHWUrF) | 2:33 |
 | 39 | [Bye Bye ou Volta?](https://open.spotify.com/track/39f5nZ98nP1f5bm7Jrzmxd) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Bye Bye ou Volta?](https://open.spotify.com/album/58MwjaWhmByTi5nzT32qJz) | 2:49 |
 | 40 | [Asfalto Selvagem](https://open.spotify.com/track/3cCQPtsEBDGVhupAzHYx48) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Asfalto Selvagem](https://open.spotify.com/album/3l7cmXYZgUZz7DH3o1YtD8) | 2:55 |
 | 41 | [Ménage](https://open.spotify.com/track/0OEWGeGcJXGLI7UMdvhWx4) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA](https://open.spotify.com/album/122yRf2xz5FT2ua5Vbv3tp) | 2:24 |

@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u304b\u3089\u3042\u3052\u5f01\u5f53",
-  "num_followers": 15097,
+  "num_followers": 15120,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u82b1\u7b4f",
-        "url": "https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 275184,
-      "name": "\u82b1\u7b4f",
-      "url": "https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 158500,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u82b1\u7b4f",
+        "url": "https://open.spotify.com/album/5AF20QdRUuCy6hpNO4KKIf"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 275184,
+      "name": "\u82b1\u7b4f",
+      "url": "https://open.spotify.com/track/4TCcHVs43u6sS0ovS0Cq1q"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u30a8\u30a6\u30ec\u30ab",
-        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 184201,
-      "name": "\u30a8\u30a6\u30ec\u30ab",
-      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "\u30e6\u30fc\u30b9\u30ec\u30b9\u30de\u30b7\u30f3",
         "url": "https://open.spotify.com/album/6aD8OohhGkZYwIqx6mbkbO"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 179026,
       "name": "SUMMER PLANNING",
       "url": "https://open.spotify.com/track/4QVz6OjvzefQ1Hi6kKIj8u"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u30a8\u30a6\u30ec\u30ab",
+        "url": "https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 184201,
+      "name": "\u30a8\u30a6\u30ec\u30ab",
+      "url": "https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u541b\u306e\u8857\u307e\u3067",
-        "url": "https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "\u541b\u306e\u8857\u307e\u3067",
-      "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "Terminal",
         "url": "https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 278733,
       "name": "long good-bye",
       "url": "https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u541b\u306e\u8857\u307e\u3067",
+        "url": "https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "\u541b\u306e\u8857\u307e\u3067",
+      "url": "https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG"
     },
     {
       "added_at": "2024-08-13 18:13:44",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-08-13 18:13:44",
       "album": {
-        "name": "\u7fbd\u5316",
-        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
-      },
-      "artists": [
-        {
-          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
-          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "\u904e\u547c\u5438\u611b",
-      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
-    },
-    {
-      "added_at": "2024-08-13 18:13:44",
-      "album": {
         "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
         "url": "https://open.spotify.com/album/5fSOoIC9xzQCy0PDlgjtRx"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 201280,
       "name": "\u30a2\u30a6\u30c8\u30d5\u30a9\u30fc\u30ab\u30b9",
       "url": "https://open.spotify.com/track/2sTxEt2fDr4UDblYvad1gq"
+    },
+    {
+      "added_at": "2024-08-13 18:13:44",
+      "album": {
+        "name": "\u7fbd\u5316",
+        "url": "https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "\u904e\u547c\u5438\u611b",
+      "url": "https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

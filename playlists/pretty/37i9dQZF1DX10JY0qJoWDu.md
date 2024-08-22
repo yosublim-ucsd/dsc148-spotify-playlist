@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,219 likes - 121 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,215 likes - 121 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 23 | [Shake Santa Shake \(from "Shake It Up"\)](https://open.spotify.com/track/5IfCZf4C8zcaww1npKkCn7) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 2:56 |
 | 24 | [Santa Never Sleeps](https://open.spotify.com/track/3e4yzleWWrq00WsnRrxml0) | [Anthony Parnther](https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx) | [Diary of a Wimpy Kid Christmas: Cabin Fever \(Original Soundtrack\)](https://open.spotify.com/album/72NEYxSD50cLeJGy9XhaJt) | 2:40 |
 | 25 | [Elves Just Wanna Have Fun \- From "The Santa Clauses"](https://open.spotify.com/track/3VtNPlYZPNALshmbvb31He) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [Elves Just Wanna Have Fun \(From "The Santa Clauses"\)](https://open.spotify.com/album/1s0YL7lVhIeAP7912Ly0XU) | 1:25 |
-| 26 | [Christmas Is Nearly Here](https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx) | [Mickey Saves Christmas \- Cast](https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh) | [Mickey Saves Christmas \(Original Soundtrack\)](https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu) | 2:19 |
+| 26 | [Christmas Is Nearly Here](https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx) | [Mickey Saves Christmas \- Cast](https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh) | [Mickey Saves Christmas \- Original Soundtrack](https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu) | 2:19 |
 | 27 | [Dancing with My Elf](https://open.spotify.com/track/5F6dhXfQxfxx3FIaMl7Vc1) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [Dancing with My Elf \(From "The Santa Clauses: Season 2"\)](https://open.spotify.com/album/7kDzYXuRLjSNgChDuOeGVy) | 3:50 |
 | 28 | [I See the Light \- From "Tangled" / Soundtrack Version](https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu), [Zachary Levi](https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:44 |
 | 29 | [Let It Go \- From "Frozen / Single Version](https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Frozen \- Original Motion Picture Soundtrack / Deluxe Edition](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:44 |

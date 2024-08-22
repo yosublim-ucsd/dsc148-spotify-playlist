@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,067 likes - 100 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,065 likes - 100 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 23 | [Gracefully Broken](https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:16 |
 | 24 | [Reckless Love](https://open.spotify.com/track/6LSqdwX4xUzP619oYIJMH9) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Road to DeMaskUs](https://open.spotify.com/album/6mLj2XS7RDNh9gyVxUSlT3) | 5:22 |
 | 25 | [More Abundantly Medley \- Live](https://open.spotify.com/track/12Wj5X4UWjSVLEmOVtWCjq) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 6:28 |
-| 26 | [Oh Happy Day \- Live at New Bethel Baptist Church, Detroit, MI \- July 1987](https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Marvis Staples](https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH) | [One Lord, One Faith, One Baptism](https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb) | 6:08 |
-| 27 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
+| 26 | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/track/59YIAjAePBFjRRcJIpdn0K) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Something Has To Break \(feat\. Karen Clark Sheard\)](https://open.spotify.com/album/6uRvS7BE7GbZh9xNMMVCqn) | 5:47 |
+| 27 | [Oh Happy Day \- Live at New Bethel Baptist Church, Detroit, MI \- July 1987](https://open.spotify.com/track/7xaEfxxPbV1GlxNpCoDA11) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Marvis Staples](https://open.spotify.com/artist/2Mihm7BTA7LR57k8BVBehH) | [One Lord, One Faith, One Baptism](https://open.spotify.com/album/1zKoUbxaJwiHOUkWwPM3pb) | 6:08 |
 | 28 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 29 | [Fill Me Up \- Live](https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:58 |
 | 30 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 |

@@ -2,7 +2,7 @@
 
 ### [This Is Luke Combs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49lTA4)
 
-> This is Luke Combs\. The essential tracks, all in one playlist.
+> This Is Luke Combs\. Los temas esenciales, todos en una lista.
 
 71 songs - 4 hr 7 min
 

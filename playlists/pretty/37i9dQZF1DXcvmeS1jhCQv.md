@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: modernlove.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,999 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,007 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 64 | [Slippy](https://open.spotify.com/track/6Y9NFgYQwKpc9QXYsuMuMh) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Blink And You Miss It](https://open.spotify.com/album/1acOMBww6C6RVdKw0ogQem) | 4:15 |
 | 65 | [Passenger Seat](https://open.spotify.com/track/1d0fuygCq7natWK8kelMoY) | [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb) | [Passenger Seat](https://open.spotify.com/album/3NFGSk4DZw8ne96ApAJyqY) | 3:44 |
 | 66 | [Music](https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL) | [Niamh Regan](https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa) | [Music](https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU) | 3:13 |
-| 67 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [Travy](https://open.spotify.com/artist/0iwwee7jRc8wLcyqctaU42), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
+| 67 | [Blockbuster](https://open.spotify.com/track/3okDzr13HrIpP3235TJjFN) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7) | [Blockbuster](https://open.spotify.com/album/1OZntciHhT5iMOG7J1PNnb) | 2:59 |
 | 68 | [violence'66](https://open.spotify.com/track/4hn32lVKaO7sL631XTQbv9) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [violence'66](https://open.spotify.com/album/5Wr1AmrdioU5kwjdBY64ld) | 3:01 |
 | 69 | [She Stays West](https://open.spotify.com/track/4iTlYXo5hFlZHfLfUvBne9) | [Chris Wong](https://open.spotify.com/artist/2D8z8s14OCbvuskrCEhSif) | [She Stays West](https://open.spotify.com/album/7jLhYP19n2Otr0jALno1t1) | 3:52 |
 | 70 | [If This Isn't Love](https://open.spotify.com/track/5U6SrAMCXeHLH6YoLLWXgU) | [TOUCAN](https://open.spotify.com/artist/62qJvoIRvMlDGOrnLvylX0) | [Don't Understand Why](https://open.spotify.com/album/5vq0A4GmKfJMKUGDhsDU4x) | 3:41 |

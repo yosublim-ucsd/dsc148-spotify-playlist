@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 70964,
+  "num_followers": 71007,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADxbyYSCHmSkpVc6e1d5DzZ",
+  "snapshot_id": "ZsPcgAAAAADxMBXwg1TkxAaT3NWMbEtH",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 208478,
+      "name": "SIGNED, SOBER YOU",
+      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 267341,
       "name": "John Deere Green",
       "url": "https://open.spotify.com/track/2yZ8YizgareeDNcqI3NbAH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 208478,
-      "name": "SIGNED, SOBER YOU",
-      "url": "https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 161159,
+      "name": "ALL SHE LEFT WAS ME",
+      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language (Deluxe)",
         "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 192466,
       "name": "Fire up the Night (feat. HARDY)",
       "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 161159,
-      "name": "ALL SHE LEFT WAS ME",
-      "url": "https://open.spotify.com/track/1lyDAuNyaHxGaNNp7rAyne"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dear Joe,",
-        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192367,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 185947,
       "name": "One Of Y\u2019all (feat. HARDY, Rhett Akins & The Cadillac Three)",
       "url": "https://open.spotify.com/track/6Ke28oY4R6nbIqkZAjGFui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Joe,",
+        "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192367,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
     },
     {
       "added_at": null,
@@ -975,6 +975,50 @@
       "duration_ms": 234062,
       "name": "WHERE TO FIND ME",
       "url": "https://open.spotify.com/track/6PpqjWu7fTzXZIeRt4gEOH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Colt Ford",
+          "url": "https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx"
+        }
+      ],
+      "duration_ms": 197314,
+      "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
+      "url": "https://open.spotify.com/track/5jXpVEZgi9NV0Wvq7xuu97"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 196141,
+      "name": "THIS OLE BOY",
+      "url": "https://open.spotify.com/track/1ef578eLDJncvK2SCeXM7y"
     }
   ],
   "unique_name": "This Is HARDY",

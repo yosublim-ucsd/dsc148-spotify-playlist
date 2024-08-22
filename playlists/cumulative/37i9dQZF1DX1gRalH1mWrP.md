@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,272 songs - 2 day 17 hr 37 min
+1,273 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Do You Believe](https://open.spotify.com/track/4lj28SeDWzreBKHmdVmGYg) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Do You Believe](https://open.spotify.com/album/0qA0NVM9BGD9SOx0SVUSCC) | 2:36 | 2021-04-30 | 2021-05-04 |
 | [Do You Believe](https://open.spotify.com/track/71TRhiwsRckqoqO9CcDIE6) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Idea Of Her](https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr) | 2:36 | 2021-04-30 | 2022-04-13 |
 | [Do You Mean \(feat\. Ty Dolla $ign & bülow\)](https://open.spotify.com/track/5MvLsT03RBp67RLoeISCdl) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [World War Joy...Do You Mean](https://open.spotify.com/album/17knWaxhmQjegn5eJgGVyL) | 3:13 | 2019-05-26\* | 2019-07-03 |
+| [Doblexxó](https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Doblexxó](https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ) | 2:56 | 2024-08-16 |  |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-22 | 2023-03-08 |
 | [don't be sad](https://open.spotify.com/track/02iW5boMzeBDVRI0dRE1Yw) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [don't be sad](https://open.spotify.com/album/08Usy71SUwQRT09A7LTTgg) | 2:23 | 2020-08-22 | 2021-04-30 |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-10-11 | 2021-10-13 |
@@ -956,7 +957,7 @@
 | [Save Me](https://open.spotify.com/track/002RM16TLYCpwElukqy8xq) | [Shaun Frank](https://open.spotify.com/artist/0BBwlSQvHHtahgYpLj1wJE), [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Save Me](https://open.spotify.com/album/6mPmAXjvxtS9McNQl4HC3l) | 2:37 | 2021-04-30 | 2022-04-13 |
 | [Save Me](https://open.spotify.com/track/6A6rtRemncYRWtxjXaIPfw) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:22 | 2022-04-12 | 2022-04-20 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-30 | 2022-07-13 |
-| [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-04-15 |  |
+| [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2024-04-15 | 2024-08-22 |
 | [Say It Out Loud](https://open.spotify.com/track/4337exjvSvhrVDDnsGdudL) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees) | [Say It Out Loud](https://open.spotify.com/album/0nvDJTWTs4cUxZMbpY1ds8) | 2:52 | 2021-09-24 | 2022-03-19 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2020-04-29 | 2020-05-02 |
 | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/track/11VApNQCWLJdzxWrlmwzUa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Say So \(feat\. Nicki Minaj\)](https://open.spotify.com/album/2cpCmPs5Efp7w7Cv0LKcuG) | 3:26 | 2020-05-02 | 2021-04-30 |

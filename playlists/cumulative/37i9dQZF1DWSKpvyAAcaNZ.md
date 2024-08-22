@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-323 songs - 20 hr 29 min
+324 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 |  |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-07-22 | 2024-04-19 |
 | [Cry Wolf](https://open.spotify.com/track/2O3VFSBrlQBe13zmEAOqnv) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Cry Wolf](https://open.spotify.com/album/5ZeEIUij4TN4IUdbD6wGfU) | 3:16 | 2021-12-17 |  |
-| [Dance To The Music](https://open.spotify.com/track/4CBDFhxrhcop3lRIMPpNGJ) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Dance To The Music](https://open.spotify.com/album/6cnadGskko2D3kOJsro8Wb) | 3:44 | 2024-08-02 |  |
+| [Dance To The Music](https://open.spotify.com/track/4CBDFhxrhcop3lRIMPpNGJ) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Dance To The Music](https://open.spotify.com/album/6cnadGskko2D3kOJsro8Wb) | 3:44 | 2024-08-02 | 2024-08-22 |
 | [Dead Eyes](https://open.spotify.com/track/22eir1Hfkwn0fYNgJXEti3) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Dead Eyes](https://open.spotify.com/album/3DkZKoCTBT3ruS9To8hi9N) | 2:21 | 2021-12-17 | 2022-06-04 |
 | [Dead In The Water](https://open.spotify.com/track/2xlz1tmWu6dx4kF06LyWnL) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3gkhZjEhH075NMrAW9byLX) | 4:23 | 2021-12-17 | 2022-07-29 |
 | [Dead In The Water](https://open.spotify.com/track/5tFg8himaf7zeYyXhaDqaI) | [Randall Bramblett](https://open.spotify.com/artist/3v7rZDkM01Le1Sxma0sLoT) | [Devil Music](https://open.spotify.com/album/3HKe2roAMFPmMMy5QRSjZl) | 4:23 | 2022-07-22 | 2023-12-02 |
@@ -183,6 +183,7 @@
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2021-12-17 |  |
 | [LUCKY PENNY](https://open.spotify.com/track/4qHSciBVrNNpUlI8TT9CHQ) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [LUCKY PENNY](https://open.spotify.com/album/0jhsnoHuQRJHawKMLxQe5P) | 3:34 | 2021-12-17 |  |
 | [LUCKY PENNY](https://open.spotify.com/track/5szOfM7kagFfpqaqBZdq9y) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [UNDIVIDED HEART & SOUL](https://open.spotify.com/album/4tqTkXi6AvexkQU5qEB2eJ) | 3:34 | 2024-03-08 | 2024-04-19 |
+| [Madame President](https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP) | [Grace Bowers & The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 2:26 | 2024-08-21 |  |
 | [Magnolia](https://open.spotify.com/track/2WRhHhX9s9ZhLEZV7luzIg) | [Mail the Horse](https://open.spotify.com/artist/6NuOslH44SY61wyfxAvRYB) | [Magnolia](https://open.spotify.com/album/33gmdU6C7wf2t03cghGqL4) | 4:40 | 2021-12-17 | 2022-04-29 |
 | [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-12-17 |  |
 | [Make It Move](https://open.spotify.com/track/2aXKckAZJNuNO2XQTCy4V3) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Signs](https://open.spotify.com/album/4SPbtzCATQqeHmN2Evs26H) | 3:29 | 2021-12-17 |  |
@@ -302,7 +303,7 @@
 | [Waiting for the Thunder](https://open.spotify.com/track/7ICQ4gzQ74YlrDDtU8Ttsz) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Waiting for the Thunder](https://open.spotify.com/album/4ZnjSpNC9TNymP4W9jcLrC) | 4:07 | 2021-12-17 |  |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [Waslaha](https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Waslaha](https://open.spotify.com/album/3QHUKfPL9dfrfOrJcKRwfF) | 2:38 | 2021-12-17 | 2022-01-29 |
-| [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-07-22 |  |
+| [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-07-22 | 2024-08-22 |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Adam Wakefield](https://open.spotify.com/artist/6vVB9hUpiPCp5SWAYwSzUt) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 | 2024-03-08 |  |
 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 | 2024-04-24 |  |

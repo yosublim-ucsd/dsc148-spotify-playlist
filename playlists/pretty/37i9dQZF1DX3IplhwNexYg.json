@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Wunderhorse",
-  "num_followers": 114133,
+  "num_followers": 114132,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Only God Was Above Us",
-        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Prep-School Gangsters",
-      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "Wake Up & It's Over",
         "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 227546,
       "name": "Portrait of a Blank Slate",
       "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Only God Was Above Us",
+        "url": "https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Prep-School Gangsters",
+      "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "Didn't (feat. Cavetown)",
         "url": "https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 153372,
       "name": "Didn't (feat. Cavetown)",
       "url": "https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf"
-      },
-      "artists": [
-        {
-          "name": "Hinds",
-          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
-        }
-      ],
-      "duration_ms": 242870,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "The Overload",
         "url": "https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        }
+      ],
+      "duration_ms": 242870,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Follow You Down",
-        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 136435,
-      "name": "Follow You Down",
-      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Follow You Down",
+        "url": "https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 136435,
+      "name": "Follow You Down",
+      "url": "https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 232333,
       "name": "Spaceman",
       "url": "https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
       "added_at": "2024-08-09 10:43:52",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
+        "name": "Nothing Works",
+        "url": "https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252797,
+      "name": "Nothing Works",
+      "url": "https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG"
+    },
+    {
+      "added_at": "2024-08-09 10:43:52",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -1275,34 +1291,18 @@
     {
       "added_at": "2024-08-09 10:43:52",
       "album": {
-        "name": "Nothing Works",
-        "url": "https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq"
+        "name": "Rag",
+        "url": "https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH"
       },
       "artists": [
         {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
         }
       ],
-      "duration_ms": 252797,
-      "name": "Nothing Works",
-      "url": "https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG"
-    },
-    {
-      "added_at": "2024-08-09 10:43:52",
-      "album": {
-        "name": "The Ballad of Darren",
-        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 235325,
-      "name": "St. Charles Square",
-      "url": "https://open.spotify.com/track/7lo2Wos97Xq6DFHURcsxeQ"
+      "duration_ms": 142449,
+      "name": "Rag",
+      "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
     }
   ],
   "unique_name": "pulp",

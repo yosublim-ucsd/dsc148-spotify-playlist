@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: ONE OR EIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,123 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,127 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 43 | [PLAY](https://open.spotify.com/track/2d0SS0vO0UuIZLaaUme0iA) | [Cool\-X](https://open.spotify.com/artist/61LvMTjrjLLjKODTNvpnCl) | [PLAY](https://open.spotify.com/album/0U2XVTb4U5coiTpYQdmyWb) | 2:25 |
 | 44 | [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 |
 | 45 | [Last Forever](https://open.spotify.com/track/0MoeICxt3WhCE4WN6y5XS3) | [Last Forever from BATTLE BOYS](https://open.spotify.com/artist/56N4RRJO3XMpJdFo2hhWpn) | [Last Forever](https://open.spotify.com/album/2WQamz2EQH2hxjsAPAwSL9) | 3:33 |
-| 46 | [Ocean](https://open.spotify.com/track/46UQWck0zzo98vT3I9nlxb) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva) | [Ocean](https://open.spotify.com/album/6ajt1XhJpEPr2aD2nb9LC6) | 2:28 |
+| 46 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 |
 | 47 | [What's Up!!](https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56) | [BOYZTERIOS from BATTLE BOYS](https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t) | [What's Up!!](https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c) | 4:01 |
-| 48 | [ピアス](https://open.spotify.com/track/4G4GGrJm2mLcDGDNxs9KVI) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ピアス](https://open.spotify.com/album/5Bq65Zx3XAb1WADMiVTUmE) | 3:17 |
+| 48 | [Ocean](https://open.spotify.com/track/46UQWck0zzo98vT3I9nlxb) | [ShowMinorSavage](https://open.spotify.com/artist/0x7bC0gbku4Mu85Pv6wYva) | [Ocean](https://open.spotify.com/album/6ajt1XhJpEPr2aD2nb9LC6) | 2:28 |
 | 49 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 50 | [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 |
 

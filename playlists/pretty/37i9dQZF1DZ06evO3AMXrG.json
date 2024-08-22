@@ -1,12 +1,12 @@
 {
-  "description": "This is Cultura Prof\u00e9tica. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 232596,
+  "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
+  "num_followers": 232637,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADIvGIzUlwUZUfREaNf6aE+",
+  "snapshot_id": "ZsPcgAAAAAA3FGwfYHJXhyaq/+o7KwT4",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M. O. T. A.",
+        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "Un Deseo",
+      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 242413,
       "name": "Te Cre\u00ed",
       "url": "https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M. O. T. A.",
-        "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "Un Deseo",
-      "url": "https://open.spotify.com/track/0d70EuIo3ziqTj5LvMYZCl"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cultura en Vivo",
-        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 385933,
-      "name": "No Me Busques - En Vivo",
-      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
+      "duration_ms": 71333,
+      "name": "Enyoyando",
+      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+        "name": "Cultura en Vivo",
+        "url": "https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 71333,
-      "name": "Enyoyando",
-      "url": "https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx"
+      "duration_ms": 385933,
+      "name": "No Me Busques - En Vivo",
+      "url": "https://open.spotify.com/track/0WNinVHIhlq6UX1Eid5Ule"
     },
     {
       "added_at": null,

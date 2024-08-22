@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Benidorm",
       "url": "https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o"
@@ -9370,7 +9370,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 193562,
       "name": "Feel You In Love",
       "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
@@ -13040,7 +13040,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 265849,
       "name": "Holding Me Back",
       "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
@@ -13886,6 +13886,28 @@
       "duration_ms": 205541,
       "name": "I Got New Feelings",
       "url": "https://open.spotify.com/track/6sl6ONNu7w47hIT8KqU2Vl"
+    },
+    {
+      "album": {
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "album": {

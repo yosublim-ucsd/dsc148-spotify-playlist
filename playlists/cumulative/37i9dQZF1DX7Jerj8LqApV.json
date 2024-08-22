@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Apat Na Buwan",
+        "url": "https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217558,
+      "name": "Apat Na Buwan",
+      "url": "https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1"
+    },
+    {
+      "album": {
         "name": "Araw-Araw w/ You",
         "url": "https://open.spotify.com/album/6Sy2dHcsbWhyNTciQ00VY4"
       },
@@ -244,6 +262,28 @@
       "duration_ms": 221538,
       "name": "Binibini",
       "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5Ybza4wV7jnIfWw3zNHjnI"
+      },
+      "artists": [
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        },
+        {
+          "name": "Lois",
+          "url": "https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177779,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2shSyMcN6RhgJsPxhrWE0i"
     },
     {
       "album": {
@@ -785,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Isa Dalawa Tatlo",
+        "url": "https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Isa Dalawa Tatlo",
+      "url": "https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9"
+    },
+    {
+      "album": {
         "name": "Isang Tingin Mo Lang",
         "url": "https://open.spotify.com/album/33ID8iZWFWy1Vq7s6TBqEb"
       },
@@ -832,7 +890,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 246522,
       "name": "Kaakit-akit",
       "url": "https://open.spotify.com/track/6GPfKhdih8hhpC0MJXDu6G"
@@ -850,7 +908,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 206584,
       "name": "kaibigan",
       "url": "https://open.spotify.com/track/3rwioq6hSNjwynK8rVPCma"
@@ -872,6 +930,28 @@
       "duration_ms": 234666,
       "name": "Kailan?",
       "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
+    },
+    {
+      "album": {
+        "name": "kapoy (feat. ZOYA)",
+        "url": "https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        },
+        {
+          "name": "ZOYA",
+          "url": "https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253928,
+      "name": "kapoy (feat. ZOYA)",
+      "url": "https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf"
     },
     {
       "album": {
@@ -1012,7 +1092,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 242800,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
@@ -1102,7 +1182,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 171527,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
@@ -1138,7 +1218,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 320538,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/4GQtzdKig2DtCRcIXpgQZm"
@@ -1156,7 +1236,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 228000,
       "name": "Lila",
       "url": "https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV"
@@ -1174,7 +1254,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 223333,
       "name": "Love Story Kong Bitin",
       "url": "https://open.spotify.com/track/21sJOwbt6sijf6N59B0LVv"
@@ -1380,7 +1460,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 308000,
       "name": "Multo",
       "url": "https://open.spotify.com/track/3ZBKNfrchDC1zpR4dCphYS"
@@ -1488,7 +1568,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 266361,
       "name": "Nandito",
       "url": "https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF"
@@ -1578,7 +1658,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 209464,
       "name": "Nilalang",
       "url": "https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq"
@@ -1726,7 +1806,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 162050,
       "name": "panalangin",
       "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
@@ -1816,7 +1896,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -2152,7 +2232,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-18",
+      "date_removed": null,
       "duration_ms": 284827,
       "name": "Segundo, Siguro",
       "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
@@ -2232,7 +2312,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 100650,
       "name": "Steak frites",
       "url": "https://open.spotify.com/track/5zmqs8CVlOxj8F9bngOXdP"

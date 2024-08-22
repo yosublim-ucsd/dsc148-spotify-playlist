@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 
 ### [This Is TOOL](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sZyol)
 
-> This is TOOL\. The essential tracks, all in one playlist.
+> This Is TOOL\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,395 likes - 35 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,482 likes - 35 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sZyol.md) - [plain]
 | 34 | [Cold And Ugly \- Live](https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate](https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel) | 4:09 |
 | 35 | [Bottom](https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Undertow](https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0) | 7:13 |
 
-Snapshot ID: `ZsKLAAAAAADfDGFE1Qa9WV94woJvJPYK`
+Snapshot ID: `ZsPcgAAAAAAejPvi/OXHMNxd0XU4BpXr`

@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 798083,
+  "num_followers": 798097,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-08-09 17:35:05",
       "album": {
+        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "I Don't Want To Talk About It",
+      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
+    },
+    {
+      "added_at": "2024-08-09 17:35:05",
+      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
-    },
-    {
-      "added_at": "2024-08-09 17:35:05",
-      "album": {
-        "name": "Na Medida do Imposs\u00edvel Ao Vivo No Inhotim (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "I Don't Want To Talk About It",
-      "url": "https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK"
     },
     {
       "added_at": "2024-08-09 17:35:05",

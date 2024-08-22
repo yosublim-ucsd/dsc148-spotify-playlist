@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 136329,
+  "num_followers": 136354,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADjFvYjGM78tIwA9r2Hq5xO",
+  "snapshot_id": "ZsPcgAAAAAAqDBq/5J6PKLCssD0X7B/v",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 236640,
-      "name": "Big Time Sensuality",
-      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
+      "duration_ms": 295360,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/17tCBb8odaNBZivCojHhvw"
+      "duration_ms": 236640,
+      "name": "Big Time Sensuality",
+      "url": "https://open.spotify.com/track/5diiEB0edX69v9x3e96NyO"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
       "duration_ms": 259064,
       "name": "Fossora",
       "url": "https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Med\u00falla",
-        "url": "https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 83826,
-      "name": "Show Me Forgiveness",
-      "url": "https://open.spotify.com/track/09b3awFKYpX8AHUYaF04ty"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

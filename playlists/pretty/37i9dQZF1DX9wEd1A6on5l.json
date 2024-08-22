@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 61263,
+  "num_followers": 61377,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -83,7 +83,7 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Tshwala Bam (feat. S.N.E) [Remix]",
+        "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
       "artists": [
@@ -105,7 +105,7 @@
         }
       ],
       "duration_ms": 203571,
-      "name": "Tshwala Bam (feat. S.N.E) - Remix",
+      "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 166350,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+      "duration_ms": 202958,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+        "name": "everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 202958,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn"
+      "duration_ms": 166350,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -332,12 +332,12 @@
           "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
         },
         {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
           "name": "S.N.E",
           "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
+        },
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         }
       ],
       "duration_ms": 390000,
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 166958,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Rodo",
         "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 143756,
       "name": "Rodo",
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 166958,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Stubborn",
+        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Ba$tard, Don't Be Silly",
+      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 164121,
       "name": "by now",
       "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Stubborn",
-        "url": "https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Ba$tard, Don't Be Silly",
-      "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Gon Gon / No Forget",
+        "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Gon Gon",
+      "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Jigga (feat. Khaid)",
         "url": "https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 139285,
       "name": "Jigga (feat. Khaid)",
       "url": "https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Gon Gon / No Forget",
-        "url": "https://open.spotify.com/album/212j8iS52QLabW553im5hM"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Gon Gon",
-      "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Controlla",
-        "url": "https://open.spotify.com/album/3opatoAYLUOlZ2BiGi935S"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 148781,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/1K4DhSCptGVbSq30IHTJ69"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/51xSh3oKnYhYi77871elgq"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 167653,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Controlla",
+        "url": "https://open.spotify.com/album/3opatoAYLUOlZ2BiGi935S"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 148781,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/1K4DhSCptGVbSq30IHTJ69"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "California / Rollercoaster",
+        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "California",
+      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Cast",
         "url": "https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "California / Rollercoaster",
-        "url": "https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 140357,
-      "name": "California",
-      "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Casamigos",
+        "url": "https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk"
+      },
+      "artists": [
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Casamigos",
+      "url": "https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Borrow Me Your Baby (feat. Falz)",
         "url": "https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 188000,
       "name": "Borrow Me Your Baby (feat. Falz)",
       "url": "https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Casamigos",
-        "url": "https://open.spotify.com/album/6VHl2eKVBKJ70NS2kvEfgk"
-      },
-      "artists": [
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Casamigos",
-      "url": "https://open.spotify.com/track/2P3TcKcmSvd6ymORzAWzSg"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1571,22 +1571,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Kelewele (feat. Joeboy)",
-        "url": "https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh"
+        "name": "Water & Garri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy"
       },
       "artists": [
         {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         },
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 141428,
-      "name": "Kelewele (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs"
+      "duration_ms": 151868,
+      "name": "Gara (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0"
     }
   ],
   "unique_name": "Party Dey!",

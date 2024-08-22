@@ -2,9 +2,9 @@
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 
-> This is Linked Horizon\. The essential tracks, all in one playlist.
+> This is: Linked Horizon\. Alle wichtigen Tracks in einer Playlist.
 
-40 songs - 3 hr 18 min
+41 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Nikagetsugo no Kimi e](https://open.spotify.com/track/7IMuezAZparajKkgkCMalN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:27 | 2022-12-23 |  |
 | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/track/4KYO2hnz2vWH0JHJuWypAf) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Nisennen..\. Moshiku wa..\. Nimannen Go no Kimi e](https://open.spotify.com/album/1jx7pZycE5duql9z0qJNDv) | 4:44 | 2023-12-13 |  |
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-10 |  |
+| [Saigo no Senka](https://open.spotify.com/track/6s1vr66o45wiygolreLIfz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 5:24 | 2024-08-22 |  |
 | [Seishun wa Hanabi no Youni](https://open.spotify.com/track/7rNCnPglDEZn7pboEo24gC) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Seishun wa Hanabi no Youni](https://open.spotify.com/album/6LyBed3rgD3tqdWnPUyacK) | 1:33 | 2022-12-23 |  |
 | [Shinzo wo Sasageyo !](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2022-12-23 |  |
 | [Shoukei to Shikabane no Michi](https://open.spotify.com/track/7lcTpZtdTyfiIgVIpmTVut) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 4:36 | 2022-12-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 23276,
+  "num_followers": 23281,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADMG+NLwfiEwiagbt1DsToY",
+  "snapshot_id": "ZsPcgAAAAACFhDCJqJSrAYXXl8OX9zYT",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ringer From The Top End",
-        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+        "name": "Where Country Is",
+        "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Charleville",
-      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+      "duration_ms": 187546,
+      "name": "G'Day Blue",
+      "url": "https://open.spotify.com/track/43A1Y9Z1KRzmR3Oao6uwkt"
     },
     {
       "added_at": null,
@@ -179,22 +183,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where Country Is",
-        "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
       },
       "artists": [
         {
           "name": "Slim Dusty",
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        },
-        {
-          "name": "The Travelling Country Band",
-          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
         }
       ],
-      "duration_ms": 187546,
-      "name": "G'Day Blue",
-      "url": "https://open.spotify.com/track/43A1Y9Z1KRzmR3Oao6uwkt"
+      "duration_ms": 186533,
+      "name": "Charleville",
+      "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,080 likes - 165 songs - 5 hr 32 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,080 likes - 164 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,6 +172,5 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 162 | [Melancholic Whispers](https://open.spotify.com/track/6zvrNryTHxtGFj32Wcvrh8) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Harmonic Cascade](https://open.spotify.com/album/1vXLtMA5S8GU2pnPjUU5XF) | 1:55 |
 | 163 | [Nebula's Serenade](https://open.spotify.com/track/1Dkb4XA6NnNdwQe13n9Vvh) | [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Veiled Tranquility](https://open.spotify.com/album/0aaJWjMtPOEayffHuYjdxp) | 1:56 |
 | 164 | [Ethereal Enchantment](https://open.spotify.com/track/2whz7ZOK3T7ZTlAHCdnTp8) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enchanted Lullabies](https://open.spotify.com/album/2QAtObUYP4c1nTTl7ZiI0z) | 1:50 |
-| 165 | [Summer Shower](https://open.spotify.com/track/0sDKM1Au5SxOB2TPSDGzF9) | [Lofi Milk](https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT), [Maho Fukami](https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP) | [Sunset Squall](https://open.spotify.com/album/1ppxD1UzZpIeFuK7U7ERPI) | 2:17 |
 
-Snapshot ID: `AAAAYHnWlRhmrc4YPDBWsF/X6efDJB3o`
+Snapshot ID: `AAAAYfJOgIyK1bja0UL5EfhZ7eCuS1Sl`

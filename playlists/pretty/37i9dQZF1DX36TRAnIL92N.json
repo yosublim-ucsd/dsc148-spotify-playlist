@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 344512,
+  "num_followers": 344769,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Hare Ram",
-        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 199727,
-      "name": "Hare Ram",
-      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R"
       },
@@ -543,38 +527,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Mirazh",
-        "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
+        "name": "Hare Ram",
+        "url": "https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4"
       },
       "artists": [
         {
-          "name": "Thomas Schumacher",
-          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
-        },
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 205217,
-      "name": "Mirazh",
-      "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "How You Move",
-        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 169614,
-      "name": "How You Move - Edit",
-      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
+      "duration_ms": 199727,
+      "name": "Hare Ram",
+      "url": "https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -595,6 +559,42 @@
       "duration_ms": 232000,
       "name": "Luna",
       "url": "https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "How You Move",
+        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 169614,
+      "name": "How You Move - Edit",
+      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Mirazh",
+        "url": "https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        },
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Mirazh",
+      "url": "https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 193218,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "You Can't Stop Us",
         "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 253242,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 193218,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -751,22 +751,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Seduction EP",
-        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
+        "name": "Simulator (Mha Iri Remix)",
+        "url": "https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
         },
         {
-          "name": "Olly James",
-          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
         }
       ],
-      "duration_ms": 191641,
-      "name": "Seduction",
-      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+      "duration_ms": 240000,
+      "name": "Simulator - Mha Iri Remix",
+      "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -803,26 +807,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Simulator (Mha Iri Remix)",
-        "url": "https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi"
+        "name": "The Seduction EP",
+        "url": "https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh"
       },
       "artists": [
         {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Mha Iri",
-          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Simulator - Mha Iri Remix",
-      "url": "https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z"
+      "duration_ms": 191641,
+      "name": "Seduction",
+      "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
     },
     {
       "added_at": "2024-08-16 04:00:00",

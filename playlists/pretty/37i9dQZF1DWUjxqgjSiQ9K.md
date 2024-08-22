@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:6CyrlDkin8EyehBeKUxcSV">Gateway Worship Español,</a>  <a href="spotify:artist:7zpvy5B9gb5KprNUzNCOEE">Miel San Marcos,</a> y <a href="spotify:artist:6C0t2XuoPExvGxcVfo7aHc">Waleska Morales</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,111 likes - 98 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,240 likes - 98 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

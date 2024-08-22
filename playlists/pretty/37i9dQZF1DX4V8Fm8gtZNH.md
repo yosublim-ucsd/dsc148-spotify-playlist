@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,364 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,384 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 167 | [Winning](https://open.spotify.com/track/5gn6px0lRAluURfkSv2Y3u) | [Breana Marin](https://open.spotify.com/artist/2O3zQn26eEqxyxhIbFtuJ7) | [In the Meantime](https://open.spotify.com/album/0gD9MK4U0nfVz77CdvEI1C) | 2:18 |
 | 168 | [Burn](https://open.spotify.com/track/3G74znHq1U8CqX67NaWEKk) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [bittersweet vol\. 1](https://open.spotify.com/album/5YHDy8wLZRaVKH8enUQHAE) | 3:21 |
 | 169 | [Own Way](https://open.spotify.com/track/12SNpjIjP0eD2HhmmIsygd) | [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [Godfrey](https://open.spotify.com/album/0EcGLFsz7isRUSyDYZuO3w) | 3:23 |
-| 170 | [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 |
+| 170 | [Love Ballad](https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq) | [L.T.D.](https://open.spotify.com/artist/51zMVZ0d9XOwsWvgz4kFZb) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 4:35 |
 | 171 | [Burn](https://open.spotify.com/track/7sofbCzttnuYzcYKVJkbjg) | [OSHUN](https://open.spotify.com/artist/3sGyf3EDcvQ4PB9AGIg84M) | [Burn](https://open.spotify.com/album/5qSC8PfJcurE1vwALNh7JR) | 3:21 |
 | 172 | [Get Ya Shine On](https://open.spotify.com/track/0UxhXJeevWwBg7S5bDv12B) | [So Drove](https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Kreayshawn](https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd) | [Get Ya Shine On](https://open.spotify.com/album/0weqSaQI9CicLuUsWRIqIT) | 3:34 |
 | 173 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |

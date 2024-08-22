@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Nubya Garcia",
-  "num_followers": 315265,
+  "num_followers": 315303,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
+        "name": "Keep me close.",
+        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
       },
       "artists": [
         {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
         }
       ],
-      "duration_ms": 256374,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
+      "duration_ms": 144358,
+      "name": "Keep me close.",
+      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -375,22 +367,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Call It What You Like",
-        "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
-      },
-      "artists": [
-        {
-          "name": "Thandii",
-          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
-        }
-      ],
-      "duration_ms": 174269,
-      "name": "Call It What You Like",
-      "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/55zeJMwqGYlju0shEdhG4A"
       },
@@ -407,18 +383,42 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Keep me close.",
-        "url": "https://open.spotify.com/album/59Jo29TS0kxJL8RSoTfsrT"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
       },
       "artists": [
         {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
         }
       ],
-      "duration_ms": 144358,
-      "name": "Keep me close.",
-      "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
+      "duration_ms": 256374,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
+        "name": "Call It What You Like",
+        "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "duration_ms": 174269,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+        "name": "Dumplings For Dinner",
+        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
       },
       "artists": [
         {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "After 'Ours",
+          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
         }
       ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
+      "duration_ms": 404162,
+      "name": "Dumplings For Dinner",
+      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Dumplings For Dinner",
-        "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
       },
       "artists": [
         {
-          "name": "After 'Ours",
-          "url": "https://open.spotify.com/artist/7JnGevVxOXRg943gbT6pN0"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 404162,
-      "name": "Dumplings For Dinner",
-      "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ"
+      },
+      "artists": [
+        {
+          "name": "CROOKS INC.",
+          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
+        }
+      ],
+      "duration_ms": 237127,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 358418,
       "name": "Resisting Resistance",
       "url": "https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ"
-      },
-      "artists": [
-        {
-          "name": "CROOKS INC.",
-          "url": "https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp"
-        }
-      ],
-      "duration_ms": 237127,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -867,22 +867,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Submerge",
-        "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
+        "name": "High Up",
+        "url": "https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF"
       },
       "artists": [
         {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
         },
         {
-          "name": "Pitch 92",
-          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+          "name": "Meduulla",
+          "url": "https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW"
         }
       ],
-      "duration_ms": 232562,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5"
+      "duration_ms": 187535,
+      "name": "High Up",
+      "url": "https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "Submerge",
+        "url": "https://open.spotify.com/album/33U1cvheAyAUQnXoanTKj4"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        },
+        {
+          "name": "Pitch 92",
+          "url": "https://open.spotify.com/artist/0LjApYPFAPUvMYMb1gFJrc"
+        }
+      ],
+      "duration_ms": 232562,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3lHp0poD3gdNg3uhaxodn5"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "Interdimensional",
         "url": "https://open.spotify.com/album/2fOTi5RJypPOCa15JFLszn"
       },
@@ -939,22 +959,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "High Up",
-        "url": "https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF"
+        "name": "Mardy",
+        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
       "artists": [
         {
-          "name": "CHERISE",
-          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
-        },
-        {
-          "name": "Meduulla",
-          "url": "https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW"
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
         }
       ],
-      "duration_ms": 187535,
-      "name": "High Up",
-      "url": "https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL"
+      "duration_ms": 163404,
+      "name": "Mardy",
+      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -975,18 +991,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Mardy",
-        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
       },
       "artists": [
         {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Mardy",
-      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
-      },
-      "artists": [
-        {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
-        }
-      ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "In The Breaks",
         "url": "https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm"
       },
@@ -1063,18 +1079,26 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+        "name": "Be Myself",
+        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "TAMBALA",
+          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
         }
       ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+      "duration_ms": 227835,
+      "name": "Be Myself",
+      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1115,26 +1139,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Be Myself",
-        "url": "https://open.spotify.com/album/1aSn9BV6hbllpcdVzJyrIW"
+        "name": "All Black Everything",
+        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
       },
       "artists": [
         {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "TAMBALA",
-          "url": "https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F"
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
         }
       ],
-      "duration_ms": 227835,
-      "name": "Be Myself",
-      "url": "https://open.spotify.com/track/4KbDuejN3kCl68RNPPVt5h"
+      "duration_ms": 306714,
+      "name": "All Black Everything",
+      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "All Black Everything",
-        "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
+        "name": "We Have Each Other",
+        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
       },
       "artists": [
         {
-          "name": "Amy Gadiaga",
-          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+          "name": "TC & the Groove Family",
+          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
         }
       ],
-      "duration_ms": 306714,
-      "name": "All Black Everything",
-      "url": "https://open.spotify.com/track/2qZpjV0ABiaoMBhjslXXkf"
+      "duration_ms": 236015,
+      "name": "We Have Each Other",
+      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 157415,
       "name": "The Love That I Feel",
       "url": "https://open.spotify.com/track/4Sq1bPCB5HM70lljG68qsZ"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
-        "name": "We Have Each Other",
-        "url": "https://open.spotify.com/album/4oEEZYY7VewZhOAxXfFT2Z"
-      },
-      "artists": [
-        {
-          "name": "TC & the Groove Family",
-          "url": "https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ"
-        }
-      ],
-      "duration_ms": 236015,
-      "name": "We Have Each Other",
-      "url": "https://open.spotify.com/track/5uTLVdv9ILqGxYIK2xDCuG"
     },
     {
       "added_at": "2024-08-15 23:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Li",
-          "url": "https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L"
-        }
-      ],
-      "duration_ms": 325426,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW"
-    },
-    {
-      "added_at": "2024-08-15 23:00:00",
-      "album": {
         "name": "Lag\u00f4",
         "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/4IgZPrzOS3Cj833Bl8O1Dn"
+      },
+      "artists": [
+        {
+          "name": "Kurtis Li",
+          "url": "https://open.spotify.com/artist/5CE0MYU8KQ7hAGCf6wSj3L"
+        }
+      ],
+      "duration_ms": 325426,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/75php8CsPxI3Gwl7eIr7KW"
+    },
+    {
+      "added_at": "2024-08-15 23:00:00",
+      "album": {
         "name": "Rising",
         "url": "https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0"
       },
@@ -1331,34 +1331,18 @@
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {
-        "name": "Infinite Reflections",
-        "url": "https://open.spotify.com/album/0meFGx9eWzacSifnRoxwf0"
+        "name": "Outerstate",
+        "url": "https://open.spotify.com/album/6g1KJdlbI53M3T97ascW5N"
       },
       "artists": [
         {
-          "name": "Chiminyo",
-          "url": "https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4"
-        },
-        {
-          "name": "Uniri",
-          "url": "https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA"
-        },
-        {
-          "name": "Aman\u00e9 Suganami",
-          "url": "https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT"
-        },
-        {
-          "name": "Al MacSween",
-          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
-        },
-        {
-          "name": "Luke Wynter",
-          "url": "https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk"
+          "name": "Kessoncoda",
+          "url": "https://open.spotify.com/artist/7k9JPWPcswdCrwPiQqjvXZ"
         }
       ],
-      "duration_ms": 257624,
-      "name": "Outer Sea",
-      "url": "https://open.spotify.com/track/1XIgbKMs3Jf9n5QCuT7QTf"
+      "duration_ms": 202698,
+      "name": "Dreambend",
+      "url": "https://open.spotify.com/track/4ufGGHCXkK2v1gONKMcCyV"
     }
   ],
   "unique_name": "Jazz UK",

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
-  "num_followers": 142629,
+  "num_followers": 142755,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-08-16 03:01:00",
       "album": {
+        "name": "Dunk",
+        "url": "https://open.spotify.com/album/5OHd5Mysa6cYWL0xn2UAfh"
+      },
+      "artists": [
+        {
+          "name": "Akashi Cruz",
+          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Dunk",
+      "url": "https://open.spotify.com/track/16koRM1qSIqiGpxocN6D0h"
+    },
+    {
+      "added_at": "2024-08-16 03:01:00",
+      "album": {
         "name": "Perfil#97 - Trazendo a Vibe",
         "url": "https://open.spotify.com/album/0cwao4HPTrFgIvOzpUP02u"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 139200,
       "name": "Perfil#97 - Trazendo a Vibe",
       "url": "https://open.spotify.com/track/3YYoRykWPzShaDtrYEJCtt"
-    },
-    {
-      "added_at": "2024-08-16 03:01:00",
-      "album": {
-        "name": "Dunk",
-        "url": "https://open.spotify.com/album/5OHd5Mysa6cYWL0xn2UAfh"
-      },
-      "artists": [
-        {
-          "name": "Akashi Cruz",
-          "url": "https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Dunk",
-      "url": "https://open.spotify.com/track/16koRM1qSIqiGpxocN6D0h"
     },
     {
       "added_at": "2024-08-16 03:01:00",

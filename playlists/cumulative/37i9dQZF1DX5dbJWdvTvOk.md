@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-714 songs - 1 day 6 hr 24 min
+715 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,7 +431,7 @@
 | [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 | 2024-05-24 |
 | [Même Dans La Mort](https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Même Dans La Mort](https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby) | 2:16 | 2023-04-21 |  |
 | [Nachtfalke](https://open.spotify.com/track/1KA3f0hBZfwbcoeDidN91k) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Nachtfalke](https://open.spotify.com/album/665FBCmE1FNe3sycFJ5wCO) | 4:21 | 2022-07-15 | 2023-03-11 |
-| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 |  |
+| [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 | 2023-04-21 | 2024-08-22 |
 | [Nascondiglio](https://open.spotify.com/track/5lz0ZF3oUGWZpt7TjdlAwf) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Nascondiglio](https://open.spotify.com/album/6dxdPL7IFCKy0f0V15eJHX) | 2:25 | 2023-04-21 | 2023-05-13 |
 | [Natural State](https://open.spotify.com/track/6kvTeQ3FJGVt1UYFcKNPe7) | [Mia Cornell](https://open.spotify.com/artist/22hTiR40dkmbKc5bLT5owB) | [Natural State](https://open.spotify.com/album/5n7ZLyBMJU1UWtpUCAiVwF) | 2:24 | 2022-07-15 | 2024-04-06 |
 | [Nebula's Lullaby](https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Nebula's Lullaby](https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo) | 2:08 | 2023-12-15 |  |
@@ -632,6 +632,7 @@
 | [The Lighthouse](https://open.spotify.com/track/4DzBcv4qWnW7RfkWJ8fz2M) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Lighthouse](https://open.spotify.com/album/08uz1pfSwbk4z58608njlQ) | 2:20 | 2023-04-21 | 2023-06-09 |
 | [The Longing](https://open.spotify.com/track/29C5rzt8Y8YiyXFUByk41c) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [The Longing](https://open.spotify.com/album/1THZEd8ksJ873IqMsCtTb2) | 2:56 | 2023-04-21 | 2024-04-26 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
+| [The Northwest](https://open.spotify.com/track/3y4oXU6iqCiFPueAtRQ88I) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Northwest](https://open.spotify.com/album/4cL55EmSZz5XuqISawUSTr) | 2:42 | 2024-08-20 |  |
 | [The Poconos](https://open.spotify.com/track/0ds1reOHuK7CCsu3nIzZXj) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [The Poconos](https://open.spotify.com/album/3A40QGZkO7BxsX5pwDr017) | 2:51 | 2022-07-15 | 2023-04-22 |
 | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/track/63s37RyQINHVSf3FGdLsxK) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/album/1HzQRuz4CFkAqF0K2UtH9y) | 3:28 | 2023-04-21 | 2023-05-13 |
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2024-06-08 |

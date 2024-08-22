@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 14941,
+  "num_followers": 14957,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Atlantis Princess - The 3rd Album",
-        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 224373,
-      "name": "Atlantis Princess",
-      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc601\ubbfc",
         "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 228946,
       "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
       "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 287741,
-      "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
-      "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Stand Alone",
-        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
       "artists": [
         {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
         }
       ],
-      "duration_ms": 259213,
-      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
-      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
+      "duration_ms": 287741,
+      "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
+      "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -939,6 +923,22 @@
       "duration_ms": 283786,
       "name": "\uc0b4\ub2e4\uac00",
       "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Stand Alone",
+        "url": "https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "\uadf8\ub140\ub97c \uc0ac\ub791\ud574\uc918\uc694",
+      "url": "https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Neo Classicism",
         "url": "https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 342491,
       "name": "\ub208\uc758 \uaf43",
       "url": "https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Master`s sun OST",
         "url": "https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "My Name - The 4th Album",
         "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
       },
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Monologue",
-        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        },
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "Like A Child (feat. ALEX)",
-      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 272662,
       "name": "Missing you",
       "url": "https://open.spotify.com/track/24UgvaHnAvKOysqdkZ1B8L"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Monologue",
+        "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "Like A Child (feat. ALEX)",
+      "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 216323,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/0foNSGMPnuffxpJXJdAirq"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 246613,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/3dt4wfq1JLr4OuDFF832C2"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+        "name": "The Way I Am",
+        "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
       "artists": [
         {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+      "duration_ms": 247852,
+      "name": "A Letter to you Part.2",
+      "url": "https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s"
     }
   ],
   "unique_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",

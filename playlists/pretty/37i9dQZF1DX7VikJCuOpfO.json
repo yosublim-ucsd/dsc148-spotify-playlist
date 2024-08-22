@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar, Alex Fern\u00e1ndez",
-  "num_followers": 204132,
+  "num_followers": 204158,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Pal Barrio",
-        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
+        "name": "Solo por Hoy",
+        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 185118,
-      "name": "Cuando Un Amor Se Va",
-      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
+      "duration_ms": 166200,
+      "name": "Solo por Hoy",
+      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Solo por Hoy",
-        "url": "https://open.spotify.com/album/16CwH2MLWxsgsaGh2yNChH"
+        "name": "Pal Barrio",
+        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 166200,
-      "name": "Solo por Hoy",
-      "url": "https://open.spotify.com/track/3lAzarxXsWsBdyjBNSSW2T"
+      "duration_ms": 185118,
+      "name": "Cuando Un Amor Se Va",
+      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
-      },
-      "artists": [
-        {
-          "name": "Rafael Kelly",
-          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
-        }
-      ],
-      "duration_ms": 151555,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Con Tu Recuerdo",
         "url": "https://open.spotify.com/album/2HvSOHRTPK1HBUMgA5eUUc"
       },
@@ -1687,6 +1671,26 @@
       "duration_ms": 177053,
       "name": "Con Tu Recuerdo",
       "url": "https://open.spotify.com/track/4VUt0lvEPcNk9bZ3sDwROc"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "No Te Me Dobles Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4UmFyxWqwWpozJkhcNFc0R"
+      },
+      "artists": [
+        {
+          "name": "Me\u00f1o Segovia",
+          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
+        },
+        {
+          "name": "Mariachi Los Galleros De Danny Rey",
+          "url": "https://open.spotify.com/artist/4rzEVBVdNGYvfekg3QbysF"
+        }
+      ],
+      "duration_ms": 216937,
+      "name": "No Te Me Dobles Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7hbOsAEUy4MszpW5mBP27Y"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1727,22 +1731,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "No Te Me Dobles Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4UmFyxWqwWpozJkhcNFc0R"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
       },
       "artists": [
         {
-          "name": "Me\u00f1o Segovia",
-          "url": "https://open.spotify.com/artist/10yoMUJRhiYQXeSBqyckcK"
-        },
-        {
-          "name": "Mariachi Los Galleros De Danny Rey",
-          "url": "https://open.spotify.com/artist/4rzEVBVdNGYvfekg3QbysF"
+          "name": "Rafael Kelly",
+          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
         }
       ],
-      "duration_ms": 216937,
-      "name": "No Te Me Dobles Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7hbOsAEUy4MszpW5mBP27Y"
+      "duration_ms": 151555,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
     },
     {
       "added_at": "2024-08-09 06:00:00",

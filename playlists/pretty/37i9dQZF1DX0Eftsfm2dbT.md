@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: NENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,272 likes - 87 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,290 likes - 87 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

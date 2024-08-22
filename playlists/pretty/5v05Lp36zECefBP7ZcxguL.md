@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
-| 2 | [Offering](https://open.spotify.com/track/3SIg3YZji1TQuPaMTdYEwW) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \(Deluxe\)](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:09 |
+| 2 | [Offering](https://open.spotify.com/track/3SIg3YZji1TQuPaMTdYEwW) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Deluxe](https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2) | 3:09 |
 | 3 | [Utah](https://open.spotify.com/track/3Uu2FJceIpAnuMW7giV9ry) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 3:21 |
 | 4 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 5 | [Wayward](https://open.spotify.com/track/31jtKzfCsbeLvk6WDkm7UV) | [Speech Debelle](https://open.spotify.com/artist/3i1MgHZrjt5ztR8InGmFsH) | [Wayward](https://open.spotify.com/album/65NbMxKezljdOWh5C5HyOS) | 3:08 |

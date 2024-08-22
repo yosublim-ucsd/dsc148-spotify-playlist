@@ -1,29 +1,13 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Chloe Qisha Artwork by Paola Saliby",
-  "num_followers": 215548,
+  "description": "The best new pop music by independent artists and labels. Cover: Michele Lu.  Artwork by Paola Saliby",
+  "num_followers": 215638,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr07NAAAAACV9+hcCfSj4VHiyjCI+0pv",
+  "snapshot_id": "ZsVuJAAAAAB7tnFRkWpiOOD1KdvkhF9W",
   "tracks": [
-    {
-      "added_at": "2024-08-07 04:00:00",
-      "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
     {
       "added_at": "2024-08-14 23:18:12",
       "album": {
@@ -41,20 +25,84 @@
       "url": "https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i"
     },
     {
-      "added_at": "2024-08-14 04:00:00",
+      "added_at": "2024-08-21 04:21:49",
       "album": {
-        "name": "money!",
-        "url": "https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW"
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K"
       },
       "artists": [
         {
-          "name": "Charli Lucas",
-          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+          "name": "Liv Miraldi",
+          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
         }
       ],
-      "duration_ms": 150650,
-      "name": "money!",
-      "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
+      "duration_ms": 236893,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/51Es7m0L8xBEthyJna04so"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "duration_ms": 183420,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
+    },
+    {
+      "added_at": "2024-08-07 04:00:00",
+      "album": {
+        "name": "I Lied, I'm Sorry",
+        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
+      },
+      "artists": [
+        {
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+        }
+      ],
+      "duration_ms": 162300,
+      "name": "I Lied, I'm Sorry",
+      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4mhf0XnJKJwrustMTk4hRI"
+      },
+      "artists": [
+        {
+          "name": "Semma",
+          "url": "https://open.spotify.com/artist/63qIQLQgiDrn5JLeftvuoK"
+        }
+      ],
+      "duration_ms": 184300,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/5tdbBukXi7Hmg7gHXTpgwR"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "KILLING ME SOFTLY",
+        "url": "https://open.spotify.com/album/7yXfxTCQVVyPKhDDkhUJaZ"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "KILLING ME SOFTLY",
+      "url": "https://open.spotify.com/track/3iEW8ePnQEGmPhr179STto"
     },
     {
       "added_at": "2024-08-07 04:00:00",
@@ -71,6 +119,182 @@
       "duration_ms": 172094,
       "name": "Love Always Knocks Me Out",
       "url": "https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "A Kid From Toronto",
+        "url": "https://open.spotify.com/album/3MihFWefLkU35jAEXC2eku"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "duration_ms": 192595,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1eg8vRZ2HI6zfevwEs8iDx"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "can we NOT!",
+        "url": "https://open.spotify.com/album/52v6O0aOHD7Md6fjk3m8ff"
+      },
+      "artists": [
+        {
+          "name": "NIA NADURATA",
+          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
+        }
+      ],
+      "duration_ms": 172455,
+      "name": "can we NOT!",
+      "url": "https://open.spotify.com/track/763GMHssYL2a8XWro8csMH"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Birthdays & Funerals",
+        "url": "https://open.spotify.com/album/7LYUIkMOvkITVj0qX1Jm9t"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "duration_ms": 158962,
+      "name": "Birthdays & Funerals",
+      "url": "https://open.spotify.com/track/5jMdGvVy61d1HPteOjVspJ"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Josefina",
+        "url": "https://open.spotify.com/album/4titPRX5YbydOTTZs8B8Y0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Cruz",
+          "url": "https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq"
+        }
+      ],
+      "duration_ms": 168949,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/4bv5ZSgEDfvJlZ6xJebEw7"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/25QpHk0NzPiDQosY51Mf0A"
+      },
+      "artists": [
+        {
+          "name": "Isabel Dumaa",
+          "url": "https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv"
+        }
+      ],
+      "duration_ms": 229717,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/1p8aAyqOd7RUiKV8BkY4ev"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "SINGLE*",
+        "url": "https://open.spotify.com/album/15ImPZ7q2Gwu8Mr320fJUm"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 114339,
+      "name": "SINGLE*",
+      "url": "https://open.spotify.com/track/18Atq3TTkPaEqrwpYDsStr"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Hey Hot Stuff",
+        "url": "https://open.spotify.com/album/5RnskXOCSnjXy3gqGOB2vZ"
+      },
+      "artists": [
+        {
+          "name": "eamon mo",
+          "url": "https://open.spotify.com/artist/3WbO3Mn34R017Hrq4WVXw2"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Hey Hot Stuff",
+      "url": "https://open.spotify.com/track/44xQXlcb1MU0L36hInHkmK"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "My Own Time",
+        "url": "https://open.spotify.com/album/4R0MewHn50qNvRTHNICCZA"
+      },
+      "artists": [
+        {
+          "name": "Jamra",
+          "url": "https://open.spotify.com/artist/5s8r3DCYb7AhwXrQNFoyh8"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "My Own Time",
+      "url": "https://open.spotify.com/track/3cjdVoJ8Fi0plBVfHpmHoR"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "MEAT",
+        "url": "https://open.spotify.com/album/32K0YJ8P5Ut1rIgneRGc58"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 154796,
+      "name": "MEAT",
+      "url": "https://open.spotify.com/track/5J1ceKHtPthS0TWkKfHaFN"
+    },
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0O8pzFkWpMA9sAGuEB9ynK"
+      },
+      "artists": [
+        {
+          "name": "Full Circle Boys",
+          "url": "https://open.spotify.com/artist/0YfeVLbLdLI28s03XYXfnJ"
+        }
+      ],
+      "duration_ms": 138391,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/7qQE1QwOsWHtTP08hw0y7u"
+    },
+    {
+      "added_at": "2024-08-14 04:00:00",
+      "album": {
+        "name": "money!",
+        "url": "https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW"
+      },
+      "artists": [
+        {
+          "name": "Charli Lucas",
+          "url": "https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx"
+        }
+      ],
+      "duration_ms": 150650,
+      "name": "money!",
+      "url": "https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn"
     },
     {
       "added_at": "2024-08-14 04:00:00",
@@ -911,22 +1135,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "SOCIALITE RODEO",
-        "url": "https://open.spotify.com/album/3sAzc8Kh3uH4lva8kw6ifU"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 140125,
-      "name": "LAUREL CANYON",
-      "url": "https://open.spotify.com/track/4xiV0w3ymIK2OomdbumBu9"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "red white & me",
         "url": "https://open.spotify.com/album/5RLVZJNNtKoGhgXScdA87i"
       },
@@ -1247,22 +1455,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "boo hoo",
-        "url": "https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM"
-      },
-      "artists": [
-        {
-          "name": "NIA NADURATA",
-          "url": "https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr"
-        }
-      ],
-      "duration_ms": 166987,
-      "name": "boo hoo",
-      "url": "https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Blame Me",
         "url": "https://open.spotify.com/album/4Ip5jY0U3bUyx5QjyFC3LJ"
       },
@@ -1359,22 +1551,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "FLIP IT BACK AGAIN",
-        "url": "https://open.spotify.com/album/1C0fioj28LGV4x6TRpv7J3"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Cassette",
-          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "FLIP IT BACK AGAIN",
-      "url": "https://open.spotify.com/track/3tkf6FK6pd9RNjvLc9qYNx"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/6RcUla7GznQLl9POMi4N3e"
       },
@@ -1427,22 +1603,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "TRUCE?",
-        "url": "https://open.spotify.com/album/1JeVht8TRLyjSiZMOaKO2P"
-      },
-      "artists": [
-        {
-          "name": "Zahraa",
-          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
-        }
-      ],
-      "duration_ms": 124062,
-      "name": "TRUCE?",
-      "url": "https://open.spotify.com/track/1ZG1m6fra8Z4i9baZdZYKC"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Kissing Undercover",
         "url": "https://open.spotify.com/album/09VZi0Iy0WVxIB26zYhMVk"
       },
@@ -1455,22 +1615,6 @@
       "duration_ms": 192805,
       "name": "Kissing Undercover",
       "url": "https://open.spotify.com/track/2gG3i2sg2vZURAuhJzrLkQ"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Rocket Woman",
-        "url": "https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 217215,
-      "name": "Rocket Woman",
-      "url": "https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I"
     },
     {
       "added_at": "2024-07-10 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > Listen to African women at full volume\. Cover: <a href="https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG?si=VyS\-3QlKR2GKpSY0F5ICYA"> Babalwa M</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,515 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,560 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

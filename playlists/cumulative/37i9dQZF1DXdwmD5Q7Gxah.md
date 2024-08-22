@@ -4,7 +4,7 @@
 
 > Remy Bond <3
 
-2,932 songs - 6 day 14 hr 27 min
+2,935 songs - 6 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,6 +1034,7 @@
 | [Good Buy My Old Life](https://open.spotify.com/track/1nmMm95AnGwZWIbxeJVio9) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Good Buy My Old Life](https://open.spotify.com/album/2X18O3Jbj1xmXlyOKFdWnu) | 3:30 | 2022-06-02 | 2022-07-30 |
 | [Good Day](https://open.spotify.com/track/7iTwzSe2fg5xYwCgXXFkEe) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Good Day](https://open.spotify.com/album/1HPmeTZ2Mgx0NvynTKpWOj) | 3:01 | 2019-10-04 | 2020-02-05 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2020-12-31 | 2022-01-08 |
+| [Good God](https://open.spotify.com/track/7m0v1FnyMd3CzZi5RYzMPa) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Pest](https://open.spotify.com/album/4ANln4Sj8b5Anhb7RKnGXw) | 1:59 | 2024-08-21 |  |
 | [Good Grief](https://open.spotify.com/track/7rUytGRv5slfSodhCQQaKf) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Good Grief](https://open.spotify.com/album/10pyN4NN0zIgFs18vYupTW) | 3:47 | 2021-07-17 | 2021-08-14 |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/0ufGu1NoCEIpGkBcF1dT6g) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:37 | 2022-08-12 | 2023-04-15 |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/5LCX1wM1PVSbAdMZOMWF6j) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/44y89J6pXeVRJbEjcjQVu2) | 3:38 | 2022-08-12 | 2022-11-03 |
@@ -1112,6 +1113,7 @@
 | [Heather](https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/3BdWnsb2tG6ajlPHmd8jh6) | 3:18 | 2020-03-20 | 2021-01-12 |
 | [Heaven](https://open.spotify.com/track/4rq7yBxY4DcmP8MvxJwxLX) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Heaven](https://open.spotify.com/album/7g4sJ83bs0W0xKBDT7npb2) | 3:20 | 2022-09-13 | 2022-10-29 |
 | [Heaven Falls / Fall on Me](https://open.spotify.com/track/7yHqOZfsXYlicyoMt62yC6) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Heaven Falls / Fall on Me](https://open.spotify.com/album/47FlG4nYHBCVO0DKbdMbCz) | 4:00 | 2019-08-02 | 2019-08-08 |
+| [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-22 |  |
 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 | 2024-07-26 |  |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:15 | 2023-09-22 | 2023-11-18 |
 | [Hell of a Ride](https://open.spotify.com/track/09P99kOfM2P7w3DN3eL1uz) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Catching Chickens EP](https://open.spotify.com/album/2F3uJS0u2IHG8itwnMTTNH) | 3:43 | 2024-03-29 | 2024-07-27 |
@@ -2266,6 +2268,7 @@
 | [Slugs \- yeule & Kin Leonn Remix](https://open.spotify.com/track/4KAq5S5t4tHz5jaARTRT7t) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK) | [Slugs \(yeule & Kin Leonn Remix\)](https://open.spotify.com/album/5tB9jODs9DbqQ6lBAVivKk) | 3:10 | 2024-05-10 | 2024-06-27 |
 | [Smile](https://open.spotify.com/track/0Q7bQszd9Lr699WS2Uo9aq) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Ben Beal](https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV) | [Smile](https://open.spotify.com/album/3o5CXZt4E5R4KJ6xt7xIui) | 2:23 | 2019-10-04 | 2020-02-20 |
 | [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2023-01-13 | 2023-03-07 |
+| [Smile Please](https://open.spotify.com/track/0WbuDhRzi9VQdz1qmUY47l) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Smile Please](https://open.spotify.com/album/7ICcPNtiYMD2teS4rFClhS) | 2:15 | 2024-08-22 |  |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2021-12-03 | 2022-01-08 |
 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 | 2023-03-09 | 2023-05-26 |
 | [Smokescreen](https://open.spotify.com/track/5OiEjwZys4qcCYaBJNFn7I) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/0SUI4zxDGF2FMFDC10YENM) | 2:40 | 2020-04-10 | 2020-05-22 |

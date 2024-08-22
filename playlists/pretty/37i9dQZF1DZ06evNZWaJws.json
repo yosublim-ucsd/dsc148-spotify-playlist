@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 309075,
+  "num_followers": 309139,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADcfbMHixxfPy8S3EYJcnmg",
+  "snapshot_id": "ZsPcgAAAAACUwREgI0kcQztbM2Zkjx8U",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tucanes De Plata ... Tucanazos Censurados",
-        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164320,
-      "name": "El Doctor Del Pueblo",
-      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 145004,
       "name": "Carrera Prohibida",
       "url": "https://open.spotify.com/track/6WOJAgzKbqHxBmYsKqbiW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tucanes De Plata ... Tucanazos Censurados",
+        "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164320,
+      "name": "El Doctor Del Pueblo",
+      "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
     },
     {
       "added_at": null,

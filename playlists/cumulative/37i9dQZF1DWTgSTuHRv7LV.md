@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Genio La Musa
 
-646 songs - 1 day 12 hr 47 min
+647 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Cali Kush](https://open.spotify.com/track/1LnbPH4077VghifKw1SFeL) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [CALI KUSH](https://open.spotify.com/album/4vruQWe3VzHYxARZHs2mmQ) | 2:23 | 2023-05-26 | 2023-11-25 |
 | [Camina Sola](https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 3:33 | 2022-10-07 | 2023-05-27 |
 | [caminando en la nieve \(feat\. Akapellah, Apache & Pawmps\) \- Orestes Gomez & Nick Hook’s Versión](https://open.spotify.com/track/3bErW9oonJmaElbaPfJPlg) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Pawmps](https://open.spotify.com/artist/0DNZEfs4xO3CUv6AYQL9Nb), [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [RTJ CU4TRO](https://open.spotify.com/album/1ILVeBkzKVhwqn1ze1et9x) | 4:25 | 2022-12-09 | 2023-05-27 |
+| [Candela](https://open.spotify.com/track/6QgZMzRigLCwQZfEBgRDoU) | [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Candela](https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j) | 2:51 | 2024-08-16 |  |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2022-01-06 | 2022-01-20 |
 | [Casa en la Montaña 3](https://open.spotify.com/track/1bv7wjY1eVYRjkulzmqJP2) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Cozy Cuz](https://open.spotify.com/artist/3ScIigEm9KZUrUQtXzBmKJ), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Yoga Fire](https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF), [Dee](https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk), [Nark](https://open.spotify.com/artist/4mjXYIvLlviUNf2BEryIMF), [Seven](https://open.spotify.com/artist/4grvhYi44nIifNrJgSzit2), [Phul King Fu](https://open.spotify.com/artist/0gKLv0OjOfDAd2HXhYqUh3), [Blaze](https://open.spotify.com/artist/5XF8C0JpxRmie3MvAH3r6c) | [Humo en la Trampa 3](https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY) | 7:18 | 2022-01-06 | 2022-10-08 |
 | [Cascada](https://open.spotify.com/track/7pKe9aetI14JCwKBZAEe6a) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 3:12 | 2022-01-19 | 2022-10-08 |

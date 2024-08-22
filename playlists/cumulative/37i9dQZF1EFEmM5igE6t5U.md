@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 14 hr 50 min
+232 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 | 2023-03-09 |  |
 | [Juiciest \- Mixtape Version](https://open.spotify.com/track/3VmPZPYkNOtDvMBRJUK2Kh) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:03 | 2023-03-09 | 2023-06-05 |
 | [Juiciest \- Mixtape Version](https://open.spotify.com/track/5jsHGkjjHVg86e79Nl22Wp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 3:03 | 2023-06-04 |  |
+| [Kaleidoscope \(From the New Broadway Musical “Hell’s Kitchen”\)](https://open.spotify.com/track/5uuB4cEEevgE1e9daOnaV8) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Maleah Joi Moon](https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM) | [Hell’s Kitchen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We) | 4:00 | 2024-08-21 |  |
 | [Karma](https://open.spotify.com/track/5X0UH4kp5zNOQiAbeN6OF1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Karma \(Official HD Video\)](https://open.spotify.com/album/1of76mxmIF3Dypvk0QEmzy) | 3:45 | 2023-12-22 | 2024-02-01 |
 | [Karma](https://open.spotify.com/track/588RGyR1f4Plc8nm7SrdCa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:16 | 2023-03-09 |  |
 | [KEYS](https://open.spotify.com/track/1RIXer9Ww45TrBy7XAE0qW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 1:25 | 2023-03-09 |  |

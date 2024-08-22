@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwsUp7D7wBj.md) - [plain]
 
 > 🖤 FUER\-ZA\-REGIDA 🚫  No Love Zone  <a href="spotify:episode:6GuAh0TGEPY5NzEMiuOCey">here</a> 🚫 🖤 check out the playlist clips for more ⬆️
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,375 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,417 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Love Language. Artwork by Rewina Beshue.",
-  "num_followers": 182770,
+  "num_followers": 182851,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAC667GvE99hN5lFASEwYXQx",
+  "snapshot_id": "ZsYj+wAAAABX4IwTCYqe5BeyXYre6pTB",
   "tracks": [
     {
       "added_at": "2024-08-07 16:28:20",
@@ -23,6 +23,22 @@
       "duration_ms": 174500,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
+    },
+    {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/2Eb6VZ97H48q7orStHq0Il"
+      },
+      "artists": [
+        {
+          "name": "cutback!",
+          "url": "https://open.spotify.com/artist/3K9E1NNVSshkvpK6Fhjwsg"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/2kmgfAlPhh3kCgSzf1tJkL"
     },
     {
       "added_at": "2024-08-07 16:28:20",
@@ -45,6 +61,70 @@
       "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
     },
     {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "AMO",
+        "url": "https://open.spotify.com/album/3z03cZKSR6Z0LDjqSzliz8"
+      },
+      "artists": [
+        {
+          "name": "ary:eh",
+          "url": "https://open.spotify.com/artist/1g9QJsKgMuZnw8Ef3Vr7WD"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "AMO",
+      "url": "https://open.spotify.com/track/5owyt7S3lYVZN3HInaWGDU"
+    },
+    {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Beb\u00e9",
+        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
+      },
+      "artists": [
+        {
+          "name": "Sloujin",
+          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Beb\u00e9",
+      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
+    },
+    {
+      "added_at": "2024-08-07 16:28:20",
+      "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
+      },
+      "artists": [
+        {
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
+        }
+      ],
+      "duration_ms": 198187,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
+    },
+    {
+      "added_at": "2024-07-03 22:16:33",
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/635u0bGwsx435mthsZdYZq"
+      },
+      "artists": [
+        {
+          "name": "Basti\u00e1n",
+          "url": "https://open.spotify.com/artist/0DuBhFEeMdGd1CnC7OVJTz"
+        }
+      ],
+      "duration_ms": 275537,
+      "name": "180",
+      "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
+    },
+    {
       "added_at": "2024-08-14 18:04:42",
       "album": {
         "name": "waiting for u",
@@ -59,6 +139,22 @@
       "duration_ms": 189125,
       "name": "waiting for u",
       "url": "https://open.spotify.com/track/0mGSVNlVdbFaZNMy5jKLmC"
+    },
+    {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "Everyone in McKinney is Dead",
+        "url": "https://open.spotify.com/album/6f33N6jZj6GhNrksJPEJRA"
+      },
+      "artists": [
+        {
+          "name": "private browsing",
+          "url": "https://open.spotify.com/artist/0OzLl6oWO5vIHKPTqVLF8O"
+        }
+      ],
+      "duration_ms": 258470,
+      "name": "okay picasso",
+      "url": "https://open.spotify.com/track/07bD32Nw101qUUjEgjxuWS"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -97,54 +193,6 @@
       "url": "https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5"
     },
     {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Beb\u00e9",
-        "url": "https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx"
-      },
-      "artists": [
-        {
-          "name": "Sloujin",
-          "url": "https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Beb\u00e9",
-      "url": "https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX"
-    },
-    {
-      "added_at": "2024-07-03 22:16:33",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/635u0bGwsx435mthsZdYZq"
-      },
-      "artists": [
-        {
-          "name": "Basti\u00e1n",
-          "url": "https://open.spotify.com/artist/0DuBhFEeMdGd1CnC7OVJTz"
-        }
-      ],
-      "duration_ms": 275537,
-      "name": "180",
-      "url": "https://open.spotify.com/track/044Pe0QnRSNOuOSayWnqSQ"
-    },
-    {
-      "added_at": "2024-08-07 16:28:20",
-      "album": {
-        "name": "On Deck",
-        "url": "https://open.spotify.com/album/4W61RtQ5PBoHjynftmWNPy"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 198187,
-      "name": "On Deck",
-      "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
-    },
-    {
       "added_at": "2024-08-14 18:04:42",
       "album": {
         "name": "FELT GOOD",
@@ -177,20 +225,20 @@
       "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
     },
     {
-      "added_at": "2024-03-27 17:04:34",
+      "added_at": "2024-08-21 17:29:31",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
       },
       "artists": [
         {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+          "name": "Ohmfield",
+          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
         }
       ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+      "duration_ms": 151565,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -207,22 +255,6 @@
       "duration_ms": 205278,
       "name": "Push That",
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
-    },
-    {
-      "added_at": "2024-08-14 18:04:42",
-      "album": {
-        "name": "Badboy No Good",
-        "url": "https://open.spotify.com/album/1hfb8YL2aXiZhvid1W6oUd"
-      },
-      "artists": [
-        {
-          "name": "M4A4",
-          "url": "https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E"
-        }
-      ],
-      "duration_ms": 284267,
-      "name": "Badboy No Good",
-      "url": "https://open.spotify.com/track/35x0t2rt0o7TE8QC8Mom0v"
     },
     {
       "added_at": "2024-07-24 17:53:28",
@@ -257,6 +289,22 @@
       "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
     },
     {
+      "added_at": "2024-03-27 17:04:34",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Wii Shop Channel",
@@ -271,6 +319,38 @@
       "duration_ms": 231611,
       "name": "Wii Shop Channel",
       "url": "https://open.spotify.com/track/1nyjTJTfvks3F2YfuAXIqQ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+    },
+    {
+      "added_at": "2024-01-24 18:00:00",
+      "album": {
+        "name": "FIRST ENCOUNTER",
+        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 169354,
+      "name": "Boy, Empty",
+      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
     },
     {
       "added_at": "2024-06-27 04:03:44",
@@ -369,6 +449,42 @@
       "url": "https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0"
     },
     {
+      "added_at": "2024-05-24 04:00:00",
+      "album": {
+        "name": "bambam",
+        "url": "https://open.spotify.com/album/1hxGyLiAe82fJnPiyBJOpZ"
+      },
+      "artists": [
+        {
+          "name": "babyspoon",
+          "url": "https://open.spotify.com/artist/2az2WY6yVvN5tGd8zIjFdU"
+        },
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "bambam",
+      "url": "https://open.spotify.com/track/7dOd3rGQosCkUHptUv9kn0"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
+    },
+    {
       "added_at": "2024-07-31 17:23:25",
       "album": {
         "name": "Smile",
@@ -399,26 +515,6 @@
       "duration_ms": 206769,
       "name": "Luv techniques",
       "url": "https://open.spotify.com/track/7BBdmGUKUsue4uRZHryzAf"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "bambam",
-        "url": "https://open.spotify.com/album/1hxGyLiAe82fJnPiyBJOpZ"
-      },
-      "artists": [
-        {
-          "name": "babyspoon",
-          "url": "https://open.spotify.com/artist/2az2WY6yVvN5tGd8zIjFdU"
-        },
-        {
-          "name": "Melo Nada",
-          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "bambam",
-      "url": "https://open.spotify.com/track/7dOd3rGQosCkUHptUv9kn0"
     },
     {
       "added_at": "2024-08-07 16:28:20",
@@ -551,6 +647,22 @@
       "duration_ms": 182769,
       "name": "Is This Real Love",
       "url": "https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM"
+    },
+    {
+      "added_at": "2024-08-14 18:04:42",
+      "album": {
+        "name": "Badboy No Good",
+        "url": "https://open.spotify.com/album/1hfb8YL2aXiZhvid1W6oUd"
+      },
+      "artists": [
+        {
+          "name": "M4A4",
+          "url": "https://open.spotify.com/artist/6r6Bo3WK3Dm28xUMipFF8E"
+        }
+      ],
+      "duration_ms": 284267,
+      "name": "Badboy No Good",
+      "url": "https://open.spotify.com/track/35x0t2rt0o7TE8QC8Mom0v"
     },
     {
       "added_at": "2024-07-31 17:23:25",
@@ -815,22 +927,6 @@
       "duration_ms": 189213,
       "name": "Clears",
       "url": "https://open.spotify.com/track/2XNAiUiyDFWG5xzNBMuYxN"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1201,38 +1297,6 @@
       "url": "https://open.spotify.com/track/4dFiYMd6w1uOJsm2SYKLzU"
     },
     {
-      "added_at": "2024-01-24 18:00:00",
-      "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
-    },
-    {
-      "added_at": "2024-07-03 22:16:33",
-      "album": {
-        "name": "Party Time",
-        "url": "https://open.spotify.com/album/46ATcqjybqaFdoSzihPf0o"
-      },
-      "artists": [
-        {
-          "name": "James View",
-          "url": "https://open.spotify.com/artist/07CtYKvP7pqKd2aIBqhgpr"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Party Time",
-      "url": "https://open.spotify.com/track/0YsqM8QeilX8nxC2uUhsK4"
-    },
-    {
       "added_at": "2024-07-05 04:00:00",
       "album": {
         "name": "Need You",
@@ -1279,22 +1343,6 @@
       "duration_ms": 226341,
       "name": "Change Your Mind - Radio Edit",
       "url": "https://open.spotify.com/track/04HjL2O46PtHS4eX3XeqHU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Found",
-        "url": "https://open.spotify.com/album/35doqyE14bQ0BjCtcK4QgQ"
-      },
-      "artists": [
-        {
-          "name": "\u00d6zg\u00fcr Can",
-          "url": "https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi"
-        }
-      ],
-      "duration_ms": 302589,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/6W37Y4SPJyXyS3u6OS6ab6"
     },
     {
       "added_at": "2024-07-10 17:56:31",
@@ -1357,22 +1405,6 @@
       "url": "https://open.spotify.com/track/7f55PbgmDgjN2bdwm2btjY"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Friends",
@@ -1403,22 +1435,6 @@
       "duration_ms": 159327,
       "name": "give me a reason",
       "url": "https://open.spotify.com/track/6C0qnaMsSpHWwCdQXPpK06"
-    },
-    {
-      "added_at": "2024-07-10 17:56:31",
-      "album": {
-        "name": "Last Calls EP",
-        "url": "https://open.spotify.com/album/6H26WrYkK7bUlXMt8FUKnT"
-      },
-      "artists": [
-        {
-          "name": "Bassi",
-          "url": "https://open.spotify.com/artist/198mTD8J1qhjXSGWzsLOQ2"
-        }
-      ],
-      "duration_ms": 349327,
-      "name": "Problems on the Phone",
-      "url": "https://open.spotify.com/track/2SBzoGAlPUZjUzR4WW5ZXg"
     },
     {
       "added_at": "2024-07-17 16:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 201176,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/2qWe5HDWdBMz3dfTKo0i6f"
-    },
-    {
-      "added_at": "2024-06-27 04:03:44",
-      "album": {
-        "name": "Beautiful Dancers",
-        "url": "https://open.spotify.com/album/5EE6lWnCXFGVjeTCsmUQY8"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 374710,
-      "name": "Beautiful Dancers",
-      "url": "https://open.spotify.com/track/4UzYOXWZU0w79GuKMXobpc"
     },
     {
       "added_at": "2024-06-12 18:22:48",

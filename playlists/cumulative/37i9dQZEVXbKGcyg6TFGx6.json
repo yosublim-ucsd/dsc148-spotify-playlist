@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 161977,
       "name": "Aucune attache",
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 201951,
       "name": "Bah Ouais - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 133932,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -6888,6 +6888,24 @@
       "duration_ms": 151000,
       "name": "Cadeau (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
+    },
+    {
+      "album": {
+        "name": "Caiste",
+        "url": "https://open.spotify.com/album/1hYx40gB6v4wiGRSD3HRom"
+      },
+      "artists": [
+        {
+          "name": "Ekkino",
+          "url": "https://open.spotify.com/artist/3Xuy0OY2qwhJk4WGKTBO1P"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178069,
+      "name": "Caiste",
+      "url": "https://open.spotify.com/track/54WrZq5HEOf4cUDCD5cMSo"
     },
     {
       "album": {
@@ -14756,7 +14774,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -19423,6 +19441,24 @@
     },
     {
       "album": {
+        "name": "In this night we're alive",
+        "url": "https://open.spotify.com/album/46V8IPMPqPtcLl7ISuk0vR"
+      },
+      "artists": [
+        {
+          "name": "Serafima Orozco",
+          "url": "https://open.spotify.com/artist/07jqCn5Af3ThSziyqo2e1n"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "In this night we're alive",
+      "url": "https://open.spotify.com/track/6PfMHwTvTEmayF081KK72z"
+    },
+    {
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -22922,7 +22958,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -35268,7 +35304,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 160000,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3jOGNwUGr6MxrWiRg1YXTw"

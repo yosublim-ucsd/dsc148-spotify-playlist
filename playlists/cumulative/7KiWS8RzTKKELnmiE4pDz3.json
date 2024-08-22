@@ -5913,6 +5913,32 @@
     },
     {
       "album": {
+        "name": "Delusions of Grandeur",
+        "url": "https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177243,
+      "name": "Ice (feat. Gunna & Lil Baby)",
+      "url": "https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC"
+    },
+    {
+      "album": {
         "name": "Ice Melt",
         "url": "https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb"
       },

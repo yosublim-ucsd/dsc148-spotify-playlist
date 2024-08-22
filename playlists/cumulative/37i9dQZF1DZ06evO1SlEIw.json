@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-24",
-  "description": "This is Linked Horizon. The essential tracks, all in one playlist.",
+  "description": "This is: Linked Horizon. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Linked Horizon",
   "tracks": [
     {
@@ -308,6 +308,24 @@
       "duration_ms": 240740,
       "name": "Saigo no Kyojin",
       "url": "https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kioku",
+        "url": "https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324433,
+      "name": "Saigo no Senka",
+      "url": "https://open.spotify.com/track/6s1vr66o45wiygolreLIfz"
     },
     {
       "album": {

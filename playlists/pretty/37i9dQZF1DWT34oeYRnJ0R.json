@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Boza & ELENA ROSE",
-  "num_followers": 665402,
+  "num_followers": 665405,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Punter\u00eda",
-      "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Passoa",
         "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Punter\u00eda",
+      "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "FARDOS",
-        "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 183335,
-      "name": "FARDOS",
-      "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 209883,
       "name": "Nost\u00e1lgico",
       "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "FARDOS",
+        "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 183335,
+      "name": "FARDOS",
+      "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Me Lo Merezco",
+        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Me Lo Merezco",
+      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Me Lo Merezco",
-        "url": "https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Me Lo Merezco",
-      "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "SIGO AL PENDIENTE",
+        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "SIGO AL PENDIENTE",
+      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 201361,
       "name": "Mejor",
       "url": "https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "SIGO AL PENDIENTE",
-        "url": "https://open.spotify.com/album/5zL11LOIVjodw1Xan5jKRc"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "SIGO AL PENDIENTE",
-      "url": "https://open.spotify.com/track/5mD2dZLizhARH7HeWjNFm6"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Embuste",
-        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
-      },
-      "artists": [
-        {
-          "name": "Lemuell",
-          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
-        }
-      ],
-      "duration_ms": 159273,
-      "name": "Embuste",
-      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/7nVcDQMiKAJvKArWWVmlft"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 91371,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/2cTMmwJpMuGxH4AQUhS2qh"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Embuste",
+        "url": "https://open.spotify.com/album/7xtgpGt2BFkVFEAd8aHfg5"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "duration_ms": 159273,
+      "name": "Embuste",
+      "url": "https://open.spotify.com/track/2QYGzHbbAbJ6j5hOH3xi86"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Y Qu\u00e9",
         "url": "https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 168979,
       "name": "Y Qu\u00e9",
       "url": "https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 184748,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Dame Un Break (Remix)",
         "url": "https://open.spotify.com/album/6nLjjJAYSRzGOb3fy2FUcN"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 173240,
       "name": "Hace Un Mes",
       "url": "https://open.spotify.com/track/1mq5Ts1TBYiXGX8D0QEhHf"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 184748,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/79SZwWu9dhgyCBeA5YeQRQ"
     },
     {
       "added_at": "2024-08-09 04:00:00",

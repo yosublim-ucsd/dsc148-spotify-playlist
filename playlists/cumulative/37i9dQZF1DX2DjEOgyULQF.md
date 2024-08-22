@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-192 songs - 9 hr 25 min
+193 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Parrot Sleeping](https://open.spotify.com/track/5wTruvb8ryeFw3c63pYlpD) | [Constellation Sound](https://open.spotify.com/artist/75vDpcPUORxddJKQvF6s1a) | [A Bird Sleeping in Paradise](https://open.spotify.com/album/5NK8FsNgUXZRGw1iXfYcns) | 2:24 | 2023-04-28 |  |
 | [A Place of Peace](https://open.spotify.com/track/0YF30Hf8CZH7v59lLuLZO7) | [Asana Vinyasa](https://open.spotify.com/artist/6mdFTsL63BXyh7eqPaGCsf) | [The Enlightened](https://open.spotify.com/album/1HE8xVDtSeNhH6cyVGZgcZ) | 2:49 | 2023-04-28 | 2023-05-23 |
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-16 |  |
-| [Ajna](https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Ajna](https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J) | 2:27 | 2024-06-03 |  |
+| [Ajna](https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ) | [Hollow Graham](https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz) | [Ajna](https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J) | 2:27 | 2024-06-03 | 2024-08-22 |
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-04-28 |  |
 | [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-28 |  |
 | [Amyntas](https://open.spotify.com/track/2LoApskCgehKJwVbl81Ktd) | [Blissful Calm](https://open.spotify.com/artist/6XnhClcw52DIgH82JbusZ7) | [Amyntas](https://open.spotify.com/album/7eAbD4kq6mCmddMAK5mPft) | 2:20 | 2023-04-28 |  |
@@ -152,6 +152,7 @@
 | [Serene Lake \(Spa\)](https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:37 | 2023-04-28 |  |
 | [Serene Spa](https://open.spotify.com/track/7n8oXsxqPGZKUrhFK3zYHz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serene Spa](https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz) | 2:10 | 2024-04-01 |  |
 | [Serenity Flow](https://open.spotify.com/track/25oEmpvht5NM8M0LagktCx) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serenity Flow](https://open.spotify.com/album/4IS6fz1Jjunk4MSAKNJcak) | 2:31 | 2023-11-24 |  |
+| [serulian](https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [serulian](https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p) | 2:07 | 2024-07-19 |  |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2023-04-28 |  |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2023-04-28 |  |
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 |  |

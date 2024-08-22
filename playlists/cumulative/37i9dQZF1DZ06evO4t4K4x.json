@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
+  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Delia Derbyshire",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-22",
       "duration_ms": 80200,
       "name": "Delia's Theme",
       "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 63760,
       "name": "Restless Relays",
       "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-77 songs - 3 hr 55 min
+78 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,5 +85,6 @@
 | [Traffic Lights](https://open.spotify.com/track/4OZIK5553fVfj68nP7fiMQ) | [Keytap](https://open.spotify.com/artist/2A4BFEH3k6A0vXyEgq28MW), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Cassette Sound](https://open.spotify.com/album/4rvr89nsFSzdMyCrC1rMyg) | 1:45 | 2024-06-24 |  |
 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 | 2024-06-24 |  |
 | [Where I'm Coming From \- Instrumental](https://open.spotify.com/track/3XXZgmqPvywvV64ZolnAsS) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Cool Classic Jazzstrumentals \(Volume One\)](https://open.spotify.com/album/5QjyX5NN59cQAdkGTJkd4m) | 4:55 | 2024-06-24 |  |
+| [Without A Doubt \- Salaam's Instrumental](https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [Without A Doubt](https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L) | 4:26 | 2024-08-21 |  |
 
 \*This playlist was first scraped on 2024-06-29. Prior content cannot be recovered.

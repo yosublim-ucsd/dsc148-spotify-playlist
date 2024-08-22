@@ -1,12 +1,12 @@
 {
-  "description": "This is Lalo Mora. Tutti i brani in un'unica playlist.",
-  "num_followers": 58996,
+  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
+  "num_followers": 59020,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACWT2gf8cWLMBb4tzDMZSya",
+  "snapshot_id": "ZsPcgAAAAAAAxHl5Bpxt/bI8YjbJbT9y",
   "tracks": [
     {
       "added_at": null,
@@ -595,54 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 163013,
-      "name": "Flor de Dalia",
-      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
         "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
       },
@@ -663,6 +615,54 @@
       "duration_ms": 201909,
       "name": "Avi\u00e9ntame (EN VIVO DESDE EL DOMO CARE)",
       "url": "https://open.spotify.com/track/4kk1USe5mVA2RlGCHY6Iv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 163013,
+      "name": "Flor de Dalia",
+      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X Aniversario",
         "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 196385,
       "name": "Se Vale Llorar",
       "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/4Vz4J7SjB34snVIJjjrVCB"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Rafael Caro Quintero",
-      "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos Con Sax, Vol. 2",
         "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 177733,
       "name": "El Pavido Navido",
       "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
     },
     {
       "added_at": null,

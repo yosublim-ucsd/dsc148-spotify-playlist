@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=hfVLax0ZRnanNGVT_IilVw>Ada Ehi</a>",
-  "num_followers": 74534,
+  "num_followers": 74573,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+    },
+    {
       "added_at": "2024-04-12 00:01:00",
       "album": {
         "name": "Overflow (Live)",
@@ -939,22 +955,6 @@
       "duration_ms": 372736,
       "name": "Overflow - Live",
       "url": "https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
     },
     {
       "added_at": "2024-04-26 00:01:00",
@@ -1177,6 +1177,22 @@
       "url": "https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB"
     },
     {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "God Reigns",
+        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "You Saved Me",
+      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+    },
+    {
       "added_at": "2024-06-21 00:01:00",
       "album": {
         "name": "Malaika x Bien",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "God Reigns",
-        "url": "https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
       },
       "artists": [
         {
-          "name": "Eugy Official",
-          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
         }
       ],
-      "duration_ms": 192027,
-      "name": "You Saved Me",
-      "url": "https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O"
+      "duration_ms": 153103,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
     },
     {
       "added_at": "2024-07-12 00:01:00",
@@ -1229,22 +1245,6 @@
       "url": "https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Way\u03b5 Me Yie",
@@ -1259,6 +1259,26 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "duration_ms": 382499,
+      "name": "Prophetic Chant (Live)",
+      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -1283,26 +1303,6 @@
       "duration_ms": 211200,
       "name": "Baba",
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        }
-      ],
-      "duration_ms": 382499,
-      "name": "Prophetic Chant (Live)",
-      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
         }
       ],
-      "duration_ms": 281627,
-      "name": "God All by Yourself",
-      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1471,18 +1471,34 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
       },
       "artists": [
         {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
         }
       ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+      "duration_ms": 281627,
+      "name": "God All by Yourself",
+      "url": "https://open.spotify.com/track/0tH787oWS89L1iaZDgoWBd"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -1509,46 +1525,6 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "Owawani",
-        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Owawani",
-      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "WONDERFUL",
-        "url": "https://open.spotify.com/album/5axh27WducjLFbcRUyKHxe"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Julia McMillan",
-          "url": "https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ"
-        },
-        {
-          "name": "Great Grace Music",
-          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
-        }
-      ],
-      "duration_ms": 223846,
-      "name": "WONDERFUL",
-      "url": "https://open.spotify.com/track/1gU3Uiu6yX6B0GQu32a9TX"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "I'm The One",
@@ -1571,22 +1547,38 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Okaka",
-        "url": "https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz"
+        "name": "Onwanwani",
+        "url": "https://open.spotify.com/album/7mdVICvVDQTjBo5jsyVAY3"
       },
       "artists": [
         {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
         }
       ],
-      "duration_ms": 740413,
-      "name": "Okaka",
-      "url": "https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3"
+      "duration_ms": 357236,
+      "name": "Onwanwani",
+      "url": "https://open.spotify.com/track/4zMwX6dhKL54LaRTp7quwO"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "My Worship (Live)",
+        "url": "https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 637823,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
     }
   ],
   "unique_name": "Be Lifted ",

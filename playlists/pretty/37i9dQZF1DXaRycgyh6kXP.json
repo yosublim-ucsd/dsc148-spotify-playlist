@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 229168,
+  "num_followers": 229368,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Other Lights",
-        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
-      },
-      "artists": [
-        {
-          "name": "Dustin O'Halloran",
-          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
-        }
-      ],
-      "duration_ms": 128773,
-      "name": "An Ending, a Beginning",
-      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Ardour",
         "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Other Lights",
+        "url": "https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb"
+      },
+      "artists": [
+        {
+          "name": "Dustin O'Halloran",
+          "url": "https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq"
+        }
+      ],
+      "duration_ms": 128773,
+      "name": "An Ending, a Beginning",
+      "url": "https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Faith in Strangers",
         "url": "https://open.spotify.com/album/1BzMONuUlgUnqOrg2aQeAY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 389186,
       "name": "Faith in Strangers",
       "url": "https://open.spotify.com/track/4wSMi5urWxpBPbnWqfI1Ht"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Within and Without",
         "url": "https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 287720,
       "name": "Eyes Be Closed",
       "url": "https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "A flame my love, a frequency",
-        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
+        "name": "Lost At Sea (Kelly Moran remix)",
+        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
       "artists": [
         {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
         }
       ],
-      "duration_ms": 314441,
-      "name": "The stars vs creatures",
-      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Lost At Sea (Kelly Moran remix)",
-        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
+        "name": "A flame my love, a frequency",
+        "url": "https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+      "duration_ms": 314441,
+      "name": "The stars vs creatures",
+      "url": "https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 423933,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Ambivalence Avenue",
-        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 238640,
-      "name": "lovers\u2019 carvings",
-      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk"
       },
@@ -1423,6 +1391,38 @@
       "duration_ms": 285036,
       "name": "So Many Details",
       "url": "https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Hi Scores",
+        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 423933,
+      "name": "Everything You Do Is A Balloon",
+      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Ambivalence Avenue",
+        "url": "https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "lovers\u2019 carvings",
+      "url": "https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Another Girl",
-        "url": "https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 402958,
-      "name": "Another Girl",
-      "url": "https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Another Girl",
+        "url": "https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 402958,
+      "name": "Another Girl",
+      "url": "https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG"
     },
     {
       "added_at": "2024-08-16 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 220965,
+  "num_followers": 221002,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACDoNp8ZwDJ0I3T68P9dbYD",
+  "snapshot_id": "ZsPcgAAAAAAcZ8N++dzE71G2WQqN7+HT",
   "tracks": [
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 1 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Round 1",
-      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfC\u00f3mo Se Supera?",
         "url": "https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 203916,
       "name": "\u00bfC\u00f3mo Se Supera?",
       "url": "https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Round 1 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Round 1",
+      "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morro Dolido",
+        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Morro Dolido",
+      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callejera",
         "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
       },
@@ -1083,26 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "La Paleta (feat. C-Kan)",
-      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Asi Es La Vida",
         "url": "https://open.spotify.com/album/02oodXzb5WDra68PzPmFV4"
       },
@@ -1127,6 +1127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "La Paleta (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psicosis",
         "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 179120,
       "name": "La Historia De Un Olvido",
       "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morro Dolido",
-        "url": "https://open.spotify.com/album/3ijLDnCY3DxAvdFzFpcuq4"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Morro Dolido",
-      "url": "https://open.spotify.com/track/0UijcdiQn3GWgZruY5MPAy"
     },
     {
       "added_at": null,
@@ -1219,22 +1219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuga Pal Gabacho",
-        "url": "https://open.spotify.com/album/50OWCAQeFQI6hVyRSyiQGU"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 170946,
-      "name": "Fuga Pal Gabacho",
-      "url": "https://open.spotify.com/track/6QeA0l9V1H682UgiWZlgFV"
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
     }
   ],
   "unique_name": "This Is MC Davo",

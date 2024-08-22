@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 
 > Te portaste mal\. Foto: BM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,436 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,493 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpkE3ZIwffo.md) - [plain]
 | 39 | [Perreo Medinas \- Remix](https://open.spotify.com/track/1Mdb9pSm4lQ5TtCblFX66N) | [MEDINAS](https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr) | [Perreo Medinas \(Remix\)](https://open.spotify.com/album/34xbT3PngxFIVPXsIbJTtl) | 2:51 |
 | 40 | [KALEB DI MASI \| E12](https://open.spotify.com/track/10fiASgR8q70H1dUW9ZJvI) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [KALEB DI MASI \| E12](https://open.spotify.com/album/3vVYBlj9YHViHD78WDr0J1) | 2:17 |
 | 41 | [Gusty DJ \| Ecko \- Session en el Barrio \#7](https://open.spotify.com/track/2ALRaYszX1wDifP6HrcdqS) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Gusty DJ \| Ecko \- Session en el Barrio \#7](https://open.spotify.com/album/6QZ3eTMUjgfyJdK7ukXGid) | 2:44 |
-| 42 | [ME VOY \| E9](https://open.spotify.com/track/1PsHzI1j2YdALtsX9N6fP0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [ME VOY \| E9](https://open.spotify.com/album/4eTdUnsV9I8vL3mEptSYQk) | 2:18 |
+| 42 | [DJ ALEX, ECKO \- ME VOY \| E9](https://open.spotify.com/track/1PsHzI1j2YdALtsX9N6fP0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [DJ ALEX, ECKO \- ME VOY \| E9](https://open.spotify.com/album/4eTdUnsV9I8vL3mEptSYQk) | 2:18 |
 | 43 | [Gusty Dj \| Jordan23 \- Session en el Barrio \#9](https://open.spotify.com/track/2wBHsMud9cSITaoY32oeDo) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Gusty Dj \| Jordan23 \- Session en el Barrio \#9](https://open.spotify.com/album/3RIE0lF9l4iYuwqd9aUw9W) | 2:38 |
 | 44 | [Sesión \- 7](https://open.spotify.com/track/6kq09nzEHEuXt1svtB0CVz) | [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Sesión \- 7](https://open.spotify.com/album/2QEShF7300XPtFTvh96nLh) | 2:18 |
 | 45 | [PERREO ROSSANI \- Remix](https://open.spotify.com/track/6ksnSnzRToBGRCROXLd1mx) | [El Rossani](https://open.spotify.com/artist/7gVtLMiNJYZuvnG9yEaWFS), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [PERREO ROSSANI \(Remix\)](https://open.spotify.com/album/4EP2tjtmKtNpi7Nh9bQarD) | 3:05 |

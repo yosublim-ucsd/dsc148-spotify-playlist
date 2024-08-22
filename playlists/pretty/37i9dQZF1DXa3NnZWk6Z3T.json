@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 613184,
+  "num_followers": 613235,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "RUBEDO",
-        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
-      },
-      "artists": [
-        {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
-        }
-      ],
-      "duration_ms": 160124,
-      "name": "TANTO PARA NADA",
-      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "ya no somos los mismos",
         "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 209461,
       "name": "a tu ladito",
       "url": "https://open.spotify.com/track/69XX44yQelAW0mM1NUFk2H"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "RUBEDO",
+        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 160124,
+      "name": "TANTO PARA NADA",
+      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 237456,
       "name": "Otro Lado",
       "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1203,38 +1203,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Todo el D\u00eda en la Cama",
-        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Bohemio",
         "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
       },
@@ -1267,6 +1235,38 @@
       "duration_ms": 219477,
       "name": "Calle Cima",
       "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Todo el D\u00eda en la Cama",
+        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Dimensi\u00f3n Caribe",
         "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Herminia",
-        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
-      },
-      "artists": [
-        {
-          "name": "Silvina Moreno",
-          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
-      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Libro Abierto",
         "url": "https://open.spotify.com/album/3uA0bh0VM1Qu2dcwt2ZmsV"
       },
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Herminia",
+        "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
+      },
+      "artists": [
+        {
+          "name": "Silvina Moreno",
+          "url": "https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
+      "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 134613,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Coraz\u00f3n Gitano",
-        "url": "https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        },
-        {
-          "name": "Antonio Carmona",
-          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "Coraz\u00f3n Gitano",
-      "url": "https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1559,18 +1539,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Buenos D\u00edas",
-        "url": "https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ"
+        "name": "Coraz\u00f3n Gitano",
+        "url": "https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        },
+        {
+          "name": "Antonio Carmona",
+          "url": "https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo"
         }
       ],
-      "duration_ms": 223449,
-      "name": "Buenos D\u00edas",
-      "url": "https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA"
+      "duration_ms": 221453,
+      "name": "Coraz\u00f3n Gitano",
+      "url": "https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hawaii Aloha",
-        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ"
       },
       "artists": [
         {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
         }
       ],
-      "duration_ms": 235408,
-      "name": "Hawaii Aloha",
-      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
+      "duration_ms": 223449,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Hawaii Aloha",
+        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
+      },
+      "artists": [
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+        }
+      ],
+      "duration_ms": 235408,
+      "name": "Hawaii Aloha",
+      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "bossa nova",
-        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 188070,
-      "name": "bossa nova",
-      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 192656,
       "name": "No Puedo Extra\u00f1arte",
       "url": "https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 188070,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "gaita zuliana",
-        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "gaita zuliana",
-      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Uno Que Tropieza Y Cae Al Mar",
         "url": "https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "gaita zuliana",
+        "url": "https://open.spotify.com/album/12Jdu8PKHKS5lq1JKMqBki"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "gaita zuliana",
+      "url": "https://open.spotify.com/track/0BvtrXTAW2Fg9eadf3UVLa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Nothing Much Has Changed, I Don't Feel The Same",
+        "url": "https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 124842,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/0Ux1zLSuC0ANjpQ3M7tqTD"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 197346,
       "name": "Orquesta natural",
       "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Nothing Much Has Changed, I Don't Feel The Same",
-        "url": "https://open.spotify.com/album/7JRxCqZEgcgduakDOCgjg1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 124842,
-      "name": "Deseo",
-      "url": "https://open.spotify.com/track/2guE2PqxIZ2Xnicd82f0YS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Esta Nochecita",
+        "url": "https://open.spotify.com/album/5GGlJdTEg8Btl4pn3LtC7z"
+      },
+      "artists": [
+        {
+          "name": "Pr\u00f3xima Parada",
+          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+        }
+      ],
+      "duration_ms": 211096,
+      "name": "Esta Nochecita",
+      "url": "https://open.spotify.com/track/62EWq1EFW8Dnl74uN85SRz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/3MAdfRaNymHqVYoylkmsKD"
       },
@@ -1923,18 +1939,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Esta Nochecita",
-        "url": "https://open.spotify.com/album/5GGlJdTEg8Btl4pn3LtC7z"
+        "name": "Vientos De Octubre",
+        "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
       },
       "artists": [
         {
-          "name": "Pr\u00f3xima Parada",
-          "url": "https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz"
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
+        },
+        {
+          "name": "Javi Mendoza",
+          "url": "https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl"
         }
       ],
-      "duration_ms": 211096,
-      "name": "Esta Nochecita",
-      "url": "https://open.spotify.com/track/62EWq1EFW8Dnl74uN85SRz"
+      "duration_ms": 202409,
+      "name": "Vientos De Octubre",
+      "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1955,26 +1975,6 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Vientos De Octubre",
-        "url": "https://open.spotify.com/album/3jU3G4fSqMKze4kZHTNdkG"
-      },
-      "artists": [
-        {
-          "name": "Carlos Neda",
-          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
-        },
-        {
-          "name": "Javi Mendoza",
-          "url": "https://open.spotify.com/artist/5uE0qYeF6eqoLgxLfDi3vl"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Vientos De Octubre",
-      "url": "https://open.spotify.com/track/4gkp9363KMagdNiJ5lJmVT"
     },
     {
       "added_at": "2024-07-26 04:00:00",

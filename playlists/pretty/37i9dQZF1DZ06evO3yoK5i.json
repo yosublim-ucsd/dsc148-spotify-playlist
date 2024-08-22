@@ -1,12 +1,12 @@
 {
   "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
-  "num_followers": 229861,
+  "num_followers": 229893,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACJh0ffrIGyifRy9YvChF1C",
+  "snapshot_id": "ZsPcgAAAAAAQb5sNFsIlhAIAqoSC2xm0",
   "tracks": [
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove c'\u00e8 musica",
-        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Humberto Gatica",
-          "url": "https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h"
-        }
-      ],
-      "duration_ms": 335440,
-      "name": "L'aurora",
-      "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hay Vida",
         "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 210626,
       "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Humberto Gatica",
+          "url": "https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h"
+        }
+      ],
+      "duration_ms": 335440,
+      "name": "L'aurora",
+      "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 304573,
-      "name": "Si Bastasen un Par de Canciones",
-      "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 304573,
+      "name": "Si Bastasen un Par de Canciones",
+      "url": "https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn"
     },
     {
       "added_at": null,
@@ -667,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vita Ce N'\u00e8",
+        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "Vita Ce N'\u00e8",
+      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros 30 (Spanish/Latin Version)",
+        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -715,38 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vita Ce N'\u00e8",
-        "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "Vita Ce N'\u00e8",
-      "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Spanish/Latin Version)",
-        "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfetto",
         "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
@@ -759,26 +759,6 @@
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy",
-        "url": "https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1"
     },
     {
       "added_at": null,
@@ -799,6 +779,26 @@
       "duration_ms": 210613,
       "name": "Per Le Strade Una Canzone (feat. Luis Fonsi)",
       "url": "https://open.spotify.com/track/6e75CS2hDy0ABDiO6Lj0wO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy",
+        "url": "https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todos Los Sentidos",
-        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Toma la Luna",
-      "url": "https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Historias (Remastered 192 khz)",
         "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 347720,
       "name": "A Medio Camino - Remastered 2021",
       "url": "https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Todos Los Sentidos",
+        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Toma la Luna",
+      "url": "https://open.spotify.com/track/2mhUvNEvxUJKmZxJhTvcht"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

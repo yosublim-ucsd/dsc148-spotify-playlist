@@ -2,9 +2,9 @@
 
 ### [EQUAL](https://open.spotify.com/playlist/37i9dQZF1DWU8quswnFt3c)
 
-> Listen to women at full volume from across the world\. Cover: DOROFEEVA.
+> Listen to women at full volume from across the world\. Cover: Abida Parveen.
 
-2,023 songs - 4 day 15 hr 43 min
+2,024 songs - 4 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1705,6 +1705,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-08-02 | 2023-09-07 |
 | [TSINGLING](https://open.spotify.com/track/0DHiNHMyCZIym1lcMSqusW) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [Lil Frakk](https://open.spotify.com/artist/0CJxR2iBZb64SRwApcj2Ev) | [SISTEMATIIK](https://open.spotify.com/album/5YdQTTlEUsBRiK44pzRUal) | 3:00 | 2023-06-19 | 2024-01-11 |
 | [TSUBASA](https://open.spotify.com/track/27Taz9Ae2IUhdvJbkiXnn5) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Yomi Jah](https://open.spotify.com/artist/2vdDL7Bk14vZT3Gj4DjF6q) | [TSUBASA](https://open.spotify.com/album/6ZRFx0mD4Juzy5QP3Y4o2m) | 3:47 | 2022-06-01 | 2023-01-05 |
+| [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2024-08-21 |  |
 | [Tudo bem](https://open.spotify.com/track/2L8uyJZ2NfpapRrtDtzs8m) | [CLELIA](https://open.spotify.com/artist/5LJ4MsRE3dUFRhPzo9NqDt) | [Tudo bem](https://open.spotify.com/album/0RN7qf63m2AKqU2NZX6Ikh) | 3:15 | 2022-11-02 | 2022-12-01 |
 | [Tudu Tudu Tu](https://open.spotify.com/track/4FOCWMx3Xl36xlEQoEYmpn) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Slow Burn](https://open.spotify.com/album/3rsmCfSkLjDUcjSembmp3S) | 2:40 | 2022-10-04 | 2022-11-02 |
 | [Tudu Tudu Tu](https://open.spotify.com/track/72UIs3n4aCN6GInoLSNQBV) | [Maella](https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY) | [Tudu Tudu Tu](https://open.spotify.com/album/1kem3mNe6TQLSUPMQnMxdt) | 2:40 | 2022-10-11 | 2022-11-03 |
@@ -1757,7 +1758,7 @@
 | [Viaje](https://open.spotify.com/track/0bCQXiRvn9Qb9gU3mV3b1b) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Viaje](https://open.spotify.com/album/3V41AmHEPSjD2w9A26yV2E) | 3:15 | 2022-06-01 | 2022-07-07 |
 | [Vihar](https://open.spotify.com/track/17hEW1sh64ERNE1U3i3bcH) | [Solére](https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP) | [Vihar](https://open.spotify.com/album/6pMt8sowM1YtSVw6KyKnKY) | 3:04 | 2023-11-08 | 2023-11-30 |
 | [VIP](https://open.spotify.com/track/6NCJTDAQsOErJGv7mhdvsB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [VIP](https://open.spotify.com/album/4CwFdN37OjqRPYh4nri0w2) | 2:27 | 2022-10-04 | 2022-11-03 |
-| [VIRGIN MARIA](https://open.spotify.com/track/2nPladpIRlyszZaOm9q9Rw) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [MARIA](https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH) | 2:08 | 2024-08-07 |  |
+| [VIRGIN MARIA](https://open.spotify.com/track/2nPladpIRlyszZaOm9q9Rw) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [MARIA](https://open.spotify.com/album/57JOJXMbvvtdMOV9PkBNuH) | 2:08 | 2024-08-07 | 2024-08-22 |
 | [Visión Nocturna](https://open.spotify.com/track/6qHDY0nxwj0E9oHX9i9XMS) | [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Claroscuro](https://open.spotify.com/album/0BJVfmQhzjNLJuupXUzRQ5) | 3:27 | 2023-01-04 | 2023-02-02 |
 | [Vital](https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Vital](https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK) | 3:02 | 2021-12-11 | 2022-01-06 |
 | [VIVID](https://open.spotify.com/track/1M3abg3PWOnuflwbXUhcH6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [VIVID](https://open.spotify.com/album/1M0mLsmOkBSFHpSy2qJDpY) | 3:20 | 2022-03-08 | 2022-04-07 |

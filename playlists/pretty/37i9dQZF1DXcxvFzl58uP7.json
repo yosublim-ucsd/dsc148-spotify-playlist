@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
-  "num_followers": 1109706,
+  "num_followers": 1109689,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 138268,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 212701,
       "name": "Prune, You Talk Funny",
       "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 138268,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Mentos and Coke",
         "url": "https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf"
       },
@@ -823,38 +823,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Deep Divine",
         "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
       },
@@ -867,6 +835,22 @@
       "duration_ms": 220767,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 171383,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Little One",
         "url": "https://open.spotify.com/album/4xD7rx6VteQLcL4F59Tr5t"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 217194,
       "name": "Little One",
       "url": "https://open.spotify.com/track/25CDamD1ROTPzl0sxP3rqs"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 171383,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Skeleton Key",
-        "url": "https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 198923,
-      "name": "Skeleton Key",
-      "url": "https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Joker & Rainbow",
         "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 176546,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Skeleton Key",
+        "url": "https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Skeleton Key",
+      "url": "https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Workin' On It",
-        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 215823,
-      "name": "Workin\u2019 On It",
-      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 190955,
       "name": "Dog Has Its Day",
       "url": "https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Workin' On It",
+        "url": "https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 215823,
+      "name": "Workin\u2019 On It",
+      "url": "https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx"
     },
     {
       "added_at": "2024-08-02 04:00:00",

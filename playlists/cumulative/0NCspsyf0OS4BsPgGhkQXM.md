@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,089 songs - 2 day 8 hr 19 min
+1,090 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -953,6 +953,7 @@
 | [The Uprising](https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [The Uprising](https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0) | 3:17 | 2022-06-22 | 2022-11-24 |
 | [The Void](https://open.spotify.com/track/3p2F7vdAeDvrG8vxFtESzY) | [Emoter](https://open.spotify.com/artist/61YSVV1OUrF6VcwghVVggg) | [Paradox](https://open.spotify.com/album/60zoRcYe3Y179Fgf0wPrhe) | 3:17 | 2022-01-14 | 2022-09-15 |
 | [The Way I Look Tonight](https://open.spotify.com/track/5kxDsUw7oOdNoHFNp75uiK) | [Skrybe](https://open.spotify.com/artist/51TcqE7roc5c4PWG4A4GIX), [Lena Luisa](https://open.spotify.com/artist/3m5gh8cCnoXc0qUe6wukid) | [The Way I Look Tonight](https://open.spotify.com/album/4H63gbpEnxuq0uUSaVnXyT) | 2:40 | 2022-08-19 | 2022-10-08 |
+| [the way i was \- enjoii remix](https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3), [enjoii](https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [the way i was \(enjoii remix\)](https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW) | 2:12 | 2024-08-21 |  |
 | [The Way To Do It](https://open.spotify.com/track/3XJPYvQwLQyXUSucA0SJQL) | [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo) | [The Way To Do It](https://open.spotify.com/album/0ocQEbsp644nd6CO9oQOOF) | 3:31 | 2022-02-16 | 2022-03-19 |
 | [The Yetti \(The FifthGuys Remix\)](https://open.spotify.com/track/3IB86NuvDkneI00RRugqcu) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Lu Castro](https://open.spotify.com/artist/426w8CHb69hgjsHURrlFdt), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee) | [The Yetti \(The FifthGuys Remix\)](https://open.spotify.com/album/5xllmly6IJy50bbkfIR5Ma) | 2:37 | 2022-10-14 | 2022-11-11 |
 | [There For You](https://open.spotify.com/track/0jullR0ynF6zvPvAHbQ94E) | [Orlost](https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy) | [There For You](https://open.spotify.com/album/3mXBLNQTcdbrv6Pv69kgRc) | 2:53 | 2023-06-09 | 2024-01-30 |

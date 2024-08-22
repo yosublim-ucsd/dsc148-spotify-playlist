@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,114 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,122 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 35 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
 | 36 | [Juice](https://open.spotify.com/track/4p8e7TRZUOu1sy2LGnaMiN) | [DJ T\-Why](https://open.spotify.com/artist/52nwgb3EZSQrv9Q6MltYye) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 2:37 |
 | 37 | [Braxe Traxe \- SBF13](https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe) | [Braxe Traxe \(SBF13\)](https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr) | 2:05 |
-| 38 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 |
+| 38 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
 | 39 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |
 | 40 | [Get Down Lil Bit \- Street Bangers Factory 16](https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Get Down Lil Bit \(Street Bangers Factory 16\)](https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn) | 4:50 |
 | 41 | [Imma Dog](https://open.spotify.com/track/524AOf3Zmp93608e38RukD) | [bastienGOAT](https://open.spotify.com/artist/55GgSmZm0TR5qvTRcRwq6B) | [Aspects](https://open.spotify.com/album/41TVmUMGU9ngfPb350XfwC) | 1:48 |
 | 42 | [Drank, Kush, Barz](https://open.spotify.com/track/5xFy8h9eEJUjOIXGKRE19C) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:36 |
 | 43 | [ICE CREAM](https://open.spotify.com/track/5Bs3ufnc5SfXGPYQdeLrGx) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:14 |
 | 44 | [Get Off Me \(Betta Get Back\) \- Basic Rhythm Remix](https://open.spotify.com/track/4v016wLhvKXHjQk2jG4ZQe) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM), [Basic Rhythm](https://open.spotify.com/artist/3L3DtTvIVJ9yiQIOEeGCF2) | [Get Off Me \(Betta Get Back\) \[Basic Rhythm Remix\]](https://open.spotify.com/album/3VA9StGsg25mohWjRqHUr2) | 3:06 |
-| 45 | [Another Chance \- SBF17](https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [Another Chance \(SBF17\)](https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9) | 3:03 |
+| 45 | [No Cap 4 2020 \- SBF14](https://open.spotify.com/track/2MPzyS96YOHV8789Bk8j9p) | [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [No Cap 4 2020 \(SBF14\)](https://open.spotify.com/album/5MgKGMeW2RO46jiF0R1v2R) | 2:37 |
 | 46 | [Get the Money \- SBF14](https://open.spotify.com/track/5nvE83ieA4Qd74wU6cYtE0) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [Get the Money \(SBF14\)](https://open.spotify.com/album/6CjXD6nyCZCEP867ZiqwJg) | 3:13 |
 | 47 | [Stick Em'](https://open.spotify.com/track/1Pr37UKvEs9EWlO70gTPhF) | [Caidance](https://open.spotify.com/artist/3bWNdjdWiWNdv1xPOnFU1r) | [Guaranteed](https://open.spotify.com/album/1HMCwgdVCktmbzoKPxAzzX) | 3:40 |
 | 48 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 |

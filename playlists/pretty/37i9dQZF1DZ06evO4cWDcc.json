@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 309081,
+  "num_followers": 309132,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAD0LagD1V0rIw32I8knR5qd",
+  "snapshot_id": "ZsPcgAAAAABgaC4mjwFlBCQ7cH7akzT3",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
+        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
+      },
+      "artists": [
+        {
+          "name": "Curtis Knight & The Squires",
+          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
+        },
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fool for You Baby (feat. Jimi Hendrix)",
+      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Use My Name (feat. Jimi Hendrix)",
-        "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
-      },
-      "artists": [
-        {
-          "name": "Curtis Knight & The Squires",
-          "url": "https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl"
-        },
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fool for You Baby (feat. Jimi Hendrix)",
-      "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Monterey",
         "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Dolly Dagger",
-      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 238306,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valleys Of Neptune",
-        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rainbow Bridge",
         "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Valleys Of Neptune",
+        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
         "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 114133,
       "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 104973,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live)",
-        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 576360,
-      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
-      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live)",
+        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 576360,
+      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
+      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -792,9 +808,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 104973,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+      "duration_ms": 213933,
+      "name": "Earth Blues",
+      "url": "https://open.spotify.com/track/7aAholeRCIGZD1QhHYKDDq"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 56600,
       "name": "You Can't Use My Name (feat. Jimi Hendrix)",
       "url": "https://open.spotify.com/track/70rXufdV46M4efDKvJbtHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Night Bird Flying",
-      "url": "https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

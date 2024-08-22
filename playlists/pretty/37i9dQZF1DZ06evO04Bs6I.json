@@ -1,12 +1,12 @@
 {
-  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 108415,
+  "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 108457,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAA+rLJZgN7WxKjgjStheBsT",
+  "snapshot_id": "ZsPcgAAAAAC3yme6Vl7n6nNwW1TGZvh5",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Eu Sei Que Vem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Passar (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7fstEEn2fBN6WM4zE12Ovm"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Eu Sei Que Vem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UeQutpeNRqg21FBMiuStv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -283,42 +283,6 @@
       "duration_ms": 205266,
       "name": "Sua Paz",
       "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azeite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "Azeite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 238393,
-      "name": "Tua Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d"
     },
     {
       "added_at": null,
@@ -363,6 +327,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 238393,
+      "name": "Tua Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/4mX4HxIdFMOCKiTxWwOO0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azeite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Azeite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Toca em Mim de Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vou Me Humilhar",
         "url": "https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 236493,
       "name": "Vou Me Humilhar",
       "url": "https://open.spotify.com/track/6vHDtEpISkhjaYE5TDAHx3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Toca em Mim de Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Perto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 426318,
-      "name": "Bem Perto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 773437,
       "name": "Tu \u00c9s Tudo",
       "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bem Perto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2yBnldCguXVLd6kd78B4Xq"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 426318,
+      "name": "Bem Perto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KE3EfxxvBZwoLVB3gHCc2"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saudade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 236470,
-      "name": "Saudade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GSXJoZ8hJ8AmUmJ3AbODf"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 248600,
       "name": "B\u00ean\u00e7\u00e3os Que N\u00e3o T\u00eam Fim / Counting My Blessings (Ao Vivo)",
       "url": "https://open.spotify.com/track/7CDUMKg8F0ZYHhfItP6W3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 236470,
+      "name": "Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
     },
     {
       "added_at": null,

@@ -20367,6 +20367,36 @@
     },
     {
       "album": {
+        "name": "the way i was (enjoii remix)",
+        "url": "https://open.spotify.com/album/4NzioCx6B71TPCLR5VhfPW"
+      },
+      "artists": [
+        {
+          "name": "vowl.",
+          "url": "https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL"
+        },
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        },
+        {
+          "name": "enjoii",
+          "url": "https://open.spotify.com/artist/5aUdEtXbJeOjAuNXLn9lkX"
+        },
+        {
+          "name": "RYYZN",
+          "url": "https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f"
+        }
+      ],
+      "date_added": "2024-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "the way i was - enjoii remix",
+      "url": "https://open.spotify.com/track/25uSI4fvxRU3Iujvw7flSh"
+    },
+    {
+      "album": {
         "name": "The Way To Do It",
         "url": "https://open.spotify.com/album/0ocQEbsp644nd6CO9oQOOF"
       },

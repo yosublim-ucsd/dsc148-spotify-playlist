@@ -4,7 +4,7 @@
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-227 songs - 12 hr 38 min
+228 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Can I Talk My Shit?](https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 3:25 | 2023-11-29 | 2024-04-19 |
 | [can you see me?](https://open.spotify.com/track/0PqyrHOwAMA43it710rAor) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [can you see me?](https://open.spotify.com/album/6lvr2vceq0j5YhJUQTPSKE) | 3:17 | 2022-11-30 | 2023-11-30 |
 | [Catwalk](https://open.spotify.com/track/3HFCBkfwYzetDGXVpwJFry) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Chalawan Sound](https://open.spotify.com/album/2QYQLTBtEJ6IPW3xVnW0Go) | 4:11 | 2023-11-29 |  |
-| [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-11-29 |  |
+| [Celebrity Lookalikes](https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Celebrity Lookalikes](https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu) | 3:32 | 2023-11-29 | 2024-08-22 |
 | [Census Designated](https://open.spotify.com/track/5IhT2qYheXI0O2dHMmAb6B) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Census Designated](https://open.spotify.com/album/0TsaSQLM21To1HMz2ou5yI) | 6:00 | 2023-11-29 |  |
 | [Cheapshot](https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Cheapshot](https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH) | 1:40 | 2023-11-29 |  |
 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 | 2023-11-29 |  |
@@ -175,6 +175,7 @@
 | [Rain](https://open.spotify.com/track/1yY6W3JfpkwaOTTtE2iNvo) | [Deco](https://open.spotify.com/artist/4U4MBT2YEXlNEYKEIinJoc) | [Rain](https://open.spotify.com/album/0leJivQY7JFPZMvefb3Hlr) | 3:23 | 2022-11-30 | 2023-11-30 |
 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 | 2023-11-29 |  |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-11-29 |  |
+| [RATTLESNAKE](https://open.spotify.com/track/23iX8tmk5th6Ydrtz6BeCd) | [P!NCH](https://open.spotify.com/artist/1jPCm4Q8uClWX205mz4FKV), [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [RATTLESNAKE](https://open.spotify.com/album/4XpL8x2d5RiJbSwPs2pA0D) | 2:59 | 2023-11-29 |  |
 | [razzz](https://open.spotify.com/track/0r1P4UrsF4eziG4H0tSdfp) | [SuperParka](https://open.spotify.com/artist/5TztG8UlidyWr5gcdHho1l) | [razzz](https://open.spotify.com/album/6XQTzv10FuopeSzluhIWUB) | 2:26 | 2023-11-29 |  |
 | [redemption](https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [redemption](https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6) | 2:18 | 2023-11-29 | 2024-06-03 |
 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 | 2023-11-29 |  |

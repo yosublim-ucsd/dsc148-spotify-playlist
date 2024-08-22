@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-3,804 songs - 8 day 22 hr 25 min
+3,806 songs - 8 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1505,6 +1505,7 @@
 | [How I Loved You](https://open.spotify.com/track/0v5L68lrpE6KwjA24ATQnX) | [Jenn Grant](https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L), [Amy Millan](https://open.spotify.com/artist/3lj7jldByrrpUgW5Je8o1p) | [How I Loved You](https://open.spotify.com/album/1E4Cb2EOjg0fPloaeNumoe) | 4:33 | 2023-03-10 | 2023-04-02 |
 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 | 2023-01-03 |
 | [Howweusedtobe](https://open.spotify.com/track/2GZTc6b6LSqRSC6qAWNsoi) | [Humble Goods](https://open.spotify.com/artist/4AMIlG84QHWMs3GeFKhqep) | [Howweusedtobe](https://open.spotify.com/album/6xZiP8inef2heWYZZSj40u) | 2:28 | 2024-01-02 | 2024-01-10 |
+| [Hoy](https://open.spotify.com/track/7yKQOcvnPIjlIRhQljUq2f) | [Mia Catalina](https://open.spotify.com/artist/2lZWcBs83PIftGNK5jn176), [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Hoy](https://open.spotify.com/album/5z4SwQ4fKfYIZOnvstYeP9) | 2:46 | 2024-08-21 |  |
 | [Hoy Ya No Te Tengo](https://open.spotify.com/track/3otgUprKtBxElV1NZsOV79) | [Dani Lima](https://open.spotify.com/artist/4x1R0cX5O4likMT4RaxCgy) | [Hoy Ya No Te Tengo](https://open.spotify.com/album/0eUAj88KwoMjUqztKWj698) | 3:35 | 2024-02-18 | 2024-02-27 |
 | [Hullabaloo](https://open.spotify.com/track/7kfKhEayenoX9YnaBXVY3g) | [Barney Cortez](https://open.spotify.com/artist/4wKwoVNNPlgxD8JP1P66IA) | [Hullabaloo](https://open.spotify.com/album/5zY8QAy8jGbkHHuEXY3irG) | 2:30 | 2022-06-24 | 2022-07-16 |
 | [Human](https://open.spotify.com/track/3mDGC5am7hb7bBpANlzuVy) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Human](https://open.spotify.com/album/1ZKzW0S2wKSsGYcoCYKYlv) | 2:44 | 2021-03-30 | 2021-04-17 |
@@ -2061,7 +2062,7 @@
 | [Make It Up To You](https://open.spotify.com/track/6sPlg3PxPiIq9wT1EwMmIu) | [Pierce Alexander](https://open.spotify.com/artist/3zgldFCs3j64BKQzn8qfYx) | [The Minutehand](https://open.spotify.com/album/7mrbrO8aP4dVJN4X0H1TDt) | 3:17 | 2022-03-18 | 2022-04-05 |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2021-08-28 | 2021-09-11 |
 | [Make Me Feel](https://open.spotify.com/track/2mN8KvkPnminY7wnbXAsjy) | [Tatiana DeMaria](https://open.spotify.com/artist/4AMHe2q7lq8woNeHgRCXD6) | [Make Me Feel](https://open.spotify.com/album/3QjcMIRk4HkPyyaqwB5NMZ) | 3:13 | 2021-10-22 | 2022-01-23 |
-| [Make Me Feel](https://open.spotify.com/track/4twAYTaw4ajCxeCp1ozBaS) | [WSF](https://open.spotify.com/artist/3v2kSsptCd84twCxGk3Qg2) | [Make Me Feel](https://open.spotify.com/album/3xQZIU2kzprCl2pYwYjrO6) | 2:37 | 2024-08-10 |  |
+| [Make Me Feel](https://open.spotify.com/track/4twAYTaw4ajCxeCp1ozBaS) | [WSF](https://open.spotify.com/artist/3v2kSsptCd84twCxGk3Qg2) | [Make Me Feel](https://open.spotify.com/album/3xQZIU2kzprCl2pYwYjrO6) | 2:37 | 2024-08-10 | 2024-08-22 |
 | [Make Me Good](https://open.spotify.com/track/3GTbHljscEF7MKkbobn6xQ) | [Rainbow Ranger](https://open.spotify.com/artist/203eQbwo7ruUIKI02jOZmO) | [Make Me Good](https://open.spotify.com/album/5YdzqxZM8DRKuzQSFgf92a) | 4:03 | 2022-09-02 | 2022-09-18 |
 | [Make The World Go Away](https://open.spotify.com/track/35VKy1zrVoI1J15bG1lHqq) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Make The World Go Away](https://open.spotify.com/album/6ShhPTB3n5cudXdwhUMOYT) | 3:32 | 2023-03-10 | 2023-04-02 |
 | [Make You](https://open.spotify.com/track/6cr9JxifS1bfI1bj3rUgCM) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Make You](https://open.spotify.com/album/3TXQ2243awOWcyHvGjzU91) | 3:41 | 2022-02-28 | 2022-03-17 |
@@ -3519,6 +3520,7 @@
 | [Vibe'n \- Radio Edit](https://open.spotify.com/track/7Kgtf5oPYA3FvmOXVliu2t) | [Traemoon](https://open.spotify.com/artist/4HH10t47HH26fT3IZcZsIx), [Bassline \- Jay Jones](https://open.spotify.com/artist/7AluLhtxZuU8YdiwXvr6l2) | [Vibe'n \(Radio Edit\)](https://open.spotify.com/album/05dbPJTcZzd6gjx48X04E7) | 2:29 | 2022-05-13 | 2022-05-29 |
 | [Vibin](https://open.spotify.com/track/4AZGwIhpFbdTzep3XKBWTU) | [Blizzi](https://open.spotify.com/artist/7GEJwwLI5WdMqvIi1Yrhxd), [Kazayah](https://open.spotify.com/artist/77GoP62XZ6Q2cb76gLsEJ4) | [Vibin](https://open.spotify.com/album/1FmA1ppPfIxLZEjG2KP6eR) | 2:31 | 2021-03-06 | 2021-03-24 |
 | [Vibrations](https://open.spotify.com/track/3xU8ZbSXKTtQ4CdRnzvArg) | [Industry Standard aka Indy](https://open.spotify.com/artist/3CIZQT1UUsikMi9vGCtVBg) | [SCRIPTS](https://open.spotify.com/album/1qm9jTmOGWeDXbqpDH7oON) | 3:44 | 2024-06-14 | 2024-06-26 |
+| [Video Vixen](https://open.spotify.com/track/4atAMCod6ah587uh29K72E) | [Sita](https://open.spotify.com/artist/6xQ3bPf7if1X3V3DVTsgoD) | [Video Vixen](https://open.spotify.com/album/4BIatPueRqLW84rw6GnQqh) | 2:16 | 2024-08-22 |  |
 | [Vino y Magia](https://open.spotify.com/track/6kYlANInWA7yfiJ3V5J7tX) | [Mugre](https://open.spotify.com/artist/2EEA6NpyQu7pEER7yS3jOH) | [Vino y Magia](https://open.spotify.com/album/2hZeKsqnBXLz0p5s4inJvv) | 3:35 | 2023-02-24 | 2023-03-20 |
 | [Vinyl](https://open.spotify.com/track/2daGTos29wIfwtynoyrU71) | [Droo's Peace Crush](https://open.spotify.com/artist/3QPEx65Ji9k03ZCwPbmYED) | ['79 Playlist](https://open.spotify.com/album/03MvJvmxaiESXRyq5TG1oz) | 4:29 | 2021-04-17 | 2021-05-03 |
 | [Virtual Reality](https://open.spotify.com/track/1mDV5gJrZVhtBuYjEdwXI6) | [Ggbam](https://open.spotify.com/artist/2Ejr8hT2dQFbYL79hwr1Ps) | [Virtual Reality](https://open.spotify.com/album/5ILCCoUHtd39ZSB6FKae7q) | 2:29 | 2021-11-13 | 2021-11-28 |

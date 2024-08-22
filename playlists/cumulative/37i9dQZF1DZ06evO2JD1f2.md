@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 0 min
+111 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [IF I STOP NOW](https://open.spotify.com/track/2nLwnTorexhx3qKRY7zymH) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [IF I STOP NOW](https://open.spotify.com/album/0A47WlEya9WQaB0XwtaTx8) | 2:57 | 2023-01-28 | 2023-04-11 |
 | [Jeffery's Innocent](https://open.spotify.com/track/2msi6aUT3FldwSxMqj5074) | [FBG GOAT](https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Pendleton](https://open.spotify.com/album/3WOrW5A7S4dADPx8mSkLMf) | 3:24 | 2023-04-05 | 2023-04-21 |
 | [Keep It Real](https://open.spotify.com/track/6UX9WrpJFv5LZW4hTH6svZ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:47 | 2022-10-28 | 2024-07-23 |
-| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 |  |
+| [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 | 2022-10-28 | 2024-08-22 |
 | [Lick Back](https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:33 | 2022-10-28 |  |
 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 | 2022-10-28 |  |
 | [LIE TO ME SOME MORE](https://open.spotify.com/track/3hdWtlY4bawZp7Zf8bz27b) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:46 | 2023-07-26 | 2023-08-22 |
@@ -79,6 +79,7 @@
 | [Opinion Base](https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:26 | 2022-10-28 |  |
 | [Paparazzi \(Yo Gotti, EST Gee feat\. Blac Youngsta\)](https://open.spotify.com/track/3YSD4sc3D05erIw9HOD8Q2) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:40 | 2022-10-28 | 2023-01-10 |
 | [PICK A SIDE \(feat\. EST Gee & Southside\)](https://open.spotify.com/track/7MaOwDy8D6jHWgs96XnSIk) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BEEZY](https://open.spotify.com/album/1u2Fuv7OxzY9FWV0DO78ep) | 2:42 | 2023-06-16 | 2023-08-11 |
+| [PIMP C \(feat\. EST Gee\)](https://open.spotify.com/track/1YjZFZwlfS2NiEh1HSWxC2) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Hit](https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7) | 3:26 | 2024-08-22 |  |
 | [PRAY YOU DIE IN SURGERY](https://open.spotify.com/track/2AvNHy4uWeLEoCwBgQNDvS) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 3:19 | 2023-03-19 | 2024-07-19 |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2022-10-28 |  |
 | [Roll Em Up \(feat\. EST Gee\)](https://open.spotify.com/track/60eNYiXDmnc8Lv0Grqsqm7) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Youngest N Charge 2](https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx) | 2:44 | 2024-01-19 | 2024-03-15 |

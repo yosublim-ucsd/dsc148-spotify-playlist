@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,531 songs - 3 day 9 hr 10 min
+1,532 songs - 3 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -836,7 +836,7 @@
 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 | 2021-12-05 | 2023-12-07 |
 | [me jodi...](https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:21 | 2023-07-01 | 2023-07-09 |
 | [Me la Subió](https://open.spotify.com/track/2ALlACw9HxS1naFyAwXj3Z) | [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F), [La Melma Music](https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [Me la Subió](https://open.spotify.com/album/1i38hc6tT9Ysz1DkCT0Kwq) | 1:40 | 2022-11-25 | 2023-04-13 |
-| [Me Matas](https://open.spotify.com/track/1DHFy5q6Ixo3S8JicDjEcO) | [The Melodico](https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ), [Jotadejuan](https://open.spotify.com/artist/0uyFV0LxFMMOTQGUa3TQiO), [Dave Lonely](https://open.spotify.com/artist/4zzodhoskI1ThjLbPwPD3p) | [Me Matas](https://open.spotify.com/album/2OWItG4S3mapo6BHGq75uE) | 2:49 | 2024-07-31 |  |
+| [Me Matas](https://open.spotify.com/track/1DHFy5q6Ixo3S8JicDjEcO) | [The Melodico](https://open.spotify.com/artist/4vKdAdCbGteLVf1kP409kJ), [Jotadejuan](https://open.spotify.com/artist/0uyFV0LxFMMOTQGUa3TQiO), [Dave Lonely](https://open.spotify.com/artist/4zzodhoskI1ThjLbPwPD3p) | [Me Matas](https://open.spotify.com/album/2OWItG4S3mapo6BHGq75uE) | 2:49 | 2024-07-31 | 2024-08-22 |
 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 | 2022-05-07 | 2024-08-11 |
 | [Me Provocas](https://open.spotify.com/track/68qcDbdfUGB62USvtRZTk1) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Me Provocas](https://open.spotify.com/album/6DKkazvTdG35jwScQTrYVN) | 2:43 | 2022-09-11 | 2022-09-20 |
 | [Me Siento HP](https://open.spotify.com/track/2rS1JQegPDJe3evTvnRqMA) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:48 | 2022-12-10 | 2022-12-12 |
@@ -923,6 +923,7 @@
 | [Nena de Antes](https://open.spotify.com/track/0y5iyQsQRTypW3wyDFGmxf) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 3:17 | 2022-02-18 | 2022-02-20 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-05-07 | 2023-03-15 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-10-09 | 2023-10-18 |
+| [Ni un Ki Ki](https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Ni un Ki Ki](https://open.spotify.com/album/1EqiiTULbIdDFSnTk8QWxS) | 1:45 | 2024-08-21 |  |
 | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/track/03LfOYi0icz4souspZVVhq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam: Bzrp Music Sessions, Vol\. 41](https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD) | 2:38 | 2021-07-04 | 2021-07-25 |
 | [Nirvana](https://open.spotify.com/track/17uRUPppKaZku4J3t2gRkT) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:38 | 2022-09-03 | 2022-09-06 |
 | [Niveles](https://open.spotify.com/track/3ir7hVJYwIb3MQr7IwbXaX) | [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Niveles](https://open.spotify.com/album/1a8gGGwIfEDc6hDA8tzjVA) | 2:51 | 2023-11-27 | 2023-12-03 |

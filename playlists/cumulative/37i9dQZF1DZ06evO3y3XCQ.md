@@ -2,7 +2,7 @@
 
 ### [This Is Thursday](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3y3XCQ)
 
-> This is Thursday\. The essential tracks, all in one playlist.
+> This is Thursday。アーティストの代表曲をひとつのプレイリストに。
 
 54 songs - 3 hr 29 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,210 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,269 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [PLANLOS](https://open.spotify.com/track/0F6IxFTC51t82jREszsQtb) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [PLANLOS](https://open.spotify.com/album/07cnvUEajLMKQLEv0qMWTr) | 2:40 |
 | 75 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 |
 
-Snapshot ID: `ZsMUlgAAAADaTNXeVZjxaffLqMcNqqrK`
+Snapshot ID: `ZsZMqAAAAAA7IaWFM+Qge7shMtDr9prc`

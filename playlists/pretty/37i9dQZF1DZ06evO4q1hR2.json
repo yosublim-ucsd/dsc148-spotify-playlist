@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Coyote Y Su Banda Tierra Santa. Los temas esenciales, todos en una lista.",
-  "num_followers": 58216,
+  "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
+  "num_followers": 58239,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAADrqg7lHjwD4DHbCeI4+vrv",
+  "snapshot_id": "ZsPcgAAAAADE6pkSar9SfOYgBW7zz2Aw",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decimo Aniversario",
-        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 121600,
-      "name": "Rifare Mi Suerte",
-      "url": "https://open.spotify.com/track/2bBB6rAdCjODuUdJrCARIj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suspiros (Versi\u00f3n con Acorde\u00f3n)",
         "url": "https://open.spotify.com/album/4V1N70Rc4mTyqvpgHirtyo"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 146333,
-      "name": "El Amor No Tiene Edad",
-      "url": "https://open.spotify.com/track/0oYZtUomf11wsoyNvScsTo"
+      "duration_ms": 121600,
+      "name": "Rifare Mi Suerte",
+      "url": "https://open.spotify.com/track/2bBB6rAdCjODuUdJrCARIj"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 146533,
       "name": "Amargo Dolor",
       "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "El Amor No Tiene Edad",
+      "url": "https://open.spotify.com/track/0oYZtUomf11wsoyNvScsTo"
     },
     {
       "added_at": null,

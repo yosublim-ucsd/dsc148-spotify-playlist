@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This is Rev\. Gary Davis\. Todos os maiores hits em uma só playlist.
 
 310 songs - 19 hr 27 min
 
@@ -35,7 +35,7 @@
 | [Can't Make This Journey By Myself](https://open.spotify.com/track/2lLXz5yaEaLrbN4swx3wYp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2023-06-04 | 2024-04-19 |
 | [Candy Man \- Instrumental](https://open.spotify.com/track/54RJbHLE82IQAFS7HoHInO) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:52 | 2022-05-25 |  |
 | [Chicken You Can't Roost Too High](https://open.spotify.com/track/7CBpTEHO8XfqJ6UEODeh4W) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 2:42 | 2023-01-06 | 2023-06-11 |
-| [Children of Zion](https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 7:09 | 2022-05-25 | 2024-08-20 |
+| [Children of Zion](https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 7:09 | 2022-05-25 |  |
 | [Cincinnati Flow Rag](https://open.spotify.com/track/2p8WdZPvblhbehUGrqnnVY) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 4:41 | 2022-05-25 | 2024-06-01 |
 | [Civil War March](https://open.spotify.com/track/0lcX6ZWSxaKDfih1NBUUks) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis 1935 \- 1949](https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2) | 5:26 | 2022-05-25 | 2024-02-29 |
 | [Cocaine Blues](https://open.spotify.com/track/4dhox7dGyHnNfnqpk9oIKK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:42 | 2022-05-25 |  |
@@ -198,7 +198,7 @@
 | [Old Fashioned Love](https://open.spotify.com/track/1nl1gqwwnGUtRyeV338IqS) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 3:19 | 2022-10-12 | 2024-01-24 |
 | [Old Time Religion \- Live in Seattle, WA](https://open.spotify.com/track/70ni2uTBs0Ww6qU8hT43kr) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 7:21 | 2023-05-16 | 2024-03-30 |
 | [Old Time Religion \- Live in Seattle, WA](https://open.spotify.com/track/79lj7EOUu8OPbUnbK3hGVK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 7:21 | 2022-11-04 | 2022-11-13 |
-| [Packing Up, Get Ready to Go](https://open.spotify.com/track/6tDwc0z41hzfnv7MRF4Qy1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:41 | 2022-11-08 |  |
+| [Packing Up, Get Ready to Go](https://open.spotify.com/track/6tDwc0z41hzfnv7MRF4Qy1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:41 | 2022-11-08 | 2024-08-22 |
 | [Penitentiary Blues](https://open.spotify.com/track/4gcuHPIMriKkLPALmkxmso) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 3:44 | 2022-10-25 | 2024-08-06 |
 | [People That Use to See, Can't See No More](https://open.spotify.com/track/35lZLaX1j2W2emwnaf0V9f) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 3:54 | 2023-01-31 | 2023-09-26 |
 | [People Who Use to See](https://open.spotify.com/track/1khQBzvLPhG83uJTgsLGHt) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 4:56 | 2022-05-25 | 2024-04-27 |

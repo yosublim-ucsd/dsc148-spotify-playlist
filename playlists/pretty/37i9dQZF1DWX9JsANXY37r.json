@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 121624,
+  "num_followers": 121629,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-08-19 12:07:48",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
+    },
+    {
+      "added_at": "2024-08-19 12:07:48",
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4"
-    },
-    {
-      "added_at": "2024-08-19 12:07:48",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1"
     },
     {
       "added_at": "2024-08-19 12:07:48",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-08-19 12:07:48",
       "album": {
-        "name": "Amor de Domingo",
-        "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
-      },
-      "artists": [
-        {
-          "name": "Deb Ribeiro",
-          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
-        },
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        }
-      ],
-      "duration_ms": 154337,
-      "name": "Amor de Domingo",
-      "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
-    },
-    {
-      "added_at": "2024-08-19 12:07:48",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2024-08-19 12:07:48",
+      "album": {
+        "name": "Amor de Domingo",
+        "url": "https://open.spotify.com/album/0nc3EbdVSfsXT08FybsT4j"
+      },
+      "artists": [
+        {
+          "name": "Deb Ribeiro",
+          "url": "https://open.spotify.com/artist/06v3ak9dY0QtSzyR0XKb6N"
+        },
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "Amor de Domingo",
+      "url": "https://open.spotify.com/track/2BdSUjGlGxXZX2IK9DkTkc"
     },
     {
       "added_at": "2024-08-19 12:07:48",

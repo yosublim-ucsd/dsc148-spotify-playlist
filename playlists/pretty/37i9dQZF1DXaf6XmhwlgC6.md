@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus and study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,103 likes - 264 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,165 likes - 264 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

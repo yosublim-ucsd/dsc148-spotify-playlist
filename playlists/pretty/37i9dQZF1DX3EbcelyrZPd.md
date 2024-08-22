@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Chege & Alikiba
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,885 likes - 81 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,941 likes - 81 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

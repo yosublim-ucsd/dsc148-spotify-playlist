@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-513 songs - 1 day 6 hr 46 min
+514 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A La Vida](https://open.spotify.com/track/7MQx0JhzfO64mciunnkD7o) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj), [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Off The Record](https://open.spotify.com/album/3ltOG1Zcq6fbqYvwIGBXeu) | 3:05 | 2021-10-20 | 2022-07-29 |
 | [A Shot in the Dark](https://open.spotify.com/track/1S2dznj3rS24uBd7ZtkiEh) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [A Shot in the Dark](https://open.spotify.com/album/0hMnDUlrEBy6TxGCdppD8G) | 3:13 | 2021-10-20 | 2022-04-20 |
 | [Acapulco, dos de la tard](https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap) | [Coopers](https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph) | [Heavenly Sweetness Sampler \#3](https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX) | 3:04 | 2021-10-20 |  |
-| [Adonai](https://open.spotify.com/track/5cBEqXtVc2BCPpXesQGCRH) | [Astro\-bit](https://open.spotify.com/artist/2nhMY3TRaHjxPtqKTbktzT) | [Adonai](https://open.spotify.com/album/1S4Zxe86eOGKx0g7o7co2B) | 4:00 | 2024-03-12 |  |
+| [Adonai](https://open.spotify.com/track/5cBEqXtVc2BCPpXesQGCRH) | [Astro\-bit](https://open.spotify.com/artist/2nhMY3TRaHjxPtqKTbktzT) | [Adonai](https://open.spotify.com/album/1S4Zxe86eOGKx0g7o7co2B) | 4:00 | 2024-03-12 | 2024-08-22 |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-10-20 | 2022-07-24 |
 | [Agua](https://open.spotify.com/track/0O58u6HNqiSN7UkZVrlN0W) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Visums](https://open.spotify.com/album/31TeFVqBHLKKxSXAK7fY0j) | 2:44 | 2021-10-20 | 2022-07-29 |
 | [Agua de Jamaica](https://open.spotify.com/track/7aYFLNA3vQ3zir2naHodp0) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Gio Kutia](https://open.spotify.com/artist/28vZIQfyaApCPe9qCxW15z) | [Agua de Jamaica](https://open.spotify.com/album/2MKvOrKTLGWOKO3BUWhRUv) | 3:19 | 2021-10-20 | 2022-07-07 |
@@ -299,6 +299,7 @@
 | [Maz Paz](https://open.spotify.com/track/6Js2gWnnIDA9lrn7l1mIxg) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:57 | 2021-10-20 |  |
 | [Me Despido](https://open.spotify.com/track/1oUg14EXsSP4PBGwUdi9pK) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Me Despido](https://open.spotify.com/album/5MhjG5ue9lQZpZnapV2QMw) | 3:49 | 2021-10-20 | 2022-04-20 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-16 |  |
+| [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-22 |  |
 | [Me Fui de Vacaciones](https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:00 | 2022-05-09 | 2023-05-26 |
 | [Me Gusta](https://open.spotify.com/track/6qE2cqoOJd1AoSH4gk8qJd) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Me Gusta](https://open.spotify.com/album/4i0W5FYGaFYQXgtT5Yl3zF) | 4:16 | 2021-10-20 | 2022-07-29 |
 | [Me Gustas Tú](https://open.spotify.com/track/72B3hbvWUv2pFd4h1KkQfS) | [Carolina Camacho](https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA) | [Me Gustas Tú](https://open.spotify.com/album/1uOiitfmIIuAyJoDMyCoM1) | 4:14 | 2021-10-20 | 2022-07-26 |

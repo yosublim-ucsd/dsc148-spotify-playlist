@@ -1,12 +1,12 @@
 {
-  "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 51230,
+  "description": "This Is Neto Pe\u00f1a. Los temas esenciales, todos en una lista.",
+  "num_followers": 51244,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAAD1AgI8HtRvJzuJpwcO9DX9",
+  "snapshot_id": "ZsPcgAAAAACFV57PTpl70Jroi3S/j5hX",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portarnos Mal",
-        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Portarnos Mal",
-      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portarnos Mal",
+        "url": "https://open.spotify.com/album/090BtctH6uWl0H1HH088db"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Portarnos Mal",
+      "url": "https://open.spotify.com/track/5GgvusjcTrA3RI8LqvjkvK"
     },
     {
       "added_at": null,
@@ -1199,34 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toques de Queda",
-        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Ni Rey, Ni Corona",
-      "url": "https://open.spotify.com/track/2yNbAet0LRJrpYWenxWi20"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIENTE",
         "url": "https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT"
       },
@@ -1251,6 +1223,34 @@
       "duration_ms": 302104,
       "name": "CALIENTE",
       "url": "https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Ni Rey, Ni Corona",
+      "url": "https://open.spotify.com/track/2yNbAet0LRJrpYWenxWi20"
     },
     {
       "added_at": null,
@@ -1371,6 +1371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vamos a Beber",
+        "url": "https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 190625,
+      "name": "Vamos a Beber",
+      "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Soy As\u00ed",
         "url": "https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 224415,
       "name": "Yo Soy As\u00ed",
       "url": "https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamos a Beber",
-        "url": "https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 190625,
-      "name": "Vamos a Beber",
-      "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
     }
   ],
   "unique_name": "This Is Neto Pe\u00f1a",

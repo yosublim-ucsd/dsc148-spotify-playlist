@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10204,
+  "num_followers": 10207,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 316813,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 316813,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Ya No Es Lo Mismo",
         "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 229573,
       "name": "Ya No Es Lo Mismo",
       "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Un d\u00eda nos vamos a morir",
-        "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
-      },
-      "artists": [
-        {
-          "name": "Luisa Almaguer",
-          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Un d\u00eda nos vamos a morir",
-      "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "tu liga del pelo",
         "url": "https://open.spotify.com/album/33UOUfdOGdD3BJgU5u4NaD"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "Un d\u00eda nos vamos a morir",
+        "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
+      "duration_ms": 242666,
+      "name": "Un d\u00eda nos vamos a morir",
+      "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "ni\u00f1o azul",
-        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 145800,
-      "name": "ni\u00f1o azul",
-      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1271,6 +1255,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "ni\u00f1o azul",
+        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "ni\u00f1o azul",
+      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
     },
     {
       "added_at": "2024-06-07 12:38:26",

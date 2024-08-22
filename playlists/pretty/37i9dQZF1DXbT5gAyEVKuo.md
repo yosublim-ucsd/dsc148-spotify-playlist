@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances\. Cover: <a href="spotify:artist:4rc8nzClXj7sUjvsHVg6AD">Naomi Raine</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,459 likes - 50 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,489 likes - 50 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 40 | [Tell 'Em Yes \- Live](https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly) | [Brandon A\. Jacobs](https://open.spotify.com/artist/7vF9GXItuv8qrIGpLIubFz), [New Zion Temple Church Choir](https://open.spotify.com/artist/7AtzAGpfJLrbE65N87CjwO), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Tell 'Em Yes \(Live\)](https://open.spotify.com/album/0d92kjgHOfdlS0uNk1GNLE) | 7:11 |
 | 41 | [Able \- Live](https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa) | [Justin Powell & Adoration](https://open.spotify.com/artist/4xKGMqs7NlkXba1rX9utgr) | [Able \(Live\)](https://open.spotify.com/album/3RxGPCAGB08QfDFK2z1huy) | 4:09 |
 | 42 | [Because Of Who You Are](https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb) | [Vicki Yohe](https://open.spotify.com/artist/2ePc8jGwsMZtgQemYDJLY7) | [I Just Want You](https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf) | 5:18 |
-| 43 | [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Grace Covenant Worship](https://open.spotify.com/artist/75oun743zzr8M7xaK2pZzb) | [Generations \(Live\)](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 |
+| 43 | [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Grace Covenant Worship](https://open.spotify.com/artist/75oun743zzr8M7xaK2pZzb) | [Generations](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 |
 | 44 | [I Do Worship \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [The Essential John P\. Kee](https://open.spotify.com/album/3GNchlABDyyup8hXKZbZIy) | 5:26 |
 | 45 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6rBxU46le6jDmzkYLD3FVN), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 | 46 | [Total Praise \(with Vision\) \- Live](https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Adoration](https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp) | 4:59 |

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover:  Allen Iverson
+> Fourth quarter, two minutes left .\. get locked in\. Cover:  Tyreek Hill
 
 668 songs - 1 day 9 hr 54 min
 

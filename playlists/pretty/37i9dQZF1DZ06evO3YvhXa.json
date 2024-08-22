@@ -1,12 +1,12 @@
 {
-  "description": "This is Jamiroquai. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 393266,
+  "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
+  "num_followers": 393342,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACl+jZ4bnphkJ0knXRdYu1g",
+  "snapshot_id": "ZsPcgAAAAAC025cgsBZm+PUMw0OrrjRS",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "All Good In The Hood",
-      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 301733,
       "name": "Time Won't Wait",
       "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "All Good In The Hood",
+      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "(Don't) Give Hate a Chance",
+      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 180040,
       "name": "Break My Heart / Cosmic Girl (Dimitri From Paris Edit) [Mixed]",
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "(Don't) Give Hate a Chance",
-      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
     },
     {
       "added_at": null,

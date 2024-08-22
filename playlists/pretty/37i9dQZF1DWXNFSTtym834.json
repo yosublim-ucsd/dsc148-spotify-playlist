@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1276564,
+  "num_followers": 1276589,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Doomsday Machine",
-        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
         }
       ],
-      "duration_ms": 252280,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+      "duration_ms": 178666,
+      "name": "I Will Be Heard",
+      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Perseverance",
-        "url": "https://open.spotify.com/album/2UPZ06izR1OtTX80U30AfG"
+        "name": "Doomsday Machine",
+        "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
       "artists": [
         {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 178666,
-      "name": "I Will Be Heard",
-      "url": "https://open.spotify.com/track/4Lxn1JlGJwmmXpODrNvPA6"
+      "duration_ms": 252280,
+      "name": "Nemesis",
+      "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
         "name": "Slania",
         "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 222466,
       "name": "Right Side Of The Bed",
       "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "Supremacy",
-        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
-      },
-      "artists": [
-        {
-          "name": "Hatebreed",
-          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Destroy Everything",
-      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Train of Thought",
-        "url": "https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 467826,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Desensitized",
         "url": "https://open.spotify.com/album/2rLw6qyXE3fx4abX8acmhy"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 197293,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/4Q1w4Ryyi8KNxxaFlOQClK"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Train of Thought",
+        "url": "https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 467826,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Octavarium",
-        "url": "https://open.spotify.com/album/4v6kYkn7mYjlWS9vONmmCP"
+        "name": "Crack the Skye",
+        "url": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
         }
       ],
-      "duration_ms": 493026,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5axwj3ekvw85989jjO8Ov8"
+      "duration_ms": 346573,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK"
     }
   ],
   "unique_name": "00s Metal Classics",

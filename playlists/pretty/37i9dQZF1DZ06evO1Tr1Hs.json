@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 27134,
+  "num_followers": 27211,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsKLAAAAAACj4PZLnJ3OflueFEdJ/DXp",
+  "snapshot_id": "ZsPcgAAAAAD0qBHFW3MRDX3DgL1XPtHH",
   "tracks": [
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 141072,
-      "name": "more chaos",
-      "url": "https://open.spotify.com/track/6ovJ4vtrLdONeRoTT4s4uw"
+      "duration_ms": 165353,
+      "name": "toxic",
+      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 165353,
-      "name": "toxic",
-      "url": "https://open.spotify.com/track/4c1LjGTCF8kMEikirzFgkm"
+      "duration_ms": 141072,
+      "name": "more chaos",
+      "url": "https://open.spotify.com/track/6ovJ4vtrLdONeRoTT4s4uw"
     },
     {
       "added_at": null,

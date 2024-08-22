@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-414 songs - 23 hr 33 min
+415 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [KESI](https://open.spotify.com/track/42lpuSQmnLUM1ZXJVzIVOi) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 | 2022-01-10 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2022-01-10 | 2022-08-09 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-08-08 | 2023-04-25 |
-| [La Bachata](https://open.spotify.com/track/3tTzInzRZC7kRMK1sRfT14) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [La Bachata](https://open.spotify.com/album/2ZuHbnjlyHvDOTqMy1feF0) | 2:14 | 2023-04-24 |  |
+| [La Bachata](https://open.spotify.com/track/3tTzInzRZC7kRMK1sRfT14) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [La Bachata](https://open.spotify.com/album/2ZuHbnjlyHvDOTqMy1feF0) | 2:14 | 2023-04-24 | 2024-08-22 |
 | [La Bella y la Bestia](https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Bella y la Bestia](https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR) | 3:06 | 2022-08-08 |  |
 | [La Boca Junta](https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [La Boca Junta](https://open.spotify.com/album/5KiFt9khw9XuwkFCQ6ZTtB) | 3:47 | 2022-01-10 | 2022-07-29 |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2023-02-11 |  |
@@ -376,6 +376,7 @@
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-04-24 | 2023-12-23 |
 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 | 2022-08-08 | 2023-12-23 |
 | [Tu jardín con enanitos](https://open.spotify.com/track/6yCjU5j6YHbux2VQCBTTE1) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Lágrimas desordenadas](https://open.spotify.com/album/1J83k6qJHhtXaexpnJzoqr) | 3:56 | 2022-01-10 | 2022-07-29 |
+| [Turnedo](https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx) | [Ivan Ferreiro](https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP) | [Canciones para el tiempo y la distancia](https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp) | 4:38 | 2024-07-12 |  |
 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 | 2022-08-08 | 2023-05-02 |
 | [Tú Me Has Cambiado](https://open.spotify.com/track/3WVmexWoHvIl3yl7PZNiS4) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Tú Me Has Cambiado](https://open.spotify.com/album/10br3PEDluQhbIC7QJFck3) | 2:54 | 2022-01-10 | 2022-07-28 |
 | [Tú y yo](https://open.spotify.com/track/0cUp7d3a6DHzAuSKBn1NZJ) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tú y yo](https://open.spotify.com/album/5To3JjtIkghGay545iV2wf) | 2:43 | 2022-08-08 | 2022-12-31 |

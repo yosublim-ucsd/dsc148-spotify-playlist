@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,510 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,516 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 |
 | 50 | [сейджуро акаши 2\)](https://open.spotify.com/track/17VtOCT1WwkYI1VGA2MoLa) | [dabbackwood](https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy) | [сейджуро акаши 2\)](https://open.spotify.com/album/6LGvtUcKhVHeNMiNCKaAWQ) | 1:13 |
 
-Snapshot ID: `Llf/mAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LllTcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

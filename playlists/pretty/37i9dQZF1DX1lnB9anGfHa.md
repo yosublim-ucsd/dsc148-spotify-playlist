@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,411 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,492 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 64 | [Venus](https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Venus](https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3) | 3:42 |
 | 65 | [The Fountain](https://open.spotify.com/track/2W9OF8EQKVl6dexLio5REX) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 3:16 |
 | 66 | [Travel Lite](https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7) | [Perera Elsewhere](https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ) | [Home](https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN) | 3:57 |
-| 67 | [lover's spit plays in the background](https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [lover's spit plays in the background](https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A) | 4:02 |
-| 68 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
+| 67 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
+| 68 | [lover's spit plays in the background](https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [lover's spit plays in the background](https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A) | 4:02 |
 | 69 | [The House That Agnes Built](https://open.spotify.com/track/2VxEI4KcbKYU3kKbzaRwod) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [Image Langage](https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy) | 2:56 |
 | 70 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 |
 | 71 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
 | 72 | [Obscure Paliteo](https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [Benti](https://open.spotify.com/album/5n7fPX5kqDYOI5LUo2aq0l) | 3:59 |
 | 73 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 74 | [Gumar \(Moon\)](https://open.spotify.com/track/0Zcmk5mD0h4iBpF7jXYnwp) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Gumar EP](https://open.spotify.com/album/5OekI8p8goBmoEOSjoeILc) | 1:36 |
+| 74 | [Dois Litorais](https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34) | [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP) | [Dois Litorais](https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw) | 8:40 |
 | 75 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 |
 
 Snapshot ID: `ZsTwMQAAAABRo+IAEtpDNYbJBLnhO3HP`

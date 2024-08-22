@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895456,
+  "num_followers": 3895471,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Favourite Place",
         "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 180100,
       "name": "Favourite Place",
       "url": "https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
@@ -875,38 +859,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Call my name",
-        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 174803,
-      "name": "Call my name",
-      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -931,6 +895,42 @@
       "duration_ms": 178604,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Call my name",
+        "url": "https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 174803,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
         }
       ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+      "duration_ms": 195250,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1275,8 +1275,8 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "every-little-part",
-        "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
+        "name": "golden",
+        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
       },
       "artists": [
         {
@@ -1284,33 +1284,33 @@
           "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "Otherwish",
-          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
         },
         {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
         }
       ],
-      "duration_ms": 229710,
-      "name": "every-little-part",
-      "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+      "duration_ms": 302486,
+      "name": "golden",
+      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
     },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
       },
       "artists": [
         {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
         }
       ],
-      "duration_ms": 195250,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1431,8 +1431,8 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "golden",
-        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
+        "name": "every-little-part",
+        "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
       "artists": [
         {
@@ -1440,17 +1440,33 @@
           "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
         },
         {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "Otherwish",
+          "url": "https://open.spotify.com/artist/5FJ08AtQgIApHTZwb4Ts5T"
         },
         {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
         }
       ],
-      "duration_ms": 302486,
-      "name": "golden",
-      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
+      "duration_ms": 229710,
+      "name": "every-little-part",
+      "url": "https://open.spotify.com/track/2iI827tTlkWlaKXypNB6rE"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1471,22 +1487,6 @@
       "duration_ms": 256500,
       "name": "Double Reflections",
       "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "See You In Dreams",
-        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
       },
       "artists": [
         {
-          "name": "Fideles",
-          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
-        },
-        {
-          "name": "Be No Rain",
-          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         }
       ],
-      "duration_ms": 271519,
-      "name": "See You In Dreams",
-      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+      "duration_ms": 267860,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
+        "name": "See You In Dreams",
+        "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
       "artists": [
         {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
         }
       ],
-      "duration_ms": 267860,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+      "duration_ms": 271519,
+      "name": "See You In Dreams",
+      "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2"
       },
@@ -1831,18 +1815,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 200105,
       "name": "Essentialism.",
       "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1899,38 +1899,38 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Holding Me Back",
-        "url": "https://open.spotify.com/album/0WxPw5ordrZJNMHhtzjAJ7"
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
         },
         {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
         }
       ],
-      "duration_ms": 265849,
-      "name": "Holding Me Back",
-      "url": "https://open.spotify.com/track/7DtNdmtp4c12Wt0sdHVg3g"
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Feel You In Love",
-        "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
+        "name": "Benidorm",
+        "url": "https://open.spotify.com/album/30nXTM6P8pO0UEt1KT6Bfj"
       },
       "artists": [
         {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+          "name": "Refeci",
+          "url": "https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp"
         }
       ],
-      "duration_ms": 193562,
-      "name": "Feel You In Love",
-      "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
+      "duration_ms": 134769,
+      "name": "Benidorm",
+      "url": "https://open.spotify.com/track/625S8ZDzHnn0bo8csfIG9o"
     }
   ],
   "unique_name": "Chill Tracks",

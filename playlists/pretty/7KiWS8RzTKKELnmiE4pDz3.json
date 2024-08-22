@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc3+DF1ARGm2UBAkTqZqYyCDcW1+Ea",
+  "snapshot_id": "AAAc4JaWasKxx8Hhl8/YIJcTFnAnLwTp",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3135,6 +3135,30 @@
       "duration_ms": 131555,
       "name": "Jay N Bey!",
       "url": "https://open.spotify.com/track/0pST9hoYDLC7cI71VrXxBW"
+    },
+    {
+      "added_at": "2024-08-22 01:00:23",
+      "album": {
+        "name": "Delusions of Grandeur",
+        "url": "https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177243,
+      "name": "Ice (feat. Gunna & Lil Baby)",
+      "url": "https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC"
     }
   ],
   "unique_name": "main ",

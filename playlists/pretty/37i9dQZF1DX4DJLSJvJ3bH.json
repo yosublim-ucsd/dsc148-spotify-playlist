@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 117828,
+  "num_followers": 117825,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "The Christmas Song - Expanded Edition",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Sonny Magic Trio",
+          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
         }
       ],
-      "duration_ms": 139466,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
+      "duration_ms": 163130,
+      "name": "The Chipmunk Song",
+      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Have Yourself a Merry Little Christmas",
-        "url": "https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg"
+        "name": "The Christmas Song - Expanded Edition",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Sonny Magic Trio",
-          "url": "https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 163130,
-      "name": "The Chipmunk Song",
-      "url": "https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl"
+      "duration_ms": 139466,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "I Wish You A Merry Christmas - Remastered 2006",
-      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Once in Royal David's City",
         "url": "https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 165225,
       "name": "Once in Royal David's City",
       "url": "https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "I Wish You A Merry Christmas - Remastered 2006",
+      "url": "https://open.spotify.com/track/26hUXfKoJYkAMK07nW2dzQ"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+        "name": "The Merriest",
+        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
       },
       "artists": [
         {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
         }
       ],
-      "duration_ms": 235573,
-      "name": "Dear Mister Santa Claus",
-      "url": "https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV"
+      "duration_ms": 237613,
+      "name": "That Holiday Feeling",
+      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1379,6 +1383,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 235573,
+      "name": "Dear Mister Santa Claus",
+      "url": "https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "Christmas Wish",
         "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 253607,
       "name": "Cradle in Bethlehem",
       "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "The Merriest",
-        "url": "https://open.spotify.com/album/3VoVYgeYB0L3ZwYx0ox2UF"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        },
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "That Holiday Feeling",
-      "url": "https://open.spotify.com/track/1bKVlbJLBpyyXM5SwJovPW"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "duration_ms": 275745,
+      "name": "Angels We Have Heard on High / Joy to the World",
+      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
         "name": "The Beautiful Day",
         "url": "https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 272160,
       "name": "Christmas Children",
       "url": "https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
-        "name": "Joe Pass - Six String Santa",
-        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
-      },
-      "artists": [
-        {
-          "name": "Joe Pass",
-          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
-        }
-      ],
-      "duration_ms": 275745,
-      "name": "Angels We Have Heard on High / Joy to the World",
-      "url": "https://open.spotify.com/track/3ZtqRGAm0Q3hUjRKKGoDeA"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
-      },
-      "artists": [
-        {
-          "name": "Reese Quartet",
-          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
-        }
-      ],
-      "duration_ms": 101102,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "When My Heart Finds Christmas",
-        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "Reese Quartet",
+          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
+      "duration_ms": 101102,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1711,6 +1695,22 @@
       "duration_ms": 174759,
       "name": "Toyland",
       "url": "https://open.spotify.com/track/4rOpf9iZxgQLSALGHsYvk4"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "When My Heart Finds Christmas",
+        "url": "https://open.spotify.com/album/1puRIKtM4c4aDpUNJNtyn4"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7Ez9zlZuyvEo2iiRvOSDnd"
     },
     {
       "added_at": "2023-12-19 09:25:36",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2023-12-19 09:25:36",
       "album": {
-        "name": "Hope of Christmas",
-        "url": "https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo"
-      },
-      "artists": [
-        {
-          "name": "Ann Hampton Callaway",
-          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
-        }
-      ],
-      "duration_ms": 286026,
-      "name": "Christmas Isn't Christmas At All",
-      "url": "https://open.spotify.com/track/2peDwHsnN3T2U62N2hWgDA"
-    },
-    {
-      "added_at": "2023-12-19 09:25:36",
-      "album": {
         "name": "Christmas With Etta Jones",
         "url": "https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 235106,
       "name": "Ring The Bells",
       "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
+    },
+    {
+      "added_at": "2023-12-19 09:25:36",
+      "album": {
+        "name": "Hope of Christmas",
+        "url": "https://open.spotify.com/album/2nuBdfcmKaFLHy00vENDgo"
+      },
+      "artists": [
+        {
+          "name": "Ann Hampton Callaway",
+          "url": "https://open.spotify.com/artist/5wHvUotfxzSccrzX9x9g6e"
+        }
+      ],
+      "duration_ms": 286026,
+      "name": "Christmas Isn't Christmas At All",
+      "url": "https://open.spotify.com/track/2peDwHsnN3T2U62N2hWgDA"
     },
     {
       "added_at": "2023-12-19 09:25:36",

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19437,
+  "num_followers": 19442,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -711,8 +711,8 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Cabeza Negra",
-        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 154006,
-      "name": "Fuga de Ausencias",
-      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
+      "duration_ms": 193348,
+      "name": "La Piel de la Ciudad",
+      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -835,8 +835,8 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Cabeza Negra",
+        "url": "https://open.spotify.com/album/1g26oBJd6HGQxPdJLJwqI5"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 193348,
-      "name": "La Piel de la Ciudad",
-      "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
+      "duration_ms": 154006,
+      "name": "Fuga de Ausencias",
+      "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -903,6 +903,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Iluminame, por Favor",
+        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
+      },
+      "artists": [
+        {
+          "name": "Chifladas Tango",
+          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
+        },
+        {
+          "name": "Suarez&Torres",
+          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
+        }
+      ],
+      "duration_ms": 221633,
+      "name": "Iluminame, por Favor",
+      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Marioneta",
         "url": "https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 236599,
       "name": "Marioneta",
       "url": "https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Iluminame, por Favor",
-        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
-      },
-      "artists": [
-        {
-          "name": "Chifladas Tango",
-          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
-        },
-        {
-          "name": "Suarez&Torres",
-          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
-        }
-      ],
-      "duration_ms": 221633,
-      "name": "Iluminame, por Favor",
-      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
     },
     {
       "added_at": "2024-08-02 17:18:29",

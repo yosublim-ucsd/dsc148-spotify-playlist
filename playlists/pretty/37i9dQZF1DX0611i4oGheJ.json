@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 451765,
+  "num_followers": 451874,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Southeastern",
         "url": "https://open.spotify.com/album/1bg476ZQn7hmcXaU05SHV4"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "My Arms Were Always Around You",
         "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "strip mall",
-        "url": "https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 153720,
-      "name": "strip mall",
-      "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "i leave early",
         "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 193793,
       "name": "i leave early",
       "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "strip mall",
+        "url": "https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "strip mall",
+      "url": "https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "Restless Minds",
-        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
-      },
-      "artists": [
-        {
-          "name": "Ward Thomas",
-          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "No Fooling Me",
-      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Collateral",
         "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 179188,
       "name": "Collateral",
       "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "Restless Minds",
+        "url": "https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7"
+      },
+      "artists": [
+        {
+          "name": "Ward Thomas",
+          "url": "https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "No Fooling Me",
+      "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
-        "name": "How Did It Seem To You?",
-        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 231131,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
+        "name": "How Did It Seem To You?",
+        "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4"
     },
     {
       "added_at": "2024-07-05 18:59:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-07-05 18:59:00",
       "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J"
+    },
+    {
+      "added_at": "2024-07-05 18:59:00",
+      "album": {
         "name": "when i look at you.",
         "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 247133,
       "name": "I Never Said",
       "url": "https://open.spotify.com/track/42SB64jRqtJxzdiBPgThkt"
-    },
-    {
-      "added_at": "2024-07-05 18:59:00",
-      "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/00C5llfInrmXgjBrT40L1J"
     },
     {
       "added_at": "2024-07-05 18:59:00",

@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,093 songs - 2 day 22 hr 28 min
+1,094 songs - 2 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [All those nights](https://open.spotify.com/track/4wHDPpI4nWoj3F20unVH8f) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [All those nights](https://open.spotify.com/album/4BIOYMg5wAVi0onxV4f73T) | 2:19 | 2024-06-03 | 2024-07-10 |
 | [Almost Home](https://open.spotify.com/track/6o2FVcJk7m0eY4AYIuf2hK) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Almost Home](https://open.spotify.com/album/3YxHVhhbU5dIUmkIiXwKQc) | 2:38 | 2024-03-22 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/2vGJACJBCVyEHk6lCcqiSO) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:31 | 2022-06-30 | 2024-04-19 |
-| [Almost Like Being In Love](https://open.spotify.com/track/20snee2NrSY2DLrz5mGHUq) | [Lester Young & The Oscar Peterson Trio](https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt) | 3:33 | 2021-12-03 |  |
+| [Almost Like Being In Love](https://open.spotify.com/track/20snee2NrSY2DLrz5mGHUq) | [Lester Young & The Oscar Peterson Trio](https://open.spotify.com/artist/3Ws6pq018BWAz8uYhZ7V6h) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/5GV8mn6Y244jnMc8wiOpqt) | 3:33 | 2021-12-03 | 2024-08-22 |
 | [Always a Lady](https://open.spotify.com/track/3We23WM1fwrgX6DGaem3qO) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 3:03 | 2023-02-16 | 2024-04-19 |
 | [An Evening In Vienna](https://open.spotify.com/track/3bop0vSSbniMVgkYuOCEKR) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [An Evening In Vienna](https://open.spotify.com/album/3WfIRV65RyKAJeVTXR4WEr) | 3:04 | 2023-08-25 | 2024-04-11 |
 | [Angel Eyes](https://open.spotify.com/track/5qHNehosAT9As6OnEfjtR2) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Angel Eyes](https://open.spotify.com/album/5cvyX1YB1KWzgF0ZIsQPLJ) | 4:27 | 2024-02-02 | 2024-04-11 |
@@ -325,7 +325,7 @@
 | [From Paris with love](https://open.spotify.com/track/7Mrz01pIRqW3IGQro5IqDq) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [From Paris with love](https://open.spotify.com/album/3cCLtvehudXUYm2uw571LX) | 3:05 | 2023-02-09 |  |
 | [Fujiyama](https://open.spotify.com/track/41fniSbDLqp964wyawCRrV) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 5:03 | 2022-05-13 | 2022-07-29 |
 | [Fujiyama](https://open.spotify.com/track/4Iv4KgHBWsFhLNXXMvyUmb) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7) | 5:03 | 2022-06-30 | 2022-11-11 |
-| [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2023-02-09 |  |
+| [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2023-02-09 | 2024-08-22 |
 | [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/15c6okmVGsMQYb7PkKi5v3) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [Georgia On My Mind](https://open.spotify.com/album/113L3LCtjrI2vA7xe8DCLq) | 3:12 | 2022-11-10 | 2023-08-25 |
 | [Get my check](https://open.spotify.com/track/14HUV8e3IJmq9n5m2JZEeV) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Get my check](https://open.spotify.com/album/7ni0WTwyRYUX2A4n3EUwdv) | 3:19 | 2024-06-03 | 2024-07-16 |
@@ -435,6 +435,7 @@
 | [If You Could See Me Now](https://open.spotify.com/track/0l1K6sAVycWbe2K1oWQgU4) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [If You Could See Me Now](https://open.spotify.com/album/22ndy4PP1O9LVJuqq7dN6W) | 4:36 | 2024-02-09 |  |
 | [If You Say Goodbye](https://open.spotify.com/track/2spKTHzzPhXETINp5L43JY) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Don't Leave Me Alone](https://open.spotify.com/album/1dhSMp8BQM346Re594UVIq) | 3:00 | 2023-02-02 |  |
 | [Ill Wind](https://open.spotify.com/track/5x86T4WYD8z4axZugABMJ7) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 3:41 | 2022-03-25 |  |
+| [Images](https://open.spotify.com/track/2hSaahJ7GvxJUpdruwJ6lI) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Images](https://open.spotify.com/album/6GlfwSdh9KkPvnChKUdZRs) | 3:33 | 2024-08-06 |  |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-12-01 |  |
 | [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-02 |  |
 | [Impressive\-looking](https://open.spotify.com/track/1uM5EU6CdbnOVtPKVvqnI2) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Impressive\-looking](https://open.spotify.com/album/4HKAiMUq49tLZdkNd4njZs) | 3:24 | 2023-08-10 |  |
@@ -964,7 +965,7 @@
 | [Through The Raindrops](https://open.spotify.com/track/1w4KVyPxw91ce1Fut6e5DI) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Through The Raindrops](https://open.spotify.com/album/3GnhjFhG9GtAXUkxwxYGNG) | 3:43 | 2023-06-01 |  |
 | [Throughout](https://open.spotify.com/track/3CzfCEu7xH7dDDD1MreOz0) | [Kevin Hays](https://open.spotify.com/artist/2uOemiMYq8Lh6yzwELpb3J), [Ben Street](https://open.spotify.com/artist/649VhpjHo5aMtz2RlIlUSR), [Billy Hart](https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I) | [Throughout](https://open.spotify.com/album/0vLAIDSbyeYbuaKPkaIDUm) | 5:24 | 2023-11-24 | 2024-02-05 |
 | [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 |  |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 | 2024-08-21 |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-09-29 |  |
 | [Till There Was You](https://open.spotify.com/track/3FpMFIImpOZfAXQjsOBmkh) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Till There Was You](https://open.spotify.com/album/0ab5U3SnyooRTgP2uFXejL) | 2:35 | 2023-08-10 |  |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 |  |
 | [Time For Us All](https://open.spotify.com/track/3qkps5sd1PZ16qddlIiA28) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Time For Us All](https://open.spotify.com/album/1vDWKR0MtOjAGZkNLxU1IV) | 3:17 | 2023-08-10 |  |

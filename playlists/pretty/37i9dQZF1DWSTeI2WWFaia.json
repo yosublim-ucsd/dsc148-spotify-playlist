@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1591946,
+  "num_followers": 1591965,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,30 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Mancala (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "Mancala (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Don't Forget To Breathe",
+        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Buddy A Fool",
+      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Saturday Night Special (feat. Rick Ross & Fat Joe)",
         "url": "https://open.spotify.com/album/3wAJhTshe6dXXworwy3CF1"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Don't Forget To Breathe",
-        "url": "https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Buddy A Fool",
-      "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "shadowbox",
         "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
       },
@@ -879,42 +879,6 @@
       "duration_ms": 92524,
       "name": "the sky is quiet",
       "url": "https://open.spotify.com/track/2vyy3jKeULwP2ZL5qsSE4I"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Sega",
-        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
-      },
-      "artists": [
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 105577,
-      "name": "Sega",
-      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Across The Tracks",
-        "url": "https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        }
-      ],
-      "duration_ms": 137485,
-      "name": "St. Juliana",
-      "url": "https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -939,6 +903,42 @@
       "duration_ms": 313397,
       "name": "Oprah & Gayle (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Across The Tracks",
+        "url": "https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        }
+      ],
+      "duration_ms": 137485,
+      "name": "St. Juliana",
+      "url": "https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Sega",
+        "url": "https://open.spotify.com/album/7bVrwttLi9lgVg2Pa53DO1"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 105577,
+      "name": "Sega",
+      "url": "https://open.spotify.com/track/35abyRG69nf9bvTAwCpASz"
     },
     {
       "added_at": "2024-08-09 04:00:00",

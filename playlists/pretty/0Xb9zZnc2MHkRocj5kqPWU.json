@@ -1,13 +1,33 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this instrumental playlist for reflection and calm.",
-  "num_followers": 62511,
+  "num_followers": 62507,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHTWrZLQjGMgSmEMCy9EWek7BkMPaJ",
+  "snapshot_id": "AAAHUH1FwRfL0vbQU2H/iQmzRe96XKIv",
   "tracks": [
+    {
+      "added_at": "2024-08-21 19:43:09",
+      "album": {
+        "name": "solari",
+        "url": "https://open.spotify.com/album/5pweojtaklLhDo7qdNVEBr"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "solari",
+      "url": "https://open.spotify.com/track/1yp9xapvzXJ6b7jin86HjO"
+    },
     {
       "added_at": "2024-08-09 13:16:18",
       "album": {
@@ -89,6 +109,22 @@
       "url": "https://open.spotify.com/track/2RTqiYtiTKhkctjDOGgQlL"
     },
     {
+      "added_at": "2024-08-21 19:50:35",
+      "album": {
+        "name": "Postscript",
+        "url": "https://open.spotify.com/album/4xs1FofLBZbDqTA2JN1Kj2"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Postscript",
+      "url": "https://open.spotify.com/track/5yWoeQZadZF3y7uLBjsGcE"
+    },
+    {
       "added_at": "2024-08-09 14:10:47",
       "album": {
         "name": "Italian R\u00eaverie",
@@ -143,6 +179,22 @@
       "duration_ms": 310019,
       "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 1 in E-Flat Major",
       "url": "https://open.spotify.com/track/2qMnYj3hfOHDhQamPx3eLp"
+    },
+    {
+      "added_at": "2024-08-21 19:51:26",
+      "album": {
+        "name": "Video Games",
+        "url": "https://open.spotify.com/album/2l4tDU2l3hIdI5YOYUdObQ"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 155204,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0VtJ2Vt0nIiks2nMASmgJM"
     },
     {
       "added_at": "2024-07-04 20:01:27",

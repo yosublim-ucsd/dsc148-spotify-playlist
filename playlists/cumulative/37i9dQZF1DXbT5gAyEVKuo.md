@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Grace Covenant Worship](https://open.spotify.com/artist/75oun743zzr8M7xaK2pZzb) | [Generations \(Live\)](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 | 2024-06-24 |  |
+| [Abide In You \- Live](https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0), [Grace Covenant Worship](https://open.spotify.com/artist/75oun743zzr8M7xaK2pZzb) | [Generations](https://open.spotify.com/album/6kojgJFOQ6nhIFXIM9gaA7) | 4:30 | 2024-06-24 |  |
 | [Able \- Live](https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa) | [Justin Powell & Adoration](https://open.spotify.com/artist/4xKGMqs7NlkXba1rX9utgr) | [Able \(Live\)](https://open.spotify.com/album/3RxGPCAGB08QfDFK2z1huy) | 4:09 | 2024-06-24 |  |
 | [All I Need \- Live](https://open.spotify.com/track/0WK1BBh6hboTqZ9LXNXM2n) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N) | 8:06 | 2023-02-18 | 2024-04-19 |
 | [All I Need \- Live](https://open.spotify.com/track/4v1kWCbf642osv9iuo3Rt6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0) | 8:06 | 2021-06-12 | 2024-06-25 |

@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 32 min
+56 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Falsas Amistades \- En Vivo](https://open.spotify.com/track/3P832nt7xaHI4OL3oPym8O) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:32 | 2024-08-13 |  |
 | [GPI \- Remix](https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Casa Siempre Gana](https://open.spotify.com/album/31oOPZAiF6li1JmSWR5HJC) | 2:20 | 2024-08-08 |  |
 | [Hay Les Encargo \- En Vivo](https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:19 | 2024-08-08 |  |
-| [Humildemente](https://open.spotify.com/track/78uoIGEJotoEiMvyXjy2ha) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/3xiQ5jIpSuaFZOZJJtEfHI) | 1:58 | 2024-08-08 |  |
+| [Humildemente](https://open.spotify.com/track/4sfU8na5xesLs1ugBKPcqd) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/6LB9ZA7fkWD1pwzTjcCRwV) | 1:58 | 2024-08-22 |  |
+| [Humildemente](https://open.spotify.com/track/78uoIGEJotoEiMvyXjy2ha) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [De Frente](https://open.spotify.com/album/3xiQ5jIpSuaFZOZJJtEfHI) | 1:58 | 2024-08-08 | 2024-08-22 |
 | [Ivan Archivaldo, Gonzalo Y El R, El Rápido \- En Vivo](https://open.spotify.com/track/61lb9K8iuqHrhpuhvgEhmr) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Agrado](https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh) | [El Maserati \(En Vivo\)](https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk) | 5:37 | 2024-08-08 |  |
 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 | 2024-08-08 |  |
 | [La Corona](https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [La Corona](https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN) | 1:59 | 2024-08-08 |  |

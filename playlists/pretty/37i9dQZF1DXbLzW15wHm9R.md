@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Twisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,523 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,510 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 9 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 |
 | 10 | [The Chain \- From The Prime Video Original Series, My Lady Jane](https://open.spotify.com/track/328yyFDPgpzUXVq3v2YBld) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [The Chain \(From The Prime Video Original Series, My Lady Jane\)](https://open.spotify.com/album/7keXdFgGtDhrkJoFXoqxIc) | 3:45 |
 | 11 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/5KAcRZdtpHXQb3OmYGvpgX) | 3:54 |
-| 12 | [pov](https://open.spotify.com/track/4tnWBYevAZYe81vqDryH2M) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Three \(Covers from the Netflix Series\)](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 3:27 |
-| 13 | [You Belong With Me](https://open.spotify.com/track/6dpjJIWTgTJQyviasKWjk4) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Three \(Covers from the Netflix Series\)](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 4:01 |
+| 12 | [pov](https://open.spotify.com/track/4tnWBYevAZYe81vqDryH2M) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bridgerton Season Three \- Covers from the Netflix Series](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 3:27 |
+| 13 | [You Belong With Me](https://open.spotify.com/track/6dpjJIWTgTJQyviasKWjk4) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Three \- Covers from the Netflix Series](https://open.spotify.com/album/2euYqZ4wqxj9dPRzkkZxgd) | 4:01 |
 | 14 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |
 | 15 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 16 | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TONIGHT \(Bad Boys: Ride Or Die\) \(feat\. Becky G\)](https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu) | 3:38 |
