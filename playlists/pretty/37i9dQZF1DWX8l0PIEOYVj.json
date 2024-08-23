@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: CloZee and LSDREAM",
-  "num_followers": 474201,
+  "num_followers": 474186,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Trailblazer",
-        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        }
-      ],
-      "duration_ms": 238628,
-      "name": "Trailblazer",
-      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Trailblazer",
+        "url": "https://open.spotify.com/album/4nHlVdgTYa0Uod3o4sfXFr"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "duration_ms": 238628,
+      "name": "Trailblazer",
+      "url": "https://open.spotify.com/track/5psgWqa4cMrANthb7UcfBR"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
       },
       "artists": [
         {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         },
         {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
+      "duration_ms": 240000,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
         "name": "Just A Mirage",
         "url": "https://open.spotify.com/album/2tx9zO7VpnCZy2mO4vbcNr"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 135011,
       "name": "Heartbreak Feels So Good - Dillon Francis Remix",
       "url": "https://open.spotify.com/track/6Wsluv589twj4357ccqrzU"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1DeviOm1Q9kfRInjKew0zj"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/64QEKubw0hGFGI6JAyeIgl"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -1619,30 +1619,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "North Star",
-        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
-      },
-      "artists": [
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        },
-        {
-          "name": "Hoang",
-          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "North Star",
-      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Heavy Heart",
         "url": "https://open.spotify.com/album/6W3jyRwWtdd7ZIOATdzkOt"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 205333,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/2Cg5nw3PsrHYudEux8IBcT"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "North Star",
+        "url": "https://open.spotify.com/album/2308bJJtMPT9ndArfSvkUY"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        },
+        {
+          "name": "Hoang",
+          "url": "https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "North Star",
+      "url": "https://open.spotify.com/track/0ETOemq54BkgRF5MSKvJIU"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -1795,30 +1795,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
-      },
-      "artists": [
-        {
-          "name": "Wavedash",
-          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "meesh",
-          "url": "https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "SKYFALLING",
-      "url": "https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/07LWmdM0PcSsymfyfkPPLn"
       },
@@ -1839,6 +1815,30 @@
       "duration_ms": 205423,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/11DwTQXNzDjpQ8svvX6czk"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/5pEpNGQZZyXSYVpLJ3it6T"
+      },
+      "artists": [
+        {
+          "name": "Wavedash",
+          "url": "https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "meesh",
+          "url": "https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "SKYFALLING",
+      "url": "https://open.spotify.com/track/6qYCmyVbEL4NXY5c0hMLzZ"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
-      },
-      "artists": [
-        {
-          "name": "Nytrix",
-          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
-        },
-        {
-          "name": "DZMA",
-          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
-        }
-      ],
-      "duration_ms": 245404,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Ready Now",
         "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 201931,
       "name": "Ready Now",
       "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Dancing With Myself",
+        "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Aviella",
+          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+        }
+      ],
+      "duration_ms": 163714,
+      "name": "Dancing With Myself",
+      "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2031,22 +2031,22 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Dancing With Myself",
-        "url": "https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/2FffB4voVDZ7T2EeLFPs44"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
         },
         {
-          "name": "Aviella",
-          "url": "https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe"
+          "name": "DZMA",
+          "url": "https://open.spotify.com/artist/60h475nikrqMsOWGBmH36V"
         }
       ],
-      "duration_ms": 163714,
-      "name": "Dancing With Myself",
-      "url": "https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR"
+      "duration_ms": 245404,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/44533l23WUXBT18jjfO5wf"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2095,26 +2095,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Edge Of Your Heart",
-        "url": "https://open.spotify.com/album/11uYQSYEp3qMKZrnJ7lwBB"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        },
-        {
-          "name": "TruFeelz",
-          "url": "https://open.spotify.com/artist/5fWsUipLkXJCfrbUK0VvPt"
-        }
-      ],
-      "duration_ms": 217808,
-      "name": "Edge Of Your Heart",
-      "url": "https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 180903,
       "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
       "url": "https://open.spotify.com/track/5vzNApeGxycrRYkK1PanGR"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Edge Of Your Heart",
+        "url": "https://open.spotify.com/album/11uYQSYEp3qMKZrnJ7lwBB"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "TruFeelz",
+          "url": "https://open.spotify.com/artist/5fWsUipLkXJCfrbUK0VvPt"
+        }
+      ],
+      "duration_ms": 217808,
+      "name": "Edge Of Your Heart",
+      "url": "https://open.spotify.com/track/2ed3la4TGm10Ngm3bErHWe"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2495,26 +2495,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Violet Sky (feat. Sarah de Warren)",
-        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
-      },
-      "artists": [
-        {
-          "name": "Codeko",
-          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Violet Sky (feat. Sarah de Warren)",
-      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "seethelight",
         "url": "https://open.spotify.com/album/0T896ntGW4bbhhEJh8BLf4"
       },
@@ -2531,6 +2511,26 @@
       "duration_ms": 179275,
       "name": "seethelight",
       "url": "https://open.spotify.com/track/5qIxlh4rXTlFH0mNhFtGPh"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Violet Sky (feat. Sarah de Warren)",
+        "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
+      },
+      "artists": [
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Violet Sky (feat. Sarah de Warren)",
+      "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2555,26 +2555,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Sanctum Eternal (Au5 Remix)",
-        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
-      },
-      "artists": [
-        {
-          "name": "Essenger",
-          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
-        },
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Sanctum Eternal - Au5 Remix",
-      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Empty Space",
         "url": "https://open.spotify.com/album/2cadgd2U3AIfuiAe1qfYFw"
       },
@@ -2595,6 +2575,26 @@
       "duration_ms": 288000,
       "name": "Empty Space",
       "url": "https://open.spotify.com/track/7xT99lphDyMw4UCkKquxf9"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Sanctum Eternal (Au5 Remix)",
+        "url": "https://open.spotify.com/album/4qzWs2qpwfAuEPAUqero4Q"
+      },
+      "artists": [
+        {
+          "name": "Essenger",
+          "url": "https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE"
+        },
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 277333,
+      "name": "Sanctum Eternal - Au5 Remix",
+      "url": "https://open.spotify.com/track/0PIEY8OKPZYcOb0jztJdCm"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2723,6 +2723,26 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
+        "name": "Play With You",
+        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 214005,
+      "name": "Take Your Throne",
+      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
         "name": "Different Future",
         "url": "https://open.spotify.com/album/2uBUb7Fs1UDBVAkuQItRxf"
       },
@@ -2747,26 +2767,6 @@
       "duration_ms": 204923,
       "name": "Different Future",
       "url": "https://open.spotify.com/track/266xopBiawptt9tviXJLlg"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
-        "name": "Play With You",
-        "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
-      },
-      "artists": [
-        {
-          "name": "JVNA",
-          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
-        },
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        }
-      ],
-      "duration_ms": 214005,
-      "name": "Take Your Throne",
-      "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "Atone EP",
-        "url": "https://open.spotify.com/album/21XwBGS97akmrlMMs9340h"
-      },
-      "artists": [
-        {
-          "name": "Monika Santucci",
-          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Miss the Days",
-      "url": "https://open.spotify.com/track/7pnvCKf2zH470eRXxPOBbI"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Lie Awake",
         "url": "https://open.spotify.com/album/7o9yymac690fmOnuXhqglk"
       },
@@ -2979,6 +2963,22 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
+        "name": "Atone EP",
+        "url": "https://open.spotify.com/album/21XwBGS97akmrlMMs9340h"
+      },
+      "artists": [
+        {
+          "name": "Monika Santucci",
+          "url": "https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Miss the Days",
+      "url": "https://open.spotify.com/track/7pnvCKf2zH470eRXxPOBbI"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
         "name": "Feel Nothing",
         "url": "https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2"
       },
@@ -2995,26 +2995,6 @@
       "duration_ms": 147310,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
-        "name": "Phantom Love",
-        "url": "https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi"
-      },
-      "artists": [
-        {
-          "name": "MitiS",
-          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 259315,
-      "name": "Phantom Love",
-      "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -3039,6 +3019,26 @@
       "duration_ms": 160000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/20ePZuhPTGozzBTkPH1fKv"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Phantom Love",
+        "url": "https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi"
+      },
+      "artists": [
+        {
+          "name": "MitiS",
+          "url": "https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 259315,
+      "name": "Phantom Love",
+      "url": "https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m"
     },
     {
       "added_at": "2024-08-16 16:28:19",
@@ -3099,30 +3099,6 @@
     {
       "added_at": "2024-08-16 16:28:19",
       "album": {
-        "name": "SACRIFICE EP",
-        "url": "https://open.spotify.com/album/5l81wifWFUn2LD5m4MlNgh"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 220941,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/2kUq2iP9VsoIyH48plCbE8"
-    },
-    {
-      "added_at": "2024-08-16 16:28:19",
-      "album": {
         "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
         "url": "https://open.spotify.com/album/6SL1Xp1uM3kHmKxfEWzPh2"
       },
@@ -3143,6 +3119,26 @@
       "duration_ms": 190666,
       "name": "Anybody Out There (feat. HENRY & Sara Phillips)",
       "url": "https://open.spotify.com/track/05tOx5wW2LGBOExPe37wdI"
+    },
+    {
+      "added_at": "2024-08-16 16:28:19",
+      "album": {
+        "name": "Give Out",
+        "url": "https://open.spotify.com/album/3ZLy5fqO4CWDswlQr8528i"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "duration_ms": 242200,
+      "name": "Give Out",
+      "url": "https://open.spotify.com/track/6UUr5IliMS5Sxvant8Eu8o"
     }
   ],
   "unique_name": "Bass Lounge",

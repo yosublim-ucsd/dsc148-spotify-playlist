@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 218000,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/59v6WQmmNU6XZYgg3ZV8DE"
@@ -648,7 +648,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 173365,
       "name": "En Paz 432Hz",
       "url": "https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ"
@@ -1032,6 +1032,24 @@
       "duration_ms": 140307,
       "name": "Healing Spirit",
       "url": "https://open.spotify.com/track/54a75Z1C4UZgC2D0Wd2lMb"
+    },
+    {
+      "album": {
+        "name": "Hidden Landscapes",
+        "url": "https://open.spotify.com/album/15R2pKwr77nlGEk35aT78i"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145496,
+      "name": "Hidden Landscapes",
+      "url": "https://open.spotify.com/track/35MupZrajCV3r2Nqkqg3sW"
     },
     {
       "album": {
@@ -2460,7 +2478,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 222354,
       "name": "The Ritan Bells 1",
       "url": "https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW"

@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 146345,
       "name": "45",
       "url": "https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 147692,
       "name": "Behja Behja",
       "url": "https://open.spotify.com/track/2yKSHhNc6kl6rCu4g2bHGT"
@@ -1738,6 +1738,28 @@
       "duration_ms": 135500,
       "name": "Case",
       "url": "https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID"
+    },
+    {
+      "album": {
+        "name": "Three Plays",
+        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Savraj",
+          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Cat Walk",
+      "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
     },
     {
       "album": {
@@ -3724,7 +3746,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 211964,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW"
@@ -3856,6 +3878,28 @@
       "duration_ms": 144000,
       "name": "Hathyar - From \"Tufang\"",
       "url": "https://open.spotify.com/track/1JpUj7FtR1pGM2OAZdSeK3"
+    },
+    {
+      "album": {
+        "name": "Breakin Boundaries",
+        "url": "https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Heads Up",
+      "url": "https://open.spotify.com/track/6JGlFHvFHXe3VjqP1obvL6"
     },
     {
       "album": {
@@ -6632,7 +6676,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 137319,
       "name": "No Complaints",
       "url": "https://open.spotify.com/track/6UCA9U9yzgw2ZCNXIeXAfQ"
@@ -7408,6 +7452,32 @@
       "duration_ms": 215217,
       "name": "PO",
       "url": "https://open.spotify.com/track/1W6r5thD9Tadno47turNR0"
+    },
+    {
+      "album": {
+        "name": "Powerplay",
+        "url": "https://open.spotify.com/album/5uLNF8MhgDplsMBEeFftLE"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Agsy",
+          "url": "https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp"
+        },
+        {
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204715,
+      "name": "Powerplay",
+      "url": "https://open.spotify.com/track/304NwJLBI13meQEv2gvoB0"
     },
     {
       "album": {
@@ -10210,6 +10280,28 @@
       "duration_ms": 151846,
       "name": "Your Loss",
       "url": "https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1"
+    },
+    {
+      "album": {
+        "name": "Three Plays",
+        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Savraj",
+          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Zamana",
+      "url": "https://open.spotify.com/track/3XgJFRVq5fdlCDxHBsDgr3"
     },
     {
       "album": {

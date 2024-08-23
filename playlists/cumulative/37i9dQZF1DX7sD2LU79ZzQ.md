@@ -2,9 +2,9 @@
 
 ### [Naik Daun](https://open.spotify.com/playlist/37i9dQZF1DX7sD2LU79ZzQ)
 
-> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Maudy Ayunda
+> Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Kaleb J
 
-444 songs - 1 day 4 hr 59 min
+448 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-07-25 |  |
 | [Falling For You](https://open.spotify.com/track/29iw7yaeEzDDrWB2b9Abp9) | [Pepita](https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa) | [Falling For You](https://open.spotify.com/album/2pNtrk2eqUPYkVUYd33V4b) | 3:14 | 2024-02-01 | 2024-02-23 |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-04-25 | 2024-07-27 |
+| [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-22 |  |
 | [Forever Last](https://open.spotify.com/track/4VqjN6MoZ5MPuVkeQKHs3Y) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw), [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Forever Last](https://open.spotify.com/album/4xNCUM9mI8Err4bJ9Dsn9r) | 3:43 | 2024-03-07 | 2024-03-29 |
 | [Foto kita blur](https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Foto kita blur](https://open.spotify.com/album/5ub2KSCpnGbmYyKLruGUPF) | 4:31 | 2024-03-28 | 2024-05-24 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 |  |
@@ -160,6 +161,7 @@
 | [Istimewa \- Acoustic](https://open.spotify.com/track/2xDSj5bg69YUEthIIlAYLW) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK), [Uan Kaisar](https://open.spotify.com/artist/0o8cmGK9dAnIFmWAuXi3bl) | [Istimewa \(Acoustic\)](https://open.spotify.com/album/5135k6hokpOicmNzobFzKZ) | 4:19 | 2024-02-01 | 2024-03-22 |
 | [Itu Aku \- Spotify Singles](https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Itu Aku \- Spotify Singles](https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j) | 4:14 | 2024-01-18 | 2024-04-12 |
 | [Jadikan Aku Yang Kedua](https://open.spotify.com/track/3sDrAxYdVtrduFmTEu6K0n) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli) | [Jadikan Aku Yang Kedua](https://open.spotify.com/album/2QXZh0ONgicCZHSloy6t2M) | 4:04 | 2024-07-19 |  |
+| [Jadikan Aku Yang Kedua](https://open.spotify.com/track/0A0q3fwOIrObWDoHtYJ00J) | [Alessa](https://open.spotify.com/artist/6KPOKd7taNna1xLsfpalli), [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Jadikan Aku Yang Kedua](https://open.spotify.com/album/3tvrqj3vh7NCJLlSNevCNt) | 4:42 | 2024-08-22 |  |
 | [Jahat Sekali](https://open.spotify.com/track/2CazsQWcpzxqTq1sjHiV6x) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [Jahat Sekali](https://open.spotify.com/album/7uGeYMbJ1fAcPRywmZbVFv) | 3:32 | 2024-05-02 | 2024-06-14 |
 | [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2024-01-18 | 2024-03-22 |
 | [Jam Satu](https://open.spotify.com/track/6EZnOxLN0ccGA7U7YYtQ6F) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Jam Satu](https://open.spotify.com/album/4xb1xUdR8bSoRIJVIYBTDg) | 3:26 | 2024-01-18 | 2024-01-26 |
@@ -265,8 +267,9 @@
 | [MATIRASA](https://open.spotify.com/track/41m3RlnWGiEuygw3Df7OYx) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [MATIRASA](https://open.spotify.com/album/3tab24B4svhN6LNz0u2psk) | 2:35 | 2024-03-28 | 2024-04-26 |
 | [Mau Bilang Apa \(Original Soundtrack Magic 5\)](https://open.spotify.com/track/6KOnKUUt0dUMdOcs6vSwmn) | [Afan DA5](https://open.spotify.com/artist/60jQVcXcjnlcFmXPkHEbfB) | [Mau Bilang Apa \(Original Soundtrack Magic 5\)](https://open.spotify.com/album/3jk8sufasY3cM4aJsneJGj) | 4:08 | 2024-06-20 | 2024-07-05 |
 | [Melepas Pelukan Ibu](https://open.spotify.com/track/0vmUWMyUr6EMic1ddlQWIX) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Pengantar Purifikasi Pikir](https://open.spotify.com/album/3pCz8FhvLwuXLgkJheTKQk) | 4:57 | 2024-01-18 | 2024-02-23 |
-| [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-05-16 | 2024-07-12 |
+| [Melepaskanmu](https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Melepaskanmu](https://open.spotify.com/album/0JGVfb9f2U1f3Ve7KUxpXz) | 4:10 | 2024-05-16 |  |
 | [MEMAR \(Meski Masih Ada Rasa\)](https://open.spotify.com/track/4OWuNUbr2JXDFfUDFrCa4R) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [MEMAR \(Meski Masih Ada Rasa\)](https://open.spotify.com/album/5WMvX1AQqqOnNpZiF3tpCl) | 4:42 | 2024-01-18 | 2024-02-02 |
+| [Memilih Berhenti](https://open.spotify.com/track/4MngDPGeICOJ30Xeaf7SPH) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Memilih Berhenti](https://open.spotify.com/album/7Ez8NmZRbNHAvk6XISPwQx) | 3:57 | 2024-08-22 |  |
 | [Memilih Berhenti \- Acoustic](https://open.spotify.com/track/5Hl1MoirusAn9TIzIXIWrR) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Chapter 1.5 \(Acoustic\)](https://open.spotify.com/album/4ejyv5o7RBYzo7YRjrjPak) | 3:54 | 2024-04-25 | 2024-08-16 |
 | [Menanti](https://open.spotify.com/track/1wbTdarJADjlKQ5h8JpQrX) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom), [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Menanti](https://open.spotify.com/album/2cZAkyQ4M4eOY2SkU8UmbA) | 3:05 | 2024-04-18 | 2024-07-12 |
 | [Menari Aku Menari](https://open.spotify.com/track/04HD6tAw4t8MIGTq68t8V6) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:16 | 2024-01-18 | 2024-02-23 |
@@ -350,6 +353,7 @@
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-06-27 | 2024-08-16 |
 | [Selamat Datang Di Realita](https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Selamat Datang Di Realita](https://open.spotify.com/album/38SGxevynExMhA61GaaPTs) | 5:41 | 2024-08-08 |  |
 | [Selimut Hati](https://open.spotify.com/track/40snO045rENfvlBFBqfONd) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy), [Indonesian Philharmonic Orchestra](https://open.spotify.com/artist/5YynOyNW2qNfCMjnv8fDgT) | [Selimut Hati](https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16) | 4:54 | 2024-06-06 | 2024-06-28 |
+| [Semenjak Ada Dirimu](https://open.spotify.com/track/5H4MSA6eIr6x1iBTn1vpMG) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Semenjak Ada Dirimu](https://open.spotify.com/album/3ofCjilmmAuyucK9AwULA8) | 3:46 | 2024-08-22 |  |
 | [Sementara](https://open.spotify.com/track/4nULjjIHBNJoIsDsmeSNBf) | [Nadhira Suri](https://open.spotify.com/artist/06wL6b72UhgDKo9nZM0J0g) | [Sementara](https://open.spotify.com/album/1NixzHmlQLd7lEZaJiTtXf) | 3:33 | 2024-02-23 | 2024-03-29 |
 | [Semoga Masih Ada Waktu](https://open.spotify.com/track/7MtuxblplbL340slrJZ3w3) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Semoga Masih Ada Waktu](https://open.spotify.com/album/7yKCkWbk5b7atZcCFUC6B4) | 3:56 | 2024-08-01 |  |
 | [Semoga, Selamanya.](https://open.spotify.com/track/7jgm3QUDrLiaYLQv1VHMXy) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Semoga, Selamanya.](https://open.spotify.com/album/1NnHgn9Xx8pgIwV4FT0jtW) | 3:46 | 2024-03-28 | 2024-05-24 |

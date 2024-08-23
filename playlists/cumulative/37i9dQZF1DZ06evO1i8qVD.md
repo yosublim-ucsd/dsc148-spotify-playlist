@@ -2,7 +2,7 @@
 
 ### [This Is Buddy Guy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1i8qVD)
 
-> This is Buddy Guy\. The essential tracks, all in one playlist.
+> This Is Buddy Guy\. Les titres incontournables, réunis dans une seule et même playlist.
 
 113 songs - 8 hr 20 min
 

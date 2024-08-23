@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-02",
-  "description": "This is Bear McCreary. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
   "name": "This Is Bear McCreary",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 167400,
       "name": "Bronwyn and Arondir",
       "url": "https://open.spotify.com/track/67q04cfjHsRTvGMgy34SkC"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 271616,
       "name": "N\u00famenor",
       "url": "https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 197969,
       "name": "The Last Ballad of Damrod (feat. Jens Kidman)",
       "url": "https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ"

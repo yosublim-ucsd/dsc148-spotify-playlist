@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Da Stanotte in Poi (From This Moment On)",
+        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Da Stanotte in Poi (From This Moment On)",
+      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
+    },
+    {
+      "album": {
         "name": "Ancora",
         "url": "https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI"
       },

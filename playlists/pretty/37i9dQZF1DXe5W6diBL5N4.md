@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEMIN\(태민\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,975 likes - 353 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,078 likes - 353 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 4 | [ATE THAT](https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [ATE THAT EP](https://open.spotify.com/album/0SUJCQGGE2SMg1ziHwGFHK) | 3:00 |
 | 5 | [Is This Love?](https://open.spotify.com/track/0pi3F910SNsgncUDkX3e8y) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Starlit of Twinkle : REPACKAGE](https://open.spotify.com/album/3sKxRSOWqldtJrmeaR3ceP) | 3:07 |
 | 6 | [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 |
-| 7 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeong Ree\(9MUSES\)](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 |
+| 7 | [Cherry](https://open.spotify.com/track/3E6KiqGzKHtNWnHzjYF9kw) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:30 |
 | 8 | [in tears](https://open.spotify.com/track/3MlfaU8jIMRclLIhQ4VTvO) | [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX), [LEE YEEUN](https://open.spotify.com/artist/4yltNNj8uZnhQNh9XyGlwD) | [in tears](https://open.spotify.com/album/7eVrVeWGXnn0ROMqVFxoXP) | 3:21 |
 | 9 | [a colorless footprint](https://open.spotify.com/track/62SKaiUoY3qIxPx9cnT23t) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [a colorless footprint](https://open.spotify.com/album/77GoJox9cZaLisTbB7PTPK) | 4:27 |
 | 10 | [Endless Maze of Life \(Feat\. Dawon\)](https://open.spotify.com/track/4v1ctHZBwvbt2dz8tdbvqY) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 62](https://open.spotify.com/album/4VGMAD9hDV3IwdKm5p8Ppy) | 2:46 |

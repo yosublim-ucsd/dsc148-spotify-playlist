@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 40582,
+  "num_followers": 40625,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAABpoh85rvjbBb7sOSd40WZj",
+  "snapshot_id": "ZsUuAAAAAACIUdc2mVYXqkJj8uFBHZdh",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MYA LIVE P5: Si T\u00fa La Ves",
-        "url": "https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 190583,
-      "name": "MYA LIVE P5: Si T\u00fa La Ves",
-      "url": "https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -167,6 +147,26 @@
       "duration_ms": 156325,
       "name": "BB",
       "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MYA LIVE P5: Si T\u00fa La Ves",
+        "url": "https://open.spotify.com/album/6odcBxR8P9lK9NiV0h7MJF"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 190583,
+      "name": "MYA LIVE P5: Si T\u00fa La Ves",
+      "url": "https://open.spotify.com/track/02EOwlpC4Oo8n9FYSYYkjH"
     },
     {
       "added_at": null,

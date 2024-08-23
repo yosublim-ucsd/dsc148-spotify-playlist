@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: JAEHYUN(\uc7ac\ud604))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Moon Sujin(\ubb38\uc218\uc9c4))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -4715,6 +4715,28 @@
     },
     {
       "album": {
+        "name": "RAD MILLI",
+        "url": "https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189923,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/290Pe1JNVgObS9gp4FteFm"
+    },
+    {
+      "album": {
         "name": "BRUISE",
         "url": "https://open.spotify.com/album/5M9Jv5GX35zpqMYJ6bxgoG"
       },
@@ -7518,7 +7540,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156581,
       "name": "Like that",
       "url": "https://open.spotify.com/track/0Aw7g546aoFdcaq5X5SsxT"
@@ -8784,7 +8806,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
@@ -9166,7 +9188,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 245426,
       "name": "Night & Day",
       "url": "https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc"
@@ -10125,6 +10147,28 @@
     },
     {
       "album": {
+        "name": "Orange Clouds",
+        "url": "https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "Orange Clouds (feat. JUNNY)",
+      "url": "https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp"
+    },
+    {
+      "album": {
         "name": "imagine club",
         "url": "https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC"
       },
@@ -10752,7 +10796,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 152773,
       "name": "Q&A (Feat. g0nny)",
       "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"

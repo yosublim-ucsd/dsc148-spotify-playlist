@@ -1,6 +1,6 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 68429,
+  "num_followers": 68458,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Need Your Light",
         "url": "https://open.spotify.com/album/1YWO9CZO9auWGUJWR4FlnL"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
       },
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 307697,
-      "name": "Should Have Known Better",
-      "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
+      "duration_ms": 239508,
+      "name": "Death with Dignity",
+      "url": "https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr"
     },
     {
       "added_at": "2024-03-18 13:24:52",

@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 74050,
+  "num_followers": 74065,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
+        "name": "Aetheris",
+        "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
+      },
+      "artists": [
+        {
+          "name": "Edge Of The Spiral",
+          "url": "https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Aetheris",
+      "url": "https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
         "name": "Embodied Awareness",
         "url": "https://open.spotify.com/album/7IViHgd7L2ouFj34Iua3nG"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 183000,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/6zVBj0zU6IrGp81gMiHGhA"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
-        "name": "Aetheris",
-        "url": "https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x"
-      },
-      "artists": [
-        {
-          "name": "Edge Of The Spiral",
-          "url": "https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "Aetheris",
-      "url": "https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Gentle Nightfall",
-        "url": "https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB"
-      },
-      "artists": [
-        {
-          "name": "Moments of Clarity",
-          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Gentle Nightfall",
-      "url": "https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Eternal Moonlight",
         "url": "https://open.spotify.com/album/46bBeEuSZl2dA6Ntb6CBDK"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 178250,
       "name": "Eternal Moonlight",
       "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Gentle Nightfall",
+        "url": "https://open.spotify.com/album/6ePyVnMKgYbqkFoZMwgpuB"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Gentle Nightfall",
+      "url": "https://open.spotify.com/track/7LitEEkRqT4kkwgMlmzeik"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "A Mind At Peace",
-        "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
-      },
-      "artists": [
-        {
-          "name": "Ramos Goya",
-          "url": "https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj"
-        }
-      ],
-      "duration_ms": 162907,
-      "name": "A Mind At Peace",
-      "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Moving Slow",
         "url": "https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 168000,
       "name": "Moving Slow",
       "url": "https://open.spotify.com/track/479TAluzixIctz5AiwnrA1"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "A Mind At Peace",
+        "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
+      },
+      "artists": [
+        {
+          "name": "Ramos Goya",
+          "url": "https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj"
+        }
+      ],
+      "duration_ms": 162907,
+      "name": "A Mind At Peace",
+      "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Reasons For Being",
-        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
-      },
-      "artists": [
-        {
-          "name": "Deep Watch",
-          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
-        }
-      ],
-      "duration_ms": 176390,
-      "name": "Reasons For Being",
-      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Hills Of Clarity",
         "url": "https://open.spotify.com/album/4XjkLYSgsglG0yS1MhuzJA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 255792,
       "name": "Hills Of Clarity",
       "url": "https://open.spotify.com/track/3HvwuHV9xd0VGi0GncXgoL"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Reasons For Being",
+        "url": "https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS"
+      },
+      "artists": [
+        {
+          "name": "Deep Watch",
+          "url": "https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd"
+        }
+      ],
+      "duration_ms": 176390,
+      "name": "Reasons For Being",
+      "url": "https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Easy Mind",
-        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
-      },
-      "artists": [
-        {
-          "name": "Alma Meris",
-          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Easy Mind",
-      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Moonrise",
         "url": "https://open.spotify.com/album/7jXOtpLpgKAucnCpXJUkOg"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 208515,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/2WnsWCi2HIpLTgr0iHpBKj"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Easy Mind",
+        "url": "https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl"
+      },
+      "artists": [
+        {
+          "name": "Alma Meris",
+          "url": "https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Easy Mind",
+      "url": "https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Mare Silentis",
-        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
-      },
-      "artists": [
-        {
-          "name": "Cassio Bera",
-          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Mare Silentis",
-      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Moments Paisibles",
         "url": "https://open.spotify.com/album/5b2MLIV4hkMQkFlvfWFxtV"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 164996,
       "name": "Moments Paisibles",
       "url": "https://open.spotify.com/track/42sns5w7tsWuupnjuCBfre"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Mare Silentis",
+        "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
+      },
+      "artists": [
+        {
+          "name": "Cassio Bera",
+          "url": "https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Mare Silentis",
+      "url": "https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Orphic",
-        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
-      },
-      "artists": [
-        {
-          "name": "The Nowhows",
-          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
-        }
-      ],
-      "duration_ms": 180909,
-      "name": "Orphic",
-      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Sleep Sequence",
         "url": "https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 203374,
       "name": "Sleep Sequence",
       "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Orphic",
+        "url": "https://open.spotify.com/album/0MrCJsyAgkx4K5aJmvfIMA"
+      },
+      "artists": [
+        {
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
+        }
+      ],
+      "duration_ms": 180909,
+      "name": "Orphic",
+      "url": "https://open.spotify.com/track/6KyPQhcAuRJxeq0Rwab6Jk"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "A Silent Moon",
-        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
-      },
-      "artists": [
-        {
-          "name": "Atmosferion",
-          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "A Silent Moon",
-      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "mOther World",
         "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 124458,
       "name": "mOther World",
       "url": "https://open.spotify.com/track/6lgPtFewwEd6nvvBDqilWe"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "A Silent Moon",
+        "url": "https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H"
+      },
+      "artists": [
+        {
+          "name": "Atmosferion",
+          "url": "https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "A Silent Moon",
+      "url": "https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Dreamgaze",
         "url": "https://open.spotify.com/album/0gvuIEHNqACJU8JXn2BcTC"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 217000,
       "name": "Dreamgaze",
       "url": "https://open.spotify.com/track/6IRi150T6ZXt3uFGpFggEv"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
+      },
+      "artists": [
+        {
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Tensions",
-        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
-      },
-      "artists": [
-        {
-          "name": "Spheres",
-          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "Tensions",
-      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Incorniciato",
         "url": "https://open.spotify.com/album/1ZWLzTAIhCe71mmmy8DbWq"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 184545,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5GbKfGHRwy7EBmf9c1RRGF"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Tensions",
+        "url": "https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh"
+      },
+      "artists": [
+        {
+          "name": "Spheres",
+          "url": "https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "Tensions",
+      "url": "https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Sphere",
-        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Sphere",
-      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
         "name": "Soft Meadow",
         "url": "https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 193492,
       "name": "Soft Meadow",
       "url": "https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
+        "name": "Sphere",
+        "url": "https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Sphere",
+      "url": "https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
+        "name": "Dawn to Dusk",
+        "url": "https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll"
+      },
+      "artists": [
+        {
+          "name": "Nelson Talstad",
+          "url": "https://open.spotify.com/artist/4dntdK3Sws28zy1M8Ak5q6"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Dawn to Dusk",
+      "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
+    },
+    {
+      "added_at": "2024-07-19 16:33:56",
+      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 181985,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs"
-    },
-    {
-      "added_at": "2024-07-19 16:33:56",
-      "album": {
-        "name": "Comforting Sunshine",
-        "url": "https://open.spotify.com/album/4s2EEf4zyAhEDY2G5rijuC"
-      },
-      "artists": [
-        {
-          "name": "Rose Wells",
-          "url": "https://open.spotify.com/artist/3knchE3iZkUeX7Ja2Q1dEc"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Comforting Sunshine",
-      "url": "https://open.spotify.com/track/5dZCZUc0WySvpgeaVuvVSr"
     },
     {
       "added_at": "2024-07-19 16:33:56",
@@ -1883,18 +1883,18 @@
     {
       "added_at": "2024-07-19 16:33:56",
       "album": {
-        "name": "Dawn to Dusk",
-        "url": "https://open.spotify.com/album/3HkRRJGI9kFye6UZm7N3Ll"
+        "name": "Comforting Sunshine",
+        "url": "https://open.spotify.com/album/4s2EEf4zyAhEDY2G5rijuC"
       },
       "artists": [
         {
-          "name": "Nelson Talstad",
-          "url": "https://open.spotify.com/artist/4dntdK3Sws28zy1M8Ak5q6"
+          "name": "Rose Wells",
+          "url": "https://open.spotify.com/artist/3knchE3iZkUeX7Ja2Q1dEc"
         }
       ],
-      "duration_ms": 176727,
-      "name": "Dawn to Dusk",
-      "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
+      "duration_ms": 146000,
+      "name": "Comforting Sunshine",
+      "url": "https://open.spotify.com/track/5dZCZUc0WySvpgeaVuvVSr"
     },
     {
       "added_at": "2024-07-19 16:33:56",

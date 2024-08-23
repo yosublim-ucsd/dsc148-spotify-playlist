@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=yqlzM3HlTC-8KZv6GPoZpA>Spirit of Praise</a>'s \"<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=Z4fqm85JQZSLZDiTxBuDnA>Dumi Mkokstad</a>",
+  "description": "Proudly South African Christian and Gospel music. Cover: \"<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=ZJvb0rUMRDW0opM01RtMAg>Joyous Celebration</a>",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -1697,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Isinqumo",
+        "url": "https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg"
+      },
+      "artists": [
+        {
+          "name": "Reginald Jabu",
+          "url": "https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367308,
+      "name": "Isinqumo",
+      "url": "https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF"
+    },
+    {
+      "album": {
         "name": "Izandla Zethu Ziyakubanjwa",
         "url": "https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX"
       },
@@ -2327,6 +2345,28 @@
     },
     {
       "album": {
+        "name": "Kgo\u0161i Ya Rena (Live)",
+        "url": "https://open.spotify.com/album/2zvgNeOwRZsTyTch2cjjng"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704670,
+      "name": "Kgo\u0161i Ya Rena (Live)",
+      "url": "https://open.spotify.com/track/3ax1L2SdIEfH9bBSty1vs8"
+    },
+    {
+      "album": {
         "name": "Ta Mbilu Yanga (Live at Covenant House / 2023)",
         "url": "https://open.spotify.com/album/7D3T33Vkh8G0q6m94KbPrd"
       },
@@ -2390,7 +2430,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 337946,
       "name": "King Jesus (Live in Bryanston, 2022) (feat. Siphelele Vundla & Awethu Namba-Satsha)",
       "url": "https://open.spotify.com/track/1aFilSkkqwbcDmwpBzIN6b"
@@ -4400,7 +4440,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 235862,
       "name": "THULA WAZI (NGIKHONA)",
       "url": "https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq"
@@ -4994,7 +5034,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 383320,
       "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
       "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
@@ -5092,6 +5132,24 @@
       "duration_ms": 429226,
       "name": "Uyababazeka - Live At The Emperors Palace / 2023",
       "url": "https://open.spotify.com/track/0MpjhG8rrfTfk2QNi3Q7wg"
+    },
+    {
+      "album": {
+        "name": "Joyous Celebration 28 (The Second Set Live at the Durban Icc)",
+        "url": "https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 553152,
+      "name": "Uyabusa (Live at the Durban Icc)",
+      "url": "https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU"
     },
     {
       "album": {

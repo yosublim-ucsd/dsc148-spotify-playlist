@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,713 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,787 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 36 | [Party Mode](https://open.spotify.com/track/2Y4WDb59HdxKezH8Ulo5OQ) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y) | [Party Mode](https://open.spotify.com/album/0B4jdzLxjRL1HEm9qYxn08) | 6:01 |
 | 37 | [iGardo](https://open.spotify.com/track/0MJf2ukyYRjKlVpS3vtHhw) | [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0) | [iGardo](https://open.spotify.com/album/0ocZS3F0J9y6UsmcclXIF2) | 6:48 |
 | 38 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
-| 39 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
-| 40 | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/album/7eTzelrwkx02RTznHbQJCJ) | 5:24 |
+| 39 | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/track/66l4V5ojB4sBzLEuWJbLS4) | [Ishmael](https://open.spotify.com/artist/23kwDDCo3lIQQvjuWf1b08), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Roba Letheka \(AmaPiano Remix\)](https://open.spotify.com/album/7eTzelrwkx02RTznHbQJCJ) | 5:24 |
+| 40 | [All Night](https://open.spotify.com/track/64uHIutDM1LeKX12mONusv) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [All Night](https://open.spotify.com/album/2gCR5BMylsLFB4dMviafch) | 5:58 |
 | 41 | [Utheni](https://open.spotify.com/track/0yrg1wjrSzgRprCfHdEUPU) | [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Megadrumz](https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX) | [Utheni](https://open.spotify.com/album/11pOz6URJhP5HcMeJPRSYc) | 7:48 |
 | 42 | [Ngeke \- Radio Edit](https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22) | [Calvin Shaw](https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [Deep Sen](https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv), [KingTalkzin](https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa) | [Ngeke](https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL) | 3:54 |
 | 43 | [OMALICHA](https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [OMALICHA](https://open.spotify.com/album/475ZCSpGCvPOnDpJexgsd8) | 4:00 |

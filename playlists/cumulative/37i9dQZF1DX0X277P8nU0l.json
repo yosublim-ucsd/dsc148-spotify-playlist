@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Differences Aside",
         "url": "https://open.spotify.com/album/60hjoFRYc1Q1wnFMGXQmlg"
       },
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 200787,
       "name": "Good Torture (with Elyanna)",
       "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 177841,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/2b38FyMDTmShS1H5psrqXb"
@@ -3167,6 +3185,28 @@
     },
     {
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/501EHSpUgSp10zVTT1PeQj"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188197,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4urtcS0F3G3NjD2oUeE1GN"
+    },
+    {
+      "album": {
         "name": "Out on the weekend",
         "url": "https://open.spotify.com/album/4Tj6Wk4DXEZxHUz2B9xOzW"
       },
@@ -3356,6 +3396,24 @@
       "duration_ms": 297306,
       "name": "Place In My Heart",
       "url": "https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX"
+    },
+    {
+      "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "album": {
@@ -5046,7 +5104,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 223813,
       "name": "Would I Lie To You - The Muscle Shoals Sessions",
       "url": "https://open.spotify.com/track/1bua1dCfuFfvxO7rYtl5vZ"

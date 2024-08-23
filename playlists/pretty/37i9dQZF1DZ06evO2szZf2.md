@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is Mc Dricka\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,641 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,643 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [É Só Pirocadão \- Brega Funk Remix](https://open.spotify.com/track/0r6btzAF7SYcYjCCFckau4) | [O Brutto](https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV), [Tinho do Coque](https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt), [Pop Na Batida](https://open.spotify.com/artist/7lu87j6js86vL5rp9qczz0), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [É Só Pirocadão \(Brega Funk Remix\)](https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02) | 2:01 |
 | 50 | [38 Carregado](https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig) | [O Brutto](https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV), [Tinho do Coque](https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt), [Augusto e Joãozinho](https://open.spotify.com/artist/3zmGUCTcp7G0uOdTQ1z9YX), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [38 Carregado](https://open.spotify.com/album/7rRRBPuisxQKGRQsglK20U) | 2:06 |
 
-Snapshot ID: `ZsPcgAAAAAD3NgE6tYak+89VghWMikIr`
+Snapshot ID: `ZsUuAAAAAACggSx7GoSmdtxUh6mQNdVI`

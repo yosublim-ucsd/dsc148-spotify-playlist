@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1955172,
+  "num_followers": 1955439,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
-      },
-      "artists": [
-        {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
-        }
-      ],
-      "duration_ms": 182254,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 158979,
       "name": "Over You",
       "url": "https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "duration_ms": 182254,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Lovers",
-        "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        },
-        {
-          "name": "Cathy Battistessa",
-          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
-        }
-      ],
-      "duration_ms": 204363,
-      "name": "The Lovers",
-      "url": "https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 198048,
       "name": "Calm",
       "url": "https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Lovers",
+        "url": "https://open.spotify.com/album/2YVUSJsWAhCSQGCS7KrN11"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        },
+        {
+          "name": "Cathy Battistessa",
+          "url": "https://open.spotify.com/artist/7B9gTlTLJOW6YKBDgSrEOO"
+        }
+      ],
+      "duration_ms": 204363,
+      "name": "The Lovers",
+      "url": "https://open.spotify.com/track/422o6ex3eHTXDc2DtOFh7R"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Day Drinks",
+        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
+      },
+      "artists": [
+        {
+          "name": "Sonic",
+          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
+        }
+      ],
+      "duration_ms": 137454,
+      "name": "Day Drinks",
+      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/61e2gK909Y2JMapY2jPw1b"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Day Drinks",
-        "url": "https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn"
+        "name": "Back to Java",
+        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
       },
       "artists": [
         {
-          "name": "Sonic",
-          "url": "https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc"
+          "name": "RaFa Sessions",
+          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
         }
       ],
-      "duration_ms": 137454,
-      "name": "Day Drinks",
-      "url": "https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK"
+      "duration_ms": 197058,
+      "name": "Back to Java",
+      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -979,18 +995,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Back to Java",
-        "url": "https://open.spotify.com/album/6EwiR5O0lpsvW32mwlJpu4"
+        "name": "In The Sun",
+        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
       },
       "artists": [
         {
-          "name": "RaFa Sessions",
-          "url": "https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK"
+          "name": "Palm 3s",
+          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
         }
       ],
-      "duration_ms": 197058,
-      "name": "Back to Java",
-      "url": "https://open.spotify.com/track/15R2K4cl8kXVLcOmKW97ZZ"
+      "duration_ms": 244285,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 195160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "In The Sun",
-        "url": "https://open.spotify.com/album/3TRN4DHzeqsE1UZBq7Ach5"
-      },
-      "artists": [
-        {
-          "name": "Palm 3s",
-          "url": "https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/78aKh27mFx6ZLhP65hPryp"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sona",
-        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
-      },
-      "artists": [
-        {
-          "name": "Valante",
-          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
-        }
-      ],
-      "duration_ms": 212384,
-      "name": "Sona",
-      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 151632,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Sona",
+        "url": "https://open.spotify.com/album/6w5j6hPwk1g9xhmeEWRkfF"
+      },
+      "artists": [
+        {
+          "name": "Valante",
+          "url": "https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh"
+        }
+      ],
+      "duration_ms": 212384,
+      "name": "Sona",
+      "url": "https://open.spotify.com/track/0McdR3kjH8OKdGMAUHsBiU"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Screen",
-        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
-        }
-      ],
-      "duration_ms": 197113,
-      "name": "The Screen",
-      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Balearic Dream",
         "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+        "name": "The Screen",
+        "url": "https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr"
       },
       "artists": [
         {
-          "name": "N\u00e4ver",
-          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK"
         }
       ],
-      "duration_ms": 187075,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
+      "duration_ms": 197113,
+      "name": "The Screen",
+      "url": "https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4ver",
+          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+        }
+      ],
+      "duration_ms": 187075,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Suen\u0303o Lu\u0301cido",
-        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
-      },
-      "artists": [
-        {
-          "name": "Ralf",
-          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "Suen\u0303o Lu\u0301cido",
-      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Gardient heaven",
         "url": "https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 208421,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Suen\u0303o Lu\u0301cido",
+        "url": "https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD"
+      },
+      "artists": [
+        {
+          "name": "Ralf",
+          "url": "https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "Suen\u0303o Lu\u0301cido",
+      "url": "https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Barracudas EP",
-        "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 253098,
-      "name": "Barracudas",
-      "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Barracudas EP",
+        "url": "https://open.spotify.com/album/1B0KEF9AAm5mesLSGo5hhJ"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 253098,
+      "name": "Barracudas",
+      "url": "https://open.spotify.com/track/64x1uZe5weXDU9S8dwyWYk"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
-      },
-      "artists": [
-        {
-          "name": "Lui Mafuta",
-          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
-        }
-      ],
-      "duration_ms": 350929,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "I Feel Warmer Already",
         "url": "https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 150872,
       "name": "I Feel Warmer Already",
       "url": "https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/5wI1TLikoyiQuHoeTqW5Wc"
+      },
+      "artists": [
+        {
+          "name": "Lui Mafuta",
+          "url": "https://open.spotify.com/artist/5hbQrh0EFGQBfGjYHFWbsp"
+        }
+      ],
+      "duration_ms": 350929,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Unhappy Alien",
         "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Sunny Cruisin",
-        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
       },
       "artists": [
         {
-          "name": "Marcos Berretini",
-          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 160166,
-      "name": "Sunny Cruisin",
-      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1607,6 +1591,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Sunny Cruisin",
+        "url": "https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Berretini",
+          "url": "https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Sunny Cruisin",
+      "url": "https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Adore",
         "url": "https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Mukiwa",
-        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        }
-      ],
-      "duration_ms": 258124,
-      "name": "Mukiwa",
-      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "listen love",
         "url": "https://open.spotify.com/album/6zBjkfHOntP2AmRooDkx2O"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 167576,
       "name": "listen love",
       "url": "https://open.spotify.com/track/5oUIrYI0KTZBYh5r9Z5GFA"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Mukiwa",
+        "url": "https://open.spotify.com/album/1bcZrChvD2hTnjERAZUgOo"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 258124,
+      "name": "Mukiwa",
+      "url": "https://open.spotify.com/track/1Cq1IvarVqiQ3bU7TYhdsd"
     },
     {
       "added_at": "2024-07-26 04:00:00",

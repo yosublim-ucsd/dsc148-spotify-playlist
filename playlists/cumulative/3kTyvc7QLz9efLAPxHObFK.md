@@ -4,7 +4,7 @@
 
 > 
 
-1,622 songs - 3 day 15 hr 36 min
+1,626 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Can you feel it](https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:00 | 2024-05-22 |  |
 | [Can You Feel The Love \- Radio Edit](https://open.spotify.com/track/0IV3rPb3TebEgigzfcY5Vd) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Krayze](https://open.spotify.com/artist/4q1ag2CrQMOL87AkSNtvOA) | [Can You Feel The Love](https://open.spotify.com/album/6FiB3syZRasiVDz1mWDSPV) | 3:58 | 2023-09-22 |  |
 | [CAN YOU MAKE IT HARDER?](https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [CAN YOU MAKE IT HARDER?](https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG) | 2:36 | 2023-10-09 |  |
+| [CAN'T CONTROL](https://open.spotify.com/track/3ETXLjdwpuOMBfsq7cyMQs) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [CAN'T CONTROL](https://open.spotify.com/album/0aSCsxL1D82JEPr5T6RK1g) | 2:36 | 2024-08-22 |  |
 | [Can't Get Enough](https://open.spotify.com/track/2u1lguaUTOLMMSt1Sxvrbw) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Can't Get Enough](https://open.spotify.com/album/6oyYnHZNdp5oEqE1fqLC1R) | 3:12 | 2024-07-26 |  |
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-09 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6DYf6xNgm9ICquH8W0bd8I) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Nicole Alexa Choo](https://open.spotify.com/artist/5XSnwCQ3t9cTAg5BqchS4W) | [Can't Help Falling In Love](https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk) | 4:00 | 2023-02-13 |  |
@@ -649,8 +650,10 @@
 | [Heartache](https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Heartache](https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4) | 3:11 | 2023-07-14 |  |
 | [Heartbeat](https://open.spotify.com/track/7qwNeII00h68AwZztJ8dux) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [Heartbeat](https://open.spotify.com/album/7FTOHzuuVeJkKOhEpplDOT) | 2:55 | 2022-09-21 |  |
 | [Heartbreak](https://open.spotify.com/track/4OMmHbmulJgoA4cFYEw8so) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Heartbreak](https://open.spotify.com/album/7fNwk9cqGIMHfFieglua7L) | 4:45 | 2022-09-11 |  |
+| [Heartquake](https://open.spotify.com/track/5KXOVRegnjDDTyDC4P29kE) | [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu), [Goblin Grave](https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2) | [Heartquake](https://open.spotify.com/album/1yANHCdK6mKBeV8bVdVkoQ) | 2:24 | 2024-08-22 |  |
 | [Heaven](https://open.spotify.com/track/0RhsQdZJiaFmuStW6isEdU) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [Heaven](https://open.spotify.com/album/46kkuBc0qUuXvwjxRJlrDi) | 3:09 | 2022-08-22 |  |
 | [Heaven's Gateway](https://open.spotify.com/track/177sytUrPVDok48qE6BQTc) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb), [Persian Groovies](https://open.spotify.com/artist/3NlLMUNupiFfMvcgBhE1SX) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 2:14 | 2023-05-02 |  |
+| [Heavy Energy](https://open.spotify.com/track/2IoeH2J1KDZxOGSnq0MVd2) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [Heavy Energy](https://open.spotify.com/album/5BFasmiQB7KcSrvYAo9Y2s) | 3:14 | 2024-08-22 |  |
 | [Hell Boy](https://open.spotify.com/track/0eJHFqxFo6Zie80rJfWHrg) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Hell Boy](https://open.spotify.com/album/7Ae8pqHUbS1f2HNxwiFWtk) | 3:44 | 2022-10-30 |  |
 | [Hellboy \- Partyraiser & Uprise Remix](https://open.spotify.com/track/6DMXZvMEHxxEs3s9RKBVom) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Uprise](https://open.spotify.com/artist/0jL654qjN030mZ60BavNXX) | [Hellboy \(Partyraiser & Uprise Remix\)](https://open.spotify.com/album/6Csw5Ba4GjuGaSpXV5p2w9) | 2:40 | 2023-07-21 |  |
 | [Hellfire](https://open.spotify.com/track/3T6jgdXe3hgVwrTYMmGED5) | [Access One](https://open.spotify.com/artist/2yH3lflCSPqb8jI0MKmbPh), [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX) | [Hellfire](https://open.spotify.com/album/3fzqjEXO03eS2xxQmpGq0L) | 3:20 | 2024-08-13 |  |
@@ -995,6 +998,7 @@
 | [Night Sky](https://open.spotify.com/track/6BWBTxGOATMJsK3xoSO5JG) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Night Sky](https://open.spotify.com/album/0jPZGsZmLPtjp6LBjnJwkj) | 3:00 | 2024-05-10 |  |
 | [Nightfallen \- Feryquitous Remix](https://open.spotify.com/track/3D8ALGzivIjaItlOK497rC) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [Feryquitous](https://open.spotify.com/artist/1Dpvdqieoo5Xq3zOWDHp30) | [N+CODE](https://open.spotify.com/album/7nybmeSPmHySV7jC2Y4Bnx) | 3:50 | 2022-08-12 |  |
 | [Nightlife](https://open.spotify.com/track/5Fz21h9GRuZCuouoYpLsrW) | [Ncrypta](https://open.spotify.com/artist/598i9uHpVAukdj6QRUEaq6), [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [Nightlife](https://open.spotify.com/album/5mvxRsGpmdJ4bXxvDz3ha7) | 2:32 | 2023-02-02 |  |
+| [NIGHTMARE \(SAVE ME\)](https://open.spotify.com/track/502SxRWMjLGwd8oHgyM3sS) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [NIGHTMARE \(SAVE ME\)](https://open.spotify.com/album/0wPaO2XSA5boe9hY5iEiVv) | 2:39 | 2024-08-22 |  |
 | [No Cookie](https://open.spotify.com/track/7czIG3XJlTm3KI8XJptY2W) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [No Cookie](https://open.spotify.com/album/4DzS1bG7lAFgO8ksOF57Mw) | 3:17 | 2022-09-06 |  |
 | [No Escape](https://open.spotify.com/track/1eZGT67bRyXkSeuqKXweTk) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [No Escape](https://open.spotify.com/album/0bL0GGpR6KWCvYgNX0cG5P) | 3:37 | 2022-08-10 |  |
 | [No Gravity](https://open.spotify.com/track/0WOYj0NDnbBO6gq4JRBpsE) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [No Gravity](https://open.spotify.com/album/6Le9uI86YS4dNlsCsUlGIc) | 3:07 | 2024-07-24 |  |

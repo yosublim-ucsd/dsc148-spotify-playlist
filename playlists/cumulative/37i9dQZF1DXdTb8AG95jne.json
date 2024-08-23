@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: JUNGWOO(\uc815\uc6b0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Choi Nakta(\ucd5c\ub099\ud0c0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -442,6 +442,24 @@
       "duration_ms": 227604,
       "name": "A Car Going Nowhere",
       "url": "https://open.spotify.com/track/4BHTnUF9Wl5lVSrw9ZLVJb"
+    },
+    {
+      "album": {
+        "name": "a colorless footprint",
+        "url": "https://open.spotify.com/album/77GoJox9cZaLisTbB7PTPK"
+      },
+      "artists": [
+        {
+          "name": "Choi Nakta",
+          "url": "https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "a colorless footprint",
+      "url": "https://open.spotify.com/track/62SKaiUoY3qIxPx9cnT23t"
     },
     {
       "album": {
@@ -5210,7 +5228,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 191146,
       "name": "I don\u2019t have eraser of words",
       "url": "https://open.spotify.com/track/36u940AeFl6IQmVWNXnAbj"
@@ -13288,7 +13306,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "work, shit, sleep",
       "url": "https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK"
@@ -13732,7 +13750,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 205200,
       "name": "yours.",
       "url": "https://open.spotify.com/track/3C4KOIMBDPK21oTsvdMDRn"

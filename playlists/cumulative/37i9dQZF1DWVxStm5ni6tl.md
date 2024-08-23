@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Seago
 
-1,527 songs - 3 day 6 hr 37 min
+1,532 songs - 3 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Ashes](https://open.spotify.com/track/6Yge9rhARFSjoLqsWA2hQ8) | [Dylan Burk](https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx) | [Ashes](https://open.spotify.com/album/1p9Apy7OJnJyf16kQ2QdIe) | 3:18 | 2023-07-26 | 2023-08-17 |
 | [Atmosphere](https://open.spotify.com/track/0TkA0HjtdiQpx05nfwm6LA) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Atmosphere](https://open.spotify.com/album/5rIiRwjMKuVi009bgAjWlh) | 4:55 | 2024-07-10 | 2024-07-18 |
 | [Automatic Years](https://open.spotify.com/track/6nCKaBA1TdUDV2TYMgIoDA) | [Surf Hat](https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy) | [Automatic Years](https://open.spotify.com/album/3Iy69jDnke3azUVgfGOEZ8) | 3:32 | 2023-10-04 | 2023-11-09 |
+| [Autoportrait](https://open.spotify.com/track/12lp3quAJ8CuGogGodDzqe) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Autoportrait](https://open.spotify.com/album/5LVPPhW0YoLYFPFVCXH1Cr) | 2:31 | 2024-08-22 |  |
 | [Away Depot](https://open.spotify.com/track/0sGWbZNUIjiGmqGfDmqxBE) | [Eye of Newt](https://open.spotify.com/artist/4mjARxIE2U93fJkFrASzwW) | [Away Depot](https://open.spotify.com/album/37FgHYVgDBmIRNo2iZSZHZ) | 2:57 | 2024-05-01 | 2024-05-16 |
 | [Ay Papi](https://open.spotify.com/track/0paLV4EHW8LHqtnxgFvfiz) | [Odious Love](https://open.spotify.com/artist/5sDKcynpYYB2jXx8NEXQN3) | [Ay Papi](https://open.spotify.com/album/7r6tGQEM07MxpP9EZUZfAD) | 2:10 | 2024-03-06 | 2024-03-21 |
 | [B\-Roll](https://open.spotify.com/track/2vtttJ6k1nEkEgfaLKNCiJ) | [Wolf Saga](https://open.spotify.com/artist/0Lwn2PjwIw7QaoN7gHyqCA) | [B\-Roll](https://open.spotify.com/album/2oN83vRrntCH6UZeJctbxp) | 3:26 | 2023-11-15 | 2023-11-30 |
@@ -359,6 +360,7 @@
 | [DÍGANLE](https://open.spotify.com/track/5tQ4Ji3zMSxy6K5F49Is71) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk) | [DÍGANLE](https://open.spotify.com/album/1LygIM3IHShbCLPsO11W1K) | 2:00 | 2024-06-19 | 2024-07-11 |
 | [Each Others](https://open.spotify.com/track/3YDHVYobpeMY34DeQa8p0K) | [6ixsage](https://open.spotify.com/artist/3ZQjFU5uwXTGTIAEtFcnqK) | [Each Others](https://open.spotify.com/album/06cDJBvFHJe21BfkTjbeom) | 2:45 | 2024-01-17 | 2024-01-25 |
 | [easier](https://open.spotify.com/track/0H77ipJVFglcB1bSie68oy) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [easier](https://open.spotify.com/album/47TUUumeaKs6dqhvT1sDtg) | 1:48 | 2023-08-30 | 2023-09-07 |
+| [Easy](https://open.spotify.com/track/3THaspQuZBzDA6KroqZZC0) | [Sara\-Danielle](https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO) | [Easy](https://open.spotify.com/album/3IvvISLRoncz9CQuUNS1oR) | 2:33 | 2024-08-22 |  |
 | [Easy Street](https://open.spotify.com/track/2gru7tFhiQQ2XHYBZlAus2) | [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E) | [Easy Street](https://open.spotify.com/album/6nFylBBNvvWG6UgpzsKkf3) | 3:39 | 2024-03-27 | 2024-04-04 |
 | [Easy Way Out](https://open.spotify.com/track/078iC5tJGrdjG99iJKgD4x) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [Easy Way Out](https://open.spotify.com/album/29qTDZsuKLmh4CKum9IxGs) | 2:39 | 2023-08-23 | 2023-09-07 |
 | [EATING](https://open.spotify.com/track/0w5cSkyD2BXC3W5Mf85zwu) | [DvblM](https://open.spotify.com/artist/2MUXp2OoYU1py0PRSxbn7B) | [EATING](https://open.spotify.com/album/6WWE3pmC7pmuDNMTNoI0BT) | 2:10 | 2024-03-20 | 2024-03-28 |
@@ -372,6 +374,7 @@
 | [ENDS.](https://open.spotify.com/track/156mzYhITe4ktsyKIvoX45) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [ENDS.](https://open.spotify.com/album/6Rwo0dLXsaQlHb56mSufxM) | 3:06 | 2024-07-31 |  |
 | [Era Ew](https://open.spotify.com/track/4a9IOiz22310IXokTSF0M9) | [Soleil Launière](https://open.spotify.com/artist/1IsyWHwpRxJdFMaJSr8pS1) | [Taueu](https://open.spotify.com/album/4Nd9DJ1apGJMyAd3ItSRFf) | 3:25 | 2023-10-18 | 2023-11-16 |
 | [Escape](https://open.spotify.com/track/32mBkQuiIgsd2F4drybiQT) | [Salome](https://open.spotify.com/artist/5DxbeMKmMhAE6j80lDhUxq) | [Escape](https://open.spotify.com/album/6pXr1gorZxbsCi9zA8xCBl) | 3:27 | 2024-03-27 | 2024-04-04 |
+| [Espacia](https://open.spotify.com/track/5tAH4gpZQGctdBoJl2hdg3) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Espacia](https://open.spotify.com/album/4Y73mMgDuqVCQjuFHu6g9I) | 3:52 | 2024-08-22 |  |
 | [Euphoria](https://open.spotify.com/track/0cQTi41jb0GGuO6fXlmPOq) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Euphoria](https://open.spotify.com/album/2Ia3kOV9diSvGI5natyvDw) | 4:01 | 2024-02-22 | 2024-03-07 |
 | [Event Horizon](https://open.spotify.com/track/0fb7P6s0quHWy77QE8hkg7) | [Timour Leng](https://open.spotify.com/artist/4kUNIPo0DM1PXiEQ8JUwN7), [Sami Chaouki](https://open.spotify.com/artist/6YEoLEd7EaY6Ti9ncefeiB) | [Event Horizon](https://open.spotify.com/album/0tKPwLtGg2DRig20mcydJd) | 5:24 | 2024-07-10 | 2024-07-25 |
 | [EverWere](https://open.spotify.com/track/6ve2xBuHWg3ibp7EeuZ2gG) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI) | [EverWere](https://open.spotify.com/album/4j8QJAO5TWbNXObSFKxZL6) | 3:22 | 2023-10-11 | 2023-11-16 |
@@ -403,6 +406,7 @@
 | [FAM TIES](https://open.spotify.com/track/37xzMbPe4A5OWYo6IkBKs1) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT) | [JETLAG 2](https://open.spotify.com/album/6abemPzqR6bOkf5nsO4JMM) | 2:55 | 2024-06-26 | 2024-07-11 |
 | [Fan Club](https://open.spotify.com/track/6fLHSJWsR4dyQu6oiyGlNE) | [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH), [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE) | [Fan Club](https://open.spotify.com/album/32DDuDDHJzrnQ3HjAd6ysN) | 2:00 | 2024-05-29 | 2024-06-06 |
 | [Fantasma](https://open.spotify.com/track/2Jh09qYkQxBu9bN0PUCLtV) | [Papi AQ](https://open.spotify.com/artist/0mmHKSem35TkpNRcGuokZB) | [Fantasma](https://open.spotify.com/album/54TpyNIbqzrW8WSxFe4Mft) | 2:52 | 2023-11-15 | 2023-11-23 |
+| [Fastlanes](https://open.spotify.com/track/1poFJkIqGVP0Buji1znuKU) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Fastlanes](https://open.spotify.com/album/68C3fZTaYCvSPjA4bfDty4) | 4:20 | 2024-08-22 |  |
 | [Fatal Flaw](https://open.spotify.com/track/3APUm7NkHTlKjnNeMdAsCy) | [Allegra Jordyn](https://open.spotify.com/artist/2CVFLhroSUN5E5r8FW25LR) | [Fatal Flaw](https://open.spotify.com/album/1yBhmKGCaj9OzjRzvpY2XJ) | 3:32 | 2023-08-09 | 2023-08-31 |
 | [Façade](https://open.spotify.com/track/52ZUwSGxKTkePC5PS1fUXP) | [Jessa Sky](https://open.spotify.com/artist/2s3owRsjkaanegjOOxmCC8) | [SKY'S THE LIMIT](https://open.spotify.com/album/0GkDDCvQuZ7I43LQfog0uL) | 3:20 | 2024-03-06 | 2024-03-28 |
 | [Feel Like Home](https://open.spotify.com/track/1zhcQUjjT2oriofRV24buD) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR), [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Feel Like Home](https://open.spotify.com/album/3tifpzQWxBevrnvhOudOpH) | 2:53 | 2023-09-06 | 2023-09-28 |
@@ -1284,6 +1288,7 @@
 | [Switch Up](https://open.spotify.com/track/0qebBuycxYSVCtVbt94HMe) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw), [Lil Bobby](https://open.spotify.com/artist/4pf1mHN4rc9gfM5XlURlAk) | [Switch Up](https://open.spotify.com/album/2BibC3AZQSPJhSZQ2U7IJl) | 1:50 | 2023-09-20 | 2023-09-28 |
 | [Switchblade](https://open.spotify.com/track/0r46kyvgK2QfkbotYjI5FK) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Switchblade](https://open.spotify.com/album/4hAu4IJ63Wk5Mg2H1MkzYO) | 2:54 | 2024-07-24 | 2024-08-15 |
 | [Symfonia](https://open.spotify.com/track/578DTg5SQan3QI7onZ2IC1) | [Ariel](https://open.spotify.com/artist/1vMyuVkbyTMmCukJ6fXOlZ) | [Symfonia](https://open.spotify.com/album/0xEXGSaTJTNd2fNJB7urxy) | 3:32 | 2023-07-26 | 2023-08-24 |
+| [Sérieux](https://open.spotify.com/track/5tU5GlKTWTMnuTgExeh3DP) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Sérieux](https://open.spotify.com/album/54Sei7mz33JumC682Ypuh3) | 2:27 | 2024-08-22 |  |
 | [T'as vu](https://open.spotify.com/track/4UwPo0uBjGUrL7i7rgnbdY) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [T'as vu](https://open.spotify.com/album/0PVs8Gu7vKRJhkwY8gXUHN) | 3:39 | 2024-06-19 | 2024-07-04 |
 | [Tabletops](https://open.spotify.com/track/0BMpnaHqpfuZS7xyZEnxZ7) | [Loren Aronov](https://open.spotify.com/artist/0B3JABFSFkLeJFJOl8OGdk) | [Tabletops](https://open.spotify.com/album/5svYxtEbGul99xKvZrxa5k) | 2:29 | 2024-03-27 | 2024-04-04 |
 | [Take Me Back](https://open.spotify.com/track/2leQw9Ta43WKGzFHfTv6e7) | [Drew Taylor](https://open.spotify.com/artist/1GKwNMj52B71ScmvryXrRH) | [Take Me Back](https://open.spotify.com/album/5eIswtzY9VhneiDvL3qO5A) | 3:12 | 2023-11-15 | 2023-11-23 |

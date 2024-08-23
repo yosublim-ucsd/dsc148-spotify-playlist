@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu, Annural Khalid",
+  "description": "Explore Pakistan's thriving independent scene. Discover more on <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7\">Pakistani Indie Rising</a>. Cover: Maanu",
   "name": "Pakistani Indie 101",
   "tracks": [
     {
@@ -1166,6 +1166,24 @@
       "duration_ms": 209454,
       "name": "Daira-e-ufuq",
       "url": "https://open.spotify.com/track/0gveIug9rm2W8D9b2g3TPj"
+    },
+    {
+      "album": {
+        "name": "Dil",
+        "url": "https://open.spotify.com/album/4xc9Jw6FDRtZVh5s9hQHMP"
+      },
+      "artists": [
+        {
+          "name": "Essa Barlas",
+          "url": "https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316129,
+      "name": "Dil",
+      "url": "https://open.spotify.com/track/217RKf20iJrFLvfCoZnLQt"
     },
     {
       "album": {
@@ -4442,6 +4460,24 @@
       "duration_ms": 174446,
       "name": "Runway",
       "url": "https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca"
+    },
+    {
+      "album": {
+        "name": "Saamnay",
+        "url": "https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "Saamnay",
+      "url": "https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB"
     },
     {
       "album": {

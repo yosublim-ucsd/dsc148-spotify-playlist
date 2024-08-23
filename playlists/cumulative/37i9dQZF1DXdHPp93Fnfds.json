@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 225879,
       "name": "Amuleto",
       "url": "https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL"
@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Dulce de leche",
+        "url": "https://open.spotify.com/album/54zwmtPAcf07QEgbemEZjj"
+      },
+      "artists": [
+        {
+          "name": "Cci Kiu",
+          "url": "https://open.spotify.com/artist/4maW7pPL3eb9SGRtlye5Aj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195823,
+      "name": "Dulce de leche",
+      "url": "https://open.spotify.com/track/71haY7cHFKJuZPd9WbsiZD"
+    },
+    {
+      "album": {
         "name": "Dwele",
         "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
       },
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 140286,
       "name": "Ganas de Dejarte",
       "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
@@ -4694,6 +4712,24 @@
       "duration_ms": 176888,
       "name": "La Cruz",
       "url": "https://open.spotify.com/track/0Uy4z6kYI0hKXAgUy9snt9"
+    },
+    {
+      "album": {
+        "name": "la culpa - Versi\u00f3n Ac\u00fastica",
+        "url": "https://open.spotify.com/album/458mfbzm2XR3auRdNIFWCD"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "la culpa - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7dHNBNVAHsQ5ZIZnKInUDF"
     },
     {
       "album": {
@@ -6936,7 +6972,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 211847,
       "name": "No va a pasar",
       "url": "https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW"
@@ -9600,7 +9636,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 217933,
       "name": "tarde",
       "url": "https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe"
@@ -9899,6 +9935,24 @@
     },
     {
       "album": {
+        "name": "tir\u00e9",
+        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150037,
+      "name": "tir\u00e9",
+      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
+    },
+    {
+      "album": {
         "name": "Tobog\u00e1n Ardiendo",
         "url": "https://open.spotify.com/album/5NdFVTPZSsDeeoQ7kpiXkY"
       },
@@ -10102,6 +10156,28 @@
       "duration_ms": 162333,
       "name": "Torpe",
       "url": "https://open.spotify.com/track/5xfiwqLO6R21eRzWnjw7J4"
+    },
+    {
+      "album": {
+        "name": "Tu Enemiga",
+        "url": "https://open.spotify.com/album/6tOyx4khgLtYy34qVhzBLY"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227203,
+      "name": "Tu Enemiga",
+      "url": "https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK"
     },
     {
       "album": {

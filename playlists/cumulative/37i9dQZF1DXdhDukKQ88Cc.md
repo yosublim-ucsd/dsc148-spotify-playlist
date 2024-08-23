@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den største danske rap lige nu..\.  <a href="spotify:artist:2d7AMvzFwh5wUTuqQl3BAE">KESI</a> sørger for hyggen på <a href="spotify:album:4B4EYQ1TfHMWJlOTTpenmn">FOMO 88.8 FM</a> 🔊
+> den største kogende danske rap lige nu / <a href="spotify:artist:4a88Q5HOh8FSXQ1gPcQu2U">Kimbo</a> 🔗 <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>
 
-212 songs - 9 hr 10 min
+213 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [K\-City \(feat\. Stepz\)](https://open.spotify.com/track/12gl0uMirrvJL9DzTgcRXR) | [EZ](https://open.spotify.com/artist/1KQsdrbzpa7RQfYq2U0ABb), [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj) | [K\-City \(feat\. Stepz\)](https://open.spotify.com/album/6DKZHaI2sj7p7rMxNnouhf) | 2:33 | 2023-09-21 | 2024-01-19 |
 | [King Of Lions](https://open.spotify.com/track/78Wcn0KtwtcSk3AFZLCnsZ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [King Of Lions](https://open.spotify.com/album/06xP6kjRPNSpaPDKhRT9AD) | 2:11 | 2024-06-20 |  |
 | [KITTY \(feat\. Tessa\)](https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [KITTY \(feat\. Tessa\)](https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt) | 2:16 | 2024-06-06 |  |
+| [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 |  |
 | [KOM HERHEN](https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [KOM HERHEN](https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS) | 2:24 | 2024-05-23 |  |
 | [Lad Mig Lande \(feat\. Gilli, KESI, Kimbo & Sivas\)](https://open.spotify.com/track/50kvRbk8GLtPtgxoMeasSK) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:32 | 2024-03-21 | 2024-06-22 |
 | [LAG PÅ LAG](https://open.spotify.com/track/3okKedyibuPyKZy16clOWH) | [Naoui](https://open.spotify.com/artist/0AvmzQcrG34vvnXwwXy06A), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [LAG PÅ LAG](https://open.spotify.com/album/7qgIprL7S4IdbsSgPsUtL0) | 2:15 | 2024-01-04 | 2024-01-17 |

@@ -1721,6 +1721,32 @@
     },
     {
       "album": {
+        "name": "The River of God (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/5zIhyUluaJE2VEOTW95ofy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        },
+        {
+          "name": "Favour oke",
+          "url": "https://open.spotify.com/artist/0qf4ZwhKZa94xhVHi1n1RJ"
+        },
+        {
+          "name": "Divine Dambo",
+          "url": "https://open.spotify.com/artist/1O08svmPNmRwqRTwD6SBD1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254328,
+      "name": "The River of God (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/6Su3RQXSE6EM0Y7yjP2ZdB"
+    },
+    {
+      "album": {
         "name": "The Whole Earth Will See (A.K.A. America Will See) [Live]",
         "url": "https://open.spotify.com/album/5KQVYUBgdMMJHinwxwN9h2"
       },

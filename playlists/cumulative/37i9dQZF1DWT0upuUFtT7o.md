@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Sex Week
 
-2,684 songs - 6 day 4 hr 6 min
+2,685 songs - 6 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1254,6 +1254,7 @@
 | [Jaywalker](https://open.spotify.com/track/2i1FdeHeRQf00VgIjXTneC) | [MØAA](https://open.spotify.com/artist/3vNDcGrn21dCNX6nRDR1yo) | [Jaywalker](https://open.spotify.com/album/1G0hj4G2zIV19nwuZWaniS) | 3:55 | 2023-10-25 | 2023-11-30 |
 | [Jeff](https://open.spotify.com/track/2fNIBmtBMvgACNkLTxrYQC) | [Henry Hall](https://open.spotify.com/artist/2tRg9tU9VRKsmTr2ihZCEs) | [Jeff](https://open.spotify.com/album/1Kz5OvHWtPRTPZtJWLhDl6) | 4:10 | 2023-08-23 | 2023-09-28 |
 | [Jersey Soccer](https://open.spotify.com/track/2zdo41igQIM3zYQdUctZTZ) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Jersey Soccer](https://open.spotify.com/album/5MJk9wK4BQRHUo4DqhVbhc) | 2:56 | 2022-09-06 | 2022-10-13 |
+| [Jesus saves](https://open.spotify.com/track/6ZnX8sdBFA2ChADO8XGiie) | [Jack Boyd](https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw) | [Jesus saves](https://open.spotify.com/album/6Z2UQINPsuIYt5AN4NFnON) | 2:48 | 2024-08-22 |  |
 | [Joke](https://open.spotify.com/track/4l1iN5TaRGfBtxeWsbcHmO) | [the apology club](https://open.spotify.com/artist/0ex5LtpKzvId9NypSHHH92) | [Vicarious Life](https://open.spotify.com/album/5ZYZtfRmoAQEczQPxnZTLr) | 2:39 | 2024-01-10 | 2024-01-18 |
 | [Jona](https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Jona](https://open.spotify.com/album/2DVNB1JixiCfPYV5UCMFdb) | 3:13 | 2024-01-24 | 2024-02-29 |
 | [JoyBoy](https://open.spotify.com/track/2dgsC6xlKYYqCOiJBKfKnv) | [JoyBoy](https://open.spotify.com/artist/0CaJYxJmurPKAsiiEDMA35) | [JoyBoy](https://open.spotify.com/album/4U6uVHQrcEIQQlfbqGlBS4) | 3:18 | 2023-11-08 | 2023-11-30 |

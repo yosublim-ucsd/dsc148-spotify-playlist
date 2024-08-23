@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia, 43.Nove in cover \ud83c\udfb8",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Cover: Vanarin",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -7615,6 +7615,24 @@
     },
     {
       "album": {
+        "name": "I don't know",
+        "url": "https://open.spotify.com/album/4GYXHpqgZAvXJO56O32sBW"
+      },
+      "artists": [
+        {
+          "name": "Vanarin",
+          "url": "https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197572,
+      "name": "I don't know",
+      "url": "https://open.spotify.com/track/71Smt8JFiuk8VwfaOciWUx"
+    },
+    {
+      "album": {
         "name": "I RAGAZZI COI GOMITI SUI TAVOLI",
         "url": "https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY"
       },
@@ -14004,6 +14022,24 @@
       "duration_ms": 143522,
       "name": "Puttanate (feat. WISM)",
       "url": "https://open.spotify.com/track/0LPUSmP3vUsmJI1lu7kQWy"
+    },
+    {
+      "album": {
+        "name": "qualcosA di diversO",
+        "url": "https://open.spotify.com/album/2P0W3N60D5HRQIKYgIB75c"
+      },
+      "artists": [
+        {
+          "name": "Deflow",
+          "url": "https://open.spotify.com/artist/6IYKYTYVePsZT49sM6cVYI"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176262,
+      "name": "qualcosA di diversO",
+      "url": "https://open.spotify.com/track/0SXiP57eFKN9gk3kHEqKdY"
     },
     {
       "album": {

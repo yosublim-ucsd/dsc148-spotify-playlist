@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Diamond Platnumz",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Oxlade x Fally Ipupa",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 190226,
       "name": "ARABAMBI",
       "url": "https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu"
@@ -5775,6 +5775,28 @@
     },
     {
       "album": {
+        "name": "IFA",
+        "url": "https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218055,
+      "name": "IFA",
+      "url": "https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ"
+    },
+    {
+      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -6148,6 +6170,28 @@
       "duration_ms": 131428,
       "name": "Jeu De Jambes",
       "url": "https://open.spotify.com/track/2vYKJpvtR9JNtBmLW8tAac"
+    },
+    {
+      "album": {
+        "name": "Jeu De Jambes",
+        "url": "https://open.spotify.com/album/5xQTwahw6idIgUImvZJ7Om"
+      },
+      "artists": [
+        {
+          "name": "Davy One",
+          "url": "https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz"
+        },
+        {
+          "name": "Patson",
+          "url": "https://open.spotify.com/artist/1fhKApXTs6yTNnItlQ0Vo0"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Jeu De Jambes",
+      "url": "https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6"
     },
     {
       "album": {
@@ -6660,6 +6704,24 @@
       "duration_ms": 155400,
       "name": "La Loupe",
       "url": "https://open.spotify.com/track/6LvIvRZh3SeWGKyzM8gYJO"
+    },
+    {
+      "album": {
+        "name": "LA S\u00c9R\u00c9NADE",
+        "url": "https://open.spotify.com/album/719ClNQ3foCLG2VnEI0Rka"
+      },
+      "artists": [
+        {
+          "name": "Saalva13",
+          "url": "https://open.spotify.com/artist/7ziV83zu4GTZleElZOQM4z"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170917,
+      "name": "LA S\u00c9R\u00c9NADE",
+      "url": "https://open.spotify.com/track/7qBfOpNYXoBjloQEEjgO31"
     },
     {
       "album": {
@@ -7382,7 +7444,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 140540,
       "name": "LV",
       "url": "https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB"
@@ -7474,7 +7536,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 181682,
       "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
       "url": "https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1"

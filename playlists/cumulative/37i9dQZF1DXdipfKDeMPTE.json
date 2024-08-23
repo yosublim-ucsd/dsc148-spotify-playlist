@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 144375,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/1I6iZmlHDMAqqRVN0osX9b"
@@ -5251,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5"
+      },
+      "artists": [
+        {
+          "name": "Travertina",
+          "url": "https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151666,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo"
+    },
+    {
+      "album": {
         "name": "Let's stay here forever",
         "url": "https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP"
       },
@@ -5822,6 +5840,28 @@
       "duration_ms": 166153,
       "name": "Marijus",
       "url": "https://open.spotify.com/track/6tRkeOgUtC4irbNYlGX6cC"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/6XQ4oZ3q7qqoys2Zl06Sgr"
+      },
+      "artists": [
+        {
+          "name": "Twindex",
+          "url": "https://open.spotify.com/artist/7aaoS1lVqJrRhZ4UvWqsm0"
+        },
+        {
+          "name": "lov sum",
+          "url": "https://open.spotify.com/artist/33PmLS3NlrdMiDJpXnYNSs"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115862,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4VyooeBRSH5rE3fcCUeiy6"
     },
     {
       "album": {
@@ -6501,6 +6541,24 @@
     },
     {
       "album": {
+        "name": "NapBeats",
+        "url": "https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "NapBeats",
+      "url": "https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt"
+    },
+    {
+      "album": {
         "name": "Napwave Nirvana",
         "url": "https://open.spotify.com/album/0OUQWtv2Wny91GLsXsE5eB"
       },
@@ -7112,10 +7170,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 186000,
       "name": "Not Me",
       "url": "https://open.spotify.com/track/6jaM2iycz9Iorq6lOAr1aM"
+    },
+    {
+      "album": {
+        "name": "not noise",
+        "url": "https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148482,
+      "name": "not noise",
+      "url": "https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe"
     },
     {
       "album": {
@@ -7694,6 +7770,24 @@
       "duration_ms": 175384,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/17iyJIlUFdltEBELb6Dqpy"
+    },
+    {
+      "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/36V4L35fwzJoSChXYJceYT"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126011,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/63yUqUFLVbDQRKR8rQXdsD"
     },
     {
       "album": {

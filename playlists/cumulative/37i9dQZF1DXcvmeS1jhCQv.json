@@ -214,7 +214,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 153479,
       "name": "America",
       "url": "https://open.spotify.com/track/3jXQiJOwDtg9fn0ld0t05H"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/3uKS7fIydLpnjcCfDlSMkd"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197303,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/0coL1H5F5ZvN4fzPMWxvWq"
+    },
+    {
+      "album": {
         "name": "GO WRONG",
         "url": "https://open.spotify.com/album/6m9VjN1FUvPVn9cK9Yp2po"
       },
@@ -1374,6 +1392,28 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
+    },
+    {
+      "album": {
+        "name": "help wanted.",
+        "url": "https://open.spotify.com/album/4ljKOpCU8yzngx02jrARL1"
+      },
+      "artists": [
+        {
+          "name": "Ahmed, With Love.",
+          "url": "https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK"
+        },
+        {
+          "name": "Curtisy",
+          "url": "https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162790,
+      "name": "help wanted.",
+      "url": "https://open.spotify.com/track/5Ik93O75khhwx6QlITqgOi"
     },
     {
       "album": {
@@ -1544,6 +1584,24 @@
       "duration_ms": 293735,
       "name": "If You Were Mine",
       "url": "https://open.spotify.com/track/2PhaGDLA9sgHUZV5oidTFQ"
+    },
+    {
+      "album": {
+        "name": "im good",
+        "url": "https://open.spotify.com/album/6mtgsavDEl0RTpOsgKTXnS"
+      },
+      "artists": [
+        {
+          "name": "BoyW1DR",
+          "url": "https://open.spotify.com/artist/6FTMDtJd40DcXsEOSMNImb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103464,
+      "name": "im good",
+      "url": "https://open.spotify.com/track/2RwtjM2ZtxVSYQdlFd7hp3"
     },
     {
       "album": {
@@ -2002,7 +2060,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 188307,
       "name": "Make Ya Go",
       "url": "https://open.spotify.com/track/5mMwWxN340JYPqnpQ5UVLD"
@@ -2684,7 +2742,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 296000,
       "name": "RoseGold",
       "url": "https://open.spotify.com/track/3HwPz3OzoXWOEA1yiAIMZo"
@@ -3012,7 +3070,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 199666,
       "name": "Stone's Throw Away",
       "url": "https://open.spotify.com/track/7qQEIRI6AIqzEbo9RhRyid"
@@ -3110,6 +3168,28 @@
       "duration_ms": 232785,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/368TV7O9qxwJcDilBt68iz"
+    },
+    {
+      "album": {
+        "name": "That Sound (Remix)",
+        "url": "https://open.spotify.com/album/2oSszLSsDSdh09truw76O4"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152173,
+      "name": "That Sound (Remix)",
+      "url": "https://open.spotify.com/track/74d4xa0cCOO6n0KYGocP1z"
     },
     {
       "album": {

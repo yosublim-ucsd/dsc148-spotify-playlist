@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NuNew",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 231200,
       "name": "Aftercry",
       "url": "https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM"
@@ -912,6 +912,24 @@
       "duration_ms": 244865,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG"
+    },
+    {
+      "album": {
+        "name": "Goodnite",
+        "url": "https://open.spotify.com/album/6cUos9As4HRkaeiRmmuHLH"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144948,
+      "name": "Goodnite",
+      "url": "https://open.spotify.com/track/0WIsTmkaxJT8bKYOO1b5od"
     },
     {
       "album": {
@@ -3545,6 +3563,28 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e2a\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/0g9bcWMu7iYAXMnUslKGRf"
+      },
+      "artists": [
+        {
+          "name": "Copter",
+          "url": "https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd"
+        },
+        {
+          "name": "PUNCH 4EVE",
+          "url": "https://open.spotify.com/artist/51KDdWWk3ZwWNVcIrotenE"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "\u0e04\u0e37\u0e19\u0e19\u0e35\u0e49\u0e44\u0e1b\u0e2a\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/2YrchiaQ6iLlOmShv8GX8f"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e37\u0e2d\u0e40\u0e18\u0e2d (Original soundtrack from \"Cutie Pie 2 You\")",
         "url": "https://open.spotify.com/album/1jaKAX6yT6fXPUdDuX6E6i"
       },
@@ -3636,6 +3676,24 @@
       "duration_ms": 161142,
       "name": "\u0e07\u0e2d\u0e19\u0e25\u0e30",
       "url": "https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA"
+    },
+    {
+      "album": {
+        "name": "\u0e07\u0e49\u0e2d (ALRIGHT) - Single",
+        "url": "https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "\u0e07\u0e49\u0e2d (ALRIGHT)",
+      "url": "https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS"
     },
     {
       "album": {
@@ -5728,7 +5786,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 295205,
       "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
       "url": "https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23"
@@ -6258,7 +6316,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 215142,
       "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
       "url": "https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH"
@@ -7591,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32",
+        "url": "https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225428,
+      "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e1a\u0e40\u0e02\u0e32",
+      "url": "https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9"
+    },
+    {
+      "album": {
         "name": "\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e09\u0e22\u0e46 \u0e01\u0e47\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01 (Please Be Mine) - Single",
         "url": "https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9"
       },
@@ -7894,7 +7970,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 183000,
       "name": "\u0e40\u0e01\u0e48\u0e07\u0e41\u0e15\u0e48\u0e25\u0e31\u0e1a\u0e2b\u0e25\u0e31\u0e07",
       "url": "https://open.spotify.com/track/5JmP1f56boflkB8xPbfz2t"
@@ -8186,7 +8262,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 206117,
       "name": "\u0e40\u0e18\u0e2d\u0e1a\u0e27\u0e01\u0e2d\u0e04\u0e27\u0e32\u0e40\u0e23\u0e35\u0e22\u0e21\u0e04\u0e37\u0e2d\u0e40\u0e14\u0e2d\u0e30\u0e40\u0e1a\u0e2a\u0e17\u0e4c (Aquarium)",
       "url": "https://open.spotify.com/track/6sFXXutVZbkcb2wLRlM6Vi"
@@ -8785,6 +8861,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c (Rain wedding) [From \u0e27\u0e34\u0e21\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e21]",
+        "url": "https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261652,
+      "name": "\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e27\u0e34\u0e27\u0e32\u0e2b\u0e4c (Rain wedding) [From \u0e27\u0e34\u0e21\u0e32\u0e19\u0e2b\u0e19\u0e32\u0e21]",
+      "url": "https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2b\u0e25\u0e48\u0e17\u0e48\u0e2d",
         "url": "https://open.spotify.com/album/6yNmCQx2RcSytSTbDCaAfE"
       },
@@ -9380,7 +9474,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 250500,
       "name": "\u0e42\u0e01\u0e2b\u0e01\u0e40\u0e18\u0e2d\u0e17\u0e31\u0e49\u0e07\u0e19\u0e31\u0e49\u0e19 (Pinocchio)",
       "url": "https://open.spotify.com/track/5NbtMfwNbWlJXF9LoUOS4F"
@@ -10040,6 +10134,24 @@
       "duration_ms": 216185,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e01\u0e25\u0e49\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25 - Stay",
       "url": "https://open.spotify.com/track/0tij4kB0P1hkq8NRlgago7"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d (Position) - Single",
+        "url": "https://open.spotify.com/album/5VvJHOWk7RYDHAL7hRp5c8"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d (Position)",
+      "url": "https://open.spotify.com/track/5T2kMqNwQWcimlY2eSXrJC"
     },
     {
       "album": {

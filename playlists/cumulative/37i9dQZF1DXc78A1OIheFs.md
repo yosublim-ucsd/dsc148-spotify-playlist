@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Marlin's Dreaming
 
-151 songs - 8 hr 30 min
+156 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 |  |
 | [CANADA \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 | 2024-05-20 |  |
 | [Candy's House \(Comedown Song\)](https://open.spotify.com/track/4HBQRNQTA6Wq4PgIauAWMB) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling \(Deluxe\)](https://open.spotify.com/album/5uMEjjSH41zZbl4XpI4KDC) | 3:06 | 2024-05-20 |  |
+| [Catacombs](https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [Catacombs](https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H) | 2:55 | 2024-08-22 |  |
 | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/track/1ZMshhKYdUJO50NwWqiJqF) | [SWIDT](https://open.spotify.com/artist/23qIXweNPJuk0LyepJSDbJ), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [CATCH FLIGHTS, NOT FEELINGS](https://open.spotify.com/album/2vCLkO9163xJNUrQr0xizl) | 3:17 | 2024-05-20 |  |
 | [Caviar Candles](https://open.spotify.com/track/7lEo9BK11xnUGDeJgHG9uh) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Caviar Candles](https://open.spotify.com/album/4NpJt9BY48vMtOuc12DELp) | 3:11 | 2024-05-20 |  |
 | [Circling the City](https://open.spotify.com/track/7b6X8K150JyakOpe61ULc2) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Circling the City](https://open.spotify.com/album/6sGfZDOIcyYMQRdXdFbytn) | 2:48 | 2024-05-20 |  |
@@ -67,6 +68,7 @@
 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 | 2024-08-15 |  |
 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 | 2024-08-15 |  |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-05-20 |  |
+| [Handyman.](https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB) | [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA), [Sione Toki](https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV) | [Handyman.](https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb) | 2:41 | 2024-08-22 |  |
 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 | 2024-05-20 |  |
 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 | 2024-05-20 |  |
 | [HEI MOKIMOKI](https://open.spotify.com/track/6YavHRjzWTSmluidd3N0h2) | [Majic Pāora](https://open.spotify.com/artist/1A0TzjT0kdyL0Z95G0CC5t) | [HEI MOKIMOKI](https://open.spotify.com/album/5JbtOtuunDlxNFmr7PdxnP) | 3:45 | 2024-05-20 |  |
@@ -88,8 +90,10 @@
 | [Keep Calling](https://open.spotify.com/track/01xOq1y8KJhitTuoq59NNi) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/0geaFx2oD4MQuy46l2akmu) | 2:58 | 2024-05-20 |  |
 | [Kātuarehe](https://open.spotify.com/track/0nE77HMICYZIYuari7ZrIA) | [Anna Coddington](https://open.spotify.com/artist/0N4Wl36KNZ1bG2YelyeSlG) | [Kātuarehe](https://open.spotify.com/album/2KqItPwvyMukaYUPvWsAfb) | 3:13 | 2024-05-20 |  |
 | [Largo](https://open.spotify.com/track/7EG26r1w1cnsJdmPt27o2l) | [Thorington](https://open.spotify.com/artist/2ZfNUfuaM93ICPYjH0Zgq8) | [Largo](https://open.spotify.com/album/6yxOW2mT4AfdpFO4L8IV2I) | 3:10 | 2024-05-20 |  |
+| [Let Me Be Yours](https://open.spotify.com/track/6z1mfrdITyt4CGfed0zI1T) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [Let Me Be Yours](https://open.spotify.com/album/2XplTY58dX4a7ukv03vsf1) | 2:42 | 2024-08-22 |  |
 | [Love A Little Harder](https://open.spotify.com/track/3kOZgGwiAb7grQ26s4vXzG) | [NOURI](https://open.spotify.com/artist/4b5Sw1n9FPtq0RQetJSzEW) | [Love A Little Harder](https://open.spotify.com/album/5v2QbRsOlELlQiIorUJY0L) | 3:16 | 2024-05-20 | 2024-08-16 |
 | [Love Don't Grow On Trees](https://open.spotify.com/track/2LZjTddisitQafI4f5QoLd) | [George VILLA](https://open.spotify.com/artist/67Wggp3SoXqwxLJ1LJLNQG) | [Empty Pockets](https://open.spotify.com/album/6Q8FqgR6uJOjQJlxkrm6Zn) | 3:01 | 2024-05-20 |  |
+| [Love Is Forever](https://open.spotify.com/track/50IDVlnEwqUCQojfXDzUqp) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Love Is Forever](https://open.spotify.com/album/1N2EU88sJq1fJceLbYA4OO) | 3:43 | 2024-08-22 |  |
 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 | 2024-05-20 |  |
 | [Lucky Star](https://open.spotify.com/track/0dyKAdVxw1ZR4Dm7ubUJmF) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Lucky Star](https://open.spotify.com/album/1jBCW2wlEWOJ2UGFEqR8qS) | 4:44 | 2024-08-15 |  |
 | [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2024-05-20 |  |
@@ -130,6 +134,7 @@
 | [Skin](https://open.spotify.com/track/0VgdX9FOT8VIJGZsHJCKeN) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Skin](https://open.spotify.com/album/64zqxByvS1cey9ERLWBfsE) | 2:55 | 2024-05-20 |  |
 | [Skinwalk](https://open.spotify.com/track/36noVZ9t81h21IRNsh5Cm8) | [Tom Verberne](https://open.spotify.com/artist/6VBC0wHJglsZSqSUCfbepv) | [Skinwalk](https://open.spotify.com/album/145sQ9zNrPRiM4PNDQDtme) | 2:59 | 2024-08-15 |  |
 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-08-15 |  |
+| [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 | 2024-08-22 |  |
 | [Some Kind of Angel](https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:34 | 2024-08-15 |  |
 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 | 2024-05-20 |  |
 | [Stop](https://open.spotify.com/track/5AF1ZAzQrCfIZKnboup3zq) | [Jupita](https://open.spotify.com/artist/20dEUQqgrMGEybe0K79QpF) | [Want You Back](https://open.spotify.com/album/1umHmNKwp7GZlMz7aQrRhX) | 2:59 | 2024-05-20 | 2024-08-16 |

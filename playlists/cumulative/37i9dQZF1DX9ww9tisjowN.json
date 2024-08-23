@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/3I9dAxZR1O0zRPA3kaXcax"
+      },
+      "artists": [
+        {
+          "name": "Tsukuyomi",
+          "url": "https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211499,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/6kyJ4urjlw9E2SbwX5iRJI"
+    },
+    {
+      "album": {
         "name": "Feelin\u2019 Go(o)d",
         "url": "https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 195634,
       "name": "Go-Getters",
       "url": "https://open.spotify.com/track/1tAEybqqZ7d58wdgCwB9M9"
@@ -1900,6 +1918,24 @@
       "duration_ms": 223600,
       "name": "Hanaarashi",
       "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
+    },
+    {
+      "album": {
+        "name": "happy ever after",
+        "url": "https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226100,
+      "name": "happy ever after",
+      "url": "https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr"
     },
     {
       "album": {
@@ -3268,7 +3304,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 212181,
       "name": "Mononoke Kyoto",
       "url": "https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB"
@@ -3458,6 +3494,24 @@
       "duration_ms": 154726,
       "name": "NEO KAWAII, K?",
       "url": "https://open.spotify.com/track/1XpMbiTtDGFFcA6fyvZm8Y"
+    },
+    {
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/6akgi3cgQdZIH33K8px7wk"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7LxHjUomn8u71LV2diIx2u"
     },
     {
       "album": {
@@ -4264,10 +4318,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 151626,
       "name": "RED OUT",
       "url": "https://open.spotify.com/track/24uvFK1ceLlMEa5WqZAQoB"
+    },
+    {
+      "album": {
+        "name": "LOST CORNER",
+        "url": "https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "RED OUT",
+      "url": "https://open.spotify.com/track/5sQUXxfkbDpauiEXFc4Rcr"
     },
     {
       "album": {
@@ -4783,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Strong Body and Rich Future of Macho Minimal Fairy",
+        "url": "https://open.spotify.com/album/4PcS8cnvWSb02xrUIX7tWz"
+      },
+      "artists": [
+        {
+          "name": "JYOCHO",
+          "url": "https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Strong Body and Rich Future of Macho Minimal Fairy",
+      "url": "https://open.spotify.com/track/5QSMYpWm1klasdBZYQCox7"
+    },
+    {
+      "album": {
         "name": "Castle in Madness",
         "url": "https://open.spotify.com/album/614jKHpWcmW6XcpU2OXRLc"
       },
@@ -5044,7 +5134,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 145453,
       "name": "The Rewind Story",
       "url": "https://open.spotify.com/track/4Y1Bihcs7b4unLD1jZB2Cl"
@@ -6084,7 +6174,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 152259,
       "name": "\u306a\u3093\u3066\u306d",
       "url": "https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx"
@@ -7041,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30a3\u30a2",
+        "url": "https://open.spotify.com/album/5N8xSxpW6ufBnobt5iMMXs"
+      },
+      "artists": [
+        {
+          "name": "Reol",
+          "url": "https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174559,
+      "name": "\u30c7\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/2C6am2buzRLvFKNVr4nl3L"
+    },
+    {
+      "album": {
         "name": "INSAINT",
         "url": "https://open.spotify.com/album/4t2okOrlqsIZ15pZfdhtuZ"
       },
@@ -7324,7 +7432,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 242367,
       "name": "\u30d5\u30a3\u30ca\u30fc\u30ec\u3002",
       "url": "https://open.spotify.com/track/2hL8ESlWIwfXPHgPaTYTWk"
@@ -8492,10 +8600,28 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306e\u4e0d\u53ef\u601d\u8b70",
+        "url": "https://open.spotify.com/album/1Wed7kYwZvlHyRhd4eQVAm"
+      },
+      "artists": [
+        {
+          "name": "Sangatsu no Phantasia",
+          "url": "https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177466,
+      "name": "\u5b8c\u74a7\u5f7c\u5973",
+      "url": "https://open.spotify.com/track/4IvwKg7uLZmB8wx4eXS8h5"
     },
     {
       "album": {

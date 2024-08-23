@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Giift",
+  "description": "The best new music by independent artists in the Nordics. Cover: NOEL",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 236934,
       "name": "All The Stars",
       "url": "https://open.spotify.com/track/3VeV7k2NDH6GysI3rfKwUl"
@@ -428,6 +428,24 @@
       "duration_ms": 125280,
       "name": "Ammo",
       "url": "https://open.spotify.com/track/5Xs1UFKIOQ8Swsd3dympgl"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C"
+      },
+      "artists": [
+        {
+          "name": "Oklahoma",
+          "url": "https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9"
     },
     {
       "album": {
@@ -638,6 +656,24 @@
       "duration_ms": 128920,
       "name": "BeReal",
       "url": "https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi"
+    },
+    {
+      "album": {
+        "name": "Berlin foxes",
+        "url": "https://open.spotify.com/album/1tz1oX0FoghNElMVyxzOqZ"
+      },
+      "artists": [
+        {
+          "name": "Moto Boy",
+          "url": "https://open.spotify.com/artist/0sKQUWhiNgW8KBnnM0O7FL"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318040,
+      "name": "Berlin foxes",
+      "url": "https://open.spotify.com/track/5vdoUXvnuD4PeyWGIqreGw"
     },
     {
       "album": {
@@ -1201,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Close to Dying",
+        "url": "https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM"
+      },
+      "artists": [
+        {
+          "name": "MAIH",
+          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180819,
+      "name": "Close to Dying",
+      "url": "https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4D8vDalhqygYxKp2CTKxs8"
       },
@@ -1403,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Cookie / Janni",
+        "url": "https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq"
+      },
+      "artists": [
+        {
+          "name": "Kenton Slash Demon",
+          "url": "https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206195,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/4gstZtZtXLXv0Uo8FzFpGV"
+    },
+    {
+      "album": {
         "name": "Copenhagen",
         "url": "https://open.spotify.com/album/0aeAItggALViyjDIcn8zKx"
       },
@@ -1472,7 +1544,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 170625,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/6ag8iJzVTeeKa7H4tmFCCw"
@@ -2390,7 +2462,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 224293,
       "name": "feel your love <3",
       "url": "https://open.spotify.com/track/2HlLAsLSCADzpODg13r9Ic"
@@ -2462,7 +2534,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 127458,
       "name": "FIND",
       "url": "https://open.spotify.com/track/0nOAeVq41wQhOiD0VWnpOV"
@@ -2506,6 +2578,24 @@
       "duration_ms": 126304,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/6OMHusMo9jZemASNaFSd4X"
+    },
+    {
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "album": {
@@ -3307,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN JUST A BREATH AWAY",
+        "url": "https://open.spotify.com/album/4rs8VMgD0lGwTETcYHSMjs"
+      },
+      "artists": [
+        {
+          "name": "Frederik Valentin",
+          "url": "https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "HEAVEN JUST A BREATH AWAY",
+      "url": "https://open.spotify.com/track/508vUYJbT8IuvxTgI12ztg"
+    },
+    {
+      "album": {
         "name": "Android",
         "url": "https://open.spotify.com/album/2ZSYedTofYAc6wT1aEM1Ed"
       },
@@ -3592,7 +3700,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 178701,
       "name": "I HATE IT!",
       "url": "https://open.spotify.com/track/3VuVNNSD9gL6TBq43PeB5v"
@@ -3632,6 +3740,24 @@
       "duration_ms": 155294,
       "name": "i like u...",
       "url": "https://open.spotify.com/track/1igY8lMxx6INXLCJK5xjbR"
+    },
+    {
+      "album": {
+        "name": "I Love U Loving Me",
+        "url": "https://open.spotify.com/album/1d44k1mPERbvMSaTQBnfb9"
+      },
+      "artists": [
+        {
+          "name": "ROVAS",
+          "url": "https://open.spotify.com/artist/2RS4b1iY3UXPXr1tsDQdRc"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151060,
+      "name": "I Love U Loving Me",
+      "url": "https://open.spotify.com/track/1YJJJNcE1wI882U2XdbPiw"
     },
     {
       "album": {
@@ -4130,7 +4256,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 180002,
       "name": "Keep on running off",
       "url": "https://open.spotify.com/track/2mgd2uGU3DWJG0NuR122Wh"
@@ -4286,6 +4412,24 @@
       "duration_ms": 176861,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG"
+    },
+    {
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "album": {
@@ -5103,6 +5247,28 @@
     },
     {
       "album": {
+        "name": "My Dazed Friend",
+        "url": "https://open.spotify.com/album/4tpuNsHzxBcuA0ZWuSHM8Y"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        },
+        {
+          "name": "KL\u014c",
+          "url": "https://open.spotify.com/artist/04PGhfooPK0YQZPAj3itqo"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296170,
+      "name": "My Dazed Friend",
+      "url": "https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar"
+    },
+    {
+      "album": {
         "name": "My Love For You",
         "url": "https://open.spotify.com/album/6X32ulqze4sMDuHf6fx3Bg"
       },
@@ -5311,7 +5477,7 @@
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 265000,
+      "duration_ms": 264480,
       "name": "Nightrun",
       "url": "https://open.spotify.com/track/5uL8V8oTBMrrvCukk5ydTi"
     },
@@ -5386,7 +5552,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 199683,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
@@ -5694,7 +5860,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 160865,
       "name": "October",
       "url": "https://open.spotify.com/track/5wdIuqlk4grAlRgAqzNrBQ"
@@ -5964,7 +6130,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 217294,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8"
@@ -6127,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "phonetic",
+        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "phonetic",
+      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2"
       },
@@ -6192,7 +6376,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 142914,
       "name": "Play With It",
       "url": "https://open.spotify.com/track/0DUM7lpBnLxRG4B2rYODIA"
@@ -6478,7 +6662,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156306,
       "name": "Reach The Climax",
       "url": "https://open.spotify.com/track/2VZ935f6xX2NN3nndoxqQl"
@@ -6934,7 +7118,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 268500,
       "name": "Short Straws",
       "url": "https://open.spotify.com/track/5SAyjNgzpeA01YXhlx3Gem"
@@ -7179,6 +7363,24 @@
     },
     {
       "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/43yT7TFV4bPdQwNPyzPrLn"
+      },
+      "artists": [
+        {
+          "name": "Thea Dora",
+          "url": "https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182779,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5cjP5yIadEwHcm5FBrSOw6"
+    },
+    {
+      "album": {
         "name": "Someone To Come Home To",
         "url": "https://open.spotify.com/album/5XaebZSVD9qY7H8FFKP2L2"
       },
@@ -7270,7 +7472,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 208817,
       "name": "Sound Is Gone",
       "url": "https://open.spotify.com/track/3DNFhlSVKh2Ikf1HQFDjvh"
@@ -8492,6 +8694,24 @@
       "duration_ms": 143200,
       "name": "Way Too Good",
       "url": "https://open.spotify.com/track/7v7yldcasSvbwu8tE9VV84"
+    },
+    {
+      "album": {
+        "name": "Well, that's all for now..",
+        "url": "https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy"
+      },
+      "artists": [
+        {
+          "name": "Crawly",
+          "url": "https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Well, that's all for now..",
+      "url": "https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg"
     },
     {
       "album": {

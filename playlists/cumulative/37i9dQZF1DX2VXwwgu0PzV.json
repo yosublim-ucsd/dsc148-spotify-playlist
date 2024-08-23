@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG?si=vsH5vPTPSlW5rGV8Tv3E1Q>Monaze </a> &  <a href=https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=J8gfGOjvQC2ejtWvZlrnIA>Theresa Phondo</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=pK-yJNMZTYmu6MtMrT9Xqw>Limoblaze</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156250,
       "name": "Already Blessed (Edm Vibe)",
       "url": "https://open.spotify.com/track/5eb1ldbYuU2duprz0cmpkq"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 123301,
       "name": "AYO",
       "url": "https://open.spotify.com/track/7Bt3aw2viJVXQEUoA8cqbP"
@@ -4896,7 +4896,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 160945,
       "name": "Father's Hands",
       "url": "https://open.spotify.com/track/2SeSqnyrdeBG4J3DDKdxSo"
@@ -8439,6 +8439,36 @@
     },
     {
       "album": {
+        "name": "It's Gonna Be Alright (Remix)",
+        "url": "https://open.spotify.com/album/6alRG3XHS3ivtcRjpW06jB"
+      },
+      "artists": [
+        {
+          "name": "Mama Tee",
+          "url": "https://open.spotify.com/artist/3QwvzS5dtXvN4JH33k6ImA"
+        },
+        {
+          "name": "Tkellz",
+          "url": "https://open.spotify.com/artist/6w7eO85veDbb6SE1rAA8uO"
+        },
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177658,
+      "name": "It's Gonna Be Alright - Remix",
+      "url": "https://open.spotify.com/track/6W6d86DmHQJwVorKxUepn6"
+    },
+    {
+      "album": {
         "name": "Iwoloba (Eh Eh Eh)",
         "url": "https://open.spotify.com/album/7GlSjD5hyS38ajhC1L0e0s"
       },
@@ -8726,6 +8756,24 @@
       "duration_ms": 135800,
       "name": "Jesus (I'm Yours)",
       "url": "https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ"
+    },
+    {
+      "album": {
+        "name": "Jesus Christ Forever",
+        "url": "https://open.spotify.com/album/28ftzgMQ0cjmzNb1shDMNE"
+      },
+      "artists": [
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301844,
+      "name": "Jesus Christ Forever",
+      "url": "https://open.spotify.com/track/6FHdT096m3a0gaLx6DxZEK"
     },
     {
       "album": {
@@ -9250,7 +9298,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 215250,
       "name": "Lamb Ba? (Remix)",
       "url": "https://open.spotify.com/track/2OPLnr8djBNjdCzrGE1vVf"
@@ -9678,7 +9726,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 204328,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i"
@@ -10316,7 +10364,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 265247,
       "name": "Mighty Supply II",
       "url": "https://open.spotify.com/track/4BHibKM4v9yL7Elm7KuCWm"
@@ -10698,7 +10746,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 159320,
       "name": "MOVEMENT",
       "url": "https://open.spotify.com/track/6NglFmvUC1ho123QUvQtRl"
@@ -11193,6 +11241,24 @@
     },
     {
       "album": {
+        "name": "Never Find",
+        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240375,
+      "name": "Never Find",
+      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
+    },
+    {
+      "album": {
         "name": "Never Leave Me",
         "url": "https://open.spotify.com/album/0Iw51m2fBACwLL3JYongH0"
       },
@@ -11352,6 +11418,28 @@
       "duration_ms": 176378,
       "name": "No Distractions",
       "url": "https://open.spotify.com/track/4Lb7GCURnLKzLllifdE5DI"
+    },
+    {
+      "album": {
+        "name": "Young & Chosen",
+        "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220545,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
       "album": {
@@ -12120,6 +12208,32 @@
       "duration_ms": 131720,
       "name": "On God",
       "url": "https://open.spotify.com/track/7BlFbqi4xLnITH61QN9iGi"
+    },
+    {
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/23aQpGrWvMqCwNSBcRzM90"
+      },
+      "artists": [
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185857,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/5RFhOGFbx6iFuJfW2N0evM"
     },
     {
       "album": {
@@ -13811,6 +13925,28 @@
     },
     {
       "album": {
+        "name": "Sandalili",
+        "url": "https://open.spotify.com/album/03yocg0eTr5QBmyOI0HWQd"
+      },
+      "artists": [
+        {
+          "name": "Aigbeh D'gong",
+          "url": "https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155059,
+      "name": "Sandalili",
+      "url": "https://open.spotify.com/track/6IsUcugTsURZJ5tZAUcBRt"
+    },
+    {
+      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/2SyQwAaiJD1F2jx3mRZcpQ"
       },
@@ -13946,7 +14082,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 172551,
       "name": "Serious Members",
       "url": "https://open.spotify.com/track/7zAvyCx5Q1zf70HhvURywr"
@@ -14862,6 +14998,32 @@
       "duration_ms": 177011,
       "name": "Take Over",
       "url": "https://open.spotify.com/track/17M2ibLo2cqF1Mh8NWxPez"
+    },
+    {
+      "album": {
+        "name": "Take the Wheel",
+        "url": "https://open.spotify.com/album/1A0FUHvjDQqVHklU7TPrwx"
+      },
+      "artists": [
+        {
+          "name": "Where Feet Fail",
+          "url": "https://open.spotify.com/artist/2KkKTdEPbNFFktcgVmK6yq"
+        },
+        {
+          "name": "Nuelzo",
+          "url": "https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR"
+        },
+        {
+          "name": "Ti\u2019fe",
+          "url": "https://open.spotify.com/artist/6ulRI2tQW3DCVCpzZ2rtMX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173842,
+      "name": "Take the Wheel",
+      "url": "https://open.spotify.com/track/2epO6gcdq4HMjpYVLyZ2Qz"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new alternative sounds from Scotland\. Cover: Hamish Hawk
 
-87 songs - 4 hr 56 min
+88 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [All The Clouds and Silver Linings](https://open.spotify.com/track/0hWmSHFuTQboBKtLuozMBt) | [The Kundalini Genie](https://open.spotify.com/artist/4HnlwfvTPSe7zKbVZN1J3W) | [False Highs, True Lows](https://open.spotify.com/album/0BjIqsDr3qJhlWVi0UxJtC) | 3:43 | 2024-06-20 | 2024-08-16 |
 | [Amber](https://open.spotify.com/track/5RhQGeNZkj3VycL9IBKVxh) | [Wrest](https://open.spotify.com/artist/6unqrJxdXZSNKHPDbluRGx) | [Amber](https://open.spotify.com/album/15IgkGML8QZjVwCoJlIc3Q) | 4:26 | 2024-07-18 |  |
 | [Beautiful View](https://open.spotify.com/track/1L1YNvHGQk5si8wxhABVQz) | [Rianne Downey](https://open.spotify.com/artist/254gmlnuhtyLCJmHiodIri) | [Beautiful View](https://open.spotify.com/album/20Fa3LrHum284BwcuuVhJj) | 2:55 | 2024-06-20 |  |
-| [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-06-20 |  |
+| [Big Love](https://open.spotify.com/track/5TlQaUReZtviIA3AWrAazB) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Big Love](https://open.spotify.com/album/4fgwPlwnatn7LfaMiziOJh) | 2:57 | 2024-06-20 | 2024-08-23 |
 | [Blue](https://open.spotify.com/track/07ACweeHrzXFo94zr3ApJv) | [Fright Years](https://open.spotify.com/artist/6Cq33l3cnGmtB1MlDWkqH6) | [Blue](https://open.spotify.com/album/4vgRd3oF3AzLDOM1M5rXSh) | 3:55 | 2024-06-20 |  |
 | [Business As Usual](https://open.spotify.com/track/0wlM6ob7PFbUQSamDGT5No) | [The LaFontaines](https://open.spotify.com/artist/1oR94M02IeFan1KOhPCpqd) | [Business As Usual](https://open.spotify.com/album/5Q6OigtVlM8tFCr3ebBrOC) | 3:23 | 2024-06-20 |  |
 | [Busy Smiling](https://open.spotify.com/track/5dOoyjsW6WcBxPWRs5E25g) | [Ben Walker](https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4) | [Busy Smiling](https://open.spotify.com/album/65J1AfVONvXZGvFI5lxJNm) | 3:06 | 2024-06-20 |  |
@@ -83,6 +83,7 @@
 | [Sorry](https://open.spotify.com/track/2AfZo6fIu4mKDf76NTXwBG) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Sorry](https://open.spotify.com/album/1HSx2N8mKzA9hqeRB9FVzX) | 4:18 | 2024-06-20 |  |
 | [Spirit Folio](https://open.spotify.com/track/6N2yszPeZBE2SAhZEgKIjH) | [Stock Manager](https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3) | [Spirit Folio](https://open.spotify.com/album/6qAUxmEqxdEYpYTmlNkqN4) | 4:04 | 2024-06-20 |  |
 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 | 2024-06-20 |  |
+| [Strange Town](https://open.spotify.com/track/36CQZVvDPUNWVVeIU4VrVy) | [Brontës](https://open.spotify.com/artist/5fTPKI6BSj6PJYv8dw6BLR) | [Strange Town](https://open.spotify.com/album/67WaAH6Up2B5ndvS33sEpu) | 3:57 | 2024-08-22 |  |
 | [TAKE CARE](https://open.spotify.com/track/0FQzUq3f6o5pJNhMJCA7qH) | [Nicky Lipp](https://open.spotify.com/artist/33pGE2Zo7ya0yyTW8oSalA) | [firsts.](https://open.spotify.com/album/0RQGsyCOUuEXEMSABUTAkc) | 3:10 | 2024-06-20 | 2024-07-19 |
 | [talk2me](https://open.spotify.com/track/14hwMgJ8WHc24X6EA48XzP) | [toby sparham](https://open.spotify.com/artist/4C50Fj4gh3ZdNw2uA3hT9N) | [talk2me](https://open.spotify.com/album/5zkexxh0EMwAdlVcwJZCl4) | 1:59 | 2024-06-20 |  |
 | [The Masochist](https://open.spotify.com/track/5hLzEdcSmx3TJlhZF3b5jS) | [Lloyd's House](https://open.spotify.com/artist/7i7jdyMS3LtCponBP34ou9) | [The Masochist](https://open.spotify.com/album/185ltxsjd0kAt1HtIGleSM) | 4:46 | 2024-06-20 |  |

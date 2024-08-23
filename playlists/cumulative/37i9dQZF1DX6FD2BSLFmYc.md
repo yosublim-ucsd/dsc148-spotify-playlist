@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-158 songs - 10 hr 3 min
+159 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +40,9 @@
 | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8) | [Crystal Relaxations](https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi) | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO) | 4:28 | 2022-07-18 |  |
 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 | 2022-07-18 |  |
 | [Drift Into Dreams](https://open.spotify.com/track/7aYbsJUvQRmJYZSP23NTbB) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Drift Into Dreams](https://open.spotify.com/album/0wqBudlOaJq9Wj3WkxmAy7) | 3:37 | 2024-07-17 |  |
-| [Echoes](https://open.spotify.com/track/59v6WQmmNU6XZYgg3ZV8DE) | [Nepenthesis](https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6) | [Echoes](https://open.spotify.com/album/3YRyKqirEex6D85nhoNgLU) | 3:38 | 2023-03-22 |  |
+| [Echoes](https://open.spotify.com/track/59v6WQmmNU6XZYgg3ZV8DE) | [Nepenthesis](https://open.spotify.com/artist/5eCkBm1UK2IpA92JiNoMV6) | [Echoes](https://open.spotify.com/album/3YRyKqirEex6D85nhoNgLU) | 3:38 | 2023-03-22 | 2024-08-23 |
 | [Ecos Pulso](https://open.spotify.com/track/01U5xQTJxU8kv52qLHKHkM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Privier Temporada 1](https://open.spotify.com/album/0BO1yUsaHNYjyhYrrsetng) | 2:15 | 2024-07-17 |  |
-| [En Paz 432Hz](https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [En Paz 432Hz](https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm) | 2:53 | 2023-01-13 |  |
+| [En Paz 432Hz](https://open.spotify.com/track/4pSt8Vci86ylpq2l2auNWJ) | [On Dunes](https://open.spotify.com/artist/6oMeZudDfeCsLbPHmZFt1x) | [En Paz 432Hz](https://open.spotify.com/album/5iEHD2vXDdCPUG14clmldm) | 2:53 | 2023-01-13 | 2024-08-23 |
 | [Endlessly Calm](https://open.spotify.com/track/7b98mUKDdCluhm73qd6Uyg) | [Nika Tibia](https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg) | [Endlessly Calm](https://open.spotify.com/album/7std308628fpnzWfaD2Xy9) | 3:14 | 2024-07-17 |  |
 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 | 2024-07-17 |  |
 | [Ethereal Harmony](https://open.spotify.com/track/2NAqFzi7h1xdcIV4XPNY5r) | [Ewa Delvina](https://open.spotify.com/artist/3WTCerCMGjap4tNkKlGjsD) | [Ethereal Harmony](https://open.spotify.com/album/7oTpJCJjf6q9QRPeT6Mow0) | 2:05 | 2023-08-10 |  |
@@ -63,6 +63,7 @@
 | [Happiness](https://open.spotify.com/track/0lJ5rRcxyYDFddnKptuyXQ) | [Nambara Nim](https://open.spotify.com/artist/3At7zeaoPY1lvcdRNioifv) | [Happiness](https://open.spotify.com/album/4yfV7rBQ4zDMOV5cOh9PBd) | 3:20 | 2023-02-10 |  |
 | [Healing Bowls](https://open.spotify.com/track/67DxDlLod2unLLBwdIBmDn) | [Sound of Muses](https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi) | [Healing Tibetan Singing Bowls](https://open.spotify.com/album/5NmADUzrobLLRJ271n2Q9W) | 2:54 | 2022-07-18 |  |
 | [Healing Spirit](https://open.spotify.com/track/54a75Z1C4UZgC2D0Wd2lMb) | [Astral Rhythms](https://open.spotify.com/artist/3tA7xzQw6J6EQOEG9Si5ii) | [Calming Rhythms For Meditation](https://open.spotify.com/album/1pZSnXLdAFJTrKXTJgNDQc) | 2:20 | 2023-01-13 |  |
+| [Hidden Landscapes](https://open.spotify.com/track/35MupZrajCV3r2Nqkqg3sW) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Hidden Landscapes](https://open.spotify.com/album/15R2pKwr77nlGEk35aT78i) | 2:25 | 2024-08-22 |  |
 | [Himalayan Healing](https://open.spotify.com/track/5VmzqruF6oSepIWbQ2kgRG) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Himalayan Healing](https://open.spotify.com/album/1PhSIQx53zfpwkUhwnAtXI) | 3:03 | 2022-07-18 |  |
 | [Horizons of Hope \- Spa](https://open.spotify.com/track/2OyD93D35uinJSQDQDgR9q) | [FloatSpace](https://open.spotify.com/artist/0PzZEo9UXbMwpdcSZcSPfL) | [Horizons of Hope \(Spa\)](https://open.spotify.com/album/11IQWuHjIAKxaadtD2O9Ci) | 3:07 | 2022-08-10 |  |
 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 | 2022-07-18 |  |
@@ -138,7 +139,7 @@
 | [The Enigma of Consciousness](https://open.spotify.com/track/3S7oZhdCE1Pyn9yMugRQIO) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/7gUJEj7nDARz9qIOTLyLU8) | 3:14 | 2022-07-18 | 2022-07-29 |
 | [The Enigma of Consciousness](https://open.spotify.com/track/4VEbMcdsQV19SFVuwkz9vg) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Enigma of Consciousness](https://open.spotify.com/album/4Qq3VuAueCvOPnopjVZ5dd) | 3:14 | 2022-07-18 | 2023-04-27 |
 | [The Lofty Mountain And Running Water](https://open.spotify.com/track/1igZdImTTMlFTk69hQRrVI) | [Xiang Sihua](https://open.spotify.com/artist/2uxtpgILiuGYRjivujoGvD) | [Guzheng Classics by Chinese Guzheng Masters](https://open.spotify.com/album/2mA8KhAEY17NWwe92nWd3n) | 3:13 | 2022-07-18 | 2023-04-27 |
-| [The Ritan Bells 1](https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 3:42 | 2023-08-10 |  |
+| [The Ritan Bells 1](https://open.spotify.com/track/0sdDAvQcCpJkuIGIjFj1qW) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 3:42 | 2023-08-10 | 2024-08-23 |
 | [Therapy for Plants](https://open.spotify.com/track/25dNvN92p8z2wrEOnIilow) | [Soothing Music Academy](https://open.spotify.com/artist/4Of9KJVw5YAsihGbnRONMH) | [Healing Music for Plants – Soothing Sounds for Deep Stimulation, Health & Strength, Ambient Serenity, Blooming Flowers](https://open.spotify.com/album/2WPReIZqUbSUThvlChFQIE) | 3:25 | 2022-07-18 |  |
 | [Threads](https://open.spotify.com/track/30VnmNoXmeNMlDR6MxLP5U) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/2CiGQi3XgsbETzwSFzn2yk) | 3:12 | 2022-07-18 |  |
 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 | 2022-07-18 | 2024-04-19 |

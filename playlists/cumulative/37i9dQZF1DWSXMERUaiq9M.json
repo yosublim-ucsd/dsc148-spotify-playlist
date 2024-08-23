@@ -49,6 +49,32 @@
     },
     {
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193855,
+      "name": "2003",
+      "url": "https://open.spotify.com/track/0d2nwtK9mfFiVO8hkM5Xln"
+    },
+    {
+      "album": {
         "name": "4Ever",
         "url": "https://open.spotify.com/album/3fJ1EFpVELMmCNZ4QbKmo5"
       },
@@ -78,7 +104,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 387500,
       "name": "6 Million Ways To Die",
       "url": "https://open.spotify.com/track/5VaJXLs5GTseSZPpVqmoZn"
@@ -628,7 +654,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 194850,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
@@ -698,6 +724,24 @@
       "duration_ms": 183496,
       "name": "Blow Ya Mind - DJ Daddy Trance Remix",
       "url": "https://open.spotify.com/track/3iLQehOg4428qsiYSDrRqN"
+    },
+    {
+      "album": {
+        "name": "Body 2 Body",
+        "url": "https://open.spotify.com/album/4d2Gk7HZHYG0Hy0mUhhhst"
+      },
+      "artists": [
+        {
+          "name": "Heggemann",
+          "url": "https://open.spotify.com/artist/4887FTCAl0wdw3jwpkGq6d"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196812,
+      "name": "Body 2 Body",
+      "url": "https://open.spotify.com/track/3s8mmearbEIac4NbavqVSl"
     },
     {
       "album": {
@@ -1264,7 +1308,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Day 'N' Night",
       "url": "https://open.spotify.com/track/6NT2Yovx1t0mMvbwBzRsYc"
@@ -1468,7 +1512,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 263282,
       "name": "Do You Wanna Dance",
       "url": "https://open.spotify.com/track/1zwS4CGOFobHqCrBx7eZHD"
@@ -1676,7 +1720,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 144124,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/5azE1OgMa2Zdd5qEOmOpps"
@@ -1800,6 +1844,28 @@
       "duration_ms": 170624,
       "name": "Entertain Me",
       "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0gDQGarNIcKfzFVQITe8t2"
+      },
+      "artists": [
+        {
+          "name": "Van Der Karsten",
+          "url": "https://open.spotify.com/artist/3TiyEX77D6OFTvSfx5WDEE"
+        },
+        {
+          "name": "Airwalk3r",
+          "url": "https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/4S2hhb5EKBmlBU7cFigCJS"
     },
     {
       "album": {
@@ -1964,6 +2030,24 @@
       "duration_ms": 301562,
       "name": "Fade To Black",
       "url": "https://open.spotify.com/track/0eVRRA5XgykBqjIwhYzxQ2"
+    },
+    {
+      "album": {
+        "name": "FAF",
+        "url": "https://open.spotify.com/album/5fJBS7Ous2WYOQjrBP77qa"
+      },
+      "artists": [
+        {
+          "name": "Surf 2 Glory",
+          "url": "https://open.spotify.com/artist/1GQzSnBwaUlIdqFDiuktN3"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167291,
+      "name": "FAF",
+      "url": "https://open.spotify.com/track/5HO6Ktb8VhUlRAz8NXsScT"
     },
     {
       "album": {
@@ -2134,6 +2218,24 @@
       "duration_ms": 105600,
       "name": "FORTUNE COOKIE",
       "url": "https://open.spotify.com/track/4bvr5h511GhD4S0rntkMcd"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/002DVv7GOJMy4BTrreeLUl"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4lDNvFbQ00saZ7UhCbqFBD"
     },
     {
       "album": {
@@ -2374,7 +2476,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 302400,
       "name": "Gucci but different",
       "url": "https://open.spotify.com/track/4zmDjQo7YG1l2oHsOpAn5U"
@@ -2934,7 +3036,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 240250,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8"
@@ -3122,7 +3224,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 209428,
       "name": "Kerala",
       "url": "https://open.spotify.com/track/2kpeGK7obKW8xaN3p5lMMT"
@@ -3278,7 +3380,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 146867,
       "name": "Let's go",
       "url": "https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp"
@@ -3318,7 +3420,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 140710,
       "name": "LIGHT IT UP",
       "url": "https://open.spotify.com/track/5fDMxAnUvFwVqIUPQjlGcV"
@@ -3638,7 +3740,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 278503,
       "name": "Mean One",
       "url": "https://open.spotify.com/track/1d2PMswJrEctjjLNq6IPXK"
@@ -4411,6 +4513,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/4OX5yUMOuU4w1DCcmXtEpy"
+      },
+      "artists": [
+        {
+          "name": "L.zwo",
+          "url": "https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208245,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5CteVFkxiW0XfzCbTyh4Pc"
+    },
+    {
+      "album": {
         "name": "WAXTAPE 2",
         "url": "https://open.spotify.com/album/1uHpC5qOXH6SYPXYEW1Jbh"
       },
@@ -4868,7 +4988,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 151688,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY"
@@ -5135,6 +5255,24 @@
     },
     {
       "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/56Zt79ZBjC2CNZeyxIQCNn"
+      },
+      "artists": [
+        {
+          "name": "Izzy Camina",
+          "url": "https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148804,
+      "name": "Seraphim",
+      "url": "https://open.spotify.com/track/3ljeAI0BtjhvGbIXthyACZ"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop"
       },
@@ -5234,6 +5372,24 @@
       "duration_ms": 178377,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5iXgpgzmDiafKqRk4Tl4d2"
+    },
+    {
+      "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/3J9RFPDX3NfQeiq0VoA3Rq"
+      },
+      "artists": [
+        {
+          "name": "D S D",
+          "url": "https://open.spotify.com/artist/4g8BjUgv4gbpeOdJmlosh5"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267163,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/4zYLzlHjNsAylibEcKq9RK"
     },
     {
       "album": {
@@ -6064,7 +6220,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 173083,
       "name": "We Want More",
       "url": "https://open.spotify.com/track/7nfCb5stHePZ6OoE7HDTe2"
@@ -6236,6 +6392,24 @@
       "duration_ms": 171000,
       "name": "Wildhorse",
       "url": "https://open.spotify.com/track/3Avc5PGq3RYXP93Dsphk1K"
+    },
+    {
+      "album": {
+        "name": "Wolkenbruch",
+        "url": "https://open.spotify.com/album/5qR6EoLv5QKMIZIZ17vhnD"
+      },
+      "artists": [
+        {
+          "name": "DREAM DJ TEAM",
+          "url": "https://open.spotify.com/artist/78HKXj2z44JthdgoqT9ElL"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247302,
+      "name": "Wolkenbruch",
+      "url": "https://open.spotify.com/track/7pw36zGhj1Ji5TCQAKM2CD"
     },
     {
       "album": {

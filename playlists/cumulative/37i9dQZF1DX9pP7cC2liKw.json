@@ -2453,6 +2453,24 @@
     },
     {
       "album": {
+        "name": "Green Ivy Tapestry",
+        "url": "https://open.spotify.com/album/4aW5fIVwUnvnuStm0AHWkS"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147915,
+      "name": "Green Ivy Tapestry",
+      "url": "https://open.spotify.com/track/3mtSuDBEROnM30OouovNny"
+    },
+    {
+      "album": {
         "name": "Greener",
         "url": "https://open.spotify.com/album/6hkjFXcRidOAaZHjMB5jaq"
       },
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"

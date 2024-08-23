@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers
 
-278 songs - 16 hr 53 min
+279 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Kaalam Karigee Vela](https://open.spotify.com/track/0ORgN49uMzjQXQzPDo02kg) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/1TX4kYXmWAmNCxkX6aDyce) | 3:05 | 2023-05-26 | 2024-01-05 |
 | [Kaalam Karigee Vela](https://open.spotify.com/track/4H4xbEw7snbrhkyZx73xPN) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Kaalam Karigee Vela](https://open.spotify.com/album/62nW8JpmhiafjI7PveQ2dp) | 3:05 | 2023-05-26 | 2024-02-22 |
 | [Kaatuka Kallakettinaave](https://open.spotify.com/track/6oi7mBSvwYHOy0uX1yrQSc) | [P V N S Rohit](https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Kaatuka Kallakettinaave](https://open.spotify.com/album/7ET4tUowUafTghbMn0FxhC) | 3:19 | 2022-07-18 | 2024-03-09 |
+| [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/track/0eblrJGz2Suo4NpIDJuzVd) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4), [Praveen](https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6) | [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/album/007SdIRuq2BTVRp8i7GUB8) | 4:10 | 2024-08-22 |  |
 | [Kadali](https://open.spotify.com/track/1rAbZfXSxYr5omE7n6EJkS) | [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI), [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [Kadali](https://open.spotify.com/album/1wlULTtra3ye1H6LBjTIXf) | 5:30 | 2023-04-14 | 2024-02-15 |
 | [Kadilindi Kanne](https://open.spotify.com/track/2C2D5BKIrHbcGzHDrBNNTV) | [Aparna Nandan](https://open.spotify.com/artist/6GbSbIinWyPBBYOXcZcN0V), [Anjan](https://open.spotify.com/artist/0hdBa0NLbWCdrWLrrWbHD1), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Kadilindi Kanne](https://open.spotify.com/album/7lZaGfYl6BGwyI77g5FycZ) | 3:29 | 2023-03-20 | 2023-06-20 |
 | [Kala](https://open.spotify.com/track/1yJskNbmvl3OxtzCMZGOFu) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Dinker kalvala](https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM), [Tushar Budhwani](https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq) | [Kala](https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp) | 3:27 | 2024-06-29 |  |

@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Charli xcx au top des bangers dance/electro du moment !
+> Calvin Harris au top des bangers dance/electro du moment !
 
 178 songs - 8 hr 11 min
 

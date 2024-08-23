@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 110078,
       "name": "Chaos 32",
       "url": "https://open.spotify.com/track/1FkbT2goO7NBjyJzrV6b9K"
@@ -932,6 +932,24 @@
       "duration_ms": 162459,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/1JyQVDd48BprQrdEOpmodT"
+    },
+    {
+      "album": {
+        "name": "DARE",
+        "url": "https://open.spotify.com/album/206enQ4NnWw07Hc0KaLysn"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "DARE",
+      "url": "https://open.spotify.com/track/1YSOSgWnOQhELstcjDr9s3"
     },
     {
       "album": {
@@ -1296,6 +1314,28 @@
       "duration_ms": 211560,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/4P0KHrbsOC4s7IgCsMLApO"
+    },
+    {
+      "album": {
+        "name": "FAME",
+        "url": "https://open.spotify.com/album/55i23565yni4LxhdwdtvYW"
+      },
+      "artists": [
+        {
+          "name": "RED\u00dcKT",
+          "url": "https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH"
+        },
+        {
+          "name": "Verdun",
+          "url": "https://open.spotify.com/artist/7diEfBXZwvjSNvkCf5Nlqf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "FAME",
+      "url": "https://open.spotify.com/track/5nV3WhVh188yQzYXgyCjBP"
     },
     {
       "album": {
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 155520,
       "name": "Party Crashers",
       "url": "https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc"

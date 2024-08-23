@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Kesha
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: GloRilla
 
 543 songs - 1 day 2 hr 11 min
 

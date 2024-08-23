@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Mattyeux
+> The best French indie tracks right now\. Cover : Emma Hoet
 
-515 songs - 1 day 4 hr 13 min
+517 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Epoch](https://open.spotify.com/track/75NobUSglm9bEYUd9pee0d) | [Quasi Qui](https://open.spotify.com/artist/6QN9eVzG8N5pKQmkZrPWCB) | [Epoch](https://open.spotify.com/album/37rih338EqfPOdjOC1AZiM) | 3:45 | 2022-05-12 | 2022-09-09 |
 | [Etoile noire](https://open.spotify.com/track/7D8lO8l8QLSKahYnuKK9ls) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:17 | 2022-06-02 | 2022-07-22 |
 | [Even Now](https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5) | [Superjava](https://open.spotify.com/artist/2oiYIcyuXbGsKC0PJUCrGp), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Even Now](https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh) | 3:00 | 2024-05-16 |  |
-| [Every Little Thing](https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Every Little Thing](https://open.spotify.com/album/3zePOpjgo3CVKu0X49DADi) | 3:11 | 2024-06-20 |  |
+| [Every Little Thing](https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Every Little Thing](https://open.spotify.com/album/3zePOpjgo3CVKu0X49DADi) | 3:11 | 2024-06-20 | 2024-08-23 |
 | [Everynight](https://open.spotify.com/track/2RZf85DlySSEutouUtotn6) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Everynight](https://open.spotify.com/album/79rUCbCs5fikaZhd1wry5a) | 3:07 | 2022-11-24 | 2023-02-03 |
 | [Exotica](https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:23 | 2024-02-01 |  |
 | [Fantasy Girl](https://open.spotify.com/track/75CoiQTM3XHWSmm4XlfM20) | [Novaé Lita](https://open.spotify.com/artist/1tZ9lQ62KmVFephCl3hfB6) | [Fantasy Girl](https://open.spotify.com/album/2PPmrh2GUeD42U42NWMO9v) | 2:06 | 2022-06-30 | 2022-10-14 |
@@ -180,6 +180,7 @@
 | [HEAR ME\. N2.23](https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HEAR ME\. N2.23](https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ) | 3:42 | 2023-04-20 | 2023-05-26 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-29 | 2023-09-29 |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
+| [Hello Hello](https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Hello Hello](https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs) | 2:36 | 2024-08-22 |  |
 | [Hello Mr Slender Man](https://open.spotify.com/track/6iI3dQJVOs6zeRbOIyjdw0) | [June The Girl](https://open.spotify.com/artist/5YAuSUk0Vn6sZBId4I9cni) | [Hello Mr Slender Man](https://open.spotify.com/album/3y8Q2pVIu3SoPWsGYGshOH) | 2:47 | 2023-06-01 | 2023-06-30 |
 | [Hey Boy](https://open.spotify.com/track/28goX2uKr53LeijjP2waQV) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Hey Boy](https://open.spotify.com/album/1KnLWdAOEeuSF4wGSdbas0) | 3:49 | 2022-06-23 | 2022-08-26 |
 | [Hey Lou](https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Camille Jansen](https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN) | [Hey Lou](https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2) | 3:40 | 2023-11-16 | 2024-02-09 |
@@ -242,6 +243,7 @@
 | [La joie](https://open.spotify.com/track/68Z6eIQNstXk0SZRfAbqM1) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB) | [La joie](https://open.spotify.com/album/4cG607PilW1BkzUSVhN4RK) | 3:18 | 2023-03-02 | 2023-03-18 |
 | [La Lumière](https://open.spotify.com/track/2f2xg4cOAo32Ig50pYytCo) | [Aprile](https://open.spotify.com/artist/7oEYc5uIsL3oSolbDkG39P), [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [La Lumière](https://open.spotify.com/album/5GDmaskm3zkYLBqqwceuPC) | 3:17 | 2022-02-24 | 2022-06-24 |
 | [La lune](https://open.spotify.com/track/69UYh1FffcoJcadeOiIpOt) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [La Lune](https://open.spotify.com/album/6bK58gR6Koh8O94W9qevFm) | 3:51 | 2022-09-29 | 2022-12-16 |
+| [La Mer](https://open.spotify.com/track/1o0iPjV4Hb1zx845PUv2vp) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [La Mer](https://open.spotify.com/album/25M1bUCa54IDjgv1Axa6ay) | 2:48 | 2024-08-22 |  |
 | [La Nuit](https://open.spotify.com/track/1R2JKsKJX85iBFxlLJedkp) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [La Nuit](https://open.spotify.com/album/2TPqVGrV24N24kMSoRVmSF) | 2:47 | 2023-01-19 | 2023-02-10 |
 | [La nuit dehors](https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [Les pieds dans l'eau](https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72) | 2:49 | 2024-03-21 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-02-01 |  |
@@ -351,7 +353,7 @@
 | [Oups \(with Anna Majidson\)](https://open.spotify.com/track/01dU9DRJrWmYUunj8Jt40P) | [Moodoïd](https://open.spotify.com/artist/3mQgXwcZz2TZgo9a5diomC), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [Oups \(with Anna Majidson\)](https://open.spotify.com/album/548fOsnovdf4bJEegsglBs) | 3:33 | 2024-02-15 | 2024-08-02 |
 | [Over You](https://open.spotify.com/track/5as4AqOmSQQpEgEabsrtHx) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Over You](https://open.spotify.com/album/0qto01Qa3E18mIUJIqtk0s) | 2:59 | 2023-02-02 | 2023-03-10 |
 | [Pacific Ave](https://open.spotify.com/track/4sUznhMUu1NCVZYuO5mVkF) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Pacific Ave](https://open.spotify.com/album/58pgoNAcylx4R5K0k2wOWI) | 3:22 | 2022-11-10 | 2022-11-18 |
-| [Palmiers rivières](https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Palmiers rivières](https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL) | 2:53 | 2023-09-14 |  |
+| [Palmiers rivières](https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Palmiers rivières](https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL) | 2:53 | 2023-09-14 | 2024-08-23 |
 | [Pampa](https://open.spotify.com/track/2JHWd0U5QENovcGYjwsE1g) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Pampa](https://open.spotify.com/album/3fhGVkv2gwWWqibMwPcDHN) | 3:22 | 2022-04-21 | 2022-09-09 |
 | [Paraiso](https://open.spotify.com/track/11kPRHkZCTgudM8Xyr1KXu) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Paraiso](https://open.spotify.com/album/3XzAkdhEehbZ38bOhHbloj) | 3:17 | 2023-03-02 | 2023-03-25 |
 | [Paris](https://open.spotify.com/track/1NqHsocjKaEmyjKhXJbIk8) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg), [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Paris](https://open.spotify.com/album/0hzxwjmrSYnUIhaQElBQMj) | 2:44 | 2022-12-22 | 2023-03-25 |

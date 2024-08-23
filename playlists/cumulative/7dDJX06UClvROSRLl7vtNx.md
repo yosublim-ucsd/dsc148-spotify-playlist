@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-524 songs - 22 hr 56 min
+525 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Me and U \- Paradise Inc\. Remix](https://open.spotify.com/track/6rGKNGuI7T0HCc8DLVN4IZ) | [Gorgon Breath](https://open.spotify.com/artist/3NNV3EiqQ63gCWXGt5jMCO), [Paradise Inc.](https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka) | [Me and You \(Paradise Inc\. Remix\)](https://open.spotify.com/album/152QiGzkmVMy6odI8JJX9x) | 2:25 | 2024-06-16 |  |
 | [Memories](https://open.spotify.com/track/38ResUOMxk05LUJgFire6b) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Polar Inc.](https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Memories](https://open.spotify.com/album/2Jo0RcYRPngwW1O4uKf0lP) | 3:18 | 2023-09-22 | 2024-04-19 |
 | [Memories](https://open.spotify.com/track/4XJTH3xjvYUmAtfMr3D0wm) | [Seasider](https://open.spotify.com/artist/3bIeHe3ftDnbJMSyorcPSz) | [Memories](https://open.spotify.com/album/0X7x42PstWExMRmZbbTKsc) | 2:25 | 2024-01-27 |  |
+| [Memory Lane](https://open.spotify.com/track/6BZwKBfBHQ5kmsyobhJh8l) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Austin Salter](https://open.spotify.com/artist/7trQxYnOTGm2z0K3ZKqw7v) | [Memory Lane](https://open.spotify.com/album/7lAkstcSSDvo7IkqjHysc2) | 2:31 | 2024-08-22 |  |
 | [Middle Of The Night](https://open.spotify.com/track/2jk1D4XSvC4L4H8dtDmX5R) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Middle Of The Night](https://open.spotify.com/album/6pOvfjmyFdhsSvJoS4VpRG) | 2:20 | 2023-09-22 | 2023-12-31 |
 | [Million Miles](https://open.spotify.com/track/3efWEdQrAdIFvvjzby1I22) | [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41), [Ruxolf](https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Million Miles](https://open.spotify.com/album/5TRcZcBW7qadS5REkoQRPO) | 1:57 | 2024-07-30 |  |
 | [Miracle](https://open.spotify.com/track/25eUoeaRmrhl82hllLHLau) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [Miracle](https://open.spotify.com/album/32YlG5aLf8UbMLCzvWRLxc) | 2:45 | 2024-02-04 | 2024-04-11 |

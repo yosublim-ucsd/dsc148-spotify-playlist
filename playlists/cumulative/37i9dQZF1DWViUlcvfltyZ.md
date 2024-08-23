@@ -2,9 +2,9 @@
 
 ### [Rock Italia](https://open.spotify.com/playlist/37i9dQZF1DWViUlcvfltyZ)
 
-> Rock, indie e punk dall'Italia, 43.Nove in cover 🎸
+> Rock, indie e punk dall'Italia 🎸 Cover: Vanarin
 
-1,039 songs - 2 day 9 hr 24 min
+1,041 songs - 2 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Hyperdrive](https://open.spotify.com/track/4uSa5FEquJTsmd9nqtQCuR) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Hyperdrive](https://open.spotify.com/album/2SMTOccVOS1DSl7DlVdiFD) | 3:14 | 2023-07-06 | 2023-09-01 |
 | [I Cinici](https://open.spotify.com/track/36YiEcKhYLgyoPTe7LBl60) | [Spaghetti Spezzati](https://open.spotify.com/artist/79Q0AAnEw23K4hWcQQDHWz) | [I Cinici](https://open.spotify.com/album/4mHc1xxHdjcppEyMetNVqS) | 2:50 | 2023-11-30 | 2023-12-15 |
 | [I Do](https://open.spotify.com/track/5ee1DcMZ4lxPyNGrMQJu6v) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [I Do](https://open.spotify.com/album/7JCeYpigHOXBYNnZEUgQdk) | 2:37 | 2024-06-27 |  |
+| [I don't know](https://open.spotify.com/track/71Smt8JFiuk8VwfaOciWUx) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [I don't know](https://open.spotify.com/album/4GYXHpqgZAvXJO56O32sBW) | 3:17 | 2024-08-22 |  |
 | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/track/4Ul88N7v8tRU2PikQXMMcC) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [I RAGAZZI COI GOMITI SUI TAVOLI](https://open.spotify.com/album/0qzgEKo84VFfA49MxdOdWY) | 3:57 | 2022-07-07 | 2022-08-26 |
 | [I wanna lie \(in bed with you\)](https://open.spotify.com/track/1mA8KzXJ0goaJZQBLW2zbw) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [I wanna lie \(in bed with you\)](https://open.spotify.com/album/3h5epN8mjwW75vU5BcIJ0f) | 2:36 | 2022-11-10 | 2022-12-24 |
 | [i wish i was here first](https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [i wish i was here first](https://open.spotify.com/album/0mBwWspqqTgpK65iwSnM0t) | 3:40 | 2023-09-29 | 2023-10-27 |
@@ -757,6 +758,7 @@
 | [Punk](https://open.spotify.com/track/69SfBtxar6Ld6Wg0dQSFkr) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Punk](https://open.spotify.com/album/6SYWYWGIBCQF0rUyjudbtc) | 2:58 | 2022-09-01 | 2023-01-13 |
 | [Punk 2003](https://open.spotify.com/track/7c68uZTnjSJx2LR932Xqsy) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [Punk 2003](https://open.spotify.com/album/7h0WkJJTuQrERrl3zT1vMm) | 2:31 | 2024-07-11 |  |
 | [Puttanate \(feat\. WISM\)](https://open.spotify.com/track/0LPUSmP3vUsmJI1lu7kQWy) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT), [WISM](https://open.spotify.com/artist/3LXTbapp18J0PmQEPPeXmO) | [Puttanate \(feat\. WISM\)](https://open.spotify.com/album/1DbgpdPsrmzZ53vwD1h269) | 2:23 | 2024-02-01 | 2024-04-12 |
+| [qualcosA di diversO](https://open.spotify.com/track/0SXiP57eFKN9gk3kHEqKdY) | [Deflow](https://open.spotify.com/artist/6IYKYTYVePsZT49sM6cVYI) | [qualcosA di diversO](https://open.spotify.com/album/2P0W3N60D5HRQIKYgIB75c) | 2:56 | 2024-08-22 |  |
 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 | 2023-06-15 | 2023-10-20 |
 | [Quando non c'è nessuno](https://open.spotify.com/track/2vcdJqLYSoL2Uhrs6DlqkN) | [Fine Before You Came](https://open.spotify.com/artist/3TZ3WMTZ0zxiQw8cKTA4wA) | [Ti canto​ / ​Quando non c'è nessuno](https://open.spotify.com/album/1SUL3JTXeNNwqJOj7uQPj4) | 5:04 | 2023-07-13 | 2023-09-22 |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |

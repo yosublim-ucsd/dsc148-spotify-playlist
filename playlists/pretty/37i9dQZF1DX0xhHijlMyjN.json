@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 344298,
+  "num_followers": 344313,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 194080,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Dragostea din tei",
+      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/43uh4QoHA259dOUkXte7dl"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Dragostea din tei",
-      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Hijas del Tomate",
-        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
-      },
-      "artists": [
-        {
-          "name": "Las Ketchup",
-          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
-      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Middle Of Nowhere",
         "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 268653,
       "name": "MMMBop",
       "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Hijas del Tomate",
+        "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
+      },
+      "artists": [
+        {
+          "name": "Las Ketchup",
+          "url": "https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "The Ketchup Song (Aserej\u00e9) - Spanglish Version",
+      "url": "https://open.spotify.com/track/6UEfyhyfhYQsyipxOd95Ie"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "The Biggest Reggae Hits",
-        "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 243695,
-      "name": "Gimme Hope Jo'anna",
-      "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 300026,
       "name": "Las cosas peque\u00f1itas - Mix",
       "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "The Biggest Reggae Hits",
+        "url": "https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 243695,
+      "name": "Gimme Hope Jo'anna",
+      "url": "https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Mucho Azucar (Grandes Exitos)",
-        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
-      },
-      "artists": [
-        {
-          "name": "Azucar Moreno",
-          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "S\u00f3lo Se Vive una Vez",
-      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Dulce Veneno",
         "url": "https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 175506,
       "name": "Eva Maria",
       "url": "https://open.spotify.com/track/5fc3XWSpJo6jTlbjnhGOJQ"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Mucho Azucar (Grandes Exitos)",
+        "url": "https://open.spotify.com/album/7xcIu7L8tCgaKYWndaS0uV"
+      },
+      "artists": [
+        {
+          "name": "Azucar Moreno",
+          "url": "https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3"
+        }
+      ],
+      "duration_ms": 210866,
+      "name": "S\u00f3lo Se Vive una Vez",
+      "url": "https://open.spotify.com/track/5dg7OfEwTVvUZfqt24ObwI"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "En Cuerpo Y Alma",
-        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
-      },
-      "artists": [
-        {
-          "name": "David Civera",
-          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Que La Detengan",
-      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "Cuentame",
         "url": "https://open.spotify.com/album/7pHfAknqhkk00kN1H5pBqs"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 143106,
       "name": "Chica Ye Ye",
       "url": "https://open.spotify.com/track/5hv3nMY3NKyDL7cSsrSYog"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "En Cuerpo Y Alma",
+        "url": "https://open.spotify.com/album/0leovhkkVh1112UiSTR2PC"
+      },
+      "artists": [
+        {
+          "name": "David Civera",
+          "url": "https://open.spotify.com/artist/2DxcVfyMWELUI4yPBxgoZF"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Que La Detengan",
+      "url": "https://open.spotify.com/track/5a76ewdxMy4WoMuDinapcl"
     },
     {
       "added_at": "2024-06-18 12:57:48",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2024-06-18 12:57:48",
       "album": {
-        "name": "Huecco",
-        "url": "https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub"
-      },
-      "artists": [
-        {
-          "name": "Huecco",
-          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
-        }
-      ],
-      "duration_ms": 260773,
-      "name": "Pa\u00b4 mi guerrera - Reprise",
-      "url": "https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK"
-    },
-    {
-      "added_at": "2024-06-18 12:57:48",
-      "album": {
         "name": "'80s Pop #1's",
         "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 179986,
       "name": "Axel F - From \"Beverly Hills Cop\" Soundtrack",
       "url": "https://open.spotify.com/track/1GVd8euqs4yQxGyIOLJX0c"
+    },
+    {
+      "added_at": "2024-06-18 12:57:48",
+      "album": {
+        "name": "Huecco",
+        "url": "https://open.spotify.com/album/0ZvyDGG1IMq6FyxJrnv2Ub"
+      },
+      "artists": [
+        {
+          "name": "Huecco",
+          "url": "https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i"
+        }
+      ],
+      "duration_ms": 260773,
+      "name": "Pa\u00b4 mi guerrera - Reprise",
+      "url": "https://open.spotify.com/track/7JO1bBzuVQ14rIR6T5D0UK"
     },
     {
       "added_at": "2024-06-18 12:57:48",

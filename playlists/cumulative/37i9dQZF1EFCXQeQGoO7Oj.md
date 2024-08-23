@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-537 songs - 1 day 8 hr 10 min
+539 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [A Beautiful Game](https://open.spotify.com/track/3j2KSKjenkrIsnoANPxV7V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Beautiful Game](https://open.spotify.com/album/2yFLu758P5VjG5ZyyHGSrp) | 3:35 | 2024-01-29 |  |
 | [A Little Bit Longer](https://open.spotify.com/track/1hD39GbLRI1pscvIPIkYwQ) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:05 | 2024-01-29 |  |
 | [A Lonely Night](https://open.spotify.com/track/4UknpXoLjlB7Mao4UWcJ2o) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 3:40 | 2024-01-29 |  |
+| [A Place Where Love Goes](https://open.spotify.com/track/0oVBkJA2wrSqrwz3eJ6c85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:43 | 2024-08-22 |  |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2024-01-29 |  |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 | 2024-01-29 | 2024-03-07 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/4AdLiROggPc0s3l1hQrpOK) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/0tGmuvT0MWtLClym0ZM5lE) | 6:25 | 2024-03-06 | 2024-04-15 |
@@ -306,9 +307,10 @@
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2024-01-29 |  |
 | [Love Me to Pieces](https://open.spotify.com/track/5TNuUY6u98d5Qj5mXNcMr9) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [Hassle](https://open.spotify.com/album/4cVT2tB5wZt3U8q88sxz9x) | 3:10 | 2024-01-29 |  |
 | [Love To Lay](https://open.spotify.com/track/1E43TJhKcM8hXgM958ROQ1) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB) | 3:43 | 2024-01-29 |  |
+| [Lucky](https://open.spotify.com/track/66l3IRPQnKQzGzrFJA6TtV) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Lucky](https://open.spotify.com/album/3eCi7wDixzfBax8EAsfPqu) | 2:40 | 2024-08-22 |  |
 | [Lucky](https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:26 | 2024-01-29 |  |
 | [Lucky](https://open.spotify.com/track/6gRBVftnnegpPjVtwt8zzf) | [Halseys](https://open.spotify.com/artist/7Ka4VCO8iJt1SLC12RfgF6) | [Lucky](https://open.spotify.com/album/6ZiAK398VZrX0IzPpgou32) | 3:33 | 2024-08-14 | 2024-08-21 |
-| [Lucky](https://open.spotify.com/track/4nOhIE6EYDb3s3QuN4PQxV) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Pop 4 Kids: Get This Party Started](https://open.spotify.com/album/5wEezHP3877dkJOOGgR1b3) | 3:26 | 2024-08-20 |  |
+| [Lucky](https://open.spotify.com/track/4nOhIE6EYDb3s3QuN4PQxV) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Pop 4 Kids: Get This Party Started](https://open.spotify.com/album/5wEezHP3877dkJOOGgR1b3) | 3:26 | 2024-08-20 | 2024-08-23 |
 | [Lust For Life](https://open.spotify.com/track/63dmjj2yFwSfofkAcV5DTQ) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/2zR2n9Pw8TqyfrhFke3no8) | 5:18 | 2024-01-29 | 2024-02-02 |
 | [Lust For Life \(with The Weeknd\)](https://open.spotify.com/track/0mt02gJ425Xjm7c3jYkOBn) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:24 | 2024-02-01 |  |
 | [Making Out](https://open.spotify.com/track/31omC3Q1Irkpa8OHEVUKFQ) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Manifest](https://open.spotify.com/album/5xZ3XLMOTu5v2A9GV7LeJP) | 3:10 | 2024-01-29 |  |

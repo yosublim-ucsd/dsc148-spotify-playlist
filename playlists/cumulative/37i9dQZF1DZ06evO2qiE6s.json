@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 160600,
       "name": "Hey Brother, Pour The Wine",
       "url": "https://open.spotify.com/track/2JI8FKfv2GVM31HS8GnS65"
@@ -2134,6 +2134,24 @@
       "duration_ms": 157706,
       "name": "Things",
       "url": "https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN"
+    },
+    {
+      "album": {
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
     },
     {
       "album": {

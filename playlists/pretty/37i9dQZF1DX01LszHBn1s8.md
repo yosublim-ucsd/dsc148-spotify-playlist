@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > 🥒🥒 sometimes you need to eat an entire cucumber 🥒🥒🥒
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,336 likes - 964 songs - 2 day 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,305 likes - 964 songs - 2 day 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

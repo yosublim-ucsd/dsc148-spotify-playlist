@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 205607,
       "name": "GOJO SATORU",
       "url": "https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 204923,
       "name": "Interpretacje",
       "url": "https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA"
@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Nic nie wida\u0107 po mnie",
+        "url": "https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117694,
+      "name": "Nic nie wida\u0107 po mnie",
+      "url": "https://open.spotify.com/track/4G1uPf5JXf7Hw2O9K77AUF"
+    },
+    {
+      "album": {
         "name": "nic(i)",
         "url": "https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4"
       },
@@ -1990,6 +2008,28 @@
       "duration_ms": 156444,
       "name": "Nie Dzwo\u0144 Do Mnie",
       "url": "https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk"
+    },
+    {
+      "album": {
+        "name": "Nie m\u00f3w",
+        "url": "https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        },
+        {
+          "name": "eryq",
+          "url": "https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Nie m\u00f3w",
+      "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
     },
     {
       "album": {
@@ -2829,6 +2869,28 @@
     },
     {
       "album": {
+        "name": "BABYGIRL",
+        "url": "https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159717,
+      "name": "SILVERMAN",
+      "url": "https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ"
+    },
+    {
+      "album": {
         "name": "Si\u0119 poznali",
         "url": "https://open.spotify.com/album/6VDSUr36e7KSLRIc2vIY2K"
       },
@@ -3118,7 +3180,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 188653,
       "name": "Trucizna",
       "url": "https://open.spotify.com/track/55PNdqSS0ud4Kc80aswVsw"

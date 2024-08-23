@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: Panda Bear &amp; Sonic Boom",
-  "num_followers": 66871,
+  "num_followers": 66893,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAP2D0K8PjRX/TDHSov6Hv933kekzZj",
+  "snapshot_id": "AAAP2YE/g74kNmq5m6KZGjatzEkeNrr1",
   "tracks": [
+    {
+      "added_at": "2024-08-22 07:54:32",
+      "album": {
+        "name": "Harmonics Remixed",
+        "url": "https://open.spotify.com/album/49NQJ0sWXgGSyZpu1zfCjm"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 307190,
+      "name": "Weave",
+      "url": "https://open.spotify.com/track/246q6QozV9l3OKfUSnKTmu"
+    },
     {
       "added_at": "2024-08-21 16:35:11",
       "album": {

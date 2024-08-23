@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 184083,
+  "num_followers": 184145,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAADAsYayEvPr5lpQLrduWaoO",
+  "snapshot_id": "ZsUuAAAAAAByTY15gd3+0CJY6sWRRr78",
   "tracks": [
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OK Human",
-        "url": "https://open.spotify.com/album/0dL9rGQxUeIqpiUndXaQLl"
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 183672,
-      "name": "Aloo Gobi",
-      "url": "https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV"
+      "duration_ms": 113173,
+      "name": "Space Rock",
+      "url": "https://open.spotify.com/track/6Ll77dvhVyzCNYb1CdDbqM"
     }
   ],
   "unique_name": "This Is Weezer",

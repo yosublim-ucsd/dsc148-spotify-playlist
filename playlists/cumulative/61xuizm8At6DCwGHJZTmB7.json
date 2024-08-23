@@ -172,24 +172,6 @@
     {
       "album": {
         "name": "Abandoned",
-        "url": "https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "date_added": "2024-01-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 304757,
-      "name": "Abandoned",
-      "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
-    },
-    {
-      "album": {
-        "name": "Abandoned",
         "url": "https://open.spotify.com/album/6AFESCtQyitd3sSg54lWzM"
       },
       "artists": [
@@ -208,6 +190,24 @@
       "duration_ms": 401920,
       "name": "Abandoned - Live",
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
+    },
+    {
+      "album": {
+        "name": "Abandoned - Original",
+        "url": "https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304757,
+      "name": "Abandoned - Original",
+      "url": "https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa"
     },
     {
       "album": {
@@ -9849,7 +9849,7 @@
     },
     {
       "album": {
-        "name": "What A Friend",
+        "name": "What a friend",
         "url": "https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G"
       },
       "artists": [
@@ -9866,7 +9866,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 251032,
-      "name": "What A Friend",
+      "name": "What a friend",
       "url": "https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from the continent to Paris. Photo : Ste Milano",
+  "description": "African dance party music from the continent to Paris. Photo : Tam Sir",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 255660,
       "name": "Ambiance Mopacho",
       "url": "https://open.spotify.com/track/2M4f4coh903vjprofqQcrW"
@@ -1262,6 +1262,28 @@
       "duration_ms": 180532,
       "name": "Dora Dance",
       "url": "https://open.spotify.com/track/7JnUwdaJ0FZWfJOCwDglWg"
+    },
+    {
+      "album": {
+        "name": "Dos de chat",
+        "url": "https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf"
+      },
+      "artists": [
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        },
+        {
+          "name": "Peroo",
+          "url": "https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199341,
+      "name": "Dos de chat",
+      "url": "https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL"
     },
     {
       "album": {
@@ -2958,7 +2980,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 171162,
       "name": "On peut relancer",
       "url": "https://open.spotify.com/track/13EDSww23FnPJVumRromVz"
@@ -3104,6 +3126,28 @@
       "duration_ms": 191146,
       "name": "Rein",
       "url": "https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo"
+    },
+    {
+      "album": {
+        "name": "Remontada",
+        "url": "https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ"
+      },
+      "artists": [
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        },
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124691,
+      "name": "Remontada",
+      "url": "https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ"
     },
     {
       "album": {

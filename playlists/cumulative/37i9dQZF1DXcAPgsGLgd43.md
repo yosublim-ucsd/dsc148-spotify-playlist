@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-300 songs - 16 hr 5 min
+301 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Claro](https://open.spotify.com/track/4KnVflzNO186OAqsc3AbLn) | [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS), [De Qualite](https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu) | [Claro](https://open.spotify.com/album/2l44I0N3YeYrsIGzPx1C5Q) | 2:38 | 2024-01-26 | 2024-06-01 |
 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 | 2021-10-29 | 2023-03-26 |
 | [Con Calma](https://open.spotify.com/track/0EGOgEqaiBjTWIu38eoXuH) | [IILO](https://open.spotify.com/artist/3b9lTEUWpg0CqrtDF8leUi) | [Con Calma](https://open.spotify.com/album/5NDtnpK44qAfjzjapkDJML) | 2:30 | 2024-06-21 |  |
+| [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 | 2024-08-16 |  |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-10-08 | 2023-11-11 |
 | [Copacabana](https://open.spotify.com/track/1Z11FDEfDhpGnDSmeASq1J) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady) | [Copacabana](https://open.spotify.com/album/5hFScv2YAaIOFBBk035cUt) | 2:54 | 2021-10-08 | 2023-11-11 |
 | [Coquetilla](https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn) | [Blue Man](https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI) | [Coquetilla](https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc) | 2:09 | 2024-04-19 | 2024-05-22 |
@@ -102,7 +103,7 @@
 | [Dinga](https://open.spotify.com/track/64FRBEzBmSI12EyFY72J02) | [Bezh](https://open.spotify.com/artist/3bUaHi6OSggmW7F34yl3qH) | [Dinga](https://open.spotify.com/album/58Fy2a3VQzlkh9UksCzMuF) | 2:42 | 2024-01-26 | 2024-04-27 |
 | [Dirty Spanish](https://open.spotify.com/track/102vO4p4OoHWe7JO2OAzQw) | [Sam Blans](https://open.spotify.com/artist/3aqsqogSTXrUJdcnFySUMi) | [Dirty Spanish](https://open.spotify.com/album/3H8M3pxnpGqjf1faPwowEf) | 4:34 | 2021-10-08 | 2023-11-11 |
 | [Donde Estas](https://open.spotify.com/track/6BCUs1SfUG1dux6mjfa9sR) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Donde Estas](https://open.spotify.com/album/2eRzekgJ38vmpDBaBMUf1F) | 2:52 | 2024-03-01 | 2024-05-21 |
-| [Dura](https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ) | [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4) | [Dura](https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH) | 2:43 | 2024-08-09 |  |
+| [Dura](https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ) | [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4) | [Dura](https://open.spotify.com/album/3klHO9WJ2eOkp6j2SfMrxH) | 2:43 | 2024-08-09 | 2024-08-23 |
 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 | 2023-11-10 | 2024-04-19 |
 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 | 2021-10-15 | 2023-11-11 |
 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 | 2024-03-01 |  |

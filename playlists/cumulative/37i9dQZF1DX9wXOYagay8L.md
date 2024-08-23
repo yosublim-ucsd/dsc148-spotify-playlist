@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees?si=34plTCgTR6avOxEQS0Swuw">Mthandazo Gatya</a>
+> Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN?si=tcSFAQLCTXOorBz5W772AQ">Naledi Aphiwe</a>
 
 591 songs - 1 day 18 hr 20 min
 

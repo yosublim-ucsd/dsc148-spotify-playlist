@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 225632,
       "name": "Happier - Recorded At Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 260368,
       "name": "Strawberry Wine - Spotify Singles",
       "url": "https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2"
@@ -6809,7 +6809,7 @@
     },
     {
       "album": {
-        "name": "Time After Time (Spotify Singles)",
+        "name": "Time After Time - Spotify Singles",
         "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
       },
       "artists": [

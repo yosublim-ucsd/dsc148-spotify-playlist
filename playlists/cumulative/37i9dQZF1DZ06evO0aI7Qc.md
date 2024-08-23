@@ -2,7 +2,7 @@
 
 ### [This Is Luis R Conriquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc)
 
-> This Is Luis R Conriquez\. Los temas esenciales, todos en una lista.
+> This Is Luis R Conriquez\. Sus mejores éxitos, todos en una playlist.
 
 164 songs - 8 hr 11 min
 

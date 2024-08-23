@@ -4,12 +4,12 @@
 
 > The best new Irish alternative sounds\. Cover: Gurriers
 
-85 songs - 5 hr 3 min
+86 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2000SEVEN](https://open.spotify.com/track/7fxGuWIxbIE2jt2Vo3AEGy) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [2000SEVEN](https://open.spotify.com/album/2hwa7JPhA6ZFPBKuLKIHD1) | 2:41 | 2024-07-12 |  |
-| [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 |  |
+| [a dream like that](https://open.spotify.com/track/7CXkR6SjtTDLTPwBXDUTo6) | [p o n d 20mg](https://open.spotify.com/artist/6UTy96luHrnKamHNrE6Ecz) | [a dream like that](https://open.spotify.com/album/6kALorGtrDcXAh09rHCFzk) | 1:41 | 2024-06-20 | 2024-08-23 |
 | [All The Days](https://open.spotify.com/track/63gKAsclXoMLXxG9rpqrfJ) | [The Devlins](https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv) | [All The Days](https://open.spotify.com/album/6eSA88rpIIc3P3hPDg7As1) | 4:34 | 2024-07-18 |  |
 | [all the sins I've forgotten](https://open.spotify.com/track/2I6JqYGttvjS6gOGC4xStN) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [all the sins I've forgotten](https://open.spotify.com/album/03pJIzukwnpneipgkqQizx) | 5:36 | 2024-06-20 |  |
 | [Angel](https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:19 | 2024-06-20 |  |
@@ -85,6 +85,7 @@
 | [The Pressures of the Heart](https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [The Pressures of the Heart](https://open.spotify.com/album/2jd3oX3uh1wbhpGvPOfsFe) | 2:54 | 2024-07-04 |  |
 | [The Ridiculousness Of Everything](https://open.spotify.com/track/40NZRbfShwYGFsrd59sFBN) | [Strangers with Guns](https://open.spotify.com/artist/1xeBRN8R2Y9VytLrJRH86c) | [The Ridiculousness Of Everything](https://open.spotify.com/album/3AfG0QxWrPgYCikqUatu3L) | 4:21 | 2024-07-04 |  |
 | [Thirteen](https://open.spotify.com/track/41ejsO9y8hXJpbB4BAb4ig) | [Nerves](https://open.spotify.com/artist/4oZHD9a5Wf8vZWHTrPWKdO) | [Thirteen](https://open.spotify.com/album/7scrH9IVRpVjSDKwsSSM2J) | 4:35 | 2024-06-20 |  |
+| [Toothache](https://open.spotify.com/track/6NL2m0b4hTAbgVeJo5vXHt) | [Forty Foot](https://open.spotify.com/artist/3ReEVKIj52H4BL23YrjPNd) | [Toothache](https://open.spotify.com/album/62EBdPkVWmpelg2e0FtjYd) | 3:48 | 2024-08-22 |  |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-06-20 |  |
 | [Twist and Turn](https://open.spotify.com/track/7F8SxhlfzFP16sn1UuTXHZ) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Twist and Turn](https://open.spotify.com/album/6zZbKGTLAW78P3GNpJMHCM) | 3:14 | 2024-06-20 |  |
 | [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2024-08-15 |  |

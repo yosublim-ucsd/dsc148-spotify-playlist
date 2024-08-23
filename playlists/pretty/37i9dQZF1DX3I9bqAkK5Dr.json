@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!! Cover : Jammers",
-  "num_followers": 33262,
+  "num_followers": 33267,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsLPJQAAAAAxkAPukeaZKDo6eymxbsGi",
+  "snapshot_id": "Zscn+wAAAACGm9cefoAiZHIbOtuOU7df",
   "tracks": [
     {
       "added_at": "2024-07-19 14:43:57",
@@ -127,6 +127,26 @@
       "duration_ms": 196500,
       "name": "Macha Vachey Ra - Vibe Anthem",
       "url": "https://open.spotify.com/track/5hxdnqbT4AavtOD6SSQhlV"
+    },
+    {
+      "added_at": "2024-08-22 11:58:51",
+      "album": {
+        "name": "Kadale Kadhile - From \"The Slam Book Stories\"",
+        "url": "https://open.spotify.com/album/007SdIRuq2BTVRp8i7GUB8"
+      },
+      "artists": [
+        {
+          "name": "Arun Kaundinya",
+          "url": "https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4"
+        },
+        {
+          "name": "Praveen",
+          "url": "https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Kadale Kadhile - From \"The Slam Book Stories\"",
+      "url": "https://open.spotify.com/track/0eblrJGz2Suo4NpIDJuzVd"
     },
     {
       "added_at": "2024-08-02 16:52:03",

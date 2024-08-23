@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
-  "num_followers": 13492,
+  "num_followers": 13497,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 142500,
       "name": "M\u00c1SHOGY F\u00daJ",
       "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "K\u00e9s\u0151 Van",
+        "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
+      },
+      "artists": [
+        {
+          "name": "Moriones",
+          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "K\u00e9s\u0151 Van",
+      "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/0xuiWphJRKgRJgeQmaKMgV"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 229480,
       "name": "Hex",
       "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "K\u00e9s\u0151 Van",
-        "url": "https://open.spotify.com/album/3dB5Hd0zSS1uQGjLxD24PP"
-      },
-      "artists": [
-        {
-          "name": "Moriones",
-          "url": "https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "K\u00e9s\u0151 Van",
-      "url": "https://open.spotify.com/track/5Tshn50cxPx4Zxw43yJ4PI"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Huszonegy",
-        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 170719,
-      "name": "Huszonegy",
-      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "RENDEZ\u0150I V\u00c1LTOZAT",
         "url": "https://open.spotify.com/album/09nwiPw91kp2jklQHXd5YY"
       },
@@ -963,18 +947,34 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Elment\u00e9l",
-        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
+        "name": "Huszonegy",
+        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
       },
       "artists": [
         {
-          "name": "Z\u00d3RA",
-          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 284368,
-      "name": "Elment\u00e9l",
-      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+      "duration_ms": 170719,
+      "name": "Huszonegy",
+      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "N\u00e9gyes-Hatos",
+        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
+      },
+      "artists": [
+        {
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+        }
+      ],
+      "duration_ms": 162099,
+      "name": "N\u00e9gyes-Hatos",
+      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "N\u00e9gyes-Hatos",
-        "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
+        "name": "Elment\u00e9l",
+        "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
       "artists": [
         {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+          "name": "Z\u00d3RA",
+          "url": "https://open.spotify.com/artist/5XRDlWq75VpsIeumX64ZDW"
         }
       ],
-      "duration_ms": 162099,
-      "name": "N\u00e9gyes-Hatos",
-      "url": "https://open.spotify.com/track/53f8mvFLHGOny8RyF8qkrX"
+      "duration_ms": 284368,
+      "name": "Elment\u00e9l",
+      "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "vir\u00e1gb\u00f3l",
+        "url": "https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu"
+      },
+      "artists": [
+        {
+          "name": "MARGE",
+          "url": "https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "vir\u00e1gb\u00f3l",
+      "url": "https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Megbolond\u00edtott\u00e1l",
         "url": "https://open.spotify.com/album/0GcH92lOVlvEemDDetvKxX"
       },
@@ -1087,6 +1087,22 @@
       "duration_ms": 198665,
       "name": "Megbolond\u00edtott\u00e1l",
       "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
-        "url": "https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W"
-      },
-      "artists": [
-        {
-          "name": "H\u0171v\u00f6s",
-          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
-        }
-      ],
-      "duration_ms": 215052,
-      "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
-      "url": "https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Cloudy Skies",
         "url": "https://open.spotify.com/album/2eBvVJk659UlbB4q9V3VPc"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 253171,
       "name": "Cloudy Skies",
       "url": "https://open.spotify.com/track/3GMMKNxWhrotyUCgH9oTgU"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
+        "url": "https://open.spotify.com/album/4rGgQ1ls5uTQkPw378BK3W"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 215052,
+      "name": "H\u00c1TS\u00d3\u00dcL\u00c9S",
+      "url": "https://open.spotify.com/track/1XlaUIqhhlQEawbmXRBwoH"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "TIK-TAK",
-        "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 309252,
-      "name": "TIK-TAK",
-      "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Ellensz\u00e9lben",
         "url": "https://open.spotify.com/album/4By8kRZG7dHeKY4CBKbU7y"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 173750,
       "name": "Fekete p\u00f3l\u00f3",
       "url": "https://open.spotify.com/track/1uI3hvdmVeRXOe5XEuwn3E"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "TIK-TAK",
+        "url": "https://open.spotify.com/album/0zKlCumrFYMC5lLVL42hRP"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 309252,
+      "name": "TIK-TAK",
+      "url": "https://open.spotify.com/track/4QsWsbAEdYMsT8Z0JlTRVK"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1331,18 +1347,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "vir\u00e1gb\u00f3l",
-        "url": "https://open.spotify.com/album/4UPdTbyA3t4kVMRjswZQfu"
+        "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
       },
       "artists": [
         {
-          "name": "MARGE",
-          "url": "https://open.spotify.com/artist/4C8EXdS7TXGlWixQydk9RW"
+          "name": "majordorci",
+          "url": "https://open.spotify.com/artist/4TMWjR2nMN8YJwwGa1pmOJ"
+        },
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
         }
       ],
-      "duration_ms": 173680,
-      "name": "vir\u00e1gb\u00f3l",
-      "url": "https://open.spotify.com/track/44FjOOWwLHhMcVeyqPrcbr"
+      "duration_ms": 156000,
+      "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1363,26 +1383,6 @@
       "duration_ms": 152080,
       "name": "J\u00f6v\u0151 ny\u00e1ron",
       "url": "https://open.spotify.com/track/7CTnQCxHEQetArx4SPc4nT"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
-        "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
-      },
-      "artists": [
-        {
-          "name": "majordorci",
-          "url": "https://open.spotify.com/artist/4TMWjR2nMN8YJwwGa1pmOJ"
-        },
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
-      "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
     },
     {
       "added_at": "2024-08-15 22:00:00",

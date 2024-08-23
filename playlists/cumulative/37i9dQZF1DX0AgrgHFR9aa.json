@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 342524,
       "name": "Freestyle 5min #13",
       "url": "https://open.spotify.com/track/3SCpDGmAibiM5U09lNefUJ"
@@ -880,6 +880,24 @@
       "duration_ms": 177021,
       "name": "Une fois ou deux",
       "url": "https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd"
+    },
+    {
+      "album": {
+        "name": "\u00c0 MA PLACE",
+        "url": "https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5"
+      },
+      "artists": [
+        {
+          "name": "Deemax",
+          "url": "https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "UNIVERS SONS",
+      "url": "https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV"
     },
     {
       "album": {

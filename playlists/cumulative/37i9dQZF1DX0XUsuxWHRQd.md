@@ -4,7 +4,7 @@
 
 > New music from Gucci Mane, YG and Drake.
 
-2,124 songs - 4 day 14 hr 11 min
+2,125 songs - 4 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [GOODMORNINGTOKYO!](https://open.spotify.com/track/3yIfEnGku3jurcgBVO6dOF) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [MDNGHT \(SIDE B\)](https://open.spotify.com/album/3OAaWdWcSUFrCJVV2nwcC8) | 2:30 | 2020-01-24 | 2020-04-16 |
 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 | 2022-02-11 | 2022-04-09 |
 | [Got It On Me](https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:44 | 2020-07-29 | 2020-11-13 |
+| [Got Your Money \(feat\. Kelis\)](https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Nigga Please](https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz) | 3:59 | 2024-08-22 |  |
 | [Government Official](https://open.spotify.com/track/2QEnZJ8FwpBoyLKcFcgceT) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SAVE ME](https://open.spotify.com/album/65hRa80KDworqyE8242rLN) | 2:30 | 2019-06-07 | 2019-08-13 |
 | [GP4](https://open.spotify.com/track/1OmmCrliFMIWzNke437KHE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [No Pressure](https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8) | 4:34 | 2020-07-24 | 2020-07-31 |
 | [GRAMMY PARTY](https://open.spotify.com/track/3P7IwlmZ5HMZb9L2NIlJUR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GRAMMY PARTY](https://open.spotify.com/album/5aQudJscNXXYyKj8VQorfi) | 1:50 | 2024-03-01 | 2024-03-16 |

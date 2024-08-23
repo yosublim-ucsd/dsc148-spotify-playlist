@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 350068,
+  "num_followers": 350039,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+        "name": "Sabbath",
+        "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
       },
       "artists": [
         {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        },
+        {
+          "name": "Watobi",
+          "url": "https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj"
         }
       ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
+      "duration_ms": 212133,
+      "name": "Sabbath",
+      "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -275,22 +279,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Sabbath",
-        "url": "https://open.spotify.com/album/5r6SrB9T6WNULWdkc1U516"
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
       },
       "artists": [
         {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        },
-        {
-          "name": "Watobi",
-          "url": "https://open.spotify.com/artist/4STK5DXKwQn86PfOUZYAQj"
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
         }
       ],
-      "duration_ms": 212133,
-      "name": "Sabbath",
-      "url": "https://open.spotify.com/track/2ly8Ew4ToTagJhwprIenZp"
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -535,34 +535,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Surrendered",
-        "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        },
-        {
-          "name": "Roosevelt Stewart",
-          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
-        }
-      ],
-      "duration_ms": 559206,
-      "name": "Surrendered",
-      "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Mental Help",
         "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
       },
@@ -615,6 +587,34 @@
       "duration_ms": 247000,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Surrendered",
+        "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "duration_ms": 559206,
+      "name": "Surrendered",
+      "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -707,6 +707,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Lord I Need You",
+        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
+      },
+      "artists": [
+        {
+          "name": "The War Within",
+          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Lord I Need You",
+      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Gospel is Rest",
         "url": "https://open.spotify.com/album/1RhdDdWVI5VF1vFuAbqs2Q"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 280120,
       "name": "The Gospel is Rest",
       "url": "https://open.spotify.com/track/4s6Dhz3qSe4ziHCVQ0UvtA"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Lord I Need You",
-        "url": "https://open.spotify.com/album/77mEymfxxxjH6oWSQyYHkv"
-      },
-      "artists": [
-        {
-          "name": "The War Within",
-          "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Lord I Need You",
-      "url": "https://open.spotify.com/track/7hvQqahYALb8wX0kCF4aAB"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 378379,
+      "name": "Providence",
+      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "The Lord's Prayer",
         "url": "https://open.spotify.com/album/0k4Mkgx0J2qp0d4rupd2MM"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 282000,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 378379,
-      "name": "Providence",
-      "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Known, Seen, Loved (LIVE from the Quarry)",
-        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 187264,
-      "name": "Known, Seen, Loved (LIVE from the Quarry)",
-      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Known, Seen, Loved (LIVE from the Quarry)",
+        "url": "https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 187264,
+      "name": "Known, Seen, Loved (LIVE from the Quarry)",
+      "url": "https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "The Joy of Being Together (Live)",
+        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Altogether Good - Live",
+      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "All That's Within Me",
         "url": "https://open.spotify.com/album/0G540OblZR8UExYceYVkJr"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "The Joy of Being Together (Live)",
-        "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
+        "name": "JUBILATION",
+        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
       },
       "artists": [
         {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+          "name": "David & Nicole Binion",
+          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
         }
       ],
-      "duration_ms": 309360,
-      "name": "Altogether Good - Live",
-      "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
+      "duration_ms": 410365,
+      "name": "Eden Restored - Live",
+      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1287,22 +1303,6 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "JUBILATION",
-        "url": "https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv"
-      },
-      "artists": [
-        {
-          "name": "David & Nicole Binion",
-          "url": "https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV"
-        }
-      ],
-      "duration_ms": 410365,
-      "name": "Eden Restored - Live",
-      "url": "https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
-      },
-      "artists": [
-        {
-          "name": "Kali Joy",
-          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
-        }
-      ],
-      "duration_ms": 182070,
-      "name": "There Will Be A Light Again",
-      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Enough For Me",
         "url": "https://open.spotify.com/album/09R33s9sO2JtCXMtlynPRg"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 196221,
       "name": "Enough For Me",
       "url": "https://open.spotify.com/track/4mAjvXpzW7mVwakpDWgukZ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
+      },
+      "artists": [
+        {
+          "name": "Kali Joy",
+          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
+        }
+      ],
+      "duration_ms": 182070,
+      "name": "There Will Be A Light Again",
+      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Say It to Me",
-        "url": "https://open.spotify.com/album/3L3ZunAuiUarewm4DaXpov"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Say It to Me",
-      "url": "https://open.spotify.com/track/2IOUikbbBG14PykQuM2iKy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 205333,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Say It to Me",
+        "url": "https://open.spotify.com/album/3L3ZunAuiUarewm4DaXpov"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Say It to Me",
+      "url": "https://open.spotify.com/track/2IOUikbbBG14PykQuM2iKy"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Abide with Me",
+        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
+      },
+      "artists": [
+        {
+          "name": "Nathan Pacheco",
+          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "duration_ms": 260894,
+      "name": "Be Still, My Soul",
+      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 193148,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Abide with Me",
-        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
-      },
-      "artists": [
-        {
-          "name": "Nathan Pacheco",
-          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
-        },
-        {
-          "name": "Simply Three",
-          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
-        }
-      ],
-      "duration_ms": 260894,
-      "name": "Be Still, My Soul",
-      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 130927,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Almighty",
         "url": "https://open.spotify.com/album/7C6GwCfNBIhV8QGN4NSKlA"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 213909,
       "name": "Almighty",
       "url": "https://open.spotify.com/track/7K5DgWyMTMHBFJKH43fh5u"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 130927,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
     }
   ],
   "unique_name": "Be Still",

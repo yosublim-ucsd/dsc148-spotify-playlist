@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Melike \u015eahin",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Merve \u00d6zbey",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 157894,
       "name": "Bedel",
       "url": "https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 261180,
       "name": "Boyu Boyuma",
       "url": "https://open.spotify.com/track/0owHwyDemA8KS2Odvtgomf"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 250865,
       "name": "Denizler Derya",
       "url": "https://open.spotify.com/track/0QfeYJR33agZbEk1IKaaKk"
@@ -644,6 +644,28 @@
       "duration_ms": 228693,
       "name": "Hayat Oyunu",
       "url": "https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE"
+    },
+    {
+      "album": {
+        "name": "Ho\u015funa Gidiyo",
+        "url": "https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm"
+      },
+      "artists": [
+        {
+          "name": "Aleyna Tilki",
+          "url": "https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn"
+        },
+        {
+          "name": "Zeki Arkun",
+          "url": "https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151888,
+      "name": "Ho\u015funa Gidiyo",
+      "url": "https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE"
     },
     {
       "album": {
@@ -1329,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Yarem",
+        "url": "https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131470,
+      "name": "Yarem",
+      "url": "https://open.spotify.com/track/2sBp2g6P6VCG19hzu56IOg"
+    },
+    {
+      "album": {
         "name": "Yar\u0131 Deli",
         "url": "https://open.spotify.com/album/5N48APJMjm14PAbNWGphDH"
       },
@@ -1380,6 +1424,24 @@
       "duration_ms": 217411,
       "name": "Yaz\u0131k",
       "url": "https://open.spotify.com/track/1GjtJVlRPkOReKbEGv8yqM"
+    },
+    {
+      "album": {
+        "name": "Yeri Var",
+        "url": "https://open.spotify.com/album/7kjGGFkcA7HlORL45H4s7H"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153613,
+      "name": "Yeri Var",
+      "url": "https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5"
     },
     {
       "album": {
@@ -1466,10 +1528,28 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 159677,
       "name": "Zombi",
       "url": "https://open.spotify.com/track/4mUgiufbW5HSZ24RK1yDPr"
+    },
+    {
+      "album": {
+        "name": "Z\u00fcmr\u00fcd\u00fcankam",
+        "url": "https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN"
+      },
+      "artists": [
+        {
+          "name": "Merve \u00d6zbey",
+          "url": "https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203625,
+      "name": "Z\u00fcmr\u00fcd\u00fcankam",
+      "url": "https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr"
     },
     {
       "album": {

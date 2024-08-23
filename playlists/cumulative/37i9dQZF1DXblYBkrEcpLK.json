@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "LOVE 2000",
+        "url": "https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI"
+      },
+      "artists": [
+        {
+          "name": "\u516b\u5948\u898b\u674f\u83dc\uff08CV: \u9060\u91ce\u3072\u304b\u308b\uff09",
+          "url": "https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263546,
+      "name": "LOVE 2000",
+      "url": "https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf"
+    },
+    {
+      "album": {
         "name": "Cipher",
         "url": "https://open.spotify.com/album/6iRdVAMzvCIlTOU3VghPpo"
       },
@@ -6772,7 +6790,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 250726,
       "name": "YES\u3068NO\u306e\u9593\u306b",
       "url": "https://open.spotify.com/track/39RrY70qJFGRvOK51z5Mbw"
@@ -9108,7 +9126,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 231306,
       "name": "\u30bd\u30e9\u30a4\u30ed(Acoustic ver.)",
       "url": "https://open.spotify.com/track/6s0BQkZQ2ls1jxwsfGwpSH"
@@ -9494,7 +9512,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 212193,
       "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4",
       "url": "https://open.spotify.com/track/1663gb8VtFxxRsgBz5jaN7"
@@ -10782,7 +10800,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 269031,
       "name": "\u5916\u9053\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC"
@@ -11002,6 +11020,24 @@
       "duration_ms": 237990,
       "name": "\u5b66\u7d1a\u65e5\u8a8c",
       "url": "https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14"
+    },
+    {
+      "album": {
+        "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f\uff08TV\u30a2\u30cb\u30e1\u300c\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\uff09",
+        "url": "https://open.spotify.com/album/75LnYLuzdcOTX9D1Dc3IBe"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30fc\u30ea\u30e3\uff08CV\uff1a\u4e0a\u5742\u3059\u307f\u308c\uff09",
+          "url": "https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249411,
+      "name": "\u5c0f\u3055\u306a\u604b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/6vEekhc7FuNGGjX4Kvl6AV"
     },
     {
       "album": {
@@ -11392,6 +11428,32 @@
       "duration_ms": 224637,
       "name": "\u611b\u6545",
       "url": "https://open.spotify.com/track/5tVHc3sHss7o3gwBiMo24D"
+    },
+    {
+      "album": {
+        "name": "\u61a7\u308c\u3092\u3044\u3063\u3071\u3044",
+        "url": "https://open.spotify.com/album/4bfFfcHJsG1ZQ35hzbVT9a"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "\u9ad8\u6728\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0MOmJmB3YdUmRsAG2bwjh2"
+        },
+        {
+          "name": "\u5009\u672c\u5343\u5948",
+          "url": "https://open.spotify.com/artist/5ziidtfez7ZP5x9nU7Ytsv"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288363,
+      "name": "\u61a7\u308c\u3092\u3044\u3063\u3071\u3044",
+      "url": "https://open.spotify.com/track/2isCWO5dMBDzyLscHVoJIO"
     },
     {
       "album": {
@@ -12682,7 +12744,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 189816,
       "name": "\u8ab0\u306b\u3082\u306a\u308c\u306a\u3044\u79c1\u3060\u304b\u3089",
       "url": "https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K"

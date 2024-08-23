@@ -22717,6 +22717,24 @@
     },
     {
       "album": {
+        "name": "Jesus saves",
+        "url": "https://open.spotify.com/album/6Z2UQINPsuIYt5AN4NFnON"
+      },
+      "artists": [
+        {
+          "name": "Jack Boyd",
+          "url": "https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168164,
+      "name": "Jesus saves",
+      "url": "https://open.spotify.com/track/6ZnX8sdBFA2ChADO8XGiie"
+    },
+    {
+      "album": {
         "name": "Vicarious Life",
         "url": "https://open.spotify.com/album/5ZYZtfRmoAQEczQPxnZTLr"
       },

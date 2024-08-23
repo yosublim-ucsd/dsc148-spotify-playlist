@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 183672,
       "name": "Aloo Gobi",
       "url": "https://open.spotify.com/track/6rSJz9u8Y9xixsh5fKu9hV"
@@ -856,6 +856,24 @@
       "duration_ms": 158666,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3dYi32XQ9mVplNKDcWp59K"
+    },
+    {
+      "album": {
+        "name": "Maladroit",
+        "url": "https://open.spotify.com/album/274YHaMmctXWht39Olh8ub"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113173,
+      "name": "Space Rock",
+      "url": "https://open.spotify.com/track/6Ll77dvhVyzCNYb1CdDbqM"
     },
     {
       "album": {

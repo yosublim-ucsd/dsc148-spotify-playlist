@@ -1525,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "F.U.N.",
+        "url": "https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "Since 92",
+      "url": "https://open.spotify.com/track/4oPikxqsNEjb62N7X8GarH"
+    },
+    {
+      "album": {
         "name": "Something Crazy (feat. Sebastian Mikael) - Single",
         "url": "https://open.spotify.com/album/0zeYjjYj9nC9joyfXdGjtn"
       },

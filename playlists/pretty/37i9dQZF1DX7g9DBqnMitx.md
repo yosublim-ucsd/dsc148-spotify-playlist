@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,986 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,999 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 13 | [Bohemian Rhapsody \- 2011 Remaster](https://open.spotify.com/track/6AWe04n4zsYkGKb3Pf7LMk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/3BHe7LbW5yRjyqXNJ3A6mW) | 5:54 |
 | 14 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 15 | [Le tourbillon](https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4) | [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Le tourbillon de ma vie \(Best Of 2017\)](https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP) | 2:06 |
-| 16 | [It's Only Mystery](https://open.spotify.com/track/63ateUylxJ1MdQMl9tDjid) | [Éric Serra](https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA), [Arthur Simms](https://open.spotify.com/artist/1lslIiVrivMCgmGSDMwcSE) | [Subway \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ANBL8v09CCeAvEgZSarT3) | 4:35 |
+| 16 | [It's Only Mystery](https://open.spotify.com/track/63ateUylxJ1MdQMl9tDjid) | [Éric Serra](https://open.spotify.com/artist/1DptMAbvFajxK4ZObg1OdA), [Arthur Simms](https://open.spotify.com/artist/1lslIiVrivMCgmGSDMwcSE) | [Subway \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4ANBL8v09CCeAvEgZSarT3) | 4:35 |
 | 17 | [Back To The Future \- From "Back To The Future" Original Score/End Credits](https://open.spotify.com/track/1QV4g4uyxy8Xdl7tk0dnDv) | [The Outatime Orchestra](https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw) | [Back To The Future \(Original Motion Picture Soundtrack / Expanded Edition\)](https://open.spotify.com/album/0ljBxAkQyTKVXudfE34wAL) | 3:15 |
 | 18 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \- 2016](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
 | 19 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 |

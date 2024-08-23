@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: CARSTEN2X
 
-2,152 songs - 4 day 18 hr 35 min
+2,153 songs - 4 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [High](https://open.spotify.com/track/2oDfIeO4T7sGR4j4hoEEGi) | [Odqin](https://open.spotify.com/artist/29YXqm6q3w4BWkDU1WlKpo), [Hazel Sapphire](https://open.spotify.com/artist/5YpoRs9PHsQbgIHq3WpCVD) | [High](https://open.spotify.com/album/7AGhUqMUE4SOQVgKZCIOIP) | 3:08 | 2024-03-27 | 2024-05-01 |
 | [High Grade](https://open.spotify.com/track/7gvDmoQKcBIlGapp1d6NRS) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [High Grade](https://open.spotify.com/album/0OdDHxWOeBpWkTIHXS07GC) | 2:23 | 2023-06-13 | 2023-07-12 |
 | [High Hopes](https://open.spotify.com/track/4buJMGjqbqO75pH4AfeKtR) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [High Hopes](https://open.spotify.com/album/7C6xyp6Mzs9mqPVCNzZkwE) | 2:46 | 2024-07-23 | 2024-08-21 |
+| [High On The Feeling](https://open.spotify.com/track/3vopPldUUUyNi5IQfRDpKn) | [spacemen](https://open.spotify.com/artist/60eqHxLI09mvAxjDv8Uq51) | [High On The Feeling](https://open.spotify.com/album/0uQ2eN5u1iVpW9hM8F8pDQ) | 2:37 | 2024-08-22 |  |
 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-08-06 |  |
 | [Hillside](https://open.spotify.com/track/68rWygkFlerJQdU3UwMcUV) | [Ana Barrena](https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm), [SpaceFLP](https://open.spotify.com/artist/2xfZJW8GvJL76CCH8EC9bV) | [Hillside](https://open.spotify.com/album/2VMmw0nuemlk2ouO9Z5zST) | 4:03 | 2024-08-13 |  |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-12 | 2022-10-20 |
@@ -2001,7 +2002,7 @@
 | [Uh\-Oh](https://open.spotify.com/track/2sWXTUbyrQY3HXyjEAdJQr) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Uh\-Oh](https://open.spotify.com/album/2gzW0kwhiu6VCHToVRIJ39) | 3:25 | 2023-01-11 | 2023-03-08 |
 | [UMBRELLA](https://open.spotify.com/track/4HFeZ1Orw0pm3A25JjaDLr) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud) | [UMBRELLA](https://open.spotify.com/album/6ZoWQMynomp38sseTQukzQ) | 2:29 | 2024-06-04 | 2024-07-10 |
 | [unaware](https://open.spotify.com/track/3N3VxHdS3mmN4Ygapw3X2L) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [unaware](https://open.spotify.com/album/0qx33py4jzQ4nQ1u7dF0k9) | 3:14 | 2023-06-27 | 2023-07-26 |
-| [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2024-08-20 |  |
+| [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 | 2024-08-20 | 2024-08-23 |
 | [Uncut Gems](https://open.spotify.com/track/6wfXFEikmlL1e7VJpOtwhu) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [Fynch](https://open.spotify.com/artist/0IKMnBuBLJuHcrTejKmrtx) | [Uncut Gems](https://open.spotify.com/album/1bdbYgjDWdQx23SW3b5ARY) | 2:57 | 2023-09-05 | 2023-10-11 |
 | [Under Attack](https://open.spotify.com/track/6Qu4DpEUy1iHsyc0HSzTWS) | [Clifton 2.5](https://open.spotify.com/artist/6m1tsPh6bZsqS5BTP8Tzu8) | [Under Attack](https://open.spotify.com/album/5d3XVcoNvAyJau39PvZpjq) | 3:01 | 2023-03-01 | 2023-05-04 |
 | [Under the Sun](https://open.spotify.com/track/1VwBuNCYP2CoEteOoZ1190) | [about\-faces](https://open.spotify.com/artist/7qremW2LDEd5VxTpld79LN) | [Under the Sun](https://open.spotify.com/album/4wnotSLZaFavqnabTZkTrC) | 2:51 | 2023-07-11 | 2023-08-23 |

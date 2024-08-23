@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-136 songs - 6 hr 1 min
+137 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Guys And Dolls](https://open.spotify.com/track/2LYubpBnsnWwbscmQC0JuV) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Reprise Rarities \(Vol\. 5\)](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 2:49 | 2024-04-26 | 2024-07-16 |
 | [Heaven Can Wait \- Remastered/1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 | 2023-12-31 |  |
 | [Hey Brother, Pour The Wine](https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:37 | 2024-01-11 | 2024-07-16 |
-| [Hey Brother, Pour The Wine](https://open.spotify.com/track/2JI8FKfv2GVM31HS8GnS65) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 2:40 | 2024-08-16 |  |
+| [Hey Brother, Pour The Wine](https://open.spotify.com/track/2JI8FKfv2GVM31HS8GnS65) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 2:40 | 2024-08-16 | 2024-08-23 |
 | [Hit The Road To Dreamland](https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:51 | 2024-03-20 | 2024-07-23 |
 | [Honey](https://open.spotify.com/track/543fSXt0RwlcmsL8cIKkq4) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Gentle On My Mind](https://open.spotify.com/album/2ZH9Gg5RXVIRCFsVGh3RR4) | 3:59 | 2023-12-26 | 2024-02-02 |
 | [Houston](https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:41 | 2024-01-02 | 2024-07-21 |
@@ -124,6 +124,7 @@
 | [There's My Lover](https://open.spotify.com/track/0cC2WGbgZvIxhVCIrxbfO0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:01 | 2024-04-14 | 2024-07-01 |
 | [There's No Tomorrow \- Remastered 1998](https://open.spotify.com/track/5W3LUZBuSAMS0jnVaPsiaA) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Italian Love Songs](https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10) | 2:48 | 2024-01-31 | 2024-07-01 |
 | [Things](https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:37 | 2023-12-26 | 2024-07-24 |
+| [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 | 2024-08-23 |  |
 | [Tie a Yellow Ribbon Round the Old Oak Tree](https://open.spotify.com/track/0TWZDPovaXPMkZNFmGKbdH) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [You're the Best Thing That Ever Happened to Me](https://open.spotify.com/album/50Ht1XmmPq4BbEGCwxzF5K) | 2:44 | 2023-12-26 | 2024-07-24 |
 | [Tik\-A\-Tee, Tik\-A\-Tay](https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:21 | 2024-01-02 | 2024-07-24 |
 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 | 2023-12-26 |  |

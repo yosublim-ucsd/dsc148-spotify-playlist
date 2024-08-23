@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : 13 Organisé
+> Photo : GIMS
 
-172 songs - 8 hr 24 min
+173 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [760](https://open.spotify.com/track/2MrFSzJuda5Hwp40iQfcdR) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [760](https://open.spotify.com/album/4434yKaCsQSw2tliaR2PvX) | 3:00 | 2023-09-28 | 2024-05-17 |
 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 | 2024-06-20 | 2024-08-02 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-07-18 |  |
+| [Ailleurs](https://open.spotify.com/track/3FkkftN0UpnJbjHOMQPVVY) | [Ghetto Phénomène](https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf) | [Ailleurs](https://open.spotify.com/album/2tcxMfU3L3Ec9XUOZFWTIn) | 2:41 | 2024-08-22 |  |
 | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/track/50XM4fyredImTQ4NLGaggW) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Allez \(feat\. PLK & Naps\)](https://open.spotify.com/album/0wMCJ6INLI8ssVC5x3azVU) | 3:11 | 2024-07-11 |  |
 | [Ana Wana](https://open.spotify.com/track/3Vmk65ChDVLhx64EYpysPs) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Cheb Abbes](https://open.spotify.com/artist/4ItLTIz60SzR31tzOu5LjO) | [Ana Wana](https://open.spotify.com/album/5MiXDx9DGa1XSMfaCOizoG) | 2:37 | 2024-08-08 | 2024-08-16 |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 | 2024-02-23 |

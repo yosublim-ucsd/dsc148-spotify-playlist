@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-135 songs - 10 hr 41 min
+136 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Across the River](https://open.spotify.com/track/4zeqvxUAYmhJGDsQH9oBM8) | [Eashwar Subramanian](https://open.spotify.com/artist/5hmltn4HmYFNVXM9TuvGK7) | [Across the River](https://open.spotify.com/album/1uG7fo8EPPJz6FJ0W4aQuX) | 4:21 | 2022-06-10 | 2024-08-10 |
 | [All I Was Thinking Of](https://open.spotify.com/track/45hfMaXmzdvEt92BeCdu8f) | [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D) | [Opening Act](https://open.spotify.com/album/5YbOpTHfXOAe90CJobDHp0) | 3:58 | 2022-06-10 |  |
 | [Arabic Crown BGM](https://open.spotify.com/track/5FhykoWbigkOFNflbNSKO5) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/4nhhhtm9oABsEHKwlf44nu) | 1:53 | 2023-08-30 | 2024-04-19 |
-| [Arabic Crown BGM](https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf) | 1:53 | 2023-08-30 |  |
+| [Arabic Crown BGM](https://open.spotify.com/track/7sjWSMqVTtp64OyWQP6mHy) | [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Arabic Crown BGM](https://open.spotify.com/album/3ca4uNqIIyobiFiG9mWWTf) | 1:53 | 2023-08-30 | 2024-08-23 |
 | [Ascent](https://open.spotify.com/track/4i6XRMX1DRgJVZIRHjGHYe) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Arjun K\. Verma](https://open.spotify.com/artist/7zRwN2RRNF3NJ0YjBprXDk), [Del Sol Quartet](https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Ascent](https://open.spotify.com/album/6IM9vWv8KvbSg65TlBAFCS) | 1:59 | 2023-08-23 |  |
 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 | 2022-06-10 |  |
 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 | 2022-06-10 |  |
@@ -108,6 +108,7 @@
 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 | 2022-06-10 |  |
 | [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 |  |
 | [Rushing](https://open.spotify.com/track/1Pt8y4GsNLCj4Rpojr1D2Q) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/4AqmSaPB6tGxM3ixvyK49d) | 4:51 | 2022-06-10 | 2024-04-19 |
+| [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 | 2024-08-22 |  |
 | [Shuddh Sarang](https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:23 | 2023-04-19 |  |
 | [Sitar On Drumz](https://open.spotify.com/track/1vA2niQtiOjSmvuFOEWDEZ) | [Bhagirath Bhatt](https://open.spotify.com/artist/7f7g96QIJWp4CW8MmAFhm1), [Mann Bipin](https://open.spotify.com/artist/4qjGBi9WToBt8fsIYxuKtr) | [Sitar On Drumz](https://open.spotify.com/album/2SZUA0nyUALGjG55J8CJhx) | 5:11 | 2022-06-10 |  |
 | [Siya](https://open.spotify.com/track/09zcdMhq7l3q3tbPjp0HTT) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Asad Khan](https://open.spotify.com/artist/39AzrdG8LxPfPzS6DtFD8Q), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Siya](https://open.spotify.com/album/665kiBV7RpNrKDRCUXD5ve) | 3:05 | 2023-08-18 |  |

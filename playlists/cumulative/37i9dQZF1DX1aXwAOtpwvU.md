@@ -4,7 +4,7 @@
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: Daniel Godson, Jea Mira, Livka, Lotta, MAJA, Zaleś
 
-186 songs - 9 hr 1 min
+189 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [FULL\-TIME](https://open.spotify.com/track/11ZSjYaV1K4MSnwRNA0odP) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [FULL\-TIME](https://open.spotify.com/album/1xVON5ExYlcmp1UW3EeNsK) | 3:11 | 2023-03-13 | 2024-02-03 |
 | [GDZIE JEST TEN DOM?](https://open.spotify.com/track/3sFGKLwDkIx1FsmUGkminy) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GDZIE JEST TEN DOM?](https://open.spotify.com/album/5HvfodCnUMi6b4ldgkxkVL) | 1:47 | 2024-02-02 | 2024-06-19 |
 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 | 2023-03-13 |  |
-| [GOJO SATORU](https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GOJO SATORU](https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6) | 3:25 | 2024-06-18 |  |
+| [GOJO SATORU](https://open.spotify.com/track/7t3JhX1H4UfANMijhzoI3M) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [GOJO SATORU](https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6) | 3:25 | 2024-06-18 | 2024-08-23 |
 | [GRAWITACJA](https://open.spotify.com/track/7pQkDJXFDCJUY0sSbbc8i9) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [charlie moncler](https://open.spotify.com/artist/37Pprth5H294i7rSnIkVVV) | [in real life](https://open.spotify.com/album/00WMFLvaeDOplwURq1E2t7) | 3:05 | 2024-02-02 |  |
 | [głos](https://open.spotify.com/track/33wtYvTtesvUWhWeDGaIhU) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [głos](https://open.spotify.com/album/22Zo1UZkoNBUcus5TnxpSJ) | 2:41 | 2024-05-03 | 2024-06-21 |
 | [głos \- Skytech Edit](https://open.spotify.com/track/7pu70H0Wjs5HdqLJjUUYXP) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [głos \(Skytech Edit\)](https://open.spotify.com/album/5RAnnI1p4nc89lpS1z6lUs) | 2:29 | 2024-06-20 |  |
@@ -68,7 +68,7 @@
 | [happy song :\)](https://open.spotify.com/track/0rS8KJ7sh52X3QBWbBFjtm) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [happy song :\)](https://open.spotify.com/album/5BkGfDOWhUVZVElMQ90Eei) | 3:00 | 2023-04-14 | 2023-09-16 |
 | [Haribo](https://open.spotify.com/track/1tsdI9LIUwxbCNiBPotSTx) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Haribo](https://open.spotify.com/album/2GYjVNl9rsOY58IXJxWqIH) | 3:03 | 2022-08-26 | 2022-09-24 |
 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 | 2024-08-20 |  |
-| [Interpretacje](https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Obrazy Uczuć](https://open.spotify.com/album/1bzgcHJGgN78CTvBgIhsha) | 3:24 | 2024-06-18 |  |
+| [Interpretacje](https://open.spotify.com/track/34uVjVFFAuzSwuJcSBcYAA) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Obrazy Uczuć](https://open.spotify.com/album/1bzgcHJGgN78CTvBgIhsha) | 3:24 | 2024-06-18 | 2024-08-23 |
 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 | 2023-05-16 | 2023-11-11 |
 | [Julia W Mieście](https://open.spotify.com/track/6600DTr3sI2l9cJ2NaSJdR) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [Egoistka](https://open.spotify.com/album/1vqw57hP2TAOSG3jnZpQWV) | 2:58 | 2022-08-26 |  |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-18 |  |
@@ -108,8 +108,10 @@
 | [Na zawsze, morze](https://open.spotify.com/track/5c6eOOvCcwmySM46HN7Er4) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Double N](https://open.spotify.com/album/7d6Aho9TyMvWAsa85WP5IU) | 3:08 | 2023-03-13 | 2024-06-21 |
 | [Need a break](https://open.spotify.com/track/6n86Viph09xx4i63kpsvWM) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Need a break](https://open.spotify.com/album/3iG3XNnDa3r90Kx8DqnFkU) | 3:33 | 2023-06-04 | 2024-08-21 |
 | [neonowe laczki](https://open.spotify.com/track/6iNm8Px8IQwiFRfFlARt80) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [jestem bryska \(mini album\)](https://open.spotify.com/album/694sraSss3PDwTtbnn0U8N) | 2:30 | 2022-09-23 | 2023-03-14 |
+| [Nic nie widać po mnie](https://open.spotify.com/track/4G1uPf5JXf7Hw2O9K77AUF) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Nic nie widać po mnie](https://open.spotify.com/album/1Cwn1kTBxqD2bshBV368cZ) | 1:57 | 2024-08-22 |  |
 | [nic\(i\)](https://open.spotify.com/track/7CYz7FGYsxJWeF94lqsbFc) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nic\(i\)](https://open.spotify.com/album/6x9tlX5hDXDCWQchmqSgt4) | 2:18 | 2024-06-18 |  |
 | [Nie Dzwoń Do Mnie](https://open.spotify.com/track/0lJla6PQ8xhzAH5azBDTnk) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [Nie Dzwoń Do Mnie](https://open.spotify.com/album/6Qb5R0OCZqV7OoUc4eLdB6) | 2:36 | 2024-07-15 |  |
+| [Nie mów](https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5), [eryq](https://open.spotify.com/artist/2qjZpl1aigwfxoXjUzyGa6) | [Nie mów](https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF) | 2:42 | 2024-08-22 |  |
 | [Niebieska Noc](https://open.spotify.com/track/5urPVqVx8tb3mUY8m9MLAo) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Niebieska Noc](https://open.spotify.com/album/1DyTAOv7dXCE2WuawmUzVh) | 2:47 | 2023-02-06 | 2023-03-14 |
 | [Niebieski sweter](https://open.spotify.com/track/28JkH7zChrtA1EWKZsIA2V) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/0gw1Iu0Qy9i6ZClil2iHp9) | 3:46 | 2023-02-06 | 2023-09-17 |
 | [Niebieski sweter](https://open.spotify.com/track/5CEWAINwbUzDrOYQqHZ7wq) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Blaza](https://open.spotify.com/album/1DSTAwlXX9gMup8yXeqoNo) | 3:46 | 2023-09-15 | 2024-03-12 |
@@ -154,6 +156,7 @@
 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 | 2023-05-16 | 2023-09-02 |
 | [Sativa](https://open.spotify.com/track/5lxG78ZXyQnRmowBAl7d4B) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Filipek](https://open.spotify.com/artist/5hqRsNHDZH1jHzI9LgxFRZ) | [Sativa](https://open.spotify.com/album/6LynwZYCuQUNZhLFCCziL2) | 3:09 | 2022-08-26 | 2024-05-04 |
 | [See what’s on my mind](https://open.spotify.com/track/4x0MqIsF04NeNRwAs88O9M) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [See what’s on my mind](https://open.spotify.com/album/60b0Ivf6wfZFx6TLzj5Npy) | 3:05 | 2022-08-26 | 2022-09-24 |
+| [SILVERMAN](https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M), [Producent Adam](https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd) | [BABYGIRL](https://open.spotify.com/album/3IfGQSWk5DllVaOHSggn1Q) | 2:39 | 2024-08-22 |  |
 | [Się poznali](https://open.spotify.com/track/55vYFMLlZfoX7pPXT0Hzza) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Się poznali](https://open.spotify.com/album/6VDSUr36e7KSLRIc2vIY2K) | 3:13 | 2022-08-26 |  |
 | [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 | 2022-08-26 | 2023-04-15 |
 | [Spotlight](https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Spotlight](https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV) | 2:39 | 2023-02-06 | 2023-03-14 |
@@ -169,7 +172,7 @@
 | [to był fajny rok](https://open.spotify.com/track/0bkvnHawQ97qJjSKZkaK1a) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [to był fajny rok](https://open.spotify.com/album/0wMngZrtJ0pC4Z73u61bu2) | 2:51 | 2023-02-06 | 2023-04-15 |
 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 | 2023-05-16 | 2023-11-11 |
 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 | 2023-05-16 | 2023-08-01 |
-| [Trucizna](https://open.spotify.com/track/55PNdqSS0ud4Kc80aswVsw) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Trucizna](https://open.spotify.com/album/4RukUlawLMKeSlpdGvP0pE) | 3:08 | 2024-05-03 |  |
+| [Trucizna](https://open.spotify.com/track/55PNdqSS0ud4Kc80aswVsw) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Trucizna](https://open.spotify.com/album/4RukUlawLMKeSlpdGvP0pE) | 3:08 | 2024-05-03 | 2024-08-23 |
 | [uczucia](https://open.spotify.com/track/1ay25zXov7yoR2D8ZAjxKZ) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [uczucia](https://open.spotify.com/album/5OXM3lcdxWN406CT9FZEan) | 2:06 | 2024-04-04 |  |
 | [Upadki i wzloty](https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Upadki i wzloty](https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S) | 3:11 | 2024-07-18 |  |
 | [Wczoraj](https://open.spotify.com/track/4QcVRPBOWIL42nod3cGn0u) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Wczoraj](https://open.spotify.com/album/3C5tWyJxsBxnKHmUuyATe6) | 2:51 | 2022-08-26 | 2022-09-24 |

@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con José Madero en portada.
 
-3,072 songs - 7 day 10 hr 33 min
+3,074 songs - 7 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [Días Fugaces](https://open.spotify.com/track/2GEpNkKjpgu5cdByPKSfYU) | [Kike Ruiz](https://open.spotify.com/artist/3TcxQoxMrz0VGGODogVpIe), [Los Rebeldes](https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo), [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3), [Carlos Segarra](https://open.spotify.com/artist/5e6s8QNiWZK55IgvpeYL1n), [Javier Andreu](https://open.spotify.com/artist/03xiNfDwzyollNKbhnXZsp) | [Días Fugaces](https://open.spotify.com/album/6RieBKZkO7YTTjPyY9dIzx) | 3:00 | 2022-07-08 | 2022-07-30 |
 | [Días Oscuros](https://open.spotify.com/track/0nuRDKI8vkLWELNpCj42kl) | [Horcas](https://open.spotify.com/artist/0R0FEEepfDr3js3lsGPykq) | [El Diablo](https://open.spotify.com/album/2eONuQTWiMoeZbeaO7VCjX) | 3:54 | 2024-07-12 | 2024-07-27 |
 | [Easy Love](https://open.spotify.com/track/42gI2odJTLKhJTwytA8bXO) | [Viv and the Sect](https://open.spotify.com/artist/3l6JSuisypBopJOjXcRTGu) | [Easy Love](https://open.spotify.com/album/37Tx0yXXp5SNiTJ4ZWqSA7) | 3:22 | 2023-04-14 | 2023-04-29 |
+| [Easy Lover](https://open.spotify.com/track/4QYTFKM7WQTbOa8Kqk8gAz) | [Barilari](https://open.spotify.com/artist/0bEinswrM8NYuppKnMljIg) | [Easy Lover](https://open.spotify.com/album/4SfHQb31MwuabPIVzCulAo) | 5:23 | 2024-08-16 |  |
 | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [Echo de menos a los Arctic Monkeys](https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG) | 3:19 | 2024-05-03 | 2024-05-11 |
 | [Ecos Del Pasado](https://open.spotify.com/track/6t9RsIg4u9g4s2FRHEG1Nb) | [Marvel Hill](https://open.spotify.com/artist/54lI0cFGWLwsNaZJ3oF6jm) | [Ecos Del Pasado](https://open.spotify.com/album/5lnj4owzzugL36BHBUTsv3) | 3:19 | 2022-09-09 | 2022-09-17 |
 | [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 | 2023-11-10 | 2023-11-25 |
@@ -1486,6 +1487,7 @@
 | [La Og](https://open.spotify.com/track/3quMYRo2bWPV9ZVMS7DJru) | [Antítesis](https://open.spotify.com/artist/44FReOTKQVL11Rcm2vZcM5) | [La Og](https://open.spotify.com/album/6xi6r4e9yJsbyZnkDpB03h) | 2:53 | 2023-01-06 | 2023-01-21 |
 | [la ola](https://open.spotify.com/track/7lnU0F5jKzN6cjMeDYdVWx) | [After Tommy](https://open.spotify.com/artist/3HpKdarqsHASs1kRv1uENZ) | [el verano pasará](https://open.spotify.com/album/129Gtdrln4K2zkz0X64l8G) | 3:44 | 2023-04-21 | 2023-05-06 |
 | [LA PALIDA](https://open.spotify.com/track/1ivKReTvye8ihOiAIycEKI) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [LA PALIDA](https://open.spotify.com/album/32rKvPWD7jfKUcyCcW9pXF) | 2:40 | 2022-12-02 | 2022-12-10 |
+| [La Partida](https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD) | [Parientes](https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE) | [La Partida](https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR) | 3:27 | 2024-08-16 |  |
 | [La Pasión](https://open.spotify.com/track/0401ZCeLd2wTo5TNIYRG7b) | [El Verbo Odiado](https://open.spotify.com/artist/3BzLOWDqacG7i8N9SPYjVB) | [La Pasión](https://open.spotify.com/album/6XclKFX8qkeQo6c5pPTFw7) | 3:32 | 2022-09-30 | 2022-10-22 |
 | [La Pelea](https://open.spotify.com/track/7vRfX8azRsDLRqQKxAhiFL) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [La Pelea](https://open.spotify.com/album/3d0QRePKfpYNCzlSDYUOMN) | 3:20 | 2022-07-22 | 2022-08-13 |
 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 | 2023-05-19 | 2023-05-27 |

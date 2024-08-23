@@ -4,7 +4,7 @@
 
 > Pakistani indie tracks on the rise\. Like this? More fresh discoveries in <a href="https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v?si=e68b04cda53a4431">Fresh Finds PK</a>\. Cover \- Abdul Hannan
 
-83 songs - 4 hr 6 min
+84 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Rang Diya](https://open.spotify.com/track/0LSBqswxvemnJQ4MDqzi32) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Rang Diya](https://open.spotify.com/album/3tPcOKqoWYC2saF1Qcn7jD) | 2:48 | 2024-08-09 | 2024-08-17 |
 | [Rul Gaya](https://open.spotify.com/track/0tCLLjKLqoVxGWD8j3fzwg) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Rul Gaya](https://open.spotify.com/album/7r9GwLvznuwe7NK1d6dytZ) | 2:51 | 2024-06-28 |  |
 | [Rung Grehan Band](https://open.spotify.com/track/3QnEKN1yEWWcwYCXm4xlV3) | [Grehan Band](https://open.spotify.com/artist/4NjwzFMg5JOIpWmlkZMSKT), [Farheen Raza Jaffry](https://open.spotify.com/artist/6pyNI5UnUNUotfiJiybFuc) | [Rung Grehan Band](https://open.spotify.com/album/4OImWQR8nh4aWoKfjraElo) | 1:52 | 2024-06-28 | 2024-08-10 |
+| [Saamnay](https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saamnay](https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA) | 3:44 | 2024-08-22 |  |
 | [Saathiya](https://open.spotify.com/track/5CPc9T1gV30hT4qka88QUF) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x), [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg) | [Saathiya](https://open.spotify.com/album/1mVUIurPPekbnHs6OBDUEi) | 2:37 | 2024-06-28 |  |
 | [Samandar](https://open.spotify.com/track/4b0QZDXdvaQqicZ9OXf3AF) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Samandar](https://open.spotify.com/album/2U9RU7YA5nPtlykb8xHREk) | 2:37 | 2024-06-28 |  |
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2024-06-28 |  |
@@ -84,7 +85,7 @@
 | [Talking To My Heart](https://open.spotify.com/track/7pj46Hvk3pZPG3mzEWJ7Nq) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Talking To My Heart](https://open.spotify.com/album/1O0ve8bN9wyIsJFVUKsNF2) | 2:34 | 2024-06-28 |  |
 | [Tera](https://open.spotify.com/track/7H0VJyDPj1m0lOL5gHc2gQ) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [Tera](https://open.spotify.com/album/48IF1V11dSnQbgWbSdiBst) | 2:53 | 2024-06-28 |  |
 | [Tere Bina](https://open.spotify.com/track/37sXMEPJNVe6X9UYyTmsQt) | [Omer Nadeem](https://open.spotify.com/artist/0JictZKAbTssPcgxviJTOQ), [Khiza](https://open.spotify.com/artist/5zkTvI8BqLcbNxzapM8oLd) | [Tere Bina](https://open.spotify.com/album/6xKqwYeuVHPnLKwbZisFB0) | 3:53 | 2024-08-09 | 2024-08-17 |
-| [Teri Muskurahat](https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ) | [Ch Azan Ahmad](https://open.spotify.com/artist/0Sg9mWWjJEv4btRVUa98FW) | [Teri Muskurahat](https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ) | 3:12 | 2024-08-16 |  |
+| [Teri Muskurahat](https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ) | [Azan](https://open.spotify.com/artist/3ywc0vBPFMERcCjnQpEsTY) | [Teri Muskurahat](https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ) | 3:12 | 2024-08-16 |  |
 | [Thaggi](https://open.spotify.com/track/3nbrz0TpEpTlyOZsmiM5Lk) | [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Thaggi](https://open.spotify.com/album/3WRTUhbFrlkmOddDTTIO8W) | 4:17 | 2024-06-28 | 2024-08-10 |
 | [Tu hai kahan](https://open.spotify.com/track/4VhqKzBeAlhTjLYZr0oJx8) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf) | 4:23 | 2024-06-28 |  |
 | [Umeed](https://open.spotify.com/track/4BCA8oZlL95CWFBryL7waK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Rohama Justus Nassir](https://open.spotify.com/artist/4AFNLHlWCtJBa7zB6aDSgt) | [Umeed](https://open.spotify.com/album/7IS8nCf4BQtuyYeoaS4ICg) | 3:18 | 2024-06-28 |  |

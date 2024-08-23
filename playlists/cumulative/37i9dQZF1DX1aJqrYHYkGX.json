@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "528 Hz Clarity",
+        "url": "https://open.spotify.com/album/2vkNGw46yIEjOLlmow2N4B"
+      },
+      "artists": [
+        {
+          "name": "Infinite Imagination",
+          "url": "https://open.spotify.com/artist/2PQdqbfdZhfs3BAKayChbv"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130905,
+      "name": "528 Hz Clarity",
+      "url": "https://open.spotify.com/track/6LiHwvBFOyOi6z7BGdZ2bB"
+    },
+    {
+      "album": {
         "name": "Aasaan",
         "url": "https://open.spotify.com/album/2aRyCa9QEAc5VSM7R5LlYE"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 182068,
       "name": "Healing Serenade",
       "url": "https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K"
@@ -1028,6 +1046,24 @@
       "duration_ms": 265248,
       "name": "Inner Peace",
       "url": "https://open.spotify.com/track/1WncuU7QUZnx6eSrBa8oYJ"
+    },
+    {
+      "album": {
+        "name": "Invisible Horizons",
+        "url": "https://open.spotify.com/album/4idv05Ag8pPVyW0Gb1S5cj"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168938,
+      "name": "Invisible Horizons",
+      "url": "https://open.spotify.com/track/1WjX7ce6eDa5mEBVK7e4oB"
     },
     {
       "album": {
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 121286,
       "name": "Lake Of Tranquility",
       "url": "https://open.spotify.com/track/5lwlK7tC5aAOOriY67D7qy"
@@ -1474,10 +1510,28 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 188000,
       "name": "Mystique Garden",
       "url": "https://open.spotify.com/track/1kqdfOEMGEtjMoPnD69JKn"
+    },
+    {
+      "album": {
+        "name": "New Heights",
+        "url": "https://open.spotify.com/album/1MY0YY8yXxEjiehCojNy8u"
+      },
+      "artists": [
+        {
+          "name": "Hakone",
+          "url": "https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "New Heights",
+      "url": "https://open.spotify.com/track/2dRGLnWoSUU4p1MJ91aLtl"
     },
     {
       "album": {
@@ -1680,7 +1734,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 271026,
       "name": "Raat Kee Khoj",
       "url": "https://open.spotify.com/track/6aRBPJ1TcZFPPcw07UUSd5"
@@ -1783,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Remote Escape (in the Rain)",
+        "url": "https://open.spotify.com/album/6RTvmpXlvTkpCQpnp3zdZP"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Remote Escape (in the Rain)",
+      "url": "https://open.spotify.com/track/44oJ4rwFKjyzfiHMVdlS3W"
+    },
+    {
+      "album": {
         "name": "111 Serenity Nature Sounds: Asian Zen Spa Meditation Music and Relaxing Natural Ambiences for Yoga and Sleep",
         "url": "https://open.spotify.com/album/0LvbK6836bPXoNxBHVVn2I"
       },
@@ -1798,6 +1870,24 @@
       "duration_ms": 199410,
       "name": "Rest (Flute, Piano and Crickets)",
       "url": "https://open.spotify.com/track/66BG2JXYfVwcslonqWZZIz"
+    },
+    {
+      "album": {
+        "name": "Return to Center (in the Rain)",
+        "url": "https://open.spotify.com/album/56j5ba6C7rdZFl3IG05KAL"
+      },
+      "artists": [
+        {
+          "name": "Forlorn Light",
+          "url": "https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Return to Center (in the Rain)",
+      "url": "https://open.spotify.com/track/06htTXUJrKz8KjlXpWedmp"
     },
     {
       "album": {
@@ -2188,7 +2278,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 136765,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/1zoPWKR27qHRfjnMm3wE5d"
@@ -2682,7 +2772,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 123798,
       "name": "\u0926\u0941\u0928\u093f\u092f\u093e \u0915\u0947 \u0938\u092a\u0928\u0947",
       "url": "https://open.spotify.com/track/7wKteYGjLxGYGYw45SFCS0"

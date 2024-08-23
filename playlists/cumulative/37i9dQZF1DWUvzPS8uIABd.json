@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Janna, Erika Vikman ja F.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Gasellit ja Ellinoora.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -234,10 +234,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 191788,
       "name": "Ei syd\u00e4nt\u00e4 saa",
       "url": "https://open.spotify.com/track/4caA9Fg4l0jv3R0bYjmGp2"
+    },
+    {
+      "album": {
+        "name": "Ekaa kertaa",
+        "url": "https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF"
+      },
+      "artists": [
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193442,
+      "name": "Ekaa kertaa",
+      "url": "https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2"
     },
     {
       "album": {
@@ -299,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Fallin (pudotaan)",
+        "url": "https://open.spotify.com/album/0Fs9D5uhPxDiVElPDdAWA2"
+      },
+      "artists": [
+        {
+          "name": "WIL",
+          "url": "https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152852,
+      "name": "Fallin (pudotaan)",
+      "url": "https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS"
+    },
+    {
+      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/7sBbhbLZNrLGNauoIkG7Qd"
       },
@@ -317,6 +353,28 @@
     },
     {
       "album": {
+        "name": "HARLEY QUINN (feat. Sara Bee)",
+        "url": "https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl"
+      },
+      "artists": [
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141994,
+      "name": "HARLEY QUINN (feat. Sara Bee)",
+      "url": "https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe"
+    },
+    {
+      "album": {
         "name": "Humppapumppu (feat. Simo Silmu)",
         "url": "https://open.spotify.com/album/3NJel5EzrRMBVUAvMUIGX6"
       },
@@ -332,7 +390,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 149999,
       "name": "Humppapumppu (feat. Simo Silmu)",
       "url": "https://open.spotify.com/track/6F9J500ku1igHiPWBPWZHo"
@@ -467,6 +525,28 @@
     },
     {
       "album": {
+        "name": "Ikuinen elokuu",
+        "url": "https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ"
+      },
+      "artists": [
+        {
+          "name": "ROBIN",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        },
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Ikuinen elokuu",
+      "url": "https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY"
+    },
+    {
+      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq"
       },
@@ -504,7 +584,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 193600,
       "name": "Italia",
       "url": "https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK"
@@ -627,6 +707,28 @@
     },
     {
       "album": {
+        "name": "Kauniita",
+        "url": "https://open.spotify.com/album/2o5j2odPtpeJ1idbTWnQW5"
+      },
+      "artists": [
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195535,
+      "name": "Kauniita",
+      "url": "https://open.spotify.com/track/4U8b5tzyjzxaFUpRhuGgtS"
+    },
+    {
+      "album": {
         "name": "Kerron sulle kaiken",
         "url": "https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1"
       },
@@ -638,7 +740,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 173254,
       "name": "Kerron sulle kaiken",
       "url": "https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h"
@@ -660,6 +762,24 @@
       "duration_ms": 144214,
       "name": "Kertaakaan",
       "url": "https://open.spotify.com/track/0sShbPmnjtEv3Uf7Qt0rc0"
+    },
+    {
+      "album": {
+        "name": "Kielletty puheenaihe",
+        "url": "https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ"
+      },
+      "artists": [
+        {
+          "name": "Aatulove",
+          "url": "https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206737,
+      "name": "Kielletty puheenaihe",
+      "url": "https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9"
     },
     {
       "album": {
@@ -736,7 +856,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 135998,
       "name": "Koukus",
       "url": "https://open.spotify.com/track/6P0Oi8lYdr7tdAQptCUuNZ"
@@ -852,7 +972,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 159901,
       "name": "Liian l\u00e4hel aurinkoo",
       "url": "https://open.spotify.com/track/3g11Jm4Im7mEOUGJfsgay1"
@@ -918,7 +1038,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 203909,
       "name": "Lupaa et s\u00e4 l\u00e4het",
       "url": "https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c"
@@ -1157,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Mustangi II",
+        "url": "https://open.spotify.com/album/16zFci2pCEsVfQdqH5D0Ch"
+      },
+      "artists": [
+        {
+          "name": "YOUNGHEARTED",
+          "url": "https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Mustangi II",
+      "url": "https://open.spotify.com/track/1aVlmKGaUZz489HuSoPJgL"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj"
       },
@@ -1208,6 +1346,24 @@
       "duration_ms": 166320,
       "name": "Norppa kivell\u00e4",
       "url": "https://open.spotify.com/track/2zFDRptDDg9FC5ZFM0UINl"
+    },
+    {
+      "album": {
+        "name": "Nouse kyytiin",
+        "url": "https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW"
+      },
+      "artists": [
+        {
+          "name": "Saimaa",
+          "url": "https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237160,
+      "name": "Nouse kyytiin",
+      "url": "https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg"
     },
     {
       "album": {
@@ -1291,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Otan Kii",
+        "url": "https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177233,
+      "name": "Otan Kii",
+      "url": "https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4"
+    },
+    {
+      "album": {
         "name": "Pari Bissee",
         "url": "https://open.spotify.com/album/17Ym7LqgrSslGK3nsUmgT2"
       },
@@ -1302,7 +1480,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 183493,
       "name": "Pari Bissee",
       "url": "https://open.spotify.com/track/4mkLbGplCmhXG0Jv6GRSOn"
@@ -1320,7 +1498,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 148361,
       "name": "Pelaa sua",
       "url": "https://open.spotify.com/track/54CjiaDkN4OiaL3GvnptBv"
@@ -1378,7 +1556,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 212290,
       "name": "Pois pois pois",
       "url": "https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3"
@@ -1400,7 +1578,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 120590,
       "name": "Prinsessa (feat. baka\u00ae)",
       "url": "https://open.spotify.com/track/6ioqZb07eWdepb7NaBt2xA"
@@ -1462,7 +1640,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 199916,
       "name": "P\u00e4\u00e4st\u00e4 varpaisiin",
       "url": "https://open.spotify.com/track/4FbBHuCdza6S4WODZAvaDb"
@@ -1528,6 +1706,24 @@
       "duration_ms": 179235,
       "name": "Saanko m\u00e4 luvan",
       "url": "https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf"
+    },
+    {
+      "album": {
+        "name": "Saat mut syttyy",
+        "url": "https://open.spotify.com/album/6addjV4pmfiesTAAiksaKo"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179114,
+      "name": "Saat mut syttyy",
+      "url": "https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS"
     },
     {
       "album": {
@@ -1800,7 +1996,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 143812,
       "name": "Sun takii",
       "url": "https://open.spotify.com/track/2QAGemdubaYwXgWYRvlBE1"
@@ -1942,7 +2138,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 163080,
       "name": "Tireht\u00f6\u00f6ri",
       "url": "https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn"
@@ -2026,7 +2222,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 184333,
       "name": "Tuuks mukaan?",
       "url": "https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP"
@@ -2288,10 +2484,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 164374,
       "name": "Viikatemies (feat. costee)",
       "url": "https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG"
+    },
+    {
+      "album": {
+        "name": "Viilenee",
+        "url": "https://open.spotify.com/album/0VENcOLlhhmfNsfvrLZa2G"
+      },
+      "artists": [
+        {
+          "name": "Ressu Redford",
+          "url": "https://open.spotify.com/artist/2gAcO16AKQdceAd36Oxe18"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192485,
+      "name": "Viilenee",
+      "url": "https://open.spotify.com/track/1Z1Bxaw22d2bctWGoGf9pN"
     },
     {
       "album": {
@@ -2408,7 +2622,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 171614,
       "name": "Yliajattelen sua",
       "url": "https://open.spotify.com/track/3cYXxC2KHuhx1NxiN04g0t"

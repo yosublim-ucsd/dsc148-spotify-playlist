@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Piruka entra na zona.
+> Força Suprema entram na zona.
 
-603 songs - 1 day 8 hr 16 min
+605 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Bipolar](https://open.spotify.com/track/5WHssMvZ9qRpRSs6dkoivi) | [Lord XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [Bipolar](https://open.spotify.com/album/7b6rw53PTJcF16F5xbwZ24) | 2:40 | 2022-07-16 | 2022-10-01 |
 | [Black On Black](https://open.spotify.com/track/4IxMWTKD2rB3QsU77bXAyj) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Black On Black](https://open.spotify.com/album/7qBgbKy50UBcaQCac4QzJ0) | 2:24 | 2024-05-16 | 2024-06-21 |
 | [Boeing 777](https://open.spotify.com/track/4WtOqBES1aOHogJ264Sa4X) | [DJ Overule](https://open.spotify.com/artist/7G2Ifqc6GK5hnQOCEMF1Zo), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [Boeing 777](https://open.spotify.com/album/5ntrD9TJSG9KCjpdl3vCx1) | 3:18 | 2024-04-18 | 2024-05-17 |
-| [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 |  |
+| [BOM BOM](https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM) | [Rony Fuego](https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk), [Loony Johnson](https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv) | [BOM BOM](https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe) | 3:00 | 2024-03-29 | 2024-08-23 |
 | [Bon Appétit](https://open.spotify.com/track/7uHLAlgUhSOwnnbXJeG7ai) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Olho de Tigre](https://open.spotify.com/album/0jhj4SwIWQGON36aDMeEwb) | 2:45 | 2022-07-16 | 2023-11-11 |
 | [Braille](https://open.spotify.com/track/3uxr1S4rg8EqMLFH4mgqTT) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Braille](https://open.spotify.com/album/2CjnQzni6YzaX7XbdLnHqj) | 2:40 | 2023-11-10 | 2024-01-12 |
 | [Bram Bram](https://open.spotify.com/track/521wrQjzG1znX4e8caN2LG) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Loreta Kba](https://open.spotify.com/artist/3BgAxhLchLBb8Y6h7mVbyk) | [Bram Bram](https://open.spotify.com/album/3yXviYzjm4OfflqOcl3MVj) | 3:39 | 2024-06-27 |  |
@@ -480,6 +480,7 @@
 | [Red Eyes](https://open.spotify.com/track/5ufHiz91MIA3J9RPEZsQif) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb) | [Red Eyes](https://open.spotify.com/album/75hNFogm7XD0x3C35HYxpq) | 3:08 | 2024-03-08 | 2024-03-29 |
 | [Relationships](https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Relationships](https://open.spotify.com/album/5CtrUKdY2on57OK5ScI9qq) | 3:05 | 2023-05-18 | 2023-07-07 |
 | [REMORSOS](https://open.spotify.com/track/4ekjMdP0ZoVQp7aDnhTElh) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [REMORSOS](https://open.spotify.com/album/7vZNDgdTEG5YVUV8n0b4FZ) | 2:59 | 2024-06-27 |  |
+| [REMORSOS II](https://open.spotify.com/track/71H4Tj2aO9V2MaZDzoLu4g) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [REMORSOS II](https://open.spotify.com/album/6rUD7jPupAASTFMBFivW5V) | 3:47 | 2024-08-22 |  |
 | [Revolta](https://open.spotify.com/track/2cxlnK71uH9fIMgjNshNgT) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Revolta](https://open.spotify.com/album/6K7lwsVrHbZudXh17mJPUr) | 3:25 | 2024-07-18 |  |
 | [RGTN](https://open.spotify.com/track/4XFv4UoCEUwCTSCVCNEIbZ) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [RGTN](https://open.spotify.com/album/6Mwv6cb12FzgvKWAzk2jSm) | 3:31 | 2023-11-10 | 2024-01-26 |
 | [Risco](https://open.spotify.com/track/4Y3chZy00SMw18ixqZYgXi) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Risco](https://open.spotify.com/album/1QnLGxK7sh5XByE5QBNAQ0) | 2:45 | 2023-02-17 | 2023-04-07 |
@@ -553,10 +554,11 @@
 | [The Cold Room \- S2\-E10 \- Pt.1](https://open.spotify.com/track/1cpiaL8iQnE3BssTcp6DvV) | [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Tweeko](https://open.spotify.com/artist/22wD142FUVQatdB5g8mxTF), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [The Cold Room \- S2\-E10](https://open.spotify.com/album/0u9GlXYupjr425whxAzcuA) | 2:54 | 2022-10-06 | 2023-01-20 |
 | [Tic\-Tac](https://open.spotify.com/track/0SmkF33aIAHlSZh8N3CXv5) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Tic\-Tac](https://open.spotify.com/album/1JmmEMl6zechpj5QYjEFKW) | 3:18 | 2023-02-03 | 2023-06-09 |
 | [TINA DANCE](https://open.spotify.com/track/4P5EPz6Sz8mURxMXlkA8jB) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94) | [TINA DANCE](https://open.spotify.com/album/6h0qqal5ouuuCeyZfGhwlU) | 2:24 | 2022-11-21 | 2023-01-06 |
-| [Tirana Freestyle](https://open.spotify.com/track/2ukskuAvIBef5QCriYQN8v) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Tirana Freestyle](https://open.spotify.com/album/0RYNCMcnoaB1DFqwejRfUh) | 2:03 | 2024-07-11 |  |
+| [Tirana Freestyle](https://open.spotify.com/track/2ukskuAvIBef5QCriYQN8v) | [nastyfactor](https://open.spotify.com/artist/6txPp4e05GExCjHl2oELQ1) | [Tirana Freestyle](https://open.spotify.com/album/0RYNCMcnoaB1DFqwejRfUh) | 2:03 | 2024-07-11 | 2024-08-23 |
 | [Tirar Bilhete](https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Tirar Bilhete](https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG) | 3:05 | 2022-07-16 | 2022-11-25 |
 | [Todo Terreno](https://open.spotify.com/track/0hcmxtTADA8j1MREVKly0h) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Estraca](https://open.spotify.com/artist/1pA4isjpfB72WlZgDJhDjq) | [Todo Terreno](https://open.spotify.com/album/2fyIiS21HKUo1pakYTsKYJ) | 3:37 | 2023-11-10 | 2024-03-01 |
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-06-09 |
+| [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 |  |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |
 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 | 2023-07-27 | 2024-01-26 |

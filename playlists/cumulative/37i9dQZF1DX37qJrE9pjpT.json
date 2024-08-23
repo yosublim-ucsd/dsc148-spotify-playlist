@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 229894,
       "name": "Current Situation",
       "url": "https://open.spotify.com/track/3LMUTCgud5RcUcer01ShUf"
@@ -1084,6 +1084,28 @@
       "duration_ms": 166400,
       "name": "Gangster Tendencies",
       "url": "https://open.spotify.com/track/5alssGGzqvPB3BsetB3dee"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8"
+      },
+      "artists": [
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        },
+        {
+          "name": "Gifted",
+          "url": "https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/71l944iHhGOsZctedw8t4a"
     },
     {
       "album": {
@@ -2040,7 +2062,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 93191,
       "name": "MoroBuzz - Azimio",
       "url": "https://open.spotify.com/track/117vIXHVLQDRr0DPaWhJlo"
@@ -2084,6 +2106,28 @@
       "duration_ms": 129332,
       "name": "MoroBuzz - Kigurunyembe",
       "url": "https://open.spotify.com/track/2z8XKSwDdXZaeiDpfdcEl4"
+    },
+    {
+      "album": {
+        "name": "MoroBuzz - Kilakala",
+        "url": "https://open.spotify.com/album/6h7U1ZCI5nZwBvObYEyArB"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81403,
+      "name": "MoroBuzz - Kilakala",
+      "url": "https://open.spotify.com/track/2TOKVFwV0YgOOzKiomtZKI"
     },
     {
       "album": {
@@ -2520,7 +2564,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 205168,
       "name": "No Time (feat. Jux)",
       "url": "https://open.spotify.com/track/3apTsLuYniqTYCr8cU51Gd"
@@ -2622,6 +2666,24 @@
       "duration_ms": 471118,
       "name": "O 2 the G Cypher",
       "url": "https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E"
+    },
+    {
+      "album": {
+        "name": "Only God Knows",
+        "url": "https://open.spotify.com/album/6ASt5dP8JQblxheMSLlDxR"
+      },
+      "artists": [
+        {
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192079,
+      "name": "Only God Knows",
+      "url": "https://open.spotify.com/track/706M6LqlmTnLFobIEDJCc6"
     },
     {
       "album": {
@@ -2909,6 +2971,28 @@
     },
     {
       "album": {
+        "name": "Rap Like Me",
+        "url": "https://open.spotify.com/album/201TiEXUZZRfyJdfPy1p7y"
+      },
+      "artists": [
+        {
+          "name": "Joe Marley",
+          "url": "https://open.spotify.com/artist/5yemOF9FLJ8q9bbZbSYbvQ"
+        },
+        {
+          "name": "Trecta Rapper",
+          "url": "https://open.spotify.com/artist/4VF9gAVsZpFe2hjWen9Pet"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196519,
+      "name": "Rap Like Me",
+      "url": "https://open.spotify.com/track/7tWk2k290JeSHkZQGOl5Bf"
+    },
+    {
+      "album": {
         "name": "Future Is Now",
         "url": "https://open.spotify.com/album/5VaHyRaWNiuUBHsFuQWOSY"
       },
@@ -3000,6 +3084,28 @@
       "duration_ms": 218175,
       "name": "Rudia",
       "url": "https://open.spotify.com/track/3xRnvCriJUGNYWTqhtUZwl"
+    },
+    {
+      "album": {
+        "name": "Rum in My Cup",
+        "url": "https://open.spotify.com/album/0ziJDTlWSXHrbYgjizxcQk"
+      },
+      "artists": [
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+        },
+        {
+          "name": "Blvck Queen",
+          "url": "https://open.spotify.com/artist/1pBKd3CUJk3aO8sfevp59z"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Rum in My Cup",
+      "url": "https://open.spotify.com/track/6sJgavFdnMmGY25v9gGfo8"
     },
     {
       "album": {
@@ -3428,7 +3534,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 204721,
       "name": "Take a Breath Cypher",
       "url": "https://open.spotify.com/track/5vgkNGzGssQkiExZdLPEee"
@@ -3992,7 +4098,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 158208,
       "name": "Way Back (Refix)",
       "url": "https://open.spotify.com/track/3SprIdI5ZCIZRD2OQEOibh"

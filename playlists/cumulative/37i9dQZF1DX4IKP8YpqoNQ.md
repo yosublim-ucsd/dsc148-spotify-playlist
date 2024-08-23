@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \(Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006\)](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 | 2022-02-10 |  |
+| [\(Sitting On\) The Dock Of The Bay \- Live](https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Live At Montreux 2006 \- Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006](https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45) | 2:15 | 2022-02-10 |  |
 | [4evermore \(Feat Algebra\) \(Live\)](https://open.spotify.com/track/5IMQYqPWULjYx1cQSFwJSn) | [Anthony David](https://open.spotify.com/artist/6ktPQsThz35JwdtDsvi51S) | [The Setup \(Live\)](https://open.spotify.com/album/5T4dHEsnZQlKv2cgxJuHmw) | 5:04 | 2022-02-10 | 2022-07-29 |
 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 | 2022-02-10 |  |
 | [A Long Walk \(Groove\)](https://open.spotify.com/track/4bVazcMn4wRqnL5LXOIAH5) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Experience: Jill Scott 826+](https://open.spotify.com/album/4qUhtl9sum7gV3mEbEoV2k) | 6:18 | 2022-02-10 | 2022-07-29 |

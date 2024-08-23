@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: CARSTEN2X
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,838 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,848 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 12 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
 | 13 | [Taller](https://open.spotify.com/track/5aTNMEPK4wsfUKYj6RVBOf) | [Rubberband Girl](https://open.spotify.com/artist/6qOThA4u1cN1OIn0sxHabV), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Taller](https://open.spotify.com/album/3ofHmRzZcErNcgiEFWZK2t) | 3:28 |
 | 14 | [Doin' Me Right](https://open.spotify.com/track/5n4PExyIAtWT733eMFACbK) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Doin' Me Right](https://open.spotify.com/album/090QsKMUi8hyqzaZd2r3Kk) | 3:27 |
-| 15 | [Hillside](https://open.spotify.com/track/68rWygkFlerJQdU3UwMcUV) | [Ana Barrena](https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm), [SpaceFLP](https://open.spotify.com/artist/2xfZJW8GvJL76CCH8EC9bV) | [Hillside](https://open.spotify.com/album/2VMmw0nuemlk2ouO9Z5zST) | 4:03 |
-| 16 | [S.O.S](https://open.spotify.com/track/5PhTBv2clUB1KbutrDOpaN) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Nasti](https://open.spotify.com/album/0JG7O2WpSsKioNPeunpGQw) | 2:46 |
-| 17 | [Notallaboutyu](https://open.spotify.com/track/2smx86V1Zip7GdIw8IMGRy) | [VagueEightySix](https://open.spotify.com/artist/0Ur5n0V2MS1Fq1uaYQktEc) | [Notallaboutyu](https://open.spotify.com/album/4qxotsHIgJc5nWiCcioWd2) | 2:23 |
-| 18 | [Valentine](https://open.spotify.com/track/0TnluhYeKR8bHReiBE65TR) | [Ethan Hollan](https://open.spotify.com/artist/7wT5qkFeJBJrV8B3OSrTmc) | [Valentine](https://open.spotify.com/album/1KGZFu0vZj4wCANXaKtJwc) | 4:48 |
-| 19 | [2 Be Mine](https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp) | [REIMOND](https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5) | [2 Be Mine](https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz) | 3:00 |
-| 20 | [The Way](https://open.spotify.com/track/1GRWx4Ot4DihWOKG4qzy8j) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [The Way](https://open.spotify.com/album/0bmN6NpgKPSVY91N8bNoM2) | 2:07 |
-| 21 | [TAKE ME](https://open.spotify.com/track/1y1F94XomsCHvXO1YZMbJW) | [Ciinderella Balthazar](https://open.spotify.com/artist/54NIBHlqKURPm7GLv5HmdM) | [TAKE ME](https://open.spotify.com/album/2XrXI0ZGUDJBR0hE3K9vuf) | 2:39 |
-| 22 | [What's Good \(Freestyle\)](https://open.spotify.com/track/0npzWDgUwXTWTpUSPJ1S63) | [Z!NO](https://open.spotify.com/artist/0dIkofXQIWszV52UOFMxS4) | [What's Good \(Freestyle\)](https://open.spotify.com/album/3E8MfyuHvVImSm6Clezjce) | 2:02 |
-| 23 | [Unconditionally](https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP) | [Mossy](https://open.spotify.com/artist/3GoyRMYwSPCEPmqwXxvWr5) | [Unconditionally](https://open.spotify.com/album/5tDK0NIN6lhhu3K9eadq3J) | 3:46 |
+| 15 | [High On The Feeling](https://open.spotify.com/track/3vopPldUUUyNi5IQfRDpKn) | [spacemen](https://open.spotify.com/artist/60eqHxLI09mvAxjDv8Uq51) | [High On The Feeling](https://open.spotify.com/album/0uQ2eN5u1iVpW9hM8F8pDQ) | 2:37 |
+| 16 | [Hillside](https://open.spotify.com/track/68rWygkFlerJQdU3UwMcUV) | [Ana Barrena](https://open.spotify.com/artist/0K4wNL2IHsOGdbKcVtDFSm), [SpaceFLP](https://open.spotify.com/artist/2xfZJW8GvJL76CCH8EC9bV) | [Hillside](https://open.spotify.com/album/2VMmw0nuemlk2ouO9Z5zST) | 4:03 |
+| 17 | [S.O.S](https://open.spotify.com/track/5PhTBv2clUB1KbutrDOpaN) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Nasti](https://open.spotify.com/album/0JG7O2WpSsKioNPeunpGQw) | 2:46 |
+| 18 | [Notallaboutyu](https://open.spotify.com/track/2smx86V1Zip7GdIw8IMGRy) | [VagueEightySix](https://open.spotify.com/artist/0Ur5n0V2MS1Fq1uaYQktEc) | [Notallaboutyu](https://open.spotify.com/album/4qxotsHIgJc5nWiCcioWd2) | 2:23 |
+| 19 | [Valentine](https://open.spotify.com/track/0TnluhYeKR8bHReiBE65TR) | [Ethan Hollan](https://open.spotify.com/artist/7wT5qkFeJBJrV8B3OSrTmc) | [Valentine](https://open.spotify.com/album/1KGZFu0vZj4wCANXaKtJwc) | 4:48 |
+| 20 | [2 Be Mine](https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp) | [REIMOND](https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5) | [2 Be Mine](https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz) | 3:00 |
+| 21 | [The Way](https://open.spotify.com/track/1GRWx4Ot4DihWOKG4qzy8j) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [The Way](https://open.spotify.com/album/0bmN6NpgKPSVY91N8bNoM2) | 2:07 |
+| 22 | [TAKE ME](https://open.spotify.com/track/1y1F94XomsCHvXO1YZMbJW) | [Ciinderella Balthazar](https://open.spotify.com/artist/54NIBHlqKURPm7GLv5HmdM) | [TAKE ME](https://open.spotify.com/album/2XrXI0ZGUDJBR0hE3K9vuf) | 2:39 |
+| 23 | [What's Good \(Freestyle\)](https://open.spotify.com/track/0npzWDgUwXTWTpUSPJ1S63) | [Z!NO](https://open.spotify.com/artist/0dIkofXQIWszV52UOFMxS4) | [What's Good \(Freestyle\)](https://open.spotify.com/album/3E8MfyuHvVImSm6Clezjce) | 2:02 |
 | 24 | [Cortana](https://open.spotify.com/track/5S8uaR4agezNu546qCj9oq) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cortana](https://open.spotify.com/album/0KEX1AH5HtdSdVfTGyLrKh) | 3:41 |
 | 25 | [only1](https://open.spotify.com/track/10yyGvFFxYCFKAVHE8MnOj) | [David Armada](https://open.spotify.com/artist/0NCZoJwqMYvBpYFRnKnAMh) | [southerngothic](https://open.spotify.com/album/2ZFeiHv9PkRkA0StT9L4We) | 1:42 |
 | 26 | [Let Go](https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Let Go](https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Shiny Things](https://open.spotify.com/track/1FtIJ4bHPWDp82eFDAe9w7) | [Matilda Cole](https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI) | [Shiny Things](https://open.spotify.com/album/3onXWmnfOLbH5TeRvtFlDk) | 2:47 |
 | 100 | [Promises](https://open.spotify.com/track/7LcT7tPVtzLEyyCRd0KMxO) | [Niall T](https://open.spotify.com/artist/7moBHCptFUmIhDYr9B2H0X) | [Promises](https://open.spotify.com/album/4UYPjTt6EBXYKR5TS3sUcw) | 2:57 |
 
-Snapshot ID: `ZsUf8AAAAABTdQGf5DuAmTWDbfRnq69W`
+Snapshot ID: `Zsce0AAAAACcuuTBJBROF4CP0ot5vOyk`

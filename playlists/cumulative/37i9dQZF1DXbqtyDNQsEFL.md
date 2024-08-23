@@ -2,7 +2,7 @@
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=hfVLax0ZRnanNGVT\_IilVw>Ada Ehi</a>
+> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa?si=EKXrWc\-hTtqOjn7t6rzkaQ>Oyije</a>
 
 374 songs - 1 day 13 hr 16 min
 

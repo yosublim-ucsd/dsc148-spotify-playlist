@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 
 > 
 
-[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 403 songs - 1 day 2 hr 4 min
+[Arran Ross\-Paterson](https://open.spotify.com/user/arranrp) - 11 likes - 404 songs - 1 day 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,6 @@ pretty - [cumulative](/playlists/cumulative/5LjkDWF27DMbFVRxUE2Pin.md) - [plain]
 | 401 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 |
 | 402 | [KMAG YOYO](https://open.spotify.com/track/54BYHlZdV2QsnoPPSnAK8t) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [KMAG YOYO \(& Other American Stories\)](https://open.spotify.com/album/1DZTkteQGTi9Ko7CwZKnWc) | 4:19 |
 | 403 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
+| 404 | [Rrrrrollin](https://open.spotify.com/track/7I6Gp2dEZQMnsOmgdUR1c7) | [Imperial Leisure](https://open.spotify.com/artist/0BCEwn9PxFIhe99I8KI5wK) | [Rrrrrollin](https://open.spotify.com/album/0YERjefDcz0e5A02l7OHbg) | 3:08 |
 
-Snapshot ID: `AAAB3ClOIKtFD4UKg4nOkRcKN/TU3qdG`
+Snapshot ID: `AAAB3Q0TeMLJS010o3VOuNWpaPyQR6LO`

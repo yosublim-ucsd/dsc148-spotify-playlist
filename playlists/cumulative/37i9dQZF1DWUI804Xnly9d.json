@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 188307,
       "name": "Ho Savera",
       "url": "https://open.spotify.com/track/5ENhWLxHCaUP5EVh1I1Bbn"
@@ -3902,6 +3902,24 @@
       "duration_ms": 217894,
       "name": "Khwaishein Meri",
       "url": "https://open.spotify.com/track/3Dbf1x9E6L8dyezdEQyzqP"
+    },
+    {
+      "album": {
+        "name": "Kinaare",
+        "url": "https://open.spotify.com/album/1atSYZFpKekl0u4JlEuzRC"
+      },
+      "artists": [
+        {
+          "name": "Suzonn",
+          "url": "https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161231,
+      "name": "Kinaare",
+      "url": "https://open.spotify.com/track/349xrTZ3A494zVirLQUeBb"
     },
     {
       "album": {
@@ -6043,6 +6061,28 @@
     },
     {
       "album": {
+        "name": "dastaan",
+        "url": "https://open.spotify.com/album/0mUNlYODKUyJe5dOep0r22"
+      },
+      "artists": [
+        {
+          "name": "Ashish Zachariah",
+          "url": "https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT"
+        },
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196309,
+      "name": "safar",
+      "url": "https://open.spotify.com/track/02lLmFDMpMltZBXVWLZVIQ"
+    },
+    {
+      "album": {
         "name": "Safar",
         "url": "https://open.spotify.com/album/06yYVu3F7bVRFo6xksZeZX"
       },
@@ -7198,7 +7238,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 258310,
       "name": "Tum Aaye Ho Toh",
       "url": "https://open.spotify.com/track/7d2k1S52ohPqOkw2tcreS4"

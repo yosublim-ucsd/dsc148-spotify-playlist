@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, Stormzy",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Pendulum",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 209302,
       "name": "2Drill",
       "url": "https://open.spotify.com/track/4RfQl2zZ3zEtti8kLIzyWo"
+    },
+    {
+      "album": {
+        "name": "6 Feet Under",
+        "url": "https://open.spotify.com/album/3warouoCc0hCVLw5H6sIfZ"
+      },
+      "artists": [
+        {
+          "name": "Sudley",
+          "url": "https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "6 Feet Under",
+      "url": "https://open.spotify.com/track/4m4OY2DGHJUe4msLGHt0P8"
     },
     {
       "album": {
@@ -492,7 +514,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 257931,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/5O5f1j673yOq0xcsD5bUMg"
@@ -4030,7 +4052,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 201600,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5L3WyH271K5kFFnTvLgmmZ"
@@ -6283,6 +6305,28 @@
     },
     {
       "album": {
+        "name": "Here Comes The Warrior (feat. Gia Santho)",
+        "url": "https://open.spotify.com/album/2hYJkFs5Bhrizc3rgq0eNE"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Gia Santho",
+          "url": "https://open.spotify.com/artist/5OjPeEJJlL9uF6A5UD6wHb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Here Comes The Warrior (feat. Gia Santho)",
+      "url": "https://open.spotify.com/track/3xUfo4tZPPCSYQtnLQhQ9h"
+    },
+    {
+      "album": {
         "name": "Cognition",
         "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
       },
@@ -6398,6 +6442,24 @@
       "duration_ms": 225862,
       "name": "High Note",
       "url": "https://open.spotify.com/track/28f5cHOahtA3JhbIBt9q9Y"
+    },
+    {
+      "album": {
+        "name": "Midnight Forever",
+        "url": "https://open.spotify.com/album/4DldFa5iY1LlYJqS0fjYAO"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/68NT9wtJGZuAWcoINJNpz4"
     },
     {
       "album": {
@@ -7238,6 +7300,28 @@
       "duration_ms": 291334,
       "name": "Jump Up",
       "url": "https://open.spotify.com/track/1zarscRek326zpEkwPPF2z"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
     },
     {
       "album": {
@@ -9395,6 +9479,28 @@
     },
     {
       "album": {
+        "name": "Napalm",
+        "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Joey Valence & Brae",
+          "url": "https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204757,
+      "name": "Napalm",
+      "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
+    },
+    {
+      "album": {
         "name": "My Sound (1993 - 2004)",
         "url": "https://open.spotify.com/album/6CIa0XxSQydmAfOBhKrRSh"
       },
@@ -10464,7 +10570,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 145116,
       "name": "Pachamama (feat. Elliphant)",
       "url": "https://open.spotify.com/track/2TCpEU82gEzWAOAbjewQpP"
@@ -10970,7 +11076,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 158500,
       "name": "Rage",
       "url": "https://open.spotify.com/track/4pDMigVe00CtmHeqSD0Yvy"
@@ -11010,7 +11116,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 189257,
       "name": "Rain Dance",
       "url": "https://open.spotify.com/track/2kjE1Znpvkl5g6BrHAN8KG"
@@ -12638,7 +12744,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 178001,
       "name": "Sleepwalking (feat. Songer)",
       "url": "https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz"

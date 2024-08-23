@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Heeya Tikku, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,008 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,017 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 45 | [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 |
 | 46 | [Main Chala](https://open.spotify.com/track/0sJHnnOsgorIrl4lnIPa8q) | [Sukoon](https://open.spotify.com/artist/3QVoEXiOz0eiDLoyb8SgYX) | [Main Chala](https://open.spotify.com/album/2H77bD12gqC6BY5HXvuBoD) | 2:48 |
 | 47 | [Vanam](https://open.spotify.com/track/4vOxxDnPAlgj56tUl3u5GD) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Vanam](https://open.spotify.com/album/70YnuLhJSBWIYkAKtzyuOX) | 3:40 |
-| 48 | [Chal Le Chal Bazaar](https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn) | [Karandeep Mattou](https://open.spotify.com/artist/1STzHJqJoQPIGVCqr6mA4a) | [Chal Le Chal Bazaar](https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o) | 2:52 |
+| 48 | [Na Hosh Mein](https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn) | [Harshit Pokhriyal](https://open.spotify.com/artist/0vXGNXD0IkfMyZVfGyJcfR) | [Na Hosh Mein](https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o) | 2:52 |
 | 49 | [Subah Subah](https://open.spotify.com/track/2IzkJw27LtR8489aMzdVVC) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Subah Subah](https://open.spotify.com/album/0zMhkwVuNQ18vUDxnQeS9K) | 2:40 |
 | 50 | [Khali Khali](https://open.spotify.com/track/3QlxGzvkF9i963G3m8n7Z6) | [Shubhangi Dave](https://open.spotify.com/artist/4SHODWsXbqsZWWevkP8LIW) | [Khali Khali](https://open.spotify.com/album/6nzjLty8yrwWBTMq5UdXqC) | 3:32 |
 | 51 | [Beparwah Ishq](https://open.spotify.com/track/1c4yC1AqfnGKmswWKXWL0d) | [Nikhil Pawar Music](https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Beparwah Ishq](https://open.spotify.com/album/4rxXqAqWa2x6l0VDR0jzPf) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Saosin. The essential tracks, all in one playlist.",
-  "num_followers": 7432,
+  "num_followers": 7440,
   "original_name": "This Is Saosin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAACoX1hhq7wFcNGQj+b9hl3W",
+  "snapshot_id": "ZsUuAAAAAACMh1sBgkdSxy2Z14mV5II/",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From The Garden Amphitheater",
-        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 60035,
-      "name": "Cove's Memory - Live",
-      "url": "https://open.spotify.com/track/0GckmPXeRKJpMsDrJ2wyDz"
+      "duration_ms": 186746,
+      "name": "Count Back from TEN",
+      "url": "https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Along The Shadow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+        "name": "Live From The Garden Amphitheater",
+        "url": "https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Count Back from TEN",
-      "url": "https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA"
+      "duration_ms": 60035,
+      "name": "Cove's Memory - Live",
+      "url": "https://open.spotify.com/track/0GckmPXeRKJpMsDrJ2wyDz"
     },
     {
       "added_at": null,

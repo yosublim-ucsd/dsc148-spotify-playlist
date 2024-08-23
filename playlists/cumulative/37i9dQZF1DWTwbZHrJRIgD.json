@@ -1855,7 +1855,7 @@
       "artists": [
         {
           "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+          "url": "https://open.spotify.com/artist/6dk4Uxf5hAfQpP0ZJ71u7m"
         },
         {
           "name": "Arijit Singh",
@@ -2038,6 +2038,32 @@
       "duration_ms": 183882,
       "name": "In Raahon Mein (From \"The Archies\")",
       "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
+    },
+    {
+      "album": {
+        "name": "In the clouds",
+        "url": "https://open.spotify.com/album/3qeRahHD5llNuNA9MBW3ed"
+      },
+      "artists": [
+        {
+          "name": "Chitranshi",
+          "url": "https://open.spotify.com/artist/2kVut5vfq3fvNVUZ2FSN76"
+        },
+        {
+          "name": "Fukra Insaan",
+          "url": "https://open.spotify.com/artist/5lnhW14tZrH3kUMI4kvVy5"
+        },
+        {
+          "name": "Shekhar",
+          "url": "https://open.spotify.com/artist/56F6WyCJno1s5RrYEUg5r8"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "In the clouds",
+      "url": "https://open.spotify.com/track/2f6wf98QeZh5QZYKx4ODrS"
     },
     {
       "album": {
@@ -3776,7 +3802,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 180526,
       "name": "Nikat - Dance Version",
       "url": "https://open.spotify.com/track/4BZrDyKyD9wyOLtPJgMx9d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Ana Castela e mais mulheres no volume máximo! Co\-curadoria com Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,186 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,277 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
 | 28 | [Besteira Feita \- Ao Vivo](https://open.spotify.com/track/3Av0UfVtu9eT3GVyfVyphA) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Besteira Feita: Buteco das Igual \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5iLJSooiKsA9hAu2IAa91I) | 2:40 |
 | 29 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 |
-| 30 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
+| 30 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
 | 31 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
-| 32 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 32 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
 | 33 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |
 | 34 | [Quem É o Louco Entre Nós](https://open.spotify.com/track/07wcQ1j2RrORokWq3HaXex) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Quem É o Louco Entre Nós](https://open.spotify.com/album/5iz3ooADhhU2gQP76pxqyV) | 3:28 |
 | 35 | [Você Humilha \- Ao Vivo](https://open.spotify.com/track/5kMKSkbbwi6VHiHDRegH7N) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Verdade \(Ao Vivo / Deluxe\)](https://open.spotify.com/album/1cZdFWvvyAKXlUDAZNMs1c) | 3:01 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Pássaro De Fogo](https://open.spotify.com/track/1m4beBDqxCVOdJFvXL7DEg) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Pássaro De Fogo](https://open.spotify.com/album/7p1ph1czkPiXYxLi7TBUe1) | 4:04 |
 | 40 | [Cria Da Ivete \- Ao Vivo](https://open.spotify.com/track/4XpB5oBPuygG2Gbpi3PUhu) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Chega Mais \(Ao Vivo\)](https://open.spotify.com/album/72ubm2vqYUYmYOjEUl687c) | 3:57 |
 | 41 | [Bloqueio Emocional \- Ao Vivo](https://open.spotify.com/track/3Uc6MgPlhQJVWuiUOgKnhE) | [Alexia Reis](https://open.spotify.com/artist/6rYmVcx0TKASZU6Tn3MgA3), [Workshow](https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/6iPQrpMFI7bXjwozuMkhwn) | 2:30 |
-| 42 | [Irracional](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
+| 42 | [Irracional \- Ao Vivo](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2 \- Ao Vivo](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
 | 43 | [Fraquinha de Tudo](https://open.spotify.com/track/2i7xriYsqQqlacRv0vjdpL) | [Julya e Maryana](https://open.spotify.com/artist/6EYhlxg5tQoFukHXaIRwGB), [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ) | [Fraquinha de tudo](https://open.spotify.com/album/6LCLaegiqqsfYZDawq6HGe) | 2:34 |
 | 44 | [Sete Vidas \- Ao Vivo](https://open.spotify.com/track/37Wyl0UhTWcRwbf4RKHZMb) | [Yule Rossi](https://open.spotify.com/artist/4L84cDrvCezSuR0jwo0Dlo) | [Sete Vidas \(Ao Vivo\)](https://open.spotify.com/album/3QedI9N3cpiMPULClX1MYI) | 2:44 |
 | 45 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 |

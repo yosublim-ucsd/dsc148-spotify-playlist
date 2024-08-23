@@ -1,6 +1,6 @@
 {
   "description": "Dreamy melodies and hushed vocals. Cover: Clairo",
-  "num_followers": 1109689,
+  "num_followers": 1109703,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Untitled '91",
+        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
+      },
+      "artists": [
+        {
+          "name": "Hector Gachan",
+          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
+        }
+      ],
+      "duration_ms": 87966,
+      "name": "Flook",
+      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Prune, You Talk Funny",
         "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Untitled '91",
-        "url": "https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu"
-      },
-      "artists": [
-        {
-          "name": "Hector Gachan",
-          "url": "https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM"
-        }
-      ],
-      "duration_ms": 87966,
-      "name": "Flook",
-      "url": "https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -735,8 +735,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Hot in NY",
-        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
+        "name": "Art House",
+        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 118787,
-      "name": "Hot in NY",
-      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+      "duration_ms": 177142,
+      "name": "Art House",
+      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Mentos and Coke",
         "url": "https://open.spotify.com/album/4Mk0oTQwMaQcQYSQHt08Gf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 169950,
       "name": "Mentos and Coke",
       "url": "https://open.spotify.com/track/1vohIWnkOUnCv60Od198Ma"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -887,8 +887,8 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Art House",
-        "url": "https://open.spotify.com/album/6xFQACinH8dNlzhKaRCfua"
+        "name": "Hot in NY",
+        "url": "https://open.spotify.com/album/7HUkTgfCJpTzB7OUHSMGT8"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 177142,
-      "name": "Art House",
-      "url": "https://open.spotify.com/track/1Qq0KLUDks1te934eJpbeV"
+      "duration_ms": 118787,
+      "name": "Hot in NY",
+      "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 171383,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "You Tear Me Apart",
         "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177957,
       "name": "You Tear Me Apart",
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/58OW3hcWM06QMHiKjUq9Dl"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 171383,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/3hf4T37dc3UD4pWWrxHaTU"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Skeleton Key",
-        "url": "https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 198923,
-      "name": "Skeleton Key",
-      "url": "https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Your Day Will Come",
         "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
+        "name": "Skeleton Key",
+        "url": "https://open.spotify.com/album/6AplXmqTv6a4Pl7agAhEEv"
       },
       "artists": [
         {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
         }
       ],
-      "duration_ms": 193478,
-      "name": "July",
-      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
+      "duration_ms": 198923,
+      "name": "Skeleton Key",
+      "url": "https://open.spotify.com/track/1JnRhnZMomYsZ13RI3PRUQ"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 209250,
       "name": "best day ever",
       "url": "https://open.spotify.com/track/1dDxFfGse3z7OuWSM6ApL8"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "July",
+        "url": "https://open.spotify.com/album/75vfYFwRYjlUagRN8mRrb9"
+      },
+      "artists": [
+        {
+          "name": "SALES",
+          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "July",
+      "url": "https://open.spotify.com/track/3cNdCwWCyHfjEd7J51sSne"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Where Do I Go",
+        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
+      },
+      "artists": [
+        {
+          "name": "MINOVA",
+          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
+        }
+      ],
+      "duration_ms": 190147,
+      "name": "Where Do I Go",
+      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Mika's Laundry",
         "url": "https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Where Do I Go",
-        "url": "https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg"
-      },
-      "artists": [
-        {
-          "name": "MINOVA",
-          "url": "https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC"
-        }
-      ],
-      "duration_ms": 190147,
-      "name": "Where Do I Go",
-      "url": "https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "moviestar",
+        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 138714,
+      "name": "moviestar",
+      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "moviestar",
-        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
+        "name": "One Million Love Songs",
+        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "Bnny",
+          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
         }
       ],
-      "duration_ms": 138714,
-      "name": "moviestar",
-      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
+      "duration_ms": 156266,
+      "name": "Nothing Lasts",
+      "url": "https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 239604,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "One Million Love Songs",
-        "url": "https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP"
-      },
-      "artists": [
-        {
-          "name": "Bnny",
-          "url": "https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "Nothing Lasts",
-      "url": "https://open.spotify.com/track/2uwscEwG2u0rDYTGSvxrWu"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "garage sale",
+        "url": "https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP"
+      },
+      "artists": [
+        {
+          "name": "BETWEEN FRIENDS",
+          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
+        }
+      ],
+      "duration_ms": 114916,
+      "name": "Really good cry",
+      "url": "https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "milk in the morning",
         "url": "https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 190223,
       "name": "milk in the morning",
       "url": "https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "garage sale",
-        "url": "https://open.spotify.com/album/083gC3RjOGmxjHN3OX4UmP"
-      },
-      "artists": [
-        {
-          "name": "BETWEEN FRIENDS",
-          "url": "https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn"
-        }
-      ],
-      "duration_ms": 114916,
-      "name": "Really good cry",
-      "url": "https://open.spotify.com/track/4ezZ31HcRsE7zMNy73z9js"
     },
     {
       "added_at": "2024-08-02 04:00:00",

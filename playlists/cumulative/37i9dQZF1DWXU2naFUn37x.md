@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Il top dello street rap italiano 🔥 Papa V e Nerissima Serpe in cover
+> Il top dello street rap italiano 🔥 Cover: ANNA
 
-590 songs - 1 day 3 hr 1 min
+591 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 | 2022-09-08 | 2023-04-07 |
 | [Compare \(feat\. Lazza & Guè\)](https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CANCUN](https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe) | 3:33 | 2022-10-20 | 2023-03-25 |
 | [Connexion](https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Connexion](https://open.spotify.com/album/3bPPFbT0uMsq5Ma3IoeCUI) | 2:34 | 2023-03-16 | 2023-05-26 |
+| [Contigo](https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Contigo](https://open.spotify.com/album/78xTjDRmktseI106DiEoIG) | 2:20 | 2024-08-22 |  |
 | [Copacabana](https://open.spotify.com/track/4IUW8x8SdDkcbm8LivZRC1) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Copacabana](https://open.spotify.com/album/1gDOQhITnrLJtvL1q3aTm2) | 1:56 | 2022-09-22 | 2022-12-09 |
 | [Copacabana](https://open.spotify.com/track/0Qs2VJgDHPBJBvtfCqQcox) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/7u2K5ihJfEGGHL712aubOo) | 2:49 | 2022-06-09 | 2022-07-22 |
 | [COPACABANA](https://open.spotify.com/track/3P3wdlzvU9pZSu5Ppkv53L) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [COPACABANA](https://open.spotify.com/album/1r5LuajK4YigSJ2HXDcDIQ) | 2:18 | 2024-07-18 |  |
@@ -315,7 +316,7 @@
 | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/track/5J40VCMOSuXZZAGJZeFzQJ) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [LEVANTE \(feat\. Paky\)](https://open.spotify.com/album/3eZqA45DiafIF7obBL69jg) | 2:19 | 2023-09-07 | 2024-03-15 |
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-10 | 2023-05-25 |
 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 | 2023-04-20 | 2023-05-05 |
-| [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 | 2024-07-25 |  |
+| [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 | 2024-07-25 | 2024-08-23 |
 | [Location](https://open.spotify.com/track/1elcu8IXCUBRUYObThbyZU) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ALPHA](https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0) | 2:55 | 2023-04-21 | 2023-10-20 |
 | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/track/1azrb8z0x7CvdchfvJX4oR) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [LOS DIABLOS \(feat\. Artie 5ive & 167 Gang\)](https://open.spotify.com/album/6DFq4pWC0H3MvmwR99Ke5V) | 3:23 | 2024-02-15 | 2024-05-03 |
 | [Lucky \(feat\. Simba La Rue\)](https://open.spotify.com/track/42fhnsrTh9D2FU688NnQeP) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Medley](https://open.spotify.com/album/7j8TXmPcnqg6oX05XDQJRk) | 2:43 | 2024-04-18 | 2024-06-07 |

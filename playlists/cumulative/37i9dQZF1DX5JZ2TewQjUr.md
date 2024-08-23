@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wellsaid
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-1,130 songs - 2 day 15 hr 59 min
+1,135 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Happy Ever After](https://open.spotify.com/track/1pRRYq9XyBu8cJDPzHWicK) | [Susan Wong](https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI) | [Happy Ever After](https://open.spotify.com/album/0dF4NV8urMiLF1yGQZAFsa) | 3:19 | 2023-07-06 | 2023-11-03 |
 | [Harbor](https://open.spotify.com/track/49ZfLsBNfvKMu7J8Vqm9VE) | [Kelvin T](https://open.spotify.com/artist/5eKocRaHaAoxtdSAL1zDyT), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Synthetic](https://open.spotify.com/album/07wiHViuoo1UnSl1AjKjFk) | 2:30 | 2022-09-15 | 2023-03-18 |
 | [HARD](https://open.spotify.com/track/3ci0VZQQd2OHVSxaSM14Kc) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva), [Raw Soul](https://open.spotify.com/artist/2Ppd9IHI9ILZ9Epc20sKkM), [JYKC](https://open.spotify.com/artist/3u6JLHfwEnpd4WFvY8T5WN) | [HARD](https://open.spotify.com/album/3uZ1ehCIubZ8kt2xg0KNef) | 3:55 | 2023-09-28 | 2024-01-05 |
+| [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 | 2024-08-22 |  |
 | [Haze](https://open.spotify.com/track/0JNE7FY4YAaabbvtnH2Anw) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze](https://open.spotify.com/album/3Wb8cdmD4QrVJBkAVFmjsk) | 3:32 | 2022-09-29 | 2023-02-03 |
 | [Haze \- Live](https://open.spotify.com/track/5HVh454mywL0Pu9sRFgolr) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Haze \(Live\)](https://open.spotify.com/album/7dJV7D6TTXOVSEFKA182U4) | 3:42 | 2022-12-01 | 2023-03-18 |
 | [HEAD ON YOUR SHOULDER](https://open.spotify.com/track/4Mnib2lihcKmricubFkKcp) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [BMW](https://open.spotify.com/artist/7cZ5ljacIj0RGAxAjijeqC), [MAEL](https://open.spotify.com/artist/6EnMjgUyHGAVJDp1IvQWOp) | [2020](https://open.spotify.com/album/1DMn7JbuPSz4ErrdQeYXZ0) | 3:54 | 2022-05-26 | 2022-09-09 |
@@ -310,6 +311,7 @@
 | [i love you](https://open.spotify.com/track/10LOrNwBsBMf5iZYyYJeFW) | [May Chi](https://open.spotify.com/artist/5wCRy3ZyknbKCFXhfzqqcH) | [postcards](https://open.spotify.com/album/1cvRMKgcJSrjBQyDZyD3i9) | 3:35 | 2024-07-04 |  |
 | [I made wine out of tears](https://open.spotify.com/track/0tu4KP98S7K1o54V5eQ1yy) | [Racy](https://open.spotify.com/artist/5vTtc4X5nArtI6oOD08Oqr) | [I made wine out of tears](https://open.spotify.com/album/0PZGCk65MLxPLIrJC2E5df) | 2:50 | 2022-10-13 | 2023-02-03 |
 | [I miss](https://open.spotify.com/track/3mvK0gkQYq3n3GSdvsPUDp) | [Zainali](https://open.spotify.com/artist/5r027ab2Hq1tJlAkCtpx58) | [I miss](https://open.spotify.com/album/7dkOxsRmw6ffxATIlxnhDq) | 3:22 | 2023-12-14 | 2024-05-10 |
+| [I Miss You](https://open.spotify.com/track/1B8y5QXD89avb0Qv646JBk) | [HKY](https://open.spotify.com/artist/5xxEQ38ND7ml49zqz1CpiP) | [I Miss You](https://open.spotify.com/album/6ObDTSanrw05sTikDEbXge) | 3:21 | 2024-08-22 |  |
 | [I Think I'll Love Again](https://open.spotify.com/track/6FhwiLFBAGKmLMzlUID4bt) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [I Think I'll Love Again](https://open.spotify.com/album/2d0UY2bGQ0jnXG78cH39Ww) | 3:22 | 2023-08-17 | 2023-12-01 |
 | [I Think It's Called Love](https://open.spotify.com/track/20qSlGJcQWb42VaQldUdvS) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Think It's Called Love](https://open.spotify.com/album/3YUeNdoLFls6W5VQQjm8KK) | 2:10 | 2022-12-15 | 2023-03-18 |
 | [I Want You To Know](https://open.spotify.com/track/04smOHus0tSrhdQG6O2M2M) | [lowkeylng](https://open.spotify.com/artist/2z5qEZpkm0pjA4EKEGnlZ9) | [Beauty Of What Could've Been](https://open.spotify.com/album/5m84S4n9M5h01aerTioAz2) | 3:12 | 2024-08-15 |  |
@@ -396,6 +398,7 @@
 | [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 | 2023-09-01 |
 | [Losing Game](https://open.spotify.com/track/2zbWE9VO60pVYyaZ2BKDlE) | [Alexmalism](https://open.spotify.com/artist/2UwJTbVVDgt5KKRK5i94zD) | [Losing Game](https://open.spotify.com/album/45GELGJ5FlEcA80P31GYVk) | 4:16 | 2024-06-20 |  |
 | [Lost Boy, Lost City](https://open.spotify.com/track/2rb8Kwb5bD5uqbdDL1xSd1) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lost Boy, Lost City](https://open.spotify.com/album/2ewnHTcqfX66aPT82faWS9) | 2:23 | 2023-07-27 | 2023-11-03 |
+| [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 | 2024-08-22 |  |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Love Forever \(Remixed\)](https://open.spotify.com/track/0UpQMySQxMrcdeJUplFVp8) | [Hector Law](https://open.spotify.com/artist/363rdNViquRLciCJyTI2Zw) | [Love Forever \(Remixed\)](https://open.spotify.com/album/0rIjEzBvH8a08TODyzinGz) | 5:09 | 2022-11-24 | 2023-03-18 |
 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 | 2022-09-08 | 2023-03-18 |
@@ -507,6 +510,7 @@
 | [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 | 2023-11-23 | 2024-02-16 |
 | [Pause](https://open.spotify.com/track/1WhX5m28S0c5Htpvwwdggf) | [Andy K](https://open.spotify.com/artist/5TeqPREUlEjAAJ7caXE4ZJ) | [Pause](https://open.spotify.com/album/2dltQKPA1iATmAKp1EolEZ) | 3:45 | 2023-01-19 | 2023-05-26 |
 | [Peace Of You](https://open.spotify.com/track/13U5ItKPNpnLGQ9k3XZlCb) | [Blackout On Mars](https://open.spotify.com/artist/77Rsubft2DC13eDnMHV8gW) | [Peace Of You](https://open.spotify.com/album/5UsrOvYQ0j1KRzdl2ArH4w) | 3:19 | 2023-03-24 | 2023-07-14 |
+| [Penny](https://open.spotify.com/track/4k2HmJbsGH6dbLdvHX9piV) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Penny](https://open.spotify.com/album/2QGONFETSMCVdTY9iQLCWZ) | 3:26 | 2024-08-22 |  |
 | [photo booth](https://open.spotify.com/track/4Mp4OO374aKRxOyWu0Cwer) | [Am.ok](https://open.spotify.com/artist/7sScZEc4lJXRPmrPWobyU6) | [photo booth](https://open.spotify.com/album/5MsYMXBeyzrJhd5yiBLl51) | 4:44 | 2024-05-09 |  |
 | [Pick Up The Damn Phone! \(feat\. J Jelly\)](https://open.spotify.com/track/5d83zd1R25UuBbo0qefJhm) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [Pick Up The Damn Phone! \(feat\. J Jelly\)](https://open.spotify.com/album/5u621JujHuIfaMlbwElkHm) | 2:28 | 2024-01-25 | 2024-05-10 |
 | [pick up your phone](https://open.spotify.com/track/4jiiHoUOH8oDLPcWuydGuF) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h), [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [pick up your phone](https://open.spotify.com/album/5DubLw2TnutkxKYS0Nuygx) | 2:57 | 2023-06-15 | 2023-11-03 |
@@ -836,6 +840,7 @@
 | [半漫遊世界](https://open.spotify.com/track/1xl10XtzLg9EW46AxxwXP5) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [半漫遊世界](https://open.spotify.com/album/5dDVngK1TsKCuSOCHiiwzo) | 3:35 | 2022-05-26 | 2022-07-29 |
 | [半空](https://open.spotify.com/track/3WQrsXin9ApgBiCvmbtfOg) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [半空](https://open.spotify.com/album/4u30oOR3tTkzO0QHrYteIu) | 4:26 | 2024-03-07 |  |
 | [半醉 30% Soaked](https://open.spotify.com/track/4fmEWjG3T9kqa6bSHjjpib) | [初久](https://open.spotify.com/artist/0Ph9ZpWf7bL2LFQaUG6KRg) | [半醉 30% Soaked](https://open.spotify.com/album/4WvOp4GMkwF8ffuOzqU84g) | 3:30 | 2023-02-16 | 2023-03-18 |
+| [南 Nam](https://open.spotify.com/track/4lUDA9q4iIM9IoQherQIn7) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [南 Nam](https://open.spotify.com/album/5pRm6QGxFNByZDzCvUhmqo) | 6:15 | 2024-08-22 |  |
 | [卡式](https://open.spotify.com/track/6LGEh3lJXkDfgqyOLcM5Vf) | [Johnson C](https://open.spotify.com/artist/4cqSfFi0L1wjn3BA3hS5Yr) | [卡式](https://open.spotify.com/album/0GLJnvy5kh2EUyJSWgdNY1) | 2:50 | 2022-06-16 | 2022-09-09 |
 | [卦彖象爻 Hexagrams](https://open.spotify.com/track/2Pi0ZC9ra6hOTyJs1xdsS6) | [寧花月](https://open.spotify.com/artist/7opW2DKxUqFJTtbbe9Q6gp) | [卦彖象爻 Hexagrams](https://open.spotify.com/album/6VTaIJdZoRWIlXafYvv2cQ) | 4:29 | 2023-02-02 | 2023-07-14 |
 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 | 2022-10-20 | 2023-02-03 |

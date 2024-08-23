@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Ridsa",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Eko Eko",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 198210,
       "name": "Comme un \u00e9clair",
       "url": "https://open.spotify.com/track/6vd6XwtWGL2cEeOhqOTaTt"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 204002,
       "name": "Histoire sans t\u00eate",
       "url": "https://open.spotify.com/track/2xpkMwNPBCANArBvZ26Otm"
@@ -450,6 +450,28 @@
       "duration_ms": 176306,
       "name": "Immortel",
       "url": "https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP"
+    },
+    {
+      "album": {
+        "name": "J'ai Grandi",
+        "url": "https://open.spotify.com/album/53q4GoasgXwqzg4X36ckYU"
+      },
+      "artists": [
+        {
+          "name": "NTH",
+          "url": "https://open.spotify.com/artist/3hp2apilKCFSad2nh0I50s"
+        },
+        {
+          "name": "Gloria",
+          "url": "https://open.spotify.com/artist/2yWU3Z3NKkz1g49LzGFRU4"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "J'ai Grandi",
+      "url": "https://open.spotify.com/track/5ETuaFo3eJjaGBSSHRXOCK"
     },
     {
       "album": {
@@ -1057,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Soif d'amour",
+        "url": "https://open.spotify.com/album/2oml5W6hOHp3EFGJIDaqn6"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Soif d'amour",
+      "url": "https://open.spotify.com/track/4DKzSPzfpw6pnmD8ej7I9I"
+    },
+    {
+      "album": {
         "name": "Pas de seum pour le summer",
         "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
       },
@@ -1104,7 +1144,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 189760,
       "name": "Ta couleur pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/2qBOBonAOBUyLIls4XRr7s"
@@ -1180,7 +1220,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 171053,
       "name": "Trop t\u00f4t",
       "url": "https://open.spotify.com/track/5jIXED6iAgytXBQSmkyhGc"
@@ -1220,6 +1260,24 @@
       "duration_ms": 135612,
       "name": "Un jour de plus",
       "url": "https://open.spotify.com/track/37703MsdzYjoG8SqnbVKDg"
+    },
+    {
+      "album": {
+        "name": "Vie vagabonde",
+        "url": "https://open.spotify.com/album/0rmOiiMcUxATbZtqUD4Xgz"
+      },
+      "artists": [
+        {
+          "name": "Petit K",
+          "url": "https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227988,
+      "name": "Vie vagabonde",
+      "url": "https://open.spotify.com/track/3frFPT7DxaKvs2eYop2OPU"
     },
     {
       "album": {

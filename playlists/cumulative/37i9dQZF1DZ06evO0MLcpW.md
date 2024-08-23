@@ -2,7 +2,7 @@
 
 ### [This Is Aventura](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0MLcpW)
 
-> This Is Aventura\. Los temas esenciales, todos en una lista.
+> This Is Aventura\. Sus mejores éxitos, todos en una playlist.
 
 41 songs - 3 hr 3 min
 

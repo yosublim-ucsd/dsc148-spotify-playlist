@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Clara Ysé
+> Le meilleur de la chanson française actuelle\. Photo : Félix Radu
 
-57 songs - 3 hr 9 min
+58 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,13 +27,14 @@
 | [J'connais des gens](https://open.spotify.com/track/4ypetAUhCL7Y3Y433EBnm2) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [J'connais des gens](https://open.spotify.com/album/1aCdQ8jknao0WUpmx7kooJ) | 2:15 | 2024-06-27 |  |
 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 | 2024-06-27 |  |
 | [Jardin d'hiver](https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Jardin d'hiver](https://open.spotify.com/album/6QbLl6S6aVnJFELwqdw1gR) | 2:58 | 2024-06-27 |  |
+| [Je dis merci](https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2) | [Barbagallo](https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz) | [Garde\-fou](https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD) | 3:36 | 2024-08-22 |  |
 | [Je n'oublierai pas](https://open.spotify.com/track/2ReVppZGCdRbZOnzOTmjKR) | [Pierre Grizzli](https://open.spotify.com/artist/1UTisf1dDz0qF73iQQ1Eg3) | [Je n'oublierai pas](https://open.spotify.com/album/0gON1xyluuxSY9alXQtxGm) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Je voudrais tomber amoureux](https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Je voudrais tomber amoureux](https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0) | 4:43 | 2024-07-25 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 |  |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 |  |
 | [La route de Vénus](https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La route de Vénus](https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7) | 3:10 | 2024-06-27 |  |
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 |  |
-| [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 |  |
+| [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 |  |
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-27 |  |
 | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/track/1Hyyaf12M5APsTxHilyZ8U) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Marguerite Thiam](https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B) | [Le sais\-tu ¿ \(feat\. Marguerite Thiam\)](https://open.spotify.com/album/0dRTUlOrE2Ak042ebFuowC) | 4:00 | 2024-06-27 |  |

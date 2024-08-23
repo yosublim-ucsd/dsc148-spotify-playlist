@@ -2,7 +2,7 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Carla Prata, SleepyThePrince
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
 
 636 songs - 1 day 9 hr 53 min
 
@@ -507,7 +507,7 @@
 | [Saudade](https://open.spotify.com/track/7sBMMplj5JAauU85M4wdvS) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Passado](https://open.spotify.com/album/05zWfvsJH9b0jYSBo9HERB) | 2:30 | 2023-01-20 | 2023-01-22 |
 | [Saudade](https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:09 | 2023-12-22 | 2024-02-16 |
 | [Saudades](https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Saudades](https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7) | 3:32 | 2023-09-07 | 2023-09-22 |
-| [Say It](https://open.spotify.com/track/6b1aciAJJR9pwStI0jTaoe) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Say It](https://open.spotify.com/album/1DovFjeVIHEDrr4TSgeqHQ) | 3:07 | 2024-05-30 |  |
+| [Say It](https://open.spotify.com/track/6b1aciAJJR9pwStI0jTaoe) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [Say It](https://open.spotify.com/album/1DovFjeVIHEDrr4TSgeqHQ) | 3:07 | 2024-05-30 | 2024-08-23 |
 | [Say Now](https://open.spotify.com/track/6GQ3ZjpAvzlBKH0eSrgSim) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Say Now](https://open.spotify.com/album/2fq8Q2fhkLWyB6FK6agP4l) | 4:42 | 2023-11-17 | 2023-12-15 |
 | [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 | 2022-08-04 | 2022-09-17 |
 | [Scroll](https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Scroll](https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ) | 2:37 | 2022-07-07 | 2023-04-28 |
@@ -639,7 +639,7 @@
 | [À Tua Porta](https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [À Tua Porta](https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8) | 3:31 | 2023-12-08 |  |
 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 | 2023-06-01 | 2023-07-21 |
 | [Água](https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl) | [Mariana Norton](https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV) | [Água](https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc) | 3:27 | 2023-05-18 | 2023-06-09 |
-| [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 | 2024-08-10 |
+| [Água e Sal](https://open.spotify.com/track/1cFG1haTcSOeqnUE05NtCz) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Água e Sal](https://open.spotify.com/album/1QJWwv9rm3mcBDJBuKO0uS) | 2:33 | 2024-05-30 |  |
 | [ângulo morto](https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1) | [E.Se](https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l) | [ângulo morto](https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT) | 2:28 | 2024-04-18 | 2024-06-11 |
 | [É Mentira](https://open.spotify.com/track/6KWiHp8QbDcQyfye1ogCmx) | [Easy B](https://open.spotify.com/artist/3AgMg0N4qAog29ZoOYKZlP), [MIRZA Lauchand](https://open.spotify.com/artist/2V7xK1JcbZfn0IoTHnbiVl), [YINIH](https://open.spotify.com/artist/218uXP6ZurBAD9YqXcejmL) | [É Mentira](https://open.spotify.com/album/1NkAJNMwY4fr5Z8mHZJDlD) | 4:04 | 2024-05-02 | 2024-06-14 |
 | [Última Chance](https://open.spotify.com/track/6zCBcd3eIbyjiz2f0IyQgi) | [Cabo](https://open.spotify.com/artist/1qdZozQ0iarVm0ezFEHGex) | [Ansiedade & Paranóias](https://open.spotify.com/album/62QwzAOPcbroYvq9CDpcP8) | 3:48 | 2023-03-03 | 2023-03-31 |

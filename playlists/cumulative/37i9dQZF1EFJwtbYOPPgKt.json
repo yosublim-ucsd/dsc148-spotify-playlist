@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Another Galaxy",
+        "url": "https://open.spotify.com/album/4yNYesDLNVRKgq8p8l2ORi"
+      },
+      "artists": [
+        {
+          "name": "KREMIK",
+          "url": "https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD"
+        },
+        {
+          "name": "BELLA X",
+          "url": "https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131746,
+      "name": "Another Galaxy",
+      "url": "https://open.spotify.com/track/7w0YikkZoA9h8d06IxrobU"
+    },
+    {
+      "album": {
         "name": "Around U",
         "url": "https://open.spotify.com/album/4ZdPEKBfORZ1EeWiHwubXA"
       },

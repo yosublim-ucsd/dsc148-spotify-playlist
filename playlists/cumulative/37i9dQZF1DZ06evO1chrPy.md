@@ -2,7 +2,7 @@
 
 ### [This Is Cage The Elephant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPy)
 
-> This is Cage The Elephant\. Tutti i brani in un'unica playlist.
+> This is Cage The Elephant\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 28 min
 

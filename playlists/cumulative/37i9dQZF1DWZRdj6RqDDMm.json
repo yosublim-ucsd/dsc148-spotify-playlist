@@ -3961,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Never Find",
+        "url": "https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240375,
+      "name": "Never Find",
+      "url": "https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS"
+    },
+    {
+      "album": {
         "name": "Never Late",
         "url": "https://open.spotify.com/album/4JRU7wu4HT7e0TAqyzdz6v"
       },
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 220754,
       "name": "No Time",
       "url": "https://open.spotify.com/track/4ttTLIBiXMXmJrzSKFOoJw"

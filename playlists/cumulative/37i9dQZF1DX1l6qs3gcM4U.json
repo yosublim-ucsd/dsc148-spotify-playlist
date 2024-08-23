@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Landrick",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Deedz B",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/0bqU2C6XuX8vM8ryvDTp2M"
+      },
+      "artists": [
+        {
+          "name": "Joelson JB",
+          "url": "https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8"
+        },
+        {
+          "name": "Dam\u00e1sio Brothers",
+          "url": "https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce"
+    },
+    {
+      "album": {
         "name": "All I Have",
         "url": "https://open.spotify.com/album/7KAOO3P9VCHO0gG0B5kIWZ"
       },
@@ -446,7 +468,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 210162,
       "name": "Amor Falso",
       "url": "https://open.spotify.com/track/3m2xY5518N6fblrBeD3Vav"
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 129796,
       "name": "Gog\u00f3 G\u00fao Go",
       "url": "https://open.spotify.com/track/2pu3WSzex9of4eztWNPxPv"
@@ -6418,7 +6440,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 239189,
       "name": "Sempre Sonhei (feat. Yasmine)",
       "url": "https://open.spotify.com/track/64Q24Ag632aSnXA2MnoRet"
@@ -6590,7 +6612,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-21",
+      "date_removed": null,
       "duration_ms": 256979,
       "name": "Sincera",
       "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
@@ -6976,7 +6998,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 238641,
       "name": "Ta fazer",
       "url": "https://open.spotify.com/track/685ACRruMNaRg7fvTi3UFA"

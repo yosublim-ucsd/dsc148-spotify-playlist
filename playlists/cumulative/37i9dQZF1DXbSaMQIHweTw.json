@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 120117,
       "name": "DND",
       "url": "https://open.spotify.com/track/7yYl0fyvfGcCGVKAhjCbru"
@@ -2058,6 +2058,28 @@
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
+    },
+    {
+      "album": {
+        "name": "Mumbai Rap",
+        "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
+      },
+      "artists": [
+        {
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158823,
+      "name": "Mumbai Rap",
+      "url": "https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn"
     },
     {
       "album": {

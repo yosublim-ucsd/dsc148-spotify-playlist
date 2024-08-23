@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
 133 songs - 13 hr 19 min
 
@@ -42,7 +42,7 @@
 | [Cuba Libre](https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:28 | 2023-03-04 | 2024-04-21 |
 | [Darbari Bridge](https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 11:42 | 2023-03-27 | 2023-08-11 |
 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 | 2022-05-29 | 2023-02-01 |
-| [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 | 2024-04-16 |
+| [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 |  |
 | [Darbari Extension II](https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:23 | 2022-09-11 | 2022-09-15 |
 | [Delicado](https://open.spotify.com/track/3JJAL8JjdRS3JiTSh9h50o) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 4:02 | 2023-02-12 |  |
 | [Delicado](https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:02 | 2022-05-30 | 2023-02-13 |
@@ -115,7 +115,7 @@
 | [Sundown Dance](https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 4:53 | 2022-05-29 | 2023-01-22 |
 | [Sundown Dance](https://open.spotify.com/track/5DGHn0xwZBebRFt4g4tzq9) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 4:53 | 2023-04-29 | 2024-08-16 |
 | [Tales of the Near Future \(Clairvoyance\)](https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:19 | 2023-01-01 | 2023-03-20 |
-| [The Elephant And The Orchid](https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 11:08 | 2022-05-29 |  |
+| [The Elephant And The Orchid](https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 11:08 | 2022-05-29 | 2024-08-23 |
 | [the nothing of roselight \- edit](https://open.spotify.com/track/0qFmsIBGZnhS0qMFkof3YZ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Rick Cox](https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2), [Luke Schwartz](https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI) | [the nothing of roselight \(edit\)](https://open.spotify.com/album/4e2tiNxypnLpIpMuu9i4cY) | 4:02 | 2022-05-29 | 2023-02-17 |
 | [the nothing of roselight \- edit](https://open.spotify.com/track/1trGT0xuOHxyC1nkzD85Kz) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Rick Cox](https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2), [Luke Schwartz](https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI) | [the nothing of roselight \(edit\)](https://open.spotify.com/album/4F0LdeP9nvjc7aBJNDEMhe) | 4:02 | 2023-02-18 | 2023-04-30 |
 | [Time And Place](https://open.spotify.com/track/4yV0BSDSa2rphekLPysCy5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 3:48 | 2022-05-29 |  |

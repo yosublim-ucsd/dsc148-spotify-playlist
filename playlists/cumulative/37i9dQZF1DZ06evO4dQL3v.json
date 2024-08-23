@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 168040,
       "name": "Mojado Acuadalado - Con Mariachi",
       "url": "https://open.spotify.com/track/33ErFBfLtqA4nbgvmJKUZV"
@@ -1776,6 +1776,24 @@
       "duration_ms": 181133,
       "name": "Rios de Babilonia - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/4A0VKEol3raESTNxVT6CyU"
+    },
+    {
+      "album": {
+        "name": "Con Mucho Ritmo",
+        "url": "https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184413,
+      "name": "Ritmo Que Jala",
+      "url": "https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d"
     },
     {
       "album": {

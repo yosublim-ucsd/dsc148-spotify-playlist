@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-393 songs - 21 hr 10 min
+394 songs - 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [I Wish \(feat\. Mabel\) \- VIP Mix](https://open.spotify.com/track/3BZ2cqwhyjrqb2CWeX3W7O) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [I Wish \(feat\. Mabel\) \[VIP Mix\]](https://open.spotify.com/album/4Cihyb46FDRnYL3Sb0lRsA) | 2:55 | 2022-05-10 | 2024-06-14 |
 | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/track/73ThEGwF5i9GrsXXGyZBRa) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [I'm Just Feelin' \(Du Du Du\)](https://open.spotify.com/album/73TbTmEjh6VgGCjz7ichnB) | 2:44 | 2022-05-10 | 2023-09-12 |
 | [IBIZA](https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [IBIZA](https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8) | 3:02 | 2024-06-14 |  |
+| [ibiza2024](https://open.spotify.com/track/1GHh01GXmueglhP5jbZuJJ) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [ibiza2024](https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx) | 3:12 | 2024-08-22 |  |
 | [Ibizacore](https://open.spotify.com/track/0LU920mdHUiNTWGd3xIxdl) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Into The Doof](https://open.spotify.com/album/7bQCvS4ChwrfuLEiGY7fkf) | 2:42 | 2024-07-26 |  |
 | [If Only I Knew](https://open.spotify.com/track/66H7ULe9JbxBVVWsfLi8JC) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [If Only I Knew](https://open.spotify.com/album/3VIlxPfmem99BaiIOUQqDX) | 3:43 | 2024-08-02 |  |
 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 | 2024-06-14 |  |
@@ -349,7 +350,7 @@
 | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3fvsxmytTns1ApIWBqfANZ) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Temptation \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/30K7gYPhkqCeQJ25C0GvXE) | 2:52 | 2022-05-10 | 2024-06-14 |
 | [Tengo Fuego](https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Tengo Fuego](https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG) | 3:07 | 2024-06-21 |  |
 | [The Cure & The Cause \- Radio Edit](https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm) | [Fish Go Deep](https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y), [Tracey K](https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg) | [The Cure & The Cause \(Radio Edit\)](https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN) | 2:37 | 2021-07-09 | 2022-05-11 |
-| [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2024-08-02 |  |
+| [The Line](https://open.spotify.com/track/5Zkwif4hJHnTrYfS7IGF8l) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [The Line](https://open.spotify.com/album/1IbeiXX7cKHTiLAojPJhjU) | 3:34 | 2024-08-02 | 2024-08-23 |
 | [The Miracle Makers \- Edit](https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [The Miracle Makers](https://open.spotify.com/album/7mxcvlWBDWs4FMegp1CP44) | 3:30 | 2024-08-02 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-05-10 | 2024-06-14 |
 | [The Nighttrain](https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Maitland](https://open.spotify.com/artist/0Q73yVxsPyLsllS3ILTEZL) | [The Nighttrain](https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v) | 3:06 | 2024-05-24 |  |

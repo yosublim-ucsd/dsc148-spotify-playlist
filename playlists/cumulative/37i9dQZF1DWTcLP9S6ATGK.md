@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Rakhano
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Mahen
 
-165 songs - 10 hr 40 min
+168 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Baik Adanya](https://open.spotify.com/track/4VByqnUukW7PbNcsNt9R9A) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Baik Adanya](https://open.spotify.com/album/4Io9u4BIIsnDofyihVIZnF) | 3:20 | 2024-08-01 |  |
 | [Balik Arah](https://open.spotify.com/track/2BbUfHUTIZsokhzrApZzSy) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Balik Arah](https://open.spotify.com/album/7ERDG4GgqVkNL016GHBDmt) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [Banyak Bicara](https://open.spotify.com/track/4qpKzFnuj7uxHpHGRN5TOs) | [Jian Shuja](https://open.spotify.com/artist/4pp5EgCFrtFP10UE15k6wD) | [Banyak Bicara](https://open.spotify.com/album/528dv44BNqod7pShz6yLZm) | 3:14 | 2024-07-25 |  |
-| [Batu Karang](https://open.spotify.com/track/5NDVIrA39U3JY0uB1pIDQm) | [Pongki Barata](https://open.spotify.com/artist/3pgdqbCuKaprQKD6xSBuAr), [Pay](https://open.spotify.com/artist/0lrV8N2EK53DjfuDtp5QVh), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Batu Karang](https://open.spotify.com/album/7fNX9uHAlldKmT1wlXn9mw) | 4:16 | 2024-06-27 |  |
+| [Batu Karang](https://open.spotify.com/track/5NDVIrA39U3JY0uB1pIDQm) | [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [Pay](https://open.spotify.com/artist/0lrV8N2EK53DjfuDtp5QVh), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Batu Karang](https://open.spotify.com/album/7fNX9uHAlldKmT1wlXn9mw) | 4:16 | 2024-06-27 |  |
 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-06-27 |  |
 | [Belum Cukup Dewasa](https://open.spotify.com/track/0U1wr3r5Z6A9eaZaR4lh4X) | [Ruby](https://open.spotify.com/artist/6jsljB2KXUgNh1PpMzAVZV), [Bama](https://open.spotify.com/artist/75VKqUGE67mYG8gMzW9o5J) | [Belum Cukup Dewasa](https://open.spotify.com/album/6lP2IMy3cqCUogUT3bNYFf) | 3:25 | 2024-07-25 |  |
 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 | 2024-07-11 |  |
@@ -104,6 +104,7 @@
 | [Mati Rasa \- Kotakustik](https://open.spotify.com/track/0CTTo7rkwucp8n7FUpseux) | [Kotak](https://open.spotify.com/artist/6oMp2cGzP3Bw86ssV7hjyu) | [Mati Rasa \(Kotakustik\)](https://open.spotify.com/album/1O8HZ89YpiM0ZNXA7m0vtt) | 4:16 | 2024-07-25 |  |
 | [Mati Satu Tak Tumbuh Lagi](https://open.spotify.com/track/0y3PdaJSMjd5cgA3BVfLut) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Mati Satu Tak Tumbuh Lagi](https://open.spotify.com/album/3c1TKSbv7UARypYZsORhuD) | 4:39 | 2024-06-27 |  |
 | [Maumu Apa](https://open.spotify.com/track/38OeRntmd4MLNMqvNvKhAV) | [Deanda](https://open.spotify.com/artist/6oJPWrK6sRuygfZ1b58SfB) | [Maumu Apa](https://open.spotify.com/album/3Oh5BqgERsTszkYk2FFrID) | 3:51 | 2024-06-27 | 2024-08-02 |
+| [Memilih Berhenti](https://open.spotify.com/track/4MngDPGeICOJ30Xeaf7SPH) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Memilih Berhenti](https://open.spotify.com/album/7Ez8NmZRbNHAvk6XISPwQx) | 3:57 | 2024-08-22 |  |
 | [Memilih Berhenti \- Acoustic](https://open.spotify.com/track/5Hl1MoirusAn9TIzIXIWrR) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Chapter 1.5 \(Acoustic\)](https://open.spotify.com/album/4ejyv5o7RBYzo7YRjrjPak) | 3:54 | 2024-06-27 | 2024-07-12 |
 | [Menanti](https://open.spotify.com/track/1wbTdarJADjlKQ5h8JpQrX) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom), [Luqman Podolski](https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh) | [Menanti](https://open.spotify.com/album/2cZAkyQ4M4eOY2SkU8UmbA) | 3:05 | 2024-06-27 | 2024-07-12 |
 | [Mengalah Tetap Salah](https://open.spotify.com/track/0fRENlzBJ9NKvIeI6TouYG) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Mengalah Tetap Salah](https://open.spotify.com/album/1zIfvrseqt9rJQwkkWCoZr) | 4:00 | 2024-06-28 | 2024-08-02 |
@@ -128,6 +129,7 @@
 | [Pertanda Cinta](https://open.spotify.com/track/4kZ6NggFpCEtm1V0Vu3n1L) | [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe), [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Pertanda Cinta](https://open.spotify.com/album/7ovNo1CUdp7I4uIprwFKdd) | 4:22 | 2024-07-18 |  |
 | [Pisah Baik\-Baik](https://open.spotify.com/track/57ALt7I6PfsbIstHr2C8SW) | [Elma Dae](https://open.spotify.com/artist/3o4Y9Gn3YghgIiAlYLDNZ7) | [Pisah Baik\-Baik](https://open.spotify.com/album/26vm4ZZTKZljlzYhHO5bmg) | 3:22 | 2024-06-27 |  |
 | [Please](https://open.spotify.com/track/4UO8e0hxMumyaAyyajowLE) | [Willy Anggawinata](https://open.spotify.com/artist/6KZL22Io61OAjmyPw2tPor) | [Please](https://open.spotify.com/album/3xL5tp3yBdLNWsAZZI37Td) | 2:59 | 2024-07-25 |  |
+| [Punah](https://open.spotify.com/track/1f4KvIPE9v3sIL5qdvBF2Y) | [Lyla](https://open.spotify.com/artist/3GheatPWdVzxqmRXOKxHTb) | [Punah](https://open.spotify.com/album/2NA9ZxLjSkeh1w9SQusai9) | 4:06 | 2024-08-22 |  |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-06-27 | 2024-07-27 |
 | [RAKSASA](https://open.spotify.com/track/3veUBJLC1Muqd8fUMJEa2R) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [RAKSASA](https://open.spotify.com/album/3QAv7qeczU5xfvpcFNLP46) | 3:47 | 2024-06-27 |  |
 | [Rapuh \- From "Kawin Tangan"](https://open.spotify.com/track/4z6f9z75aV6rcFwjlzbgVF) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [Rapuh \(From "Kawin Tangan"\)](https://open.spotify.com/album/5HPpfn3f5jf52NSOe6hP0I) | 4:33 | 2024-06-27 |  |
@@ -146,6 +148,7 @@
 | [Sempat Tak Sempat](https://open.spotify.com/track/1PUcZVirD5GmvRol25TVpA) | [Rakhano](https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4) | [Sempat Tak Sempat](https://open.spotify.com/album/00ZGpAUWegdAvVa35Bkj6V) | 3:35 | 2024-08-15 |  |
 | [Semua Cinta](https://open.spotify.com/track/16vZp4ncPm0otuupSp9tOx) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Semua Cinta](https://open.spotify.com/album/0WrWwVBtNcv6gzYtSQH9JO) | 4:14 | 2024-08-01 |  |
 | [Senja Kala Itu](https://open.spotify.com/track/0I0oskzM8APHsjHeccZwnc) | [Hiranya](https://open.spotify.com/artist/2qF8KVdfgswp7r9Atf4XXp) | [Senja Kala Itu](https://open.spotify.com/album/3MCA0xGtfAvWVGTGIybY0h) | 3:33 | 2024-06-27 | 2024-08-16 |
+| [Seolah Mampu Bertahan](https://open.spotify.com/track/7g9VIL09lYJaWUSMhqLGon) | [Dygta](https://open.spotify.com/artist/0LivMD6P6pi2yfZf1rIAat), [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Seolah Mampu Bertahan](https://open.spotify.com/album/7aoEQD2WZYNGmrhRQsP2Ey) | 3:55 | 2024-08-22 |  |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 |  |
 | [Silakan](https://open.spotify.com/track/4pzNeQGUwjiS62z253nHWQ) | [Astrid](https://open.spotify.com/artist/6GxmlugWFw4hmhUQ5uP93l) | [Silakan](https://open.spotify.com/album/444trBoPD85W5xTE1G82lj) | 3:30 | 2024-06-27 |  |
 | [Suamiku](https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs) | [Astrid Kuya](https://open.spotify.com/artist/1GkXjvYeaQiWD4KwZVw5PY) | [Suamiku](https://open.spotify.com/album/1rEERVVGC49VgTHStK8U2l) | 4:02 | 2024-07-05 |  |

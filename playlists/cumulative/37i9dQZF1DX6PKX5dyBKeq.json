@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: French The Kid",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kairo Keyz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1498,6 +1498,24 @@
       "duration_ms": 113674,
       "name": "ABC",
       "url": "https://open.spotify.com/track/0CrxeIxaG1YeUXSh9HRds2"
+    },
+    {
+      "album": {
+        "name": "Beyond Rea5onable Doubt",
+        "url": "https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149375,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/7pqdicMgQUmLojKUvxsdKm"
     },
     {
       "album": {
@@ -7326,6 +7344,24 @@
       "duration_ms": 172602,
       "name": "Cerberus (feat. K Trap x Loski)",
       "url": "https://open.spotify.com/track/0XUP048w4VaGp7SOeDHfKs"
+    },
+    {
+      "album": {
+        "name": "YaTOO + CHAKRa",
+        "url": "https://open.spotify.com/album/3QK5ZieT5dCaTyg39sjdOy"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "CHAKRa",
+      "url": "https://open.spotify.com/track/0X8wuklQTi8fVrdeNAj6Au"
     },
     {
       "album": {
@@ -14179,6 +14215,32 @@
     },
     {
       "album": {
+        "name": "Gangsters",
+        "url": "https://open.spotify.com/album/6uZ76LzejCL6YOCtoNkw0K"
+      },
+      "artists": [
+        {
+          "name": "Skengdo",
+          "url": "https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg"
+        },
+        {
+          "name": "AM",
+          "url": "https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm"
+        },
+        {
+          "name": "D Proffit",
+          "url": "https://open.spotify.com/artist/1yPUttnkZ82L1DQ6dHlk5o"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248174,
+      "name": "Gangsters",
+      "url": "https://open.spotify.com/track/0px75dZuaD2UmnQzOI37rk"
+    },
+    {
+      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -14328,7 +14390,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 159136,
       "name": "Get It",
       "url": "https://open.spotify.com/track/1ThWxydRaJ4yirWgfrpceH"
@@ -15672,6 +15734,24 @@
       "duration_ms": 214791,
       "name": "Heist",
       "url": "https://open.spotify.com/track/2Z66RYRDgpptWZiMoE7L7Q"
+    },
+    {
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/24YWHQhdVIgSRIWepE7vXl"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/6lgHAE8erQYMAc8YRg6IP6"
     },
     {
       "album": {
@@ -17995,6 +18075,28 @@
     },
     {
       "album": {
+        "name": "The Future's Yesterday",
+        "url": "https://open.spotify.com/album/5FrMqVI8SOcqfPRS8Uf4gI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Allstar",
+          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
+        },
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194738,
+      "name": "Jet Pack",
+      "url": "https://open.spotify.com/track/3V3UFoD3bOmQwmCMdwXTqw"
+    },
+    {
+      "album": {
         "name": "Jezebel (with Strandz)",
         "url": "https://open.spotify.com/album/47OJlYJhNzdqpzb2aZ1ox3"
       },
@@ -18746,6 +18848,24 @@
       "duration_ms": 160000,
       "name": "Kindness For Weakness",
       "url": "https://open.spotify.com/track/4XDcZALxM9M91BiUeaWCdq"
+    },
+    {
+      "album": {
+        "name": "King David Flow",
+        "url": "https://open.spotify.com/album/1JicDIB0ZhrDisuWfR7LEd"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227113,
+      "name": "King David Flow",
+      "url": "https://open.spotify.com/track/5qHkLB0G7fLWGqJgKaRaZp"
     },
     {
       "album": {
@@ -23337,6 +23457,24 @@
     },
     {
       "album": {
+        "name": "Mr Brown",
+        "url": "https://open.spotify.com/album/34mLFgw2MYc1SOUBW0M0JZ"
+      },
+      "artists": [
+        {
+          "name": "SR",
+          "url": "https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Mr Brown",
+      "url": "https://open.spotify.com/track/3fU6ckIJpYFLgS5JhYDHo9"
+    },
+    {
+      "album": {
         "name": "Mud",
         "url": "https://open.spotify.com/album/76bZ9hzTqtV9Z9uuVs9eDq"
       },
@@ -23764,6 +23902,24 @@
       "duration_ms": 196595,
       "name": "Neighbourhood Hero",
       "url": "https://open.spotify.com/track/03QtKGgldQkz00VPHiZtg1"
+    },
+    {
+      "album": {
+        "name": "Nelly & Kelly",
+        "url": "https://open.spotify.com/album/6EGAMJToxNacBIe6hbAYie"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126131,
+      "name": "Nelly & Kelly",
+      "url": "https://open.spotify.com/track/1D4Z3SdmxBPgzufaNEJZj6"
     },
     {
       "album": {
@@ -27851,6 +28007,24 @@
     },
     {
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U"
+      },
+      "artists": [
+        {
+          "name": "JAY1",
+          "url": "https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177730,
+      "name": "Prettier",
+      "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
+    },
+    {
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/0Z79Vp3WkR5WcAwotdq4VX"
       },
@@ -28990,6 +29164,24 @@
       "duration_ms": 221001,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/67d06dwsaf897D0dJl4nGz"
+    },
+    {
+      "album": {
+        "name": "Gotham",
+        "url": "https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i"
+      },
+      "artists": [
+        {
+          "name": "Mowgs",
+          "url": "https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Resilient 13",
+      "url": "https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG"
     },
     {
       "album": {
@@ -31988,6 +32180,24 @@
     {
       "album": {
         "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/0JcYm2EQe5R76qn6vlHlMh"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Snakes & Ladders",
+      "url": "https://open.spotify.com/track/3W1ithMTcEj32nRh3lQrF0"
+    },
+    {
+      "album": {
+        "name": "Snakes & Ladders",
         "url": "https://open.spotify.com/album/69UkwXtDe2Deq8Sc0z9Rkl"
       },
       "artists": [
@@ -33232,6 +33442,24 @@
       "duration_ms": 253333,
       "name": "Styrofoam",
       "url": "https://open.spotify.com/track/6TlxwQk9K12JuZebbZ1psA"
+    },
+    {
+      "album": {
+        "name": "Beyond Rea5onable Doubt",
+        "url": "https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123802,
+      "name": "Suberia",
+      "url": "https://open.spotify.com/track/5XPwNwY73PwZBJPPZi5Arp"
     },
     {
       "album": {
@@ -37612,6 +37840,24 @@
       "duration_ms": 194245,
       "name": "West Ham",
       "url": "https://open.spotify.com/track/2MGaKzg24KewlfgCrV0gv1"
+    },
+    {
+      "album": {
+        "name": "West Norwood",
+        "url": "https://open.spotify.com/album/47Zo13aggKaDIH6yodOxWv"
+      },
+      "artists": [
+        {
+          "name": "Siru",
+          "url": "https://open.spotify.com/artist/2CG2f1ImL6Nwdx38UXkcgj"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "West Norwood",
+      "url": "https://open.spotify.com/track/2jSn4m63EdcncWX2xdspPF"
     },
     {
       "album": {

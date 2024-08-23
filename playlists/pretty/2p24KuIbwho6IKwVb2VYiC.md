@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Zedd &amp; Remi Wolf
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 20,662 likes - 141 songs - 7 hr 26 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 20,664 likes - 141 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

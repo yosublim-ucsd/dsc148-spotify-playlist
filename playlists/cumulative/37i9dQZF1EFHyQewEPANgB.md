@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 26 min
+87 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Raise the Roof \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/0pRx5FzsbF8gFL8UrCpjIK) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [no kap](https://open.spotify.com/album/5fEGseEPzOXncKEY7gmmDV) | 3:21 | 2024-06-07 |  |
 | [Request](https://open.spotify.com/track/0h11IKlgiuLzbOjbJxofI0) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Abstract Orchestra](https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 2:42 | 2024-06-07 |  |
 | [Respect It \(with Hit\-Boy feat\. Young Thug\)](https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 3:27 | 2024-06-07 |  |
+| [Since 92](https://open.spotify.com/track/4oPikxqsNEjb62N7X8GarH) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [F.U.N.](https://open.spotify.com/album/1dp5AbK2U94jjLVliJh3BV) | 3:17 | 2024-08-22 |  |
 | [Something Crazy \(feat\. Sebastian Mikael\)](https://open.spotify.com/track/7ivfNdjYZPVRlhhzui8sOe) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Something Crazy \(feat\. Sebastian Mikael\) \- Single](https://open.spotify.com/album/0zeYjjYj9nC9joyfXdGjtn) | 4:03 | 2024-06-07 |  |
 | [STILL GRIND](https://open.spotify.com/track/2NGi1vhgh3vgfJEMtiU2sW) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [HE CRAZY](https://open.spotify.com/album/4zubSm44MlcpBk0vbvV6dG) | 1:43 | 2024-06-07 |  |
 | [Stretch Money](https://open.spotify.com/track/70uz0rWlOsnpMWlEwfAL4U) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 3:20 | 2024-06-07 |  |

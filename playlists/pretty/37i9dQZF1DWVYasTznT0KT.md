@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYasTznT0KT.md) - [plain]
 
 > From "I'm Just Ken" to "World Class Sinner," here are all the top tracks from our fave Series and Movies in 2023! Cover: Ryan Gosling, Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,718 likes - 45 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,722 likes - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

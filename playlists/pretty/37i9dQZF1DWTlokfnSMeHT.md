@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to Stray Kids's best songs! \(스트레이 키즈의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,464 likes - 29 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 29 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlokfnSMeHT.md) - [plain]
 | 28 | [Going Dumb \(with Stray Kids\)](https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [Going Dumb](https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l) | 2:49 |
 | 29 | [MIROH](https://open.spotify.com/track/3888prAY7qaqRx1vjQZSdI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:28 |
 
-Snapshot ID: `ZsA07QAAAACl2jqaFMl9ndUYx2FONokx`
+Snapshot ID: `Zsa1fAAAAADF/2onlPbWcDgq7F/klE1S`

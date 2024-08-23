@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover: AL SHAMI.",
-  "num_followers": 179420,
+  "num_followers": 179507,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
+        "name": "Bde'ellak",
+        "url": "https://open.spotify.com/album/6qMYqrsovsovPbl6EkSkhI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Attieh",
+          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
+        }
+      ],
+      "duration_ms": 174447,
+      "name": "Bde'ellak",
+      "url": "https://open.spotify.com/track/4g3dSoIjesUCD7MoyHD9zz"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
         "name": "Ya Rohy",
         "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 268549,
       "name": "Mawali",
       "url": "https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
-        "name": "Bde'ellak",
-        "url": "https://open.spotify.com/album/6qMYqrsovsovPbl6EkSkhI"
-      },
-      "artists": [
-        {
-          "name": "Joseph Attieh",
-          "url": "https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo"
-        }
-      ],
-      "duration_ms": 174447,
-      "name": "Bde'ellak",
-      "url": "https://open.spotify.com/track/4g3dSoIjesUCD7MoyHD9zz"
     },
     {
       "added_at": "2024-03-01 14:02:53",

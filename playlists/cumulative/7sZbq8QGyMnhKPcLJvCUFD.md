@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-585 songs - 1 day 5 hr 44 min
+586 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A&B](https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [A&B](https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc) | 2:56 | 2023-04-26 | 2023-08-10 |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 | 2023-12-14 |
 | [AI](https://open.spotify.com/track/72URNFUYBZg3JHf6J6rD2l) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [AI](https://open.spotify.com/album/10YXQqv5CYLQqkPlCvXgLQ) | 3:09 | 2024-03-21 |  |
+| [AIN'T MISS A CALL](https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [AIN'T MISS A CALL](https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU) | 2:34 | 2024-08-22 |  |
 | [AKTIV](https://open.spotify.com/track/1Ss0ujwVKBM2j6VrKtgj3W) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [AKTIV](https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b) | 2:37 | 2023-12-13 | 2024-05-01 |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 | 2023-04-28 |
 | [Alive](https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Alive](https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG) | 2:56 | 2023-05-19 | 2023-08-10 |

@@ -2,9 +2,9 @@
 
 ### [VOLUME SWEDEN](https://open.spotify.com/playlist/37i9dQZF1DXdiF2k2CLnQA)
 
-> Den bästa och största rocklistan i Sverige! ⚡️ Cover: HammerFall
+> Den bästa och största rocklistan i Sverige! ⚡️
 
-112 songs - 7 hr 4 min
+119 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 | 2024-08-08 |  |
 | [Bad Choices](https://open.spotify.com/track/4owIs1SnK0EtEY0nOOQFUj) | [Blues Pills](https://open.spotify.com/artist/2lmQ4CUnjmLIIfnwZdRmMY) | [Birthday](https://open.spotify.com/album/41iAihj3VUoUpOLRMReypO) | 3:25 | 2024-08-01 |  |
 | [Beautiful Disaster](https://open.spotify.com/track/156pbk1UdF3CP6hiG9Szjh) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Beautiful Disaster](https://open.spotify.com/album/42k0w1OlvshAChVmMlYxHS) | 3:32 | 2024-06-27 |  |
+| [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 | 2024-08-22 |  |
 | [Blood Of The Kings](https://open.spotify.com/track/5DNEf9PJN2qLie95vgYWHU) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Blood Of The Kings](https://open.spotify.com/album/5nnEguab5n5fWUIjlzK8HJ) | 4:00 | 2024-06-27 |  |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-06-27 |  |
 | [Born a Riot](https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb) | [DAKOO](https://open.spotify.com/artist/72343jDquF52drRGQa3xZV) | [Born a Riot](https://open.spotify.com/album/5brdqGmI6uyXYnvANurSZc) | 2:39 | 2024-06-27 |  |
@@ -73,9 +74,11 @@
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-06-27 |  |
 | [look at me](https://open.spotify.com/track/6fcTTzNTvP7S4aLT3GaVBN) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [look at me](https://open.spotify.com/album/29rEnJyGy4yKMr0pJkhker) | 1:30 | 2024-06-27 |  |
 | [Lost in Control](https://open.spotify.com/track/3kzE24PAzUyM0b4OuW9MC6) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Lost in Control](https://open.spotify.com/album/2VGLanSqv0EwSkMMidYZd8) | 3:04 | 2024-06-27 |  |
+| [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 | 2024-08-22 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-27 | 2024-08-02 |
 | [Masquerade](https://open.spotify.com/track/3f90dK4nMplILHk6x8N0ln) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Masquerade](https://open.spotify.com/album/6w90gfyharUnFixdrtpWll) | 3:03 | 2024-06-27 |  |
 | [Metal Gods](https://open.spotify.com/track/5HvXKqvNY52gHBHDSw4O2r) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Metal Gods](https://open.spotify.com/album/2hrqCYReiJDEU3Q6T5oMNR) | 3:30 | 2024-06-27 | 2024-08-02 |
+| [Mind Of The Swarm](https://open.spotify.com/track/3tGIM3bObyZcqmyqsDHrWy) | [Dreamcall](https://open.spotify.com/artist/3a62EzBK7sjGhVtPOIs4r4) | [Mind Of The Swarm](https://open.spotify.com/album/2urmmNd2LEEpgurt7VfWYS) | 3:58 | 2024-08-22 |  |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 |  |
 | [On the line](https://open.spotify.com/track/5HghTFSHeik29SrM2i48f5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [On the line](https://open.spotify.com/album/7rzMWjREqgIPLFbgFJclWO) | 3:16 | 2024-06-27 |  |
 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 | 2024-06-27 |  |
@@ -84,6 +87,7 @@
 | [Paranoid](https://open.spotify.com/track/1jzDzZWeSDBg5fhNc3tczV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(2009 Remastered Version\)](https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK) | 2:48 | 2024-06-27 |  |
 | [Parasite](https://open.spotify.com/track/05HTGemZtN0xZibKQ60KKz) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [THE DAY WE LEFT EARTH](https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL), [Cyhra](https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE) | [Parasite](https://open.spotify.com/album/6m99BaJU8IxfWcfqPGRZwu) | 3:16 | 2024-06-27 |  |
 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 | 2024-06-27 |  |
+| [Pink Fang](https://open.spotify.com/track/6N2OH7MKytiW3YZ3GqQGOv) | [Vokonis](https://open.spotify.com/artist/3DZoit5R0ahZQCNLbDnNxr) | [Pink Fang](https://open.spotify.com/album/48xvECMQfRGH7se6T7fXB1) | 4:03 | 2024-08-22 |  |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-06-27 |  |
 | [Random Acts of Violence](https://open.spotify.com/track/1Hf0eeTmSfBncaTGXgp6Ah) | [Fixation](https://open.spotify.com/artist/4XbPyHXCANCyqyrqALccrI) | [Random Acts of Violence](https://open.spotify.com/album/0bXLGRMVw2yxYLDCCfn2vX) | 4:06 | 2024-06-27 |  |
 | [Recoil](https://open.spotify.com/track/2QVacWXUWzvPIIIqyTc2m5) | [Liar Thief Bandit](https://open.spotify.com/artist/6C9FgQz7w2yRvAiv1jkbbi) | [ICON](https://open.spotify.com/album/3OTFgfsxf9fKpZNkN0FBjg) | 4:31 | 2024-06-27 |  |
@@ -96,11 +100,13 @@
 | [Sleeping My Day Away](https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8) | [D\-A\-D](https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd) | [Good Clean Family Entertainment You Can Trust](https://open.spotify.com/album/5KitoHVnVKKznE2dA7ys5R) | 4:23 | 2024-06-27 |  |
 | [Speaking of the Devil](https://open.spotify.com/track/4GhsSMTgNDpY41NYpCgv5W) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Speaking of the Devil](https://open.spotify.com/album/2vaWy2D9cVuzWBJPNcCgOX) | 3:45 | 2024-06-27 |  |
 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 | 2024-06-27 |  |
+| [Still My Hero](https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Still My Hero](https://open.spotify.com/album/1cLa4VMrT73UlrjSW52lvw) | 3:43 | 2024-08-22 |  |
 | [Summerlovin](https://open.spotify.com/track/4jhEO2UR8DXMaxUodujNho) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Summerlovin](https://open.spotify.com/album/7IWuQugr7xAz3slvKrVbPS) | 3:55 | 2024-06-27 |  |
 | [Tack och förlåt](https://open.spotify.com/track/1ChrAQySLLaU0SZeLApkcy) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Tack och förlåt](https://open.spotify.com/album/6NeIVfl4HZwtM3jdLMDE4u) | 3:45 | 2024-06-27 |  |
+| [Take My Hand](https://open.spotify.com/track/7GHIoYHCbk6PbmWQlz578M) | [Awake the Dreamer](https://open.spotify.com/artist/4cJLd39creVGWHUNKEXm5I) | [Take My Hand](https://open.spotify.com/album/5gwqxGeT5yLGfG3Uy8z1KU) | 2:46 | 2024-08-22 |  |
 | [Teenage Rebel](https://open.spotify.com/track/0i5DEAK979g2ZN8JLhQe7L) | [Nestor](https://open.spotify.com/artist/0aO5KX4PsGlEqDM8rsH0ld) | [Teenage Rebel](https://open.spotify.com/album/1cEmI2FaInMk5EMQu95RGn) | 4:32 | 2024-06-27 |  |
 | [The Age of AGI](https://open.spotify.com/track/1qkNxTpS4mx6AhWV6DYE8W) | [Endigo](https://open.spotify.com/artist/6CMARBTk7A5cN9UW9LZqDj) | [The Age of AGI](https://open.spotify.com/album/4Tw9c6YmLJlLEv8fCJvgpM) | 3:44 | 2024-06-27 |  |
-| [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-06-27 |  |
+| [The Black](https://open.spotify.com/track/3E9vgX9znf0o5m2IwKNCAj) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Black](https://open.spotify.com/album/2Y829lRmVlI3TPz4lklUcy) | 6:10 | 2024-06-27 | 2024-08-23 |
 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 | 2024-08-08 |  |
 | [The Doomsday Clock](https://open.spotify.com/track/3JckPqchoAniLrxyRiq82j) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [The Doomsday Clock](https://open.spotify.com/album/0ilMPn2NgTzh5kvyJBnphe) | 3:42 | 2024-06-27 | 2024-08-02 |
 | [The End Justifies](https://open.spotify.com/track/4TQEKz3DgUjtzcRFkCuzE5) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [The End Justifies](https://open.spotify.com/album/3yKUFE4u6NtSrfQ0OAKjtU) | 5:09 | 2024-06-27 |  |
@@ -114,6 +120,7 @@
 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 | 2024-06-27 |  |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 |  |
 | [Walk](https://open.spotify.com/track/3BID61NKkUQkX41pU5PtQG) | [AB/CD](https://open.spotify.com/artist/75IFS4w4dhyYMDGnTfzOAx) | [Walk](https://open.spotify.com/album/02kooDQ13rPXUwtcqQQH8u) | 3:10 | 2024-06-27 |  |
+| [War With The World](https://open.spotify.com/track/6sfBDJFuHewjdxPk33IZyZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [War With The World](https://open.spotify.com/album/3BasJfXGxeCJqPQFNzoGej) | 3:41 | 2024-08-22 |  |
 | [Wasted](https://open.spotify.com/track/6PA4LL6g9HxAa9lfBl1Ttp) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Wasted](https://open.spotify.com/album/2v4S2oaNDQ15PVNAkFRXqz) | 3:26 | 2024-06-27 | 2024-08-02 |
 | [Wayward Eyes](https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Endtime Signals](https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI) | 3:28 | 2024-08-15 |  |
 | [What's The Point](https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Mavericks](https://open.spotify.com/album/59MXLAWsbAbq9nANWwFzTY) | 4:15 | 2024-06-27 | 2024-08-02 |

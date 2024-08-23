@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Charlie xcx, Billie Eilish
+> Найпопулярніші пісні сьогодення\. Обкладинка: MONATIK
 
 59 songs - 2 hr 48 min
 

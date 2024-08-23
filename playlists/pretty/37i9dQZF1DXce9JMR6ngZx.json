@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 215825,
+  "num_followers": 215876,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Tempos modernos (2001 Remasterizado)",
         "url": "https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 257933,
       "name": "Tempos modernos - Remasterizado em 2001",
       "url": "https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2024-07-09 20:48:06",

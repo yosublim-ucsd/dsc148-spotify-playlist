@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 ### [Zouk All Stars](https://open.spotify.com/playlist/37i9dQZF1DX1yXxWD7WGcm)
 
-> Les classiques du zouk\. Photo : Fanny J
+> Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,232 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,297 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 |
-| 2 | [On A Changé](https://open.spotify.com/track/33CNefpUrDUefPDQb3GWyt) | [Les Deesses](https://open.spotify.com/artist/4zXAitgkrWokZ0zolMyJh9) | [Saveurs exotiques](https://open.spotify.com/album/38bAlD66F2VYmx56KQZrZS) | 3:27 |
-| 3 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
-| 4 | [La dernière danse \(ne rentre pas chez toi ce soir\) \- Radio Edit](https://open.spotify.com/track/40XHrZZ9KKX7Vdp4NLGCGO) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:28 |
-| 5 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 |
-| 6 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 |
-| 7 | [Océan](https://open.spotify.com/track/2ffoHFjdoCTVmy8M13R7UW) | [Thierry Cham](https://open.spotify.com/artist/75E2yAVDzecPCYaNbLeNC5) | [Simplement](https://open.spotify.com/album/4NMvvNdfEMEBVC9TWN6xis) | 3:59 |
+| 1 | [La dernière danse \(ne rentre pas chez toi ce soir\) \- Radio Edit](https://open.spotify.com/track/40XHrZZ9KKX7Vdp4NLGCGO) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:28 |
+| 2 | [Emmène\-Moi Avec Toi](https://open.spotify.com/track/4Ql7ivqB2u0YjPLBhLQRLW) | [Perle Lama](https://open.spotify.com/artist/3JCfgXnyQBwjAp61EctbQP) | [Mizikasoleil](https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH) | 3:35 |
+| 3 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 |
+| 4 | [On A Changé](https://open.spotify.com/track/33CNefpUrDUefPDQb3GWyt) | [Les Deesses](https://open.spotify.com/artist/4zXAitgkrWokZ0zolMyJh9) | [Saveurs exotiques](https://open.spotify.com/album/38bAlD66F2VYmx56KQZrZS) | 3:27 |
+| 5 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
+| 6 | [Océan](https://open.spotify.com/track/2ffoHFjdoCTVmy8M13R7UW) | [Thierry Cham](https://open.spotify.com/artist/75E2yAVDzecPCYaNbLeNC5) | [Simplement](https://open.spotify.com/album/4NMvvNdfEMEBVC9TWN6xis) | 3:59 |
+| 7 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 |
 | 8 | [Besoin d'amour](https://open.spotify.com/track/3WKj7OCct7oIiK4Nn8OL1u) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Gadji Celi](https://open.spotify.com/artist/4wano3p9ICDVCTllzj2qcc) | [A la recherche du bonheur](https://open.spotify.com/album/6FMHdHjTxMFO9TgKNyPpZv) | 4:07 |
 | 9 | [Lovinjitis \(Remix\)](https://open.spotify.com/track/2CsaAimiEwtki5Q5rZPimf) | [Wizboyy](https://open.spotify.com/artist/6eTEMo2irgozfqcK4dEUeE), [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Change Over](https://open.spotify.com/album/3BS0hRi3CN2SK3fcD07B65) | 4:38 |
 | 10 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
 | 11 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \- Deluxe edition](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
-| 12 | [Okay](https://open.spotify.com/track/2Aylt5JHKRCkLZUMyw5hH9) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw), [Black Kent](https://open.spotify.com/artist/0cGAKlRsOPxXPZijGW9ZuN) | [Secrets de femme](https://open.spotify.com/album/7wEVvy6oaP4B0nNwlCzfF4) | 3:36 |
-| 13 | [Cette nuit](https://open.spotify.com/track/4EvgN59rOoSrFqXvpOdxee) | [Ridge](https://open.spotify.com/artist/5XhpW13SNw4TDaiz747BIC), [Joyce](https://open.spotify.com/artist/2UvslHPApvKvZFjEtCjIHA) | [Allianstars, Vol\. 2](https://open.spotify.com/album/6u1wHjLN0Y5yYUAlrDB0nz) | 4:14 |
+| 12 | [Cette nuit](https://open.spotify.com/track/4EvgN59rOoSrFqXvpOdxee) | [Ridge](https://open.spotify.com/artist/5XhpW13SNw4TDaiz747BIC), [Joyce](https://open.spotify.com/artist/2UvslHPApvKvZFjEtCjIHA) | [Allianstars, Vol\. 2](https://open.spotify.com/album/6u1wHjLN0Y5yYUAlrDB0nz) | 4:14 |
+| 13 | [Okay](https://open.spotify.com/track/2Aylt5JHKRCkLZUMyw5hH9) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw), [Black Kent](https://open.spotify.com/artist/0cGAKlRsOPxXPZijGW9ZuN) | [Secrets de femme](https://open.spotify.com/album/7wEVvy6oaP4B0nNwlCzfF4) | 3:36 |
 | 14 | [Zouk\-la Sé Sel Médikaman Nou Ni](https://open.spotify.com/track/6v5Z0a4b3DmjIKA4htP8vl) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Best Of](https://open.spotify.com/album/3mlUD8bQ1KTXi4yP1l3HoV) | 5:25 |
 | 15 | [Positif](https://open.spotify.com/track/7cdfFH5KIvKzDtssD0r35x) | [Matt Houston](https://open.spotify.com/artist/1ELgiI6P1y4zEkVElVjCbC), [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Racines](https://open.spotify.com/album/70RcOK36237fM7wnmzQ880) | 3:49 |
 | 16 | [Tu me manques](https://open.spotify.com/track/2tjdUXAQO53oMqpRoA4bwP) | [Harry Diboula](https://open.spotify.com/artist/57BxOfFiszAxhvXp5gE5Hn) | [Entre vous et moi \(32 Hits\)](https://open.spotify.com/album/2FLvO78SIGxE9bDTliU2uB) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Amélia](https://open.spotify.com/track/6hwIYHgb4Xl4grmY8cojzx) | [Richard Birman](https://open.spotify.com/artist/2voWjJRm5QFln1Rve9xvbs) | [Zouker, Vol\. 1](https://open.spotify.com/album/7wvjwgc0vxdZESnX0fkIgC) | 4:45 |
 | 50 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 
-Snapshot ID: `Zr81kgAAAADuzbAnrtQNmb4BrafRRseW`
+Snapshot ID: `Zse04AAAAACyOZMpAcnrNxX5ALY2kgd+`

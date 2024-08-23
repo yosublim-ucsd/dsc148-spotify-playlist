@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata. Con nuovi brani di Articolo 31, Massimo Pericolo, Cosang, yungest Moonstar e tanti altri! \ud83d\udd25",
+  "description": "Sempre aggiornata. Con nuovi brani di Tony Boy, Cosang, Kassimi e tanti altri! \ud83d\udd25",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -14037,6 +14037,24 @@
     },
     {
       "album": {
+        "name": "CANI SCIOLTI",
+        "url": "https://open.spotify.com/album/2NHYNLFidFFefRn0QM6HEx"
+      },
+      "artists": [
+        {
+          "name": "NBL Baida",
+          "url": "https://open.spotify.com/artist/0pfzJzU7cwheE64uZPWrAS"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176202,
+      "name": "CANI SCIOLTI",
+      "url": "https://open.spotify.com/track/5m36GsBQD2L8aYmXoU6lZB"
+    },
+    {
+      "album": {
         "name": "CANNE MOZZE",
         "url": "https://open.spotify.com/album/0W0Nk0Hj6M214neggzNeZW"
       },
@@ -19172,6 +19190,24 @@
       "duration_ms": 205301,
       "name": "Contentissima",
       "url": "https://open.spotify.com/track/1YhKTLI90Xrc5BIYBJNKf5"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/78xTjDRmktseI106DiEoIG"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw"
     },
     {
       "album": {
@@ -29367,6 +29403,24 @@
     },
     {
       "album": {
+        "name": "From I Maggio",
+        "url": "https://open.spotify.com/album/4LSXyRXGwP3M8brPRDuhSq"
+      },
+      "artists": [
+        {
+          "name": "RU\u00c1N",
+          "url": "https://open.spotify.com/artist/5PLLnsSSyJiuIcZOWI75oT"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107462,
+      "name": "From I Maggio",
+      "url": "https://open.spotify.com/track/2c5n0LrGkf6gJ56NvnNLYz"
+    },
+    {
+      "album": {
         "name": "From Sant'",
         "url": "https://open.spotify.com/album/6QLXoiRRzLoWjwUyT1J6an"
       },
@@ -35911,6 +35965,24 @@
     },
     {
       "album": {
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
+    {
+      "album": {
         "name": "Il tuo nome",
         "url": "https://open.spotify.com/album/24lZ1bb5VSDXulLRCY0p4G"
       },
@@ -37808,7 +37880,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 193400,
       "name": "Jenny Tamburi",
       "url": "https://open.spotify.com/track/0h10mPauOeN86UednY24o3"
@@ -43507,6 +43579,28 @@
     },
     {
       "album": {
+        "name": "LONTANO DALLA VISTA",
+        "url": "https://open.spotify.com/album/5b6R6CV4CZA4zrBxF15jIR"
+      },
+      "artists": [
+        {
+          "name": "Ciao sono Vale",
+          "url": "https://open.spotify.com/artist/4F9QCOBWpH7P6zZwF6kKOc"
+        },
+        {
+          "name": "Young Ned",
+          "url": "https://open.spotify.com/artist/5If74jYE6YIOyFveWJaRh7"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84049,
+      "name": "LONTANO DALLA VISTA",
+      "url": "https://open.spotify.com/track/4d77A9X1TKsxT76sf9L4S5"
+    },
+    {
+      "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/68caZ3EhG2FXjPPda0Sqp1"
       },
@@ -46836,7 +46930,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 160251,
       "name": "MAREA 2024",
       "url": "https://open.spotify.com/track/7KcDcx2ILA1qrWcYl1Mb9i"
@@ -56034,6 +56128,28 @@
       "duration_ms": 140041,
       "name": "Nuovo John Gotti",
       "url": "https://open.spotify.com/track/06aa7ZRI20dR0iJLIfbpM8"
+    },
+    {
+      "album": {
+        "name": "NUOVO MONCLER",
+        "url": "https://open.spotify.com/album/6LJGSVQJcwI3PMgFm7XcB8"
+      },
+      "artists": [
+        {
+          "name": "Kid Baby",
+          "url": "https://open.spotify.com/artist/31Uc2EdmuVfsgTXkGDqpxd"
+        },
+        {
+          "name": "Dav\u00ecdd",
+          "url": "https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "NUOVO MONCLER",
+      "url": "https://open.spotify.com/track/4bFDP0aFi8iTyqjKEpnRck"
     },
     {
       "album": {
@@ -69009,6 +69125,24 @@
     },
     {
       "album": {
+        "name": "SARDINIA LIFESTYLE",
+        "url": "https://open.spotify.com/album/6ER2T3Y9Cta9Ra2VxZL7LE"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189982,
+      "name": "SARDINIA LIFESTYLE",
+      "url": "https://open.spotify.com/track/314CcGSvXMNpSBdWLyOU8h"
+    },
+    {
+      "album": {
         "name": "SAR\u00d2 CON TE (feat. Lele Blade, Vale Lambo, MV Killa, Yung Snapp) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/1qBNICgMGzv5TavnDPAeFu"
       },
@@ -70756,7 +70890,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 139993,
       "name": "Sesso Slitherich 3",
       "url": "https://open.spotify.com/track/6WayqkOPNp3DuusIlGQcGx"

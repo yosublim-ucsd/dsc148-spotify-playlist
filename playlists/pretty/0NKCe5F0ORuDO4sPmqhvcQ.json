@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqCdj5HPtuWW5ysRyXHtIpXyqYZwZW",
+  "snapshot_id": "AAAqC3mysxQtCZ4Q5Ox+Jm7Xve9UqSzF",
   "tracks": [
     {
       "added_at": "2024-08-06 19:32:19",
@@ -2207,6 +2207,42 @@
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "added_at": "2024-08-22 23:49:18",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg"
+    },
+    {
+      "added_at": "2024-08-22 23:49:38",
+      "album": {
+        "name": "The Four Stages",
+        "url": "https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 300996,
+      "name": "Afterglows",
+      "url": "https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82"
     }
   ],
   "unique_name": "Moving Castle Monthly",

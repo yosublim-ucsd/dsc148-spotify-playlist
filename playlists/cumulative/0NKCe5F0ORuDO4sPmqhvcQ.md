@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-627 songs - 1 day 11 hr 12 min
+629 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Acid Rain](https://open.spotify.com/track/4yRK7s74Y4xW1FW6bKOmmA) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Acid Rain](https://open.spotify.com/album/313NgEHZBe5t8H6e2lrP7p) | 3:00 | 2024-03-18 | 2024-08-07 |
 | [Action](https://open.spotify.com/track/60fyTAA4YUDrlvXKTbd9WK) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [Action](https://open.spotify.com/album/0gAtf1frqEswUJlQFZOKQm) | 2:58 | 2022-11-11 | 2023-01-20 |
 | [Admit It \(U Don't Want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [India Jordan](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(U Don't Want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2022-02-15 | 2022-03-10 |
+| [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 | 2024-08-22 |  |
 | [Ahora](https://open.spotify.com/track/5pHrnkNt0Ikb8UE5HAcnIJ) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K), [Jackets](https://open.spotify.com/artist/2WE3lhdwcH8I20JFdhsV94) | [Ahora](https://open.spotify.com/album/4IAMj8Bki0Hb3nMQ7N4PLi) | 6:22 | 2023-03-24 | 2023-07-20 |
 | [Alaska](https://open.spotify.com/track/0A4sGNGQSOj7ZBg6BNLhRz) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Alaska](https://open.spotify.com/album/6tGMyeh372oEesf49vpuuh) | 4:08 | 2024-07-09 |  |
 | [Alive \- Edit](https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Alive](https://open.spotify.com/album/51BR1e1klcWNZWsD5SbX4P) | 3:36 | 2023-10-05 |  |
@@ -444,6 +445,7 @@
 | [Reach](https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [Reach](https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui) | 4:20 | 2022-01-14 | 2022-03-10 |
 | [real 4 me](https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [is this real?](https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF) | 2:25 | 2024-06-29 | 2024-08-07 |
 | [Real Life \- Alex Preston Remix](https://open.spotify.com/track/7EpAUuSOOCOytPVjiBTllB) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Real Life \(Remixes\)](https://open.spotify.com/album/0bUx8416niknm1utNHSPvi) | 5:20 | 2022-07-01 | 2022-09-19 |
+| [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 | 2024-08-22 |  |
 | [Really Lovers](https://open.spotify.com/track/3PA6lmrVi2QgS6Udt24Ynr) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Really Lovers](https://open.spotify.com/album/6ZXsnuY4P6ZuIW3W1EBxBN) | 2:51 | 2022-07-13 | 2023-07-20 |
 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 | 2022-06-29 | 2022-09-17 |
 | [Red Earth Creek \- Winemaker Remix](https://open.spotify.com/track/4wy471QJmNNGD2PWaWByb6) | [Höhn](https://open.spotify.com/artist/05YiYkc5jTBQOjP5e10g7u), [Winemaker](https://open.spotify.com/artist/3eNJj6RBtXDPkAaXxBH3Hy) | [Red Earth Creek \(Winemaker Remix\)](https://open.spotify.com/album/0FpxqYnlBl5RdUNHaEzcU0) | 4:44 | 2023-11-11 | 2024-03-23 |

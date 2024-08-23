@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Concordia University (Live) [Montreal 2009]",
+        "url": "https://open.spotify.com/album/1gsd7TJk8u6rMb8eP28uv3"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2345500,
+      "name": "Concordia University (Live) [Montreal 2009]",
+      "url": "https://open.spotify.com/track/5YA53lwxWqzmwa0i3UZeNT"
+    },
+    {
+      "album": {
         "name": "SCURO CHIARO",
         "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 55000,
       "name": "To Live Another Day",
       "url": "https://open.spotify.com/track/0uDw3vdZfUWIejxagpJEnC"
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-21",
+      "date_removed": null,
       "duration_ms": 73960,
       "name": "Winds in the Misty Ridge",
       "url": "https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4"

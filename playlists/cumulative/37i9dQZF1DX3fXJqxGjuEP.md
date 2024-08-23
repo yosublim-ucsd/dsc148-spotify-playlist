@@ -4,7 +4,7 @@
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-514 songs - 1 day 6 hr 47 min
+515 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Azul](https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd) | 3:22 | 2021-10-20 | 2022-07-24 |
 | [Bacalar](https://open.spotify.com/track/6iuWnWeVqJw9lHZfd19wGR) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Bacalar](https://open.spotify.com/album/5aAjI0lS9FHldlehwVPhAs) | 2:20 | 2021-10-20 | 2022-06-26 |
 | [Bahía Escondida](https://open.spotify.com/track/2yJcCMLCwIWZzwqZ6EuAsy) | [Juniors del Gueto](https://open.spotify.com/artist/4zaZ2uhAnklLYP9IupJ8hN) | [Bahía Escondida](https://open.spotify.com/album/6Bx0GbFzisIhH30MluX4cb) | 3:45 | 2022-08-19 | 2022-09-22 |
+| [Bailando Bonito](https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Bailando Bonito](https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW) | 4:03 | 2024-08-23 |  |
 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 | 2021-10-20 | 2022-07-13 |
 | [Bailando Lento](https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Bailando Lento](https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq) | 3:17 | 2021-10-20 | 2022-07-24 |
 | [Baixi Baixi](https://open.spotify.com/track/3Yrp2Uybt0C3Z4W9VANuQE) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA), [Aluna Project](https://open.spotify.com/artist/1TSrXgFaXo6Vd5lZle9XM8) | [Baixi Baixi](https://open.spotify.com/album/4HfSWAVnYIdxNvrwYrgBke) | 3:39 | 2021-10-20 | 2022-07-27 |
@@ -510,7 +511,7 @@
 | [Y Es de Día](https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Gimnasia para Momias](https://open.spotify.com/album/2EVg66yi0c83l2vTXlkvWG) | 5:37 | 2021-10-29 | 2022-04-21 |
 | [Ya No Te Quiero](https://open.spotify.com/track/03zSGobl3ILmqobpwn08Iv) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/4dBvqo6FEZSEd8NfB4R8EZ) | 3:44 | 2021-10-20 | 2023-04-17 |
 | [Ya No Te Quiero](https://open.spotify.com/track/1XVG9J4jQRg3Ox7WHM6ztO) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Ya No Te Quiero](https://open.spotify.com/album/0twTGUVpGy1HIwgTJR0tZn) | 3:44 | 2021-10-20 | 2022-07-28 |
-| [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-16 |  |
+| [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 | 2023-11-16 | 2024-08-23 |
 | [Yellow Laces](https://open.spotify.com/track/2nKsFoAxQRjQz5zEvM7Hhz) | [Travelers All Stars](https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH) | [Yellow Laces \- Another Life](https://open.spotify.com/album/7JCCT2925DBAePLGnf6YQ4) | 3:17 | 2024-07-29 |  |
 | [Yin Yang](https://open.spotify.com/track/1oqpMRnWkrQ2sqUSAhsUaw) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Yin Yang](https://open.spotify.com/album/0fSGPH8R7mrquL3eK5Z8KM) | 2:34 | 2022-04-17 | 2022-07-29 |
 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 | 2021-10-20 | 2022-07-29 |

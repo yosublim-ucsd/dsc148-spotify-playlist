@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "22 Uhr",
+        "url": "https://open.spotify.com/album/3IVfhWdEgtgUWZs9u5H7W8"
+      },
+      "artists": [
+        {
+          "name": "nand",
+          "url": "https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138025,
+      "name": "22 Uhr",
+      "url": "https://open.spotify.com/track/0WkJ8IabEc9Yys3HJ3NwI2"
+    },
+    {
+      "album": {
         "name": "24 Grad im Schatten",
         "url": "https://open.spotify.com/album/70JGJMnQ1IG202q1HwgHwx"
       },
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 152080,
       "name": "blackout in der gegend",
       "url": "https://open.spotify.com/track/7vfrLfrmwb06yTpxqtqCCU"
@@ -2176,6 +2194,24 @@
       "duration_ms": 183687,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1VdjzSNjVZtU4KYYipxpcK"
+    },
+    {
+      "album": {
+        "name": "charlie chaplin",
+        "url": "https://open.spotify.com/album/1S1du4ePkJQ63nv38KeH2O"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174707,
+      "name": "charlie chaplin",
+      "url": "https://open.spotify.com/track/4Hy9vWOgbNRCLL98dupmyB"
     },
     {
       "album": {
@@ -2646,6 +2682,24 @@
       "duration_ms": 162045,
       "name": "diagnose 41.2",
       "url": "https://open.spotify.com/track/0e5MlmjzbjQbGuymTBeR7d"
+    },
+    {
+      "album": {
+        "name": "Die Anderen",
+        "url": "https://open.spotify.com/album/7kz0H5f8h1IGRl1auNe1jL"
+      },
+      "artists": [
+        {
+          "name": "Katzi",
+          "url": "https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146948,
+      "name": "Die Anderen",
+      "url": "https://open.spotify.com/track/4AeWyAX82przbYSEDJsqph"
     },
     {
       "album": {
@@ -3746,7 +3800,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 124204,
       "name": "Es ist Sommer",
       "url": "https://open.spotify.com/track/2xHwDKt677Awl7APE99TQF"
@@ -3898,7 +3952,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 173136,
       "name": "Extra",
       "url": "https://open.spotify.com/track/3b4bdikLKNTNrhcRpKWmg4"
@@ -4456,6 +4510,24 @@
       "duration_ms": 242671,
       "name": "F\u00fchrerschein",
       "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr dich",
+        "url": "https://open.spotify.com/album/2t9bVVjBjcPG8S8OzvpUo3"
+      },
+      "artists": [
+        {
+          "name": "ELA",
+          "url": "https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151846,
+      "name": "f\u00fcr dich",
+      "url": "https://open.spotify.com/track/5LIw7pP9e4WvMkPwwUckx8"
     },
     {
       "album": {
@@ -5109,6 +5181,28 @@
     },
     {
       "album": {
+        "name": "Grau",
+        "url": "https://open.spotify.com/album/3mtskI0keFB3wDrgicxwA6"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "Grau",
+      "url": "https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8"
+    },
+    {
+      "album": {
         "name": "Gro\u00dfstadt",
         "url": "https://open.spotify.com/album/65YTatv1UhdOAvOTzuoksR"
       },
@@ -5275,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "Hals \u00fcber Kopf",
+        "url": "https://open.spotify.com/album/7DMEaH6wJw0PYF6SvxtBGh"
+      },
+      "artists": [
+        {
+          "name": "Lucifer Xo",
+          "url": "https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145945,
+      "name": "Hals \u00fcber Kopf",
+      "url": "https://open.spotify.com/track/4NAQNy7Eh3pE5dCazU5wLy"
+    },
+    {
+      "album": {
         "name": "Halt dein Maul",
         "url": "https://open.spotify.com/album/2eCMZYkjny7NdILf2G3LwU"
       },
@@ -5428,10 +5540,28 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 221420,
       "name": "Heimweg",
       "url": "https://open.spotify.com/track/78HQLV6xVobfFpTj0N8g2R"
+    },
+    {
+      "album": {
+        "name": "r\u00fcckw\u00e4rts auf dem heimweg",
+        "url": "https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140528,
+      "name": "heimweg",
+      "url": "https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P"
     },
     {
       "album": {
@@ -6187,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Interesse",
+        "url": "https://open.spotify.com/album/1k7edVnkFM2I84o83MZZTd"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137391,
+      "name": "Interesse",
+      "url": "https://open.spotify.com/track/43nq2udT4T8dWEEhHcY3xZ"
+    },
+    {
+      "album": {
         "name": "adhs",
         "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
       },
@@ -6524,7 +6672,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156936,
       "name": "Jungs",
       "url": "https://open.spotify.com/track/1jho4k3ZW3EcDEKDuoAaEs"
@@ -6644,7 +6792,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 248509,
       "name": "Kannst du's sehen",
       "url": "https://open.spotify.com/track/3Afmo16KnR7V6fXNgnC0pY"
@@ -6961,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Kleine Liebesgeschichte",
+        "url": "https://open.spotify.com/album/41OI9xuXakuMlK04JT6vzu"
+      },
+      "artists": [
+        {
+          "name": "Tigermilch",
+          "url": "https://open.spotify.com/artist/5cFzpoYJedkZeGFUp9pExN"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Kleine Liebesgeschichte",
+      "url": "https://open.spotify.com/track/5jsfiJZadojaLepCtYKoLv"
+    },
+    {
+      "album": {
         "name": "Klimpa Klimpa",
         "url": "https://open.spotify.com/album/4jKFE0VEvvWOAZDY8aKq7z"
       },
@@ -7160,6 +7326,24 @@
       "duration_ms": 265032,
       "name": "Kurz vor Mitternacht",
       "url": "https://open.spotify.com/track/1VlweHpugA3HVSVSdklfWE"
+    },
+    {
+      "album": {
+        "name": "Kuss und Schmerzlos",
+        "url": "https://open.spotify.com/album/5Ij19wFaSc1qegOBEM83wN"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Kuss und Schmerzlos",
+      "url": "https://open.spotify.com/track/3BGkBAE1ggsmNh9BtwAxGT"
     },
     {
       "album": {
@@ -7424,7 +7608,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 148124,
       "name": "Laut",
       "url": "https://open.spotify.com/track/17HBDMUjurx0O6nhPZZVWZ"
@@ -9018,7 +9202,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 159393,
       "name": "nimm mit",
       "url": "https://open.spotify.com/track/4uDyEmWYoyfi2azbGS4IVs"
@@ -9914,7 +10098,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 119666,
       "name": "rauch",
       "url": "https://open.spotify.com/track/3DxLnjueYU6PC7EhgWVNNl"
@@ -13682,7 +13866,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 163979,
       "name": "Wieso eigentlich?",
       "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"

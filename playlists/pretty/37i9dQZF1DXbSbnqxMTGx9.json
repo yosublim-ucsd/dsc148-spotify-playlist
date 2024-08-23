@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3003021,
+  "num_followers": 3003483,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
-        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
+        "name": "Reggae Classics",
+        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
       },
       "artists": [
         {
-          "name": "Don Drummond",
-          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
+          "name": "Tony Rebel",
+          "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
         }
       ],
-      "duration_ms": 145933,
-      "name": "Don De Lion",
-      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
+      "duration_ms": 225333,
+      "name": "Sweet Jamaica",
+      "url": "https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Reggae Classics",
-        "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
+        "name": "Ska Kings of the First Wave with the Skatalites, The Ethiopians, And Don Drummond",
+        "url": "https://open.spotify.com/album/0aqG3e2e7cqcYitynssLLU"
       },
       "artists": [
         {
-          "name": "Tony Rebel",
-          "url": "https://open.spotify.com/artist/0eyU8FDZOOlay1MxO2ze4E"
+          "name": "Don Drummond",
+          "url": "https://open.spotify.com/artist/2lzGXw61wSj8mMK73d59Wn"
         }
       ],
-      "duration_ms": 225333,
-      "name": "Sweet Jamaica",
-      "url": "https://open.spotify.com/track/2WoKCEasaj7751MbvYeEcx"
+      "duration_ms": 145933,
+      "name": "Don De Lion",
+      "url": "https://open.spotify.com/track/1Oeey02HNBNBirWvHstVS2"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Scratch Came, Scratch Saw, Scratch Conquered",
+        "url": "https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "duration_ms": 280960,
+      "name": "Having A Party",
+      "url": "https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 224533,
       "name": "Monkey Man",
       "url": "https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Legend (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0tiPal8J7t3B9tPF7kGWDi"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 236946,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/0jlpgMdHL9Ar7CXlePtaql"
     }
   ],
   "unique_name": "Reggae Classics",

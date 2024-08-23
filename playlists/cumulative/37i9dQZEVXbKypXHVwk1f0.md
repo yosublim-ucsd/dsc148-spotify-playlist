@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,277 songs - 2 day 23 hr 30 min
+1,278 songs - 2 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Confusión](https://open.spotify.com/track/3aCCiazm1YrVwYFBuGSp9H) | [Hache Theraccoon](https://open.spotify.com/artist/2lorQ3rB2JBFAsJ8OwKBDw) | [Noche Bahía](https://open.spotify.com/album/0VYjaU634QW8kddznBR0p1) | 2:35 | 2023-05-27 | 2023-05-30 |
 | [CONSENTIRTE](https://open.spotify.com/track/5SRi5RHKLeq2KUhcLpRpZc) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN) | [CONSENTIRTE](https://open.spotify.com/album/7sKakAxh41JGIJCeXhVlG9) | 3:06 | 2022-08-15 | 2022-08-30 |
 | [Contigo](https://open.spotify.com/track/6Y5aTqQNbr0LLtxcIXMCH4) | [BM Legacy](https://open.spotify.com/artist/1ux3jQBNhz3EQwG8qgbb1q), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Legado ARM](https://open.spotify.com/artist/5GpMQrgxNjUa38cPXLtwbe), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [Contigo](https://open.spotify.com/album/6pbVsKe69AMnOYIT8cZpmG) | 3:02 | 2022-09-23 | 2022-10-09 |
-| [Contigo](https://open.spotify.com/track/1GPyKOdH9h1P7L15cqtRdj) | [Sin Límite](https://open.spotify.com/artist/5xv1gqyqgeXRA7vkaUvX4P), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU) | [Contigo](https://open.spotify.com/album/0zuErrTUwbH13LRStHSdX9) | 2:33 | 2024-08-17 |  |
+| [Contigo](https://open.spotify.com/track/1GPyKOdH9h1P7L15cqtRdj) | [Sin Límite](https://open.spotify.com/artist/5xv1gqyqgeXRA7vkaUvX4P), [Big Metra](https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU) | [Contigo](https://open.spotify.com/album/0zuErrTUwbH13LRStHSdX9) | 2:33 | 2024-08-17 | 2024-08-23 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2024-04-28 |
 | [Controlla \- Remix](https://open.spotify.com/track/3FhGRaF1qZYI56jhdq5Ppq) | [Carriee](https://open.spotify.com/artist/1heYNxgVSVkQoilJIh18dz), [Athzy](https://open.spotify.com/artist/0O0itpNfasVDKjX5O3Pmp3) | [Controlla \(Remix\)](https://open.spotify.com/album/1lgtVG6PaCMalcQMSpYYRV) | 3:26 | 2022-10-24 | 2022-11-12 |
 | [Cool](https://open.spotify.com/track/2Hm8cQ4wTfNfjoBj2lqBdX) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Cool](https://open.spotify.com/album/4U2t9iHOomCLPkn4c9tYi9) | 3:11 | 2022-10-30 | 2022-12-15 |
@@ -386,6 +386,7 @@
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2021-03-27\* | 2021-07-04 |
 | [FANTASMA \| AVC](https://open.spotify.com/track/2PFPDjSJpeZE889648rbUP) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 4:45 | 2023-07-01 | 2023-07-16 |
 | [FANTASÍAS](https://open.spotify.com/track/2v1EKQQn4UYC6qB13Vphaf) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:11 | 2023-08-30 | 2023-09-17 |
+| [FAVELA](https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [FAVELA](https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6) | 3:03 | 2024-08-22 |  |
 | [FE!N](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-07-31 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2021-10-13 | 2022-01-27 |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/2CeKVsFFXG4QzA415QygGb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:35 | 2022-09-15 | 2024-07-05 |

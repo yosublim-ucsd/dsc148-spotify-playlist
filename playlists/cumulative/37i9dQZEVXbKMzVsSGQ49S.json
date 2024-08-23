@@ -7081,6 +7081,24 @@
     },
     {
       "album": {
+        "name": "WSL",
+        "url": "https://open.spotify.com/album/42KLnMpQsy80qIDhLIdVlg"
+      },
+      "artists": [
+        {
+          "name": "LaB12",
+          "url": "https://open.spotify.com/artist/1mW6hLhghmUGZZAbL7C5yP"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187007,
+      "name": "CVPT",
+      "url": "https://open.spotify.com/track/4M578llmwxTl2v5j3CIg84"
+    },
+    {
+      "album": {
         "name": "D.M.B.",
         "url": "https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa"
       },
@@ -11558,7 +11576,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 151562,
       "name": "Final de Semana",
       "url": "https://open.spotify.com/track/7EWn0NjrL9sOJTzn1MElmg"
@@ -15442,7 +15460,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 155510,
       "name": "Hef Veri\u00f0 Verri (\u00deorm\u00f3\u00f0ur Remix)",
       "url": "https://open.spotify.com/track/3sjLV9JUU2oxrqfnW5zpgm"
@@ -35264,7 +35282,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -38898,7 +38916,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
@@ -42844,7 +42862,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

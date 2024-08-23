@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d3\u05d5\u05d3\u05d5 \u05d8\u05e1\u05d4",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -162,6 +162,28 @@
       "duration_ms": 190776,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/4GUSxRTGJe1nzfadp9dA7V"
+    },
+    {
+      "album": {
+        "name": "GODMOTHER (feat. Eden Ben Zaken)",
+        "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191516,
+      "name": "GODMOTHER (feat. Eden Ben Zaken)",
+      "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
     },
     {
       "album": {
@@ -567,6 +589,28 @@
     },
     {
       "album": {
+        "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+        "url": "https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12"
+      },
+      "artists": [
+        {
+          "name": "Yehudit Ravitz",
+          "url": "https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj"
+        },
+        {
+          "name": "Geva Alon",
+          "url": "https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174585,
+      "name": "\u05d1\u05d1\u05d5\u05e7\u05e8",
+      "url": "https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
         "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
       },
@@ -701,6 +745,28 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d3\u05d1\u05e8 \u05d4\u05d0\u05de\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/6pfsgNjqvF5SvLbpQv9xil"
+      },
+      "artists": [
+        {
+          "name": "Meirav Hellinger",
+          "url": "https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy"
+        },
+        {
+          "name": "\u05d3\u05e0\u05d9\u05d0\u05dc \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9",
+          "url": "https://open.spotify.com/artist/5iklnNC2aChGQXXhheEyzF"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207529,
+      "name": "\u05d4\u05d3\u05d1\u05e8 \u05d4\u05d0\u05de\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/424f6LZLl4MpDRBFhCJVJw"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d3\u05e8\u05da \u05d4\u05d9\u05d0 \u05d1\u05d9\u05ea",
         "url": "https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc"
       },
@@ -748,7 +814,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 183142,
       "name": "\u05d4\u05d9\u05d0 \u05ea\u05de\u05e9\u05d9\u05da \u05d2\u05dd \u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
       "url": "https://open.spotify.com/track/0GRj6FvKdaMTNqxStUGHHM"
@@ -802,7 +868,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 219000,
       "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
       "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
@@ -898,7 +964,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 235000,
       "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
       "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
@@ -1101,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "\u05db\u05dc \u05d6\u05de\u05df \u05e9\u05d9\u05d4\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/0VKf839VIuf05fW86LeiTB"
+      },
+      "artists": [
+        {
+          "name": "Yoni Rechter",
+          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446500,
+      "name": "\u05db\u05dc \u05d6\u05de\u05df \u05e9\u05d9\u05d4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/1ptjFUKvetnXQVdOuuCv2R"
+    },
+    {
+      "album": {
         "name": "\u05db\u05dc \u05de\u05d4 \u05e9\u05d9\u05e9 \u05dc\u05d9",
         "url": "https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9"
       },
@@ -1174,7 +1258,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 211437,
       "name": "\u05db\u05e9\u05ea\u05d4\u05d9\u05d4 \u05d2\u05d3\u05d5\u05dc",
       "url": "https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3"

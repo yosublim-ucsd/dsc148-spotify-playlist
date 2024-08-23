@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Bonobo
+> The home for alternative electronic music\. Cover: Joy Orbison
 
-1,031 songs - 2 day 23 hr 45 min
+1,033 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Hawt](https://open.spotify.com/track/2K6qq0V7jXSlhucLr8R74Z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Hawt](https://open.spotify.com/album/2pAXyc02IaCw8JOPjoDVLM) | 2:37 | 2022-11-18 | 2023-04-07 |
 | [Head Back](https://open.spotify.com/track/25XeeZe1GNgCsnjJwubdMW) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [HeForShe x femme culture Vol\. 4.2](https://open.spotify.com/album/4grlb18lV3GveEKQqlAjJG) | 3:46 | 2022-03-25 | 2022-07-22 |
 | [Head Round](https://open.spotify.com/track/5WEQFJ8tHLEhI5WQ864ij8) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Head Round](https://open.spotify.com/album/0SlqGG9O3GIFMvN9A21JfS) | 2:21 | 2024-03-01 | 2024-08-09 |
+| [Hear Ur Heartbeat](https://open.spotify.com/track/7JJ2wXdOQgKdSXZBD56uut) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Hear Ur Heartbeat](https://open.spotify.com/album/4ghuYYQWRf1e3RcQ7PBg1p) | 3:22 | 2024-08-22 |  |
 | [Heartbeat](https://open.spotify.com/track/6MOTR6xzFe5fVTz7rum6qX) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Heartbeat](https://open.spotify.com/album/7gRArqRwOK3uXvcJXm3EO0) | 4:00 | 2023-04-27 | 2023-10-13 |
 | [Heat of the Moon \- Phairo's Lunar Eclipse Mix](https://open.spotify.com/track/1q7MXzLGZK2DqVNIF66VFh) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Phairo](https://open.spotify.com/artist/0ddHqZkNzQv7cmCGN6NwXY) | [Heat of the Moon \(Phairo's Lunar Eclipse Mix\)](https://open.spotify.com/album/3uERrl8jhKSyvA7NRviGPi) | 4:27 | 2023-07-13 | 2023-11-17 |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-07 | 2022-11-25 |
@@ -564,7 +565,7 @@
 | [Make It](https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ), [Soundboy Cookie](https://open.spotify.com/artist/7AoaVHsHCDToJEzx9t6YlX) | [Make It](https://open.spotify.com/album/5DwqXlTbsC2ld3bUrx59y2) | 4:56 | 2021-11-24\* | 2022-03-26 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-03-24 | 2023-07-14 |
 | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/track/100m5H7AWP78qoou9Eb8DF) | [Justin Martin](https://open.spotify.com/artist/4FN8WHqUbwkd97WEjoCu7B) | [Make Me Feel \(Like Dancing\)](https://open.spotify.com/album/5dZNSi4ZP8vry4Lodq3BtQ) | 5:40 | 2024-01-26 | 2024-06-07 |
-| [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 | 2024-03-22 |  |
+| [Make Me Ovah](https://open.spotify.com/track/0y9Ge4SROBj66AkfRFAdbw) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [Black Sheep](https://open.spotify.com/album/7dZYVVGoirZvmYZC3s5Lyz) | 2:40 | 2024-03-22 | 2024-08-23 |
 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 | 2022-06-13 | 2022-10-07 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-10-14 |
 | [malo okoma \- Radio Edit](https://open.spotify.com/track/7tdviypkABEstu9z7gSB27) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ), [Theresa Ng'ambi](https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI) | [malo okoma](https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV) | 4:05 | 2022-02-04 | 2022-05-06 |
@@ -801,6 +802,7 @@
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-01 | 2024-08-09 |
 | [Shorty](https://open.spotify.com/track/4wwZS4a7MR2DZIRjq8G5lD) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Shorty](https://open.spotify.com/album/2gxPIKRsVy27zkAPZ4QbZS) | 3:28 | 2023-01-13 | 2023-04-28 |
 | [Should’ve Known](https://open.spotify.com/track/3yGBhi4S3XBNtqK6de1mTD) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 5:42 | 2023-07-20 | 2024-01-05 |
+| [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 | 2024-08-22 |  |
 | [Shutter Trak](https://open.spotify.com/track/4SSRXxNIPguI2fiELTC7jS) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Shutter Trak](https://open.spotify.com/album/2BxbJsBAlvRXXkteztnUKs) | 5:16 | 2022-03-04 | 2022-07-15 |
 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 | 2024-04-19 |  |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-06 | 2023-11-10 |
@@ -849,7 +851,7 @@
 | [Steamin](https://open.spotify.com/track/1eJHtjhx9G89WPHHX20ndU) | [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [Steamin](https://open.spotify.com/album/00ciJacke9mRfbm616SfWq) | 3:48 | 2022-07-28 | 2022-11-11 |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-07-14 | 2022-07-29 |
 | [Sternenhimmel](https://open.spotify.com/track/3g4JgXeSpv5wXGzdsDxCRi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Sternenhimmel](https://open.spotify.com/album/2f0AGOZB1C803GlPxAEdXe) | 5:34 | 2022-07-28 | 2023-01-13 |
-| [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 | 2024-03-08 |  |
+| [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 | 2024-03-08 | 2024-08-23 |
 | [Stone](https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Stone](https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H) | 3:02 | 2023-04-27 | 2023-09-29 |
 | [Stranger \(feat\. Elkka\)](https://open.spotify.com/track/4Ym9kUhwyIgms5DhCH1PAO) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp), [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Stranger \(feat\. Elkka\)](https://open.spotify.com/album/3W0rAY4LLL7rDbGY41I1HE) | 3:29 | 2024-07-11 |  |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-01 | 2024-01-19 |

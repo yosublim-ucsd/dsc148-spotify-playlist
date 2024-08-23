@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Elh Kmer
+> Le meilleur du rap français version cloud\. Photo : Zamdane
 
-416 songs - 20 hr 22 min
+417 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [100 ans](https://open.spotify.com/track/2guJAJFWNnaujR0iVYM1pB) | [Diddi Trix](https://open.spotify.com/artist/52h6A1y99QgoEf5FzKEHs1) | [100 ans](https://open.spotify.com/album/55IJ9CgUSLuU72XAs7N0al) | 2:01 | 2022-12-15 | 2023-01-27 |
 | [16 appels manqués](https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV) | [Cashmire](https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL) | [16 appels manqués](https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C) | 2:01 | 2023-04-13 | 2023-06-09 |
 | [1jour](https://open.spotify.com/track/36rmAqEXbOlUGhUCrq61vb) | [Simili Gum](https://open.spotify.com/artist/20ZFMIA16SxwO2NGFmw7vS) | [prepa21](https://open.spotify.com/album/3SKxrBONDzWkk3ULdlPdOw) | 2:49 | 2022-10-13 | 2022-12-09 |
+| [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-22 |  |
 | [2ECOND](https://open.spotify.com/track/2t6hlxN2lH505pPRrKNeFW) | [Rodrigo](https://open.spotify.com/artist/2kyVYRUwlrrJobeoqGoVvy), [CAPU$H](https://open.spotify.com/artist/45OjNQ1shjnnjtjteryVxq) | [ÉTERNEL SECOND](https://open.spotify.com/album/72qSwqyIdk7ZNtksWQvowj) | 4:16 | 2024-04-11 | 2024-06-01 |
 | [5 AM](https://open.spotify.com/track/5I4nsx9cderO8FqfjDR0zA) | [Many Santana](https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ) | [5 AM](https://open.spotify.com/album/3fdxBZ7JxFiXtCDRYizYSB) | 2:33 | 2023-06-15 | 2023-10-27 |
 | [5AM](https://open.spotify.com/track/5IpJosdaXZeUKcAx6dE8NS) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:31 | 2024-06-27 |  |
@@ -301,7 +302,7 @@
 | [Paraît\-il](https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Karma](https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF) | 2:50 | 2023-02-09 | 2023-05-19 |
 | [Paris Tanger](https://open.spotify.com/track/19Qk0blqgKX3uW0F79dBO1) | [Leith](https://open.spotify.com/artist/0DQx7HJhLzjbSQNsNhrpLT) | [LE RICHE EST SOURD](https://open.spotify.com/album/2lmhKVBSrjlLp7eXxNFGqG) | 2:31 | 2024-06-20 |  |
 | [PARLE EN WSH](https://open.spotify.com/track/2lP7XUYGrfDGkeweHioos5) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [PARLE EN WSH](https://open.spotify.com/album/50bmjYU7Z5BlZiZxvYXbzE) | 3:01 | 2024-01-18 | 2024-03-01 |
-| [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-03-07 |  |
+| [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-03-07 | 2024-08-23 |
 | [Paro](https://open.spotify.com/track/3aOP50V0Wey9WpFrpYjfGO) | [HB VIZ](https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I) | [Paro](https://open.spotify.com/album/2SRZZ9c3XFunt6QV9oozbh) | 2:44 | 2024-02-29 | 2024-05-17 |
 | [PAS DE CE MONDE](https://open.spotify.com/track/3zGuHTIdqFnrNVkyE2YR1d) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [PAS DE CE MONDE](https://open.spotify.com/album/3oYNnQnjfucofFcjlPoNJL) | 2:28 | 2023-06-29 | 2023-08-25 |
 | [Perdants magnifiques](https://open.spotify.com/track/3nKBUKJiHCFNtcRZ1pPuqS) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm), [Arzel](https://open.spotify.com/artist/1d75JyJ5GoOgPYF4p61sdX) | [L'aube d'un nouveau jour](https://open.spotify.com/album/5FZVjIZoYfNxAl3XBqDqh3) | 3:15 | 2024-05-30 | 2024-08-09 |

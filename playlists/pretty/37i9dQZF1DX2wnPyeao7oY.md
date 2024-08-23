@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists every Wednesday\. Cover: LOCKED SHUT \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 76 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516 likes - 76 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toothache](https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Toothache](https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2) | 1:54 |
 | 2 | [Jawbreaker](https://open.spotify.com/track/5cPbvHaeKI38kDrXQnKmok) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Jawbreaker](https://open.spotify.com/album/2WNj8Gr6pTbW3EVnPofLEd) | 2:09 |
 | 3 | [Erased](https://open.spotify.com/track/7yf0LDU3t1O66WaK0vhA3n) | [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ) | [Mono No Aware](https://open.spotify.com/album/3GEwDcMpCEbF7u5LpWnOyn) | 3:36 |
-| 4 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 |
-| 5 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 |
-| 6 | [The Riddle](https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [The Riddle](https://open.spotify.com/album/6vhKGLD9LyeAFeoj1PHHPd) | 3:43 |
-| 7 | [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 |
-| 8 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 |
-| 9 | [waste](https://open.spotify.com/track/22uPsSttCJhrDGFhfx9zob) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:51 |
-| 10 | [MY.OWN.SKIN](https://open.spotify.com/track/68nFAFfIesp10mYjbalBad) | [InRetrospect](https://open.spotify.com/artist/7IRGSEZoEl2M7KljJVxJuT) | [MY.OWN.SKIN](https://open.spotify.com/album/3qLHWbi29wBOUOZRJJnPgI) | 3:26 |
-| 11 | [PLAY2WIN](https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf) | [Winnerz Circle](https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm), [J.O.Y](https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ) | [PLAY2WIN / IMITATION NOT FLATTERY](https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu) | 2:47 |
-| 12 | [WHEN THE PANIC SETS IN](https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [WHEN THE PANIC SETS IN](https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug) | 3:44 |
-| 13 | [The Unconquerable](https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [The Unconquerable](https://open.spotify.com/album/6eXu91pzHfW5v98wUbIt7q) | 3:16 |
+| 4 | [The Riddle](https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [The Riddle](https://open.spotify.com/album/6vhKGLD9LyeAFeoj1PHHPd) | 3:43 |
+| 5 | [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 |
+| 6 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 |
+| 7 | [waste](https://open.spotify.com/track/22uPsSttCJhrDGFhfx9zob) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:51 |
+| 8 | [MY.OWN.SKIN](https://open.spotify.com/track/68nFAFfIesp10mYjbalBad) | [InRetrospect](https://open.spotify.com/artist/7IRGSEZoEl2M7KljJVxJuT) | [MY.OWN.SKIN](https://open.spotify.com/album/3qLHWbi29wBOUOZRJJnPgI) | 3:26 |
+| 9 | [Taste Better](https://open.spotify.com/track/7LKSaTHrzYs8fENotRCj2E) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Taste Better](https://open.spotify.com/album/3CYnVgAzxg49IYGU2hwyXQ) | 2:53 |
+| 10 | [PLAY2WIN](https://open.spotify.com/track/0P6qL69O0oXgHOsrMxvQTf) | [Winnerz Circle](https://open.spotify.com/artist/2JZ4Q1qLVtmQbDavWG90Vm), [J.O.Y](https://open.spotify.com/artist/0opBBQ9Ixf0alXuV7fuUuQ) | [PLAY2WIN / IMITATION NOT FLATTERY](https://open.spotify.com/album/4rUw2Htt0M4g7XyFqFM3mu) | 2:47 |
+| 11 | [WHEN THE PANIC SETS IN](https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg) | [LOVELOST](https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6) | [WHEN THE PANIC SETS IN](https://open.spotify.com/album/5c4akSDcRyPgmXftGjk7ug) | 3:44 |
+| 12 | [The Unconquerable](https://open.spotify.com/track/6tFs5s7IxYaTp6TqXVDbFJ) | [Dead Icarus](https://open.spotify.com/artist/3YqHFmMKPYLoZ0dEZOVIkS) | [The Unconquerable](https://open.spotify.com/album/6eXu91pzHfW5v98wUbIt7q) | 3:16 |
+| 13 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 |
 | 14 | [Shadow Dancer](https://open.spotify.com/track/1JGV8Iy09eMNAYls0fYx8h) | [Vicious Rain](https://open.spotify.com/artist/5gMc4HiJRY9g63KiaulaBp) | [Shadow Dancer](https://open.spotify.com/album/1SmYK5HhYBJcJNcVKCfeME) | 4:24 |
 | 15 | [Amputated Satisfaction](https://open.spotify.com/track/6VcUENBK5HOJw5XPQT5Gv8) | [CRUCIFICTION](https://open.spotify.com/artist/1yf1dC29po0p4GRKzrcxGS) | [Amputated Satisfaction](https://open.spotify.com/album/7BJC9tg6QeYrXPQDUaTCZq) | 3:24 |
 | 16 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 75 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 |
 | 76 | [Delusion](https://open.spotify.com/track/3zkJJM6Uz4r6OqCgwgGTmz) | [Doubt](https://open.spotify.com/artist/517PMQHC4Vb1vUmUDWI6KS) | [Held in Contempt](https://open.spotify.com/album/4KY9UoEdNsnFuDhGmKxTcx) | 1:52 |
 
-Snapshot ID: `ZsZ0iQAAAAAVZft+DzYf14piShWJri6t`
+Snapshot ID: `ZseVxgAAAABTKODR+L6lXKZO/XkcYkhb`

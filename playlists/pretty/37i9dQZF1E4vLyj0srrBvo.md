@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With FKA twigs, Crystal Castles, Purity Ring and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,240 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,263 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [BITCH](https://open.spotify.com/track/3AtVQOM4g0dB9DZhvwQdkA) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 3:27 |
 | 50 | [4 Morant \(Better Luck Next Time\)](https://open.spotify.com/track/3XOmSRuEEq7rK4XNzWQdyT) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Brokendate](https://open.spotify.com/album/7njHOwYjouefEKp1XbTx95) | 2:51 |
 
-Snapshot ID: `ZsajZwAAAAAQCOFBSIcQ/7DA7+1NEHjl`
+Snapshot ID: `Zsf7uAAAAAARgCWeo18ILbdQZg/aAtn9`

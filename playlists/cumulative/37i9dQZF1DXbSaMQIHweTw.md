@@ -4,7 +4,7 @@
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
 
-150 songs - 8 hr 3 min
+151 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Dhokebaaz](https://open.spotify.com/track/1TfC7wJxP6NWn8HBBhMQD5) | [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63) | [Dhokebaaz](https://open.spotify.com/album/1JxYAtXkwk64rObM4Gz2mL) | 2:28 | 2023-03-17 | 2023-04-25 |
 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 | 2023-03-17 |  |
 | [Disco Rap](https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:42 | 2023-03-17 |  |
-| [DND](https://open.spotify.com/track/7yYl0fyvfGcCGVKAhjCbru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy) | [DND](https://open.spotify.com/album/44KOj6FjIZVB4V428L2CQG) | 2:00 | 2023-12-06 |  |
+| [DND](https://open.spotify.com/track/7yYl0fyvfGcCGVKAhjCbru) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy) | [DND](https://open.spotify.com/album/44KOj6FjIZVB4V428L2CQG) | 2:00 | 2023-12-06 | 2024-08-23 |
 | [Drill](https://open.spotify.com/track/4tCrnq1KgZy1nGch1wP5aY) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Drill](https://open.spotify.com/album/3au6AYCZMdQkw7gaPVHiRY) | 2:28 | 2023-03-17 | 2023-04-25 |
 | [Drill Karte](https://open.spotify.com/track/66qAXPAHwLKPLi8Gx58x5z) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:29 | 2023-03-17 | 2023-12-09 |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 |  |
@@ -108,6 +108,7 @@
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-17 | 2023-04-25 |
 | [Mohabbat](https://open.spotify.com/track/2cbTH0FqDD2wv9KBXuWjme) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3) | [Mohabbat](https://open.spotify.com/album/3E1gh4gV97yJUgMWrwTvG4) | 3:14 | 2023-03-17 | 2023-04-25 |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-17 | 2023-04-25 |
+| [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2024-08-23 |  |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-17 | 2023-04-25 |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2023-03-17 | 2023-04-25 |
 | [Numb](https://open.spotify.com/track/0Yfz0JBHTThQFDK4h5gFhQ) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Numb](https://open.spotify.com/album/73vNAwnBlHuL5FnBYBou5Y) | 2:45 | 2024-04-12 | 2024-06-01 |

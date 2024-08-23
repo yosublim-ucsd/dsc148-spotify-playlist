@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-784 songs - 1 day 18 hr 42 min
+785 songs - 1 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Morning Matters](https://open.spotify.com/track/4hNgMLdda6VpNHUKdgmRMU) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/5ipQzmfPyMJgG1zLF4NrBk) | 4:06 | 2021-12-15 | 2022-04-19 |
 | [Motion](https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH) | [ASTU](https://open.spotify.com/artist/7im6YMNQQpdI06Yn764gAi) | [Motion](https://open.spotify.com/album/4bPw584LULeVDYpSvGzWnn) | 3:55 | 2021-12-15 | 2022-07-26 |
 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 | 2023-03-17 | 2023-08-12 |
-| [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 | 2024-03-22 |  |
+| [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 | 2024-03-22 | 2024-08-23 |
 | [Movement](https://open.spotify.com/track/4PkqYfR5Z1So9tWexu6uhz) | [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [Movement](https://open.spotify.com/album/78CsycL5yFdeyd8h9o37U6) | 3:10 | 2021-12-15 | 2022-07-28 |
 | [Ms\. Ebony Brown](https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Ms\. Ebony Brown](https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz) | 3:18 | 2024-04-19 |  |
 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 | 2024-04-05 |  |
@@ -721,6 +721,7 @@
 | [U Got Me](https://open.spotify.com/track/4bvNJ5So34WwPSGXaERnGh) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [U Got Me](https://open.spotify.com/album/7vNWrBgdkb8ne93HUDnjxQ) | 3:26 | 2023-06-30 | 2023-10-16 |
 | [U Should Be Mine](https://open.spotify.com/track/6babFcorQ58c4wRURJARaE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [U Should Be Mine](https://open.spotify.com/album/1SAL8acM2LnCU1GmQpks37) | 3:25 | 2023-08-18 | 2023-10-07 |
 | [Uber Driver](https://open.spotify.com/track/70BGqPX1A20XVIWMDumGfv) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Uber Driver](https://open.spotify.com/album/5EAZx5ZDmYLnvyE1ziQ3bg) | 4:00 | 2024-06-21 | 2024-07-27 |
+| [Unconditional.](https://open.spotify.com/track/3GErocZrwEKDKygFuCt8xm) | [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [Fold the Light.](https://open.spotify.com/album/4RSlbX1iPrIKRPSdYUVpUJ) | 3:56 | 2024-08-16 |  |
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-09-08 |
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2023-09-22 |  |
 | [Unknown \- Radio Edit](https://open.spotify.com/track/72kuY1iDVY3TAguRuBl9ha) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Unknown \(Radio Edit\)](https://open.spotify.com/album/4NufFCMZdy4pxaISp2JWU1) | 3:17 | 2024-04-26 |  |

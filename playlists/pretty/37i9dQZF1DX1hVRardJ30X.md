@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Nsqk, Grupo Firme & Demi Lovato, Kenia OS & Steve Aoki and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,798 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,863 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

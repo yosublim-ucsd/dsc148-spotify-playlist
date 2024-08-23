@@ -2,7 +2,7 @@
 
 ### [Party Hits 2010s](https://open.spotify.com/playlist/37i9dQZF1DWWylYLMvjuRG)
 
-> The biggest party hits of the 2010s\. Cover: Flo Rida
+> The biggest party hits of the 2010s\. Cover: Kesha
 
 460 songs - 1 day 3 hr 6 min
 
@@ -108,7 +108,7 @@
 | [Domino](https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Platinum Edition\)](https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp) | 3:51 | 2024-05-26 |  |
 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW) | 3:31 | 2021-09-08 | 2022-07-29 |
 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/0QaKr4RHEmOCXpN39bAu0B) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [The Wrong Kind of War](https://open.spotify.com/album/4HRbIp0boLR9E4UH5TAyoe) | 3:11 | 2021-09-08 | 2022-04-21 |
-| [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2024-05-26 |  |
+| [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \- Mixtape](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2024-05-26 |  |
 | [Don't Call Me Up \- R3HAB Remix](https://open.spotify.com/track/0goj2jVaUvxQP2zsyt7Xol) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Don't Call Me Up \(Remixes\)](https://open.spotify.com/album/5CGGhWKMDZUIt1lnmFbozw) | 2:33 | 2021-03-22 | 2022-07-29 |
 | [Don't Let Me Down \(feat\. Daya\) \- W&W Remix](https://open.spotify.com/track/4s2rzq6ZpCfg5ODq0z79QG) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Don't Let Me Down \(Remixes\) \(feat\. Daya\)](https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ) | 3:15 | 2021-03-22 | 2022-04-21 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-03-22 |  |

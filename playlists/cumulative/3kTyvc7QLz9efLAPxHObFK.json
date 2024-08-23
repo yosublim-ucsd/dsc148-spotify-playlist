@@ -4719,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "CAN'T CONTROL",
+        "url": "https://open.spotify.com/album/0aSCsxL1D82JEPr5T6RK1g"
+      },
+      "artists": [
+        {
+          "name": "Griever",
+          "url": "https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156029,
+      "name": "CAN'T CONTROL",
+      "url": "https://open.spotify.com/track/3ETXLjdwpuOMBfsq7cyMQs"
+    },
+    {
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/6oyYnHZNdp5oEqE1fqLC1R"
       },
@@ -10235,7 +10253,7 @@
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 173465,
+      "duration_ms": 173454,
       "name": "Fingers To The Sky",
       "url": "https://open.spotify.com/track/1Agmt00ZysDMXes5xR2KL4"
     },
@@ -13183,6 +13201,28 @@
     },
     {
       "album": {
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1yANHCdK6mKBeV8bVdVkoQ"
+      },
+      "artists": [
+        {
+          "name": "Dr Donk",
+          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+        },
+        {
+          "name": "Goblin Grave",
+          "url": "https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/5KXOVRegnjDDTyDC4P29kE"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/46kkuBc0qUuXvwjxRJlrDi"
       },
@@ -13224,6 +13264,28 @@
       "duration_ms": 134573,
       "name": "Heaven's Gateway",
       "url": "https://open.spotify.com/track/177sytUrPVDok48qE6BQTc"
+    },
+    {
+      "album": {
+        "name": "Heavy Energy",
+        "url": "https://open.spotify.com/album/5BFasmiQB7KcSrvYAo9Y2s"
+      },
+      "artists": [
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "Guizcore",
+          "url": "https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Heavy Energy",
+      "url": "https://open.spotify.com/track/2IoeH2J1KDZxOGSnq0MVd2"
     },
     {
       "album": {
@@ -20432,6 +20494,24 @@
       "duration_ms": 152695,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/5Fz21h9GRuZCuouoYpLsrW"
+    },
+    {
+      "album": {
+        "name": "NIGHTMARE (SAVE ME)",
+        "url": "https://open.spotify.com/album/0wPaO2XSA5boe9hY5iEiVv"
+      },
+      "artists": [
+        {
+          "name": "Griever",
+          "url": "https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159347,
+      "name": "NIGHTMARE (SAVE ME)",
+      "url": "https://open.spotify.com/track/502SxRWMjLGwd8oHgyM3sS"
     },
     {
       "album": {

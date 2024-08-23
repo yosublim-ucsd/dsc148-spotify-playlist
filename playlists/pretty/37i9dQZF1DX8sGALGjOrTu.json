@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 486025,
+  "num_followers": 486147,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Vheissu",
-        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Image Of The Invisible",
-      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "In Search of Solid Ground",
         "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 205480,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Vheissu",
+        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Image Of The Invisible",
+      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "A Static Lullaby",
-        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
-      },
-      "artists": [
-        {
-          "name": "A Static Lullaby",
-          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Kezia (Remaster)",
         "url": "https://open.spotify.com/album/4vz1TDvYAueQhCH9jiulwc"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 265409,
       "name": "No Stars over Bethlehem",
       "url": "https://open.spotify.com/track/4Mqs6irS9aCNTjXznGfRbe"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "A Static Lullaby",
+        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
     },
     {
       "added_at": "2024-07-02 15:11:08",

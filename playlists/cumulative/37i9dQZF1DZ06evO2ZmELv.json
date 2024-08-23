@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
+  "description": "This Is Cheli Madrid. Los temas esenciales, todos en una lista.",
   "name": "This Is Cheli Madrid",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 200463,
       "name": "Al Ver Que Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/1laxigh2D0jypvNDVLL2Rj"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 206058,
       "name": "Besos de Papel - En Vivo",
       "url": "https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty"

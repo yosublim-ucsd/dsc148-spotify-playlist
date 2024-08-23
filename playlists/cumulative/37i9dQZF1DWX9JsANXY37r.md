@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-239 songs - 14 hr 46 min
+240 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 | 2022-02-18 |  |
 | [Feelin' Alright \(feat\. Reva DeVito\)](https://open.spotify.com/track/0LLKDPlqrAlqgoiMDqkB2D) | [Nick Wisdom](https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Intimate Strangers](https://open.spotify.com/album/4tEm5274iungpgOhCQvkO5) | 5:16 | 2022-03-25 | 2022-07-29 |
 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 | 2022-02-18 |  |
+| [Flecha do Dedo](https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Flecha do dedo / Paixão faixa preta](https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt) | 4:04 | 2024-08-22 |  |
 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 | 2022-06-24 |  |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/4PlbUZ7l0HPZFcTf31hrkt) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0mQZn6mrdeNH6HT0hBmEBF) | 3:20 | 2023-12-08 | 2024-04-19 |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/69aQw9lS9lhGGnGcuoX5c7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You \(Remixes\)](https://open.spotify.com/album/61MBQ27mg5uDNDk1ANjPvq) | 3:20 | 2022-03-25 | 2022-04-21 |
@@ -168,7 +169,7 @@
 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 | 2022-03-25 |  |
 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 | 2022-03-04 |  |
 | [narcisa](https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [besitos, cuídate](https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu) | 2:53 | 2022-02-18 | 2022-07-29 |
-| [Noites De Monza](https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Noites De Monza](https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH) | 2:51 | 2024-07-26 |  |
+| [Noites De Monza](https://open.spotify.com/track/604SDg8AblpTWXWv1dgy4b) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Noites De Monza](https://open.spotify.com/album/7M8OrSrFiDbJoYVbUReWeH) | 2:51 | 2024-07-26 | 2024-08-23 |
 | [Olvidarlo](https://open.spotify.com/track/6BJ1LXDyZcbh46U4HitIeX) | [GzL](https://open.spotify.com/artist/6me4ClknRvUooCalLOeSop) | [Olvidarlo](https://open.spotify.com/album/69snYCFpY1590kiJKbcknj) | 3:38 | 2022-02-18 | 2022-07-29 |
 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 | 2022-03-25 |  |
 | [One Evening](https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ) | 3:36 | 2022-02-18 |  |

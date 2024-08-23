@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,239 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,228 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOLKtM77Hd7.md) - [plain]
 | 28 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 29 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
 | 30 | [Dominick the Donkey \(The Italian Christmas Donkey\)](https://open.spotify.com/track/6W332S9Wbc6TOBlChnemKD) | [Lou Monte](https://open.spotify.com/artist/7dbKeVkihtOifdiu7f3rUg) | [Dominick the Donkey and Other Hits](https://open.spotify.com/album/3QfPlnKLvD9IQwVJhcp4Rj) | 2:30 |
-| 31 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL), [Boris Karloff](https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 |
+| 31 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb), [Boris Karloff](https://open.spotify.com/artist/35uPgDW1J4hq6tqQ0LJcot) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 |
 | 32 | [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 2:03 |
 | 33 | [Christmas Is The Time To Say "I Love You"](https://open.spotify.com/track/2NSFg6KZjXOXLOZ3ayZFbV) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Christmas Is the Time to Say "I Love You"](https://open.spotify.com/album/6ljRiNswE0QEYRltbRdVTX) | 2:54 |
 | 34 | [Twelve Days Of Christmas](https://open.spotify.com/track/604DTaRINInOPt26OBBNU6) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [A Christmas Together \- John Denver & The Muppets](https://open.spotify.com/album/0ybUMi0SERu1UqtTivSSFb) | 4:23 |

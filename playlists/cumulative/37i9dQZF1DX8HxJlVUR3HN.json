@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Shaka Ponk",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Silmarils",
   "name": "Volume France",
   "tracks": [
     {
@@ -132,6 +132,24 @@
       "duration_ms": 196918,
       "name": "Adversity",
       "url": "https://open.spotify.com/track/4XXfZ11foyE5yjShXnoyTI"
+    },
+    {
+      "album": {
+        "name": "Against The Storm",
+        "url": "https://open.spotify.com/album/6q7hiAWHJ7Zk37aWDr0md6"
+      },
+      "artists": [
+        {
+          "name": "Headcharger",
+          "url": "https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338163,
+      "name": "Against The Storm",
+      "url": "https://open.spotify.com/track/0Awo0E6s0iXkj313SPwVqu"
     },
     {
       "album": {
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 208683,
       "name": "Wake Up And Run",
       "url": "https://open.spotify.com/track/1EIafjiwfoNU83IiSGJgF2"

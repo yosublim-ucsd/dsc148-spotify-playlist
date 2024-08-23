@@ -1,15 +1,15 @@
 {
   "description": "La nuova generazione del rap italiano. N\u00e9za in cover, aggiornata ogni venerd\u00ec",
-  "num_followers": 225809,
+  "num_followers": 225819,
   "original_name": "Raptopia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUSHAAAAAChUGW1Oxv6eFwJ5rarm/RL",
+  "snapshot_id": "Zse1HAAAAACcVR0CQBzSph1dSJ/AhvQL",
   "tracks": [
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "ECO",
         "url": "https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Plastica",
         "url": "https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Lo Stesso",
         "url": "https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
+      "album": {
+        "name": "Vecchio stampo & West Coast",
+        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Vecchio stampo & West Coast",
+      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
+    },
+    {
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Fame di Rivalsa",
         "url": "https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC"
@@ -85,23 +101,7 @@
       "url": "https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
-      "album": {
-        "name": "Vecchio stampo & West Coast",
-        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
-      },
-      "artists": [
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        }
-      ],
-      "duration_ms": 183889,
-      "name": "Vecchio stampo & West Coast",
-      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
-    },
-    {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Il Metodo Migliore (Tutorial 2)",
         "url": "https://open.spotify.com/album/3AenhDEsYyqT8zKGvZ2ULF"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/44d6e7jKy2SZt5yy5k1Exh"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "AVVOCATO (feat. Simba La Rue)",
         "url": "https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "FERRAGAMO",
         "url": "https://open.spotify.com/album/4lnT6DIMGN7rXfM4BIBd5W"
@@ -157,27 +157,7 @@
       "url": "https://open.spotify.com/track/4UYYJ5KqDNzUnY0uNGUsDA"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
-      "album": {
-        "name": "Sta Piovendo",
-        "url": "https://open.spotify.com/album/1guRvnS6o8DFHm8Q9rZ1np"
-      },
-      "artists": [
-        {
-          "name": "Waze RRX",
-          "url": "https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD"
-        },
-        {
-          "name": "Alawais",
-          "url": "https://open.spotify.com/artist/5Sh9ne0WUEOvdvTbSHyDJt"
-        }
-      ],
-      "duration_ms": 157611,
-      "name": "Sta Piovendo",
-      "url": "https://open.spotify.com/track/2KwpMzhi4rAhusIbrj5OLU"
-    },
-    {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "BDM SUMMER SEASON",
         "url": "https://open.spotify.com/album/4Vo8ZDI4ZET8iSEmV0sxgM"
@@ -201,7 +181,23 @@
       "url": "https://open.spotify.com/track/31YOGd461wSGGepiCEQBIV"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/78xTjDRmktseI106DiEoIG"
+      },
+      "artists": [
+        {
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw"
+    },
+    {
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "WE 2FLY",
         "url": "https://open.spotify.com/album/1FkytEcYlexmrA57mgYSC2"
@@ -221,7 +217,7 @@
       "url": "https://open.spotify.com/track/76VxwttPNesap8xfdDn8tG"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Ma Belle (feat. Kassimi & Yunes LaGrintaa)",
         "url": "https://open.spotify.com/album/3sgZkF4BMzB3ttKJ35qJy8"
@@ -245,7 +241,23 @@
       "url": "https://open.spotify.com/track/67kspZ54hoRYtc23oQOkRk"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
+      "album": {
+        "name": "SARDINIA LIFESTYLE",
+        "url": "https://open.spotify.com/album/6ER2T3Y9Cta9Ra2VxZL7LE"
+      },
+      "artists": [
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        }
+      ],
+      "duration_ms": 189982,
+      "name": "SARDINIA LIFESTYLE",
+      "url": "https://open.spotify.com/track/314CcGSvXMNpSBdWLyOU8h"
+    },
+    {
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Trench Code (feat. Faneto)",
         "url": "https://open.spotify.com/album/3gShtt4KfJiCrzalsXkxhA"
@@ -265,7 +277,7 @@
       "url": "https://open.spotify.com/track/348FkFje2GEWdoSHRDB9ok"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "NO REGULAR MUSIC (Deluxe)",
         "url": "https://open.spotify.com/album/7MyXBQdWCOgTzq4eORz0fe"
@@ -317,7 +329,7 @@
       "url": "https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "EP 6/3 (feat. Papa V)",
         "url": "https://open.spotify.com/album/362Pu0LnYuzqbAyqCUp3Ax"
@@ -341,7 +353,7 @@
       "url": "https://open.spotify.com/track/05iaczLYNhNLYBu7EEvA61"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Yessir",
         "url": "https://open.spotify.com/album/5imwGwodvC5ZcLpcSoKxFV"
@@ -357,7 +369,7 @@
       "url": "https://open.spotify.com/track/0RqGvXR15sUv7Ld3f1y3rr"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "KILL AU MIC",
         "url": "https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo"
@@ -373,7 +385,7 @@
       "url": "https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "CHICCHI DI MAIS",
         "url": "https://open.spotify.com/album/1vO11VjSP50ATrDbTvYzPX"
@@ -393,7 +405,7 @@
       "url": "https://open.spotify.com/track/6DfiF3w7udIgertxVxACql"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "LONDON TAPE",
         "url": "https://open.spotify.com/album/6jw0TkCbdgpcRtJnFTEvyC"
@@ -409,7 +421,7 @@
       "url": "https://open.spotify.com/track/29CqjSgueQYgqG227LyQ87"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Gli Uomini Ti Scammano (Tutorial 3)",
         "url": "https://open.spotify.com/album/7vOhexKQbbYLH3DRI7spui"
@@ -425,7 +437,7 @@
       "url": "https://open.spotify.com/track/74aqL0F3igurqJUxizBt2u"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Primo Ministro (feat. Vale Pain)",
         "url": "https://open.spotify.com/album/4rKJlEEYlpn5CAvDEAw7Qa"
@@ -449,7 +461,7 @@
       "url": "https://open.spotify.com/track/0XbqUp7qWN5PD3pMtRHWg9"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/1RxocM9wmvBHucNLQNfMmQ"
@@ -465,7 +477,7 @@
       "url": "https://open.spotify.com/track/1GJHorVM7DiuJuEHJzXyGW"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "BDM SUMMER SEASON",
         "url": "https://open.spotify.com/album/4Vo8ZDI4ZET8iSEmV0sxgM"
@@ -489,23 +501,7 @@
       "url": "https://open.spotify.com/track/4sPH888U1sTX86ycXiimbX"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
-      "album": {
-        "name": "ANCORA",
-        "url": "https://open.spotify.com/album/1GAUtKxWDFZouwlJVZIbct"
-      },
-      "artists": [
-        {
-          "name": "Vins",
-          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
-        }
-      ],
-      "duration_ms": 116635,
-      "name": "ANCORA",
-      "url": "https://open.spotify.com/track/318Lp6wsrkOlnrsmiJ0CC1"
-    },
-    {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "LEADER",
         "url": "https://open.spotify.com/album/0xTsNhVGTG5mSR8uAKbw0m"
@@ -521,7 +517,7 @@
       "url": "https://open.spotify.com/track/3OJR7UYQW3vXI5SH40G9YC"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Salsedine",
         "url": "https://open.spotify.com/album/716umZxZVxcezIh2OFLL6B"
@@ -541,7 +537,7 @@
       "url": "https://open.spotify.com/track/2ZwiOSkaCWcQ19GgMjmcb9"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "TENERE IL FOCUS",
         "url": "https://open.spotify.com/album/4orrw5w72peIlhPxzRp3K3"
@@ -561,7 +557,7 @@
       "url": "https://open.spotify.com/track/0kXWABECuoPRXsrmMcGhQ1"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Bacio Flow (Slitherizz)",
         "url": "https://open.spotify.com/album/0lfKzFeNnnlP6wSi86cFkD"
@@ -577,7 +573,7 @@
       "url": "https://open.spotify.com/track/18AtvI0tEDZ8DtOzlOY21V"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Dry",
         "url": "https://open.spotify.com/album/3xSzEtFrV2UqBhgNANpor1"
@@ -593,7 +589,7 @@
       "url": "https://open.spotify.com/track/4zUPjjI82V3JlnHfMt2w6v"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Panzerotti & Nduja",
         "url": "https://open.spotify.com/album/5lL8pwoaI0t25BB2tiPvWB"
@@ -613,23 +609,7 @@
       "url": "https://open.spotify.com/track/6EcN3xEzlYRAI9F5ibSAj2"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
-      "album": {
-        "name": "STAY ON BARS #2",
-        "url": "https://open.spotify.com/album/6vAz3atX9Q7htjQeXwqdmz"
-      },
-      "artists": [
-        {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb"
-        }
-      ],
-      "duration_ms": 100106,
-      "name": "STAY ON BARS #2",
-      "url": "https://open.spotify.com/track/6JeIBwJIeZ1iBrjFld2eoC"
-    },
-    {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "MATEMATICO/ABC",
         "url": "https://open.spotify.com/album/1IzXVbAvWbfvExtjm57cCk"
@@ -653,7 +633,7 @@
       "url": "https://open.spotify.com/track/4P6s7S6ih4Avt84BiYREuT"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "VLTN",
         "url": "https://open.spotify.com/album/7lVgqFis1MTeYGvvyDe7kJ"
@@ -673,7 +653,7 @@
       "url": "https://open.spotify.com/track/1vJ17udlDlVqVkCVxT2OrF"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "$OLDI DI TUO PADRE",
         "url": "https://open.spotify.com/album/2qDA77QQHqesPqUzh3Au0h"
@@ -689,7 +669,7 @@
       "url": "https://open.spotify.com/track/1Fu0KIYfFUyVZrB2ESHldi"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Bodyguard",
         "url": "https://open.spotify.com/album/2J5YY1Zh6fPKT0kRo6gS83"
@@ -705,7 +685,7 @@
       "url": "https://open.spotify.com/track/7CwL7roJA3Joy3vKfGgDmu"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "PANIQUE",
         "url": "https://open.spotify.com/album/6rZJk1GVBDOMmFwuL3lv5h"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/72BRmWb9s0gvHZwRsltbkH"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Z\u00c9PECK",
         "url": "https://open.spotify.com/album/5D1zbHAbSFYJqR0zIVrvAH"
@@ -741,7 +721,7 @@
       "url": "https://open.spotify.com/track/6QDS0zEx9niX6dOk5vZTA7"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "NGMI",
         "url": "https://open.spotify.com/album/02JumOFfyMhhR7yeBec2Ek"
@@ -757,7 +737,7 @@
       "url": "https://open.spotify.com/track/6B22FScIDhTgbwZ4iOasQQ"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "SOGGETTO PREMIUM",
         "url": "https://open.spotify.com/album/01a5WLHQeJyaTPUaGx3jQ7"
@@ -773,7 +753,7 @@
       "url": "https://open.spotify.com/track/1wJAfspWVd0uADU1OlTBSi"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "SOLA (feat. Azet)",
         "url": "https://open.spotify.com/album/7woq5CeiwbJDydx1AF4Gp3"
@@ -793,7 +773,7 @@
       "url": "https://open.spotify.com/track/2FfIrkVATevsruB4V25hm0"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/6UhtkOxYvNYvFVQh6X3mo1"
@@ -809,7 +789,7 @@
       "url": "https://open.spotify.com/track/5lU0oXUWl9Mgiv4X416Lfr"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Precipitando dalle stelle",
         "url": "https://open.spotify.com/album/1Wij959mvJqdlvbczy6uwG"
@@ -829,7 +809,7 @@
       "url": "https://open.spotify.com/track/39P0RoTf2N0lNqfVRgC2JH"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "WIFEY (feat. Gu\u00e8)",
         "url": "https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6"
@@ -849,7 +829,7 @@
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/0oRfUD2vAHtW2s35kLHJAN"
@@ -865,7 +845,7 @@
       "url": "https://open.spotify.com/track/1Z6hwXLWHe1vJMuFDy3qtS"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "33796",
         "url": "https://open.spotify.com/album/67TYmnpPUqYbkkV2j7NBkF"
@@ -885,7 +865,7 @@
       "url": "https://open.spotify.com/track/6K048iWHyMwJ38UNVoQsm8"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/01Sz1MTIGCYAxoQHK59uOh"
@@ -901,7 +881,7 @@
       "url": "https://open.spotify.com/track/7fxEg8vthyc4UP8o3rX8hc"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "VaLiGeTTa GiaLLa",
         "url": "https://open.spotify.com/album/0qfK3MEYGMhm0sNm8urGeI"
@@ -921,7 +901,7 @@
       "url": "https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Acqua",
         "url": "https://open.spotify.com/album/3rJQfZJOsbEzq7se72HOeG"
@@ -941,7 +921,7 @@
       "url": "https://open.spotify.com/track/6t2gXEBqVWbTQ08lC4KYEK"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Parte del fatto (Freestyle)",
         "url": "https://open.spotify.com/album/3JG8oyuOLZQsZnkjbedUnI"
@@ -961,7 +941,7 @@
       "url": "https://open.spotify.com/track/7AEpVsYJoz4PPlYzSocBKr"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "TALENTO DEL BARRIO",
         "url": "https://open.spotify.com/album/0acAn2TOi2VO1Eswooi8IA"
@@ -977,7 +957,7 @@
       "url": "https://open.spotify.com/track/1ws8keZnLC3IivfPf4Cwgl"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "IN 'N OUT",
         "url": "https://open.spotify.com/album/23o3IofouabTOB7sTOXxov"
@@ -993,7 +973,7 @@
       "url": "https://open.spotify.com/track/2x83EYIFuxhJawhqgLzlBS"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "SAILOR MOON (feat. Sacky)",
         "url": "https://open.spotify.com/album/1PrCHFsXWJyCOc38AfACyC"
@@ -1013,7 +993,7 @@
       "url": "https://open.spotify.com/track/3iLsttjW4zAVo4NfJJ5MHK"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "ENERGY KILL DEM",
         "url": "https://open.spotify.com/album/7vME99LAKqHCbnD4166AFu"
@@ -1029,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6QLFAWuv3zaWkP0xIIyBmm"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "L'eleganza Della Street",
         "url": "https://open.spotify.com/album/3jwHgsNToxnw120gIgtbAN"
@@ -1045,7 +1025,7 @@
       "url": "https://open.spotify.com/track/0IFP432yqZum54SnELuKHH"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Re di Cuori",
         "url": "https://open.spotify.com/album/5pHYVJ0Ewo2jJTLYUfY4Tn"
@@ -1065,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2YCXfySVOpRrxurUCOFgpC"
     },
     {
-      "added_at": "2024-08-20 22:01:00",
+      "added_at": "2024-08-22 22:01:00",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs"

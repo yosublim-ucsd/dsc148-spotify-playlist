@@ -1,12 +1,12 @@
 {
-  "description": "This is Funeral For A Friend. The essential tracks, all in one playlist.",
-  "num_followers": 7082,
+  "description": "This is: Funeral For A Friend. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 7084,
   "original_name": "This Is Funeral For A Friend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAACZClDphFuKUaUnw1CBWG8M",
+  "snapshot_id": "ZsUuAAAAAADpriRa1q9ONnQowpJxSNqz",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Order and Model",
-        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 206838,
-      "name": "Storytelling Pt2",
-      "url": "https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chapter and Verse",
         "url": "https://open.spotify.com/album/146lsgsoDkI9Dz06nnO2Sw"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 206838,
+      "name": "Storytelling Pt2",
+      "url": "https://open.spotify.com/track/3jHM1V1pJJBLo2J47D3FZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Your History Is Mine: 2002-2009",
         "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
       },
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+      "duration_ms": 202746,
+      "name": "Kicking and Screaming",
+      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Order and Model",
-        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 255415,
-      "name": "The Getaway Plan",
-      "url": "https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Between Order and Model",
+        "url": "https://open.spotify.com/album/09pyNkO8GT3vvGgiIJEiDU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 255415,
+      "name": "The Getaway Plan",
+      "url": "https://open.spotify.com/track/024SKJQWI46Wcs2vrE1cH7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Your History Is Mine: 2002-2009",
         "url": "https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe"
       },
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202746,
-      "name": "Kicking and Screaming",
-      "url": "https://open.spotify.com/track/08cLLBd38THUBwBEQ4ZIn8"
+      "duration_ms": 260600,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 186146,
-      "name": "Hidden Track",
-      "url": "https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba"
+      "duration_ms": 179719,
+      "name": "Pencil Pusher",
+      "url": "https://open.spotify.com/track/0VUIjTUbVuGgvd1xXQGaoP"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 179719,
-      "name": "Pencil Pusher",
-      "url": "https://open.spotify.com/track/0VUIjTUbVuGgvd1xXQGaoP"
+      "duration_ms": 186146,
+      "name": "Hidden Track",
+      "url": "https://open.spotify.com/track/3jOSaN99SOX4a2Dw6213Ba"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Rules and Games",
-      "url": "https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m"
+      "duration_ms": 202813,
+      "name": "To Die Like Mouchette",
+      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
     },
     {
       "added_at": null,

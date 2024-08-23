@@ -5478,7 +5478,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 199712,
       "name": "Chinnamma Chinnamma (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/2DiPV2lQk0I85g4KlFt2XP"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 221250,
       "name": "Chitramanjari (From \"Hejjaru\")",
       "url": "https://open.spotify.com/track/37j53JHSa42pCqbR9I3rPI"
@@ -19860,7 +19860,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 223953,
       "name": "Nange Allava",
       "url": "https://open.spotify.com/track/0nqm1P0AJBaQn1mhhloB9j"
@@ -22584,7 +22584,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 332000,
       "name": "Oh Anahita (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/1t0v6QWwA5eRaXSBJ1UaAn"
@@ -22692,7 +22692,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 205013,
       "name": "Oh Jaanu (From \"Desai\")",
       "url": "https://open.spotify.com/track/6PS3NkipmLyN84NymtNPwl"
@@ -27694,6 +27694,36 @@
       "duration_ms": 232221,
       "name": "SteppaMaar (From \"Double ISMART \")(Kannada)",
       "url": "https://open.spotify.com/track/3kLBHcjJIkbIq60qznve2v"
+    },
+    {
+      "album": {
+        "name": "Double ISMART (Kannada)",
+        "url": "https://open.spotify.com/album/70o1X1Qwy7ArPzp8Gx05C2"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Kaushik Harsha",
+          "url": "https://open.spotify.com/artist/4zTNqvFFrgCFjsZ3CArDso"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232221,
+      "name": "SteppaMaar (Kannada)",
+      "url": "https://open.spotify.com/track/4P3xUiFpxD3T3niGugmLXT"
     },
     {
       "album": {

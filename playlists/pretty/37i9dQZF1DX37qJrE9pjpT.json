@@ -1,15 +1,15 @@
 {
   "description": "The hottest rap anthems from Tanzania all in one playlist. Cover: Young Lunya",
-  "num_followers": 3272,
+  "num_followers": 3278,
   "original_name": "Bongo Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqLmxAAAAAC3Ic12S5NyxxaXKTxkOCGx",
+  "snapshot_id": "ZsfQxAAAAAD+re+QwgaCmiex8T59I5/u",
   "tracks": [
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Bachela",
         "url": "https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO"
@@ -25,79 +25,7 @@
       "url": "https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Judiana",
-        "url": "https://open.spotify.com/album/3sJGaYAqbxQ6HYyFgletds"
-      },
-      "artists": [
-        {
-          "name": "Country Wizzy",
-          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Judiana",
-      "url": "https://open.spotify.com/track/69X34vwjV04eyt08K0mOdX"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Hii Hapa",
-        "url": "https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo"
-      },
-      "artists": [
-        {
-          "name": "Weusi",
-          "url": "https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK"
-        }
-      ],
-      "duration_ms": 258604,
-      "name": "Hii Hapa",
-      "url": "https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Mbuzi",
-        "url": "https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j"
-      },
-      "artists": [
-        {
-          "name": "Young Lunya",
-          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
-        },
-        {
-          "name": "dutchavelli",
-          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
-        }
-      ],
-      "duration_ms": 201405,
-      "name": "Nduki (feat. dutchavelli)",
-      "url": "https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "MoroBuzz - Kichangani",
-        "url": "https://open.spotify.com/album/1cyF2zLUIjG0sb6eTcQTt9"
-      },
-      "artists": [
-        {
-          "name": "Fredrick Mulla",
-          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
-        },
-        {
-          "name": "Umoja Sounds",
-          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
-        }
-      ],
-      "duration_ms": 111627,
-      "name": "MoroBuzz - Kichangani",
-      "url": "https://open.spotify.com/track/1WquSjcSVnZVCILt66jhii"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Everyday (Energy)",
         "url": "https://open.spotify.com/album/4XDefqXCDJVKEg9iq5Thxm"
@@ -117,7 +45,139 @@
       "url": "https://open.spotify.com/track/5DoeazOk3xqe01MWGbXd5a"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8"
+      },
+      "artists": [
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        },
+        {
+          "name": "Gifted",
+          "url": "https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/71l944iHhGOsZctedw8t4a"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Judiana",
+        "url": "https://open.spotify.com/album/3sJGaYAqbxQ6HYyFgletds"
+      },
+      "artists": [
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Judiana",
+      "url": "https://open.spotify.com/track/69X34vwjV04eyt08K0mOdX"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Hii Hapa",
+        "url": "https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo"
+      },
+      "artists": [
+        {
+          "name": "Weusi",
+          "url": "https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "Hii Hapa",
+      "url": "https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Jimmy to London",
+        "url": "https://open.spotify.com/album/043dxh8Sr8fC7s955ytwZ5"
+      },
+      "artists": [
+        {
+          "name": "Bank Budha",
+          "url": "https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O"
+        },
+        {
+          "name": "Blinded Beats",
+          "url": "https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "Jimmy to London",
+      "url": "https://open.spotify.com/track/5MCOGR0s14nqzGNusvmRWu"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Mbuzi",
+        "url": "https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j"
+      },
+      "artists": [
+        {
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
+        },
+        {
+          "name": "dutchavelli",
+          "url": "https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY"
+        }
+      ],
+      "duration_ms": 201405,
+      "name": "Nduki (feat. dutchavelli)",
+      "url": "https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "MoroBuzz - Kichangani",
+        "url": "https://open.spotify.com/album/1cyF2zLUIjG0sb6eTcQTt9"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "MoroBuzz - Kichangani",
+      "url": "https://open.spotify.com/track/1WquSjcSVnZVCILt66jhii"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Rap Like Me",
+        "url": "https://open.spotify.com/album/201TiEXUZZRfyJdfPy1p7y"
+      },
+      "artists": [
+        {
+          "name": "Joe Marley",
+          "url": "https://open.spotify.com/artist/5yemOF9FLJ8q9bbZbSYbvQ"
+        },
+        {
+          "name": "Trecta Rapper",
+          "url": "https://open.spotify.com/artist/4VF9gAVsZpFe2hjWen9Pet"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Rap Like Me",
+      "url": "https://open.spotify.com/track/7tWk2k290JeSHkZQGOl5Bf"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Colossal Music presents Umoja Sounds + Fredrick Mulla - Unexpected Glitch",
         "url": "https://open.spotify.com/album/19azXU8PZK0E8eyoW83Kzx"
@@ -141,23 +201,23 @@
       "url": "https://open.spotify.com/track/4SJEycZB9vTLSv7HKX53Rr"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
-        "name": "Sinaga Swagga Session 7",
-        "url": "https://open.spotify.com/album/3mstvB7L8I1xQdZj5sXQQZ"
+        "name": "Freestyle Session 6",
+        "url": "https://open.spotify.com/album/4dF6aB9fzWC6PsvZLogWeJ"
       },
       "artists": [
         {
-          "name": "Msodoki Young Killer",
-          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+          "name": "Young Lunya",
+          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
         }
       ],
-      "duration_ms": 313638,
-      "name": "Sinaga Swagga Session 7",
-      "url": "https://open.spotify.com/track/7cNXGV0cY5iUO3HbHFFFRt"
+      "duration_ms": 389681,
+      "name": "Freestyle Session 6",
+      "url": "https://open.spotify.com/track/274hVRT472ghZ8Nj0nZ1M7"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Msanii Bora Wa HipHop",
         "url": "https://open.spotify.com/album/0qvVDp2cgoajYtLicW2oLh"
@@ -173,7 +233,7 @@
       "url": "https://open.spotify.com/track/1Es37yRzabfGiil1SOikVd"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Oyaah Mzee",
         "url": "https://open.spotify.com/album/3d882qIA2AiFkMo5q3MPOh"
@@ -217,7 +277,7 @@
       "url": "https://open.spotify.com/track/3mROEEmw1oz7X29S7KMSZ5"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "NIPENI MAUA YANGU",
         "url": "https://open.spotify.com/album/2xja4oIp9yqXn8HNJUPSYV"
@@ -233,7 +293,43 @@
       "url": "https://open.spotify.com/track/4FqNPyR5C1481AykqNgVQP"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "MoroBuzz - Kilakala",
+        "url": "https://open.spotify.com/album/6h7U1ZCI5nZwBvObYEyArB"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "duration_ms": 81403,
+      "name": "MoroBuzz - Kilakala",
+      "url": "https://open.spotify.com/track/2TOKVFwV0YgOOzKiomtZKI"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "Sinaga Swagga Session 7",
+        "url": "https://open.spotify.com/album/3mstvB7L8I1xQdZj5sXQQZ"
+      },
+      "artists": [
+        {
+          "name": "Msodoki Young Killer",
+          "url": "https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn"
+        }
+      ],
+      "duration_ms": 313638,
+      "name": "Sinaga Swagga Session 7",
+      "url": "https://open.spotify.com/track/7cNXGV0cY5iUO3HbHFFFRt"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Tuna Rap Kweli",
         "url": "https://open.spotify.com/album/4tKJO9rjZsY18L2n4vhfuk"
@@ -253,7 +349,7 @@
       "url": "https://open.spotify.com/track/39lKFCVX0VFkgKrgBRBCDd"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Fame",
         "url": "https://open.spotify.com/album/68GDgr0EJlKyvEuQLbyOou"
@@ -269,7 +365,7 @@
       "url": "https://open.spotify.com/track/39taBsy2LkW0Qws6N1iHGm"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/4mX9BHJf2gxTVOA2wPgiJs"
@@ -293,27 +389,23 @@
       "url": "https://open.spotify.com/track/7noDicbJzIhMOMdXVzbfFS"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
-        "name": "MoroBuzz - Lukobe",
-        "url": "https://open.spotify.com/album/168U8l7NpeQg28ctxrPw3N"
+        "name": "Only God Knows",
+        "url": "https://open.spotify.com/album/6ASt5dP8JQblxheMSLlDxR"
       },
       "artists": [
         {
-          "name": "Fredrick Mulla",
-          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
-        },
-        {
-          "name": "Umoja Sounds",
-          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+          "name": "Rapcha",
+          "url": "https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa"
         }
       ],
-      "duration_ms": 101052,
-      "name": "MoroBuzz - Lukobe",
-      "url": "https://open.spotify.com/track/3rUPDCBgB7j0Ts2uQoffg7"
+      "duration_ms": 192079,
+      "name": "Only God Knows",
+      "url": "https://open.spotify.com/track/706M6LqlmTnLFobIEDJCc6"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "1Mb",
         "url": "https://open.spotify.com/album/1OoTv336eyujX9fkneitdN"
@@ -333,7 +425,27 @@
       "url": "https://open.spotify.com/track/01uAcS4mXpOqstNRUKA7gs"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
+      "album": {
+        "name": "MoroBuzz - Lukobe",
+        "url": "https://open.spotify.com/album/168U8l7NpeQg28ctxrPw3N"
+      },
+      "artists": [
+        {
+          "name": "Fredrick Mulla",
+          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+        },
+        {
+          "name": "Umoja Sounds",
+          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+        }
+      ],
+      "duration_ms": 101052,
+      "name": "MoroBuzz - Lukobe",
+      "url": "https://open.spotify.com/track/3rUPDCBgB7j0Ts2uQoffg7"
+    },
+    {
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "MoroBuzz - Kigurunyembe",
         "url": "https://open.spotify.com/album/3jtHf7UbnKr1rDwiQ9PKKD"
@@ -349,7 +461,7 @@
       "url": "https://open.spotify.com/track/2z8XKSwDdXZaeiDpfdcEl4"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/2u2vEZK7u7AdEZIV9xSLco"
@@ -369,7 +481,7 @@
       "url": "https://open.spotify.com/track/0CVLCHO8V6YAdGJ3vXWXEo"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Nisher",
         "url": "https://open.spotify.com/album/5wAq8k7BBOeHtkSKTdt9vH"
@@ -385,7 +497,7 @@
       "url": "https://open.spotify.com/track/0hEej0cXVgYS36pLiTVcXK"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Top Dollar",
         "url": "https://open.spotify.com/album/3EBuNLpKwDPvke1LMArGIc"
@@ -401,7 +513,7 @@
       "url": "https://open.spotify.com/track/29WjWmO7ENZgp5CqWKBA39"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Mbwa mwitu",
         "url": "https://open.spotify.com/album/6Nhl9QWImy46L0P4x3eIWY"
@@ -417,7 +529,7 @@
       "url": "https://open.spotify.com/track/0whzBVScuvWruda4s07TSK"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Snitch",
         "url": "https://open.spotify.com/album/5bWC8S9mZB4X6ednDig2sO"
@@ -433,7 +545,7 @@
       "url": "https://open.spotify.com/track/70fQtyXgdHUsFPVMX4bp2U"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Wali Maharage",
         "url": "https://open.spotify.com/album/1zXAXpeTgabnW1OkIggJiV"
@@ -449,27 +561,7 @@
       "url": "https://open.spotify.com/track/2Ug4ZrhpXSvKd5ZLWJ8rf3"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Jimmy to London",
-        "url": "https://open.spotify.com/album/043dxh8Sr8fC7s955ytwZ5"
-      },
-      "artists": [
-        {
-          "name": "Bank Budha",
-          "url": "https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O"
-        },
-        {
-          "name": "Blinded Beats",
-          "url": "https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "Jimmy to London",
-      "url": "https://open.spotify.com/track/5MCOGR0s14nqzGNusvmRWu"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "King'ang'a",
         "url": "https://open.spotify.com/album/66tzb74hiCdWpcKW1yBLpe"
@@ -485,7 +577,7 @@
       "url": "https://open.spotify.com/track/7hLeYjOa3EEQ8ShzQXrneK"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Tupa Kule (Ghetto)",
         "url": "https://open.spotify.com/album/3qzWACMGJSKcDaeavvGoHS"
@@ -505,43 +597,27 @@
       "url": "https://open.spotify.com/track/0W4CuqbbdVGCyEfEgOuPCQ"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
-        "name": "Way Back (Refix)",
-        "url": "https://open.spotify.com/album/2WJRTwesazwP7iwnhfnSrU"
+        "name": "Rum in My Cup",
+        "url": "https://open.spotify.com/album/0ziJDTlWSXHrbYgjizxcQk"
       },
       "artists": [
         {
-          "name": "FreshBoys",
-          "url": "https://open.spotify.com/artist/4ksHkRc0gFw34fr9vAJEdU"
-        }
-      ],
-      "duration_ms": 158208,
-      "name": "Way Back (Refix)",
-      "url": "https://open.spotify.com/track/3SprIdI5ZCIZRD2OQEOibh"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "MoroBuzz - Azimio",
-        "url": "https://open.spotify.com/album/68jmy2YmnQP19trSUGmoFC"
-      },
-      "artists": [
-        {
-          "name": "Fredrick Mulla",
-          "url": "https://open.spotify.com/artist/5rfiYSKHAN3WUdskfrEOvD"
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
         },
         {
-          "name": "Umoja Sounds",
-          "url": "https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9"
+          "name": "Blvck Queen",
+          "url": "https://open.spotify.com/artist/1pBKd3CUJk3aO8sfevp59z"
         }
       ],
-      "duration_ms": 93191,
-      "name": "MoroBuzz - Azimio",
-      "url": "https://open.spotify.com/track/117vIXHVLQDRr0DPaWhJlo"
+      "duration_ms": 172584,
+      "name": "Rum in My Cup",
+      "url": "https://open.spotify.com/track/6sJgavFdnMmGY25v9gGfo8"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Bosskazi",
         "url": "https://open.spotify.com/album/0J4tVQ4c7EwfUJ8AM9PFY5"
@@ -557,23 +633,7 @@
       "url": "https://open.spotify.com/track/56nBioAOrpubOPiHMcN7kQ"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Freestyle Session 6",
-        "url": "https://open.spotify.com/album/4dF6aB9fzWC6PsvZLogWeJ"
-      },
-      "artists": [
-        {
-          "name": "Young Lunya",
-          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
-        }
-      ],
-      "duration_ms": 389681,
-      "name": "Freestyle Session 6",
-      "url": "https://open.spotify.com/track/274hVRT472ghZ8Nj0nZ1M7"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Nakaba Koo",
         "url": "https://open.spotify.com/album/6NwoAKwmJk3jRb80PS2Apa"
@@ -589,7 +649,7 @@
       "url": "https://open.spotify.com/track/4aOcwNkD3CRHHCtQ3h8D5x"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Humu Tu",
         "url": "https://open.spotify.com/album/6gicLCSG4R3dY4f0comna7"
@@ -605,35 +665,7 @@
       "url": "https://open.spotify.com/track/07IxaNGzQVnHTmstzzSiJn"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Take a Breath Cypher",
-        "url": "https://open.spotify.com/album/4dgwocJ2eLgkuwZFyRmkdo"
-      },
-      "artists": [
-        {
-          "name": "Sela Ninja",
-          "url": "https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS"
-        },
-        {
-          "name": "B Balance",
-          "url": "https://open.spotify.com/artist/323B40wgbXcxvJWiXeyNBI"
-        },
-        {
-          "name": "John D",
-          "url": "https://open.spotify.com/artist/72dyQd7nZ6vLfx1E93wBg9"
-        },
-        {
-          "name": "Defi Ant",
-          "url": "https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf"
-        }
-      ],
-      "duration_ms": 204721,
-      "name": "Take a Breath Cypher",
-      "url": "https://open.spotify.com/track/5vgkNGzGssQkiExZdLPEee"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Brian Simba Essentials #2",
         "url": "https://open.spotify.com/album/6IGw4dYhbUcY5gD4BJHzWN"
@@ -653,7 +685,7 @@
       "url": "https://open.spotify.com/track/6jKGuJdZBe6nBwA6xQP8s2"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/0zmPu5AgyTNot6qUg0GW8V"
@@ -669,7 +701,7 @@
       "url": "https://open.spotify.com/track/1cgV9sNe6Is6PAKWWNYXxK"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Gangster Tendencies",
         "url": "https://open.spotify.com/album/5WFlzOTgQah4uHOwJkmgyV"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/5alssGGzqvPB3BsetB3dee"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "NEW SCHUL CYPHER vol.2",
         "url": "https://open.spotify.com/album/7CCDWngFxKnp2TpOLGBsCi"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/0vKS7xHRrFnyPl6fzPUJIX"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Wapi Huko",
         "url": "https://open.spotify.com/album/5qSW3lI8C6X1QNhFo6vAlh"
@@ -737,7 +769,7 @@
       "url": "https://open.spotify.com/track/4ALRkQz2dbmZI666ErjSRG"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "TMA Swahili Rap",
         "url": "https://open.spotify.com/album/5QkjVw5itvxoEyeQ5uK4fR"
@@ -757,27 +789,7 @@
       "url": "https://open.spotify.com/track/5K9DKSXdqEQRFv9EYsJli4"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "Current Situation",
-        "url": "https://open.spotify.com/album/0387VwvQCdqqoxFyRSO23f"
-      },
-      "artists": [
-        {
-          "name": "Country Wizzy",
-          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
-        },
-        {
-          "name": "Young Lunya",
-          "url": "https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni"
-        }
-      ],
-      "duration_ms": 229894,
-      "name": "Current Situation",
-      "url": "https://open.spotify.com/track/3LMUTCgud5RcUcer01ShUf"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Won't Stop",
         "url": "https://open.spotify.com/album/6aqb7770V1McvED2w7jhJu"
@@ -797,7 +809,7 @@
       "url": "https://open.spotify.com/track/1gl8Eld8kB4cUS82Sd3Cd4"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "The Light",
         "url": "https://open.spotify.com/album/0AKou81sASGmv1SNLZgsyw"
@@ -813,27 +825,7 @@
       "url": "https://open.spotify.com/track/2lGSUOQxvsBGmFEE6ID3pr"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
-      "album": {
-        "name": "No Time (feat. Jux)",
-        "url": "https://open.spotify.com/album/4iEzTeOZTPuHmYAYd0Qftj"
-      },
-      "artists": [
-        {
-          "name": "Darassa",
-          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
-        },
-        {
-          "name": "Jux",
-          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
-        }
-      ],
-      "duration_ms": 205168,
-      "name": "No Time (feat. Jux)",
-      "url": "https://open.spotify.com/track/3apTsLuYniqTYCr8cU51Gd"
-    },
-    {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/3OVAeg4LYk7x1hVCU0hUzV"
@@ -849,7 +841,7 @@
       "url": "https://open.spotify.com/track/2mgdmjXJqhvTW6regqKHQX"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Ramadhani Kareem",
         "url": "https://open.spotify.com/album/71Lja5G9XJkfFlN0bMpLQr"
@@ -865,7 +857,7 @@
       "url": "https://open.spotify.com/track/2J0fR5BWLj3W1WyvCImhfj"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/2cJXPh9c0qV8Wej730ypmg"
@@ -889,7 +881,7 @@
       "url": "https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "MULA",
         "url": "https://open.spotify.com/album/0bf5isMGeCK6c3qHQtQngm"
@@ -905,7 +897,7 @@
       "url": "https://open.spotify.com/track/4FQOEivzf0HHpkYzhf8Dz1"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Mwendo",
         "url": "https://open.spotify.com/album/5kitENa6Vz6cOfaMQVSwgO"
@@ -921,7 +913,7 @@
       "url": "https://open.spotify.com/track/1TsAHldApQnPEgvmQvNKCe"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "Mali Safi",
         "url": "https://open.spotify.com/album/4052FovkK8LYyRyZ6cJ5Rl"
@@ -937,7 +929,7 @@
       "url": "https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98"
     },
     {
-      "added_at": "2024-07-25 23:59:00",
+      "added_at": "2024-08-22 23:59:00",
       "album": {
         "name": "POAPOA",
         "url": "https://open.spotify.com/album/5euaFZNfXeBQ9EgyKzcE1E"

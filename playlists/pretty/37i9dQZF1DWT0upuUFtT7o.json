@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: Sex Week",
-  "num_followers": 224962,
+  "num_followers": 225044,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsYPAAAAAACYC3YFrBiOCsFeEqHTgxg0",
+  "snapshot_id": "ZseM+wAAAADGYnQqE+Qi8QTL2LJulfRn",
   "tracks": [
     {
       "added_at": "2024-07-31 19:03:17",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-08-21 16:00:00",
       "album": {
+        "name": "TT.",
+        "url": "https://open.spotify.com/album/6vjK5dt4Ao69lCfr8HxIm9"
+      },
+      "artists": [
+        {
+          "name": "denn.",
+          "url": "https://open.spotify.com/artist/5aGI06mdnrqvpEwaXK5Qup"
+        }
+      ],
+      "duration_ms": 197470,
+      "name": "TT.",
+      "url": "https://open.spotify.com/track/4JGcftRfsiHahdXZ8GWOaw"
+    },
+    {
+      "added_at": "2024-08-21 16:00:00",
+      "album": {
         "name": "Five-Year Plan",
         "url": "https://open.spotify.com/album/2FqkkJGqArE49CFCDcEBqj"
       },
@@ -73,20 +89,20 @@
       "url": "https://open.spotify.com/track/689dspMv0S5ThredCVw5SV"
     },
     {
-      "added_at": "2024-08-21 16:00:00",
+      "added_at": "2024-08-22 19:09:47",
       "album": {
-        "name": "TT.",
-        "url": "https://open.spotify.com/album/6vjK5dt4Ao69lCfr8HxIm9"
+        "name": "Jesus saves",
+        "url": "https://open.spotify.com/album/6Z2UQINPsuIYt5AN4NFnON"
       },
       "artists": [
         {
-          "name": "denn.",
-          "url": "https://open.spotify.com/artist/5aGI06mdnrqvpEwaXK5Qup"
+          "name": "Jack Boyd",
+          "url": "https://open.spotify.com/artist/7riSp70grwJBgN0Kn5OqIw"
         }
       ],
-      "duration_ms": 197470,
-      "name": "TT.",
-      "url": "https://open.spotify.com/track/4JGcftRfsiHahdXZ8GWOaw"
+      "duration_ms": 168164,
+      "name": "Jesus saves",
+      "url": "https://open.spotify.com/track/6ZnX8sdBFA2ChADO8XGiie"
     },
     {
       "added_at": "2024-08-14 03:36:47",

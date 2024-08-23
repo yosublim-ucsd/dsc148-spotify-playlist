@@ -1555,6 +1555,32 @@
     },
     {
       "album": {
+        "name": "El Pantal\u00f3n Blue Jean",
+        "url": "https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn"
+      },
+      "artists": [
+        {
+          "name": "The Mexican Standoff",
+          "url": "https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts"
+        },
+        {
+          "name": "Los Texmaniacs",
+          "url": "https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "El Pantal\u00f3n Blue Jean",
+      "url": "https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP"
+    },
+    {
+      "album": {
         "name": "El Sol De La Madruga (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0bRt8FOR8UHK3TDXJ6pwVN"
       },
@@ -5152,7 +5178,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 215480,
       "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
       "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"

@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Tan Bionica & Airbag
 
-340 songs - 1 day 1 hr 41 min
+341 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Los Años Que Vivimos en Peligro \(En Vivo\)](https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Salud! Los Perez Garcia en Vivo](https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6) | 4:59 | 2022-06-24 | 2024-04-19 |
 | [Los Años Que Vivimos en Peligro \(En Vivo\)](https://open.spotify.com/track/4TnUhIbX7053TiZLNLLgV8) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Salud! Los Perez García en Vivo](https://open.spotify.com/album/1stGazpeSYaHpId0LgurKn) | 4:59 | 2022-04-01 | 2022-07-25 |
 | [Los Guachos \(En Vivo en el Konex\)](https://open.spotify.com/track/5yjLtUM7J8tviR44N1OiDs) | [Jeites](https://open.spotify.com/artist/6qRjJ8pFQAtjZiiR6bRRI0) | [Los Guachos \(En Vivo en el Konex\)](https://open.spotify.com/album/01AFundc8UTRzayoxLCVBf) | 5:09 | 2022-04-01 | 2022-07-10 |
+| [Los Niños del Amanecer \- En Vivo](https://open.spotify.com/track/3XsUhshbLYMGz1A4MpPwkA) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Los Niños del Amanecer \- En Vivo](https://open.spotify.com/album/4Q2rTG3A9Ip34SokTw0mJA) | 6:39 | 2024-08-22 |  |
 | [Luna Herida \- En Vivo](https://open.spotify.com/track/23EAtpCyQuPMiKWFOt5XPM) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Hoy Como Ayer \(En Vivo\)](https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz) | 4:46 | 2022-04-01 | 2022-07-29 |
 | [Magia Blanca \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 5:04 | 2022-04-01 |  |
 | [Mal Bicho \- En Vivo en Theater at Madison Square Garden](https://open.spotify.com/track/7u6COXLLPAbO4TTlSimsNx) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [En Vivo en The Theater at Madison Square Garden](https://open.spotify.com/album/4Ba1fMWwQyXQOCcTLdWYdW) | 6:57 | 2022-04-01 | 2023-10-07 |
@@ -331,7 +332,7 @@
 | [Un Millón de Amor \- En Vivo](https://open.spotify.com/track/0Ak3bTXnMbnaqMu0s6wLdq) | [Los Rancheros](https://open.spotify.com/artist/5zAgd4w0pUkadSSRAz9Z7Q) | [Un Millón de Amor \(En Vivo\)](https://open.spotify.com/album/2ViEo8xClSubdAP5a59mzb) | 3:55 | 2022-06-10 | 2022-07-06 |
 | [Un Osito de Peluche de Taiwan \- En Vivo en el Foro Sol](https://open.spotify.com/track/2NpLEVMOC12Tw789HdYRVS) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Foro Sol \- 17 Nov 2017 \(En Vivo\)](https://open.spotify.com/album/15BaEoAe29NVQamVLZtlht) | 4:30 | 2022-04-01 | 2022-07-28 |
 | [Una Nueva Noche Fria \- Vivo \- Mezclado y Masterizado 2017](https://open.spotify.com/track/4Fckaw7KFh4qXmwwVp6mDJ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Concierto Obras 30 y 31 Julio, Parte Uno \(En Vivo\)](https://open.spotify.com/album/7CiCajBytiFZ69hJUny0s4) | 4:27 | 2022-04-01 |  |
-| [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 | 2023-12-01 |  |
+| [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 | 2023-12-01 | 2024-08-23 |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/34u37vgTwh2wl3ZH5u2nfs) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/20akHhz1vnjUSwHcHjVnB2) | 4:49 | 2023-10-26 | 2024-04-19 |
 | [Una Vez Más \- En Vivo](https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn) | 4:49 | 2023-09-14 | 2024-05-17 |
 | [Vení Raquel \- Vivo en el Palacio de los Deportes](https://open.spotify.com/track/3yueohHxyvXlaPQ5tWAUsV) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [En Vivo en el Palacio de los Deportes \- 25 Aniversario](https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC) | 3:06 | 2022-04-01 | 2023-10-07 |

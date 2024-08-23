@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Deutschrap f\u00fcr die emotions. Cover: Apache 207, AYLIVA",
+  "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
   "name": "Rap in deep",
   "tracks": [
     {
@@ -468,6 +468,24 @@
       "duration_ms": 160119,
       "name": "Du liebst mich nicht",
       "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
+    },
+    {
+      "album": {
+        "name": "Duftkerzen",
+        "url": "https://open.spotify.com/album/1TXnb2mZNQKnlwIhPSQJ8J"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Duftkerzen",
+      "url": "https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi"
     },
     {
       "album": {
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 129272,
       "name": "Mittelfinger",
       "url": "https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r"
@@ -1412,7 +1430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 219887,
       "name": "Mondlicht",
       "url": "https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO"
@@ -1998,6 +2016,24 @@
       "duration_ms": 164011,
       "name": "trauen",
       "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "album": {
+        "name": "ufos",
+        "url": "https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134317,
+      "name": "ufos",
+      "url": "https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1"
     },
     {
       "album": {

@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -4354,7 +4354,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 133932,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -6902,7 +6902,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 178069,
       "name": "Caiste",
       "url": "https://open.spotify.com/track/54WrZq5HEOf4cUDCD5cMSo"
@@ -9230,7 +9230,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 200466,
       "name": "Criminal Love",
       "url": "https://open.spotify.com/track/72tJJ6w1qF0JIYA67i20nB"
@@ -16002,7 +16002,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 176670,
       "name": "Golden",
       "url": "https://open.spotify.com/track/051vHV5dCMrx0XOXPQRYoa"
@@ -17258,6 +17258,28 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/6RFNRyQ1zrLu94E4tAgNcN"
+      },
+      "artists": [
+        {
+          "name": "DestraBill",
+          "url": "https://open.spotify.com/artist/5K7jKcFYi6SEgz7XCfsZu2"
+        },
+        {
+          "name": "Dyshonored",
+          "url": "https://open.spotify.com/artist/3En8mHo7GkZJcN01JJTRFQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173241,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0tgR1Z0QU3gsiUq78grWia"
     },
     {
       "album": {
@@ -19452,7 +19474,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 135000,
       "name": "In this night we're alive",
       "url": "https://open.spotify.com/track/6PfMHwTvTEmayF081KK72z"
@@ -27700,6 +27722,32 @@
       "duration_ms": 198904,
       "name": "Not So Bad (Leans Gone Cold)",
       "url": "https://open.spotify.com/track/4qZLvqy5Wg4sgQ9gKusb1B"
+    },
+    {
+      "album": {
+        "name": "Not Ya'll Spanish (Remix)",
+        "url": "https://open.spotify.com/album/1PhO7pZQQLRHMWJiRagbb9"
+      },
+      "artists": [
+        {
+          "name": "Tony Lisenko",
+          "url": "https://open.spotify.com/artist/0zt0xDb82GL49mUxFWyLtH"
+        },
+        {
+          "name": "Northkey",
+          "url": "https://open.spotify.com/artist/32hONjxV4veObTbYJ3D1Fx"
+        },
+        {
+          "name": "MJay",
+          "url": "https://open.spotify.com/artist/5Sr75T6O7p7fiMueVPnH9f"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "Not Ya'll Spanish - Remix",
+      "url": "https://open.spotify.com/track/4tQuIDEmXLAoVuO3SbipU3"
     },
     {
       "album": {
@@ -40608,7 +40656,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -43950,6 +43998,24 @@
       "duration_ms": 277107,
       "name": "\u03a8. PASSION",
       "url": "https://open.spotify.com/track/7cg10lYnXMynfGg8K06rzL"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u0440\u0438\u0445\u0443\u0430\u043d\u0430",
+        "url": "https://open.spotify.com/album/0SG5gEypo41LQybKhxJ3Kq"
+      },
+      "artists": [
+        {
+          "name": "\u0415\u0432\u0430 \u0411\u0443\u0448\u043c\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/6EdmoI36OJAaQSPVxGVGZH"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222265,
+      "name": "\u041c\u0430\u0440\u0438\u0445\u0443\u0430\u043d\u0430",
+      "url": "https://open.spotify.com/track/3h8FSRynWOnrk1yRW20wgA"
     },
     {
       "album": {

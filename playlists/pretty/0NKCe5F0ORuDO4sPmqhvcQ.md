@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,689 likes - 115 songs - 6 hr 31 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,689 likes - 117 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 113 | [Say](https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe), [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj) | [Say](https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5) | 2:54 |
 | 114 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 |
 | 115 | [PARTY](https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv) | [Darby](https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m), [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [PARTY](https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE) | 2:08 |
+| 116 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 |
+| 117 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 |
 
-Snapshot ID: `AAAqCdj5HPtuWW5ysRyXHtIpXyqYZwZW`
+Snapshot ID: `AAAqC3mysxQtCZ4Q5Ox+Jm7Xve9UqSzF`

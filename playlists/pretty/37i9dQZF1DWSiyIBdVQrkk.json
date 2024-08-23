@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2229951,
+  "num_followers": 2230084,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "No Hard Feelings",
-        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        }
-      ],
-      "duration_ms": 166664,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Dread & Terrible",
         "url": "https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 234586,
       "name": "Here Comes Trouble",
       "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 166664,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "Skankin' Sweet",
+      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 279360,
       "name": "Legalize It",
       "url": "https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "Skankin' Sweet",
-      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Music Is Life",
-        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
-      },
-      "artists": [
-        {
-          "name": "Beres Hammond",
-          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
-        }
-      ],
-      "duration_ms": 239200,
-      "name": "Rock Away",
-      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/6V4eAv3rPLeQhAO8RnOKFs"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 207573,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5JlqbEj7Bbh2RdZgcO5kJE"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Music Is Life",
+        "url": "https://open.spotify.com/album/3IySm9LueCi3FKBNexYOh6"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Rock Away",
+      "url": "https://open.spotify.com/track/2RlVyAjLnGJQYp7uzpfUta"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Natty Rebel (Extra Version)",
-        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
+        "name": "Dangerously Roots - Journey From August Town",
+        "url": "https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2"
       },
       "artists": [
         {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+          "name": "Duane Stephenson",
+          "url": "https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Natty Rebel - Remaster 1990",
-      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
+      "duration_ms": 234800,
+      "name": "Cool Runnings",
+      "url": "https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Dangerously Roots - Journey From August Town",
-        "url": "https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2"
+        "name": "Natty Rebel (Extra Version)",
+        "url": "https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ"
       },
       "artists": [
         {
-          "name": "Duane Stephenson",
-          "url": "https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2"
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
         }
       ],
-      "duration_ms": 234800,
-      "name": "Cool Runnings",
-      "url": "https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P"
+      "duration_ms": 211960,
+      "name": "Natty Rebel - Remaster 1990",
+      "url": "https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "Stony Hill",
+        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
+      },
+      "artists": [
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 305733,
+      "name": "Speak Life",
+      "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Party Girls (feat. Buju Banton)",
         "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "Stony Hill",
-        "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
-      },
-      "artists": [
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 305733,
-      "name": "Speak Life",
-      "url": "https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1751,46 +1751,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
-      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Perfectly With You",
         "url": "https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J"
       },
@@ -1803,6 +1763,38 @@
       "duration_ms": 212307,
       "name": "Perfectly With You",
       "url": "https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1979,18 +1971,26 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL"
+        "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+        "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
       "artists": [
         {
           "name": "Skip Marley",
           "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 138053,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF"
+      "duration_ms": 222068,
+      "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
+      "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
     },
     {
       "added_at": "2024-08-05 20:56:06",

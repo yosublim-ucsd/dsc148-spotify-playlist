@@ -4,7 +4,7 @@
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Add All Ears\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-1,406 songs - 3 day 7 hr 16 min
+1,408 songs - 3 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Back Then \(Feat\. Sue Museum\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Sue Museum](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 | 2023-07-06 | 2024-01-03 |
 | [back to you \(feat\. 기욱\)](https://open.spotify.com/track/2uz5msOqSB7drUFWbItSRj) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [GIUK](https://open.spotify.com/artist/4kuX4KeHgnN8ifEGHHUd0x) | [back to you \(feat\. 기욱\)](https://open.spotify.com/album/7GGpqCliHa2pp5pa4beZAH) | 2:52 | 2024-08-02 |  |
 | [Back To You Again](https://open.spotify.com/track/0eIZRgh7GRSYF0R7Izh9R9) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Back To You Again](https://open.spotify.com/album/11tNXd0COL8UQm8mwyzK8k) | 2:33 | 2023-05-01 | 2023-07-06 |
+| [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 | 2024-08-22 |  |
 | [bad bad \(88\)](https://open.spotify.com/track/14cRSCgh1q841S3aPyO8pO) | [Yuja](https://open.spotify.com/artist/2gQ5AJZbeVZ9aeZcH3JBqf) | [bad bad \(88\)](https://open.spotify.com/album/5HQMGnjRBEgYfy6ArXHj0E) | 3:17 | 2024-03-21 | 2024-08-02 |
 | [Bad Bed](https://open.spotify.com/track/0FIKZYKZGE1Ea1QEZQ0JxW) | [GLABINGO](https://open.spotify.com/artist/2m3JIzz6DpRiciB3G2sMwx) | [Bad Bed](https://open.spotify.com/album/0cCiPQ1H1ZuaRx5Nj89trC) | 3:00 | 2022-03-17 | 2022-04-21 |
 | [Bad connection](https://open.spotify.com/track/2TboUKOXnklvdbFUVhFsDi) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Bad connection](https://open.spotify.com/album/3vcNF1tch0KPpcA2Y2i0Dh) | 3:36 | 2022-07-04 | 2022-08-13 |
@@ -937,6 +938,7 @@
 | [Rainfall](https://open.spotify.com/track/66TuoX844kHwZbvcZuo1w2) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [Rainfall](https://open.spotify.com/album/61dXubQr7cQEsCMC4PTRfn) | 4:18 | 2022-03-29 | 2022-05-12 |
 | [Rainfall Romance](https://open.spotify.com/track/5WhN2f2yMBZqlQO3fihtoD) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Rainfall Romance](https://open.spotify.com/album/3UlhDzCIPSFbuQr7onIIZW) | 3:42 | 2023-07-27 | 2024-01-09 |
 | [Raining stars](https://open.spotify.com/track/2voUndfedlslylT03gwHRP) | [Quinsha](https://open.spotify.com/artist/6AQMjoRG3y1h8aQAyNcd2A) | [Illusion](https://open.spotify.com/album/0utY4SKIxKsdQUD6oZQ8Kp) | 3:32 | 2022-05-11 | 2022-06-19 |
+| [Rainy day](https://open.spotify.com/track/6tSztzpkB3DzWOG5HdvJ9o) | [Daniel Jo](https://open.spotify.com/artist/0UavVCjgjRfJQJN4VWDKGs) | [Rainy day](https://open.spotify.com/album/0oVw6DTg4dXI23iILj9csh) | 3:09 | 2024-08-22 |  |
 | [Rainy day](https://open.spotify.com/track/2yGgyexbjIFOKAbxwVDhvj) | [HVLF](https://open.spotify.com/artist/6X71eoORQsL541Tf2E2K8c) | [Rainy day](https://open.spotify.com/album/0yuFK5FXUza0irsBy1HHSJ) | 2:56 | 2022-07-04 | 2022-09-06 |
 | [Rainy Lullaby \(Feat\. Lee go do\)](https://open.spotify.com/track/50uXeJFrBdlECHpuNjxNi8) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [이고도](https://open.spotify.com/artist/38XPiylfk5upjuzcr0BkZu) | [Rainy Lullaby](https://open.spotify.com/album/1WbecnYmnTwekNjaeLZyvq) | 2:39 | 2023-10-30 | 2024-04-04 |
 | [rat hole](https://open.spotify.com/track/5EwVrS8cmjIdAQSRelZqHE) | [XINZWA](https://open.spotify.com/artist/2rwfN3z1guR3gqv7GNF3P3) | [rat hole](https://open.spotify.com/album/1boUY0tC9JdcTKXkq3nLit) | 4:03 | 2022-01-27 | 2022-03-05 |

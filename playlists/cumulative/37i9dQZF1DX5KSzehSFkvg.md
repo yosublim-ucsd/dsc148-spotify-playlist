@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits Pop c'est ici\. Cover: Douaa Lahyaoui
+> Les meilleurs hits Pop c'est ici\. Cover: Lazaro
 
 141 songs - 7 hr 41 min
 

@@ -2893,6 +2893,24 @@
     },
     {
       "album": {
+        "name": "La Partida",
+        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
+    },
+    {
+      "album": {
         "name": "La Pastilla",
         "url": "https://open.spotify.com/album/0BEDzrscnDn5EhLvwsDURi"
       },

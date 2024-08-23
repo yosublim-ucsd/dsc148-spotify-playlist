@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: ZENB\u00d8",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069 (Ben)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 177525,
       "name": "10 out of 10",
       "url": "https://open.spotify.com/track/3fTpEVNXla3OEavoAqXmF0"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 189818,
       "name": "all things",
       "url": "https://open.spotify.com/track/4knzp6u3ENTeZlyFgYPcwA"
@@ -1998,6 +1998,28 @@
       "duration_ms": 218928,
       "name": "IHTS",
       "url": "https://open.spotify.com/track/5U7svsVIuZX19FQFhk5AMW"
+    },
+    {
+      "album": {
+        "name": "im just burnt...",
+        "url": "https://open.spotify.com/album/4P5VrFSd9fLeUdw49qnkfg"
+      },
+      "artists": [
+        {
+          "name": "Wilke",
+          "url": "https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ"
+        },
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219625,
+      "name": "im just burnt...",
+      "url": "https://open.spotify.com/track/04TFFzN49UNIjEl7odaTvr"
     },
     {
       "album": {
@@ -4420,7 +4442,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 202002,
       "name": "\u4e00\u8d77\u8d70\uff01",
       "url": "https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA"
@@ -5091,6 +5113,28 @@
     },
     {
       "album": {
+        "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
+        "url": "https://open.spotify.com/album/7FVASE4IdTdxYZeROJK2kD"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        },
+        {
+          "name": "\u5b88\u591c\u4eba",
+          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203669,
+      "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
+      "url": "https://open.spotify.com/track/7HOJQpG9gFPhIFSEiu5tFK"
+    },
+    {
+      "album": {
         "name": "Be a Lover",
         "url": "https://open.spotify.com/album/5tfoS4WlDJ9iKUFma08JUq"
       },
@@ -5544,7 +5588,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 217124,
       "name": "\u53cd\u793e\u4ea4",
       "url": "https://open.spotify.com/track/1NN7kusqeGJq4n8MDGmDM8"
@@ -6062,7 +6106,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 252129,
       "name": "\u591c\u884c",
       "url": "https://open.spotify.com/track/6RwcqhDcAUPbz1CRu9Vmhf"
@@ -7668,7 +7712,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
@@ -9808,7 +9852,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 203375,
       "name": "\u82e6\u8207\u751c (feat.\u674e\u5343\u5a1c)",
       "url": "https://open.spotify.com/track/6tygWafcqKwOJKyDvNF8Ul"
@@ -10090,7 +10134,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 192065,
       "name": "\u8d64\u5b50",
       "url": "https://open.spotify.com/track/0smNgxpidOTnMLiaXazVdt"
@@ -10260,7 +10304,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-10",
+      "date_removed": null,
       "duration_ms": 135460,
       "name": "\u8d81\u96e8\u4e0b",
       "url": "https://open.spotify.com/track/0MMQdQYZ1njx8ZnciVobaI"
@@ -10314,7 +10358,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 219919,
       "name": "\u8d95\u8d95\u6642\u9593",
       "url": "https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg"

@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 43137,
+  "num_followers": 43146,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -702,6 +702,10 @@
         {
           "name": "Astrid Lindgren Deutsch",
           "url": "https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz"
+        },
+        {
+          "name": "Michel aus L\u00f6nneberga",
+          "url": "https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V"
         }
       ],
       "duration_ms": 119215,
@@ -771,22 +775,6 @@
     {
       "added_at": "2024-07-12 09:30:00",
       "album": {
-        "name": "Contigo en la playa",
-        "url": "https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS"
-      },
-      "artists": [
-        {
-          "name": "Kira Kolumna",
-          "url": "https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Contigo en la playa",
-      "url": "https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL"
-    },
-    {
-      "added_at": "2024-07-12 09:30:00",
-      "album": {
         "name": "Lern- und Spa\u00dflieder",
         "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
@@ -799,6 +787,22 @@
       "duration_ms": 186000,
       "name": "Das Farbenlied",
       "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
+    },
+    {
+      "added_at": "2024-07-12 09:30:00",
+      "album": {
+        "name": "Contigo en la playa",
+        "url": "https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS"
+      },
+      "artists": [
+        {
+          "name": "Kira Kolumna",
+          "url": "https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Contigo en la playa",
+      "url": "https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL"
     },
     {
       "added_at": "2024-07-12 09:30:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Clara Ys\u00e9",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : F\u00e9lix Radu",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Garde-fou",
+        "url": "https://open.spotify.com/album/0ORI6rd9cPbzdCKx5lTRWD"
+      },
+      "artists": [
+        {
+          "name": "Barbagallo",
+          "url": "https://open.spotify.com/artist/6s6G7IGye7b8hnTMG2bMPz"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Je dis merci",
+      "url": "https://open.spotify.com/track/6cxrdRDk7FvkPwkSJioki2"
+    },
+    {
+      "album": {
         "name": "Je n'oublierai pas",
         "url": "https://open.spotify.com/album/0gON1xyluuxSY9alXQtxGm"
       },
@@ -482,7 +500,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 212600,
       "name": "La vague",
       "url": "https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO"

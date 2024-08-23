@@ -3383,6 +3383,28 @@
     },
     {
       "album": {
+        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281856,
+      "name": "O'Meri Laila",
+      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
+    },
+    {
+      "album": {
         "name": "Jalebi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN"
       },
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 269166,
       "name": "Tu Mil Gaya",
       "url": "https://open.spotify.com/track/6O6ubQqDP3rd9WCAWhgYvc"

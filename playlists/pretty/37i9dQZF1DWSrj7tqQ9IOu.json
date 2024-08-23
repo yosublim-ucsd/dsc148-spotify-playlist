@@ -1,15 +1,51 @@
 {
-  "description": "The best French indie tracks right now. Cover : Mattyeux",
-  "num_followers": 404874,
+  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "num_followers": 404879,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwFYAAAAAD4JEo7tWtYFMHfqUNlqaSH",
+  "snapshot_id": "Zse04AAAAACJPyl0POhfj/WQFhUPPl9U",
   "tracks": [
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "MOLITOR 24",
+        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Molitor",
+          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
+      },
+      "artists": [
+        {
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
+        }
+      ],
+      "duration_ms": 242979,
+      "name": "Lost and found",
+      "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
         "url": "https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK"
@@ -33,75 +69,7 @@
       "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "MOLITOR 24",
-        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Molitor",
-          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/3AVDhfJj8lyxdhLgSia94h"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 242979,
-      "name": "Lost and found",
-      "url": "https://open.spotify.com/track/3o5inGcKklTC2NwrCSUhQl"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Matcha Queen",
-        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Matcha Queen",
-      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Romantisme",
-        "url": "https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl"
-      },
-      "artists": [
-        {
-          "name": "Bolivard",
-          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
-        }
-      ],
-      "duration_ms": 229147,
-      "name": "Romantisme",
-      "url": "https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Juste toi et moi",
         "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
@@ -117,7 +85,7 @@
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Amber Eyes",
         "url": "https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4"
@@ -137,7 +105,23 @@
       "url": "https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Matcha Queen",
+        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Matcha Queen",
+      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Sunset Park (Extended version)",
         "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
@@ -157,7 +141,7 @@
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
@@ -181,39 +165,23 @@
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Gratte-ciel",
-        "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
+        "name": "Romantisme",
+        "url": "https://open.spotify.com/album/1AuDZxt0M2s86a7EzhIFJl"
       },
       "artists": [
         {
-          "name": "Shaga",
-          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+          "name": "Bolivard",
+          "url": "https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE"
         }
       ],
-      "duration_ms": 192547,
-      "name": "Gratte-ciel",
-      "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
+      "duration_ms": 229147,
+      "name": "Romantisme",
+      "url": "https://open.spotify.com/track/3wmhe1o4IMfLw3NOxfmxwu"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Quitter la ville",
-        "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
-      },
-      "artists": [
-        {
-          "name": "Laura Cahen",
-          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
-        }
-      ],
-      "duration_ms": 245644,
-      "name": "Quitter la ville",
-      "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "un million de petits chocs",
         "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
@@ -229,23 +197,23 @@
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ciao Paris!",
-        "url": "https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX"
+        "name": "La Mer",
+        "url": "https://open.spotify.com/album/25M1bUCa54IDjgv1Axa6ay"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
         }
       ],
-      "duration_ms": 204653,
-      "name": "Ciao Paris!",
-      "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
+      "duration_ms": 168251,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/1o0iPjV4Hb1zx845PUv2vp"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "R\u00eave parti",
         "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
@@ -261,39 +229,7 @@
       "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Xany",
-        "url": "https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn"
-      },
-      "artists": [
-        {
-          "name": "Mr GISCARD",
-          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Xany",
-      "url": "https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Never Be The Same Again",
-        "url": "https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl"
-      },
-      "artists": [
-        {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Never Be The Same Again",
-      "url": "https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Love from the Other Side",
         "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
@@ -309,7 +245,7 @@
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Flegme",
         "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
@@ -325,159 +261,55 @@
       "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Superpouvoirs",
-        "url": "https://open.spotify.com/album/1s03eumLRPRG0deQfniyds"
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs"
       },
       "artists": [
         {
-          "name": "Petit Nuage",
-          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
+          "name": "Tahiti 80",
+          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
         }
       ],
-      "duration_ms": 154770,
-      "name": "Superpouvoirs",
-      "url": "https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo"
+      "duration_ms": 156307,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv"
+        "name": "Quitter la ville",
+        "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
       },
       "artists": [
         {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
         }
       ],
-      "duration_ms": 226514,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
+      "duration_ms": 245644,
+      "name": "Quitter la ville",
+      "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Palmiers rivi\u00e8res",
-        "url": "https://open.spotify.com/album/77MDV4dCwp4U5ctsl6K5gL"
+        "name": "Ciao Paris!",
+        "url": "https://open.spotify.com/album/6yxgASQFnI2BQOBLfJOPSX"
       },
       "artists": [
         {
-          "name": "Napkey",
-          "url": "https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 173193,
-      "name": "Palmiers rivi\u00e8res",
-      "url": "https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U"
+      "duration_ms": 204653,
+      "name": "Ciao Paris!",
+      "url": "https://open.spotify.com/track/1KRwiG5K8nliFRualGxUNL"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Oddy",
-        "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
-      },
-      "artists": [
-        {
-          "name": "Fellini F\u00e9lin",
-          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Oddy",
-      "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Nelly Lawson",
-          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Adieu Cl\u00e9mence",
-        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
-      },
-      "artists": [
-        {
-          "name": "Tao Mon Amour",
-          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Adieu Cl\u00e9mence",
-      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "FVTVRVM",
-        "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
-      },
-      "artists": [
-        {
-          "name": "Naive New Beaters",
-          "url": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
-        }
-      ],
-      "duration_ms": 160005,
-      "name": "Love Scares",
-      "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Lost and found",
-        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
-      },
-      "artists": [
-        {
-          "name": "Isaac Delusion",
-          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Internet",
-      "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Les pieds dans l'eau",
-        "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
-      },
-      "artists": [
-        {
-          "name": "AGAV",
-          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
-        },
-        {
-          "name": "Cliff Schneider",
-          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
-        }
-      ],
-      "duration_ms": 169794,
-      "name": "La nuit dehors",
-      "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Many Lives",
         "url": "https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX"
@@ -497,42 +329,42 @@
       "url": "https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "DUI",
-        "url": "https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1"
+        "name": "Oddy",
+        "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
       },
       "artists": [
         {
-          "name": "CLOUD",
-          "url": "https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd"
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
         }
       ],
-      "duration_ms": 247352,
-      "name": "DUI",
-      "url": "https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH"
+      "duration_ms": 212000,
+      "name": "Oddy",
+      "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "SANTS",
-        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv"
       },
       "artists": [
         {
-          "name": "Cl\u00e9ment Froissart",
-          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
+      "duration_ms": 226514,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "L'hiver au soleil",
-        "url": "https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv"
+        "name": "Les pieds dans l'eau",
+        "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
       },
       "artists": [
         {
@@ -544,28 +376,96 @@
           "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
         }
       ],
-      "duration_ms": 192941,
-      "name": "L'hiver au soleil",
-      "url": "https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu"
+      "duration_ms": 169794,
+      "name": "La nuit dehors",
+      "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
+        "name": "Superpouvoirs",
+        "url": "https://open.spotify.com/album/1s03eumLRPRG0deQfniyds"
       },
       "artists": [
         {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+          "name": "Petit Nuage",
+          "url": "https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg"
         }
       ],
-      "duration_ms": 203080,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
+      "duration_ms": 154770,
+      "name": "Superpouvoirs",
+      "url": "https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Nelly Lawson",
+          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Adieu Cl\u00e9mence",
+        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
+      },
+      "artists": [
+        {
+          "name": "Tao Mon Amour",
+          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Adieu Cl\u00e9mence",
+      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Xany",
+        "url": "https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn"
+      },
+      "artists": [
+        {
+          "name": "Mr GISCARD",
+          "url": "https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Xany",
+      "url": "https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Gratte-ciel",
+        "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "duration_ms": 192547,
+      "name": "Gratte-ciel",
+      "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
@@ -585,7 +485,23 @@
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "DUI",
+        "url": "https://open.spotify.com/album/5eA3zH0ywlEjuzItbgoOn1"
+      },
+      "artists": [
+        {
+          "name": "CLOUD",
+          "url": "https://open.spotify.com/artist/13acIjnkmm2EL9yODeuFRd"
+        }
+      ],
+      "duration_ms": 247352,
+      "name": "DUI",
+      "url": "https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Can't Get You Out Of My Mind",
         "url": "https://open.spotify.com/album/7qMMVQqBCnOUK2Y5X3azca"
@@ -601,7 +517,39 @@
       "url": "https://open.spotify.com/track/5YjID8xAeHRZFykP8QTb3q"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "SANTS",
+        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        }
+      ],
+      "duration_ms": 203080,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Cold Touch",
         "url": "https://open.spotify.com/album/5A9UiXaNf69PtKCcTm0bY0"
@@ -617,7 +565,7 @@
       "url": "https://open.spotify.com/track/5SL769u0mPWC6b7XyXghFz"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Massilia (feat. Adrien Gallo)",
         "url": "https://open.spotify.com/album/7vXq8ytmwhwgPjnFuw7GBM"
@@ -637,71 +585,7 @@
       "url": "https://open.spotify.com/track/3uyff2dTTwyOKsHnAK300y"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Every Little Thing",
-        "url": "https://open.spotify.com/album/3zePOpjgo3CVKu0X49DADi"
-      },
-      "artists": [
-        {
-          "name": "Tahiti 80",
-          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
-        }
-      ],
-      "duration_ms": 191936,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/5MYeJHotwiB6cvr20NG78u"
-      },
-      "artists": [
-        {
-          "name": "Halo Maud",
-          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
-        }
-      ],
-      "duration_ms": 206554,
-      "name": "Slowly Surely",
-      "url": "https://open.spotify.com/track/1QlQ6aOrUCQ46dcFTXlAo8"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "M\u00e9diterran\u00e9e",
-        "url": "https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Side Quest",
-        "url": "https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq"
-      },
-      "artists": [
-        {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
-        }
-      ],
-      "duration_ms": 199852,
-      "name": "Side Quest",
-      "url": "https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "BETTER PLACE",
         "url": "https://open.spotify.com/album/08ieQlcdmu8tcAjIJLq7eK"
@@ -717,39 +601,23 @@
       "url": "https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "The Wedding Song",
-        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
+        "name": "Lost and found",
+        "url": "https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z"
       },
       "artists": [
         {
-          "name": "Magon",
-          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
+          "name": "Isaac Delusion",
+          "url": "https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG"
         }
       ],
-      "duration_ms": 173000,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
+      "duration_ms": 184920,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/3iBSdk1OWlVoCJwHkjg4lX"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "what have u done",
-        "url": "https://open.spotify.com/album/0kHHrX6HtCzG7occ1xeRmr"
-      },
-      "artists": [
-        {
-          "name": "Kevin Heartbeats",
-          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
-        }
-      ],
-      "duration_ms": 185968,
-      "name": "what have u done",
-      "url": "https://open.spotify.com/track/2CVjS07I3t34ULLDSPRLLW"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/55nrtrhYbidS1MWC7bchos"
@@ -773,55 +641,75 @@
       "url": "https://open.spotify.com/track/6mcP1kDZE3Iqn9ps7wtYbf"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "rentrer chez moi",
-        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
+        "name": "L'hiver au soleil",
+        "url": "https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        },
+        {
+          "name": "Cliff Schneider",
+          "url": "https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD"
         }
       ],
-      "duration_ms": 219773,
-      "name": "rentrer chez moi",
-      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
+      "duration_ms": 192941,
+      "name": "L'hiver au soleil",
+      "url": "https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "V\u00e9g\u00e9tal",
-        "url": "https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ"
+        "name": "Side Quest",
+        "url": "https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq"
       },
       "artists": [
         {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
         }
       ],
-      "duration_ms": 233933,
-      "name": "V\u00e9g\u00e9tal",
-      "url": "https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i"
+      "duration_ms": 199852,
+      "name": "Side Quest",
+      "url": "https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Viens on prend le temps",
-        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+        "name": "FVTVRVM",
+        "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
       },
       "artists": [
         {
-          "name": "Malik Djoudi",
-          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+          "name": "Naive New Beaters",
+          "url": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
         }
       ],
-      "duration_ms": 176743,
-      "name": "Viens on prend le temps",
-      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+      "duration_ms": 160005,
+      "name": "Love Scares",
+      "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
+      },
+      "artists": [
+        {
+          "name": "Magon",
+          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Baby, Come Over Tonight",
         "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
@@ -837,23 +725,39 @@
       "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh"
+        "name": "M\u00e9diterran\u00e9e",
+        "url": "https://open.spotify.com/album/44HbVWnGY3W33jhFZxd4GN"
       },
       "artists": [
         {
-          "name": "KLON",
-          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
         }
       ],
-      "duration_ms": 178961,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG"
+      "duration_ms": 213333,
+      "name": "M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/4M7YeM5qkR8Kn5ALCC03Te"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "V\u00e9g\u00e9tal",
+        "url": "https://open.spotify.com/album/6iJIfQv03arV8wBZYFDKtQ"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "duration_ms": 233933,
+      "name": "V\u00e9g\u00e9tal",
+      "url": "https://open.spotify.com/track/2xTXlI2LSQSVmXD7NjKG7i"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
       "album": {
         "name": "Even Now",
         "url": "https://open.spotify.com/album/1XrUW4FChuC6EjR99b8xPh"
@@ -871,6 +775,102 @@
       "duration_ms": 180913,
       "name": "Even Now",
       "url": "https://open.spotify.com/track/32uVxq9URcY70dGwm0EzF5"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "what have u done",
+        "url": "https://open.spotify.com/album/0kHHrX6HtCzG7occ1xeRmr"
+      },
+      "artists": [
+        {
+          "name": "Kevin Heartbeats",
+          "url": "https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG"
+        }
+      ],
+      "duration_ms": 185968,
+      "name": "what have u done",
+      "url": "https://open.spotify.com/track/2CVjS07I3t34ULLDSPRLLW"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/5MYeJHotwiB6cvr20NG78u"
+      },
+      "artists": [
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 206554,
+      "name": "Slowly Surely",
+      "url": "https://open.spotify.com/track/1QlQ6aOrUCQ46dcFTXlAo8"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Viens on prend le temps",
+        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "duration_ms": 176743,
+      "name": "Viens on prend le temps",
+      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh"
+      },
+      "artists": [
+        {
+          "name": "KLON",
+          "url": "https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss"
+        }
+      ],
+      "duration_ms": 178961,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "rentrer chez moi",
+        "url": "https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "rentrer chez moi",
+      "url": "https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Never Be The Same Again",
+        "url": "https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Never Be The Same Again",
+      "url": "https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP"
     }
   ],
   "unique_name": "Made in France",

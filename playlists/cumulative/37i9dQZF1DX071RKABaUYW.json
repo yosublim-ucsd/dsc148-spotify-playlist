@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Thandii",
+  "description": "Fresh eclectic. Post-genre. Exceptional taste. Cover: Ruthven",
   "name": "The Basement",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 162893,
       "name": "Afraid Of Losing",
       "url": "https://open.spotify.com/track/5qnvxphQjJ8YKLihhMZnJx"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/59eK2iLsb52x01CWL9UC7D"
+      },
+      "artists": [
+        {
+          "name": "Callinsick",
+          "url": "https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166668,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/63vEPrmJjJpBxZvMiE9EHj"
+    },
+    {
+      "album": {
         "name": "Call It What You Like",
         "url": "https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW"
       },
@@ -280,6 +298,24 @@
       "duration_ms": 174269,
       "name": "Call It What You Like",
       "url": "https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3"
+    },
+    {
+      "album": {
+        "name": "Can't Change My Mind",
+        "url": "https://open.spotify.com/album/4K9nJFIXM8dyi6V48yDDY0"
+      },
+      "artists": [
+        {
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153657,
+      "name": "Can't Change My Mind",
+      "url": "https://open.spotify.com/track/0Imm8xaeUrNH8YHqQtqAKZ"
     },
     {
       "album": {
@@ -359,6 +395,60 @@
     },
     {
       "album": {
+        "name": "Closing The Doors",
+        "url": "https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB"
+      },
+      "artists": [
+        {
+          "name": "Kelly Maxwell",
+          "url": "https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Closing The Doors",
+      "url": "https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS"
+    },
+    {
+      "album": {
+        "name": "congratulations for getting off the drink",
+        "url": "https://open.spotify.com/album/0adEa6tzGFSbF60RmNyI0w"
+      },
+      "artists": [
+        {
+          "name": "rEDOLENT",
+          "url": "https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151455,
+      "name": "congratulations for getting off the drink",
+      "url": "https://open.spotify.com/track/3OKDCLcs8N2NBviZttpnGY"
+    },
+    {
+      "album": {
+        "name": "Crush2",
+        "url": "https://open.spotify.com/album/6UtfZsgvpLPEdZabh2j3CW"
+      },
+      "artists": [
+        {
+          "name": "Jazzi Bobbi",
+          "url": "https://open.spotify.com/artist/3mfwiDvcQyWfoy2dCnwcwi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175531,
+      "name": "Crush2",
+      "url": "https://open.spotify.com/track/75flZZyvLNjvm8Ir3phzRJ"
+    },
+    {
+      "album": {
         "name": "Daylight Song",
         "url": "https://open.spotify.com/album/4gG8abNIluKFuWdWSKhSZb"
       },
@@ -374,6 +464,24 @@
       "duration_ms": 187002,
       "name": "Daylight Song",
       "url": "https://open.spotify.com/track/45DLA7sPqqGHG9NN3UPbRI"
+    },
+    {
+      "album": {
+        "name": "Deadstock",
+        "url": "https://open.spotify.com/album/1wxET02CcRqpcv9J5WF9ml"
+      },
+      "artists": [
+        {
+          "name": "M\u00ebi",
+          "url": "https://open.spotify.com/artist/7ykgQNr8HTKLrEQkf3U7oi"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "Deadstock",
+      "url": "https://open.spotify.com/track/3iDlrRScT2KWbqbeuSAd0c"
     },
     {
       "album": {
@@ -533,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Mythomania",
+        "url": "https://open.spotify.com/album/3qxzjhDwn0MTFeZmGwjAYV"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120855,
+      "name": "Dugout",
+      "url": "https://open.spotify.com/track/1PIBttOCpRWSYCeJc3cdhc"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2kaQio8ZLQKXSvW06EnWIS"
       },
@@ -562,7 +688,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 233513,
       "name": "Feral Guest",
       "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
@@ -677,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Heavens The Other Way",
+        "url": "https://open.spotify.com/album/7A6smI1b6a8vZopTJJHon4"
+      },
+      "artists": [
+        {
+          "name": "Circe",
+          "url": "https://open.spotify.com/artist/3pS4Tt6b6z9B6WUu5RGvWc"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182621,
+      "name": "Heavens The Other Way",
+      "url": "https://open.spotify.com/track/5kXFXFlahYrwQAWSQSxogc"
+    },
+    {
+      "album": {
         "name": "Himmel / Swarm",
         "url": "https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd"
       },
@@ -706,10 +850,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 154225,
       "name": "home",
       "url": "https://open.spotify.com/track/1RvrMWzTqXAoWbLzOYzFPI"
+    },
+    {
+      "album": {
+        "name": "I Can't Go There",
+        "url": "https://open.spotify.com/album/2KEDQNs9BLogSL7xI0Iikf"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "I Can't Go There",
+      "url": "https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn"
     },
     {
       "album": {
@@ -941,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218451,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23"
+    },
+    {
+      "album": {
         "name": "Loveshot",
         "url": "https://open.spotify.com/album/353B0DAK3urgl8sEs76adF"
       },
@@ -1006,7 +1186,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 157029,
       "name": "My Drummer's Girlfriend",
       "url": "https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp"
@@ -1190,7 +1370,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 147101,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/2e1b8BloDxKE8G8aj3owLA"

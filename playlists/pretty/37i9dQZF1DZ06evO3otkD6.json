@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 68810,
+  "num_followers": 68838,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAACxkRZdRzDhAONno3vYCOVj",
+  "snapshot_id": "ZsUuAAAAAACQ3+9djvHXWG9Z6plG7ouS",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 180640,
+      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
+      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Se Pinta de Luz (Only for Streaming)",
         "url": "https://open.spotify.com/album/5LEwTDRCpE1egWxc2NZOAP"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 218973,
       "name": "Luz",
       "url": "https://open.spotify.com/track/5ogsMocz0VBYwmdpKDJl70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Boba Ni\u00f1a Nice - Teenage Superstar",
-      "url": "https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1"
     },
     {
       "added_at": null,

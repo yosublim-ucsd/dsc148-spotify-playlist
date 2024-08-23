@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: Panda Bear &amp; Sonic Boom
 
-1,029 songs - 2 day 22 hr 50 min
+1,030 songs - 2 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -994,6 +994,7 @@
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-08-14 |  |
 | [We Have Sex](https://open.spotify.com/track/4MvwfdgnZMq2Nlgg6ou99v) | [Stephen Pastel](https://open.spotify.com/artist/1Mgkzst7Krb2uB3Ourbfby), [Gavin Thomson](https://open.spotify.com/artist/19sJuu2SqWOfW8vDU2PHhL), [The Pastels](https://open.spotify.com/artist/4Nu0EL8c5d2vFHPOcNjlBP), [Unexpensive Superstars](https://open.spotify.com/artist/6TCZqtmUomnu1luh5sK8Cw) | [We Have Sex / Introduction To Why I Did It](https://open.spotify.com/album/5bhu41ez9JezoYxiCn01DT) | 2:57 | 2024-04-24 | 2024-05-16 |
 | [Weather Alive](https://open.spotify.com/track/3OrhnPCD8HDTVSmp3FI9cY) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Weather Alive](https://open.spotify.com/album/1GlvLDvrCrUNFeNEQoyimx) | 7:04 | 2022-06-22 | 2022-08-04 |
+| [Weave](https://open.spotify.com/track/246q6QozV9l3OKfUSnKTmu) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Harmonics Remixed](https://open.spotify.com/album/49NQJ0sWXgGSyZpu1zfCjm) | 5:07 | 2024-08-22 |  |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2023-11-15 | 2024-01-11 |
 | [Welcome To Hell](https://open.spotify.com/track/1PMHfsqnvnTO7mBwDA5pQL) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Welcome To Hell](https://open.spotify.com/album/0fMH4osxhvgAIbZhGE1kL3) | 4:09 | 2022-06-08 | 2022-06-17 |
 | [Well bucket](https://open.spotify.com/track/3GGfbeDZ63Q4TVJnP9NlnA) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:16 | 2023-11-15 | 2024-01-18 |

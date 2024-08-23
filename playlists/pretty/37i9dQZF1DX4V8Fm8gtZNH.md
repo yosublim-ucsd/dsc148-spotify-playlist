@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,384 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,398 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,7 +320,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 310 | [Close](https://open.spotify.com/track/42TUSAF4Hmyqak9iqMZ9QF) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [1123](https://open.spotify.com/album/7lZWuo8TFgz5ty8PEWa6SO) | 3:50 |
 | 311 | [The People](https://open.spotify.com/track/3r7WTNjlxxTXParQCQeGZ8) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:24 |
 | 312 | [Sticky](https://open.spotify.com/track/1Jyp5ZUSZzVllelHa8HREd) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Crush EP](https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i) | 3:16 |
-| 313 | [Overnight Celebrity](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
+| 313 | [Overnight Celebrity \(feat\. Miri Ben\-Ari\)](https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:53 |
 | 314 | [Blk Girl Soldier](https://open.spotify.com/track/23HBitYPsgA9LS4Gpsq0V8) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [HEAVN](https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb) | 3:22 |
 | 315 | [Holy \(Reprise\)](https://open.spotify.com/track/08WsHJBBBjqWXIlNtiL27b) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [HEAVN](https://open.spotify.com/album/2ha1TUv0o6VnQddOci7GIb) | 3:22 |
 | 316 | [Can't Win For Losing \(feat\. 2KBaby\)](https://open.spotify.com/track/4gmC5USrVGq53V2iQApLO2) | [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69), [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [C3](https://open.spotify.com/album/0x1BgsKX3jBtjat6HApyl6) | 3:57 |

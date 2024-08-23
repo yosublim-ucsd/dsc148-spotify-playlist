@@ -1265,6 +1265,36 @@
     },
     {
       "album": {
+        "name": "Satyagrah",
+        "url": "https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Yogesh Samsi",
+          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
+        },
+        {
+          "name": "Shravan Samsi",
+          "url": "https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6"
+        },
+        {
+          "name": "Steve Kottoor",
+          "url": "https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434000,
+      "name": "Satyagrah",
+      "url": "https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame"
+    },
+    {
+      "album": {
         "name": "Timeless Tabla",
         "url": "https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL"
       },

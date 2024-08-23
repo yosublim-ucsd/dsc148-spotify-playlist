@@ -104,7 +104,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 118160,
       "name": "a long way home",
       "url": "https://open.spotify.com/track/09IoU5auO9LLPJuUyWyOhb"
@@ -290,6 +290,24 @@
       "duration_ms": 201230,
       "name": "Above The Dawn",
       "url": "https://open.spotify.com/track/6rWGV0cd18BTZFulnHaohW"
+    },
+    {
+      "album": {
+        "name": "Abstraction",
+        "url": "https://open.spotify.com/album/12uPuzJ3SA7dUH7apVS3Ee"
+      },
+      "artists": [
+        {
+          "name": "Vries",
+          "url": "https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189958,
+      "name": "Abstraction",
+      "url": "https://open.spotify.com/track/2WRtYZLyeVbLoQZFqyE9Jt"
     },
     {
       "album": {
@@ -2188,6 +2206,24 @@
       "duration_ms": 130909,
       "name": "Deep Meditation",
       "url": "https://open.spotify.com/track/5uhedSLFvhfn6H9ek4D4td"
+    },
+    {
+      "album": {
+        "name": "Deep Space",
+        "url": "https://open.spotify.com/album/5qPTZBxCdct3nYChteWBGq"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Deep Space",
+      "url": "https://open.spotify.com/track/6mn2dF0yAMZY7XkyhN3t4G"
     },
     {
       "album": {
@@ -4383,6 +4419,28 @@
     },
     {
       "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/6P2n48m1s7DsjEPESdTSdG"
+      },
+      "artists": [
+        {
+          "name": "someday",
+          "url": "https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv"
+        },
+        {
+          "name": "tezpu",
+          "url": "https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147237,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/721Bki4eKI2WxkwrPPHW3c"
+    },
+    {
+      "album": {
         "name": "Latitude",
         "url": "https://open.spotify.com/album/258CSbdQd6L82RC4lFGR2p"
       },
@@ -6550,7 +6608,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 130521,
       "name": "pulsation",
       "url": "https://open.spotify.com/track/3VjK1arZPnFcTbSJ4zR3hc"
@@ -7618,7 +7676,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 149090,
       "name": "Sketches",
       "url": "https://open.spotify.com/track/0zrA7mY6vysGHGJgjU156J"

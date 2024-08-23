@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Artie e Guè in cover della playlist urban più grande d'Italia 🔥
+> Papa V sulla cover della playlist urban più grande in Italia 🔥
 
-572 songs - 1 day 4 hr 5 min
+573 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Dentro di me](https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Dentro di me](https://open.spotify.com/album/4G7K8YMU8vCtPr9SiOZ0if) | 2:37 | 2024-02-22 | 2024-03-15 |
 | [Dentro la mia testa](https://open.spotify.com/track/0A5Z02uM5JoFh8IxRUjyCX) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile \(Deluxe\)](https://open.spotify.com/album/4asGsNx59kGDbKWXwnd89t) | 2:41 | 2023-10-26 | 2023-12-16 |
 | [Desaparecidos \(feat\. Geolier\)](https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:12 | 2022-05-09 | 2022-05-14 |
-| [Di Rho](https://open.spotify.com/track/6nqaUnBfwjzuA7UDWS8OQN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Di Rho](https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod) | 2:45 | 2024-07-04 |  |
+| [Di Rho](https://open.spotify.com/track/6nqaUnBfwjzuA7UDWS8OQN) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Di Rho](https://open.spotify.com/album/57DgtjflGA7NpypLEd5Mod) | 2:45 | 2024-07-04 | 2024-08-23 |
 | [Diavolo \(con Ghali, Rkomi, Tedua & bnkr44\)](https://open.spotify.com/track/7FvF6VQzph1rEPjSJmkaRv) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 3:50 | 2022-09-15 | 2022-11-11 |
 | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/track/3QVmR6UVx3gXtnUm6AWtwr) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [DIMMI CHE \(feat\. Bresh & Neima Ezza\)](https://open.spotify.com/album/4Kq7rsh7q0dzH9DFss5X7X) | 3:06 | 2023-03-02 | 2023-05-12 |
 | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/track/25DyHdcgQMJ2hEMSsrtTVX) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Dimmi Che C'è \(feat\. Tedua\)](https://open.spotify.com/album/54nLn2p65cXgkdIvmCJDhG) | 3:02 | 2023-03-17 | 2023-05-26 |
@@ -257,6 +257,7 @@
 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 | 2023-04-06 | 2023-11-03 |
 | [Il meglio di te](https://open.spotify.com/track/2eTXrwuncNqUOAxw2YJ8lv) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Il meglio di te](https://open.spotify.com/album/0TYQyv9BG0D1M60K7l85xz) | 2:37 | 2022-07-21 | 2022-10-28 |
 | [Il mio dawg](https://open.spotify.com/track/71juLZk9jMhOSsi1jcDwUa) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Il mio dawg](https://open.spotify.com/album/2SzZuyYZGp87OgalWyJHsb) | 2:22 | 2023-06-15 | 2023-06-23 |
+| [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-22 |  |
 | [IMPORTANTE](https://open.spotify.com/track/7tsTlt7Kwj2tFvpukBtZd4) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI \(Deluxe\)](https://open.spotify.com/album/1qfURwkRukKvemVbObKJXy) | 3:21 | 2022-12-08 | 2023-01-20 |
 | [In Fissa \(feat\. Fabri Fibra & Ormai\)](https://open.spotify.com/track/6Xmo0RODWby2SeffGEDS0M) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Ormai](https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Level One](https://open.spotify.com/album/7kecFtrnb8dZ101bSYIjXG) | 2:13 | 2022-07-14 | 2022-07-29 |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 | 2023-04-06 | 2023-05-16 |

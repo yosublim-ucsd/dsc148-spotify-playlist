@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Eden Mu\u00f1oz. Tutti i brani in un'unica playlist.",
+  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
   "name": "This Is Eden Mu\u00f1oz",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Aunque No Te Pueda Ver",
       "url": "https://open.spotify.com/track/3qEu6ceZPMkqMTHKa0Yrn3"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 244125,
       "name": "Soy De La Calle - En Vivo",
       "url": "https://open.spotify.com/track/6ghL4oDMZxwNhZUed6L1Ug"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Dave Blunts\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,102 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,054 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 7 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 |
 | 8 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 |
 | 9 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 |
-| 10 | [B.U.G\. Antman "On The Radar" Freestyle](https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [B.U.G\. Antman](https://open.spotify.com/artist/18aBzZYx4zSv49YslV76AX) | [B.U.G\. Antman "On The Radar" Freestyle](https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz) | 2:18 |
+| 10 | [B.U.G Antman "On The Radar" Freestyle](https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [B.U.G Antman](https://open.spotify.com/artist/3D3yRZ4aUoxlTZd2fef9C7) | [B.U.G Antman "On The Radar" Freestyle](https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz) | 2:18 |
 | 11 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 |
 | 12 | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/track/5tzcByvFyzRPHXrBgOaxkk) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [THE BADDEST \(BADDER\) \[feat\. Ayesha Erotica\]](https://open.spotify.com/album/1G7CTjjWqcPtHXaqLT8KSJ) | 2:23 |
 | 13 | [Talking To The Sun](https://open.spotify.com/track/2cMcUE6wr9tlR3z84XvSQR) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Well Dude Here's My Thing](https://open.spotify.com/album/3fXuMDL15NMbXbuXfBJ0bN) | 1:19 |

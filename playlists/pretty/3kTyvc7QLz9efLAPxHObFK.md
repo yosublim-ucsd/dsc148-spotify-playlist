@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,621 songs - 3 day 15 hr 33 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,625 songs - 3 day 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1629,5 +1629,9 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1619 | [Resurrection](https://open.spotify.com/track/1g7kc5cpK92bPFFit0rY81) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Resurrection](https://open.spotify.com/album/2Wtc7vvZgdAlHkYOHvFfaM) | 2:31 |
 | 1620 | [The Age Of Hardcore](https://open.spotify.com/track/3ooovdt2onJ2uqjs7dcvXQ) | [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0), [Killer MC](https://open.spotify.com/artist/31xXjvqT3qFHK8S3RP3SSZ) | [The Age Of Hardcore](https://open.spotify.com/album/6XEZmVG3MKDM3i1dOxeahb) | 1:44 |
 | 1621 | [Focus](https://open.spotify.com/track/4gExkZstTfHwRLB6d2N6X3) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM), [Lab\-E](https://open.spotify.com/artist/5hhDT5q12LzIStkc4O4MOZ) | [Focus](https://open.spotify.com/album/1xMCK75kuZsle4fYfLFMq1) | 3:08 |
+| 1622 | [Heavy Energy](https://open.spotify.com/track/2IoeH2J1KDZxOGSnq0MVd2) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [Heavy Energy](https://open.spotify.com/album/5BFasmiQB7KcSrvYAo9Y2s) | 3:14 |
+| 1623 | [NIGHTMARE \(SAVE ME\)](https://open.spotify.com/track/502SxRWMjLGwd8oHgyM3sS) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [NIGHTMARE \(SAVE ME\)](https://open.spotify.com/album/0wPaO2XSA5boe9hY5iEiVv) | 2:39 |
+| 1624 | [Heartquake](https://open.spotify.com/track/5KXOVRegnjDDTyDC4P29kE) | [Dr Donk](https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu), [Goblin Grave](https://open.spotify.com/artist/1z54PqrKf4Z6qRhdxbK6k2) | [Heartquake](https://open.spotify.com/album/1yANHCdK6mKBeV8bVdVkoQ) | 2:24 |
+| 1625 | [CAN'T CONTROL](https://open.spotify.com/track/3ETXLjdwpuOMBfsq7cyMQs) | [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a) | [CAN'T CONTROL](https://open.spotify.com/album/0aSCsxL1D82JEPr5T6RK1g) | 2:36 |
 
-Snapshot ID: `AAAGgu0cktWEkPbLlR8qzCv3+mdQqfGW`
+Snapshot ID: `AAAGhl+QLT1A8znC/y8cXQ0fhrjUI+7s`

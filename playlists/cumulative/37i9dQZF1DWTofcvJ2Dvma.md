@@ -4,7 +4,7 @@
 
 > Soundtrack your practice with this mix of chill and motivational tracks perfect for vinyasa yoga.
 
-492 songs - 20 hr 40 min
+493 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,9 +51,9 @@
 | [Blue](https://open.spotify.com/track/6jpQ73DuZifjGw2VDnj21p) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [Blue](https://open.spotify.com/album/01dwUb3AtTgxqnYLMzk5La) | 2:15 | 2022-10-25 | 2022-11-26 |
 | [Blurry](https://open.spotify.com/track/3tLmQrqggs7KI3S3IidjHc) | [Fiber Zone](https://open.spotify.com/artist/4sDZLaSAdjXRiSOZkLMBlA) | [Blurry](https://open.spotify.com/album/2oZNNkRDp2sLFsBg3yE7jk) | 2:24 | 2022-06-22 | 2024-01-20 |
 | [bonded bass](https://open.spotify.com/track/6OopFjOT4EwXMLbBbJBbTM) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [bonded bass](https://open.spotify.com/album/6EYdVOqsyaNZlo9uRmqi1t) | 2:02 | 2024-01-19 |  |
-| [brainin' in my rainin'](https://open.spotify.com/track/5m8Wvl0GrFfMfmkDshFBPj) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [brainin' in my rainin'](https://open.spotify.com/album/2gZltZMzpGMXVfIDRQ54AJ) | 1:54 | 2024-02-23 |  |
+| [brainin' in my rainin'](https://open.spotify.com/track/5m8Wvl0GrFfMfmkDshFBPj) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [brainin' in my rainin'](https://open.spotify.com/album/2gZltZMzpGMXVfIDRQ54AJ) | 1:54 | 2024-02-23 | 2024-08-23 |
 | [Breeze 52](https://open.spotify.com/track/0rNTOI1K11CSPTj3dvq1tU) | [Pluto Tracks](https://open.spotify.com/artist/1JFmZ9XvgZnVttQHe8RSj1) | [Breeze 52](https://open.spotify.com/album/1qRVaci6Oqo43ssMt88MwZ) | 1:58 | 2022-03-14 | 2023-01-06 |
-| [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2024-01-19 |  |
+| [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2024-01-19 | 2024-08-23 |
 | [Buttermilk](https://open.spotify.com/track/727CT3984GcH1aqLkbGo6D) | [Selene Blais](https://open.spotify.com/artist/5EdnUbCaXHAdgqnOZvAWTP) | [Buttermilk](https://open.spotify.com/album/2nGkjmdviKiohj2bK8Rooj) | 2:49 | 2024-01-19 | 2024-07-27 |
 | [by the book](https://open.spotify.com/track/2HO4rPSFnE2FCggOcZUDtq) | [slowerful](https://open.spotify.com/artist/6dDjZKFRB1MhmnxZiKegdq) | [by the book](https://open.spotify.com/album/6lYaUUZThMYNybUokR9IAJ) | 2:33 | 2022-03-14 | 2022-04-22 |
 | [Café Rio](https://open.spotify.com/track/28WEdMqtZ0EW43L0yTRQk5) | [Edoardo Más](https://open.spotify.com/artist/3vDywqMAcuHdMgK30nSSLW) | [Café Rio](https://open.spotify.com/album/6yL9GXFei3SZJUorDCJZMU) | 3:36 | 2022-03-14 | 2022-11-26 |
@@ -96,6 +96,7 @@
 | [daylight savings time](https://open.spotify.com/track/5QtDWKrJ0oDCngcjnBtd7Z) | [milo keeper](https://open.spotify.com/artist/0GC1oqZGWOMXDnNo2u5Irs) | [daylight savings time](https://open.spotify.com/album/4Gvlkp86D3oPbCMbw8BeGO) | 2:43 | 2022-03-14 | 2024-01-20 |
 | [DaylightZ \- Forest Version](https://open.spotify.com/track/4CApZ8VcoaUFLHmi94y1ey) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [DaylightZ](https://open.spotify.com/album/4vnuKbIQy1gtw4ao29JCzl) | 2:04 | 2022-06-22 | 2023-11-18 |
 | [Deep Asleep](https://open.spotify.com/track/53ZhQHLOB8k5pnAipbQIXs) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Deep Asleep](https://open.spotify.com/album/0m7wkauGzHvfV6V6fuPPeo) | 2:03 | 2024-01-19 |  |
+| [Deep Space](https://open.spotify.com/track/6mn2dF0yAMZY7XkyhN3t4G) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Deep Space](https://open.spotify.com/album/5qPTZBxCdct3nYChteWBGq) | 3:17 | 2024-08-22 |  |
 | [Derivatives](https://open.spotify.com/track/5BNPTeFntNBWhwchJkrMwi) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [Derivatives](https://open.spotify.com/album/2n76Xn4O2yRFQT9Lmm4Nsx) | 2:20 | 2022-05-10 | 2024-01-20 |
 | [Despertar al Sol](https://open.spotify.com/track/3NFL1h0KgrVb67DtM8dKFv) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Despertar al Sol](https://open.spotify.com/album/1X499n1XH8hjUAN4L7H7cm) | 1:55 | 2022-05-10 | 2023-06-21 |
 | [dewy Tuesday](https://open.spotify.com/track/6oggVU7j2p79cdTUekCL8r) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [dewy Tuesday](https://open.spotify.com/album/6INnkNfn9IW1ENekm5O7Ul) | 2:20 | 2022-07-28 | 2024-01-20 |
@@ -269,7 +270,7 @@
 | [mid autumn](https://open.spotify.com/track/4QhzZqh71thbm5cxxiHkzT) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [mid autumn](https://open.spotify.com/album/30tiLGIHjpSplPuKOAcaqW) | 2:16 | 2024-01-19 |  |
 | [Midnight Caller](https://open.spotify.com/track/21ysFPwLBA4OuSATx19XPG) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Midnight Caller](https://open.spotify.com/album/6ykRic5nAug1fuS7e4ZWLR) | 2:10 | 2022-03-14 | 2022-11-26 |
 | [midnight melody](https://open.spotify.com/track/5lPvUiyvXEHMsiuOybY1Dc) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [midnight melody](https://open.spotify.com/album/3PpJbBS0404mPEK8Lg6dDA) | 2:19 | 2024-01-19 |  |
-| [migratory birds](https://open.spotify.com/track/35NQOcWiezPLwesUrg21fe) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [migratory birds](https://open.spotify.com/album/1GFq1BMDs8ot5ZSCbtTI3M) | 2:17 | 2024-02-23 |  |
+| [migratory birds](https://open.spotify.com/track/35NQOcWiezPLwesUrg21fe) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [migratory birds](https://open.spotify.com/album/1GFq1BMDs8ot5ZSCbtTI3M) | 2:17 | 2024-02-23 | 2024-08-23 |
 | [milky moon](https://open.spotify.com/track/5Ro7Zhxns5rtyleQsffnkb) | [Tween City](https://open.spotify.com/artist/0tVWLGanEa906nosw2Uu9p) | [milky moon](https://open.spotify.com/album/4D2PsPJFSQwH63YitxHYNy) | 2:09 | 2024-01-19 |  |
 | [millions](https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt) | [heading\_\_](https://open.spotify.com/artist/3aE2ahDVUX4Pd0KKkWOfmS) | [outwards](https://open.spotify.com/album/00mqlceXIbKhc7ukOv5VOk) | 1:48 | 2022-03-14 | 2022-04-22 |
 | [minamii](https://open.spotify.com/track/58O3hjQt2WnaDxyxqtauH9) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [minamii](https://open.spotify.com/album/5h6hhA2XMVBxjjvZGB5CVb) | 1:57 | 2024-01-19 |  |

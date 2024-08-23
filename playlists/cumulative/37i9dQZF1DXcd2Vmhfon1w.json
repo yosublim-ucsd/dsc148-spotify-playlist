@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 158124,
       "name": "Callao",
       "url": "https://open.spotify.com/track/7h04t72CUmmDHKQQ47iWYC"
@@ -1967,6 +1967,28 @@
     },
     {
       "album": {
+        "name": "Corre",
+        "url": "https://open.spotify.com/album/5DfvQwHt7P6DZwLjGge1ot"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        },
+        {
+          "name": "Zaidbreak",
+          "url": "https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Corre",
+      "url": "https://open.spotify.com/track/6tQq6wuq7abELhlb6aTR1p"
+    },
+    {
+      "album": {
         "name": "Free Delivery",
         "url": "https://open.spotify.com/album/16a8H0Io8HZQQkkuMC0G1N"
       },
@@ -2092,7 +2114,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 101823,
       "name": "Dale Gas",
       "url": "https://open.spotify.com/track/7DG9SzakP8i8yYrokaK73f"
@@ -5169,6 +5191,24 @@
     },
     {
       "album": {
+        "name": "Mi Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2ugsYHc8s3NecntoBiYJV3"
+      },
+      "artists": [
+        {
+          "name": "Sh\u00e9",
+          "url": "https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379047,
+      "name": "Mi Pasi\u00f3n",
+      "url": "https://open.spotify.com/track/7z83prCfE5AYgJpO1hei2r"
+    },
+    {
+      "album": {
         "name": "Mientras Dorm\u00edas",
         "url": "https://open.spotify.com/album/2x4O1oHgHW91hFrLZQQmHh"
       },
@@ -6187,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Palabra de Pobre",
+        "url": "https://open.spotify.com/album/3J1gVZCquwt1JtMzBBStDH"
+      },
+      "artists": [
+        {
+          "name": "Sosad.97",
+          "url": "https://open.spotify.com/artist/7Dhtrm0gyXdmDvvc5zAh4w"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Palabra de Pobre",
+      "url": "https://open.spotify.com/track/3TqGx717X6t1DypzBzqXOY"
+    },
+    {
+      "album": {
         "name": "Palomas",
         "url": "https://open.spotify.com/album/0l9b51PHxcES9PAAlzBgh0"
       },
@@ -6850,7 +6908,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 232325,
       "name": "Se me caen las rimas",
       "url": "https://open.spotify.com/track/0Dug2B73xnHYByNJFDFlrL"
@@ -6872,7 +6930,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 135934,
       "name": "SEGUIR ADELANTE",
       "url": "https://open.spotify.com/track/0ocbVVRdXKNnl5lPhkuE7U"
@@ -7480,6 +7538,32 @@
       "duration_ms": 194666,
       "name": "Soy Un Cabr\u00f3n",
       "url": "https://open.spotify.com/track/5UlF27OaeC3fQRQnwJBpp1"
+    },
+    {
+      "album": {
+        "name": "PUZZLE",
+        "url": "https://open.spotify.com/album/2ZgTrnGYuosgwxFkGVfpw1"
+      },
+      "artists": [
+        {
+          "name": "Hazhe",
+          "url": "https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk"
+        },
+        {
+          "name": "Sr Anderson",
+          "url": "https://open.spotify.com/artist/5hw09CZxGpGySnE2i3jsbJ"
+        },
+        {
+          "name": "Buchita",
+          "url": "https://open.spotify.com/artist/1hVxSW7Wb0WtdKoLAn8pkv"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130992,
+      "name": "Stoopid",
+      "url": "https://open.spotify.com/track/0TRjTAEFlK1vn6Az1KUgBB"
     },
     {
       "album": {

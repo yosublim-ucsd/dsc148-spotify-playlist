@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Fernando Daniel, Sara Correia, Bispo
+> Uma playlist de pura alma pop! Foto: Nena
 
-87 songs - 4 hr 44 min
+88 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Mãe](https://open.spotify.com/track/7nPsaDN1eYi7QFslaVDSDY) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Canções Bonitas em Português Vol\. I](https://open.spotify.com/album/5L8p4ZsuhyPnoav0zmjW4B) | 3:45 | 2024-06-27 |  |
 | [Na Escola](https://open.spotify.com/track/4gKnmJl100iarWltT3dtyc) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE) | [Na Escola](https://open.spotify.com/album/4zfmpREr5skUcctg0j1XUp) | 4:26 | 2024-06-27 |  |
 | [Noite](https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Noite](https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci) | 3:31 | 2024-06-27 |  |
-| [Não Somos Iguais](https://open.spotify.com/track/6jjhceNhQRNbOu3EZ5LfIo) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Beco Com Saída](https://open.spotify.com/album/4tRPih3kZoV0bnKUm8AntL) | 3:05 | 2024-06-27 |  |
+| [Não Somos Iguais](https://open.spotify.com/track/6jjhceNhQRNbOu3EZ5LfIo) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Beco Com Saída](https://open.spotify.com/album/4tRPih3kZoV0bnKUm8AntL) | 3:05 | 2024-06-27 | 2024-08-23 |
 | [Não és tu, sou eu](https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Não és tu, sou eu](https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE) | 2:59 | 2024-06-27 |  |
+| [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 | 2024-08-22 |  |
 | [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 | 2024-07-18 |  |
 | [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 | 2024-07-27 |
 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 | 2024-07-04 |  |

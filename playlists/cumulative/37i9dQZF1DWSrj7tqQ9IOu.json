@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Mattyeux",
+  "description": "The best French indie tracks right now. Cover : Emma Hoet",
   "name": "Made in France",
   "tracks": [
     {
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 191936,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3CU1weXfgyyYe6sN1V50Ee"
@@ -3278,6 +3278,24 @@
       "duration_ms": 216413,
       "name": "Hell of a Woman",
       "url": "https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf"
+    },
+    {
+      "album": {
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs"
+      },
+      "artists": [
+        {
+          "name": "Tahiti 80",
+          "url": "https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156307,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD"
     },
     {
       "album": {
@@ -4458,6 +4476,24 @@
       "duration_ms": 231362,
       "name": "La lune",
       "url": "https://open.spotify.com/track/69UYh1FffcoJcadeOiIpOt"
+    },
+    {
+      "album": {
+        "name": "La Mer",
+        "url": "https://open.spotify.com/album/25M1bUCa54IDjgv1Axa6ay"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168251,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/1o0iPjV4Hb1zx845PUv2vp"
     },
     {
       "album": {
@@ -6538,7 +6574,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 173193,
       "name": "Palmiers rivi\u00e8res",
       "url": "https://open.spotify.com/track/7ySvklbmgkHsyrWwcHzY2U"

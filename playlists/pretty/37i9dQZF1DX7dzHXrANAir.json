@@ -1,6 +1,6 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Lara Somogyi.",
-  "num_followers": 111938,
+  "num_followers": 111969,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        },
+        {
+          "name": "Ate's Calling",
+          "url": "https://open.spotify.com/artist/6Fk5Kc6ctSb1K5lBxqgCx3"
+        }
+      ],
+      "duration_ms": 153120,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "L(oo)ping [Live with ONL]",
         "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 312653,
       "name": "Ghosts - Live with ONL",
       "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        },
-        {
-          "name": "Ate's Calling",
-          "url": "https://open.spotify.com/artist/6Fk5Kc6ctSb1K5lBxqgCx3"
-        }
-      ],
-      "duration_ms": 153120,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3wWixrFAYmJEDGwK7ipu3b"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
-        "url": "https://open.spotify.com/album/6mHpnizw0fgpwMZk00mM5Q"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 291529,
-      "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
-      "url": "https://open.spotify.com/track/6HdsRsuRAQdavFThQdfMpN"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Pavane (Sam Thompson Rework)",
         "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 323693,
       "name": "Pavane - Sam Thompson Rework",
       "url": "https://open.spotify.com/track/5Bu4lKPV75Qn9leB3AHaVM"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
+        "url": "https://open.spotify.com/album/6mHpnizw0fgpwMZk00mM5Q"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 291529,
+      "name": "Cort\u00e8ge (Niklas Paschburg Rework)",
+      "url": "https://open.spotify.com/track/6HdsRsuRAQdavFThQdfMpN"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Riva",
-        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 238602,
-      "name": "Riva",
-      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 267871,
       "name": "Enerhodar",
       "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Riva",
+        "url": "https://open.spotify.com/album/0awMKpZrc5zbUh4xJyct1w"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 238602,
+      "name": "Riva",
+      "url": "https://open.spotify.com/track/3KLQVpIZLWYXHv6vpC7wUO"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1655,6 +1655,30 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Circle 31",
+        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
+      },
+      "artists": [
+        {
+          "name": "Foam and Sand",
+          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        },
+        {
+          "name": "J Foerster",
+          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
+        }
+      ],
+      "duration_ms": 257314,
+      "name": "Circle 31",
+      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1683,30 +1707,6 @@
       "duration_ms": 233533,
       "name": "In the Soft Light",
       "url": "https://open.spotify.com/track/3XsCxRtDgJIFN02fcTBxme"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Circle 31",
-        "url": "https://open.spotify.com/album/2l743OeSKb0QxgyCxJtubk"
-      },
-      "artists": [
-        {
-          "name": "Foam and Sand",
-          "url": "https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd"
-        },
-        {
-          "name": "Robot Koch",
-          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
-        },
-        {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
-        }
-      ],
-      "duration_ms": 257314,
-      "name": "Circle 31",
-      "url": "https://open.spotify.com/track/4OqYtePk55zkJqHnbCo6AZ"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7J7EcsbN5jmvnoZHF4mDnN"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 214080,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/3QHtOPzh9pZVLa00qd9pWe"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+      },
+      "artists": [
+        {
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1851,18 +1851,26 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "All of Us",
-        "url": "https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK"
+        "name": "Philip Glass: Etude No.2 Reworked",
+        "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
       },
       "artists": [
         {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "AVR",
+          "url": "https://open.spotify.com/artist/3NHrUfg7qWM2H9UBwsr1bm"
+        },
+        {
+          "name": "Anna von Raison",
+          "url": "https://open.spotify.com/artist/2w099EQyT3f7SjtVfVLQX2"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Critical Spirit",
-      "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
+      "duration_ms": 196875,
+      "name": "Etude No.2 Reworked",
+      "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -1935,26 +1943,18 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "Philip Glass: Etude No.2 Reworked",
-        "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
+        "name": "All of Us",
+        "url": "https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "AVR",
-          "url": "https://open.spotify.com/artist/3NHrUfg7qWM2H9UBwsr1bm"
-        },
-        {
-          "name": "Anna von Raison",
-          "url": "https://open.spotify.com/artist/2w099EQyT3f7SjtVfVLQX2"
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Etude No.2 Reworked",
-      "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
+      "duration_ms": 289000,
+      "name": "Critical Spirit",
+      "url": "https://open.spotify.com/track/6dVEJCuNc1XnWn9S3yiksd"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
+      },
+      "artists": [
+        {
+          "name": "Nick Box",
+          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Wind",
+      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/4jSkTWLz7MKophq1YSdPH1"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 240810,
       "name": "Notturno",
       "url": "https://open.spotify.com/track/2jNfLVjnFpP9x1WdOfHErx"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/57oDRa3SH7adaetlWdCSjn"
-      },
-      "artists": [
-        {
-          "name": "Nick Box",
-          "url": "https://open.spotify.com/artist/6bC35LJGdHkMDZuVbg88l6"
-        }
-      ],
-      "duration_ms": 214153,
-      "name": "Wind",
-      "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2163,22 +2163,6 @@
       "duration_ms": 408480,
       "name": "Off the Rails - Live",
       "url": "https://open.spotify.com/track/0dHOX3Qq8d02ghAwaLu2lr"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Nocturne No. 03 (double, zero)",
-        "url": "https://open.spotify.com/album/59uOAs3J6YuEaq146dLFdZ"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lawrence Zappia",
-          "url": "https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf"
-        }
-      ],
-      "duration_ms": 179142,
-      "name": "Nocturne No. 03 (double, zero)",
-      "url": "https://open.spotify.com/track/4vUEXpriTW4gMXkE3GhDCT"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2259,6 +2243,22 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
+        "name": "Nocturne No. 03 (double, zero)",
+        "url": "https://open.spotify.com/album/59uOAs3J6YuEaq146dLFdZ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lawrence Zappia",
+          "url": "https://open.spotify.com/artist/0CuRSsgyTCUJQLXLoUpqpf"
+        }
+      ],
+      "duration_ms": 179142,
+      "name": "Nocturne No. 03 (double, zero)",
+      "url": "https://open.spotify.com/track/4vUEXpriTW4gMXkE3GhDCT"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
         "name": "Grafskrift",
         "url": "https://open.spotify.com/album/7HP2tqN6U7lpSmQHaldwZI"
       },
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "to be found",
-        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
-      },
-      "artists": [
-        {
-          "name": "Marius Nitzbon",
-          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "to be found",
-      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "P\u00e1th\u0113",
         "url": "https://open.spotify.com/album/2QwFSNzyM11u2GCpeY8aX9"
       },
@@ -2307,6 +2291,42 @@
       "duration_ms": 341013,
       "name": "P\u00e1th\u0113",
       "url": "https://open.spotify.com/track/0bbJefbHetNlo7n26Dq6E0"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "Where Do You Get Your Dreams From?",
+        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
+      },
+      "artists": [
+        {
+          "name": "Sven Laux",
+          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
+        },
+        {
+          "name": "Logic Moon",
+          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
+        }
+      ],
+      "duration_ms": 405333,
+      "name": "Where Do You Get Your Dreams From?",
+      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
+      },
+      "artists": [
+        {
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2371,26 +2391,6 @@
       "duration_ms": 230119,
       "name": "Unity - Mike Lazarev CrO2 Reduction",
       "url": "https://open.spotify.com/track/53tcYbPRX7nfLuAxcsJYj9"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
-        "name": "Where Do You Get Your Dreams From?",
-        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
-      },
-      "artists": [
-        {
-          "name": "Sven Laux",
-          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
-        },
-        {
-          "name": "Logic Moon",
-          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
-        }
-      ],
-      "duration_ms": 405333,
-      "name": "Where Do You Get Your Dreams From?",
-      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
     },
     {
       "added_at": "2024-07-26 12:23:01",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2024-07-26 12:23:01",
       "album": {
-        "name": "\u00e6vi",
-        "url": "https://open.spotify.com/album/1fNG8AKXTWhdcc8OWVMzFs"
-      },
-      "artists": [
-        {
-          "name": "Hugar",
-          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
-        }
-      ],
-      "duration_ms": 324160,
-      "name": "\u00e6vi",
-      "url": "https://open.spotify.com/track/1u1jonznjouksyPiaZlTmt"
-    },
-    {
-      "added_at": "2024-07-26 12:23:01",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 212042,
       "name": "Discovery",
       "url": "https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH"
+    },
+    {
+      "added_at": "2024-07-26 12:23:01",
+      "album": {
+        "name": "\u00e6vi",
+        "url": "https://open.spotify.com/album/1fNG8AKXTWhdcc8OWVMzFs"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "duration_ms": 324160,
+      "name": "\u00e6vi",
+      "url": "https://open.spotify.com/track/1u1jonznjouksyPiaZlTmt"
     },
     {
       "added_at": "2024-07-26 12:23:01",

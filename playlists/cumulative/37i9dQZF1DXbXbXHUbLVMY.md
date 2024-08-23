@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-225 songs - 9 hr 48 min
+226 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 | 2024-07-18 |  |
 | [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 |  |
+| [Følg lyden](https://open.spotify.com/track/2BcXZTKQvdV6wwLKycR3hx) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Pennen & Sverdet](https://open.spotify.com/album/5tyxwV6ZtkLLpt1a8RtFpa) | 2:11 | 2024-08-22 |  |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
 | [G63](https://open.spotify.com/track/3hjAxYipqWlqBqBdrQXEU5) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:42 | 2024-01-04 | 2024-04-19 |
 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-09-28 | 2024-01-08 |
@@ -189,7 +190,7 @@
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
 | [Skarpt Lys](https://open.spotify.com/track/5k5Z5TCOy6s0G48mm2X4Tb) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 3:03 | 2024-01-04 | 2024-02-09 |
 | [Skarpt Lys](https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Skarpt Lys](https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y) | 3:04 | 2023-10-12 | 2023-11-18 |
-| [Skulle bare visst \(feat\. Isah\)](https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 3:51 | 2024-06-06 |  |
+| [Skulle bare visst \(feat\. Isah\)](https://open.spotify.com/track/7mFLCn9SG7l30kxWkwRkbG) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Skulle Bare Visst](https://open.spotify.com/album/32UzzFs5NTcA5QRoc9b6sv) | 3:51 | 2024-06-06 | 2024-08-23 |
 | [Slipp](https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Slipp](https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By) | 2:59 | 2024-03-07 |  |
 | [Slipp deg løs](https://open.spotify.com/track/6xMpDmxF3jsTrBBKuYFmJq) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Slipp deg løs](https://open.spotify.com/album/5FVmiogqIdetltYzFAj67K) | 2:03 | 2023-11-09 | 2024-06-23 |
 | [Snop](https://open.spotify.com/track/0oB7it0HPFuHa1SBkdSx1p) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Martin Hazy](https://open.spotify.com/artist/5jVrCdKOLz3htSyGqhqp8b) | [MEST ELSKET & Hatet](https://open.spotify.com/album/4IsWLM8UTT7tKWkoc8BhY4) | 3:13 | 2024-01-18 | 2024-02-19 |

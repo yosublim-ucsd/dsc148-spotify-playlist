@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "A Sky Full of Stars",
+        "url": "https://open.spotify.com/album/7sEcu5WPzy4L3qUz9DcbQ0"
+      },
+      "artists": [
+        {
+          "name": "Perfect Perspectives",
+          "url": "https://open.spotify.com/artist/21UnmryT9an5MpdOWfRSVe"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268678,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/3zQy5XQgh7u50hCCZ6ZGz1"
+    },
+    {
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 144615,
       "name": "BODO MIT DEM BAGGER",
       "url": "https://open.spotify.com/track/0arHbYDi0WzKVHUsuG55I1"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/66nCJENa1SuK9vxyYJ7gzO"
@@ -9238,7 +9256,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 195349,
       "name": "Missili",
       "url": "https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"
@@ -10206,7 +10224,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
@@ -11180,7 +11198,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 176105,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
@@ -11878,6 +11896,32 @@
       "duration_ms": 176232,
       "name": "Scheiss Egal - District Red Remix",
       "url": "https://open.spotify.com/track/0SoO5uCu8WIju0vzKQIX5q"
+    },
+    {
+      "album": {
+        "name": "Scheiss Egal (District Red Remix)",
+        "url": "https://open.spotify.com/album/3IGtzQfl2cXi9pgIDT3JYf"
+      },
+      "artists": [
+        {
+          "name": "Stromschienen Syndikat",
+          "url": "https://open.spotify.com/artist/77oJMfnRNpd8EsawikRY8u"
+        },
+        {
+          "name": "District Red",
+          "url": "https://open.spotify.com/artist/6vE6w11R6JasBRdD6juhqO"
+        },
+        {
+          "name": "N/CK",
+          "url": "https://open.spotify.com/artist/4tlSw8J2PjAH5tWJKhiiZR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176232,
+      "name": "Scheiss Egal - District Red Remix",
+      "url": "https://open.spotify.com/track/3LDWTfooMxOcQBP8WZzToC"
     },
     {
       "album": {

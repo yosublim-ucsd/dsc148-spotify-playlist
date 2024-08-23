@@ -1,12 +1,12 @@
 {
   "description": "The best NCS songs that are copyright free and safe music for gaming, live streaming, studying. Official playlist from NoCopyrightSounds. Cover: Don Diablo",
-  "num_followers": 733071,
+  "num_followers": 733051,
   "original_name": "NCS Releases",
   "owner": {
     "name": "NoCopyrightSounds",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAXIn+cYfM5wnQHn069IEcsksnlON4U",
+  "snapshot_id": "AAAXJePDdwnlA7NxIDilPnaBziiB1p7i",
   "tracks": [
     {
       "added_at": "2024-07-30 09:51:19",
@@ -177,24 +177,20 @@
       "url": "https://open.spotify.com/track/0gYS6XPKlUbOFPYibwW58o"
     },
     {
-      "added_at": "2024-08-08 11:00:52",
+      "added_at": "2024-08-22 12:15:09",
       "album": {
-        "name": "Shine (Always Mirin Remix)",
-        "url": "https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN"
+        "name": "AIN'T MISS A CALL",
+        "url": "https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU"
       },
       "artists": [
         {
-          "name": "Spektrem",
-          "url": "https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV"
-        },
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Shine - Always Mirin Remix",
-      "url": "https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F"
+      "duration_ms": 154100,
+      "name": "AIN'T MISS A CALL",
+      "url": "https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ"
     },
     {
       "added_at": "2024-08-20 15:35:28",
@@ -315,6 +311,26 @@
       "duration_ms": 173144,
       "name": "Puzzle - 2024 Edit",
       "url": "https://open.spotify.com/track/7FyXbLwHkDF0HZl36wvRqV"
+    },
+    {
+      "added_at": "2024-08-08 11:00:52",
+      "album": {
+        "name": "Shine (Always Mirin Remix)",
+        "url": "https://open.spotify.com/album/0WQ9UjPuP0EeZxifMZQAtN"
+      },
+      "artists": [
+        {
+          "name": "Spektrem",
+          "url": "https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV"
+        },
+        {
+          "name": "Always Mirin",
+          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Shine - Always Mirin Remix",
+      "url": "https://open.spotify.com/track/3E4XupKOGXm97jh6FyjN9F"
     },
     {
       "added_at": "2024-07-30 09:51:19",

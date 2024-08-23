@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 523922,
+  "num_followers": 524285,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Network - taken from Superstar",
         "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Episode ll",
         "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
       },
@@ -415,26 +415,6 @@
       "duration_ms": 405693,
       "name": "Played-A-Live (The Bongo Song)",
       "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2021-10-06 04:50:26",
-      "album": {
-        "name": "Man On The Moon: The End Of Day (Int'l Version)",
-        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -459,6 +439,26 @@
       "duration_ms": 204093,
       "name": "Dance Wiv Me - Radio Edit",
       "url": "https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3"
+    },
+    {
+      "added_at": "2021-10-06 04:50:26",
+      "album": {
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Payback Time",
+        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
+      },
+      "artists": [
+        {
+          "name": "DJ Aligator",
+          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
+        }
+      ],
+      "duration_ms": 223800,
+      "name": "The Whistle Song",
+      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Twenty",
@@ -1291,22 +1307,6 @@
       "duration_ms": 210453,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/3gZqDJkMZipOYCRjlHWgOV"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Payback Time",
-        "url": "https://open.spotify.com/album/6U0i1B1rbF9Byy4rlfx9Na"
-      },
-      "artists": [
-        {
-          "name": "DJ Aligator",
-          "url": "https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6"
-        }
-      ],
-      "duration_ms": 223800,
-      "name": "The Whistle Song",
-      "url": "https://open.spotify.com/track/4YnAKHP8pUPeaOov12tljh"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH"
+      },
+      "artists": [
+        {
+          "name": "Sidney Samson",
+          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
+        }
+      ],
+      "duration_ms": 145764,
+      "name": "Riverside - Radio Mix",
+      "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Noah's Arc Soundtrack",
         "url": "https://open.spotify.com/album/6KTtZ9lo4BFO4yYsesb7fK"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 200400,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6P3TrUT5OBuyrBYGrHo525"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/02WMzDSTQBHly9uwjRRkeH"
-      },
-      "artists": [
-        {
-          "name": "Sidney Samson",
-          "url": "https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g"
-        }
-      ],
-      "duration_ms": 145764,
-      "name": "Riverside - Radio Mix",
-      "url": "https://open.spotify.com/track/3YwOh5FSxwhRnvO1yGduEi"
     },
     {
       "added_at": "2021-04-29 18:40:15",

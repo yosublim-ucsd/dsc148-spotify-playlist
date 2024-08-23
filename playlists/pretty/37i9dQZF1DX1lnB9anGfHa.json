@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 226492,
+  "num_followers": 226609,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsTwMQAAAABRo+IAEtpDNYbJBLnhO3HP",
+  "snapshot_id": "Zsfo0wAAAAAS2y6vNgaNUigmWSjGUKIX",
   "tracks": [
     {
       "added_at": "2024-06-28 00:01:00",
@@ -113,20 +113,20 @@
       "url": "https://open.spotify.com/track/5LQYVH9M3TQ8tfPUPpruOr"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
+      "added_at": "2024-08-02 16:02:46",
       "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31"
+        "name": "Pt. II",
+        "url": "https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl"
       },
       "artists": [
         {
-          "name": "Vera Di Lecce",
-          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
         }
       ],
-      "duration_ms": 238095,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu"
+      "duration_ms": 199285,
+      "name": "ANIMAL SEEKING",
+      "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -145,24 +145,20 @@
       "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
+      "added_at": "2024-08-23 01:41:39",
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Get Still",
+        "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
         }
       ],
-      "duration_ms": 221199,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+      "duration_ms": 222561,
+      "name": "Get Still",
+      "url": "https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -217,40 +213,72 @@
       "url": "https://open.spotify.com/track/2vP6Rn1x35ybWBctcdooEF"
     },
     {
-      "added_at": "2024-06-28 00:01:00",
+      "added_at": "2024-08-23 01:23:47",
       "album": {
-        "name": "Marte",
-        "url": "https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s"
+        "name": "Unworthy Praise",
+        "url": "https://open.spotify.com/album/1Nub6Wwu3Fr1c5sC2YUndT"
       },
       "artists": [
         {
-          "name": "Mercedes Nasta",
-          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
-        },
-        {
-          "name": "Rodrigo Blanco",
-          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
+          "name": "Lila Tirando a Violeta",
+          "url": "https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx"
         }
       ],
-      "duration_ms": 179733,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG"
+      "duration_ms": 212990,
+      "name": "Unworthy Praise",
+      "url": "https://open.spotify.com/track/1ILeR76sajhQsCN8KdoWQw"
     },
     {
-      "added_at": "2024-08-02 16:02:46",
+      "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Pt. II",
-        "url": "https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 199285,
-      "name": "ANIMAL SEEKING",
-      "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
+    },
+    {
+      "added_at": "2024-08-23 01:23:47",
+      "album": {
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
+    },
+    {
+      "added_at": "2024-08-12 18:02:54",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -271,22 +299,6 @@
       "duration_ms": 314933,
       "name": "A Soul With No King - Remix (feat. NATURE)",
       "url": "https://open.spotify.com/track/24OMVt6uyLUl7Dv4JYp4yH"
-    },
-    {
-      "added_at": "2024-08-12 18:02:54",
-      "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
-      },
-      "artists": [
-        {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -339,6 +351,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Loba",
         "url": "https://open.spotify.com/album/595FjkgYcTLaN4Ux7nPx3J"
       },
@@ -359,38 +387,6 @@
       "duration_ms": 221379,
       "name": "Loba",
       "url": "https://open.spotify.com/track/4iurqgyrBFYiCZvMCNrM9B"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Lovegaze",
-        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
-      },
-      "artists": [
-        {
-          "name": "Nailah Hunter",
-          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
-        }
-      ],
-      "duration_ms": 291771,
-      "name": "Lovegaze",
-      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -423,22 +419,6 @@
       "duration_ms": 182153,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "SPIRA",
-        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
-      },
-      "artists": [
-        {
-          "name": "Daniela Pes",
-          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "Illa Sera",
-      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -507,6 +487,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "SPIRA",
+        "url": "https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H"
+      },
+      "artists": [
+        {
+          "name": "Daniela Pes",
+          "url": "https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "Illa Sera",
+      "url": "https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -539,6 +535,22 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 308186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -599,18 +611,18 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff"
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 308186,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -659,22 +671,6 @@
       "duration_ms": 252000,
       "name": "Drum Jump",
       "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "The Best Sea",
-        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "The Best Sea",
-      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -799,22 +795,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Tunnel Lights",
         "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
       },
@@ -831,6 +811,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "After Dark 4",
         "url": "https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M"
       },
@@ -843,6 +839,38 @@
       "duration_ms": 208000,
       "name": "Afterburn",
       "url": "https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/6X6VBlL0Rsdl0JN9mVrK31"
+      },
+      "artists": [
+        {
+          "name": "Vera Di Lecce",
+          "url": "https://open.spotify.com/artist/2J86M7FAdzuVVYL5IMJYZZ"
+        }
+      ],
+      "duration_ms": 238095,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/6CYh4lWqJ0RzLiDn5BAYyu"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -867,18 +895,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+        "name": "Marte",
+        "url": "https://open.spotify.com/album/4ytkKIoWlf8cMAznG8h83s"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
+        },
+        {
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
+      "duration_ms": 179733,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/0O3AWOwZa4KemTGCVbelEG"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -895,6 +927,22 @@
       "duration_ms": 277726,
       "name": "Tectonic",
       "url": "https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Lovegaze",
+        "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "duration_ms": 291771,
+      "name": "Lovegaze",
+      "url": "https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -967,22 +1015,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "INVERTIDO",
-        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
-      },
-      "artists": [
-        {
-          "name": "Marianne",
-          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
-        }
-      ],
-      "duration_ms": 293370,
-      "name": "VOAR",
-      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "I Hope You Can Forgive Me",
         "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
@@ -995,6 +1027,22 @@
       "duration_ms": 55860,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "INVERTIDO",
+        "url": "https://open.spotify.com/album/0Dl0UZR66m6XsLPv2gpGuB"
+      },
+      "artists": [
+        {
+          "name": "Marianne",
+          "url": "https://open.spotify.com/artist/1dGNGqFBACsTB9ctNTUOme"
+        }
+      ],
+      "duration_ms": 293370,
+      "name": "VOAR",
+      "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1031,6 +1079,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Vajranala",
+        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
+      },
+      "artists": [
+        {
+          "name": "Senyawa",
+          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
+        }
+      ],
+      "duration_ms": 522000,
+      "name": "Vajranala",
+      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "The Order of the Rain",
         "url": "https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK"
       },
@@ -1063,22 +1127,6 @@
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Vajranala",
-        "url": "https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO"
-      },
-      "artists": [
-        {
-          "name": "Senyawa",
-          "url": "https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "Vajranala",
-      "url": "https://open.spotify.com/track/0262OfotysNpIAs6R1meEI"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1147,22 +1195,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "lover's spit plays in the background",
-        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "lover's spit plays in the background",
-      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Image Langage",
         "url": "https://open.spotify.com/album/6S6Dab2CiNgbnTf40pCjQy"
       },
@@ -1199,6 +1231,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "lover's spit plays in the background",
+        "url": "https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "lover's spit plays in the background",
+      "url": "https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Life of the Forbidden",
         "url": "https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R"
       },
@@ -1231,54 +1279,6 @@
       "duration_ms": 239360,
       "name": "Obscure Paliteo",
       "url": "https://open.spotify.com/track/2FKHoqbxcIu2NONNgxaON9"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Wanci",
-        "url": "https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS"
-      },
-      "artists": [
-        {
-          "name": "Tarawangsawelas",
-          "url": "https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il"
-        }
-      ],
-      "duration_ms": 344074,
-      "name": "Selalu",
-      "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Dois Litorais",
-        "url": "https://open.spotify.com/album/7kNjniRhZmygaxlJoe7AFw"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1 Portugal",
-          "url": "https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP"
-        }
-      ],
-      "duration_ms": 520719,
-      "name": "Dois Litorais",
-      "url": "https://open.spotify.com/track/21YtqGhETmeKGMI0iZtA34"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Cosmorama",
-        "url": "https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq"
-      },
-      "artists": [
-        {
-          "name": "Beautify Junkyards",
-          "url": "https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl"
-        }
-      ],
-      "duration_ms": 282863,
-      "name": "A Garden by the Sea",
-      "url": "https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu"
     }
   ],
   "unique_name": "Terra Incognita",

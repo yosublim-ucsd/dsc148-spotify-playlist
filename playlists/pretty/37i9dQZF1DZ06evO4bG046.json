@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
-  "num_followers": 33317,
+  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
+  "num_followers": 33324,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsPcgAAAAAA/jPqLoGURMRk15NvJsuPU",
+  "snapshot_id": "ZsUuAAAAAAAGI7AzZpgAK/eppbYS+HTL",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 309048,
-      "name": "En la Cumbre de un Cerro",
-      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 309048,
+      "name": "En la Cumbre de un Cerro",
+      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
-        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 276886,
-      "name": "P\u00e1jaro Errante (En Vivo) - 2024 Remasterizado",
-      "url": "https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+        "name": "Los Jaivas En Vivo: Gira Chile '88 (2024 Remasterizado)",
+        "url": "https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
+      "duration_ms": 276886,
+      "name": "P\u00e1jaro Errante (En Vivo) - 2024 Remasterizado",
+      "url": "https://open.spotify.com/track/25kgsjn8FoXusT6TO9HIRQ"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 415653,
       "name": "Cerro de la Virgen",
       "url": "https://open.spotify.com/track/1H3lfORDVEnJMCSedVLyP2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
     },
     {
       "added_at": null,

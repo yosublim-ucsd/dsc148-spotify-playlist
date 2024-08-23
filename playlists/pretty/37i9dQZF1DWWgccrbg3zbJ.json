@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 313361,
+  "num_followers": 313812,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-08 08:03:54",
       "album": {
+        "name": "O Amor, o Sorriso e a Flor",
+        "url": "https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 87666,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP"
+    },
+    {
+      "added_at": "2024-07-08 08:03:54",
+      "album": {
         "name": "Joao",
         "url": "https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 168226,
       "name": "Pela luz dos olhos teus",
       "url": "https://open.spotify.com/track/6tyYK7y3kboS7GQulNtwo5"
-    },
-    {
-      "added_at": "2024-07-08 08:03:54",
-      "album": {
-        "name": "O Amor, o Sorriso e a Flor",
-        "url": "https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 87666,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP"
     },
     {
       "added_at": "2024-07-08 08:03:54",

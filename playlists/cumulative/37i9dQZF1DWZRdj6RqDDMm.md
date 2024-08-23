@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi
 
-323 songs - 19 hr 5 min
+324 songs - 19 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,11 +196,12 @@
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-10-20 |  |
 | [Nazarene](https://open.spotify.com/track/0Xgfoy0VTeCaR7jy8mzpQj) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:51 | 2023-10-20 |  |
 | [Nazarene](https://open.spotify.com/track/5DAi3gOoRMUU2Jn6QkyU1e) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Nazarene](https://open.spotify.com/album/6r98akghS6z03kYuYkO1oZ) | 2:51 | 2023-10-20 | 2023-11-03 |
+| [Never Find](https://open.spotify.com/track/5tTMstPDIaJhiJfkT6hICS) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Never Find](https://open.spotify.com/album/7F8fxwQCce2toBYI1NBPxK) | 4:00 | 2024-08-23 |  |
 | [Never Late](https://open.spotify.com/track/5hjmjT8hSCkX6NoduqAQay) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy) | [Never Late](https://open.spotify.com/album/4JRU7wu4HT7e0TAqyzdz6v) | 3:31 | 2024-03-08 | 2024-04-06 |
 | [Never Let You Go](https://open.spotify.com/track/5nC9epFOVVIrsm5w8nY10D) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Never Let You Go](https://open.spotify.com/album/1SAD4f89icou1Sel6Q2FJT) | 3:37 | 2024-06-07 |  |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
 | [No One](https://open.spotify.com/track/4VZGwCxvbOcIJRGnGdNs3L) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [No One](https://open.spotify.com/album/2IB0lObVTyYqgyjIu2RstK) | 2:54 | 2024-06-28 | 2024-08-16 |
-| [No Time](https://open.spotify.com/track/4ttTLIBiXMXmJrzSKFOoJw) | [Grinskhy Collective](https://open.spotify.com/artist/5xgRpLc3oN21Fupc3fm0dO), [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [No Time](https://open.spotify.com/album/2zZ913bkI7ZzzUnJTTjmyV) | 3:40 | 2024-06-07 |  |
+| [No Time](https://open.spotify.com/track/4ttTLIBiXMXmJrzSKFOoJw) | [Grinskhy Collective](https://open.spotify.com/artist/5xgRpLc3oN21Fupc3fm0dO), [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [No Time](https://open.spotify.com/album/2zZ913bkI7ZzzUnJTTjmyV) | 3:40 | 2024-06-07 | 2024-08-23 |
 | [No Trouble](https://open.spotify.com/track/3boAIpm9pD0KF6IEJQHjBX) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [No Trouble](https://open.spotify.com/album/0UiTQ1UQf6UmwUjvixptVB) | 2:50 | 2023-10-20 | 2024-04-06 |
 | [Not Alone](https://open.spotify.com/track/4F9M0pKsSgkJIpyWRxvF9Y) | [Mbonelyn](https://open.spotify.com/artist/3romvxmdAxsvhY5vhf5NWE), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3) | [Not Alone](https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz) | 2:46 | 2023-12-01 | 2024-01-26 |
 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 | 2024-01-26 | 2024-03-29 |

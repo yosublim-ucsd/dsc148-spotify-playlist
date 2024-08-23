@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Bonobo",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Mura Masa",
   "name": "Altar JP",
   "tracks": [
     {
@@ -264,7 +264,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 293124,
       "name": "A Little Bit Further (Chrome Sparks Remix)",
       "url": "https://open.spotify.com/track/0ZOcp6c2qoxOmdM04ufpG5"
@@ -1738,6 +1738,24 @@
       "duration_ms": 258346,
       "name": "Bonfire - Junya Kishino Remix",
       "url": "https://open.spotify.com/track/2Y5YkeA3F5FQJiDOBGVCWH"
+    },
+    {
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "album": {
@@ -7949,6 +7967,28 @@
     },
     {
       "album": {
+        "name": "AKIRA REMIX",
+        "url": "https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B"
+      },
+      "artists": [
+        {
+          "name": "\u82b8\u80fd\u5c71\u57ce\u7d44",
+          "url": "https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx"
+        },
+        {
+          "name": "\u4e45\u4fdd\u7530\u9ebb\u7434",
+          "url": "https://open.spotify.com/artist/0YgNTrOUT8pFW7HehCR5mI"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "KANEDA [\u91d1\u7530] (Remixed by \u4e45\u4fdd\u7530\u9ebb\u7434)",
+      "url": "https://open.spotify.com/track/1C3MMuybGUcpDXckoKY5rx"
+    },
+    {
+      "album": {
         "name": "Karaoke Song",
         "url": "https://open.spotify.com/album/5TTTrEZ7oNZK10qmZp7MWw"
       },
@@ -8646,7 +8686,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 372837,
       "name": "Liturgies - Dub",
       "url": "https://open.spotify.com/track/3nx3rzvTlEUXGxfu4P7hlw"
@@ -10422,7 +10462,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 191278,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/2RU6sr7q3f8eCPGSTHrKPW"
@@ -10680,6 +10720,24 @@
       "duration_ms": 142280,
       "name": "oceanic (feat. Vagabon) [rebirth]",
       "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
+    },
+    {
+      "album": {
+        "name": "Ocotillo",
+        "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
     },
     {
       "album": {
@@ -12020,7 +12078,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 357517,
       "name": "Realise",
       "url": "https://open.spotify.com/track/3oU4TS377kyUrtrbZCSwtB"
@@ -13242,6 +13300,24 @@
       "duration_ms": 307000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/00Lyka978gAHTadhygdl0R"
+    },
+    {
+      "album": {
+        "name": "Curve 1",
+        "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226135,
+      "name": "Shuf (Adore U)",
+      "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
     },
     {
       "album": {
@@ -15584,7 +15660,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 208636,
       "name": "two-seater (348)",
       "url": "https://open.spotify.com/track/2iKOZYmYdIIv7Qj2xGy47J"
@@ -15610,6 +15686,28 @@
       "duration_ms": 144500,
       "name": "TYO LDN BROS",
       "url": "https://open.spotify.com/track/0qAcVDEhXIHDJAgVNtXMho"
+    },
+    {
+      "album": {
+        "name": "TYPICAL!",
+        "url": "https://open.spotify.com/album/0r2o1cdpkQb4SERIdgJ7zk"
+      },
+      "artists": [
+        {
+          "name": "TOWA TEI",
+          "url": "https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD"
+        },
+        {
+          "name": "Takkyu Ishino",
+          "url": "https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177532,
+      "name": "TYPICAL!",
+      "url": "https://open.spotify.com/track/4mOCLJjpD6Q2otZbjQZob6"
     },
     {
       "album": {

@@ -1217,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Girls Don't Cheat",
+        "url": "https://open.spotify.com/album/0gYqVCe2CIZ7S6IqBNU1MH"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Girls Don\u2019t Cheat",
+      "url": "https://open.spotify.com/track/3YH35thx08eWvn6u6rWnvN"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo"
       },

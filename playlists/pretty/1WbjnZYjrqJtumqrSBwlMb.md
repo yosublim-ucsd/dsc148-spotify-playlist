@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 973 songs - 2 day 11 hr 47 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 974 songs - 2 day 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -981,5 +981,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 971 | [The Dreamers](https://open.spotify.com/track/4reynFf5XLDuBHw4pFemEw) | [Gold Celeste](https://open.spotify.com/artist/0k7JGk03ntbFvfURT2hWmu) | [The Glow](https://open.spotify.com/album/45ghFsmrFTp9V6Q49grJlx) | 4:46 |
 | 972 | [Carbon Capture](https://open.spotify.com/track/3mhwZ4UDrfyW3ZyrGvAH04) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 |
 | 973 | [Satellite](https://open.spotify.com/track/5bW2vSniuAqxj4BW6O0DmD) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Easy Listening](https://open.spotify.com/album/7tC9rKANwW84UPxA22zbzo) | 2:59 |
+| 974 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 
-Snapshot ID: `AAAImGnxTdAL44j5PvhlPWJYl2fLnQDd`
+Snapshot ID: `AAAImYa0bd6Rz9iA+YMKxT5QIDhM+3Ju`

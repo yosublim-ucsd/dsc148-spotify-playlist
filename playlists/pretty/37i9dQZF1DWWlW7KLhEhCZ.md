@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Boaventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,977 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,974 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 48 | [Noite Vira Dia, Hater Vira Fã](https://open.spotify.com/track/5CUPkqwZCqWRwE4tpyo27W) | [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66) | [Como Voar Acima Do Céu](https://open.spotify.com/album/4vOLRLz4ku2pfXv5j3qylm) | 2:45 |
 | 49 | [Ziriguidum](https://open.spotify.com/track/6k1SBH0cjvPbEhyT61w1Xl) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Ziriguidum](https://open.spotify.com/album/1NAIBH6RXrTaYAf6Q4G336) | 2:25 |
 | 50 | [Bellingham](https://open.spotify.com/track/3GTpSnNTSh4QOKE9aM8gmI) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Bellingham](https://open.spotify.com/album/77tDGgpRLeX6TSXjtgRZOs) | 1:53 |
-| 51 | [10 NAMORADAS](https://open.spotify.com/track/4vSZRM4jGhGWmjG1gXlfrU) | [Jimyy](https://open.spotify.com/artist/5Ab6bK59NFkGzMQbaHkdmC), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [10 NAMORADAS](https://open.spotify.com/album/0SWR2W3Yo5gEN4LjbtdbQN) | 2:46 |
+| 51 | [10 NAMORADAS.](https://open.spotify.com/track/4vSZRM4jGhGWmjG1gXlfrU) | [Jimyy](https://open.spotify.com/artist/5Ab6bK59NFkGzMQbaHkdmC), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [10 NAMORADAS.](https://open.spotify.com/album/0SWR2W3Yo5gEN4LjbtdbQN) | 2:46 |
 | 52 | [Maconha & Sexo](https://open.spotify.com/track/2eJ4Mz7lHfBaDzVl2WPwgR) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Maconha & Sexo](https://open.spotify.com/album/7v3yyRhKxvxtDdT6263Jf7) | 2:10 |
 | 53 | [Brotou uma P!ranha](https://open.spotify.com/track/3VqAUdeNOHJqheiVit9gyl) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Brotou uma P!ranha](https://open.spotify.com/album/6jX0Nz2S4cq3DQlRFohE5u) | 2:40 |
 | 54 | [Oh Mãe](https://open.spotify.com/track/1wJ1pRqkbtwdFKjH87t6FD) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Oh Mãe](https://open.spotify.com/album/61m0wlWSuEHtWFLJugcHjo) | 2:48 |

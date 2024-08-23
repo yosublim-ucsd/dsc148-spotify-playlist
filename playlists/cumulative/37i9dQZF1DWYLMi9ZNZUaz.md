@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Andree Right Hand
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-214 songs - 12 hr 31 min
+215 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Calm Down](https://open.spotify.com/track/3UCDIDbwlglyzkWtIxVJ0Z) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [421](https://open.spotify.com/album/0i3IirLVHTlg7JqMvv45tE) | 3:18 | 2024-07-11 | 2024-07-17 |
 | [CATCH ME IF YOU CAN \(feat\. Quang Hùng MasterD, Negav, Công Dương & Nicky\)](https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quang Hùng MasterD](https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Công Dương](https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex), [NICKY](https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw) | [ANH TRAI "SAY HI", Tập 4](https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk) | 4:16 | 2024-08-16 |  |
 | [Chim Sẻ & Dâu Tây \- Stage Version](https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s) | [Dế Choắt \(DC\)](https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT) | [1St.](https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7) | 2:05 | 2024-01-23 | 2024-02-03 |
-| [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 | 2024-06-12 |  |
+| [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 | 2024-06-12 | 2024-08-23 |
 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 | 2023-10-19 | 2024-04-19 |
 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 | 2023-10-19 |  |
 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 | 2023-10-19 |  |
@@ -151,6 +151,7 @@
 | [Okeokeoke](https://open.spotify.com/track/3nw5vYaH4qVx8joq3qhtNx) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Okeokeoke](https://open.spotify.com/album/6jz6E152RTO3RfyjmdpAri) | 2:19 | 2023-10-19 | 2024-04-19 |
 | [PHI TIÊU](https://open.spotify.com/track/7xQgNShMxGfs2fxNiBzevP) | [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [PHI TIÊU](https://open.spotify.com/album/000WXONnBIeHS0wGFARHcJ) | 3:18 | 2024-02-18 | 2024-03-01 |
 | [pho real](https://open.spotify.com/track/0OIed6UFpfT2nW4BffD7Js) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [pho real](https://open.spotify.com/album/2vCSyr1hNfzQqOcuHXD8uD) | 2:46 | 2024-02-29 | 2024-06-13 |
+| [Phong Cách](https://open.spotify.com/track/2dJsq7g1lxB60OsaoOzO1o) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [LOPE PHAM](https://open.spotify.com/artist/3n56g8JEOhO9CwLHpfWgie) | [Phong Cách](https://open.spotify.com/album/1EC0kobfCkQ4D0pIjpQLDF) | 2:40 | 2024-08-22 |  |
 | [Phong Long](https://open.spotify.com/track/3A0QLMQn0XqmCrJMInLhYg) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d) | [Phong Long](https://open.spotify.com/album/5AHGKEuf59fdL0sAkxJwmY) | 4:41 | 2024-01-24 | 2024-03-21 |
 | [Phù Hộ Cho Con](https://open.spotify.com/track/6Rah0twMGdoudVfDpscqpo) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Dick](https://open.spotify.com/artist/1tikl40deDgJWS57GTKiVh), [Hipz](https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0) | [Phù Hộ Cho Con](https://open.spotify.com/album/1RFTGVotyaIg4gBxNeuruz) | 4:20 | 2024-08-10 | 2024-08-16 |
 | [QV3D](https://open.spotify.com/track/44v8VGC9c2Jg59M8cJg3YZ) | [LK](https://open.spotify.com/artist/6S0JgJU2l6ds1EhZUJMQFk), [Rich Choi](https://open.spotify.com/artist/3xIg04BrQzREY9e2mQxzAf), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [QV3D](https://open.spotify.com/album/4e0IStNCwdllLf3YsFOd1I) | 4:16 | 2023-12-11 | 2023-12-16 |

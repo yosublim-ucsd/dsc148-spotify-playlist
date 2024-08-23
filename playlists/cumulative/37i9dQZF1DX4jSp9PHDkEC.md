@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-570 songs - 1 day 14 hr 27 min
+571 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Hunting Shadows \(Assassin’s Creed\)](https://open.spotify.com/track/2RfxehhGQvRSUycsyt8cBF) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Hunting Shadows \(Assassin’s Creed\)](https://open.spotify.com/album/63A7EhVaNN44wmUHum8lGx) | 2:56 | 2023-01-17 |  |
 | [Hurts to Love](https://open.spotify.com/track/0fiIn2xXLYtvYU7De5bZNH) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 4:05 | 2023-01-17 |  |
 | [I Don't Want To Grow Up \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5wDgkEF2poVKHhugWqCblP) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/35m5vGnJDBPYAWyiYLH3cS) | 3:07 | 2023-01-17 |  |
+| [I Found You Out](https://open.spotify.com/track/49ezA0FoezKam78Q9ox8LR) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O) | [I Found You Out](https://open.spotify.com/album/3zqN5OiRMyzX54xs0hZkkg) | 3:12 | 2024-08-23 |  |
 | [I Just Want to Make It New With You](https://open.spotify.com/track/5bWho8zTNyxjbxVZPacKaL) | [Soko](https://open.spotify.com/artist/4Q3f2YYH4gQxWFS3WY5G3j) | [I Thought I Was an Alien](https://open.spotify.com/album/5j1fOdeSPZqREZNTi3n0Hg) | 2:19 | 2023-01-17 | 2024-04-19 |
 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 | 2023-01-17 |  |
 | [I Ran with You](https://open.spotify.com/track/6jLB84m87S876ZPREIZ4bB) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Angel in Disguise](https://open.spotify.com/album/1q9lxxSQmnnSMZ9b1CJelm) | 3:10 | 2023-01-17 | 2024-04-19 |
@@ -268,7 +269,7 @@
 | [Jennifer](https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Morningside](https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB) | 4:00 | 2023-01-17 | 2024-04-19 |
 | [Jeune](https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [The Middle of Nowhere](https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l) | 4:18 | 2023-01-17 | 2024-04-19 |
 | [John Wayne Gacy, Jr.](https://open.spotify.com/track/2R3g9k14OAcUzZYwo90Tx6) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 3:19 | 2023-01-17 | 2024-04-19 |
-| [John Wayne Gacy, Jr.](https://open.spotify.com/track/2gFBh7NnEfSeBoZZDB5d2C) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 3:19 | 2023-01-17 |  |
+| [John Wayne Gacy, Jr.](https://open.spotify.com/track/2gFBh7NnEfSeBoZZDB5d2C) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3) | 3:19 | 2023-01-17 | 2024-08-23 |
 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 | 2023-01-17 |  |
 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 | 2023-01-17 | 2024-04-19 |
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2023-01-17 |  |

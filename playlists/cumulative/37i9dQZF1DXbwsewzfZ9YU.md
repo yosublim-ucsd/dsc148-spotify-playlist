@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ GEL
 
-280 songs - 11 hr 16 min
+281 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 | 2023-04-21 | 2023-07-18 |
 | [Never Die](https://open.spotify.com/track/2lMAePNPlYHtznSeEyvK4g) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp), [Sam Trapkin](https://open.spotify.com/artist/6We383NrzoPsEvElu6IeK2), [Justice Tripp](https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2) | [Outcry](https://open.spotify.com/album/1IKjEX9ixB5ZmNqBlS31fW) | 2:13 | 2024-01-30 | 2024-04-27 |
 | [Nevermind the Dog](https://open.spotify.com/track/5Pi5gYpC4OhrW7byQgUMo0) | [Ways Away](https://open.spotify.com/artist/03qeBQwnTfKExVLq8dX000) | [Nevermind the Dog](https://open.spotify.com/album/1d48kZmZZHCSMfkS9GlsA9) | 2:44 | 2023-02-24 | 2023-05-20 |
-| [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 |  |
+| [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2023-02-24 | 2024-08-23 |
 | [New York Minute](https://open.spotify.com/track/0VGIgMEeo1S3yRXR39STbB) | [Missing Link](https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ) | [Watch Me Bleed](https://open.spotify.com/album/7IDAqL8ryhHr41J1SedRr7) | 2:08 | 2024-06-21 |  |
 | [No Convenient Apocalypse](https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv) | 3:13 | 2023-05-19 | 2024-01-31 |
 | [No Convenient Apocalypse](https://open.spotify.com/track/7osy7KUDA148K1RHAJOAp6) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/6NJyvBrjCvowrBQARVSlD9) | 3:13 | 2023-04-21 | 2023-05-24 |
@@ -278,6 +278,7 @@
 | [Watch You Burn](https://open.spotify.com/track/7594pRzG619BLW7yfMpkXA) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Watch You Burn](https://open.spotify.com/album/5jKlC0zbXWS7DbKCdf81gv) | 2:35 | 2023-02-24 | 2023-03-11 |
 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 | 2023-02-24 | 2024-08-10 |
 | [What You Sow](https://open.spotify.com/track/33nuEEW9RV5qj5iLE4eLZV) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Lavender](https://open.spotify.com/album/1KpGu5Pu9B3XlAW4Q9t9ho) | 1:31 | 2023-02-24 | 2023-04-22 |
+| [When I Meet God](https://open.spotify.com/track/141umV79cCzT8pVORA9ziF) | [Life's Question](https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq) | [Life's Question](https://open.spotify.com/album/5HNs6hNhWiPmQkG6UrGvCU) | 3:18 | 2024-08-22 |  |
 | [Where I'm From](https://open.spotify.com/track/2L03e7IgbVjttShHSSXiv4) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Where I'm From](https://open.spotify.com/album/4NqYpVo6K4eU4mi1g62p4m) | 2:20 | 2023-02-24 | 2023-08-12 |
 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 | 2023-02-24 | 2023-11-11 |
 | [White Boy Bummer](https://open.spotify.com/track/46fp5wi08omiQNvTfJHnQb) | [HIDE](https://open.spotify.com/artist/07CmRo9GSzu3y0pGClVkFC) | [Hardcore Music for Melanated Peoples and Other Sounds for the Mid to Lower Class Vol\. 2](https://open.spotify.com/album/7kEAKbISAu0gJgsK0Y9dXZ) | 1:42 | 2023-08-11 | 2024-05-06 |

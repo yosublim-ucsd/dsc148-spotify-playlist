@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan ",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Strat",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -138,6 +138,32 @@
       "duration_ms": 184666,
       "name": "AIORA",
       "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
+    },
+    {
+      "album": {
+        "name": "ALE",
+        "url": "https://open.spotify.com/album/65uAvBGzeb7dYE4IHXuSIM"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Big Ben",
+          "url": "https://open.spotify.com/artist/2PFQD1oR9BMXdRgiUbPlBy"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "ALE",
+      "url": "https://open.spotify.com/track/3z08xHO2BBjuYqoDXP6MId"
     },
     {
       "album": {
@@ -352,7 +378,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 138461,
       "name": "BABYGIRL",
       "url": "https://open.spotify.com/track/5hWhYAVQMmeyFkDZgvyTaf"
@@ -580,7 +606,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 190747,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/4VmcaW85AHwX6Jw1MTC50D"
@@ -768,7 +794,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 156105,
       "name": "DECCY",
       "url": "https://open.spotify.com/track/5elboKrTq1iz9fof0Bvfo2"
@@ -1279,6 +1305,32 @@
     },
     {
       "album": {
+        "name": "Hood Athletics",
+        "url": "https://open.spotify.com/album/3z13FS5mJrD2fTDjOYKU6k"
+      },
+      "artists": [
+        {
+          "name": "Nume",
+          "url": "https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Xjay",
+          "url": "https://open.spotify.com/artist/5KJRGPvZ4vizdn8Zm60ySN"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Hood Athletics",
+      "url": "https://open.spotify.com/track/6o2ZVmhKOTRusE9iIkZXOc"
+    },
+    {
+      "album": {
         "name": "Hotel California",
         "url": "https://open.spotify.com/album/4XshJnG1OCaUYbYuWlJCCB"
       },
@@ -1350,6 +1402,36 @@
       "duration_ms": 139226,
       "name": "Ijo",
       "url": "https://open.spotify.com/track/3mS1oUkI6MVNVFFp2gylwv"
+    },
+    {
+      "album": {
+        "name": "SUMMER VIBES",
+        "url": "https://open.spotify.com/album/1ugicj22TpnVazIyqQAFYh"
+      },
+      "artists": [
+        {
+          "name": "Sapranov",
+          "url": "https://open.spotify.com/artist/0ydmHwy5hFIaJEoZWWcKxC"
+        },
+        {
+          "name": "Musah",
+          "url": "https://open.spotify.com/artist/2AWgf4OSoExCcIuwIbZClh"
+        },
+        {
+          "name": "Steezynicco",
+          "url": "https://open.spotify.com/artist/7iLoU3knm1FDad2TYZwS6l"
+        },
+        {
+          "name": "GODSQUAD",
+          "url": "https://open.spotify.com/artist/3EnulEGWy54CdYiKAeqCF5"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150309,
+      "name": "ITSAMAZING!",
+      "url": "https://open.spotify.com/track/2vhkt8noHCVHAkkee2yl3e"
     },
     {
       "album": {
@@ -1836,7 +1918,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 174720,
       "name": "Me Tin Plati Ston Toixo",
       "url": "https://open.spotify.com/track/0rzDYlNTvKW8FMoqSJv1Lx"
@@ -2078,7 +2160,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 150666,
       "name": "OTAN ME KOITAS",
       "url": "https://open.spotify.com/track/575vAYRh3FlvxmUIuXV7Kk"
@@ -2126,7 +2208,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 153977,
       "name": "PA TY",
       "url": "https://open.spotify.com/track/5KAFVVP37eGo6pn9qUUlBC"
@@ -2346,7 +2428,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 142497,
       "name": "ROLLS ROYCE",
       "url": "https://open.spotify.com/track/30NGlJlriaraINBxFfxAsY"
@@ -2629,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "Thalassa Mou",
+        "url": "https://open.spotify.com/album/1hIU7tSjXqKmc5XrM23d45"
+      },
+      "artists": [
+        {
+          "name": "Long3",
+          "url": "https://open.spotify.com/artist/5EZmxPSk3RuSe9jda5RGxG"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Thalassa Mou",
+      "url": "https://open.spotify.com/track/0euDiCESIRjGllKuuZ6Opy"
+    },
+    {
+      "album": {
         "name": "Ti Amo",
         "url": "https://open.spotify.com/album/2OVXxevOPRm84b9Bx722sR"
       },
@@ -2743,6 +2847,32 @@
     },
     {
       "album": {
+        "name": "A.R.T.E.",
+        "url": "https://open.spotify.com/album/0jWVdAak4dUjrcy9Gwnvxt"
+      },
+      "artists": [
+        {
+          "name": "Gio Melody",
+          "url": "https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp"
+        },
+        {
+          "name": "Riskykidd",
+          "url": "https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2"
+        },
+        {
+          "name": "DJ.Silence",
+          "url": "https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "U/2",
+      "url": "https://open.spotify.com/track/4H1kdmHykpDLziS7kKHopG"
+    },
+    {
+      "album": {
         "name": "Fthina Tricks 2",
         "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
       },
@@ -2776,6 +2906,32 @@
       "duration_ms": 134400,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG"
+    },
+    {
+      "album": {
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas"
+      },
+      "artists": [
+        {
+          "name": "Kimi",
+          "url": "https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw"
+        },
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Ech\u03bf",
+          "url": "https://open.spotify.com/artist/3gJkEpmd7y2TsfAnyTGSTK"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195398,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY"
     },
     {
       "album": {
@@ -2838,10 +2994,32 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 127226,
       "name": "VRWMA",
       "url": "https://open.spotify.com/track/2iMfpIm7MricVhSOpFudxP"
+    },
+    {
+      "album": {
+        "name": "WESH POTO",
+        "url": "https://open.spotify.com/album/3VC8EBi1hm3KUlMsCBPhPS"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154545,
+      "name": "WESH POTO",
+      "url": "https://open.spotify.com/track/608Da9ZOerBhtedVOMCeAH"
     },
     {
       "album": {

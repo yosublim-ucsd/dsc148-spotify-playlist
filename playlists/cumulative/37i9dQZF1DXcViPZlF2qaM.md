@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-268 songs - 16 hr 52 min
+269 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [El Cuarto de Tula](https://open.spotify.com/track/5zin8iiYEO4UkSxuJl4wX5) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [El Cuarto de Tula](https://open.spotify.com/album/6DUStCCysG291DlT5mnaky) | 4:13 | 2021-10-16 | 2022-07-28 |
 | [El Dinero No Es La Vida](https://open.spotify.com/track/3bPtQGYZSIHehZiY2GEZLF) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [El Dinero No Es La Vida](https://open.spotify.com/album/5rA2XRAdJy0iu0vaSV8dCy) | 3:42 | 2021-10-16 | 2022-07-27 |
 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 | 2021-10-16 | 2022-07-29 |
+| [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-22 |  |
 | [El Sol De La Madruga \- Acústico](https://open.spotify.com/track/4qF8fVEtnkJ83yYee6DqIA) | [Yasser Tejeda](https://open.spotify.com/artist/1l3daUiuR5OVVeBoPBU0WE) | [El Sol De La Madruga \(Acústico\)](https://open.spotify.com/album/0bRt8FOR8UHK3TDXJ6pwVN) | 2:40 | 2021-10-16 | 2022-07-28 |
 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 | 2021-10-16 |  |
 | [En Cantos](https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En Cantos](https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl) | 3:32 | 2021-10-16 | 2024-06-13 |
@@ -270,7 +271,7 @@
 | [Voy Despacito](https://open.spotify.com/track/1v6edhOXV6SxEJzKYmUVp8) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Voy Despacito](https://open.spotify.com/album/3Gzwvs7BivlrMkNld3ywjS) | 4:19 | 2024-06-14 |  |
 | [Vuelo](https://open.spotify.com/track/6AWh1dE8DE4cHabBBNuMqm) | [Marinah](https://open.spotify.com/artist/7mqFFfs8tz9ZzeWzXJvz0a), [Rocío Márquez](https://open.spotify.com/artist/0s5dS3eWWnruwMMtgn7pgQ), [Nakany Kanté](https://open.spotify.com/artist/1sEm6zWze3zrjgLNIlByeq) | [Vuelo](https://open.spotify.com/album/1nlYi9SFCFh9Br73gvkQm2) | 4:17 | 2021-10-16 | 2022-07-29 |
 | [Vuelvo A Comenzar](https://open.spotify.com/track/5wUj9rEsOX8cqpkhBJCSCD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Cybertropic Chilango Power](https://open.spotify.com/album/5oZPMmTNAyvo2H0Yfav5en) | 4:37 | 2022-03-17 | 2022-07-28 |
-| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-16 |  |
+| [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 | 2021-10-16 | 2024-08-23 |
 | [Xochipilli, Liberen a Willy](https://open.spotify.com/track/3icf4m5oinOdNehNILg4LZ) | [Andy Mountains](https://open.spotify.com/artist/7ngrio7nmDW1gb3Na5Q1wj), [Geo Equihua](https://open.spotify.com/artist/4YDMCfgqZlhlrBpuoCPI5h), [Alexis Elipsis](https://open.spotify.com/artist/0mWmXt602MCkezreMWAuYv) | [Xochipilli, Liberen a Willy](https://open.spotify.com/album/3AZVvaLv1XttdbKEuf9dqR) | 5:54 | 2024-06-18 |  |
 | [Yin Yang](https://open.spotify.com/track/1oqpMRnWkrQ2sqUSAhsUaw) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Yin Yang](https://open.spotify.com/album/0fSGPH8R7mrquL3eK5Z8KM) | 2:34 | 2022-04-17 | 2022-07-29 |
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-02-18 |  |

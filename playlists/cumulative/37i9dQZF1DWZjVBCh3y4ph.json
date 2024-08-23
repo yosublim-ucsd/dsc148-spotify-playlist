@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk du moment. Photo : Fanny J",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 183089,
       "name": "Aye",
       "url": "https://open.spotify.com/track/0HRjNyAZvKYLhPIAA6AyIf"
@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Ma partition",
+        "url": "https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7"
+      },
+      "artists": [
+        {
+          "name": "Fanny J",
+          "url": "https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215774,
+      "name": "Ma partition",
+      "url": "https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat"
+    },
+    {
+      "album": {
         "name": "En Boucle (Deluxe)",
         "url": "https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 186279,
       "name": "Mon Ame - Gouyad Remix",
       "url": "https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv"
@@ -2480,6 +2498,28 @@
       "duration_ms": 169090,
       "name": "S\u00e9 Vou",
       "url": "https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Vou (Remix)",
+        "url": "https://open.spotify.com/album/3d6oY68bIXsBSF8cNrzWVE"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        },
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179949,
+      "name": "S\u00e9 Vou (Remix)",
+      "url": "https://open.spotify.com/track/2JY0yzqL7IFvNUTYusENR5"
     },
     {
       "album": {

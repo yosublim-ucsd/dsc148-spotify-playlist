@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Kelvin e Gustavo
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,271 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,280 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 11 | [Pra Desbotar a Saudade / Um Dia de Domingo \- Sem Edição, Ao Vivo](https://open.spotify.com/track/3Tto4rwHGb8Exa15XRHSDn) | [Mattão e Monteiro](https://open.spotify.com/artist/4fCsvWlGVsQTrqrJX3jc05) | [Pra Desbotar a Saudade / Um Dia de Domingo \(Sem Edição\)](https://open.spotify.com/album/3OJyLMqeKHvGGXBeryvUPE) | 4:17 |
 | 12 | [Biscoito \- Ao Vivo](https://open.spotify.com/track/7bwy2SMcHAf1nfy1C297Oj) | [Elis Justi](https://open.spotify.com/artist/6RyDipQUMxlpR31UPdnilt) | [Na Roça, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0jUJjystQDr4aepdogjKGC) | 2:59 |
 | 13 | [Superstição \- Ao Vivo](https://open.spotify.com/track/3vAb5nZ19Rt4iJMOKFZWPL) | [Tyago e Gabriel](https://open.spotify.com/artist/0kaUBrs0r3rulhBhjWtTlj) | [Superstição \- Ao Vivo](https://open.spotify.com/album/4XKv4Hi7younyduk3glikF) | 2:28 |
-| 14 | [Irracional](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
+| 14 | [Irracional \- Ao Vivo](https://open.spotify.com/track/5mPsTxFCrLnONgihzdJn7n) | [Gabi Suarez](https://open.spotify.com/artist/2S54NC7x1kcKyzL3PS699V) | [Diamante, Pt\. 2 \- Ao Vivo](https://open.spotify.com/album/4XH8lNZUhYEUZ6dXLjt9SY) | 3:10 |
 | 15 | [Sofredor \- Ao Vivo](https://open.spotify.com/track/77RvRNsebxFyEAujg1I0FP) | [Gah Bernardes](https://open.spotify.com/artist/7u8RGJqTNFz0AOP74ok20D) | [Sofredor \(Ao Vivo\)](https://open.spotify.com/album/0gyQrFuaKipCW8OcfiI3KV) | 2:36 |
 | 16 | [Playlist Aleatória](https://open.spotify.com/track/3dYTq032KmmGfaUbAmo4TI) | [Bartô e Regim](https://open.spotify.com/artist/53Whk1xcazooDClFEm1HxT) | [Vale A Pena Ouvir De Novo](https://open.spotify.com/album/695xQ80LXPK2SyhEyB4PDT) | 5:37 |
 | 17 | [Pingo de Esperança](https://open.spotify.com/track/27OEyWLSbRficjknvGpbvl) | [Larissa Mumar](https://open.spotify.com/artist/1ViQGv76KJwSfxnEW01lug), [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W) | [Pingo de Esperança](https://open.spotify.com/album/5bF3tPwPn2hs6XJzkdTk2z) | 2:43 |

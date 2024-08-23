@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar, Alex Fern\u00e1ndez",
-  "num_followers": 204158,
+  "num_followers": 204209,
   "original_name": "Mariachi 2024",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Pal Barrio",
-        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 185118,
-      "name": "Cuando Un Amor Se Va",
-      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "\u00a1Arr\u00e1nquense Muchachos!",
         "url": "https://open.spotify.com/album/3sBQgNTGwKqyuxyzw1VvTE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 231013,
       "name": "Como Ella",
       "url": "https://open.spotify.com/track/0FCahZioFe81Egnaof6v8n"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Pal Barrio",
+        "url": "https://open.spotify.com/album/46xNfM1aWM4aiBjzNKE2l0"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 185118,
+      "name": "Cuando Un Amor Se Va",
+      "url": "https://open.spotify.com/track/5HddAXF1qqPsUGjPWBjXkM"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Que Llueva Tequila",
-        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Hojas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 187848,
       "name": "Eran De Azucar Sus Labios",
       "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Que Llueva Tequila",
+        "url": "https://open.spotify.com/album/4AKhT9492HJiWyAALtkr6l"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Hojas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/3H4QNsxSfRoc42ooUWZllJ"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
-      },
-      "artists": [
-        {
-          "name": "Rafael Kelly",
-          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
-        }
-      ],
-      "duration_ms": 151555,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "En Tu Sonrisa",
         "url": "https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 181466,
       "name": "En Tu Sonrisa",
       "url": "https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4wiJhoRjHVd2OcoQTCvfMf"
+      },
+      "artists": [
+        {
+          "name": "Rafael Kelly",
+          "url": "https://open.spotify.com/artist/60D1b0MRQPmAL5TSV7e4PY"
+        }
+      ],
+      "duration_ms": 151555,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/56aRk2RiNCBtX7M2k0QZAL"
     }
   ],
   "unique_name": "Mariachi 2024",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Austin Millz &amp; Farruko
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 98,937 likes - 176 songs - 8 hr 49 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 98,935 likes - 176 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

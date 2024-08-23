@@ -1,12 +1,12 @@
 {
   "description": "the best in hardcore. open the pit w/ GEL",
-  "num_followers": 47765,
+  "num_followers": 47845,
   "original_name": "the Breakdown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAAd3ifZlyjyLHREORixSAqD",
+  "snapshot_id": "ZsdHbwAAAADe+GX9bdhOM1wGt+jHsEES",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 134224,
       "name": "THE FIRST TEST",
       "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Artillery From Heaven",
+        "url": "https://open.spotify.com/album/1Kuq7pIOyEIRSnTb7jQfl6"
+      },
+      "artists": [
+        {
+          "name": "Contention",
+          "url": "https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU"
+        },
+        {
+          "name": "Inclination",
+          "url": "https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe"
+        }
+      ],
+      "duration_ms": 144798,
+      "name": "Inflict My Will",
+      "url": "https://open.spotify.com/track/3lNHXhvY8AIfpIku5aAbNX"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -93,24 +113,20 @@
       "url": "https://open.spotify.com/track/6RJB07ZqQUOb08bnJYKAGv"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-22 14:13:03",
       "album": {
-        "name": "Dominant Predation",
-        "url": "https://open.spotify.com/album/0JfXWkLPzvf8cXfG9SpDUM"
+        "name": "Life's Question",
+        "url": "https://open.spotify.com/album/5HNs6hNhWiPmQkG6UrGvCU"
       },
       "artists": [
         {
-          "name": "Get The Shot",
-          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
-        },
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Life's Question",
+          "url": "https://open.spotify.com/artist/3m7JHlRsZs6jkvzWAnkyuq"
         }
       ],
-      "duration_ms": 321526,
-      "name": "Dominant Predation",
-      "url": "https://open.spotify.com/track/0vob2r6rIQQVT43h0ffInQ"
+      "duration_ms": 198211,
+      "name": "When I Meet God",
+      "url": "https://open.spotify.com/track/141umV79cCzT8pVORA9ziF"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -143,6 +159,26 @@
       "duration_ms": 171090,
       "name": "Blinding Faith",
       "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Life's Cold Grasp",
+        "url": "https://open.spotify.com/album/6Z51mOwW4iSIHrhNYZtkXx"
+      },
+      "artists": [
+        {
+          "name": "Domain",
+          "url": "https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk"
+        },
+        {
+          "name": "Indecision",
+          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
+        }
+      ],
+      "duration_ms": 153960,
+      "name": "Corrode",
+      "url": "https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -211,6 +247,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "CORPUS II EP I",
+        "url": "https://open.spotify.com/album/1ivwu21QVPJ0ns2BAHiF9I"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        },
+        {
+          "name": "Zulu",
+          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+        }
+      ],
+      "duration_ms": 144801,
+      "name": "Nation of Mind",
+      "url": "https://open.spotify.com/track/4YU0kQCJ4B514nNQKmiHwE"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Electrified Brain",
         "url": "https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS"
       },
@@ -259,18 +315,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "FREEDOM",
-        "url": "https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d"
+        "name": "Dominant Predation",
+        "url": "https://open.spotify.com/album/0JfXWkLPzvf8cXfG9SpDUM"
       },
       "artists": [
         {
-          "name": "Regional Justice Center",
-          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+          "name": "Get The Shot",
+          "url": "https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2"
+        },
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 71584,
-      "name": "FREEDOM",
-      "url": "https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm"
+      "duration_ms": 321526,
+      "name": "Dominant Predation",
+      "url": "https://open.spotify.com/track/0vob2r6rIQQVT43h0ffInQ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -311,26 +371,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Artillery From Heaven",
-        "url": "https://open.spotify.com/album/1Kuq7pIOyEIRSnTb7jQfl6"
-      },
-      "artists": [
-        {
-          "name": "Contention",
-          "url": "https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU"
-        },
-        {
-          "name": "Inclination",
-          "url": "https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe"
-        }
-      ],
-      "duration_ms": 144798,
-      "name": "Inflict My Will",
-      "url": "https://open.spotify.com/track/3lNHXhvY8AIfpIku5aAbNX"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "One Way Track",
         "url": "https://open.spotify.com/album/0cV9OMw0QzGrHDztTvRYU9"
       },
@@ -363,22 +403,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "CORPUS II EP I",
-        "url": "https://open.spotify.com/album/1ivwu21QVPJ0ns2BAHiF9I"
+        "name": "Watch Me Bleed",
+        "url": "https://open.spotify.com/album/7IDAqL8ryhHr41J1SedRr7"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        },
-        {
-          "name": "Zulu",
-          "url": "https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a"
+          "name": "Missing Link",
+          "url": "https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ"
         }
       ],
-      "duration_ms": 144801,
-      "name": "Nation of Mind",
-      "url": "https://open.spotify.com/track/4YU0kQCJ4B514nNQKmiHwE"
+      "duration_ms": 128826,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/0VGIgMEeo1S3yRXR39STbB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -395,6 +431,22 @@
       "duration_ms": 32741,
       "name": "Or So I Thought",
       "url": "https://open.spotify.com/track/0YfYMCgnraTxOXl8QLe2WJ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/1sSrTdfpu8BUmnKSH56T7d"
+      },
+      "artists": [
+        {
+          "name": "Regional Justice Center",
+          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+        }
+      ],
+      "duration_ms": 71584,
+      "name": "FREEDOM",
+      "url": "https://open.spotify.com/track/6zPwQlCf9LSihjJRNU4Xpm"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -543,22 +595,6 @@
       "duration_ms": 157217,
       "name": "If I Speak (Shut The Fuck Up)",
       "url": "https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Watch Me Bleed",
-        "url": "https://open.spotify.com/album/7IDAqL8ryhHr41J1SedRr7"
-      },
-      "artists": [
-        {
-          "name": "Missing Link",
-          "url": "https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ"
-        }
-      ],
-      "duration_ms": 128826,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/0VGIgMEeo1S3yRXR39STbB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -855,22 +891,6 @@
       "duration_ms": 161760,
       "name": "Nothin' But",
       "url": "https://open.spotify.com/track/1PpNOuHkaYAP9s9A0PR4ZV"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "New Lords",
-        "url": "https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz"
-      },
-      "artists": [
-        {
-          "name": "Mindforce",
-          "url": "https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei"
-        }
-      ],
-      "duration_ms": 76172,
-      "name": "New Lords",
-      "url": "https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1543,26 +1563,6 @@
       "duration_ms": 108779,
       "name": "Empty Nesting Doll",
       "url": "https://open.spotify.com/track/4F4htaoglwllmVrqa3w74K"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Life's Cold Grasp",
-        "url": "https://open.spotify.com/album/6Z51mOwW4iSIHrhNYZtkXx"
-      },
-      "artists": [
-        {
-          "name": "Domain",
-          "url": "https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk"
-        },
-        {
-          "name": "Indecision",
-          "url": "https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM"
-        }
-      ],
-      "duration_ms": 153960,
-      "name": "Corrode",
-      "url": "https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur"
     },
     {
       "added_at": "2024-08-16 04:00:00",

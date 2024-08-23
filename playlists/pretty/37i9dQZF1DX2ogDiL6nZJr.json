@@ -1,6 +1,6 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 799154,
+  "num_followers": 799268,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
+        "name": "Dusk",
+        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 171890,
+      "name": "Dusk",
+      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
         "name": "Arms of Who",
         "url": "https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 247226,
       "name": "Arms Of Who",
       "url": "https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
-        "name": "Dusk",
-        "url": "https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 171890,
-      "name": "Dusk",
-      "url": "https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS"
     },
     {
       "added_at": "2024-08-08 07:06:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-08 07:06:45",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Luke Sital-Singh",
-          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "California",
-      "url": "https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8"
-    },
-    {
-      "added_at": "2024-08-08 07:06:45",
-      "album": {
         "name": "BREACH",
         "url": "https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
+    },
+    {
+      "added_at": "2024-08-08 07:06:45",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "California",
+      "url": "https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8"
     },
     {
       "added_at": "2024-08-08 07:06:45",

@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu, Annural Khalid
+> Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-291 songs - 16 hr 24 min
+293 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Contra](https://open.spotify.com/track/5ZTxwfWEeeMK4Nq7XKajPk) | [Abdullah Shakil](https://open.spotify.com/artist/1ppsHhXbDL4YSNDOXx42HP) | [Contra](https://open.spotify.com/album/7m26jzqvgjXTdDJFyzwthW) | 4:24 | 2021-12-06 | 2022-03-05 |
 | [Conversation](https://open.spotify.com/track/0i7hmzHYai87aZzlKT7MhO) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Conversation](https://open.spotify.com/album/3prZv15Ked8l69SdPoEOw9) | 4:03 | 2023-11-02 | 2024-01-13 |
 | [Daira\-e\-ufuq](https://open.spotify.com/track/0gveIug9rm2W8D9b2g3TPj) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk), [Daud Ramay](https://open.spotify.com/artist/5vYqmhSAkPuDKbMehsoFYT) | [Daira\-e\-ufuq](https://open.spotify.com/album/6lLII5humCm7pY38qhd7RC) | 3:29 | 2021-12-06 | 2023-03-13 |
+| [Dil](https://open.spotify.com/track/217RKf20iJrFLvfCoZnLQt) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Dil](https://open.spotify.com/album/4xc9Jw6FDRtZVh5s9hQHMP) | 5:16 | 2024-08-22 |  |
 | [DIL](https://open.spotify.com/track/2K8Y8VO3HKRJYPVzwSjhWb) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [DIL](https://open.spotify.com/album/2LOj2BVeI7t31gmPoZrBBe) | 2:50 | 2023-07-14 | 2023-09-01 |
 | [Dil de Bol](https://open.spotify.com/track/7pnzuSzXn8QmiTjXHCi304) | [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Dil de Bol](https://open.spotify.com/album/73C1xLVTjBxIT89yzEAtHi) | 3:13 | 2022-11-30 |  |
 | [Dil Kay Isharay](https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Dil Kay Isharay](https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv) | 3:08 | 2021-12-06 |  |
@@ -220,6 +221,7 @@
 | [Roshni](https://open.spotify.com/track/3tFVhYNqkUVUbDH2H9KZtS) | [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Roshni](https://open.spotify.com/album/1wYUhTYNKkHSQRM3Gyb6Fb) | 3:53 | 2022-06-10 | 2022-09-15 |
 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 | 2021-12-06 |  |
 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 | 2021-12-06 |  |
+| [Saamnay](https://open.spotify.com/track/2A8b65AmkmmxWn2aefltbB) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saamnay](https://open.spotify.com/album/5OcSH00bOVFQj4XYdsFwnA) | 3:44 | 2024-08-22 |  |
 | [Saat Rangon Mein](https://open.spotify.com/track/6QmlG0NP7hU2Aq6asXx0oj) | [Dye Corduroy](https://open.spotify.com/artist/45SRQn4JFTAoxgJczUbM1n) | [Saat Rangon Mein](https://open.spotify.com/album/12RBh7BI8WXDTAsjXc1Vkd) | 4:25 | 2021-12-06 | 2022-01-29 |
 | [Saathiya](https://open.spotify.com/track/5CPc9T1gV30hT4qka88QUF) | [Muhammad Ali](https://open.spotify.com/artist/7ynQpUquGX363qUYC23U7x), [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg) | [Saathiya](https://open.spotify.com/album/1mVUIurPPekbnHs6OBDUEi) | 2:37 | 2024-06-21 | 2024-08-10 |
 | [Saaye](https://open.spotify.com/track/40H5kKnRnnzf31N5UiECJL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Saaye](https://open.spotify.com/album/0J3TKBNNYzrev70LxTKziX) | 3:32 | 2022-01-18 |  |

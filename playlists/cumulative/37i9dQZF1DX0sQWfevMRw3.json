@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 169309,
       "name": "Bara brudar",
       "url": "https://open.spotify.com/track/7AYv5Mn95cZm0JtGdQWRtm"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 123841,
       "name": "DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/4K6UD1eJnHx8GydkO9Rxbx"
@@ -7852,7 +7852,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 185660,
       "name": "F\u00d6RSTA BIRAN",
       "url": "https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs"
@@ -9184,7 +9184,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 104166,
       "name": "HAWK TUAH",
       "url": "https://open.spotify.com/track/4DqlZOS1lLY7YM7LzI0suS"
@@ -11532,7 +11532,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 151500,
       "name": "Jag \u00e4lskar alkohol",
       "url": "https://open.spotify.com/track/0830yuLKP9DW16lTLvxUg5"
@@ -11754,6 +11754,28 @@
       "duration_ms": 126967,
       "name": "Kalle Teodor",
       "url": "https://open.spotify.com/track/2gHJ9W1tnqD6W9KvqSGJg8"
+    },
+    {
+      "album": {
+        "name": "KALSARIK\u00c4NNIT",
+        "url": "https://open.spotify.com/album/2iswHxyt2jlkRokHWJMP1Z"
+      },
+      "artists": [
+        {
+          "name": "Pappa Paavo",
+          "url": "https://open.spotify.com/artist/3BKk31zMt1l4Dj7rhVYJe2"
+        },
+        {
+          "name": "DIREKT\u00d6REN",
+          "url": "https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139204,
+      "name": "KALSARIK\u00c4NNIT",
+      "url": "https://open.spotify.com/track/2gjeqWOa16peVRSoAOtXxB"
     },
     {
       "album": {
@@ -13518,7 +13540,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 131250,
       "name": "L\u00c4NGESEN",
       "url": "https://open.spotify.com/track/4Bt9Ep8u7DbBy9v1a32hnn"
@@ -16157,6 +16179,28 @@
     },
     {
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/4IGbqJswvaRqouCxEaUbN8"
+      },
+      "artists": [
+        {
+          "name": "BR0D3R",
+          "url": "https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow"
+        },
+        {
+          "name": "demz",
+          "url": "https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104827,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/3IDdIoyc1qnojBGCVrDKfN"
+    },
+    {
+      "album": {
         "name": "PSYKOLOGEN",
         "url": "https://open.spotify.com/album/0umhuO9pOIoETr9m1xDTdn"
       },
@@ -18025,6 +18069,24 @@
     },
     {
       "album": {
+        "name": "Salut - Sped Up Remix",
+        "url": "https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136412,
+      "name": "Salut - Sped Up Remix",
+      "url": "https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V"
+    },
+    {
+      "album": {
         "name": "Salut!",
         "url": "https://open.spotify.com/album/1Kjh3fgFL9isDOjsNZJnhI"
       },
@@ -19085,6 +19147,28 @@
     },
     {
       "album": {
+        "name": "Sk\u00e5l d\u00e5!",
+        "url": "https://open.spotify.com/album/1YDXfZdajinZBNWtbeH6jq"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        },
+        {
+          "name": "Black Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/50csVLuhJqEKhgy7grhKe7"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sk\u00e5l d\u00e5!",
+      "url": "https://open.spotify.com/track/4wkAs7z0MoWPfWcxo0e0PZ"
+    },
+    {
+      "album": {
         "name": "SLUT MED DIG",
         "url": "https://open.spotify.com/album/1bGWrWBNfkREIkhPP5LDAJ"
       },
@@ -19940,6 +20024,28 @@
       "duration_ms": 167544,
       "name": "Stackars Tomten",
       "url": "https://open.spotify.com/track/0lCRFJLVVl6fJaEmFvqnwW"
+    },
+    {
+      "album": {
+        "name": "STAD I LJUS",
+        "url": "https://open.spotify.com/album/46BMYtskic5x0EyIGb6uBW"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134883,
+      "name": "STAD I LJUS",
+      "url": "https://open.spotify.com/track/4EHf5UbCLV32VDlOADJhhP"
     },
     {
       "album": {
@@ -21572,6 +21678,28 @@
       "duration_ms": 184888,
       "name": "Technodad",
       "url": "https://open.spotify.com/track/7HLGPZ6zE4Ooxy0eMVtzfe"
+    },
+    {
+      "album": {
+        "name": "TEDDYBJ\u00d6RNEN FREDRIKSSON",
+        "url": "https://open.spotify.com/album/3OHMELWbzX7s76wFO4hVzi"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "250 kg k\u00e4rlek",
+          "url": "https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "TEDDYBJ\u00d6RNEN FREDRIKSSON",
+      "url": "https://open.spotify.com/track/3SaKQVz2hchooci2K9Pff5"
     },
     {
       "album": {

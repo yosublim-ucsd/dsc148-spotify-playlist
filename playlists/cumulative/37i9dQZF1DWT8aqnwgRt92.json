@@ -7141,6 +7141,28 @@
     },
     {
       "album": {
+        "name": "AKIRA REMIX",
+        "url": "https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B"
+      },
+      "artists": [
+        {
+          "name": "\u82b8\u80fd\u5c71\u57ce\u7d44",
+          "url": "https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx"
+        },
+        {
+          "name": "\u4e45\u4fdd\u7530\u9ebb\u7434",
+          "url": "https://open.spotify.com/artist/0YgNTrOUT8pFW7HehCR5mI"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "KANEDA [\u91d1\u7530] (Remixed by \u4e45\u4fdd\u7530\u9ebb\u7434)",
+      "url": "https://open.spotify.com/track/1C3MMuybGUcpDXckoKY5rx"
+    },
+    {
+      "album": {
         "name": "Kataomoi - From CrosSing",
         "url": "https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga"
       },
@@ -9432,7 +9454,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 288253,
       "name": "Never Break Down",
       "url": "https://open.spotify.com/track/2mA5njLWVILhWSTdqJY4oS"
@@ -10194,7 +10216,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 250626,
       "name": "only my railgun - from CrosSing",
       "url": "https://open.spotify.com/track/3Jlfo5tlxeJMWeG4ONmxdp"
@@ -14919,6 +14941,24 @@
     },
     {
       "album": {
+        "name": "Up Start",
+        "url": "https://open.spotify.com/album/67RlN71CFL7Mn8v2gjvrEW"
+      },
+      "artists": [
+        {
+          "name": "Amatsuki",
+          "url": "https://open.spotify.com/artist/5WbJGPIGG5oCaVgMsfXZgu"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208083,
+      "name": "Up Start",
+      "url": "https://open.spotify.com/track/4TiUFhCQxgE9C0xYjEqsKo"
+    },
+    {
+      "album": {
         "name": "Up Start (TVSize)",
         "url": "https://open.spotify.com/album/2wSiULOXrzC8IUxtEgD2xg"
       },
@@ -16378,7 +16418,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 198166,
       "name": "\u3042\u30fc\u30fc\u3063\u3059\uff01",
       "url": "https://open.spotify.com/track/2SoYeeAnVkdVMiz4ejCoS3"
@@ -23754,6 +23794,24 @@
       "duration_ms": 215000,
       "name": "\u591c\u660e\u3051\u306e\u30d0\u30b9\u505c",
       "url": "https://open.spotify.com/track/155LBRYos91aUEQ4cR1Xfd"
+    },
+    {
+      "album": {
+        "name": "\u5922\u3067\u9022\u3044\u307e\u3057\u3087\u3046",
+        "url": "https://open.spotify.com/album/2g4YaRLfFtjXZ5zlxFbSSr"
+      },
+      "artists": [
+        {
+          "name": "SARD UNDERGROUND",
+          "url": "https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285546,
+      "name": "\u5922\u3067\u9022\u3044\u307e\u3057\u3087\u3046",
+      "url": "https://open.spotify.com/track/2b5rhJHUMMb7Atcssah7Uu"
     },
     {
       "album": {

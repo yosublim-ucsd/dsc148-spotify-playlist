@@ -2,7 +2,7 @@
 
 ### [This Is Charles Ans](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39gY1y)
 
-> This is Charles Ans\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Charles Ans\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 58 min
 

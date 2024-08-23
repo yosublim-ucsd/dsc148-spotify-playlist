@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Tuğçe Kandemir
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Semicenk
 
 62 songs - 2 hr 58 min
 

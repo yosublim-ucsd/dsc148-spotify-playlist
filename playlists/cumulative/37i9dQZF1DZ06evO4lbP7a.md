@@ -2,7 +2,7 @@
 
 ### [This Is yama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lbP7a)
 
-> This is yama\. Todos os maiores hits em uma só playlist.
+> This Is yama\. Los temas esenciales, todos en una lista.
 
 66 songs - 4 hr 0 min
 

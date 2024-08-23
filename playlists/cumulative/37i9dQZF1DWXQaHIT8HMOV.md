@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan hits in one playlist\. Cover: Elijah Kitaka
+> Homegrown Ugandan hits in one playlist\. Cover: Lamu
 
-336 songs - 17 hr 22 min
+337 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Raha](https://open.spotify.com/track/2GJMYdqcS8uMRdUdwHJCY1) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 3:32 | 2022-09-22 | 2022-11-11 |
 | [RainFall](https://open.spotify.com/track/7JMR4ksKkxC0UhxfkKFFUP) | [HerbertSkillz](https://open.spotify.com/artist/30hteLyFTmiRraerHJBoba), [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j) | [RainFall](https://open.spotify.com/album/0cOqoc0T8yzsN4WbtDbCDK) | 3:29 | 2022-11-25 | 2023-02-28 |
 | [Remember](https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Remember](https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4) | 3:02 | 2023-12-08 | 2024-05-17 |
+| [Repeat](https://open.spotify.com/track/5DI8k7kN03Y5rSzZ0ZBb4p) | [Lamu](https://open.spotify.com/artist/5ygdLFNJNX7nuQbZKb26lS), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds) | [Infinity](https://open.spotify.com/album/5gx9uTUOVaXRaYXJjKHbJa) | 2:55 | 2024-08-22 |  |
 | [Repeat It](https://open.spotify.com/track/1RNuBijIYqiTiVntdLxmSI) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Lo Fit](https://open.spotify.com/album/2beijZRmK4W8jfLqjYzt1N) | 3:11 | 2024-03-15 | 2024-04-06 |
 | [Riding](https://open.spotify.com/track/5h2nyrTocI7DEyYlNqFfvm) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Flying Away](https://open.spotify.com/album/4j1AyvNomAzsaT9mi0VkNB) | 3:05 | 2024-05-31 | 2024-06-22 |
 | [Riri](https://open.spotify.com/track/3OgiA8uA9uRS5hSfUfctAo) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Riri](https://open.spotify.com/album/2txk6mLoIFVO2Bj3IJJqYn) | 3:35 | 2022-09-30 | 2023-02-27 |
@@ -296,7 +297,7 @@
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 | 2024-05-04 |
 | [Sweetheart](https://open.spotify.com/track/1cfSfMn58rP9OacGNxgUL8) | [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw) | [Sweetheart](https://open.spotify.com/album/1BFWzqIpLQa7jA7hjUtPcB) | 2:36 | 2024-03-15 | 2024-04-06 |
 | [Take It Slow](https://open.spotify.com/track/1v2zfd8CnREWjWPNGw4OAu) | [Vyper Ranking](https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Take It Slow](https://open.spotify.com/album/2yhV3nbToiz9PGVFlSRl7y) | 2:49 | 2024-03-15 | 2024-04-06 |
-| [Take My Love](https://open.spotify.com/track/476bgLwtOervN9Rrm8ThpY) | [KabiKabi](https://open.spotify.com/artist/5DrRCNTpS5z6OYS8BRg147) | [Take My Love](https://open.spotify.com/album/2Xd544b5tCF8tZGLL53Q4N) | 2:46 | 2024-06-07 |  |
+| [Take My Love](https://open.spotify.com/track/476bgLwtOervN9Rrm8ThpY) | [KabiKabi](https://open.spotify.com/artist/5DrRCNTpS5z6OYS8BRg147) | [Take My Love](https://open.spotify.com/album/2Xd544b5tCF8tZGLL53Q4N) | 2:46 | 2024-06-07 | 2024-08-23 |
 | [Take You](https://open.spotify.com/track/7xc148xFfMndltrNdx7mlv) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Same Story Riddim](https://open.spotify.com/album/3Itlyhw4rqZmtXDtbJA9CK) | 3:00 | 2023-02-11 | 2023-02-17 |
 | [Talk To Me](https://open.spotify.com/track/0PvibNWu1jtYdsjSzijZKq) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Junior Gentle](https://open.spotify.com/artist/06fZAn6YJGxLd0m47pyc4O) | [Talk To Me](https://open.spotify.com/album/7GaJ0U2ye3tAnSUGBCDuBT) | 2:49 | 2023-11-24 | 2024-05-10 |
 | [Tattoo](https://open.spotify.com/track/6Ncvi8lNXro9qVQWNlcWtI) | [Victor Ruz](https://open.spotify.com/artist/45nNcIJai3fFcxj6cl3oDZ), [Caspian Marvin](https://open.spotify.com/artist/0pNu0RMscQ1va8rWZVhpwU) | [Tattoo](https://open.spotify.com/album/05oZe7vp4Q4U1hsvpGLLmB) | 3:34 | 2023-07-28 | 2024-05-17 |

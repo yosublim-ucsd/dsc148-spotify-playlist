@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 573893,
+  "num_followers": 573876,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-07-17 09:16:12",
       "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
+    },
+    {
+      "added_at": "2024-07-17 09:16:12",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 259569,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx"
-    },
-    {
-      "added_at": "2024-07-17 09:16:12",
-      "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/6Xs7i3w3oTmK6j2cpry6sg"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/78CpG0pJFe6KC3JjuMeEQu"
     },
     {
       "added_at": "2024-07-17 09:16:12",

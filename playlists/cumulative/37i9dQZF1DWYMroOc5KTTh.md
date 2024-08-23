@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-533 songs - 1 day 11 hr 31 min
+534 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 |  |
 | [Paréo](https://open.spotify.com/track/0AbEPKqWLMEqxizkLZsiNq) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Paréo](https://open.spotify.com/album/4cOrkQ1SuL8wxcjXwqu34j) | 4:02 | 2022-04-15 | 2022-04-20 |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-01-14 | 2022-08-02 |
-| [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 | 2024-01-05 |  |
+| [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 | 2024-01-05 | 2024-08-23 |
 | [Peace Of Mind \- Virgil Abloh Remix with Fela Kuti](https://open.spotify.com/track/3hGW03fS5b2hXZmJfzvrF7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790) | [Peace Of Mind \(Virgil Abloh Remix with Fela Kuti\)](https://open.spotify.com/album/0etqmlQMODyhKWtFYCC94p) | 4:51 | 2022-04-06 | 2022-04-21 |
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-11 | 2023-07-28 |
 | [Permission](https://open.spotify.com/track/1RzmaHAmMHlx8dOCboqRd6) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Build Back Bangers](https://open.spotify.com/album/6XdXBJ2036aEwEyLq2g3gL) | 4:01 | 2022-01-14 | 2022-07-18 |
@@ -466,6 +466,7 @@
 | [Sun](https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Yellow](https://open.spotify.com/album/5DkIhSmABMcjjDh2TJ2Pu9) | 3:06 | 2021-12-03 | 2022-07-17 |
 | [Sun](https://open.spotify.com/track/56VSggvOwwJBhD3Oq6mtYs) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Sun](https://open.spotify.com/album/2V2Lo3gK80ZgqFunh85dbC) | 4:18 | 2022-04-06 | 2022-04-10 |
 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb) | 2:56 | 2021-12-03 | 2022-07-29 |
+| [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 | 2024-08-22 |  |
 | [Superego](https://open.spotify.com/track/6DhmNLoSSVCbfX8eVt1YUd) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Superego](https://open.spotify.com/album/1GRvxnJgorFobbSI5C60tz) | 3:51 | 2022-04-06 | 2022-04-11 |
 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 | 2023-10-06 | 2023-11-17 |
 | [Symphony Of You](https://open.spotify.com/track/5PRqcjk9zqIb5sKg1uHTdC) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [HER\-O](https://open.spotify.com/artist/0vhR4ixikG78qGRU7lJvHk), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [Chilled Classics](https://open.spotify.com/album/2EnbPs8E7YyQq8AW72BTdm) | 3:28 | 2022-04-06 | 2022-04-18 |

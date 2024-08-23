@@ -1417,6 +1417,32 @@
     },
     {
       "album": {
+        "name": "Con La Luna",
+        "url": "https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127582,
+      "name": "Con La Luna",
+      "url": "https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk"
+    },
+    {
+      "album": {
         "name": "Conga Mode EP",
         "url": "https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte"
       },
@@ -2084,7 +2110,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-23",
       "duration_ms": 163902,
       "name": "Dura",
       "url": "https://open.spotify.com/track/5PlKzMmkh1k7zIV9sCsiVZ"
